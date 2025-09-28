@@ -1,0 +1,865 @@
+---
+params:
+  id: 2011
+title: "PG Weekly Newsletter: Part 1 (2003-07-02)"
+date: 2003-07-02T22:34:18+00:00
+author: Michael Cook
+layout: post
+url: /20030702/pg-weekly-newsletter-2003-07-02-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>GWeekly_July_02.txt
+****The Project Gutenberg Weekly Newsletter For Wednesday, June 02, 2003***
+*****eBooks Readable By Both Humans and Computers For Nearly 32 Years******
+
+
+          Project Gutenberg Is 32 Years Old On July 4th!!!
+
+          We Need 89 More In The Next Week To Reach 8500!!!
+
+
+Founder's Comments On Project Gutenberg's 32nd Anniversary:
+
+Here were are, at what should be our last anniversary before #10,000, and
+if we average just 74 eBooks per week for this week and next week, we are
+going to reach 8,500 eBooks on July 9th. . .that would be 266 per year!!!
+
+            This year we are averaging 278 per MONTH!!!
+
+In another year or two, with your help, we will be averaging 100 per week
+and will be talking about completing our SECOND 10,000 books!!!
+
+This is SUCH a milestone as it took from 1971 to 1993 to get to the 100th
+Project Gutenberg eBook, The Complete Works Of Shakespeare. . .22 years
+after we posted our 1st eBook in 1971:  The US Declaration of Independence.
+
+In just 5 more months, on the 10th Anniversary of our 100th eBook, we hope
+to present our 10,000th eBook:  The Magna Carta in several languages.
+
+Then I'm hoping only 2 more years to #20,000. . . .
+
+***
+
+Last year we did 2441
+
+This year perhaps 3333
+
+Next year perhaps 4444
+
+Then, hopefully, 5555
+
+***
+
+8500 TONS of Books. . . !!!
+
+Harry Potter's 500 million volumes in print would weigh 8500 tons, at
+3 1/3 pounds each, plus a fraction for shipping containers. . . .
+
+Only 2,000 people would have to download each of the Project Gutenberg
+books and print them out for an equal weight!!!
+
+***
+
+"Whether electricity will ever rival steam, remains yet to be proved;
+we may be on the threshold of great things. The premature enthusiasm
+has subsided, and we enter upon the road of steady progress."
+Scientific American Supplement March 29, 1884  [More Below On This]
+
+Hmmm, sounds just like the current debate about eBooks versus paper.
+
+Funny, the debate about computer versus typewriter didn't take long.
+
+***
+
+Well, enough dreaming. . .On With The Show!!!
+
+
+           My HUGE Thanks To All Our Supporters!!!!!!!
+
+
+Michael
+
+***
+
+CONGRATULATIONS to John Mark Ockerbloom and The Online Books Page
+http://onlinebooks.library.upenn.edu/
+who have just included their 20,000th eBook in their online catalogue!!!
+
+4,000 of these are from the Celebration of Women Writers!!!!!!
+
+We are hoping 1% of our first 10,000 eBooks will be from these sources!!!
+
+***
+
+        Only 5 Months/23 Weeks Until eBook #10,000 I Hope!!!
+
+        8411 Books Done. . .1589 To Go. . .in 160 More Days!
+
+        That's ONE More Per Day Than We Have Been Averaging!
+
+        Thus We Need One More Editor Who Can Polish 1-A-Day!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 Year History, We Have Now Averaged About 200 Ebooks/Year
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+         1668 New eBooks So Far In The 6 Months Of 2003
+
+
+             We Are Averaging About 278 Per Month!!!
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Hot Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Give Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+     1 New From PG Australia [Australian, Canadian Copyright Etc.]
+    58 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** PG Headline News ***
+
+From Juliet Sutherland:
+
+Project Gutenberg has just posted its first issue of the Scientific
+American Supplement (SAS), which is just the start of many yet to come.
+In the time period 1870-1922 Scientific American (SA) was a weekly
+periodical. It was joined in 1876 by the Supplement which was also
+published weekly. They were, in their prime, the premiere American
+science periodicals, covering a wide range of topics that included
+the physical and social sciences, medicine, architecture and design,
+agriculture, and all kinds of engineering and manufacturing. . . .
+
+As far as I know, these publications, from this time frame (1870-1922),
+are not available in any digital form so PG will be providing a very unique
+resource. The issues are being proofed through DP, with the basic unit of
+proofing being one column. Come help us make these available to everyone!
+
+
+*** Hot Requests For Assistance
+
+Latin Is A Dying Language???
+Latin Library (www.thelatinlibrary.com) died,
+and was resurrected recently, bring attention
+to the fact that we need to save these files,
+find matching paper editions, and be sure the
+files don't disappear.
+
+If you would like to help with Latin eBooks,
+please let me know.
+
+**
+
+Can we do the Book of Kings in Farsi?
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to only ONE DVD burner, on a laptop
+belonging to a personal friend.  If you have a DVD burner
+or plan to get one in the next 6 months, please email me,
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November while
+you would download the last month's/weeks' releases.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+We are seeking pro bono or very cheap legal assistance to pursue
+Project Gutenberg trademark infringers and similar issues.  Please
+email Michael Hart &lt;hart@pobox.com&gt;.
+
+[We received 3 replies from the US, 1 from Australia, but
+may need more around December 10.]
+
+
+*** NEW ADDRESS FOR "PUNCH" MAGAZINE TEAM
+
+If you have, and are willing to scan bound volumes of Punch
+pre-1923 please contanct as below. No single issues, please,
+unless you have a complete year of them.
+Please contact:  jonathan_ingram@yahoo.com
+
+
+*** Progress Report
+
+    In the first 6 months of this year, we produced 1668 new eBooks.
+
+     It took us from 1971 to 1998 to produce our first 1,668 eBooks!
+
+                 That's 26 WEEKS as Compared to 28 Years!
+
+                   59   New eBooks This Week
+                   52   New eBooks Last Week
+                  263   New eBooks This Month [June]
+
+                  278   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 1668   New eBooks in 2003  &lt;&lt;&lt;
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                8,411   Total Project Gutenberg eBooks
+                5,508   eBooks This Week Last Year
+                2,874   New eBooks In The Last 12 Months
+
+                4,076   New eBooks in the last 18 months  &lt;&lt;&lt;
+
+                  242   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 52 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1668 New eBooks So Far in 2003
+
+              It took us 28 years for the first 1668!
+
+        That's the 26 WEEKS of 2003 as Compared to 28 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1668
+
+
+Apr 1999 Story Of Waitstill Baxter, by Kate D. Wiggin [#10][tsowbxxx.xxx]1701
+
+Apr 1999 Life of Charlotte Bronte, V2, by E. C. Gaskell[#2][2locbxxx.xxx]1700
+Apr 1999 The Vanished Messenger by E. Phillips Oppenheim #4[vmsgrxxx.xxx]1699
+Apr 1999 The Survivors of the Chancellor, by Jules Verne #9[tsotcxxa.xxx]1698
+(Note:  This is from a different source than our previous edition.)
+Apr 1999 Madam How and Lady Why, by Charles Kingsley[CK #7][hwwhyxxx.xxx]1697
+
+Apr 1999 The Club of Queer Trades, by G. K. Chesterton/GKC8[tcoqtxxx.xxx]1696
+Apr 1999 The Man Who Was Thursday, by G. K. Chesterton/GKC7[tmwhtxxx.xxx]1695
+Apr 1999 Our Legal Heritage, by S. A. Reilly               [rlglhxxx.xxx]1694C
+Apr 1999 Dangerous Days, by Mary Roberts Rinehart [MRR #8] [ddaysxxx.xxx]1693
+
+
+Mar 1999 1492, by Mary Johnston [For Columbus Day, 1998]   [c1492xxx.xxx]1692
+(This eBook was being posted on October 12, 1998, Columbus Day, US
+(We were several months ahead of schedule, so it appeared as March.)
+
+Mar 1999 I Have A Dream, Martin Luther King, Jr.           [dreamxxx.xxx]1691
+(We originally did this on Martin Luther King Day, a few years ago, but
+(waited until all the court cases were completed before posting.  [Note
+inside eBook.]  Since then, the courts have reversed themselves, this is
+the ONLY work that has been withdrawn from Project Gutenberg in 32 years]
+
+Mar 1999 Marie, by H. Rider Haggard   [H. Rider Haggard #4][mariexxx.xxx]1690
+.(Note:  the filename mariexxx.xxx is also used for a totally different
+.(eBook, #3451 in etext02)
+Mar 1999 The Pivot of Civilization, By Margaret Sanger     [pvcvlxxx.xxx]1689
+
+Mar 1999 The People of the Abyss, by Jack London[London#70][tpotaxxx.xxx]1688
+Mar 1999 Parmenides, by Plato [More Socrates]    Plato #24][prmdsxxx.xxx]1687
+Mar 1999 The Secret of the Night, by Gaston Leroux  [GL #3][tsotnxxx.xxx]1686
+Mar 1999 Mystery of the Yellow Room, by Gaston Leroux[GL#2][ylormxxx.xxx]1685
+(Contains ASCII diagrams, best with non-proportional fonts.)
+
+Mar 1999 The Egoist, by George Meredith[George Meredith #6][egostxxx.xxx]1684
+Mar 1999 Honorine, by Honore de Balzac[Honore de Balzac#59][hnrnexxx.xxx]1683
+Mar 1999 Menexenus, by Plato [Yet More Socrates] [Plato#23][mnxnsxxx.xxx]1682
+Mar 1999 Eryxias, not by Plato  [More Socrates]  [Plato#22][ryxisxxx.xxx]1681
+
+Mar 1999 At the Sign of the Cat & Racket, by Balzac[Hdb#58][ctrktxxx.xxx]1680
+Mar 1999 Hiram The Young Farmer, by Burbank L. Todd        [hrmyfxxx.xxx]1679
+Mar 1999 An Historical Mystery, by Honore de Balzac[HdB#57][hmystxxx.xxx]1678
+Mar 1999 Alcibiades II, not Plato [More Socrates][Plato#21][2lcbdxxx.xxx]1677
+
+Mar 1999 Alcibiades I, by Plato? [More Socrates] [Plato#20][1lcbdxxx.xxx]1676
+Mar 1999 New Forces in Old China, by Arthur Judson Brown   [ldchnxxx.xxx]1675
+.(Note:  the filename ldchnxxx.xxx is also used for a totally different
+.(eBook, #3313 in etext02)
+Mar 1999 The Narrative of Sojourner Truth    [Slavery]     [sjrnrxxx.xxx]1674
+Mar 1999 Lesser Hippias, by [?]Plato[More Socrates]Plato19][lhppsxxx.xxx]1673
+
+Mar 1999 Gorgias, by Plato [A Socratic Dialog]  [Plato #18][grgisxxx.xxx]1672
+Mar 1999 When a Man Marries, by Mary Roberts Rinehart  [#7][whammxxx.xxx]1671
+Mar 1999 Martin Luther's Small Catechism, Trns. by R. Smith[smlctxxx.xxx]1670
+
+Mar 1999 The Human Drift, by Jack London[Jack London#62-69][hmndrxxx.xxx]1669
+Mar 1999 Death of the Laird's Jock, by Walter Scott [WS #8][tpschxxx.xxx]1668
+  Also Contains:  The Tapestried Chamber, by Walter Scott [WS #7]
+(Note:  two tales from The Keepsake Stories]
+Mar 1999 My Aunt Margaret's Mirror, by Walter Scott [WS #6][mamsmxxx.xxx]1667
+(Note:  from The Keepsake Stories)
+Mar 1999 The Golden Asse, by Lucius Apuleius "Africanus"   [gldnsxxx.xxx]1666
+Mar 1999 Derrick Vaughan--Novelist, by Edna Lyall          [dvnvlxxx.xxx]1665
+
+Mar 1999 Songs for Parents, by John Farrar                 [sfparxxx.xxx]1664
+Mar 1999 Webster's March 7th Speech/Secession, by HD Foster[wsm7sxxx.xxx]1663
+Mar 1999 The 1997 CIA World Factbook[CIA Factbook #7][No#6][world97x.xxx]1662
+Mar 1999 The Adventures of Sherlock Holmes, by Doyle  [#15][advshxxx.xxx]1661
+[Contains A Variety Of Stories]
+
+Mar 1999 Scenes from a Courtesan's Life, by Balzac[HdB #56][sfaclxxx.xxx]1660
+Mar 1999 The Girl with the Golden Eyes, by Balzac [HdB #55][gwtgixxx.xxx]1659
+Mar 1999 Phaedo, by Plato [AKA"The Death of Socrates 3"]#17[phadoxxx.xxx]1658
+Mar 1999 Crito, by Plato  [AKA"The Death of Socrates 2"]#16[critoxxx.xxx]1657
+
+Feb 1999 Apology, by Plato[AKA"The Death of Socrates 1"]#15[pplgyxxx.xxx]1656
+
+
+***
+
+Today Is Day #188 of 2003
+This Completes Week #26
+181 Days/27 Weeks To Go
+1589 Books To Go To #10,000
+160 Days To December 10, 2003
+[Our Goal For eBook #10,000]
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #61 Of Our SECOND 5,000 eBooks
+
+   64   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+"Visit http://ibiblio.org/gutenberg
+for a link to the study.
+It only takes a few minutes."
+
+or
+
+Contact Debbie Dvorniks directly:
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by proofreading just a few pages per day.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned)." Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 26 weeks of this year, we have produced 1668 new eBooks.
+It took us from 1971 to 1998 to produce our FIRST 1668 eBooks!!!
+
+         That's 26 WEEKS as Compared to 28 YEARS!!!
+
+
+With 8,411 eBooks online as of July 02, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.19 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $1.82 when we had 5508 eBooks A Year Ago
+
+Can you imagine 8,000+ books each costing $.63 less a year later???
+Or. . .would this say it better?
+Can you imagine 8,000+ books each costing 1/3 less a year later???
+
+At 8411 eBooks in ~32 Years and 00.00 Months We Averaged
+    263 Per Year   [About how many we do per month these days!]
+     22 Per Month
+     .7 Per Day
+
+At 1668 eBooks Done In 2003 We Averaged
+      9 Per Day
+     62 Per Week
+    278 Per Month
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003 at noon.
+
+
+***Headline News***
+
+[Editor's Comments In Brackets]
+
+From Newsscan
+
+CONSUMER-LINUX
+Does the Linux operating system have a future? Eight major consumer
+electronics companies think so: Hitachi, Mitsubishi, NEC, Philips, Samsung,
+Sharp, Sony and Toshiba have forged a new alliance called CE Linux Forum,
+or CLEF, and IBM has expressed interest in joining the group as well. The
+goals of the alliance include numerous extensions for Linux to make it a
+more effective platform for consumer devices. (Information Week 1 Jul 2003)
+http://www.informationweek.com/story/showArticle.jhtml?articleID=10817852
+
+LISTEN.COM REPORTS 100% INCREASE IN CD BURNING
+Listen.com says the number of CDs burned by subscribers to its Rhapsody
+online music service has nearly doubled since it dropped its price from 99
+cents to 79 cents per song. RealNetworks acquired Listen.com in April for
+$36 million and reduced the per-track fee in late May, sparking a
+significant increase in the number of subscribers and corresponding growth
+in music downloads. Rhapsody is considered to be one of the easiest-to-use
+music subscription services. (Reuters 1 Jul 2003)
+http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=581&e=5&u=/nm/20030701
+/tc_nm/media_rhapsody_dc
+
+PENTAGON EYES URBAN SURVEILLANCE SYSTEM
+The Defense Advanced Research Projects Agency is developing an urban
+surveillance system dubbed "Combat Zones That See" (CTS), which is designed
+to track and analyze the movement of every vehicle in a city. The
+centerpiece of the system is proposed software that would be capable of
+identifying vehicles by size, color, shape and license tag, and would issue
+instant alerts when a vehicle on a watchlist was detected. The CTS
+technology could also be used to comb through months of data to locate and
+compare vehicles spotted near terrorist attack sites. Although the military
+has emphasized that it plans to use CTS in hostile foreign cities, critics
+are concerned that such technology could be deployed domestically for
+nonmilitary use. "One can easily foresee pressure to adopt a similar
+approach to crime-ridden areas of American cities or to the Bowl or any
+other site where crowds gather," says Steven Aftergood of the Federation of
+American Scientists. (AP 2 Jul 2003)
+http://apnews.excite.com/article/20030702/D7S173M00.html
+
+INTEL LOSES IN COURT CASE: SPAMMING ISN'T TRESPASS
+In a case that rose to the California Supreme Court for review, Intel
+argued that Kenneth Hamidi, a disgruntled ex-employee who had sent large
+numbers of e-mail messages to current Intel employees was misappropriating
+Intel's computer resources and thereby guilty of "trespass to chattels,"
+which allows someone to sue for the inappropriate use of personal property.
+But the court rejected Intel's position, and ruled in a 4-3 decision that
+the doctrine of trespass to chattels did not apply, because the
+ex-employee's e-mail messages did not damage the company's computers and
+did not impose a significant cost on the company. The decision is seen as a
+set-back in the fight against unsolicited commercial e-mail, or "spam,"
+which Internet service providers have said was a burden on their computers.
+William M. McSwain, one of Hamidi's attorneys, said of the ruling: "Spam
+needs a legislative approach. And Congress and half the state legislatures
+are hard at work finding one. What spam doesn't need is to have the courts
+create a new tort doctrine in a way that has unintended consequences." The
+court, said McSwain, reaffirmed the principle "that an unsolicited message,
+sent by a business or an individual, is not presumptively a trespass simply
+because the recipient doesn't want to receive the message."
+(New York Times 1 Jul 2003)
+http://partners.nytimes.com/2003/07/01/technology/01SPAM.html
+
+JAPANESE MAGAZINE GROUP TARGETS 'DIGITAL SHOPLIFTING'
+Japanese bookstores are readying a public relations assault on so-called
+"digital shoplifting" by cell phone users who snap photos of magazine ads
+showing a new hairstyle or flashy clothing and send them to their friends
+for instant feedback. The Japanese Magazine Publishers Association has
+branded the practice "information theft" and says its members are being
+cheated out of valuable sales. In response, the group has teamed up with
+Japan's phone companies to launch a national campaign warning shoppers to
+mind their "magazine manners." (BBC 30 Jun 2003)
+http://news.bbc.co.uk/1/hi/world/asia-pacific/3031716.stm
+
+BILL WOULD MANDATE NOTIFICATION OF PERSONAL DATA HACKS
+Legislation introduced by Sen. Dianne Feinstein (D-Calif.) would require
+businesses and government agencies to notify consumers when hackers break
+into corporate computer systems and steal their personal data, such as
+social security numbers and credit card information. The stipulations of
+the bill are in direct conflict with efforts by the Bush administration to
+keep such details hidden from the public, in the hope that hacking victims
+will notify the FBI and other government agencies when such incidents
+occur. The FBI director and some top U.S. prosecutors told technology
+executives recently that they will increasingly work to keep the secret the
+names of companies that fall victim to major hacking attacks. Consumer
+groups praised Feinstein's proposed legislation: "It's a really important
+step forward," said Chris Hoofnagle, deputy counsel at the Electronic Privacy
+Information Center. "Individuals do not have this right to notice now."
+(AP/CNN.com 30 Jun 2003)
+http://www.cnn.com/2003/TECH/biztech/06/30/hacker.bill.ap/index.html
+
+IS YOUR PRIVACY INVADED BY THE 'BLACK BOX' IN YOUR CAR?
+A recent survey found that most people are unaware that many later-model
+automobiles are equipped with "black box" recording devices (called "data
+event recorders") which are capable not only of triggering the release of
+accident airbags but also of recording driving data (such as speed of the
+car) in the last few seconds before a crash. Such information is
+increasingly being used as evidence in criminal and civil cases related to
+the accident, as part of "normal reconstruction" of what happened. But
+civil libertarians are balking. Defense attorney Bob Weiner calls the black
+boxes "a tremendous invasion of privacy," and David Sobel, general counsel
+for the Electronic Privacy Information Center, say: "The real issue is one
+of notice, and the problem arises from the fact that information is being
+collected about people's driving behavior without them knowing. If drivers
+knew about the device, they could at least then begin asking questions."
+(USA Today 29 Jun 2003)
+http://www.usatoday.com/tech/news/techpolicy/2003-06-27-black-boxes_x.htm
+
+GOOGLE TOOLBAR EXTENDS FEATURES
+Search engine Google is extending the features of its tool bar to include
+automatic blocking of pop-up ads, automatic filling out of Internet forms,
+and help for users wanting to maintain personal diaries or "blogs" (Web
+logs). The toolbars may be used for online searching without requiring the
+user to go to the Google Web site. (AP/San Jose Mercury News 27 Jun 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6184497.htm
+
+IRAQI INTERNET USERS 'WANT EVERYING FAST'
+During the three decades of Saddam Hussein's rule, Iraqis were denied the
+use of free e-mail and live chat, but now things are quite different. Iraqi
+citizen Firas Behnam explains: "This is a new sense of freedom for us. We
+are not in a very secure society yet, but at least we can say whatever we
+like." And Web site administrator Yaser Hassan says: "Some Web sites are
+still closed, but if you let us know, we will reopen them. The users here
+want everything fast. They complain loudly when they see 'access denied,'
+even though they did not complain for 30 years."
+(San Jose Mercury News 26 Jun 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6166288.htm
+
+SOME LIBRARIES OPT FOR NO FILTERS, NO FEDERAL FUNDING
+Many San Francisco Bay Area libraries remain opposed to installing
+Internet filters, despite Monday's Supreme Court ruling that ties some
+federal funding to installing filters. Some librarians questions the
+efficacy of filters, noting that often they do not successfully block
+X-rated content but can block access to age-appropriate medical and
+sexual information. The portion of funding that some libraries receive
+from the federal government is relatively small, and many libraries
+wish to avoid the cost and hassle of installing filters and to continue
+to offer patrons access to all information. Susan Gallinger, director
+of the Livermore Public Library, said, "We just don't feel we as
+librarians need to be in the position of telling people what they
+should read, see, or hear." Bay Area libraries are pursuing different
+approaches to protecting children from inappropriate content, from
+installing filters that block pornographic Web sites in the children's
+reading section but not in the adult area to issuing "smart cards" to
+children with Internet access authorized by their parents.
+San Jose Mercury News, 24 June 2003
+http://www.siliconvalley.com/mld/siliconvalley/news/local/6158188.htm
+
+FILTER REQUIREMENT RAISES QUESTIONS ABOUT BLOCKED-SITE LISTS
+Now that public libraries must install Internet filters or risk losing
+federal funds, companies that make filters may be forced to soften
+their position of not revealing what sites they block, according to
+Judith Krug, director of the American Library Association's (ALA)
+Office for Intellectual Freedom. Krug said the ALA will encourage its
+members to choose only those filters whose makers agree to disclose
+their lists of blocked sites. Net Nanny, which does allow users to view
+and update its list of blocked sites, hopes to take advantage of the
+situation Krug described and have its software installed in many
+libraries. David Burt of N2H2, which keeps its list secret, said his
+company has invested millions of dollars in developing its list and
+believes keeping it private will not be a consideration for libraries
+newly installing filters. Of the institutions that have already
+installed N2H2 filters, Burt said, none has requested to see the list.
+Wall Street Journal, 24 June 2003 (sub. req'd)
+http://online.wsj.com/article/0,,SB105649238011074300,00.html
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+CHIP SALES CONTINUE TO RISE
+A new report from the Semiconductor Industry Association (SIA) shows
+continued growth in the sales of computer chips. Sales in May of this
+year were two percent higher than in April and 10 percent higher than
+in May of last year. Chip sales rose in most parts of the world,
+including Japan (26 percent year over year), the Asia-Pacific region
+(11.7 percent), and Europe (9.3 percent). Sales in the Americas,
+however, declined 6.7 percent, a drop blamed on continued outsourcing
+of electronic equipment production to Asia. The SIA recently predicted
+growth in chip sales of 10.1 percent for 2003, followed by increases of
+16.8 percent, 5.8 percent, and 7 percent for the next three years. Strength
+in the chip market is attributed to factors including increased stability
+after the war in Iraq ended and the apparent end of the outbreak of SARS.
+CNET, 30 June 2003
+http://news.com.com/2100-1006_3-1022134.html
+
+FEDERAL DO-NOT-CALL LIST OPEN FOR BUSINESS
+The federal do-not-call list went into operation this week, taking
+phone numbers from citizens who want not to be called by telemarketers.
+Similar to do-not-call lists in many states, the federal list will be
+made available to telemarketers, for a fee. Companies found to have
+called numbers on the list face fines of up to $11,000 per call.
+Exceptions are made for politicians, nonprofit groups, those conducting
+surveys, and companies with whom the person being called has an
+existing business relationship. The phone numbers on some of the state
+do-not-call lists automatically transferred to the federal list. People
+in states whose lists do not transfer will have to add their numbers
+separately to the federal list. The list is administered by both the
+Federal Trade Commission and the Federal Communications Commission, a
+combination that covers some wide loopholes in early plans for the list.
+Wall Street Journal, 27 June 2003 (sub. req'd)
+
+MICHIGAN PURSUES DO-NOT-SPAM LIST
+The Michigan Senate has passed an antispam bill that would create a
+do-not-e-mail list, similar to do-not-call lists and lists--maintained
+by some marketing organizations--of individuals who do not want to
+receive promotional mailings. Marketers would be required to consult
+the list and remove the names that appear on the list from any mass
+e-mailing. Under the proposed Michigan law, violators could face
+criminal penalties, including imprisonment, as well as civil penalties
+of as much as $250,000 per day that spam is sent. Observers noted that
+an opt-out list of e-mail addresses would be an extremely tempting
+target for spammers outside the jurisdiction of Michigan. To address
+that concern, one company said it has developed a one-way encryption
+system that allows marketers to check their lists against the opt-out
+list but not to discern the addresses in an unencrypted form.
+CNET, 25 June 2003
+http://news.com.com/2100-1028_3-1021169.html
+
+BILL WOULD DISALLOW COPYRIGHT FOR FEDERALLY FUNDED RESEARCH
+A bill introduced in the U.S. House of Representatives would prevent
+researchers from claiming copyright protections for published work that
+received "substantial" federal funding. No definition is given for
+"substantial" in the bill. Martin Olav Sabo (D-Minn.) introduced the
+bill in an effort to guarantee public access to research for "all who
+may benefit from it--especially when they've already paid for it with
+their tax dollars." The Public Library of Science, an organization that
+is planning to introduce two free, online scientific journals, supports
+the proposed legislation. Opponents said the law is unnecessary because
+a large portion of academic work is already available online. Peter D.
+Farnham of the American Society for Biochemistry and Molecular Biology
+said Sabo's bill would conflict with the Bayh-Dole Act, passed in
+1980, which allows researchers to claim intellectual property rights on
+their work, even if funded by federal money.
+Chronicle of Higher Education, 27 June 2003 (sub. req'd)
+http://chronicle.com/daily/2003/06/2003062702n.htm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_07_02_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_07_02_part_1.txt</a>

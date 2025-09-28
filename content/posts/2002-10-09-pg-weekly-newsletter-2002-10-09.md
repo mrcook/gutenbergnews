@@ -1,0 +1,574 @@
+---
+params:
+  id: 1923
+title: PG Weekly Newsletter (2002-10-09)
+date: 2002-10-09T12:16:27+00:00
+author: Michael Cook
+layout: post
+url: /20021009/pg-weekly-newsletter-2002-10-09/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Wed Oct 09 19:21:49 2002
+Return-path: &lt;bounce-gweekly-1355623@listserv.unc.edu&gt;
+Date: Wed, 09 Oct 2002 11:50:45 -0400 (EDT)
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+Sender: bounce-gweekly-1355623@listserv.unc.edu
+To: Project Gutenberg Weekly Newsletter &lt;gweekly@listserv.unc.edu&gt;
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=iso-8859-1
+Content-transfer-encoding: 8BIT
+X-Message-Id: &lt;Pine.GSO.4.44.0210091150120.15729-100000@beryl&gt;
+List-Owner: &lt;mailto:owner-gweekly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gweekly@listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+
+PGWeekly_October_09.txt
+
+*The Project Gutenberg Weekly Newsletter For Wednesday, October 09, 2002*
+******eBooks Readable By Both Humans and Computers For Over 31 Years*****
+
+
+                   42   New eBooks This Week
+                   51   New eBooks Last Week
+                  238   New eBooks This Month [Sep]
+                 1816   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 6108   Total Project Gutenberg eBooks
+                  109   eBooks From Project Gutenberg of Australia
+
+
+  ***The 12th Week Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+               It took us 28 years for the first 1,808!!!
+
+     That's the first 40 WEEKS of 2002 as Compared to 28 YEARS!!!
+
+Jul 1999 A Man of Business, by Honore de Balzac[Balzac #70][mnbusxxx.xxx]1813
+Jul 1999 A Prince of Bohemia, by Honore de Balzac [HdB #69][prbhmxxx.xxx]1812
+Jul 1999 Massimilla Doni, by Honore de Balzac[de Balzac#68][msmdnxxx.xxx]1811
+Jul 1999 A Second Home, by Honore de Balzac [de Balzac #67][2ndhmxxx.xxx]1810
+Jul 1999 Bucky O'Connor, by William MacLeod Raine[Raine #2][bkcnrxxx.xxx]1809
+Jul 1999 The Log of the Jolly Polly, by R H Davis[Davis#20][jlplyxxx.xxx]1808
+Jul 1999 The Lost House, by Richard Harding Davis[Davis#19][lsthsxxx.xxx]1807
+Jul 1999 The Frame Up, by Richard Harding Davis [Davis #18][frmupxxx.xxx]1806
+Jul 1999 The Gentle Grafter, by O. Henry       [O Henry #6][grftrxxx.xxx]1805
+Jul 1999 War and the Future, by H. G. Wells[H.G. Wells #18][wrftrxxx.xxx]1804
+Jul 1999 Wyoming, Story of Outdoor West, by William M Raine[wymngxxx.xxx]1803
+
+
+Today Is The 276th Day of 2002
+90 Days/12 Weeks Left Until 2003
+[Our production year begins the
+2nd Wednesday of the month/year]
+
+This the 25th Week Of Our SECOND 5,000 eBooks
+
+15 Months From Today, Perhaps Our 10,000th eBook!
+
+2,133   New eBooks In The Last 12 Months
+3,975   eBooks This Week Last Year
+6,108   Tree-Friendly Titles Now Online
+
+   45   Weekly Average This Year
+   22   New This Week Last Year
+  196   Monthly Average This Year!!!
+   42   New This Month [9th month of 2002]
+  748   New At This Time Last Year
+ 1816   New eBooks In 2002
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Last Year It Was Well Over 100]
+
+***
+
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Newest Mirror
+- Requests For Assistance
+- Personal Request
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+    1 New From PG Australia
+   41 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Please try the latest PG mirror:
+
+In Denmark:  http://gutenberg.kkb.bib.dk
+At the Municipal Libraries of Copenhagen
+
+***
+
+Requests For Assistance:
+
+PROJECT GUTENBERG IS SEEKING PRODUCTION COORDINATORS
+
+Do you like working with different file formats and character sets,
+have skills with text editors, know a little Unix?  Can you handle
+receiving large file attachments by email?  Do you have a passion for
+making Project Gutenberg's eBooks look as good as possible, from
+receiving a file from a volunteer through uploading and announcing it
+to the world?
+
+If so, please email gbnewby@ils.unc.edu or hart@pobox.com.  We are
+currently seeking one or more new Production Coordinators, who work
+for at least 5-10 hours per week to format, edit and upload Project
+Gutenberg's eBooks.  This is tough work, but highly rewarding and varied.
+
+***
+
+We also have a Balzac short story from Droll Stories. . .in French,
+that needs proofing.
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+We need some help with Balzac in French:
+
+Title: Les Contes Drtlatiques
+Subtitle: Les joyeulsetez du Roy Loys le unziesme
+[Sorry, French gets mangles by my emailer]
+Author: Honore de Balzac
+Language: French
+Character set encoding: ISO8859-1
+
+***
+
+We are seeking a physical copy of the book RUR in Czech by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+I have some copyright research for McNees, but no email address.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+
+RESERVED count:   39
+
+TOTAL COUNT ***Last Week***:            6,066 (incl. 108 Aus.)
++42 New This Week
+
+TOTAL COUNT ***as of Wed 10/09/02***:   6,108 (incl. 109 Aus.)
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following eBooks have been re-posted in new XHTML format:
+Apr 1997 The Duchess of Padua, by Oscar Wilde  [Wilde #9]  [dpduaxxx.xxx] 875
+Apr 1997 A House of Pomegranates, by Oscar Wilde [Wilde #8][hpomgxxx.xxx] 873
+Mar 1997 The Black Arrow, by Robert Louis Stevenson [RLS37][blckaxxx.xxx] 848
+Mar 1997 The Gray Brethren, by Michael Fairless [Barber] #3[grybrxxx.xxx] 835
+Feb 1997 Speeches: Literary & Social by Charles Dickens[20][dslasxxx.xxx] 824
+Feb 1997 A Sentimental Journey, by Laurence Sterne         [senjrxxx.xxx] 804
+Jan 1997 Ballads Lyrics and Poems of Old France, by Lang #6[blpofxxx.xxx] 795
+
+
+The following eBook is being re-indexed to reflect the correct title:
+Jun 2004 The Story of a Calico Clown,Laura Lee Hope[Hope#8][clownxxx.xxx]5845
+
+
+We have posted the following in an improved 12th edition, as well as in
+new formats as indicated:
+Jul 1996 Vanity Fair, by William Thackeray [Thackeray #1]  [vfairxxx.xxx] 599
+(Plain text in vfair12 .txt and .zip, HTML in vfair12h .htm and .zip)
+
+
+***] 1 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Oct 2002 Swan Song, by John Galsworthy              [JG#03][020075xx.xxx]0109A
+[http://gutenberg.net.au/ebooks02/0200751.txt or .ZIP]
+[http://gutenberg.net.au/ebooks02/0200751h.html]
+[Third Book in the Trilogy "A Modern Comedy". 2nd part the Forsyte Chronicles]
+
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 41 NEW U.S. POSTS [***
+
+
+Aug 2004 Seats Of The Mighty,   by Parker, Complete [GP#56][gp56wxxx.xxx]6229
+[Title: The Seats Of The Mighty, The Memoirs of Captain Robert Moray]
+[Author: Gilbert Parker][Contains:EBooks #6224-6228]
+Aug 2004 Seats Of The Mighty,     by G. Parker, v5  [GP#55][gp55wxxx.xxx]6228
+Aug 2004 Seats Of The Mighty,     by G. Parker, v4  [GP#54][gp54wxxx.xxx]6227
+Aug 2004 Seats Of The Mighty,     by G. Parker, v3  [GP#53][gp53wxxx.xxx]6226
+
+Aug 2004 Seats Of The Mighty,     by G. Parker, v2  [GP#52][gp52wxxx.xxx]6225
+Aug 2004 Seats Of The Mighty,     by G. Parker, v1  [GP#51][gp51wxxx.xxx]6224
+
+
+*Please note the above are from our 6200 series, the below are from the 5900s*
+
+
+Jun 2004 Our Nervous Friends, by Robert S. Carroll         [rnvrfxxx.xxx]5994
+Jun 2004 Walter Sherwood's Probation, by Horatio Alger[#22][wltspxxx.xxx]5993
+Jun 2004 Station Amusements, by Lady Barker                [stnmsxxx.xxx]5992
+Jun 2004 The Solitary Summer, by Elizabeth von Arnim       [sltsmxxx.xxx]5991
+
+Jun 2004 Rosamond, by Mary J. Holmes                   [#3][rosmdxxx.xxx]5990
+Jun 2004 The Curlytops on Star Island, by H. R. Garis  [#4][crlstxxx.xxx]5989
+Jun 2004 Old French Romances, by William Morris  [Morris#13][ofrrxxx.xxx]5988
+[XHTML in ofrr10h.htm/.zip, text in ofrr10.txt/.zip]
+   Contains:
+     King Coustans the Emperor
+     Amis and Amile
+     King Florus and the Fair Jehane
+     History of Over Sea
+Jun 2004 In Kedar's Tents, Henry Seton Merriman [Merriman#2][kdrtxxx.xxx]5987
+[XHTML in kdrt10h.htm/.zip, text in kdrt10.txt/.zip]
+Jun 2004 Clara Hopgood, by Mark Rutherford    [Rutherford#3][chpgxxx.xxx]5986
+[XHTML in chpg10h.zip/.htm, text in chpg10.zip/.txt]
+
+Jun 2004 Zadig, by Voltaire Tr. J. Marchena   [Voltaire#13][zadigxxa.xxx]5985
+[Language: Spanish. Character set: ISO-8859-1.]
+(See also:
+(Nov 2003 Zadig, by Voltaire, Romans vol. 1 [Voltaire #3][zadigxxx.xxx]4647)
+(in French)
+Jun 2004 The British North America Act, 1867, Anon.        [tbnaaxxx.xxx]5984
+Jun 2004 The Institutes of Justinian, J.B. Moyle, Trans.   [ijustxxx.xxx]5983
+Jun 2004 Eeldrop and Appleplex, by T.S. Eliot     [Eliot#4][eelapxxx.xxx]5982
+[Author AKA: Thomas Stearns Eliot]
+Jun 2004 The Boy Scouts in Front of Warsaw, G. Durston [#2][bswswxxx.xxx]5981
+[Author's Full Name: Colonel George Durston]
+
+Jun 2004 Kent Knowles: Quahaug, by Joseph C. Lincoln  [#12][kkquaxxx.xxx]5980
+Jun 2004 Japan, by Lafcadio Hearn                 [Hearn#3][japanxxx.xxx]5979
+[Full title: Japan: An Attempt at Interpretation]
+Jun 2004 Autobiography of Anthony Trollope, A. Trollope[40][?autoxxx.xxx]5978
+[Author's Full Name: Anthony Trollope]
+[7-bit version with non-accented characters in 7auto10.txt and 7auto10.zip]
+[8-bit version with accented characters in 8auto10.txt and 8auto10.zip]
+Jun 2004 Bound to Rise, by Horatio Alger         [Alger#21][bndtrxxx.xxx]5977
+[Subtitle: Or, Up the Ladder]
+Jun 2004 Thomas Wingfold, Curate, by George MacDonald [#25][?twccxxx.xxx]5976
+[7-bit version with non-accented characters in 7twcc10.txt and 7twcc10.zip]
+[8-bit version with accented characters in 8twcc10.txt and 8twcc10.zip]
+
+
+Jun 2004 Thomas Wingfold, Curate V3, George MacDonald [#24][twcv3xxx.xxx]5975
+Jun 2004 Thomas Wingfold, Curate V2, George MacDonald [#23][twcv2xxx.xxx]5974
+Jun 2004 Thomas Wingfold, Curate V1, George MacDonald [#22][?twc1xxx.xxx]5973
+[7-bit version with non-accented characters in 7twc110.txt and 7tw110.zip]
+[8-bit version with accented characters in 8twc110.txt and 8twc110.zip]
+
+
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v30 [#33][qx30wxxx.xxx]5933
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v29 [#32][qx29wxxx.xxx]5932
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v28 [#31][qx28wxxx.xxx]5931
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v27 [#30][qx27wxxx.xxx]5930
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v26 [#29][qx26wxxx.xxx]5929
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v25 [#28][qx25wxxx.xxx]5928
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v24 [#27][qx24wxxx.xxx]5927
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v23 [#26][qx23wxxx.xxx]5926
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v22 [#25][qx22wxxx.xxx]5925
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v21 [#24][qx21wxxx.xxx]5924
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v20 [#23][qx20wxxx.xxx]5923
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v19 [#22][qx19wxxx.xxx]5922
+[Title: The History of Don Quixote][Author: Miguel de Cervantes Saavedra]]
+[Translated by John Ormsby][Illustrated by Gustave Dore]]
+[HTML only available in ZIP format]
+
+Jun 2004 Don Quixote, Cervantes/Dore, Part I, Entire  [#21][qxp1wxxx.xxx]5921
+[Title: The History of Don Quixote][Author: Miguel de Cervantes Saavedra]]
+[Translated by John Ormsby][Illustrated by Gustave Dore]
+[Includes #5903-5920][27mb][HTML only available in ZIP format]
+
+***
+
+       Total PG ebooks available online **AS OF 10/02/02**:  6,108
+(This number includes the 109 etexts posted at the PG Australia web site)
+
+***
+
+Statistical Review
+
+In the first 40 weeks of this year, we have produced 1,816 new eBooks.
+Note: it took us from 1971 to 1998 to produce our *FIRST* 1,816 eBooks!!!
+
+             That's 40 WEEKS as Compared to 28 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 6,108 eTexts online as of October 2, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.64 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from $2.52 when we had 3896 Etexts A Year Ago
+
+Can you imagine 6,000 books each costing $.88 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6108 eBooks in 31 Years We Averaged
+    197 Per Year   [This is how many we do per month these days!]
+     16 Per Month
+     .5 Per Day
+
+At 1808 eBooks Done In 2002 We Averaged
+      6.4 eBooks Per Day
+     45 eBooks Per Week
+    202 eBooks Per Month
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+Headlines From Newsscan
+
+[Warning, this model has no light and no cradle.  Uses USB cable & charger.
+Takes 3 hours to charge with charger, 9 hours with mini-USB cable.
+It took me dozens of search hits to find one that mentioned the RAM and CPU
+. . .probably because these are not very hot selling points. . .2M RAM with
+no way to add more. . .16Mhz CPU. . .unlike most current PDAs, which have
+16M RAM and 66Mhz CPUs.  Also missing are two of the normal four buttons,
+so you'll have problems with software that presumes you have four buttons.
+You can still get the discontinued Visor Edge for $149, with 8M RAM, light,
+cradle, four buttons, charges much more quickly. . .I seem to recall that
+it rarely takes over half an hour, unless the batteries are totally drained.]
+
+
+PALM WILL OFFER A HANDHELD FOR $99
+Staking out a position in the low end of the handheld computer market, Palm
+is offering an entry-level device for $99. Called the Palm Zire, it's made
+in China for less than $80. Industry analyst Tim Bajarin of the Creative
+Strategies consulting firm says Palm's low-end strategy has a pretty good
+chance of succeeding: "Palm should have this part of the market to
+themselves for actually quite a while. It's pretty much a win-win for Palm,
+for Palm software partners, for Palm after-market partners." Sony and
+Handspring, the No. 2 and No. 3 handheld manufacturers, also use the Palm
+operating system, are focused on the higher end of the market, and the
+companies that license Microsoft Pocket PC software usually charge $300 or
+more for their products. (San Jose Mercury News 6 Oct 2002)
+http://www.siliconvalley.com/mld/siliconvalley/4228227.htm
+
+
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+Headlines From Edupage:
+
+INITIAL MIT COURSEWORK GOES ONLINE
+This week MIT began placing courseware online as part of its
+OpenCourseWare project (http://ocw.mit.edu/). MIT opted not to develop
+a for-profit learning initiative, as some other colleges and
+universities have, choosing instead to make its courseware open to the
+public online. MIT plans to put lecture notes, assignments, syllabi,
+tutorials, video simulations, and reading lists from over 2,000 courses
+on the site over the next ten years, though no credit will be offered
+for those who complete the assignments. Questions remain about
+technology tools for the site and intellectual property issues, but a
+representative of the program said that so far the response has been
+overwhelmingly positive. Critics said the offerings so far are limited
+and that merely posting such resources online does not substitute for
+an education at MIT. Officials from OpenCourseWare agreed that the
+experience of learning at MIT is not replicated by the program, but
+they hope that it will serve as a model for other institutions to
+disseminate their own resources.
+Wired News, 4 October 2002
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_10_09.txt" target="_blank" rel="nofollow">pgweekly_2002_10_09.txt</a>

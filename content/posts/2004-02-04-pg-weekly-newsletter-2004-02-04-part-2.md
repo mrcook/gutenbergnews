@@ -1,0 +1,1272 @@
+---
+params:
+  id: 2113
+title: "PG Weekly Newsletter: Part 2 (2004-02-04)"
+date: 2004-02-04T14:51:32+00:00
+author: Michael Cook
+layout: post
+url: /20040204/pg-weekly-newsletter-2004-02-04-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter February 5, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 86 New U.S. eBooks this week
+  - 1 New eBooks at PG Australia
+  - Last, but not least
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).
+
+And please note:  you can now obtain a listing by language at the above
+link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 02 Feb 2004:  11,219 (incl. 328 Aus.).
+
+Last week the Total Count was 11,134, including 327 at PG of Australia.
+This week we added 86 new (incl. 1 at PG of Australia); however, we have
+removed one, resulting in an increase of only ??.
+
+RESERVED/PENDING count:   41 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Please note the following changes, corrections and improvements:
+
+The following eBook was a duplicate of another posting (#10731), so it
+has been removed and the eBook number has been re-used (see "New" postings
+below):
+The Art of Controversy, by Arthur Schopenhauer                           10817
+  [Subtitle: And Other Posthumous Papers]
+  [Tr.:  T. Bailey Saunders]
+
+The following is being re-indexed to add translator information:
+Chantecler, by Edmond Rostand                                            10747
+  [Subtitle: Play in Four Acts]
+  [Translator: Gertrude Hall]
+
+
+We have posted an improved 11th edition of:
+Oct 2002 Science and Health/Key to The Scriptures, by Eddy [shktsxxx.xxx] 3458
+
+We have re-posted the following in new format as indicated:
+The Power and the Glory, by Grace MacGowan Cooke                         10068
+  [Illustrated HTML in 10068-h.htm]
+Sep 2004 History of Modern Europe 1792-1878, bu C. A. Fyffe[8hsmdxxx.xxx] 6589
+  [HTML in 8hsmd10h.htm/.zip]
+
+
+
+-=-=-=-=[ 85 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Girl Aviators' Motor Butterfly, by Margaret Burnham                  10936
+  [Link: http://www.gutenberg.net/1/0/9/3/10936 ]
+  [Files: 10936.txt; 10936-8.txt; 10936-h.htm]
+
+The Wonderful Adventures of Nils, by Selma Lagerloef                     10935
+  [Translated from the Swedish by Velma Swanston Howard]
+  [Link: http://www.gutenberg.net/1/0/9/3/10935 ]
+  [Files: 10935.txt; 10935-8.txt]
+
+Punchinello, Vol. II. No. 39, Saturday, December 24, 1870, by Various    10934
+  [Link: http://www.gutenberg.net/1/0/9/3/10934 ]
+  [Files: 10934.txt; 10934-8.txt; 10934-h.htm]
+
+Punchinello, Vol. II. No. 38, Saturday, December 17, 1870, by Various    10933
+  [Link: http://www.gutenberg.net/1/0/9/3/10933 ]
+  [Files: 10933.txt; 10933-8.txt; 10933-h.htm]
+
+Over the Pass, by Frederick Palmer                                       10932
+  [Link: http://www.gutenberg.net/1/0/9/3/10932 ]
+  [Files: 10932.txt; 10932-8.txt]
+
+The Lullaby, With Original Engravings, by John R. Bolles                 10931
+  [Link: http://www.gutenberg.net/1/0/9/3/10931 ]
+  [Files: 10931.txt; 10931-h.htm]
+
+The Buccaneer Farmer, by Harold Bindloss                                 10930
+  [Published In England Under The Title "Askew's Victory"]
+  [Link: http://www.gutenberg.net/1/0/9/3/10930 ]
+  [Files: 10930.txt; 10930-8.txt]
+
+The Dog Crusoe and His Master, by Robert Michael Ballantyne              10929
+  [Subtitle: A Story of Adventure in the Western Prairies]
+  [Link: http://www.gutenberg.net/1/0/9/2/10929 ]
+  [Files: 10929.txt; 10929-8.txt; 10929-h.htm]
+
+Bengal Dacoits and Tigers, by Maharanee Sunity Devee                     10928
+  [Link: http://www.gutenberg.net/1/0/9/2/10928 ]
+  [Files: 10928.txt; 10928-8.txt]
+
+Tulitikkuja lainaamassa, by Maiju Lassila                                10927
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/0/9/2/10927 ]
+  [Files: 10927-8.txt]
+
+Saxe Holm's Stories, by Helen Hunt Jackson                               10926
+  [Contents:
+     Draxy Miller's Dowry
+     The Elder's Wife
+     Whose Wife Was She?
+     The One-Legged Dancers
+     How One Woman Kept Her Husband
+     Esther Wynn's Love-Letters]
+  [Link: http://www.gutenberg.net/1/0/9/2/10926 ]
+  [Files: 10926.txt; 10926-8.txt; 10926-h.htm]
+
+A Collection Of Old English Plays, Vol. IV., Edited by A.H. Bullen       10925
+  [Contents:
+    Two Tragedies in One. By Robert Yarington
+    The Captives, or the Lost Recovered. By Thomas Heywood
+    The Costlie Whore.
+    Everie Woman in her Humor.]
+  [Link: http://www.gutenberg.net/1/0/9/2/10925 ]
+  [Files: 10925.txt; 10925-8.txt]
+
+The Lands of the Saracen, by Bayard Taylor                               10924
+  [Subtitle: Pictures of Palestine, Asia Minor, Sicily, and Spain]
+  [Link: http://www.gutenberg.net/1/0/9/2/10924 ]
+  [Files: 10924.txt; 10924-8.txt; 10924-h.htm]
+
+Punch, or the London Charivari, Vol. 153, Aug 29, 1917, by Various       10923
+  [Editor: Owen Seamen]
+  [Link: http://www.gutenberg.net/1/0/9/2/10923 ]
+  [Files: 10923.txt; 10923.zip; 10923-8.txt; 10923-8.zip; 10923-h.htm;
+   10923-h.zip ]
+
+Young Lives, by Richard Le Gallienne                                     10922
+  [Link: http://www.gutenberg.net/1/0/9/2/10922 ]
+  [Files: 10922.txt; 10922-8.txt; 10922-h.htm]
+
+World's Greatest Books, Vol IV., Editors: Arthur Mee and J.A. Hammerton  10921
+  [Link: http://www.gutenberg.net/1/0/9/2/10921 ]
+  [Files: 10921.txt; 10921-8.txt; 10921-h.htm]
+
+Two Years Ago, Volume I, by Charles Kinglsey                             10920
+  [Link: http://www.gutenberg.net/1/0/9/2/10920 ]
+  [Files: 10920.txt; 10920-8.txt]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10919
+  [Subtitle: Section 1 (of 3) of Volume 2: James Monroe]
+  [Full author: James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/9/1/10919 ]
+  [Files: 10919.txt; 10919-8.txt; 10919-h.htm]
+
+The Log of a Noncombatant, by Horace Green                               10918
+  [Link: http://www.gutenberg.net/1/0/9/1/10918 ]
+  [Files: 10918.txt (plus an images file)]
+
+Die Familie Pfaffling, by Agnes Sapper                                   10917
+  [Subtitle: Eine deutsche Wintergeschichte]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/9/1/10917 ]
+  [Files: 10917.txt; 10917.zip; 10917-8.txt; 10917-8.zip; ]
+
+Parent and Child Vol. III., Child Study and Training, by Mosiah Hall     10916
+  [Link: http://www.gutenberg.net/1/0/9/1/10916 ]
+  [Files: 10916.txt]
+
+The Girl's Cabinet of Instructive and Moral Stories, by Uncle Philip     10915
+  [Publisher: Philip J. Cozans]
+  [Link: http://www.gutenberg.net/1/0/9/1/10915 ]
+  [Files: 10915.txt; 10915.zip; 10915-h.htm; 10915-h.zip; ]
+
+Die Brueder Wright, by Alfred Hildebrandt                                10914
+  [Subtitle: Eine Studie ueber die Entwicklung der Flugmaschine von
+   Lilienthal bis Wright]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/9/1/10914 ]
+  [Files: 10914.txt; 10914.zip; 10914-8.txt; 10914-8.zip; 10914-h.htm;
+   10914-h.zip; ]
+
+English Poems, by Richard Le Gallienne                                   10913
+  [Link: http://www.gutenberg.net/1/0/9/1/10913 ]
+  [Files: 10913.txt; 10913-8.txt]
+
+The Infant's Delight: Poetry, by Anonymous                               10912
+  [Link: http://www.gutenberg.net/1/0/9/1/10912 ]
+  [Files: 10912.txt; 10912-h.htm]
+
+Buried Alive: A Tale of These Days, by Arnold Bennett                    10911
+  [Link: http://www.gutenberg.net/1/0/9/1/10911 ]
+  [Files: 10911.txt; 10911-8.txt; 10911-h.htm]
+
+Robert Louis Stevenson, an Elegy; And Other Poems, Richard Le Gallienne  10910
+  [Link: http://www.gutenberg.net/1/0/9/1/10910 ]
+  [Files: 10910.txt; 10910-8.txt]
+
+Los Amantes de Teruel, by Hartzenbusch, Juan Eugenio                     10909
+  [Subtitle: Drama en cuatro actos en verso y prosa]
+  [With Introduction, Notes, And Vocabulary By G.W. Umphrey]
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/0/9/0/10909 ]
+  [Files: 10909.txt; 10909-8.txt]
+
+Manual for Infantry, by War Department                                   10908
+  [Full title: Manual for Noncommissioned Officers and Privates of
+   Infantry of the Army of the United States, 1917]
+  [Subtitle: To be used by Engineer companies (dismounted) and Coast
+   Artillery companies for Infantry instruction and training]
+  [Link: http://www.gutenberg.net/1/0/9/0/10908 ]
+  [Files: 10908.txt; 10908-8.txt]
+
+The History of Rome; Books Nine to Twenty-Six, by Titus Livius           10907
+  [Subtitle: Literally Translated, with Notes and Illustrations, by D.
+   Spillan and Cyrus Edmonds]
+  (Note: Vol. 2 of 4 of Spillan's translation of Livy's History)
+  [Link: http://www.gutenberg.net/1/0/9/0/10907 ]
+  [Files: 10907.txt; 10907.zip; 10907-8.txt; 10907-8.zip; 10907-h.htm;
+   10907-h.zip; ]
+
+Quinze Jours en Egypte, by Fernand Neuray                                10906
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/0/9/0/10906 ]
+  [Files: 10906.txt; 10906-8.txt]
+
+Phantom Fortune, A Novel, by M. E. Braddon                               10905
+  [Link: http://www.gutenberg.net/1/0/9/0/10905 ]
+  [Files: 10905.txt; 10905-8.txt; 10905-h.htm]
+
+Frank Merriwell's Nobility, by Burt L. Standish (AKA Gilbert Patten)     10904
+  [Subtitle: The Tragedy of the Ocean Tramp]
+  [Link: http://www.gutenberg.net/1/0/9/0/10904 ]
+  [Files: 10904.txt; 10904-h.htm]
+
+Punch, or the London Charivari, Vol. 153, Oct. 17, 1917, by Various      10903
+  [Editor: Owen Seamen]
+  [Link: http://www.gutenberg.net/1/0/9/0/10903 ]
+  [Files: 10903.txt; 10903.zip; 10903-8.txt; 10903-8.zip; 10903-h.htm;
+   10903-h.zip; ]
+
+Big and Little Sisters, by Theodora R. Jenness                           10902
+  [Link: http://www.gutenberg.net/1/0/9/0/10902 ]
+  [Files: 10902.txt]
+
+Three Young Knights, by Annie Hamilton Donnell                           10901
+  [Link: http://www.gutenberg.net/1/0/9/0/10901 ]
+  [Files: 10901.txt]
+
+The Bible, King James Version                                            10900
+  [Link: http://www.gutenberg.net/1/0/9/0/10900 ]
+  [Files: 10900-h.htm]
+
+Olivia in India, by O. Douglas (AKA Anna Buchan)                         10899
+  [Link: http://www.gutenberg.net/1/0/8/9/10899 ]
+  [Files: 10899.txt; 10899-8.txt]
+
+American Scenes, and Christian Slavery, by Ebenezer Davies               10898
+  [Subtitle: A Recent Tour of Four Thousand Miles in the United States]
+  [Link: http://www.gutenberg.net/1/0/8/9/10898 ]
+  [Files: 10898.txt; 10898-8.txt]
+
+The Wendigo, by Algernon Blackwood                                       10897
+  [Link: http://www.gutenberg.net/1/0/8/9/10897 ]
+  [Files: 10897.txt; 10897-8.txt; 10897-h.htm]
+
+Mirror of Literature, Amusement, and Instruction, No. 283, by Various    10896
+  [Full title: The Mirror of Literature, Amusement, and Instruction,
+   Vol. 10, No. 283, 17 Nov 1827]
+  [Link: http://www.gutenberg.net/1/0/8/9/10896 ]
+  [Files: 10896.txt; 10896-8.txt; 10896-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10895
+  [Subtitle: Section 4 (of 4) of Volume 1: James Madison]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10895 ]
+  [Files: 10895.txt; 10895-8.txt; 10895-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10894
+  [Subtitle: Section 2 (of 4) of Volume 1: John Adams]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10894 ]
+  [Files: 10894.txt; 10894-8.txt; 10894-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10893
+  [Subtitle: Section 3 (of 4) of Volume 1: Thomas Jefferson]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10893 ]
+  [Files: 10893.txt; 10893-8.txt; 10893-h.htm]
+
+Dawn, by H. Rider Haggard                                                10892
+  [Link: http://www.gutenberg.net/1/0/8/9/10892 ]
+  [Files: 10892.txt]
+
+Algonquin Indian Tales, by Egerton R. Young                              10891
+  [Link: http://www.gutenberg.net/1/0/8/9/10891 ]
+  [Files: 10891.txt]
+
+Dio's Rome, Volume V., Books 61-76 (A.D. 54-211), by Cassius Dio         10890
+  [Subtitle: An Historical Narrative Originally Composed In Greek During
+   The Reigns Of Septimius Severus, Geta And Caracalla, Macrinus,
+   Elagabalus And Alexander Severus: And Now Presented In English Form By
+   Herbert Baldwin Foster]
+  [Link: http://www.gutenberg.net/1/0/8/9/10890 ]
+  [Files: 10890.txt; 10890-8.txt; 10890-h.htm]
+
+The Life and Romances of Mrs. Eliza Haywood, by George Frisbie Whicher   10889
+  [Link: http://www.gutenberg.net/1/0/8/8/10889 ]
+  [Files: 10889.txt; 10889-8.txt]
+
+Arthur Hamilton, and His Dog, by Anonymous                               10888
+  [Link: http://www.gutenberg.net/1/0/8/8/10888 ]
+  [Files: 10888.txt; 10888-h.htm]
+
+Babylonian and Assyrian Literature, by Anonymous                         10887
+  [Link: http://www.gutenberg.net/1/0/8/8/10887 ]
+  [Files: 10887.txt; 10887-8.txt]
+
+The Untamed, by Max Brand                                                10886
+  [Link: http://www.gutenberg.net/1/0/8/8/10886 ]
+  [Files: 10886.txt; 10886-8.txt]
+
+Stories from the Italian Poets, by Leigh Hunt                            10885
+  [Full title: Stories from the Italian Poets:
+   With Lives of the Writers, Volume 1]
+  [Link: http://www.gutenberg.net/1/0/8/8/10885 ]
+  [Files: 10885.txt; 10885-8.txt]
+
+A Publisher and His Friends, by Samuel Smiles                            10884
+  [Subtitle: Memoir and Correspondence of John Murray; With an Account
+   of the Origin and Progress of the House, 1768-1843]
+  [Condensed and Edited by Thomas Mackay]
+  [Link: http://www.gutenberg.net/1/0/8/8/10884 ]
+  [Files: 10884.txt; 10884-8.txt]
+
+Dio's Rome, Vol. 4, by Cassius Dio                                       10883
+  [Subtitle: An Historical Narrative Originally Composed in Greek
+   During the Reigns of Septimius Severus, Geta and Caracalla, Macrinus,
+   Elagabalus and Alexander Severus: And Now Presented in English Form]
+  [Translated by Herbert Baldwin Foster]
+  [Link: http://www.gutenberg.net/1/0/8/8/10883 ]
+  [Files: 10883.txt; 10883-8.txt]
+
+The Eagle's Shadow, by James Branch Cabell                               10882
+  [Link: http://www.gutenberg.net/1/0/8/8/10882 ]
+  [Files: 10882.txt; 10882-8.txt; 10882-h.htm]
+
+Crescent and Iron Cross, by E. F. Benson                                 10881
+  [Link: http://www.gutenberg.net/1/0/8/8/10881 ]
+  [Files: 10881.txt; 10881-8.txt]
+
+Teddy's Button, by Amy Le Feuvre                                         10880
+  [Link: http://www.gutenberg.net/1/0/8/8/10880 ]
+  [Files: 10880.txt]
+
+A Compilation of Messages and Letters of the Presidents, by Richardson   10879
+  [Full author: Editor: James D. Richardson]
+  [Subtitle: 2nd section (of 3) of Volume 2: John Quincy Adams]
+  [Link: http://www.gutenberg.net/1/0/8/7/10879 ]
+  [Files: 10879.txt; 10879-8.txt; 10879-h.htm]
+
+The Mule, by Harvey Riley                                                10878
+  [Subtitle: A Treatise On The Breeding, Training, And Uses To Which He
+   May Be Put]
+  [Link: http://www.gutenberg.net/1/0/8/7/10878 ]
+  [Files: 10878.txt; 10878-8.txt; 10878-h.htm]
+
+The Tragedies of the Medici, by Edgcumbe Staley                          10877
+  [Link: http://www.gutenberg.net/1/0/8/7/10877 ]
+  [Files: 10877.txt; 10877-8.txt]
+
+At Sunwich Port, Complete, by W.W. Jacobs                                10876
+  [Includes etexts #10871-10875]
+  [Link: http://www.gutenberg.net/1/0/8/7/10876 ]
+  [Files: 10876.txt; 10876-h.htm]
+
+At Sunwich Port, Part 5., by W.W. Jacobs                                 10875
+  [Contents: Chapters 21-25]
+  [Link: http://www.gutenberg.net/1/0/8/7/10875 ]
+  [Files: 10875.txt; 10875-h.htm]
+
+At Sunwich Port, Part 4., by W.W. Jacobs                                 10874
+  [Contents: Chapters 16-20]
+  [Link: http://www.gutenberg.net/1/0/8/7/10874 ]
+  [Files: 10874.txt; 10874-h.htm]
+
+At Sunwich Port, Part 3., by W.W. Jacobs                                 10873
+  [Contents: Chapters 11-15]
+  [Link: http://www.gutenberg.net/1/0/8/7/10873 ]
+  [Files: 10873.txt; 10873-h.htm]
+
+At Sunwich Port, Part 2., by W.W. Jacobs                                 10872
+  [Contents: Chapters 6-10]
+  [Link: http://www.gutenberg.net/1/0/8/7/10872 ]
+  [Files: 10872.txt; 10872-h.htm]
+
+At Sunwich Port, Part 1., by W.W. Jacobs                                 10871
+  [Contents: Chapters 1-5]
+  [Link: http://www.gutenberg.net/1/0/8/7/10871 ]
+  [Files: 10871.txt; 10871-h.htm]
+
+Are You A Bromide?, by Gelett Burgess                                    10870
+  [Subtitle: The Sulphitic Theory Expounded And Exemplified According
+   To The Most Recent Researches Into The Psychology Of Boredom Including
+   Many Well-Known Bromidioms Now In Use]
+  [Link: http://www.gutenberg.net/1/0/8/7/10870 ]
+  [Files: 10870.txt; 10870-8.txt]
+
+The Abandoned Room, by Wadsworth Camp                                    10869
+  [Link: http://www.gutenberg.net/1/0/8/6/10869 ]
+  [Files: 10869.txt]
+
+Clerambault, by Romain Rolland                                           10868
+  [Subtitle: The Story Of An Independent Spirit During The War]
+  [Translated By Katherine Miller]
+  [Link: http://www.gutenberg.net/1/0/8/6/10868 ]
+  [Files: 10868.txt; 10868-8.txt]
+
+Atlantic Monthly, Vol. II., November, 1858., No. XIII., by Various       10867
+  [Link: http://www.gutenberg.net/1/0/8/6/10867 ]
+  [Files: 10867.txt; 10867-8.txt]
+
+The Dolorous Passion of Our Lord Jesus Christ,by Anna Catherine Emmerich 10866
+  [Link: http://www.gutenberg.net/1/0/8/6/10866 ]
+  [Files: 10866.txt ]
+
+Play-Making, by William Archer                                           10865
+  [Subtitle: A Manual of Craftsmanship]
+  [Link: http://www.gutenberg.net/1/0/8/6/10865 ]
+  [Files: 10865.txt; 10865-8.txt; 10865-h.htm]
+
+A Visit to the Monastery of La Trappe in 1817, by W.D. Fellowes          10864
+  [Subtitle: With Notes Taken During a Tour Through Le Perche, Normandy,
+   Bretagne, Poitou, Anjou, Le Bocage, Touraine, Orleanois, and the
+   Environs of Paris. Illustrated with Numerous Coloured Engravings,
+   from Drawings Made on the Spot]
+  [Link: http://www.gutenberg.net/1/0/8/6/10864 ]
+  [Files: 10864.txt; 10864-8.txt; 10864-h.htm]
+
+Juha, by Juhani Aho                                                      10863
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/0/8/6/10863 ]
+  [Files: 10863-8.txt]
+
+The White Waterfall, by James Francis Dwyer                              10862
+  [Link: http://www.gutenberg.net/1/0/8/6/10862 ]
+  [Files: 10862.txt; 10862-8.txt; 10862-h.htm]
+
+Paris under the Commune, by John Leighton                                10861
+  [Subtitle: The Seventy-Three Days of the Second Siege; With Numerous
+   Illustrations, Sketches Taken on the Spot, and Portraits (from the
+   Original Photographs)]
+  [Link: http://www.gutenberg.net/1/0/8/6/10861 ]
+  [Files: 10861.txt; 10861-8.txt; 10861-h.htm]
+
+The Gracchi Marius and Sulla, by A.H. Beesley                            10860
+  [Subtitle: Epochs Of Ancient History]
+  [Link: http://www.gutenberg.net/1/0/8/6/10860 ]
+  [Files: 10860.txt; 10860-8.txt]
+
+Paul and Virginia, by Bernadin de Saint-Pierre                           10859
+  [Link: http://www.gutenberg.net/1/0/8/5/10859 ]
+  [Files: 10859.txt; 10859-h.htm]
+
+Messages and Papers of the Presidents: Andrew Jackson, by Richardson     10858
+  [Title:A Compilation of the Messages and Papers of the Presidents,
+   Vol. 2, Part 3, Andrew Jackson, 1st term]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/5/10858 ]
+  [Files: 10858.txt; 10858-8.txt; 10858-h.htm]
+
+My Native Land, by James Cox                                             10857
+  [Subtitle: The United States: its Wonders, its Beauties, and its
+   People; with Descriptive Notes, Character Sketches, Folk Lore,
+   Traditions, Legends and History, for the Amusement of the Old and
+   the Instruction of the Young]
+  [Link: http://www.gutenberg.net/1/0/8/5/10857 ]
+  [Files: 10857.txt; 10857-8.txt; 10857-h.htm]
+
+A Narrative Of The Siege Of Delhi, by Charles John Griffiths             10856
+  [Subtitle: With An Account Of The Mutiny At Ferozepore In 1857]
+  [Link: http://www.gutenberg.net/1/0/8/5/10856 ]
+  [Files: 10856.txt; 10856-8.txt]
+
+Is Mars Habitable?, by Alfred Russel Wallace                             10855
+  [A Critical Examination Of Professor Percival Lowell's Book
+   "Mars And Its Canals," With An Alternative Explanation]
+  [Link: http://www.gutenberg.net/1/0/8/5/10855 ]
+  [Files: 10855.txt; 10855-8.txt]
+
+
+Seekers after God, by Frederic William Farrar                            10846
+  [Files: 10846.txt; 10846.zip; 10846-8.txt; 10846-8.zip; 10846-h.htm;
+   10846-h.zip]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 12, Issue 332 10845
+  [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 12,
+   Issue 332, September 20, 1828]
+   [Author: Various]
+   [Link: http://www.gutenberg.net/1/0/8/4/10845 ]
+   [Files: 10845.txt; 10845.zip; 10845-8.txt; 10845-8.zip; 10845-h.htm;
+    10845-h.zip; ]
+
+
+Anne Severn and the Fieldings, by May Sinclair                           10817
+  [Link: http://www.gutenberg.net/1/0/8/1/10817 ]
+  [Files: 10817.txt]
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Feb 2004 The Book of Small, Emily Carr                     [040020xx.xxx] 0328A
+  [http://gutenberg.net.au/ebooks04/0400201.txt or .zip ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+This week can't pass without mentioning the anniversary of the publication of
+"Ulysses" (eBook #4300), by James Joyce, on 2 February 1922; that date also
+marked his 40th birthday.  But this week's tagline will be a quote from his
+wife, Nora Joyce:
+
+"Why don't you write books people can read?"
+
+Other works by this author in the Project Gutenberg collection include #4217
+"A Portrait of the Artist as a Young Man"; #2817 "Chamber Music"; and #2814
+"Dubliners".  Wherein may lie a clue as to the accuracy of Nora's remark.
+
+And we shouldn't forget the anniversary of the death of Johannes Gensfleisch
+zur Laden zum Gutenberg, some 537 years ago on 3 Feb 1468 (1467?).  Without
+whom we'd have to find a different name for this project!The Project Gutenberg Weekly Newsletter February 5, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 86 New U.S. eBooks this week
+  - 1 New eBooks at PG Australia
+  - Last, but not least
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+IMPORTANT NOTE ABOUT FILENAMES:  Due to recent security concerns, some
+mail servers are still deleting email messages that contain the name of
+a certain popular file compression program as the filename extension.
+That three-letter word begins with the letter "z".  In order to
+circumvent this problem, as a temporary measure, we are replacing that
+extension with ".zip" in the listings below.  We hope to have a
+permanent solution in the next couple of weeks.  Thank you for your
+patience.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).
+
+And please note:  you can now obtain a listing by language at the above
+link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 02 Feb 2004:  11,219 (incl. 328 Aus.).
+
+Last week the Total Count was 11,134, including 327 at PG of Australia.
+This week we added 86 new (incl. 1 at PG of Australia); however, we have
+removed one, resulting in an increase of only ??.
+
+RESERVED/PENDING count:   41 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Please note the following changes, corrections and improvements:
+
+The following eBook was a duplicate of another posting (#10731), so it
+has been removed and the eBook number has been re-used (see "New" postings
+below):
+The Art of Controversy, by Arthur Schopenhauer                           10817
+  [Subtitle: And Other Posthumous Papers]
+  [Tr.:  T. Bailey Saunders]
+
+The following is being re-indexed to add translator information:
+Chantecler, by Edmond Rostand                                            10747
+  [Subtitle: Play in Four Acts]
+  [Translator: Gertrude Hall]
+
+
+We have posted an improved 11th edition of:
+Oct 2002 Science and Health/Key to The Scriptures, by Eddy [shktsxxx.xxx] 3458
+
+We have re-posted the following in new format as indicated:
+The Power and the Glory, by Grace MacGowan Cooke                         10068
+  [Illustrated HTML in 10068-h.htm]
+Sep 2004 History of Modern Europe 1792-1878, bu C. A. Fyffe[8hsmdxxx.xxx] 6589
+  [HTML in 8hsmd10h.htm/.zip]
+
+
+
+-=-=-=-=[ 85 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Girl Aviators' Motor Butterfly, by Margaret Burnham                  10936
+  [Link: http://www.gutenberg.net/1/0/9/3/10936 ]
+  [Files: 10936.txt; 10936-8.txt; 10936-h.htm]
+
+The Wonderful Adventures of Nils, by Selma Lagerloef                     10935
+  [Translated from the Swedish by Velma Swanston Howard]
+  [Link: http://www.gutenberg.net/1/0/9/3/10935 ]
+  [Files: 10935.txt; 10935-8.txt]
+
+Punchinello, Vol. II. No. 39, Saturday, December 24, 1870, by Various    10934
+  [Link: http://www.gutenberg.net/1/0/9/3/10934 ]
+  [Files: 10934.txt; 10934-8.txt; 10934-h.htm]
+
+Punchinello, Vol. II. No. 38, Saturday, December 17, 1870, by Various    10933
+  [Link: http://www.gutenberg.net/1/0/9/3/10933 ]
+  [Files: 10933.txt; 10933-8.txt; 10933-h.htm]
+
+Over the Pass, by Frederick Palmer                                       10932
+  [Link: http://www.gutenberg.net/1/0/9/3/10932 ]
+  [Files: 10932.txt; 10932-8.txt]
+
+The Lullaby, With Original Engravings, by John R. Bolles                 10931
+  [Link: http://www.gutenberg.net/1/0/9/3/10931 ]
+  [Files: 10931.txt; 10931-h.htm]
+
+The Buccaneer Farmer, by Harold Bindloss                                 10930
+  [Published In England Under The Title "Askew's Victory"]
+  [Link: http://www.gutenberg.net/1/0/9/3/10930 ]
+  [Files: 10930.txt; 10930-8.txt]
+
+The Dog Crusoe and His Master, by Robert Michael Ballantyne              10929
+  [Subtitle: A Story of Adventure in the Western Prairies]
+  [Link: http://www.gutenberg.net/1/0/9/2/10929 ]
+  [Files: 10929.txt; 10929-8.txt; 10929-h.htm]
+
+Bengal Dacoits and Tigers, by Maharanee Sunity Devee                     10928
+  [Link: http://www.gutenberg.net/1/0/9/2/10928 ]
+  [Files: 10928.txt; 10928-8.txt]
+
+Tulitikkuja lainaamassa, by Maiju Lassila                                10927
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/0/9/2/10927 ]
+  [Files: 10927-8.txt]
+
+Saxe Holm's Stories, by Helen Hunt Jackson                               10926
+  [Contents:
+     Draxy Miller's Dowry
+     The Elder's Wife
+     Whose Wife Was She?
+     The One-Legged Dancers
+     How One Woman Kept Her Husband
+     Esther Wynn's Love-Letters]
+  [Link: http://www.gutenberg.net/1/0/9/2/10926 ]
+  [Files: 10926.txt; 10926-8.txt; 10926-h.htm]
+
+A Collection Of Old English Plays, Vol. IV., Edited by A.H. Bullen       10925
+  [Contents:
+    Two Tragedies in One. By Robert Yarington
+    The Captives, or the Lost Recovered. By Thomas Heywood
+    The Costlie Whore.
+    Everie Woman in her Humor.]
+  [Link: http://www.gutenberg.net/1/0/9/2/10925 ]
+  [Files: 10925.txt; 10925-8.txt]
+
+The Lands of the Saracen, by Bayard Taylor                               10924
+  [Subtitle: Pictures of Palestine, Asia Minor, Sicily, and Spain]
+  [Link: http://www.gutenberg.net/1/0/9/2/10924 ]
+  [Files: 10924.txt; 10924-8.txt; 10924-h.htm]
+
+Punch, or the London Charivari, Vol. 153, Aug 29, 1917, by Various       10923
+  [Editor: Owen Seamen]
+  [Link: http://www.gutenberg.net/1/0/9/2/10923 ]
+  [Files: 10923.txt; 10923.zip; 10923-8.txt; 10923-8.zip; 10923-h.htm;
+   10923-h.zip ]
+
+Young Lives, by Richard Le Gallienne                                     10922
+  [Link: http://www.gutenberg.net/1/0/9/2/10922 ]
+  [Files: 10922.txt; 10922-8.txt; 10922-h.htm]
+
+World's Greatest Books, Vol IV., Editors: Arthur Mee and J.A. Hammerton  10921
+  [Link: http://www.gutenberg.net/1/0/9/2/10921 ]
+  [Files: 10921.txt; 10921-8.txt; 10921-h.htm]
+
+Two Years Ago, Volume I, by Charles Kinglsey                             10920
+  [Link: http://www.gutenberg.net/1/0/9/2/10920 ]
+  [Files: 10920.txt; 10920-8.txt]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10919
+  [Subtitle: Section 1 (of 3) of Volume 2: James Monroe]
+  [Full author: James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/9/1/10919 ]
+  [Files: 10919.txt; 10919-8.txt; 10919-h.htm]
+
+The Log of a Noncombatant, by Horace Green                               10918
+  [Link: http://www.gutenberg.net/1/0/9/1/10918 ]
+  [Files: 10918.txt (plus an images file)]
+
+Die Familie Pfaffling, by Agnes Sapper                                   10917
+  [Subtitle: Eine deutsche Wintergeschichte]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/9/1/10917 ]
+  [Files: 10917.txt; 10917.zip; 10917-8.txt; 10917-8.zip; ]
+
+Parent and Child Vol. III., Child Study and Training, by Mosiah Hall     10916
+  [Link: http://www.gutenberg.net/1/0/9/1/10916 ]
+  [Files: 10916.txt]
+
+The Girl's Cabinet of Instructive and Moral Stories, by Uncle Philip     10915
+  [Publisher: Philip J. Cozans]
+  [Link: http://www.gutenberg.net/1/0/9/1/10915 ]
+  [Files: 10915.txt; 10915.zip; 10915-h.htm; 10915-h.zip; ]
+
+Die Brueder Wright, by Alfred Hildebrandt                                10914
+  [Subtitle: Eine Studie ueber die Entwicklung der Flugmaschine von
+   Lilienthal bis Wright]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/9/1/10914 ]
+  [Files: 10914.txt; 10914.zip; 10914-8.txt; 10914-8.zip; 10914-h.htm;
+   10914-h.zip; ]
+
+English Poems, by Richard Le Gallienne                                   10913
+  [Link: http://www.gutenberg.net/1/0/9/1/10913 ]
+  [Files: 10913.txt; 10913-8.txt]
+
+The Infant's Delight: Poetry, by Anonymous                               10912
+  [Link: http://www.gutenberg.net/1/0/9/1/10912 ]
+  [Files: 10912.txt; 10912-h.htm]
+
+Buried Alive: A Tale of These Days, by Arnold Bennett                    10911
+  [Link: http://www.gutenberg.net/1/0/9/1/10911 ]
+  [Files: 10911.txt; 10911-8.txt; 10911-h.htm]
+
+Robert Louis Stevenson, an Elegy; And Other Poems, Richard Le Gallienne  10910
+  [Link: http://www.gutenberg.net/1/0/9/1/10910 ]
+  [Files: 10910.txt; 10910-8.txt]
+
+Los Amantes de Teruel, by Hartzenbusch, Juan Eugenio                     10909
+  [Subtitle: Drama en cuatro actos en verso y prosa]
+  [With Introduction, Notes, And Vocabulary By G.W. Umphrey]
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/0/9/0/10909 ]
+  [Files: 10909.txt; 10909-8.txt]
+
+Manual for Infantry, by War Department                                   10908
+  [Full title: Manual for Noncommissioned Officers and Privates of
+   Infantry of the Army of the United States, 1917]
+  [Subtitle: To be used by Engineer companies (dismounted) and Coast
+   Artillery companies for Infantry instruction and training]
+  [Link: http://www.gutenberg.net/1/0/9/0/10908 ]
+  [Files: 10908.txt; 10908-8.txt]
+
+The History of Rome; Books Nine to Twenty-Six, by Titus Livius           10907
+  [Subtitle: Literally Translated, with Notes and Illustrations, by D.
+   Spillan and Cyrus Edmonds]
+  (Note: Vol. 2 of 4 of Spillan's translation of Livy's History)
+  [Link: http://www.gutenberg.net/1/0/9/0/10907 ]
+  [Files: 10907.txt; 10907.zip; 10907-8.txt; 10907-8.zip; 10907-h.htm;
+   10907-h.zip; ]
+
+Quinze Jours en Egypte, by Fernand Neuray                                10906
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/0/9/0/10906 ]
+  [Files: 10906.txt; 10906-8.txt]
+
+Phantom Fortune, A Novel, by M. E. Braddon                               10905
+  [Link: http://www.gutenberg.net/1/0/9/0/10905 ]
+  [Files: 10905.txt; 10905-8.txt; 10905-h.htm]
+
+Frank Merriwell's Nobility, by Burt L. Standish (AKA Gilbert Patten)     10904
+  [Subtitle: The Tragedy of the Ocean Tramp]
+  [Link: http://www.gutenberg.net/1/0/9/0/10904 ]
+  [Files: 10904.txt; 10904-h.htm]
+
+Punch, or the London Charivari, Vol. 153, Oct. 17, 1917, by Various      10903
+  [Editor: Owen Seamen]
+  [Link: http://www.gutenberg.net/1/0/9/0/10903 ]
+  [Files: 10903.txt; 10903.zip; 10903-8.txt; 10903-8.zip; 10903-h.htm;
+   10903-h.zip; ]
+
+Big and Little Sisters, by Theodora R. Jenness                           10902
+  [Link: http://www.gutenberg.net/1/0/9/0/10902 ]
+  [Files: 10902.txt]
+
+Three Young Knights, by Annie Hamilton Donnell                           10901
+  [Link: http://www.gutenberg.net/1/0/9/0/10901 ]
+  [Files: 10901.txt]
+
+The Bible, King James Version                                            10900
+  [Link: http://www.gutenberg.net/1/0/9/0/10900 ]
+  [Files: 10900-h.htm]
+
+Olivia in India, by O. Douglas (AKA Anna Buchan)                         10899
+  [Link: http://www.gutenberg.net/1/0/8/9/10899 ]
+  [Files: 10899.txt; 10899-8.txt]
+
+American Scenes, and Christian Slavery, by Ebenezer Davies               10898
+  [Subtitle: A Recent Tour of Four Thousand Miles in the United States]
+  [Link: http://www.gutenberg.net/1/0/8/9/10898 ]
+  [Files: 10898.txt; 10898-8.txt]
+
+The Wendigo, by Algernon Blackwood                                       10897
+  [Link: http://www.gutenberg.net/1/0/8/9/10897 ]
+  [Files: 10897.txt; 10897-8.txt; 10897-h.htm]
+
+Mirror of Literature, Amusement, and Instruction, No. 283, by Various    10896
+  [Full title: The Mirror of Literature, Amusement, and Instruction,
+   Vol. 10, No. 283, 17 Nov 1827]
+  [Link: http://www.gutenberg.net/1/0/8/9/10896 ]
+  [Files: 10896.txt; 10896-8.txt; 10896-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10895
+  [Subtitle: Section 4 (of 4) of Volume 1: James Madison]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10895 ]
+  [Files: 10895.txt; 10895-8.txt; 10895-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10894
+  [Subtitle: Section 2 (of 4) of Volume 1: John Adams]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10894 ]
+  [Files: 10894.txt; 10894-8.txt; 10894-h.htm]
+
+A Compilation of the Messages and Papers of the Presidents, Richardson   10893
+  [Subtitle: Section 3 (of 4) of Volume 1: Thomas Jefferson]
+  [Full author: Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/9/10893 ]
+  [Files: 10893.txt; 10893-8.txt; 10893-h.htm]
+
+Dawn, by H. Rider Haggard                                                10892
+  [Link: http://www.gutenberg.net/1/0/8/9/10892 ]
+  [Files: 10892.txt]
+
+Algonquin Indian Tales, by Egerton R. Young                              10891
+  [Link: http://www.gutenberg.net/1/0/8/9/10891 ]
+  [Files: 10891.txt]
+
+Dio's Rome, Volume V., Books 61-76 (A.D. 54-211), by Cassius Dio         10890
+  [Subtitle: An Historical Narrative Originally Composed In Greek During
+   The Reigns Of Septimius Severus, Geta And Caracalla, Macrinus,
+   Elagabalus And Alexander Severus: And Now Presented In English Form By
+   Herbert Baldwin Foster]
+  [Link: http://www.gutenberg.net/1/0/8/9/10890 ]
+  [Files: 10890.txt; 10890-8.txt; 10890-h.htm]
+
+The Life and Romances of Mrs. Eliza Haywood, by George Frisbie Whicher   10889
+  [Link: http://www.gutenberg.net/1/0/8/8/10889 ]
+  [Files: 10889.txt; 10889-8.txt]
+
+Arthur Hamilton, and His Dog, by Anonymous                               10888
+  [Link: http://www.gutenberg.net/1/0/8/8/10888 ]
+  [Files: 10888.txt; 10888-h.htm]
+
+Babylonian and Assyrian Literature, by Anonymous                         10887
+  [Link: http://www.gutenberg.net/1/0/8/8/10887 ]
+  [Files: 10887.txt; 10887-8.txt]
+
+The Untamed, by Max Brand                                                10886
+  [Link: http://www.gutenberg.net/1/0/8/8/10886 ]
+  [Files: 10886.txt; 10886-8.txt]
+
+Stories from the Italian Poets, by Leigh Hunt                            10885
+  [Full title: Stories from the Italian Poets:
+   With Lives of the Writers, Volume 1]
+  [Link: http://www.gutenberg.net/1/0/8/8/10885 ]
+  [Files: 10885.txt; 10885-8.txt]
+
+A Publisher and His Friends, by Samuel Smiles                            10884
+  [Subtitle: Memoir and Correspondence of John Murray; With an Account
+   of the Origin and Progress of the House, 1768-1843]
+  [Condensed and Edited by Thomas Mackay]
+  [Link: http://www.gutenberg.net/1/0/8/8/10884 ]
+  [Files: 10884.txt; 10884-8.txt]
+
+Dio's Rome, Vol. 4, by Cassius Dio                                       10883
+  [Subtitle: An Historical Narrative Originally Composed in Greek
+   During the Reigns of Septimius Severus, Geta and Caracalla, Macrinus,
+   Elagabalus and Alexander Severus: And Now Presented in English Form]
+  [Translated by Herbert Baldwin Foster]
+  [Link: http://www.gutenberg.net/1/0/8/8/10883 ]
+  [Files: 10883.txt; 10883-8.txt]
+
+The Eagle's Shadow, by James Branch Cabell                               10882
+  [Link: http://www.gutenberg.net/1/0/8/8/10882 ]
+  [Files: 10882.txt; 10882-8.txt; 10882-h.htm]
+
+Crescent and Iron Cross, by E. F. Benson                                 10881
+  [Link: http://www.gutenberg.net/1/0/8/8/10881 ]
+  [Files: 10881.txt; 10881-8.txt]
+
+Teddy's Button, by Amy Le Feuvre                                         10880
+  [Link: http://www.gutenberg.net/1/0/8/8/10880 ]
+  [Files: 10880.txt]
+
+A Compilation of Messages and Letters of the Presidents, by Richardson   10879
+  [Full author: Editor: James D. Richardson]
+  [Subtitle: 2nd section (of 3) of Volume 2: John Quincy Adams]
+  [Link: http://www.gutenberg.net/1/0/8/7/10879 ]
+  [Files: 10879.txt; 10879-8.txt; 10879-h.htm]
+
+The Mule, by Harvey Riley                                                10878
+  [Subtitle: A Treatise On The Breeding, Training, And Uses To Which He
+   May Be Put]
+  [Link: http://www.gutenberg.net/1/0/8/7/10878 ]
+  [Files: 10878.txt; 10878-8.txt; 10878-h.htm]
+
+The Tragedies of the Medici, by Edgcumbe Staley                          10877
+  [Link: http://www.gutenberg.net/1/0/8/7/10877 ]
+  [Files: 10877.txt; 10877-8.txt]
+
+At Sunwich Port, Complete, by W.W. Jacobs                                10876
+  [Includes etexts #10871-10875]
+  [Link: http://www.gutenberg.net/1/0/8/7/10876 ]
+  [Files: 10876.txt; 10876-h.htm]
+
+At Sunwich Port, Part 5., by W.W. Jacobs                                 10875
+  [Contents: Chapters 21-25]
+  [Link: http://www.gutenberg.net/1/0/8/7/10875 ]
+  [Files: 10875.txt; 10875-h.htm]
+
+At Sunwich Port, Part 4., by W.W. Jacobs                                 10874
+  [Contents: Chapters 16-20]
+  [Link: http://www.gutenberg.net/1/0/8/7/10874 ]
+  [Files: 10874.txt; 10874-h.htm]
+
+At Sunwich Port, Part 3., by W.W. Jacobs                                 10873
+  [Contents: Chapters 11-15]
+  [Link: http://www.gutenberg.net/1/0/8/7/10873 ]
+  [Files: 10873.txt; 10873-h.htm]
+
+At Sunwich Port, Part 2., by W.W. Jacobs                                 10872
+  [Contents: Chapters 6-10]
+  [Link: http://www.gutenberg.net/1/0/8/7/10872 ]
+  [Files: 10872.txt; 10872-h.htm]
+
+At Sunwich Port, Part 1., by W.W. Jacobs                                 10871
+  [Contents: Chapters 1-5]
+  [Link: http://www.gutenberg.net/1/0/8/7/10871 ]
+  [Files: 10871.txt; 10871-h.htm]
+
+Are You A Bromide?, by Gelett Burgess                                    10870
+  [Subtitle: The Sulphitic Theory Expounded And Exemplified According
+   To The Most Recent Researches Into The Psychology Of Boredom Including
+   Many Well-Known Bromidioms Now In Use]
+  [Link: http://www.gutenberg.net/1/0/8/7/10870 ]
+  [Files: 10870.txt; 10870-8.txt]
+
+The Abandoned Room, by Wadsworth Camp                                    10869
+  [Link: http://www.gutenberg.net/1/0/8/6/10869 ]
+  [Files: 10869.txt]
+
+Clerambault, by Romain Rolland                                           10868
+  [Subtitle: The Story Of An Independent Spirit During The War]
+  [Translated By Katherine Miller]
+  [Link: http://www.gutenberg.net/1/0/8/6/10868 ]
+  [Files: 10868.txt; 10868-8.txt]
+
+Atlantic Monthly, Vol. II., November, 1858., No. XIII., by Various       10867
+  [Link: http://www.gutenberg.net/1/0/8/6/10867 ]
+  [Files: 10867.txt; 10867-8.txt]
+
+The Dolorous Passion of Our Lord Jesus Christ,by Anna Catherine Emmerich 10866
+  [Link: http://www.gutenberg.net/1/0/8/6/10866 ]
+  [Files: 10866.txt ]
+
+Play-Making, by William Archer                                           10865
+  [Subtitle: A Manual of Craftsmanship]
+  [Link: http://www.gutenberg.net/1/0/8/6/10865 ]
+  [Files: 10865.txt; 10865-8.txt; 10865-h.htm]
+
+A Visit to the Monastery of La Trappe in 1817, by W.D. Fellowes          10864
+  [Subtitle: With Notes Taken During a Tour Through Le Perche, Normandy,
+   Bretagne, Poitou, Anjou, Le Bocage, Touraine, Orleanois, and the
+   Environs of Paris. Illustrated with Numerous Coloured Engravings,
+   from Drawings Made on the Spot]
+  [Link: http://www.gutenberg.net/1/0/8/6/10864 ]
+  [Files: 10864.txt; 10864-8.txt; 10864-h.htm]
+
+Juha, by Juhani Aho                                                      10863
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/0/8/6/10863 ]
+  [Files: 10863-8.txt]
+
+The White Waterfall, by James Francis Dwyer                              10862
+  [Link: http://www.gutenberg.net/1/0/8/6/10862 ]
+  [Files: 10862.txt; 10862-8.txt; 10862-h.htm]
+
+Paris under the Commune, by John Leighton                                10861
+  [Subtitle: The Seventy-Three Days of the Second Siege; With Numerous
+   Illustrations, Sketches Taken on the Spot, and Portraits (from the
+   Original Photographs)]
+  [Link: http://www.gutenberg.net/1/0/8/6/10861 ]
+  [Files: 10861.txt; 10861-8.txt; 10861-h.htm]
+
+The Gracchi Marius and Sulla, by A.H. Beesley                            10860
+  [Subtitle: Epochs Of Ancient History]
+  [Link: http://www.gutenberg.net/1/0/8/6/10860 ]
+  [Files: 10860.txt; 10860-8.txt]
+
+Paul and Virginia, by Bernadin de Saint-Pierre                           10859
+  [Link: http://www.gutenberg.net/1/0/8/5/10859 ]
+  [Files: 10859.txt; 10859-h.htm]
+
+Messages and Papers of the Presidents: Andrew Jackson, by Richardson     10858
+  [Title:A Compilation of the Messages and Papers of the Presidents,
+   Vol. 2, Part 3, Andrew Jackson, 1st term]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/0/8/5/10858 ]
+  [Files: 10858.txt; 10858-8.txt; 10858-h.htm]
+
+My Native Land, by James Cox                                             10857
+  [Subtitle: The United States: its Wonders, its Beauties, and its
+   People; with Descriptive Notes, Character Sketches, Folk Lore,
+   Traditions, Legends and History, for the Amusement of the Old and
+   the Instruction of the Young]
+  [Link: http://www.gutenberg.net/1/0/8/5/10857 ]
+  [Files: 10857.txt; 10857-8.txt; 10857-h.htm]
+
+A Narrative Of The Siege Of Delhi, by Charles John Griffiths             10856
+  [Subtitle: With An Account Of The Mutiny At Ferozepore In 1857]
+  [Link: http://www.gutenberg.net/1/0/8/5/10856 ]
+  [Files: 10856.txt; 10856-8.txt]
+
+Is Mars Habitable?, by Alfred Russel Wallace                             10855
+  [A Critical Examination Of Professor Percival Lowell's Book
+   "Mars And Its Canals," With An Alternative Explanation]
+  [Link: http://www.gutenberg.net/1/0/8/5/10855 ]
+  [Files: 10855.txt; 10855-8.txt]
+
+
+Seekers after God, by Frederic William Farrar                            10846
+  [Files: 10846.txt; 10846.zip; 10846-8.txt; 10846-8.zip; 10846-h.htm;
+   10846-h.zip]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 12, Issue 332 10845
+  [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 12,
+   Issue 332, September 20, 1828]
+   [Author: Various]
+   [Link: http://www.gutenberg.net/1/0/8/4/10845 ]
+   [Files: 10845.txt; 10845.zip; 10845-8.txt; 10845-8.zip; 10845-h.htm;
+    10845-h.zip; ]
+
+
+Anne Severn and the Fieldings, by May Sinclair                           10817
+  [Link: http://www.gutenberg.net/1/0/8/1/10817 ]
+  [Files: 10817.txt]
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Feb 2004 The Book of Small, Emily Carr                     [040020xx.xxx] 0328A
+  [http://gutenberg.net.au/ebooks04/0400201.txt or .zip ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+This week can't pass without mentioning the anniversary of the publication of
+"Ulysses" (eBook #4300), by James Joyce, on 2 February 1922; that date also
+marked his 40th birthday.  But this week's tagline will be a quote from his
+wife, Nora Joyce:
+
+"Why don't you write books people can read?"
+
+Other works by this author in the Project Gutenberg collection include #4217
+"A Portrait of the Artist as a Young Man"; #2817 "Chamber Music"; and #2814
+"Dubliners".  Wherein may lie a clue as to the accuracy of Nora's remark.
+
+And we shouldn't forget the anniversary of the death of Johannes Gensfleisch
+zur Laden zum Gutenberg, some 537 years ago on 3 Feb 1468 (1467?).  Without
+whom we'd have to find a different name for this project!
+
+=============================================================================
+
+--end here--
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberglistserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end January 2004
+
+      gweekly - 2821
+
+      gmonthly - 349</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_02_04_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_02_04_part_2.txt</a>

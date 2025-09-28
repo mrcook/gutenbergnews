@@ -1,0 +1,415 @@
+========
+Subject: [gmonthly] PG #4000 Project Gutenberg Monthly Newsletter
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg Monthly Newsletter" <gmonthly@listserv.unc.edu>
+Date: Wed, 3 Oct 2001 13:25:22 -0400 (EDT)
+
+
+Project Gutenberg's Monthly Newsletter for Wednesday, October 3, 2001
+
+11 months ago we posted our 3,000th Etext, with 100-200 reserved.
+Today, we posted our 4,000th text, with only about 64 slots reserved.
+10 months from now we are scheduled to be announcing our 5,000th Etext
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+
+Does anyone know how to contact Bill Cosby?
+
+
+Several volunteers are now using teixlite to tag PG books,
+but we need a volunteer to write a PG style sheet, either
+.css or .xsl, to use with the teixlite.dtd we have.
+From: Judith Boss <jeboss@home.com>
+
+
+
+The Online Distributed Proofreading team proudly announces that September
+was their new record high month with 9074 pages proofed in the month!!
+September also had the Teams new record high day with 680 pages completed
+on September 7th. We have set our goal at 10,000 pages for the month
+of October, stop on by and help us set a new record!
+http://charlz.dynip.com/gutenberg
+
+
+"ETextViewer is an ASCII text-reader for the Windows operating system.  It
+is available free of charge from
+
+http://fractl.magenet.net/etextviewer.htm
+
+***
+
+Try our newest site at:
+http://www.chloeville.com/gutenberg
+Covington, Louisiana [near New Orleans]
+
+***
+
+ETextViewer displays text as a single-page scrolling view with a cursor,
+which is useful when used in conjunction with text-to-speech applications.
+Main features are the ability to open very large files; automated text
+scrolling; full user customisation of the viewing environment (includes
+font styles and margins); text reformatting to remove hard returns,
+and saving of all user settings.  On start up, ETextViewer will
+automatically open the file you were reading at the position where
+it was left.  It also allows for setting of up to 5 bookmarks per book
+and saves a history of 20 books.
+(Software by Julie Brazier - fractl@magenet.net)"
+
+***
+
+We need someone to write the weekly Newsletters for November. . . .
+I'll be on the road. . . .
+I can give you a kind of "fill in the blanks" approach to make it easy.
+I should be able to do the monthly Newsletters. . . .
+
+***
+
+We need some volunteers who can spend just a minute or two looking
+over each of the three or so eTexts we post on the average day....
+Just to download them and check to see that nothing went wrong in
+final save and upload process.  Some times there will be missing
+"hard returns" or there will be trailing spaces on some or all
+of the lines, or there won't be the proper end of file marker,
+margination, or header entries.  Nothing sophisticated here, we
+just want to be able to catch obvious errors, and we can provide
+a program we are porting to various operating system to make this
+even easier as we go along.  100 Etexts per month is just too much
+for any small group of people to do well. . . .
+
+***
+
+Please send in as much copyright research as you can in the next
+month, as I plan to be away for November, and don't want to swamp
+Greg Newby with more copyright research than is necessary.
+
+***
+
+Here Are Your 117 New Project Gutenberg eTexts For This Month:
+And some updated editions:
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+We have posted new and significantly revised 12th edition of:
+
+Jan 1998 The Chessman of Mars, Edgar Rice Burroughs[ERB#11][cmarsxxx.txt]1153
+[The most recent version is cmars12.txt and cmars12.zip]
+
+
+We have posted new and significantly revised 11th editions of:
+
+Jan 2003 Every Man In His Humour, by Ben Jonson [Jonson #1][emihhxxx.xxx]3694
+[the new files are emihh11.txt and emihh11.zip]
+
+Feb 2003 Cynthia's Revels, Ben Jonson                      [cynthxxx.xxx]3771
+[the new files are cynth11.txt and cynth11.zip]
+
+Apr 2002 Complete Letters of Mark Twain, by Paine   [MT#60][mtcltxxx.xxx]3199
+[The new version is in the files mtclt11.txt and mtclt11.zip]
+
+Feb 2003 Cynthia's Revels, Ben Johnson                     [cynthxxx.xxx]3771
+[new version is cynth11.txt and cynth11.zip]
+
+Feb 2003 Under the Lilacs, by Louisa May Alcott [Alcott #9 [ullcsxxx.xxx]3795
+[The new version is ullcs11.txt and ullcs11.zip]
+
+We have posted a new and significantly revised edition of:
+
+Jan 2003 Every Man In His Humour, by Ben Jonson [Jonson #1][emihhxxx.xxx]3694
+[the new files are emihh11.txt and emihh11.zip]
+
+We have posted a significantly improved version of:
+Jan 1995 Uncle Tom's Cabin by Harriet Beecher Stowe        [utomcxxx.xxx] 203
+[The new files are utomc11.txt and utomc11.zip]
+
+
+And we have prepared 118 new eTexts this past month:
+
+Apr 2003 Entire PG Edition of The French Immortals  [IM#87][imewkxxx.xxx]4000
+Apr 2003 Entire An "Attic" Philosopher by Souvestre [IM#86][im86bxxx.xxx]3999
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v3 [IM#85][im85bxxx.xxx]3998
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v2 [IM#84][im84bxxx.xxx]3997
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v1 [IM#83][im83bxxx.xxx]3996
+95
+Apr 2003 The Entire Madame Chrysantheme by Loti     [IM#82][im82bxxx.xxx]3995
+Apr 2003 Madame Chrysantheme by Pierre Loti, v4     [IM#81][im81bxxx.xxx]3994
+Apr 2003 Madame Chrysantheme by Pierre Loti, v3     [IM#80][im80bxxx.xxx]3993
+Apr 2003 Madame Chrysantheme by Pierre Loti, v2     [IM#79][im79bxxx.xxx]3992
+Apr 2003 Madame Chrysantheme by Pierre Loti, v1     [IM#78][im78bxxx.xxx]3991
+90
+Apr 2003 The Entire Conscience by Hector Malot      [IM#77][im77bxxx.xxx]3990
+Apr 2003 Conscience by Hector Malot, v4             [IM#76][im76bxxx.xxx]3989
+Apr 2003 Conscience by Hector Malot, v3             [IM#75][im75bxxx.xxx]3988
+Apr 2003 Conscience by Hector Malot, v2             [IM#74][im74bxxx.xxx]3987
+Apr 2003 Conscience by Hector Malot, v1             [IM#73][im73bxxx.xxx]3986
+85
+Apr 2003 The Entire Gerfaut by Charles de Bernard   [IM#72][im72bxxx.xxx]3985
+Apr 2003 Gerfaut by Charles de Bernard, v4          [IM#71][im71bxxx.xxx]3984
+Apr 2003 Gerfaut by Charles de Bernard, v3          [IM#70][im70bxxx.xxx]3983
+Apr 2003 Gerfaut by Charles de Bernard, v2          [IM#69][im69bxxx.xxx]3982
+Apr 2003 Gerfaut by Charles de Bernard, v1          [IM#68][im68bxxx.xxx]3981
+80
+Apr 2003 The Entire Fromont and Risler, by Daudet   [IM#67][im67bxxx.xxx]3980
+Apr 2003 Fromont and Risler by Alphonse Daudet, v4  [IM#66][im66bxxx.xxx]3979
+Apr 2003 Fromont and Risler by Alphonse Daudet, v3  [IM#65][im65bxxx.xxx]3978
+Apr 2003 Fromont and Risler by Alphonse Daudet, v2  [IM#64][im64bxxx.xxx]3977
+Apr 2003 Fromont and Risler by Alphonse Daudet, v1  [IM#63][im63bxxx.xxx]3976
+75
+Apr 2003 Entire The Ink-Stain by Rene Bazin         [IM#62][im62bxxx.xxx]3975
+Apr 2003 The Ink-Stain by Rene Bazin, v3            [IM#61][im61bxxx.xxx]3974
+Apr 2003 The Ink-Stain by Rene Bazin, v2            [IM#60][im60bxxx.xxx]3973
+Apr 2003 The Ink-Stain by Rene Bazin, v1            [IM#59][im59bxxx.xxx]3972
+Apr 2003 Entire Jacqueline by Bentzon (Mme. Blanc)  [IM#58][im58bxxx.xxx]3971
+70
+Apr 2003 Jacqueline by Th. Bentzon (Mme. Blanc), v3 [IM#57][im57bxxx.xxx]3970
+Apr 2003 Jacqueline by Th. Bentzon (Mme. Blanc), v2 [IM#56][im56bxxx.xxx]3969
+Apr 2003 Jacqueline by Th. Bentzon (Mme. Blanc), v1 [IM#55][im55bxxx.xxx]3968
+Apr 2003 Entire Cosmopolis by Paul Bourget          [IM#54][im54bxxx.xxx]3967
+Apr 2003 Cosmopolis by Paul Bourget, v4             [IM#53][im53bxxx.xxx]3966
+65
+Apr 2003 Cosmopolis by Paul Bourget, v3             [IM#52][im52bxxx.xxx]3965
+Apr 2003 Cosmopolis by Paul Bourget, v2             [IM#51][im51bxxx.xxx]3964
+Apr 2003 Cosmopolis by Paul Bourget, v1             [IM#50][im50bxxx.xxx]3963
+Apr 2003 Entire Romance of Youth by Francois Coppee [IM#49][im49bxxx.xxx]3962
+Apr 2003 A Romance of Youth by Francois Coppee, v4  [IM#48][im48bxxx.xxx]3961
+60
+Apr 2003 A Romance of Youth by Francois Coppee, v3  [IM#47][im47bxxx.xxx]3960
+Apr 2003 A Romance of Youth by Francois Coppee, v2  [IM#46][im46bxxx.xxx]3959
+Apr 2003 A Romance of Youth by Francois Coppee, v1  [IM#45][im45bxxx.xxx]3958
+Apr 2003 Entire L'Abbe Constantin by Ludovic Halevy [IM#44][im44bxxx.xxx]3957
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v3    [IM#43][im43bxxx.xxx]3956
+55
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v2    [IM#42][im42bxxx.xxx]3955
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v1    [IM#41][im41bxxx.xxx]3954
+Apr 2003 The Entire Cinq Mars, by Alfred de Vigny   [IM#40][im40bxxx.xxx]3953
+Apr 2003 Cinq Mars, by Alfred de Vigny, v6          [IM#39][im39bxxx.xxx]3952
+Apr 2003 Cinq Mars, by Alfred de Vigny, v5          [IM#38][im38bxxx.xxx]3951
+50
+Apr 2003 Cinq Mars, by Alfred de Vigny, v4          [IM#37][im37bxxx.xxx]3950
+Apr 2003 Cinq Mars, by Alfred de Vigny, v3          [IM#36][im36bxxx.xxx]3949
+Apr 2003 Cinq Mars, by Alfred de Vigny, v2          [IM#35][im35bxxx.xxx]3948
+Apr 2003 Cinq Mars, by Alfred de Vigny, v1          [IM#34][im34bxxx.xxx]3947
+Apr 2003 Entire Monsieur de Camors by Oct. Feuillet [IM#33][im33bxxx.xxx]3946
+45
+Apr 2003 Monsieur de Camors by Octave Feuillet, v3  [IM#32][im32bxxx.xxx]3945
+Apr 2003 Monsieur de Camors by Octave Feuillet, v2  [IM#31][im31bxxx.xxx]3944
+Apr 2003 Monsieur de Camors by Octave Feuillet, v1  [IM#30][im30bxxx.xxx]3943
+Apr 2003 Entire Child of a Century, Alfred de Musset[IM#29][im29bxxx.xxx]3942
+Apr 2003 Child of a Century, Alfred de Musset, v3   [IM#28][im28bxxx.xxx]3941
+40
+Apr 2003 Child of a Century, Alfred de Musset, v2   [IM#27][im27bxxx.xxx]3940
+Apr 2003 Child of a Century, Alfred de Musset, v1   [IM#26][im26bxxx.xxx]3939
+Apr 2003 Entire A Woodland Queen, by Andre Theuriet [IM#25][im25bxxx.xxx]3938
+Apr 2003 A Woodland Queen, by Andre Theuriet, v3    [IM#24][im24bxxx.xxx]3937
+Apr 2003 A Woodland Queen, by Andre Theuriet, v2    [IM#23][im23bxxx.xxx]3936
+35
+Apr 2003 A Woodland Queen, by Andre Theuriet, v1    [IM#22][im22bxxx.xxx]3935
+
+[Note:  the above are in the 3900's, those below are in the 3800's]
+
+Mar 2003 Hospital Sketches, by Louisa May Alcott[Alcott#10][hspskxxx.xxx]3837
+Mar 2003 Swiss Family Robinson, by Johann David Wyss       [sfrbnxxx.xxx]3836C
+[This is a copyrighted Project Gutenberg Etext]
+35
+Mar 2003 Correspondence of Wagner and Liszt, Volume 1      [cwlv1xxx.xxx]3835
+Mar 2003 Hassan, James Elroy Fletcher         [Fletcher #2][htshbxxx.xxx]3834
+[Full Title:  Hassan:  The Story of Hassan of Baghdad
+and How He Came to Make the Golden Journey to Samarkand]                                              Mar 2003                                                   [     xxx.xxx]3833
+Mar 2003 Australian Legendary Tales, by K. L. Parker[KLP#2][strltxxx.xxx]3833
+[Full title: Australian Legendary Tales--
+Folk-lore of the Noongahburrahs as told to the piccaninnies]
+[Author's Full Name: K. (Katie) Langloh Parker (1856-1940)]
+Mar 2003 Australia Felix, by Henry Handel Richardson[HRR#3][strlfxxx.xxx]3832
+Mar 2003 The Secret Power, by Marie Corelli     [Corelli#2][scrtpxxx.xxx]3831
+30
+Mar 2003 Overruled, by George Bernard Shaw         [GBS#24][overrxxx.xxx]3830
+Mar 2003 Love Among the Chickens, by P. G. Wodehouse[PGW#6][lvchkxxx.xxx]3829
+Mar 2003 Simon the Jester, by William J. Locke             [sjstrxxx.xxx]3828
+Mar 2003 The Days Before Yesterday, Lord Frederic Hamilton [tdbysxxx.xxx]3827
+Mar 2003 Rise of the New West, 1819-1829, by F.J. Turner   [rstnwxxx.xxx]3826
+25
+Mar 2003 Pygmalion, by George Bernard Shaw    [GB Shaw #23][pygmlxxx.xxx]3825
+Mar 2003 The Lamp of Fate, by Margaret Pedler   [Pedler #2][lmpftxxx.xxx]3824
+Mar 2003 Thelma, by Marie Corelli                          [thlmaxxx.xxx]3823
+Mar 2003 Balzac, Frederick Lawton                          [balzaxxx.xxx]3822
+Mar 2003 Roman and the Teuton, by Charles Kingsley [CK #12][rmtutxxx.xxx]3821
+
+Mar 2003 Nathan the Wise, by Gotthold Ephraim Lessing      [natwsxxx.xxx]3820
+Mar 2003 The Euahlayi Tribe, Langloh Parker                [tetasxxx.xxx]3819
+[Full Title:  The Euahlayi Tribe--A Study of Aboriginal Life in Australia]
+Mar 2003 By Reef and Palm, Louis Becke                     [breepxxx.xxx]3818
+[Author's lifespan: 1855-1913]
+Mar 2003 To Let, by John Galsworthy                [JG #35][toltgxxx.xxx]3817
+Mar 2003 The Witch of Prague, by F. Marion Crawford        [twoprxxx.xxx]3816
+
+Mar 2003 Rolling Stones, by O. Henry                [OH#13][rllstxxx.xxx]3815
+Mar 2003 Robert Louis Stevenson, by E. Blantyre Simpson    [rlstvxxx.xxx]3814
+Mar 2003 The Lady Of Blossholme, by H. Rider Haggard[HRH35][blshlxxx.xxx]3813
+Mar 2003 The Mirrors of Washington, by Anonymous           [tmrowxxx.xxx]3812
+Mar 2003 The Star of Gettysburg, Joseph A. Altsheler   [#3][tsgttxxx.xxx]3811
+
+Mar 2003 The Man-eaters of Tsavo, by J. H. Patterson       [tsavoxxx.xxx]3810
+[Full Title: The Man-Eaters of Tsavo and Other East African Adventures]
+Mar 2003 The Master of the World, Jules Verne   [Verne #19][thmstxxx.xxx]3809
+Mar 2003 Robur the Conqueror, Jules Verne       [Verne #18][xrobcxxx.xxx]3808
+[8-bit accents are included in 8robc10.*, plain characters are in 7robc10.*]
+Mar 2003 Different Forms of Flowers, by Charles Darwin #19][dfmflxxx.xxx]3807
+[Full Title:  The Different Forms Of Flowers On Plants Of The Same Species]
+Mar 2003 A Modern Cinderella, by Louisa May Alcott[LMA #10][mdcndxxx.xxx]3806
+   Contains:
+   A Modern Cinderella:  or The Little Old Shoe
+   Debby's Debut
+   Brothers
+   Nelly's Hospital
+
+Mar 2003 The Vultures, by Henry Seton Merriman             [vltrsxxx.xxx]3805
+Mar 2003 Pierre And Jean, by Guy de Maupassant [G de M #19][pandjxxx.xxx]3804
+Mar 2003 File No. 113, by Emile Gaboriau[Emile Gaboriau#10][vltrsxxx.xxx]3803
+Mar 2003 The Widow Lerouge, by Emile Gaboriau [Gaboriau #9][lergexxx.xxx]3802
+[Alternate Title:  The Lerouge Case]
+Mar 2003 Napoleon And Blucher, by Louise Muhlbach   [LM #9][nplblxxx.xxx]3801
+[Variant spellings: Louisa, Louise, Luise Muhlbach; and Luise von Muhlbach]
+
+Feb 2003 The Ethics, by Benedict de Spinoza   [Spinoza #11][ethicxxx.xxx]3800
+[Full Latin Title:  Ethica Ordine Geometrico Demonstrata] [ethic10.txt & zip]
+[This contains the complete series:  and the ethic10w.doc and .zip files will
+contain hyperlinks to the references, all contained internally for reference]
+Feb 2003 Landholding In England, by Joseph Fisher[Fisher#2][lndiexxx.xxx]3799
+Feb 2003 Reminiscences of Captain Gronow, by Captain Gronow[grnowxxx.xxx]3798
+[Author's Full Name:  Captain Rees Howell Gronow]
+Feb 2003 In the Days of the Comet by H. G. Wells[Wells #21][incomxxx.xxx]3797
+Feb 2003 Rilla of Ingleside, by Lucy Maud Montgomery[LMM#7][rillaxxx.xxx]3796
+
+Feb 2003 Under the Lilacs, by Louisa May Alcott [Alcott #9 [ullcsxxx.xxx]3795
+Feb 2003 L. Annaeus Seneca On Benefits, by Aubrey Stewart  [bnftsxxx.xxx]3794
+Feb 2003 Joseph II. and His Court, by L. Muhlbach   [LM #8][j2ahcxxx.xxx]3793
+Feb 2003 Capitola The Madcap, by Emma D. E. N. Southworth  [mdcapxxx.xxx]3792
+Feb 2003 The Reign Of Law, by James Lane Allen             [rolawxxx.xxx]3791
+
+Feb 2003 Major Barbara, George Bernard Shaw[G. B. Shaw #22][mjbrbxxx.xxx]3790
+Feb 2003 Preface to Major Barbara, George Bernard Shaw[#21][pmbrbxxx.xxx]3789
+Feb 2003 Haydn, by J. Cuthbert Hadden  [Master Musicians]  [hhmmsxxx.xxx]3788
+Feb 2003 Nature And Art, by Mrs. [Elizabeth] Inchbald      [naartxxx.xxx]3787
+Feb 2003 Recollections of Geoffrey Hamlyn by Henry Kingsley[hmlynxxx.xxx]3786
+
+
+Sep 2002 1001 Nights[Arabian Nights], V9 by Richard Burton [91001xxx.xxx]3443
+[91001108.txt and .zip have accents, 91001107.txt and .zip do not have them.]
+
+***
+
+We created 118 new eTexts for you since our last monthly Newsletter.
+
+With 3946 eTexts online as of October 3, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.53 from each book,
+for Project Gutenberg to have alreacy given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.61 when we had 3828 Etexts on September 5
+This "cost" is down from $2.70 when we had 3709 Etexts on August 1.
+This "cost" is down from $2.76 when we had 3620 Etexts on July 4.
+This "cost" is down from $2.83 when we had 3534 Etexts on June 6.
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2.
+This "cost" is down from $2.97 when we had 3367 Etexts on April 4.
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on April 4
+This "cost" is down from $3.10 when we had 3225 Etexts on March 7
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3,
+
+
+Our Total For The Year Is About 910 For 275 days,
+this is 3.30 per day or 99 Per 30 day month. . . .
+This Would Yield About 1201 For The Year. . . .
+We are about 40 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+
+         Weekly Yearly
+Newsdate Etexts Avg/wk
+
+01/03/01   29    22.73
+October total   29
+
+09/26/01   27    22.59
+09/19/01   31    22.47
+09/12/01   31    22.3
+09/05/01   27    22.2
+September total 116
+
+
+08/29/01   25    22
+08/22/01   21    22
+08/15/01   30    22
+08/08/01   20    22
+08/01/01   22    22
+August total 117
+
+07/25/01   24    22
+07/18/01   22    22
+07/11/01   21    23
+07/04/01   29    23
+July Total 96
+
+06/27/01   22    23
+06/20/01   18    23
+06/13/01   17    23
+06/06/01   20    23
+June Total 77
+
+05/31/01   18    24
+05/23/01   16    24
+05/16/01   18    24
+05/09/01   18    25
+05/02/01   39    25
+May Total 109
+
+04/25/01   15    24
+04/18/01   11    25
+04/11/01   12    26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks   326   25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282   21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326   20.38
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+

@@ -1,0 +1,704 @@
+---
+params:
+  id: 1931
+title: PG Weekly Newsletter (2002-12-04)
+date: 2002-12-04T15:28:43+00:00
+author: Michael Cook
+layout: post
+url: /20021204/pg-weekly-newsletter-2002-12-04/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, December 04, 2002*
+******eBooks Readable By Both Humans and Computers For Over 31 Years******
+
+
+More on Moore's Law. . . .
+
+Since Dec. 10, 1990, we have More than kept up with Moore's Law,
+which predicted the following growth rate:
+
+eBooks  Date  Year
+
+  160 Dec 10, 1996
+  640 Dec 10, 1999
+ 2560 Dec 10, 2002
+
+or from eBook #100 on Dec. 10, 1993
+
+  100 Dec 10, 1993
+  400 Dec 10, 1996
+ 1600 Dec 10, 1999
+ 6400 Dec 10, 2002
+
+
+As of noon today, we have 6479 titles online.
+
+
+Over Our 31 1/3 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And This Year Averaged Nearly That Same 200 eBook Level. . .PER MONTH!!!!!
+
+And!!!
+
+As per our new editions of The Musketeers, etc. . . .
+
+Emailed directly from France:
+
+"Alexandre Dumas has just entered the Pantheon saturday.
+That was a great ceremony and a beautiful homage ;
+his coffin, followed by four mousquetaires, was transfered
+from his native city to the Pantheon, where the president
+received him.
+
+"Alexandre Dumas is now with Victor Hugo and Emile Zola."
+
+
+
+
+  ***The 19th Week Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+
+
+
+
+
+Today Is Day #323 of 2002
+28 Days/4 Weeks Left Until 2003
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+
+This the Week #32 Of Our SECOND 5,000 eBooks
+
+Next December, Perhaps Our 10,000th eBook!
+
+2,318   New eBooks In The Last 12 Months!!!
+4,161   eBooks This Week Last Year
+6,466   Tree-Friendly Titles Now Online
+
+  199   Monthly Average This Year [11 months]
+  101   This Month Last Year [November, 2001]
+  199   New This Month [11th month of 2002]
+  934   New At This Week of 2001
+ 2187   New eBooks So Far In 2002
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Project Gutenberg and other ebooks are listed in The eBook Catalog
+http://theebookcatalog.com
+
+***
+
+Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Third Request!
+
+We are seeking a physical copy of the book RUR in Czech by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+
+
++76 New This Week
+
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook has been re-indexed and re-named to reflect the
+correct Volume number (V1, not V4):
+Aug 2004 Works, V1, by Lucian of Samosata                  [lcns1xxx.xxx]6327
+
+
+The following eBook has been removed from the collection as it is
+essentially a duplicate of an already existing eBook #6069:
+Jul 2004 The Pony Rider Boys in the Ozarks, Patchin [FGP#4][prboz10a.xxx]6071
+Also note that eBook #6071 has already be allocate to a different eBook.
+
+
+We have posted an improved 12th edition of the folowing:
+Mar 1999 The Adventures of Sherlock Holmes, by Doyle  [#15][advshxxx.xxx]1661
+[New HTML format also posted in advsh12h.htm/.zip]
+Apr 1992 New eBook of Bible [KJV] [From many editions]     [biblexxx.xxx]  30
+
+
+We have posted an updated 11th editon of the following:
+Feb 1995 The Wisdom of Father Brown, by G.K. Chesterton #3 [wifrbxxx.xxx] 223
+
+
+The following has been reposted in new format(s) as indicated:
+Oct 2000 Tea-table Talk, by Jerome K. Jerome   [Jerome #21][ttalkxxx.xxx]2353
+[XHTML in ttalk10h.htm/.zip, text in ttalk10.txt/.zip]
+
+
+***] 3 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Nov 2002 Scandal of Father Brown, by G K Chesterton [GC#05][020103xx.xxx]0137A
+[Full Title: The Scandal of Father Brown]
+[http://gutenberg.net.au/ebooks02/0201031.txt or .ZIP]
+Nov 2002 Incredulity of Fthr Brown,by G K Chesterton[GC#04][020102xx.xxx]0136A
+[http://gutenberg.net.au/ebooks02/0201021.txt or .ZIP]
+[Full Title: The Incredulity of Father Brown]
+Nov 2002 A Tangled Web, by L M Montgomery           [LM#05][020101xx.xxx]0135A
+[http://gutenberg.net.au/ebooks02/0201011.txt or .ZIP]
+
+
+eBooks are held in TXT and/or ZIP formats.  To access these ebooks, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 73 NEW U.S. POSTS [***
+
+Sep 2004 Twelve Caesars,  by Seutonius, Complete     [ST15][st15wxxx.xxx]6400
+[Title: The Lives Of The Twelve Caesars, To Which Are Added,
+[The Lives Of The Grammarians, Rhetoricians, and Poets]
+[Author: C. Suetonius Tranquillus][Contains: eBook #6386-6399]
+Aug 2004 Lives of the Poets, by Seutonius,       V14 [ST14][st14wxxx.xxx]6399
+Aug 2004 Grammarians and Rhetoricians,Seutonius, V13 [ST13][st13wxxx.xxx]6398
+Aug 2004 12 Caesars, Domitian, by Seutonius,     V12 [ST12][st12wxxx.xxx]6397
+Aug 2004 12 Caesars, Titus, by Seutonius,        V11 [ST11][st11wxxx.xxx]6396
+Aug 2004 12 Caesars, Vespasian, by Seutonius,    V10 [ST10][st10wxxx.xxx]6395
+Aug 2004 12 Caesars, Vitellius, by Seutonius,     V9 [ST09][st09wxxx.xxx]6394
+Aug 2004 12 Caesars, Otho, by Seutonius,          V8 [ST08][st08wxxx.xxx]6393
+Aug 2004 12 Caesars, Galba, by Seutonius,         V7 [ST07][st07wxxx.xxx]6392
+Aug 2004 12 Caesars, Nero, by Seutonius,          V6 [ST06][st06wxxx.xxx]6391
+Aug 2004 12 Caesars, Claudius, by Seutonius,      V5 [ST05][st05wxxx.xxx]6390
+Aug 2004 12 Caesars, Caligula, by Seutonius,      V4 [ST04][st04wxxx.xxx]6389
+Aug 2004 12 Caesars, Tiberius, by Seutonius,      V3 [ST03][st03wxxx.xxx]6388
+Aug 2004 12 Caesars, Augustus, by Seutonius,      V2 [ST02][st02wxxx.xxx]6387
+Aug 2004 12 Caesars, Julius Caesar, by Seutonius, V1 [ST01][st01wxxx.xxx]6386
+
+Aug 2004 Die Jungfrau von Orleans, by Schiller             [?jfvoxxx.xxx]6383
+[Author's Full Name: Johann Friedrich von Schiller] [Language: German]
+[7-bit version with non-accented characters in 7jfvo10.txt and 7jfvo10.zip]
+[8-bit version with accented characters in 8jfvo10.txt and 8jfvo10.zip]
+Aug 2004 Bat Wing, by Sax Rohmer                 [Rohmer#8][?wingxxx.xxx]6382
+[Author AKA: Arthur Ward Sarsfield]
+[7-bit version with non-accented characters in 7wing10.txt and 7wing10.zip]
+[8-bit version with accented characters in 8wing10.txt and 8wing10.zip]
+Aug 2004 Two Years in the French West Indies,by L. Hearn[4][tyfwixxx.xxx]6381
+[Author's Full Name: Lafcadio Hearn]
+
+Aug 2004 Cornelli, by Johanna Spyri                        [crnllxxx.xxx]6380
+Aug 2004 Victory, by Joseph Conrad              [Conrad#27][vctyxxxx.xxx]6378
+[Subtitle: An Island Tale]
+[XHTML in vcty10h.htm/.zip, text in vcty10.txt/.zip]
+Aug 2004 Thais, by Anatole France                          [?thaixxx.xxx]6377
+[Author's Full Name: Jacques Anatole Thibault][Language: French]
+[7-bit version with non-accented characters in 7thai10.txt and 7thai10.zip]
+[8-bit version with accented characters in 8thai10.txt and 8thai10.zip]
+[UTF-8 version with accented characters in 8thai10u.txt and 8thai10u.zip]
+Aug 2004 Self-Raised, Emma Dorothy Eliza Nevitte Southworth[slfrsxxx.xxx]6376
+[Subtitle: Or, From the Depths]
+
+Aug 2004 Quaint Gleanings from Ancient Poetry, E. Goldsmid [qntglxxx.xxx]6375
+[Author's Full Name: Edmund Goldsmid]
+[Subtitle: A Collection of Curious Poetical Compositions of the XVIth,
+[XVIIth, and XVIIIth Centuries]
+Aug 2004 Princess Maritza, by Percy Brebner                [smrtzxxx.xxx]6374
+Aug 2004 The Luck of Roaring Camp and Other Tales,Harte[51][tlrcoxxx.xxx]6373
+[Author's Full Name: Bret Harte]
+[Subtitle: With Condensed Novels, Spanish and American Legends, and Earlier
+[Papers]
+Aug 2004 The Wonder-Working Magician, by Calderon      [#4][wwmgnxxx.xxx]6372
+[Full author: Pedro Calderon de la Barca]
+Aug 2004 The Purgatory of St. Patrick, by Calderon     [#3][prgspxxx.xxx]6371
+[Full author: Pedro Calderon de la Barca]
+
+Aug 2004 The Story Of The Odyssey, by Alfred J. Church     [sdssyxxx.xxx]6370
+Aug 2004 Medieval Europe, by H. W. C. Davis                [mdvlpxxx.xxx]6369
+Aug 2004 Here, There And Everywhere, by Hamilton       [#2][hrvryxxx.xxx]6368
+[Full author: Lord Frederic Hamilton]
+Aug 2004 Saint Francis of Assisi, by Candide Chalippe      [frnssxxx.xxx]6367
+[Full title: The Life and Legends of Saint Francis of Assisi]
+Aug 2004 The Principles Of Aesthetics, by Dewitt H. Parker [pncstxxx.xxx]6366
+
+Aug 2004 Richard Dare's Venture, by Edward Stratemeyer [#7][rcdvtxxx.xxx]6365
+Aug 2004 Warlock o' Glenwarlock, by George MacDonald  [#26][wrgwkxxx.xxx]6364
+Aug 2004 Life Is A Dream, by Pedro Calderon de la Barca[#2][lfdrmxxa.xxx]6363
+[Translator: Denis Florence MacCarthy]
+(translated by Edward Fitzgerald.)
+Aug 2004 Three Soldiers, by John Dos Passos                [thsldxxx.xxx]6362
+Aug 2004 Making Good On Private Duty,Harriet Camp Lounsbery[gdpvdxxx.xxx]6361
+
+Aug 2004 Half a Dozen Girls, by Anna Chapin Ray     [Ray#2][hfdzgxxx.xxx]6360
+Aug 2004 The English Mail-Coach & Joan of Arc,de Quincey #9[?mjncxxx.xxx]6359
+[Full author: Thomas de Quincey]
+Aug 2004 The History of England, by A. F. Pollard          [hstngxxx.xxx]6358
+Aug 2004 The Young Fur Traders, by R.M. Ballantyne     [#2][?frtdxxx.xxx]6357
+May 2004 The Gospel of Matthew for Readers, by Lightheart  [gmattxxx.xxx]6356C
+
+Aug 2004 Locusts and Wild Honey, by John Burroughs     [#5][lwhonxxx.xxx]6355
+[A.K.A. The Writings of John Burroughs Volume IV]
+Aug 2004 Italian Hours, by Henry James              [HJ#45][?ihouxxx.xxx]6354
+[7-bit version with non-accented characters in 7ihou10.txt and 7ihou10.zip]
+[8-bit version with accented characters in 8ihou10.txt and 8ihou10.zip]
+Aug 2004 The Prince of Graustark, by G. B. McCutcheon [#17][prgrkxxx.xxx]6353
+Aug 2004 Dora Deane, by Mary J. Holmes           [Holmes#4][dradnxxx.xxx]6352
+Aug 2004 Red Fleece, by Will Levington Comfort             [rdflcxxx.xxx]6351
+
+Aug 2004 Via Crucis, by F. Marion Crawford     [Crawford#4][vcrucxxx.xxx]6350
+Aug 2004 Copyright Renewals 1954, US Copyright Office  [#7][r1954xxx.xxx]6349
+Aug 2004 Copyright Renewals 1953,   US Copyright Office[#6][r1953xxx.xxx]6348
+Aug 2004 Hobson's Choice, by Harold Brighouse              [hbsncxxx.xxx]6347
+Aug 2004 Cecilia Volume 1, by Frances Burney     [Burney#4][ccla1xxx.xxx]6346
+
+Aug 2004 Seven Maids of Far Cathay, by Bing Ding, Ed.      [smcatxxx.xxx]6345
+[Subtitle: Being English Notes From A Chinese Class Book]
+Aug 2004 The 2002 CIA World Factbook                       [world02x.xxx]6344
+(Note that edition numbers are not included in the filenames for this
+Aug 2004 Kritik der reinen Vernunft (2nd Edition), I. Kant [?ikc2xxx.xxx]6343
+Aug 2004 Kritik der reinen Vernunft (1st Edition), I. Kant [?ikc1xxx.xxx]6342
+[English title: Critique of Pure Reason] [Author's Full Name: Immanuel Kant]
+[Language: German]
+[7-bit version with non-accented characters in 7ikc110.txt and 7ikc110.zip]
+[8-bit version with accented characters in 8ikc110.txt and 8ikc110.zip]
+Aug 2004 Nachtstuecke, by E.T.A. Hoffmann                  [?nachxxx.xxx]6341
+[7-bit version with non-accented characters in 7nach10.txt and 7nach10.zip]
+[8-bit version with accented characters in 8nach10.txt and 8nach10.zip]
+[Language: German]
+
+Aug 2004 Literary Lapses, by Stephen Leacock    [Leacock#9][ltlpsxxx.xxx]6340
+Aug 2004 The Boy Scounts on a Submarine,Captain John Blaine[bssubxxx.xxx]6339
+[Note: Not the same as #6108]
+Aug 2004 Boy Scounts in the Coal Caverns, by M. Fletcher   [bscocxxx.xxx]6338
+[Author's Full Name: Major Archibald Lee Fletcher]
+[Subtitle: Or the Light in Tunnel Six]
+Aug 2004 The Boy Allies Under Two Flags, Robert L. Drake   [bautfxxx.xxx]6337
+Aug 2004 The Misuse of Mind, by Karin Stephen              [misumxxx.xxx]6336
+(HTML also posted zipped file only in misum10h.zip)
+
+Aug 2004 The Antiquity of Man, by Charles Lyell   [Lyell#2][ntqtmxxx.xxx]6335
+Aug 2004 Sara, a Princess, by Fannie E. Newberry           [srprnxxx.xxx]6334
+[Subtitle: The Story of a Noble Girl]
+Aug 2004 Public Speaking, by Irvah Lester Winter           [?pspkxxx.xxx]6333
+[Subtitle: Principles and Practice]
+[7-bit version with non-accented characters in 7pspk10.txt and 7pspk10.zip]
+[8-bit version with accented characters in 8pspk10.txt and 8pspk10.zip]
+
+
+Aug 2004 The Money Master,   by G. Parker, Complete [GP107][gp107xxx.xxx]6280
+[Author: Gilbert Parker][Contains: EBooks #6275-6279]
+Aug 2004 The Money Master,   by G. Parker, Epoch 5  [GP106][gp106xxx.xxx]6279
+Aug 2004 The Money Master,   by G. Parker, Epoch 4  [GP105][gp105xxx.xxx]6278
+Aug 2004 The Money Master,   by G. Parker, Epoch 3  [GP104][gp104xxx.xxx]6277
+Aug 2004 The Money Master,   by G. Parker, Epoch 2  [GP103][gp103xxx.xxx]6276
+Aug 2004 The Money Master,   by G. Parker, Epoch 1  [GP102][gp102xxx.xxx]6275
+
+
+Jul 2004 The Rover Boys out West, Arthur M. Winfield [ES#6][rbwesxxx.xxx]6071
+
+***
+
+Statistical Review
+
+In the first 48 weeks of this year, we have produced 2,187 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year of 2001 and began the production year of 2002.
+
+With 6,479 eBooks online as of December 4, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.54 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $2.40 when we had 4161 eBooks A Year Ago
+
+Can you imagine 6,000 books each costing $.81 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6479 eBooks in 31 1/3 Years We Averaged
+
+At 2187 eBooks Done In 2002 We Averaged
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+[Not sure of the source of this one, sorry.]
+
+LIBRARY FILTERS BAN THE LIBRARY
+An Ohio library found itself blocked on its own system after
+it installed net filtering software.  The Flesh Public Library
+had its own site blocked after the program blocked sites with
+the word "flesh".  Rather than considering the implications
+of the software, the library simply changed its name.
+http://www.activedayton.com/ddn/local/daily/1122flesh.html
+
+
+Headlines From Newsscan
+
+DIGITAL DOMESDAY BOOK GETS NEW LIFE
+The BBC's computer-based, multimedia version of the famed Domesday Book has
+received a new lease on life, thanks to scientists at Leeds University and
+the University of Michigan, who have found a way to access the archive
+stored on 1980s-era interactive video discs. To unlock the now-obsolete
+technology, the Camileon project teams have developed software that
+emulates the Acorn Microcomputer system and the video disc player. "BBC
+Domesday has become a classic example of the dangers facing our digital
+heritage," says project manager Paul Wheatley. "But it must be remembered
+that time is of the essence. We must invest wisely in developing an
+infrastructure to preserve our digital records before it is too late. We
+must not make the mistake of thinking that recording on a long-lived medium
+gives us meaningful preservation." The information on the Domesday discs
+has been inaccessible for 16 years. By contrast, the original Domesday
+Book, an inventory of England compiled in 1086 by Norman monks, is in fine
+condition in a London Public Record Office. (BBC News 2 Dec 2002)
+http://news.bbc.co.uk/1/hi/technology/2534391.stm
+
+TRANSISTORS MADE FROM PLASTIC
+A Xerox research team has developed an experimental polymer usable for
+making organic transistors on a plastic substrate. "Think about the value of
+a laptop or cell phone display that you could drop without breaking," says
+one team member. The making of printed plastic transistors in phones and
+PDAs will be done on a new electronics manufacturing process on roll-to-roll
+machinery of the kind now used in publishing. (New York Times 3 Dec 2002)
+http://partners.nytimes.com/2002/12/03/technology/03XERO.html
+
+WHAT DOES STEVE CASE DO ALL DAY?
+Steve Case's "advisory-only" position at AOL Time Warner continues to be
+scrutinized, and industry analysts continue to suggest that the embattled
+chairman (and former head of AOL before its merger with Time Warner) is a
+superfluous figure. Paul Kim of Kaufman Brothers says, "There is increased
+scrutiny of what Steve Case's role is, and there are more questions about
+what his function is in the corporation." And John Tinker of Blaylock &
+AOL." But many observers insist that Case is resilient and should not be
+never as good or as bad as the press, or the street, says you are... In my
+experience, this isn't the time to play defense, it's also the time to play
+offense."  (New York Times 2 Dec 2002)
+http://partners.nytimes.com/2002/12/02/technology/02CASE.html
+
+ADVERTISING DROP WILL DELAY AOL'S FINANCIAL REBOUND
+America Online's attempt to attain financial health will be delayed until
+2004 as the result of an expected 40-50% drop in advertising revenues next
+year, and the company is predicting an overall 15-25% fall in profitability
+during that period. AOL Time Warner chairman Steve Case (the former AOL
+chairman who has been much-criticized for his role in engineering the merger
+direction builds on AOL's past. This marks not just an important new
+beginning for AOL but a new beginning for AOL Time Warner. It is a new day."
+(Washington Post 4 Dec 2002)
+http://www.washingtonpost.com/wp-dyn/articles/A5748-2002Dec3.html
+
+A study by Harvard Law School researchers finds that China is the country
+with the world's most oppressive censorship of what its citizens can view on
+the Internet. Chinese authorities block access to 19,000 sites, and also
+delete individual links or Web pages of which they do not approve. Most of
+the disapproved sites are political in nature. When it comes to blocking
+pornography, China (at least for now) cedes the first-place prize to Saudi
+to Saudi Arabia's blocking of 86%. (New York Times 4 Dec 2002)
+http://partners.nytimes.com/2002/12/04/international/asia/04CHIN.html
+
+FEE-BASED MUSIC SERVICES LANGUISH
+While free music file-swapping services such as Kazaa continue to flourish
+(with Kazaa now attracting almost 14 million U.S. visitors a month),
+fee-based services such as MusicNet have not succeed in finding a solid
+customer base of more than 100,000 subscribers. Are people just not willing
+to pay for music online? Or is the problem something else? Some industry
+watchers think the more important problem for fee-based music services is
+that they don't offer enough music selections. (For example, MusicNet was
+recently offering only two of the top 10 of the most popular songs in the
+country.) But industry executives are confident in their belief that it's
+just a matter of time before they can prove that music consumers, just like
+consumers of bottled water, will pay for something they can get for free
+provided the marketing and distribution are right. (San Jose Mercury News 2
+Dec 2002)
+http://www.siliconvalley.com/mld/siliconvalley/4647117.htm
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+
+***
+
+Headlines From Edupage
+
+WEB SITE LETS STUDENTS POINT OUT BIAS
+The Web site NoIndoctrination.org lets students anonymously accuse
+professors, by name, of political bias. Luann Wright, a designer of
+science curriculums, started the course two years after her son took a
+writing course at the University of California at San Diego that she
+found objectionable. Students using the new site can rate the perceived
+level of bias in a professor's lectures, reading list, and class
+discussions, and post anonymous accusations, reportedly to avoid
+retaliation from professors named. Professors can write rebuttals,
+although few have taken advantage of the opportunity.
+Chronicle of Higher Education, 26 November 2002 (sub. req'd)
+http://chronicle.com/daily/2002/11/2002112605n.htm
+
+PANELISTS DISCUSS SOFTWARE AS CENSOR
+A conference at Columbia University on free expression and the arts
+focused on new limits on artistic freedom in a technology-heavy
+culture. Artists in this environment face copyright issues, whether in
+trying to obtain  materials or in having their own rights (including
+free speech) infringed, and the possibility of censorship of their work
+by software filters. The National Arts Journalism Program sponsored the
+conference. Participants debated the pros and cons of such things as
+the extension of copyright law another 20 years and attempts by the
+entertainment industry to restrict file sharing.
+New York Times, 26 November 2002
+http://www.nytimes.com/2002/11/26/arts/26CENS.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_12_04.txt" target="_blank" rel="nofollow">pgweekly_2002_12_04.txt</a>

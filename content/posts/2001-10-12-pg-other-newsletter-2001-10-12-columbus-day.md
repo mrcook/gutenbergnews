@@ -1,0 +1,77 @@
+---
+params:
+  id: 1813
+title: "PG Other Newsletter: Columbus Day (2001-10-12)"
+date: 2001-10-12T22:27:12+00:00
+author: Michael Cook
+layout: post
+url: /20011012/pg-other-newsletter-2001-10-12-columbus-day/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Columbus Day at Project Gutenberg
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Fri, 12 Oct 2001 12:31:14 -0400 (EDT)
+
+
+Happy Columbus Day!
+
+Here are a few new Project Gutenberg Etexts released today
+in honor of one of the people who changed the world most.
+
+Of course, in many circles Columbus has recently been
+"decanonized". . .just compare the HUGE 400th anniversary
+of 1492 as celebrated around the world and especially in
+Columbian Exposition in Chicago and the silliness that
+transpired on the 500th anniversary when it was decided
+well in advance to portray Columbus as politically incorrect.
+
+Columbus, himself, would tell you he was politically incorrect
+for his entire life. . .and proud of it. . .and that it was a
+requirement. . . .
+
+So. . .Congratulations Columbus!!!
+
+You actually did land on American soil, on several occasions,
+much as those who rewrite history would pretend otherwise.
+
+Here are the 9 Columbus Etexts released on October 12, 2001
+[The official dates are much later because we are ahead of schedule]
+[We ARE planning on fixing this]
+
+Jun 2003 Christopher Columbus by F. Young entire    [CC#09][cc09vxxx.xxx]4116
+Jun 2003 Christopher Columbus by Filson Young v8    [CC#08][cc08vxxx.xxx]4115
+Jun 2003 Christopher Columbus by Filson Young v7    [CC#07][cc07vxxx.xxx]4114
+Jun 2003 Christopher Columbus by Filson Young v6    [CC#06][cc06vxxx.xxx]4113
+Jun 2003 Christopher Columbus by Filson Young v5    [CC#05][cc05vxxx.xxx]4112
+Jun 2003 Christopher Columbus by Filson Young v4    [CC#04][cc04vxxx.xxx]4111
+Jun 2003 Christopher Columbus by Filson Young v3    [CC#03][cc03vxxx.xxx]4110
+Jun 2003 Christopher Columbus by Filson Young v2    [CC#02][cc02vxxx.xxx]4109
+Jun 2003 Christopher Columbus by Filson Young v1    [CC#01][cc01vxxx.xxx]4108
+
+
+I hope you enjoy them. . . .
+
+
+Information on how you can support Project Gutenberg availabe on request.
+
+
+
+Michael S. Hart
+&lt;hart@pobox.com&gt;
+Project Gutenberg
+"*Ask Dr. Internet*"
+Executive Coordinator
+"*Internet User ~#100*"
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/other_2001_10_12_columbus_day.txt" target="_blank" rel="nofollow">other_2001_10_12_columbus_day.txt</a>

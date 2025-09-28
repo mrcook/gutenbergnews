@@ -1,0 +1,606 @@
+From hart at pglaf.org  Wed Feb  1 09:47:42 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Feb  1 09:47:45 2006
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0602010947060.8646@pglaf.org>
+
+pt1a4.106
+pt1b4.106
+Weekly_February_01.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, February 01, 2006  PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+*
+
+!!!  I will be on the road next month, Newsletter Editor Needed   !!!
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+>>>   !!!People who can help with PR for our 35th Anniversary!!!  <<<
+
+>>>   !!!People to help us collect ALL public domain eBooks!!!  <<<
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    2 New This Week From PG Australia [Australian, Canadian Copyright Etc.]
+    8 New This Week From PGEu [European Copyrights, Life + 50 and 70]
+    0 New This Week From PG PrePrints
+   50 New This Week To Public Domain eBooks Under US Copyright
+   60 New This Week [Including PG Australia, PG Europe and PrePrints]
+      [I'm sure there are a few bugs in the new accounting]
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+                       18,381 eBooks As Of Today!!!
+
+                   Including 527 Australian eBooks   [+2]
+                   and 244 Project Gutenberg Europe  [+8]
+                   And 1 From The New PrePrint Site  [+0]
+
+                  We Are ~92% of the Way to 20,000!!!
+
+           ***531 eBooks Averaged Per Year Since July 4, 1971***
+
+               15,319 New eBooks Since The Start Of 2001
+
+              That's ~251 eBooks per Month for ~61 Months
+
+                   We Have Produced 239 eBooks in 2006
+
+                        1,619 to go to 20,000!!!
+
+               30 New eBooks From Distributed Proofreaders
+                7,980 total from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+                 [Currently over 36,000 DP volunteers]
+
+                We Averaged ~339 eBooks Per Month In 2004
+                We Averaged ~248 eBooks Per Month In 2005
+                         [Including PG Australia]
+
+             We Are Averaging ~239 eBooks Per Month This Year
+                   [Including PGAu, PGEu and PrePrints]
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+  [Now including totals from both Australia and Europe and PrePrints]
+        [Apologies, it will take a while to integrate everything
+            not all statistics may be totally equalized yet]
+            [PGEu Statistics Are Counted Monthly Not Weekly]
+
+   All Four Sites Combined Are Averaging 60 eBooks Per Week In 2006
+                             60 This Week
+
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2003 to 2006 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,500
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+DEBATING THE BEST WAY TO SPREAD TECHNOLOGY
+Nicholas Negroponte, founder of the MIT Media Laboratory, has sparked
+an ongoing debate about how best to bring technology to the developing
+world. Negroponte has created a nonprofit organization called One
+Laptop Per Child to develop a $100 laptop to be marketed to countries
+with limited access to technology. His vision is reportedly taking
+shape, with a manufacturer lined up and project organizers close to
+signing deals for seven million of the units. Negroponte reportedly
+talked with both Microsoft and Apple about supplying operating systems
+for his $100 laptops, but he ultimately settled on Linux, a decision
+that is said to have riled Microsoft Chairman Bill Gates. Speaking at
+the recent Consumer Electronics show, Gates suggested that instead of
+an inexpensive laptop, modified cell phones are a better way to spread
+technology. Gates showed a mockup of such a phone, which would connect
+to a TV and a keyboard. Negroponte said his group considered a similar
+approach but dismissed it as too impractical compared to the laptop idea.
+New York Times, 30 January 2006 (registration req'd)
+http://www.nytimes.com/2006/01/30/technology/30gates.html
+
+[and the best way to provide information, via your friendly censors]
+
+GOOGLE TO CENSOR SEARCH RESULTS IN CHINA
+Google will launch search and news sites in China this week that will
+block access to information the Chinese government considers
+objectionable. Chinese officials have a long track record of censoring
+speech and ideas, and, according to Andrew McLaughlin, senior policy
+counsel for Google, the new sites "will comply with local Chinese laws
+and regulations." Search results from which content has been excluded
+will notify users that not all results are being displayed. Google said
+that the decision to offer its services even if they are censored
+reflects the belief that limited access to Internet resources is better
+than no access, which would be the alternative if Google did not comply
+with local legislation. "We must balance our commitments," said
+McLaughlin, "to satisfy the interest of users, expand access to
+information, and respond to local conditions." Reporters Without
+Borders, an organization that advocates for freedom of the press, was
+highly critical of the decision, saying, "The new Google version means
+that even if a human rights publication is not blocked by local
+firewalls, it has no chance of being read in China."
+CNET, 24 January 2006
+http://news.com.com/2100-1028_3-6030784.html
+
+[and the best way to store articles out of the public's reach]
+
+KEEPING ONLINE ARTICLES AVAILABLE
+A group of libraries and publishers are cooperating on a pilot project
+to ensure access to online journals. Libraries at five universities, as
+well as the New York Public Library, will work with nine publishers on
+an archive that will consist of copies of journal articles from
+participating publishers stored on 10 servers at the universities.
+Those archived copies will be unavailable to the public, but the system
+will monitor the Web sites of the journals that published those
+articles. When the system detects that the publisher's online version
+of an article is unavailable for an extended period of time, the
+system's governing board will decide whether to make the archived copy
+available. The goal is to ensure long-term access to journal articles,
+even when publishers go out of business or computer systems suffer
+severe outages or losses of data. The effort is important because
+libraries and publishers are frequently at odds over how and when to
+provide online access to copyrighted material. Those involved hope the
+effort will help the groups work together toward a common goal.
+Chronicle of Higher Education, 25 January 2006 (sub. req'd)
+http://chronicle.com/daily/2006/01/2006012502t.htm
+
+[and a not so legal way of keeping competitors out of the loop]
+
+MICROSOFT TO LICENSE SOURCE CODE
+In an effort to avoid a stiff fine issued by the European Commission,
+Microsoft has agreed to license some of its source code. European
+antitrust regulators have found Microsoft guilty of abusing its
+monopoly power and have insisted on changes to the company's practices
+to address the violations, including offering a version of its
+operating system without the Microsoft Media Player and providing
+access to its source code to rivals so they can develop software that
+will properly interoperate with Windows computers. Microsoft met the
+first condition, but commissioners last month said that if the company
+continued to deny access to competitors, it would face a fine of nearly
+$2.5 million per day, retroactive to December 15 of last year.
+Microsoft is appealing the rulings against it but has said that while
+those appeals are pending, it will license the source code for its
+Windows Server System. The European Commission will review Microsoft's
+proposal before deciding whether to fine the company.
+ZDNet, 25 January 2006
+http://news.zdnet.com/2100-3513_22-6030879.html
+
+LAWSUITS TARGET MAKER OF BOGUS SYPWARE TOOLS
+The State of Washington and Microsoft have filed separate lawsuits
+against Secure Computer, a company they accuse of running a bogus
+antispyware racket. According to the complaints, Secure Computer used
+pop-up ads and other tools to tell computer users that their computers
+were infected with spyware and to offer a service, Spyware Cleaner,
+that would remove the unwanted software for $49.95. Microsoft and
+Washington Attorney General Rob McKenna said that the scan that
+supposedly revealed spyware was bogus and that the removal service in
+fact left computers more vulnerable to spyware. Moreover, the
+complaints contend that Secure Computer's messages implied that the
+service was in some way connected to or endorsed by Microsoft. The
+lawsuits allege that Secure Computer violated a recently enacted
+Washington Computer Spyware Act and three other laws. An attorney
+representing Secure Computer said the company was shocked at the legal
+action and would respond shortly.
+ZDNet, 25 January 2006
+http://news.zdnet.com/2100-1009_22-6031108.html
+
+AMERIPRISE LAPTOP WITH PERSONAL DATA STOLEN
+A laptop containing information on 230,000 individuals was stolen from
+the car of an employee of Ameriprise Financial in December, according
+to the company. The computer included names and Social Security numbers
+for more than 70,000 financial advisors, and names and Ameriprise
+account numbers for 158,000 customers of the firm, which was spun off
+of American Express last year. Andy MacMillan, a spokesperson from the
+company, said that although access to the data is protected by a password,
+the data were not encrypted, which is a violation of written company policies.
+MacMillan said the company does not believe that the thief knew about the
+information contained on the laptop and thinks that it is unlikely any
+of the information will be accessed or used fraudulently.
+New York Times, 25 January 2006 (registration req'd)
+http://www.nytimes.com/2006/01/25/business/25cnd-data.html
+
+NEW SITE AIMS TO IDENTIFY MAKERS OF MALICIOUS PROGRAMS
+Researchers at Harvard Law School and Oxford University are launching a
+Web site that will identify organizations that distribute spyware,
+adware, and other unwanted computer programs, as well as the tactics
+they employ to intall their applications. StopBadware.org was financed
+initially by companies including Google, Lenovo, and Sun Microsystems.
+The site will also include an area where consumers can submit
+testimonials about their experiences with different software they have
+downloaded. John G. Palfrey Jr., executive director of the Berkman
+Center for Internet and Society at Harvard, said, "We want to turn the
+spotlight on the bad actors, but also give ordinary users a place to go
+and get an early warning before they download something that might harm
+their computer." According to the Pew Internet & American Life Project,
+59 million U.S. adults said their computers were infected with spyware
+last year. Data from Consumer Reports indicate that despite consumer
+spending of $2.6 billion over the past two years on antivirus and
+antispyware tools, users still spent $3.5 billion in damages over the
+same period due to unwanted software.
+New York Times, 25 January 2006 (registration req'd)
+http://www.nytimes.com/2006/01/25/technology/25spy.html
+
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.
+Remember, the subject is not the article's subject,
+the subject is the manipulation of the world news.]
+
+
+(AP) "The White House is crippling a Senate inquiry into the
+government's sluggish response to Hurricane Katrina by barring
+administration officials from answering questions and failing to
+hand over documents, senators leading the investigation said Tuesday."
+
+Thus read the opening statement in an article by the (AP) Associated
+Press, entitled:  "Senators: White House Stalls Katrina Probe"
+01/25/06
+
+This article was referenced only by CBS, as per my sources, and some
+Google searches on various keywork combinations yielded few results,
+so few as to actually be zero for some of the searches, and only TWO
+per the search that yielded this hit, which included "Lieberman" as:
+
+"No one believes that the government responded adequately,
+and we can't put that story together if people feel they're
+under a gag order from the White House."
+
+Senator Joe Lieberman, of Connecticut
+
+Even the Republican Senator Susan Collins of Maine, the committee's
+Republican chair, had some harsh words for the White House:
+
+"We are entitled to know if someone from the Department of Homeland
+Security calls someone at the White House during this whole crisis
+period, so I think the White House has gone too far in restricting
+basic information about who called whom on what day."
+
+She said the White House gag order is "completely inappropriate."
+
+Source:  CBS, AP, Frankfort Times [IN]
+
+*
+
+Bill Gates Says It Will Take 10 Years To Stop Piracy In China/India
+
+"In India and China it will be a decade before we get that level,"
+meaning the current protection level achieved in the United States,
+as is currently in progress in Taiwan and South Korea.
+
+Mr. Gates was addressing the World Economic Forum in Switzerland.
+
+[However, what I think he really means is that it will take 10 years
+or so, for China and India to grow economically to the point where a
+person of their average means can really afford MicroSoft programs.]
+
+[By the way, I got the first clues to this story from the BBC, but a
+recent search shows the story is already missing after a short time,
+so the follow up was through The Express, of India.]
+
+[In my own personal experiences outside the Asia major urbana center
+locations, there is no place you can find legal copies of anything--
+the manufacturers are just not interested in making them available.]
+
+If the product is not made available, how can we buy The Real Thing?
+
+
+Source:
+BBC
+Express India
+
+*
+
+James Hansen, NASA's Goddard Institute for Space Studies Director is
+trying to tell the world about Global Warming, and says censoring of
+his comments, screening of his interviews. . .is being done by those
+officials of the Bush administration who are trying to cover up this
+ongoing issue on a permanent basis.
+
+Other Bush officials have been fired for even saying there is such a
+thing as Global Warming.
+
+Dean Acosta, Deputy Chief of Public Affairs at NASA, has denied such
+by saying "That's not the way we operate here."
+
+Hansen says NASA had ordered all of his speaking engagements, notes,
+papers, and web postings to undergo review before publication, after
+his attempts to call attention to greenhouse gas emissions.
+
+The New York Times quotes him as saying, "They feel their job is to
+be this censor of information going out to the public."
+
+This is in addition to similar efforts on 06/13/05 as Philip Cooney
+left his White House post as Chief of Staff of their new Council on
+Environmental Quality after documents revealed he had long been the
+White House's lead censor on Global Warming and had deleted warning
+after warning concering Global Warming written for this White House
+as part of commissioned reports.
+
+Hansen has said this in no uncertain terms to Congress:
+
+"It is time to stop waffling. . .the greenhouse effect is here."
+
+Later he added that because of the added effect of methane and
+chlorofluorocarbons it is "more practical to slow global warming
+than is sometimes assumed."
+
+In his report to National Academy of Sciences he said:
+
+Sciences: "We suggest that a strategy to slow global warming focus on
+reducing air pollution, especially tropospheric [ground level] ozone,
+methane and black carbon particles.
+
+"Human health and ecological costs of these pollutants are counted in
+billions of dollars in the United States, and impacts are reaching
+devastating levels in the developing world. A strategy focused on
+reducing these pollutants, which are not essential to energy. . . ."
+
+Source:  New York Times, Telegraph News [UK]
+
+
+*DOUBLESPEAK OF THE WEEK
+
+"Freedom Of Speech" Limited By The Bush Administration This Week
+
+
+Supposedly the above NASA comments in the Global Warming study
+should be enough.
+
+However, the arrest of Cindy Sheehan some 20 hours ago at the
+President's State Of The Union speech challenges that.
+
+Mrs. Sheehan, mother Casey Sheehan, killed in Baghdad's Sadr
+City, on April 4, 2004, was the invited guest of Representative
+Lynn Woolsey of California, but was ejected from the proceedings
+when she revealed a t-shirt that did not support the Iraq war.
+
+Source:  CBS News
+
+*
+
+It would also appear that government employees are attempting
+some kind of "1984" rewrite of history as per the Wikipedia.
+
+Apparently the Wikipedia biographies of over 1,000 government
+officials have been altered by government employees in events
+tagged variously as "Wikigate" or "Meehangate."
+
+http://digg.com/technology/More_than_1000_wikipedia_alterations_by_US_Repres
+entative_Staffers
+
+
+*PREDICTIONS OF THE WEEK
+
+The icecaps will continue to melt.
+The glaciers will continue to shrink.
+Icebergs will continue at record numbers and sizes.
+Mosquitos will continue moving into the arctic tundra,
+and caribou herds etc., will continue dying as a result.
+Etc.
+
+
+*STRANGE QUOTES OF THE WEEK
+
+
+"I participated in a hoax. . . ."
+
+"Now" on PBS, with David Brancaccio.
+
+[This was part of a preview, and I didn't get the whole quote
+or who said it. . .does anyone have it?     Thanks!  Michael]
+
+
+*ODD STATISTICS OF THE WEEK
+
+65% of all new US job searches are due to "inadequate compensation"
+at the previous job.  [All those "new jobs" that required workers
+to say things such as, "Would you like fries with that?"]
+
+*
+
+The used car market is being "flooded" with thousands of used cars
+that have gont through "title washing" to remove evidence of flood
+damage from last year's hurricanes.
+
+*
+
+By the way, for those interested, the official U.S. population
+estimates just passed 298 million, though many say estimations
+of this nature leave out as much as 5% of the population.
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+
+Relight
+
+My reality is that of domesticated people
+on their well masticated lunches
+who have every right to remain silent
+in between morsels heated up in the microwave oven
+and yet they don't
+they keep on thinking
+their minds talk with the speed of their fingers
+abusing the keyboards while doing reports
+Today we've been good. We behaved and we obeyed.
+We cheated and we lied. We reached our targets.
+Every pedestrian agent has a way of convincing
+they are doing a great job
+every day of their lives.
+You can tell by the way they cross the street
+their briefcases swaying gently in their wedding ring
+adorned hands
+with whom their open up the mail
+and touch the shoulder of a freshly cooked meal
+small kids smelling housewife.
+The boulevard is broad
+every corner is an option
+We cross the street when they say Walk,
+my briefcase swinging gently in my hand.
+
+Copyright 2006 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+*
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+

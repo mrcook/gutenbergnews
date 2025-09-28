@@ -1,0 +1,178 @@
+---
+params:
+  id: 2210
+title: "PG Other Newsletter: 34 Years Of Project Gutenberg (2005-07-04)"
+date: 2005-07-04T21:40:15+00:00
+author: Michael Cook
+layout: post
+url: /20050704/pg-other-newsletter-2005-07-04-34-years-of-project-gutenberg/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Mon Jul  4 10:13:12 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Tue Jul  5 12:07:30 2005
+Subject: [gweekly] 34 Years of Project Gutenberg
+Message-ID: &lt;Pine.LNX.4.60.0507040959560.13473@pglaf.org&gt;
+
+
+
+34 Years of Project Gutenberg
+
+
+A Trillion eBooks Given Away !!!
+
+If our average eBook has reached only 1% of the world population of
+6,451,809,157 that would be 16,621 x 64,518,092 = 1.07 Trillion !!!
+
+
+July 4, 2005 marks the completion of the 34th year of
+Project Gutenberg and the beginning of our 35th year.
+
+
+Here is a very brief review of our current projects:
+[More information available on request]
+
+
+This past month marked the official beginnings of our
+new companion, Project Gutenberg of Europe with eBook
+entries expected in over 100 languages.  In the first
+month we have seen a total of 100 about eBooks and an
+assortment of 65 articles in total, thus representing
+62 Eurasian languages and dialects.  Volunteer effort
+is totally responsible for these, and your assistance
+to PGE would be greatly appreciated in creating eBook
+titles from all of the ~120 languages and dialects in
+which PGE hope to produce eBooks.
+
+http://pge.rastko.net [Project Gutenberg Europe]
+http://dp.rastko.net [Distributed Proofreaders Europe]
+
+
+The original Distributed Proofreaders have now created
+over 7,000 eBooks and you can volunteer to proofread 1
+page or 100 pages or 1,000 at:     http://www.pgdp.net
+
+
+At this moment the initial Project Gutenberg site has
+progressed about 2/3 of the way from 10,000 to 20,000
+cataloged items in a range of about 45 languages.
+
+http://www.gutenberg.org
+
+By July 4, 2006 this total should be at 20,000 items.
+
+
+This total includes nearly 500 entries out of Project
+Gutenberg of Australia.       http://gutenberg.net.au
+
+
+104 languages are included with the Project Gutenberg
+Consortia Center.             http://www.gutenberg.cc
+
+
+In addition Project Gutenberg of Canada is beginning,
+
+Please email:
+pgcanada@lists.pglaf.org
+
+To subscribe to the pgcanada list, please visit:
+http://lists.pglaf.org/listinfo.cgi/pgcanada
+
+
+Project Gutenberg efforts are also starting to get on
+track in Portugal and The Philippines.
+
+
+We would like to take this opportunity to give thanks
+to our major download site at ibiblio.org operated at
+the University of North Carolina at Chapel Hill where
+over a million eBooks per month have been downloaded,
+month after month, year after year.
+
+
+A year from now we hope you might be able to download
+50,000 items via the combined Project Gutenberg sites.
+
+*
+
+
+  Not Just Downloads, We Also Hand Out Physical Media
+
+
+In addition, we are working on The Million Dollar DVD
+of which the current prototype contains nearly 26,000
+eBooks, and is about 3/4 full.  With those additional
+books we can add in the last 1/4, plus compression of
+a better variety, we are hoping to put perhaps 40,000
+eBooks on one single-sided single-layered DVD that we
+can encourage people to copy onto $1 blanks.
+
+Using about 1/3 of the current average hardback price
+of ~$75, we can easily count these 40,000 eBooks with
+the value as $1,000,000.
+
+Of course, if you wanted to use "list price" then you
+could say it was "The Three Million Dollar DVD" {TM}.
+
+In addition, just a week ago we received our test DVD
+for our first double-layered version, which would let
+us put twice as much on a single disc, and now at the
+same price per layer as the previous versions.  These
+advances will likely continue until we are able to do
+a double-sided double-layered DVD containing 155,000,
+which means that you get a million dollar total value
+using per book price less than the average paperback,
+along with a searchable catalog.
+
+
+Last week we gave away 10,000,000 eBooks in Alaska to
+give a boost to the eBook program of Alaska's Library
+Association, the University of Alaska, and many other
+participants in our presentations there.
+
+We donated a DVD containing 5,000 eBooks to every one
+of the Alaska Library Association member libraries!!!
+
+We are hoping to do such projects in North Dakota and
+other far regions, as well as everywhere else we will
+be asked.
+
+Just let us know if you are interested.
+
+
+These are some of the dreams of Project Gutenberg and
+we would LOVE to include your goals in our projects.
+
+*
+
+The Project Gutenberg Literary Archive Foundation has
+received official non-profit 501(c)(3) status via the
+U.S. Internal Revenue Service and is solely supported
+by your donations.  Nearly everyone at PG volunteers,
+even those few who are on the payroll.
+
+
+For more information, including several ways to donate:
+
+http://www.gutenberg.org/donation.html
+or
+email donate@gutenberg.org
+
+
+As always, our HUGE thanks to the tens of thousands of
+people who have volunteered with Project Gutenberg and
+to those who will carry us on into the future.
+
+
+Michael S. Hart
+Started July 4, 1971
+Continuing July 4, 2005
+
+
+
+</pre>
+
+<a href="/nl_archives/2005/other_2005_07_04_34_years_of_project_gutenberg.txt" target="_blank" rel="nofollow">other_2005_07_04_34_years_of_project_gutenberg.txt</a>

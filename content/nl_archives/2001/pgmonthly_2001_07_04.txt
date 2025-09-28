@@ -1,0 +1,497 @@
+========
+Subject: [gmonthly] 30th Anniversary Project Gutenberg Monthly Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg Monthly Newsletter" <gmonthly@listserv.unc.edu>
+Date: Wed, 4 Jul 2001 12:47:01 -0500 (CDT)
+
+
+
+This is Project Gutenberg's Montly Newsletter for Wednesday, July 4, 2001
+
+
+This Is Our 30th Anniversary Newsletter!
+
+We Are On Schedule To Do 1,000 Etexts This Year!
+
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+"When I was a young man I observed that nine out of ten things I did were
+failures. I didn't want to be a failure, so I did ten times more work."
+George Bernard Shaw
+
+
+30 years ago today, Project Gutenberg posted the first electronic text
+for download on what would eventually become the Internet. . .it was a
+simple 5,000 byte file. . .all in CAPS. . .since computers didn't have
+lower case yet back then. . .it was the US Declaration of Independence
+and one similar Etext was added each year for the rest of the 1970's--
+
+The 1980's saw a great expansion in the size of the Etexts being done,
+with two majors works, each 1,000 times larger than the first one. . .
+The Bible and The Complete Works Of William Shakespeare.
+
+By July of 1991, there were 17 such Etexts including Project Gutenberg
+receiving three major Etexts from outside sources:  Moby Dick, Roget's
+Thesaurus, and The 1990 CIA Factbook.  Along with such classics as The
+Adventures of Peter Pan and Alice [Wonderland and The Looking Glass] a
+new generation of readers had been born.
+
+For each one of those 17 Etexts that were available in 1971, there are
+now over 1,000 Etexts listed in the Internet Public Library alone!!!
+
+Just a few years ago, when there were only 10,000, people said this is
+the kind of growth pattern that could not continue, but as you read on
+below, you will see that it will not only continue, but that we should
+still be able to expect 1,000,000 files by 2010 if support continues.
+
+It's hard to realize that Project Gutenberg has been around as long as
+Sesame Street and Big Bird, as long as ABC's Wide World Of Sports or a
+variety of other continuing events we think of historically, even such
+events as the Super Bowl only came into their own about 30 years ago--
+believe it or not, the first Super Bowl, even though it was broadcast,
+taped, and filmed by BOTH CBS and NBC, all the complete TV recordings,
+no kidding, were tossed out, along with most of the other recordings a
+world of television and movies has lost throughout the years. . .
+
+Yet not one word of Project Gutenberg has been lost throughout all the
+time since July 4th, 1971. . . .
+
+During that time Project Gutenberg has release approximately 3600 text
+and other files, for an average of 120 per year, about 1 every 3 days.
+
+Of course, as with all logathrimic growth, half of our work was done a
+much shorter while ago with our 100th Etext not coming until then very
+end of 1993, officially released in January, 1994. . .even then we all
+tried to be a little ahead of schedule for better proofreading. . . .
+
+The 1,000th Etext would come in 1997, and would be Dante in Italian, a
+major effort to include the classics of other languages. . .though our
+releases that same day included two English translations.
+
+Our 2,000th Etext would continue this trend, with the Spanish classic,
+Don Quijote.
+
+We started a new trend of original translations with Siddhartha, since
+the original translations were still under copyright monopoly, but the
+original German had just expired under US copyright law.  Again we did
+both the English and German versions, a trend we hope to continue with
+more efforts similar to those of our Etexts #2499 and 2500.
+
+For #3000 we started our collection of Proust, in the original French.
+
+And for our recent #3500, we did Ceiriog, in Welsh.
+
+So far we have released Etexts in 16 different languages, and have our
+first Greek Etext in progress, as well as one that will include a text
+in translation in at least 77 languages.
+
+It looks as though we will complete 1,000 Etexts this year, and soon a
+monthly count of 100.
+
+Welcome to the future. . .
+
+in which we hope to post Etexts in all languages, with sites in nearly
+all countries, and through which we hope to give away a quadrillion of
+these Etext titles to a billion readers around the world.
+
+***
+
+I give my heartfelt thanks to the thousands of volunteers who bring us
+these Etexts. . .
+
+Never in the field of education have so many received so much from so few.
+
+
+
+Here is a list of the Etexts posted since last month,
+these are "cut and pasted" from the weekly Newsletter,
+so there will be references to each individual week.
+At least one was accidentally listed twice. . . .
+
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+
+You will need the first five letters of the filenames listed below.
+
+
+We have posted a significantly improved 11th edition of:
+Nov 2000 Die Leiden des jungen Werther, Goethe V2[Goethe27][7ljw2xxx.xxx]2408
+Nov 2000 Die Leiden des jungen Werther, Goethe V2[Goethe27][8ljw2xxx.xxx]2408
+Nov 2000 Die Leiden des jungen Werther, Goethe V1[Goethe26][7ljw1xxx.xxx]2407
+Nov 2000 Die Leiden des jungen Werther, Goethe V1[Goethe26][8ljw1xxx.xxx]2407
+
+
+And these are the 29 new Etexts we have posted in the last week.
+
+Mar 2003 The Entire Memoirs of Madame de Montespan  [CM#17][cm17bxxx.xxx]3854
+Mar 2003 The Memoirs of Madame de Montespan, v7     [CM#16][cm16bxxx.xxx]3853
+Mar 2003 The Memoirs of Madame de Montespan, v6     [CM#15][cm15bxxx.xxx]3852
+Mar 2003 The Memoirs of Madame de Montespan, v5     [CM#14][cm14bxxx.xxx]3851
+Mar 2003 The Memoirs of Madame de Montespan, v4     [CM#13][cm13bxxx.xxx]3850
+Mar 2003 The Memoirs of Madame de Montespan, v3     [CM#12][cm12bxxx.xxx]3849
+Mar 2003 The Memoirs of Madame de Montespan, v2     [CM#11][cm11bxxx.xxx]3848
+Mar 2003 The Memoirs of Madame de Montespan, v1     [CM#10][cm10bxxx.xxx]3847
+
+Jan 2003 The Rosary, by Florence L. Barclay                [rosryxxx.xxx]3659
+Jan 2003 The Prospector, by Ralph Connor  [Ralph Connor #7][prspcxxx.xxx]3658
+Jan 2003 Wild Beasts and their Ways V1 by Samuel W. Baker#7[wbatwxxx.xxx]3657
+Jan 2003 Cyprus, as I Saw it in 1879, by Samuel W. Baker #6[cyprsxxx.xxx]3656
+
+Jan 2003 The Parent's Assistant, by Maria Edgeworth        [prtasxxx.xxx]3655
+Jan 2003 Alfred Tennyson, by Andrew Lang  [Andrew Lang #33][alftnxxx.xxx]3654
+Jan 2003 The Guns of Bull Run, by Joseph A. Altsheler      [tgobrxxx.xxx]3653
+Jan 2003 History Of The Mackenzies, by Alexander Mackenzie [mcknzxxx.xxx]3652
+
+Jan 2003 The Square Root of 4 To A Million Places[Math #19][ 4sqrt10.zip]3651
+[Due to it's peculiar nature, this number presented in .zip format only ;-) ]
+
+Jan 2003 Selections From American Poetry, by Marg. Carhart [apoetxxx.xxx]3650
+[With Special Reference to Poe, Longfellow, Lowell and Whittier]
+[Author's Full Name:   Margeret Sprague Carhart]
+Jan 2003 The Dwelling Place of Light /All/Winston Churchill[wc05vxxx.xxx]3649
+Jan 2003 The Dwelling Place of Light, V3, Winston Churchill[wc04vxxx.xxx]3648
+Jan 2003 The Dwelling Place of Light, V2, Winston Churchill[wc03vxxx.xxx]3647
+Jan 2003 The Dwelling Place of Light, V1, Winston Churchill[wc02vxxx.xxx]3646
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Jan 2003 L'Etourdi, par Moliere [Jean-Baptiste Poquelin][#4[xtrdixxx.xxx]3645
+Jan 2003 Vie de Moliere[Jean-Baptiste Poquelin], Voltaire#2[xviemxxx.xxx]3644
+[We might need help preserving the accents in these, please email me if. . .]
+
+Jan 2003 Quotations from Albert Paine's Writings, by Widger[dwqabxxx.xxx]3643
+[Full:  Quotations from Albert B. Paine's Writings, #11 by David Widger]
+Jan 2003 The Belgian Twins, by Lucy Fitch Perkins[Perkins3][bgtwnxxx.xxx]3642
+Jan 2003 Who Cares?, by Cosmo Hamilton                     [caresxxx.xxx]3641
+
+Jan 2003 Literary Taste, by Arnold Bennett     [Bennett #3][tastexxx.xxx]3640
+Jan 2003 Diary Of Pedestrian In Cashmere & Thibet by Wright[dpcatxxx.xxx]3639
+[Full: Diary Of A Pedestrian In Cashmere and Thibet, by William Henry Knight]
+[Original Release Date: July, 2002  [Etext #3309]
+[RErelease Date: January, 2003  [Etext #3639]
+[We accidentally released TWO Etexts #3309]
+
+
+--=={ WEEKLY UPDATE PROGRESS }==--
+
+Since we started sending out weekly newsletters on 4/11/01, we have posted
+253 new Etexts; for those 13 newsletters, we have averaged 19.46 Etexts
+posted per week; we need to to continue to average 19.23 Etexts per week
+in order to publish 1,000 Etexts this year.
+
+  WEEK    ##
+========  ==
+07/04/01  29
+06/27/01  22
+06/20/01  18
+06/13/01  17
+06/06/01  20
+05/31/01  18
+05/23/01  16
+05/16/01  18
+05/09/01  18
+05/02/01  39
+04/25/01  15
+04/18/01  11
+04/11/01  12
+============
+3 months 253
+
+
+***
+
+
+Here are the 23 new Etexts and 2 improved Etexts
+[23 Etexts per week would yield 1196 per year]
+
+
+!!!!!!!Please note these files are in our new /etext03 directory!!!!!!!
+
+We averaged about 18.83 per week since we started weekly newsletters.
+12 Newsletters and 223 Etexts; we need to average 19.23 for 1,000/yr.
+
+
+UPDATED EDITIONS:
+
+Feb 2001 Siddhartha, by Herman Hesse [Our English Edition] [siddhxxx.xxx]2500
+[We have finally reached a good enough translation to call our 10th edition!]
+
+We have posted a significantly improved 11th edition of:
+Nov 2000 Die Leiden des jungen Werther, Goethe   [Goethe26][7ljw1xxx.xxx]2407
+Nov 2000 Die Leiden des jungen Werther, Goethe   [Goethe26][8ljw1xxx.xxx]2407
+
+
+And here are the 23 new Etexts for this week:
+[23 per week would yield 1196 per year]
+
+Mar 2003 The Entire Memoirs of Cardinal de Retz     [CM#09][cm09bxxx.xxx]3846
+Mar 2003 The Memoirs of Cardinal de Retz, v4        [CM#08][cm08bxxx.xxx]3845
+Mar 2003 The Memoirs of Cardinal de Retz, v3        [CM#07][cm07bxxx.xxx]3844
+Mar 2003 The Memoirs of Cardinal de Retz, v2        [CM#06][cm06bxxx.xxx]3843
+Mar 2003 The Memoirs of Cardinal de Retz, v1        [CM#05][cm05bxxx.xxx]3842
+Mar 2003 The Entire Memoirs of Marguerite de Valois [CM#04][cm04bxxx.xxx]3841
+Mar 2003 The Memoirs of Marguerite de Valois, v3    [CM#03][cm03bxxx.xxx]3840
+Mar 2003 The Memoirs of Marguerite de Valois, v2    [CM#02][cm02bxxx.xxx]3839
+Mar 2003 The Memoirs of Marguerite de Valois, v1    [CM#01][cm01bxxx.xxx]3838
+[From:  The Entire Court Memoirs of France Series]
+
+
+Jan 2003 The Devil's Disciple, by George Bernard Shaw [#20][tdvldxxx.xxx]3638
+Jan 2003 The Garden Of Allah, by Robert Hichens[Hichens #4][allahxxx.xxx]3637
+Jan 2003 The Fall of the Niebelungs     [Author Unknown]   [nieblxxx.xxx]3636
+
+Jan 2003 Mother, by Kathleen Norris                        [mothrxxx.xxx]3635
+Jan 2003 The Guilty River, by Wilkie Collins[W.Collins #27][gltrvxxx.xxx]3634
+Jan 2003 Jezebel's Daughter, by Wilkie Collins[Collins #26][jzbelxxx.xxx]3633
+Jan 2003 Poor Miss Finch, by Wilkie Collins[W. Collins #25][finchxxx.xxx]3632
+Jan 2003 On the Significance of Science and Art, by Toltoy [sgnsaxxx.xxx]3631
+[Also list under variants Lyof and Tolstoi]
+
+Jan 2003 What to do? by Leo Tolstoy/Tolstoi   [Tolstoy #13][whttdxxx.xxx]3630
+   Contains:
+   To Women
+   On Labor And Luxury
+
+Jan 2003 The Titan, by Theodore Dreiser[Theodore Dreiser#3][titanxxx.xxx]3629
+Jan 2003 The Kingdom of Love, by Ella Wheeler Wilcox[EWW#4][kgdlvxxx.xxx]3628
+Jan 2003 Life of Bunyan, by James Hamilton[Jas. Hamilton#1][lfbunxxx.xxx]3627
+[From "The Work of the Puritan Divines"]
+Jan 2003 Widger's Quotations from Abraham Lincoln's Writing[dwqalxxx.xxx]3626
+[Full:  Widger's Quotations from Abraham Lincoln's Writings, by David Widger]
+
+
+***
+
+
+
+Here are the 15 new Etext for January, 2003
+
+Jan 2003 Honore de Balzac, by Albert Keim and Louis Lumet  [hblzcxxx.xxx]3625
+[This file is available as hblzc10.txt and .zip and also in HTML hblzc10h.zip]
+Jan 2003 Chaucer, by Adolphus William Ward                 [chacrxxx.xxx]3624
+Jan 2003 The Golden Bough, by James George Frazer          [boughxxx.xxx]3623
+Jan 2003 The Duke's Children, by Anthony Trollope   [AT#15][dkchlxxx.xxx]3622
+Jan 2003 Peg O' My Heart, by J. Hartley Manners            [pgomyxxx.xxx]3621
+20
+Jan 2003 South American Geology, by Charles Darwin [CD #17][smcngxxx.xxx]3620
+[Also listed as:  Geological Observations On South America]
+Jan 2003 Cousin Maude, by Mary J. Holmes                   [maudexxx.xxx]3619
+Jan 2003 Arms and the Man, by George Bernard Shaw[Shaw #19][rmsmnxxx.xxx]3618
+Jan 2003 Quotations From Dumas Celebrated Crimes, by Widger[dwqdcxxx.xxx]3617
+Jan 2003 O'Conors of Castle Conor, by Anthony Trollope[#14][oconrxxx.xxx]3616
+15
+Jan 2003 John Bull on the Guadalquivir, by Anthony Trollope[jbgudxxx.xxx]3615
+Jan 2003 An Exhortation to Peace and Unity, John Bunyan[#7][expcuxxx.xxx]3614
+[This work is incorrectly attributed to Bunyan, but no other author is known]
+Jan 2003 Miscellaneous Pieces, by John Bunyan    [Bunyan #6[bnmscxxx.xxx]3613
+Jan 2003 Second Shetland Truck System Report, by Guthrie   [truckxxx.xxx]3611
+[Guthrie was a Sheriff who prepared the report for a Royal Commision]
+
+
+and we have now completed the non-reserved sections of 2002
+[Please note that we have whittled down the reserveds to 66,
+total, for the total 31+ years of our index. . .we usually
+have averaged somewhere around 2% of our numbers reserved.]
+
+Here are the last five Etexts for December, 2002
+
+Dec 2002 The Complete Essays of Montaigne, Cotton   [MN#20][mn20vxxx.xxx]3600
+Dec 2002 The Essays of Montaigne, V19, 1877, Cotton [MN#19][mn19vxxx.xxx]3599
+Dec 2002 The Essays of Montaigne, V18, 1877, Cotton [MN#18][mn18vxxx.xxx]3598
+Dec 2002 The Essays of Montaigne, V17, 1877, Cotton [MN#17][mn17vxxx.xxx]3597
+Dec 2002 The Essays of Montaigne, V16, 1877, Cotton [MN#16][mn16vxxx.xxx]3596
+
+***
+
+We have posted a significantly improved 12th edition of:
+Jul 1992 The War of the Worlds, H.G. Wells[Herbert George2][warw12xx.xxx]  36
+
+We have posted a significantly improved 11th edition of:
+Jun 2002 The Deerslayer, by James Fenimore Cooper  [JFC #7][dslyr11x.xxx]3285
+Sep 1994 Flower Fables, by Louisa May Alcott   [Alcott #1] [ffabl11x.xxx] 163
+
+We have posted a slightly improved 10th editin of:
+Jun 1997 Last of the Mohicans, by James Fenimore Cooper #1 [mohic10x.xxx] 940
+Feb 1995 The Call of the Wild, by Jack London [London #1]  [callw10x.xxx] 215
+
+***
+
+
+***
+
+Here are the 17 new Etexts and 4 improved Dumas Musketeers Etexts
+[17 Etexts per week would yield 884 per year]
+
+Jan 2003 John Bull's Other Island by George Bernard Shaw#18[jbullxxx.xxx]3612
+Jan 2003 Second Shetland Truck System Report, Angus Johnson[truckxxx.xxx]3611
+[Truck is a term similar to barter, I would also index under barter]
+Jan 2003 The Daisy Chain, or Aspirations by Charlotte Yonge[tdcoaxxx.xxx]3610
+Jan 2003 To-morrow? by Victoria Cross [Also:  Tomorrow?]   [tmrrwxxx.xxx]3609
+Jan 2003 Ragged Trousered Philanthropists by Rob't Tressell[rggdpxxx.xxx]3608
+[Full Listing: The Ragged Trousered Philanthropists, by Robert Tressell]
+Jan 2003 Ismailia, by Samuel W. Baker[Samuel White Baker#5][ismlaxxx.xxx]3607
+Jan 2003 Antonina, by Wilkie Collins   [Wilkie Collins #24][ntnnaxxx.xxx]3606
+05
+Jan 2003 On The Firing Line, by A. C. Ray and H. B. Fuller [frnglxxx.xxx]3605
+[Authors' Full Names:  Anna Chapin Ray and Hamilton Brock Fuller]
+Jan 2003 Jailed for Freedom, by Doris Stevens              [j4frexxx.xxx]3604
+Jan 2003 Quotations From Guy de Maupassant, by David Widger[dwqgmxxx.xxx]3603
+
+
+!!!!!!!Please note the above files are in our new /etext03 directory!!!!!!!
+
+
+****Please note that the entire 2002 catalogue is now filled or reserved***
+
+Dec 2002 The Essays of Montaigne, V15, 1877, Cotton [MN#15][mn15vxxx.xxx]3595
+Dec 2002 The Essays of Montaigne, V14, 1877, Cotton [MN#14][mn14vxxx.xxx]3594
+Dec 2002 The Essays of Montaigne, V13, 1877, Cotton [MN#13][mn13vxxx.xxx]3593
+Dec 2002 The Essays of Montaigne, V12, 1877, Cotton [MN#12][mn12vxxx.xxx]3592
+Dec 2002 The Essays of Montaigne, V11, 1877, Cotton [MN#11][mn11vxxx.xxx]3591
+
+Sep 2002 1001 Nights[Arabian Nights], V4, by Richard Burton[41001xxx.xxx]3438
+[These are in 7 and 8 bit unaccented and accented versions]
+[Filenames are x1001xx7.txt and .zip and x1001xx8.txt and .zip]
+[X will be 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f and g]
+[Full Title:  The Book of The Thousand Nights And A Night, Volumes 1 - 16]
+[Also listed under:
+The Arabian Nights
+A Thousand and One Nights. . .and. . .A Thousand and One Arabian Nights]
+
+Jan 2002 Project Gutenberg Dumas Commentary, by John Bursey[vbcomxxx.xxx]3010
+[The following are now available in significantly improved 11th editions as
+both xxxxx11.txt or xxxxx11.zip and xxxxx11h.htm or xxxxx11h.zip Etexts]
+Aug 2001 The Man in the Iron Mask[The Novel]Dumas, Pere #28[nmaskxxx.xxx]2759
+[This is the novel entitled The Man in the Iron Mask.   The essay is #2751]
+Jul 2001 Louise de la Valliere, by Alexandre Dumas, Pere #9[luisexxx.xxx]2710
+Jun 2001 Ten Years Later, by Alexandre Dumas[Dumas Pere #8][tenyrxxx.xxx]2681
+Apr 2001 The Vicomte de Bragelonne by Alexandre Dumas, Pere[vicomxxx.xxx]2609
+[We are releasing these as BOTH xxxxx10.txt AND xxxxx10h.htm and in zip files]
+Please see the introduction which describes the various books of this title,
+and how the various editions were published, and how they have been named,
+and what in what order to read them.
+Also see:
+Mar 1998 Ten Years Later, by Alexandre Dumas[Dumas Pere #3][2muskxxx.xxx]1258
+
+and
+
+We discovered a duplication in filenames we thought we had fixed long ago:
+Apr 1997 Life in the Iron-Mills by Rebecca Harding Davis #2[ironmxxx.xxx] 876
+These ironm10.txt and ironm10.zip files are now liron10.txt and liron10.zip]
+Apr 1997 Life in the Iron-Mills by Rebecca Harding Davis #2[lironxxx.xxx] 876
+The novel The Man In The Iron Mask by Dumas stays ironm10.txt & ironm10.zip]
+[It was easier this way because this file has four times as many versions]
+For the moment I am leaving BOTH ironm10.* files AND the liron10.* files,
+until enough time has passed for the indexes and catalogs to be updated]
+
+***
+
+
+We have a total of 20 new files to download this week:
+[This would yield a total of 1040 new files per year.]
+
+Jan 2003 Cupid's Understudy, by Edward Salisbury Field     [cpdndxxx.xxx]3602
+Jan 2003 The Captives, by Hugh Walpole    [Hugh Walpole #3][cptvsxxx.xxx]3601
+
+
+!!!!!!!Please note the above files are in our new /etext03 directory!!!!!!!
+
+***Please note that the December, 2002 catalogue is filled, and the***
+****reserved portion should be completed within the next two weeks.***
+
+
+Dec 2002 The Essays of Montaigne, V10, 1877, Cotton [MN#10][mn10vxxx.xxx]3590
+Dec 2002 The Essays of Montaigne, V9, 1877, Cotton  [MN#09][mn09vxxx.xxx]3589
+Dec 2002 The Essays of Montaigne, V8, 1877, Cotton  [MN#08][mn08vxxx.xxx]3588
+Dec 2002 The Essays of Montaigne, V7, 1877, Cotton  [MN#07][mn07vxxx.xxx]3587
+Dec 2002 The Essays of Montaigne, V6, 1877, Cotton  [MN#06][mn06vxxx.xxx]3586
+
+
+This should complete our November listings:
+
+Nov 2002 La Mere Bauche, by Anthony Trollope [Trollope #12][merbuxxx.xxx]3550
+Nov 2002 Cowley's Essays, by Abraham Cowley                [cowesxxx.xxx]3549
+Nov 2002 The Pharisee And Publican, by John Bunyan[Bunyan5][pharpxxx.xxx]3548
+Nov 2002 See America First, by Orville O. Hiestand         [cusa1xxx.xxx]3547
+Nov 2002 The Eureka Stockade, by Carboni Raffaello[Carboni][rkstkxxx.xxx]3546
+[Wrote as Carboni Raffaello, however Carboni was really Raffaello Carboni]
+
+Nov 2002 The Complete Poetical Works of Oliver Goldsmith #3[cpwogxxx.xxx]3545
+Nov 2002 How He Lied to Her Husband, by George Bernard Shaw[lied2xxx.xxx]3544
+Nov 2002 Heartbreak House, by George Bernard Shaw [GBS #16][hrtbkxxx.xxx]3543
+Nov 2002 Quotations of Jacques Casanova, by David Widger #6[dwqjcxxx.xxx]3542
+Nov 2002 Thoughts Evoked By The Census Of Moscow by Tolstoi[tecomxxx.xxx]3541
+
+Nov 2002 Article On The Census In Moscow, by Leo Tolstoi/11[ancimxxx.xxx]3540
+[Also list under Lyof and Tolstoi, middle inital is N.]
+Nov 2002 The Love-Chase, by James Sheridan Knowles [JSK #2][lvchsxxx.xxx]3539
+Nov 2002 The Americanization of Edward Bok, by Edward Bok  [ewbokxxx.xxx]3538
+[The Autobiography of a Dutch Boy Fifty Years After, by Edward William Bok]
+
+
+If you sent in a file you don't see here, or sent in a revision, or xeroxes
+for our copyright research, and haven't heard from me let me know.  Most of
+these should only take a few days.
+
+***
+
+
+"Life is an open-book test,
+and there is no time limit,
+so let's supply more books."
+
+There is no end to the great things we can accomplish
+if we don't worry about who gets the credit.  - Anon.
+
+"Only wimps use backup: _real_ men just upload their important stuff
+on FTP, and let the rest of the world mirror it ;)" - Linus Torvalds
+
+"Life is no brief candle to me.  It is a sort of splendid
+torch which I have got hold of for the moment, and I want
+to make it burn as brightly as possible before handing it
+on to future generations."            George Bernard Shaw
+
+"Everything should be made as simple as possible, but not simpler."
+(Albert Einstein)
+
+***
+
+"eTextReader", an ASCII-text reader which can also open zipped txt-files, is
+available free of charge at http://pws.prserv.net/Fellner/Software/eTR.htm.
+(For Windows, Linux version may follow). Text is displayed in a two-page,
+book-like view with automatic page numbering. Main features include font
+style/size selection, bookmarks, copying/searching/editing text, and line
+break options. Bookmarks, current page number, font settings, and line break
+modes are stored individually for each text file. The last filename is
+remembered - open it with one click and continue reading at the page where
+you've stopped. (Software by  Thomas Fellner - tomsoft@attglobal.net).
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+

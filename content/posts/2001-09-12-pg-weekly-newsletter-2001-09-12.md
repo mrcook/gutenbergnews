@@ -1,0 +1,289 @@
+---
+params:
+  id: 1851
+title: PG Weekly Newsletter (2001-09-12)
+date: 2001-09-12T17:58:38+00:00
+author: Michael Cook
+layout: post
+url: /20010912/pg-weekly-newsletter-2001-09-12/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 12 Sep 2001 12:59:37 -0400 (EDT)
+
+
+Project Gutenberg's Weekly Newsletter for Wednesday, September 12, 2001
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+I would like to dedicate this Newsletter to my brother, whom I thought
+we had lost for most of yesterday, but who finally managed to get thru
+at dinnertime last night. . .it was so good to hear his voice.  He was
+meeting with Pentagon officials yesterday morning, but they decided to
+meet him halfway between their respective offices.  The old office was
+one of those that was remodeled. . .and now destroyed. . . .
+
+I wish I could say that all my tears of the past 24 hours were just an
+effect of allergies. . .some were. . .some weren't. . . .
+
+My thanks to those who remembered that my brother and mother often eat
+lunch at Pentagon City, etc.
+
+I didn't answer any but the most important emails yesterday and didn't
+put any books on line. . .I was just about to when it all started.
+
+So, I will probably be behind with my email for a few days, as I spent
+this entire day mostly posting a HUGE number of books. . .over half of
+the list below. . .because that's the way some of us are. . .we do the
+work even more in times of stress. . .and I thank those others who did
+so much to help, but with the work and with the heart.
+
+Please email me again in a few days if I haven't answered. . . .
+
+Special thanks to David Widger, Alev Akman, Greg Newby and my cousins.
+
+I should also mention that Brett Fishburne, our newest FTP person is a
+member of FEMA [Federal Emergency Management Agency] and this will not
+be available to put our books on site for some time.  If anyone should
+like to do this for us, please let me know.
+
+Thanks!!!
+
+Michael
+
+
+***
+
+We need some volunteers who can spend just a minute or two looking
+over each of the three or so eTexts we post on the average day....
+Just to download them and check to see that nothing went wrong in
+final save and upload process.  Some times there will be missing
+"hard returns" or there will be trailing spaces on some or all
+of the lines, or there won't be the proper end of file marker,
+margination, or header entries.
+
+
+***
+
+Here Are Your 31 New Project Gutenberg eTexts For This Week:
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+
+Mon Year    Title      Author                       Series# filename.ext
+
+Apr 2003 The Entire Cinq Mars, by Alfred de Vigny   [IM#40][im40bxxx.xxx]3953
+Apr 2003 Cinq Mars, by Alfred de Vigny, v6          [IM#39][im39bxxx.xxx]3952
+Apr 2003 Cinq Mars, by Alfred de Vigny, v5          [IM#38][im38bxxx.xxx]3951
+Apr 2003 Cinq Mars, by Alfred de Vigny, v4          [IM#37][im37bxxx.xxx]3950
+Apr 2003 Cinq Mars, by Alfred de Vigny, v3          [IM#36][im36bxxx.xxx]3949
+Apr 2003 Cinq Mars, by Alfred de Vigny, v2          [IM#35][im35bxxx.xxx]3948
+Apr 2003 Cinq Mars, by Alfred de Vigny, v1          [IM#34][im34bxxx.xxx]3947
+
+Apr 2003 Entire Monsieur de Camors by Oct. Feuillet [IM#33][im33bxxx.xxx]3946
+Apr 2003 Monsieur de Camors by Octave Feuillet, v3  [IM#32][im32bxxx.xxx]3945
+Apr 2003 Monsieur de Camors by Octave Feuillet, v2  [IM#31][im31bxxx.xxx]3944
+Apr 2003 Monsieur de Camors by Octave Feuillet, v1  [IM#30][im30bxxx.xxx]3943
+
+Apr 2003 Entire Child of a Century, Alfred de Musset[IM#29][im29bxxx.xxx]3942
+Apr 2003 Child of a Century, Alfred de Musset, v3   [IM#28][im28bxxx.xxx]3941
+Apr 2003 Child of a Century, Alfred de Musset, v2   [IM#26][im27bxxx.xxx]3940
+Apr 2003 Child of a Century, Alfred de Musset, v1   [IM#26][im26bxxx.xxx]3939
+
+Apr 2003 Entire A Woodland Queen, by Andre Theuriet [IM#25][im25bxxx.xxx]3938
+Apr 2003 A Woodland Queen, by Andre Theuriet, v3    [IM#24][im24bxxx.xxx]3937
+Apr 2003 A Woodland Queen, by Andre Theuriet, v2    [IM#23][im23bxxx.xxx]3936
+Apr 2003 A Woodland Queen, by Andre Theuriet, v1    [IM#22][im22bxxx.xxx]3935
+
+
+Feb 2003 In the Days of the Comet by H. G. Wells[Wells #21][incomxxx.xxx]3797
+Feb 2003 Rilla of Ingleside, by Lucy Maud Montgomery[LMM#7][rillaxxx.xxx]3796
+
+Feb 2003 Under the Lilacs, by Louisa May Alcott [Alcott #9 [ullcsxxx.xxx]3795
+Feb 2003 L. Annaeus Seneca On Benefits, by Aubrey Stewart  [bnftsxxx.xxx]3794
+Feb 2003 Joseph II. and His Court, by L. Muhlbach   [LM #8][j2ahcxxx.xxx]3793
+Feb 2003 Capitola The Madcap, by Emma D. E. N. Southworth  [mdcapxxx.xxx]3792
+Feb 2003 The Reign Of Law, by James Lane Allen             [rolawxxx.xxx]3791
+
+Feb 2003 Major Barbara, George Bernard Shaw[G. B. Shaw #22][mjbrbxxx.xxx]3790
+Feb 2003 Preface to Major Barbara, George Bernard Shaw[#21][pmbrbxxx.xxx]3789
+Feb 2003 Haydn, by J. Cuthbert Hadden  [Master Musicians]  [hhmmsxxx.xxx]3788
+Feb 2003 Nature And Art, by Mrs. [Elizabeth] Inchbald      [naartxxx.xxx]3787
+Feb 2003 Recollections of Geoffrey Hamlyn by Henry Kingsley[hmlynxxx.xxx]3786
+
+
+*** Progress Chart ***
+
+We created 31 new eTexts for you this week.
+
+With 3856 eTexts online as of September 12, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.59 from each book,
+for Project Gutenberg to have given away $1,000,000,000,000 [One
+Trillion Dollars] in books. [Note a few math corrections here]
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+Our Total For The Year Is About 823 For 254 days,
+this is 3.24 per day or 97.2 Per 30 day month. . . .
+This Would Yield About 1182 For The Year. . . .
+We are about 37 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+         Weekly Yearly
+Newsdate Etexts Avg/wk
+
+09/12/01   31    22
+09/05/01   27    22
+September total 58
+
+
+08/29/01   25    22
+08/22/01   21    22
+08/15/01   30    22
+08/08/01   20    22
+08/01/01   22    22
+August total 117
+
+07/25/01   24    22
+07/18/01   22    22
+07/11/01   21    23
+07/04/01   29    23
+July Total 96
+
+06/27/01   22    23
+06/20/01   18    23
+06/13/01   17    23
+06/06/01   20    23
+June Total 77
+
+05/31/01   18    24
+05/23/01   16    24
+05/16/01   18    24
+05/09/01   18    25
+05/02/01   39    25
+May Total 109
+
+04/25/01   15    24
+04/18/01   11    25
+04/11/01   12    26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks   326   25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282   21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326   20.38
+
+***
+
+***News Headlines From Newsscan and Edupage***
+
+FOUR PUBLISHERS TO SELL E-BOOKS THROUGH YAHOO
+Four major publishers (Simon & Schuster, Random House, Penguin Putnam, and
+HarperCollins) will sell their digital books on an Internet through the
+Yahoo.com site, an arrangement which Yahoo executive Rob Solomon suggests
+is attractive to the publishers because Yahoo has a "neutral status, like
+Switzerland, and is not part of a major media company." For its services,
+Yahoo will receive sales commissions and book promotion fees. The book
+division of AOL Time Warner is the only top publishing companies that has
+declined to participate in the deal; that division's chairman, Laurence
+Kirschbaum, said: "Given the fact that sales of electronic books are not
+running away, we have to question whether we need to expand right now. Our
+focus right now is on AOL." (New York Times 5 Sep 2001)
+http://partners.nytimes.com/2001/09/05/technology/ebusiness/05BOOK.html
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+DUELING ESSAY CONTESTS IN FRAY INVOLVING INTELLECTUAL PROPERTY
+The World Intellectual Property Organization (WIPO) is hosting
+a contest that offers a prize of $600 for the best essay that
+answers the question, "What does intellectual property mean to
+you in your daily life?" Last week, an organization of academics,
+artists, and proponents called Wipout announced a contest that
+asks participants to answer the same question, but with a more
+critical eye. Wipout's members oppose the extensive intellectual
+property protection that WIPO favors, calling such measures
+detrimental to the public. Patent laws, for instance, could
+hinder access to AIDS drugs in South Africa, according to the
+Treatment Action Campaign, one of Wipout's supporters. It
+has yet to be seen if WIPO will sue Wipout's self-described
+"intellectual property counter-essay contest" for copyright
+infringement.  (New York Times, 10 September 2001)
+
+DOWNLOADS SWAMP COMPUTER NETWORK IN U. OF DELAWARE'S DORMS
+Officials at the University of Delaware believe that students
+downloading movies were responsible for the heavy traffic that
+brought Internet access in the school's residential halls to a
+halt this week. Although the institution initially opted to try
+to educate students about good Internet conduct rather than impose
+bandwidth restrictions, starting next week that will no longer
+be the case. The problem was caused by students downloading as
+much as 19 gigabytes of material, according to the university's
+VP for information technologies, Susan J. Foster. Such bandwidth
+suggests that they were probably downloading video. Consequently,
+downloads will now be limited to one gigabyte per student per day.
+(Chronicle of Higher Education Online, 7 September 2001)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_09_12.txt" target="_blank" rel="nofollow">pgweekly_2001_09_12.txt</a>

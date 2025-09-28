@@ -1,0 +1,373 @@
+To: Michael Hart <hart@pobox.com>
+Subject: Project Gutenberg Etext #1,000:  Dante
+From: "Michael S. Hart" <hart@prairienet.org>
+Date: Thu, 4 Sep 1997 12:01:25 -0500 (CDT)
+
+This is the Project Gutenberg Newsletter for September 4th, 1997
+
+Announcing Etexts #997 to #1036
+
+
+"Never,
+in the field of literature, have so many owed so much to so few."
+
+
+First things first. . . .
+
+THANKS!!!!!!!!!!!!!!!!!!!
+
+To all those who have volunteers help to Project Gutenberg, over
+more than a quarter of a century and especially to the anonymous
+volunteers [at least anonymous for now], and to those who worked
+VERY hard with me over the past few days [not to mention months]
+to get us from Etext #900 to Etext #1,000 on schedule.
+
+You can be a Project Gutenberg volunteer,  email hart@pobox.com.
+
+*
+
+You might be interested in taking a look at next week's issue of
+Time magazine in the Time Digital Section in Point/Counterpoint.
+You can see me in my cap and gown holding a stack of 1,000 CDROM
+disks that will be able to hold 10,000,000 Etexts in the new DVD
+format.  With compression I am told it could be 20,000,000 Etext
+files, which would be more books than any library contains.  The
+University of Illinois library, in which this picture was taken,
+contains only 10,000,000 items in all its branches and is one of
+the largest half dozen libraries in the United States.
+
+*
+
+Yes, in rereading this I realize I write in sentences that would
+be considered too long by today's standards; please bear with me
+as much as possible on this occasion which is quite possibly the
+pinnacle of my career [unless we get massive new support we will
+not be able to double our production per year ever again].
+
+*
+
+>From our humble beginnings with a single copy of the Declaration
+of Independence of the United States now exactly 315 months ago,
+the goal of Project Gutenberg has always been to demonstrate how
+computers should create a Neo-Industrial Revolution/Renaissance,
+through the efforts of a moderate number of people multiplied in
+a nearly infinite manner by the power of computers to copy books
+with incredible ease, once they are entered into digital formats
+readable by common persons with common computers and programs.
+
+Since that day on July 4th, 1971, when there were ~100 people on
+the entire Internet, which had just started reaching out from an
+infancy of a handful of U.S. West Coast mainframes, each with an
+approximate power of modern calculators selling well under $100,
+the invention of the personal computer for the common persons by
+Woz and Jobs [Steve Wozniak and Steve Jobs, who eventually would
+become known as Apple Computers Inc.] has changed the face of an
+electronic generation for the rest of history.
+
+On that very July 4th, 1971, we had to predict the onset of what
+would come to be known as the "personal computer" and little did
+we know that the Apple II would hit the market before the end of
+the 1970's and we have been thankful to Woz and Jobs, Bill Gates
+and Gary Kildall & all the other pioneers of personal computers.
+The personal computer was a indispensable requirement for us who
+wanted to bring a collection of great books to millions/billions
+of people around the world.
+
+At that time United States copyright was 28 years, with possibly
+28 more years, if certain legal conditions were met.  Most works
+were never renewed, so by 1978 we would have been able to print,
+so to speak, most works published before 1950.
+
+However, this was also the heyday of the xerox machine, and they
+were not going to sit idly by while a new generation of machines
+allowed easy copying of nearly anything in two dimensions.  BUT,
+instead of trying to enforce the copyright laws, they broke them
+by extending all copyrights to 75 years, and eliminating renewal
+requirements, much as what had happened in the early 1900's when
+the new steam and electric printing presses had made printing so 
+inexpensive that Sears could afford to send catalogs to millions
+of people for whom this would be the first book they ever owned.
+
+Thus, to drive these new, more efficient publishers out of THEIR
+business, the old line publishing lobby talked the U.S. Congress
+into to voiding the copyright laws that had stood since founding
+the United States, and doubling copyrights from 14 years, with a
+possible 14 year renewal, to 28 years, with 28 year renewals.
+
+*THOSE WHO ARE NOT AWARE OF HISTORY ARE CONDEMNED TO REPEAT IT!*
+
+Every single time a new publishing technique has promised to get
+the common people a home library, laws have been passed to stop,
+dead in its tracks, this kind of "Information Age."
+
+>From the first copyright laws, which were designed to eliminate,
+most successfully I might add, the presses which were originally
+started by Johannes Gutenberg in 1455, to the next generation of
+copyright laws designed to eliminate, again most successfully, a
+rash of "home libraries," published less expensively than modern
+[early 20th century] publishers wanted to compete with, to xerox
+revolutions and revolutionaries, which were legally stifled by a
+new copyright law in 1976, to the most current copyright bill in
+the U.S. Congress, which threatens to remove yet another million
+books from the public domain because modern day publishers would
+be unable to compete with electronic publishing today.
+
+*AT THE START OF THIS CENTURY COPYRIGHTS WERE 14 YEARS, NOW THEY
+*ARE THREATENING TO SURPASS 100 YEARS, A PERIOD LONGER THAN WILL
+*BE LEGAL FOR ANY CONTRACT TO BE SIGNED FOR [this is why Panama,
+*Hong Kong, etc., were leased for just under 100 years].
+
+Information Age???
+
+For Whom???
+
+We hope it will be for you.
+
+Here are the latest 40 Project Gutenberg Etexts
+
+
+Mon Year    Title and Author  [# of PG books by the author][filename.ext] ###
+
+A "C" following the Etext number indicates a copyrighted work.
+
+
+Aug 1997 Divina Commedia di Dante: Inferno, 7-bit Italian  [1ddcdxxx.xxx] 997
+Aug 1997 Divina Commedia di Dante: Purgatorio 7-bit Italian[2ddcdxxx.xxx] 998
+Aug 1997 Divina Commedia di Dante: Paradiso, 7-bit Italian [3ddcdxxx.xxx] 999
+Aug 1997 La Divina Commedia di Dante in Italian, 7-bit text[0ddcdxxx.xxx]1000
+
+Aug 1997 Longfellow's Translation of Dante, Inferno        [1ddclxxx.xxx]1001
+Aug 1997 Longfellow's Translation of Dante, Purgatory      [2ddclxxx.xxx]1002
+Aug 1997 Longfellow's Translation of Dante  Paradise       [3ddclxxx.xxx]1003
+Aug 1997 Longfellow's Translation of Dante, Entire Comedy  [0ddclxxx.xxx]1004
+
+Aug 1997 H. F. Cary's Translation of Dante, Hell           [1ddccxxx.xxx]1005
+Aug 1997 H. F. Cary's Translation of Dante, Puragorty      [2ddccxxx.xxx]1006
+Aug 1997 H. F. Cary's Translation of Dante, Paradise       [3ddccxxx.xxx]1007
+Aug 1997 H. F. Cary's Translation of Dante, Entire Comedy  [0ddccxxx.xxx]1008
+
+Aug 1997 Divina Commedia di Dante: Inferno    [8-bit text] [1ddc8xxx.xxx]1009
+Aug 1997 Divina Commedia di Dante: Purgatorio [8-bit text] [2ddc8xxx.xxx]1010
+Aug 1997 Divina Commedia di Dante: Paradiso   [8-bit text] [3ddc8xxx.xxx]1011
+Aug 1997 La Divina Commedia di Dante in Italian 8-bit text [0ddc8xxx.xxx]1012
+
+We need desperately need proofreaders for these Dante files,
+most particularly the Italian ones.  If you have editions of
+dates or copyrights before 1922, please let me know.
+
+Aug 1997 The First Men In The Moon, by H.G. Wells [Wells#9][fmitmxxx.xxx]1013
+Aug 1997 The Lure of the Dim Trails, by B.M. Bower[Bower#3][ldmtrxxx.xxx]1014
+Aug 1997 The Oregon Trail, by Francis Parkman, Jr.         [ortrlxxx.xxx]1015
+Aug 1997 Improvement of Understanding by Spinoza[Spinoza10][spintxxx.xxx]1016
+
+Aug 1997 The Soul of Man, by Oscar Wilde   [Wilde #14]     [slmanxxx.xxx]1017
+Aug 1997 The Water-Babies by Charles Kingsley [Kingsley #3][wtrbsxxx.xxx]1018
+Aug 1997 Poems by the Bronte Sisters [as Bell Brothers] B#5[brntpxxx.xxx]1019
+Aug 1997 Sword Blades and Poppy Seed, by Amy Lowell [AL #3][sbapsxxx.xxx]1020
+
+Aug 1997 The Congo and Other Poems, by Vachel Lindsay[VL#3][cngopxxx.xxx]1021
+Aug 1997 Walking, by Henry David Thoreau   [Thoreau #3]    [wlkngxxx.xxx]1022
+Aug 1997 Bleak House, by Charles Dickens  [Dickens #33]    [blkhsxxx.xxx]1023
+Aug 1997 The Wrecker, by Stevenson and Osbourne [RLS #39]  [wrckrxxx.xxx]1024
+
+Aug 1997 Essays, by Benjamin Rumford  [Volume 1, BR#1]     [essbrxxx.xxx]1025
+Aug 1997 Diary of a Nobody, by George and Weedon Grossmith [dnbdyxxx.xxx]1026
+Aug 1997 The Lone Star Ranger by Zane Grey[#3 by Zane Grey][lrngrxxx.xxx]1027
+Aug 1997 The Professor, by Charlotte Bronte [#6 by Brontes][tprofxxx.xxx]1028
+
+
+Sep 1997 The Night-Born, by Jack London  [Jack London #9   [ntbrnxxx.xxx]1029
+Sep 1997 Cavalier Songs & Ballads of England, MacKay/Editor[csboexxx.xxx]1030
+Sep 1997 Charmides and Other Poems by Oscar Wilde[Wilde#15][crmdsxxx.xxx]1033
+Sep 1997 The Pupil, by Henry James  [#14 by Henry James]   [pupilxxx.xxx]1032
+
+Sep 1997 Rose O' the River, by Kate Douglas Wiggin [KDW#4] [rorvrxxx.xxx]1033
+Sep 1997 Poems, by Wilfred Owen                            [wowenxxx.xxx]1034
+Sep 1997 The Man against the Sky, by Edwin A. Robinson [#2][tmatsxxx.xxx]1035
+Sep 1997 Joe Wilson and His Mates, by Henry Lawson  [HL#2] [jwahmxxx.xxx]1036
+
+
+
+Gutenberg in Portugal and Brasil
+
+Project Gutenberg now has the following mirror site in Portugal,
+and a site in Brasil is under construction.  We would VERY much
+like to open more sites south of the equator.  If you know some
+places we could ask, please let us know.
+
+gutenberg.esoterica.pt
+ftp.esoterica.pt/dir?mirrors/gutenberg
+ftp.esoterica.pt/gutenberg
+ftp.esoterica.pt/pub/mirrors/gutenberg
+gutenberg.esoterica.pt/pub/mirrors/gutenberg
+ftp.esoterica.pt/pub/mirrors/gutenberg
+
+
+A note of interest for potential Project Gutenberg volunteers:
+
+XEROX INTRODUCES SCANNER-PRINTER-COPIER FOR HOME USE
+Xerox is introducing a $499 machine that combines scanning, printing, and
+copying capabilities with easy-to-use software.  Industry analysts don't
+expect rival manufacturer Hewlett-Packard to incorporate color scanners
+into its products before next Spring.  (New York Times 18 Aug 97)
+
+
+You can get the Project Gutenberg books via FTP and the Web:
+
+[This site is in Urbana, Illinois, and is quite fast]
+ftp uiarchive.cso.uiuc.edu or ftp 128.174.5.14
+login:  anonymous
+password:  yourname@your.machine
+cd pub
+cd etext
+cd gutenberg
+[or just cd /pub/etext/gutenberg/etext97] 
+cd etext97  [96, 95,94, 93, 92, 91 or 90.  70's and 80's are in /etext90]
+get filename  (be sure to set bin, if you get the .zip files)
+get more files
+quit
+ 
+get GUTINDEX.96 to see all Project Gutenberg Etexts to date.
+get GUTINDEX.97 to see current releases.
+New files in etext97, of course.
+
+ftp prairienet.org
+*** [This is usually the first site they appear in, but is slow]
+[This site is in Champaign, Illinois]
+ftp ftp.prairienet.org or ftp 192.17.3.4
+username:  anonymous
+password:  yourlogin@your.machine.domain
+[this is your email address where you are]
+
+cd pub/providers/gutenberg/etext97  [etc, as above]
+
+ls or dir for a listing of files
+
+get filename.txt (ascii files)
+get filename.zip (binary zipped files)
+
+be sure to type "binary" before retrieving the .zip files!
+
+***
+
+New major site for Eastern United States!
+
+For those on the East Coast of the United States we have
+sailor.gutenberg.org or 198.76.201.198 in Baltimore, MD.
+This site should provide very fast service for both WWW
+and FTP service.
+
+***
+
+In Europe, please try our site at:
+Bucharest High School of Computer Science
+Serving Central and Eastern Europe
+ftp://ftp.lbi.ro/pub/Books/Gutenberg
+
+and a new site up at:
+
+http://www.informika.ru -- official server of the
+Ministry of Education of Russia (the Russian part
+of the server not equivalent to the English one).
+
+http://www.informika.ru/windows/books/gutenb/list.html
+
+This is only available on the Russian language side of
+their system, but is pretty easy to see.  Click on the
+WINDOWS icon at the bottom of the main menu.  Then, on
+the lower left selection [the web names will pop up in
+English] which is /books.  The first one of that list,
+The Palms Russian Public Library, is Project Gutenberg
+Etexts in .zip format as mirrored from uiarchive.
+
+
+and our newest:
+
+ftp://ftp.pinknet.cz/pub/etext/gutenberg/  in the Czech Republic.
+
+***
+
+http://www.mirrors.org.sg/pg
+in Singapore
+
+The Gutenberg archive can also be accessed from Singapore at
+http://www.sol.com.sg/pg
+
+These two addresses reflect the same database in Singapore.
+and others are starting soon in Japan and Taiwan.
+
+***
+
+Project Gutenberg Web Sites can now be reached at: 
+[This site is in Nevada]
+http://promo.net/pg/   [This is the definitive site for now]
+ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/pg_home.html
+http://www.prairienet.org/pg
+
+and from Silicon Valley at   
+ftp://cdrom.com/pub/gutenberg
+and
+ftp://archive.org/pub/gutenberg/etext/etext97
+and etext96/95/94/93/92/91 and etext90, of course.
+
+and from Dallas, Texas at
+ftp://viemeister.com/pub/gutenberg
+
+And for you Gopher types:
+
+gopher://spinaltap.micro.umn.edu:70/11/Gutenberg 
+
+**
+And our newest sites:
+ftp://ftp.ihug.co.nz/pub/mirror/gutenberg 
+Adam Moore <sickboy@ihug.co.nz> and Sydney, AU
+
+Our Newest Site Is In Taiwan                     
+ftp transend.com.tw/mirrors/gutenberg/etext      
+or, with your browser, the URL is:               
+ftp://ftp.transend.com.tw/mirrors/gutenberg/etext
+
+Please let me know if you need more information.
+
+Michael S. Hart
+Project Gutenberg
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL 61825-2782
+[Check should be made out to "Project Gutenberg/CMU"]
+
+Thanks!
+
+Michael
+
+
+
+To subscribe or unsubscribe to or from the Project Gutenberg Newsletter
+or change your subscription address to Project Gutenberg's Newsletter:
+
+send email to:
+listproc@prairienet.org
+say:
+unsub gutnberg
+unsub gutvol-l
+Message MUST be sent from the address you subbed from, of course.
+
+To sub from a new address, send message from there:
+sub gutnberg [yourfirstname] [yourlastname]
+If you want the volunteers' list           
+sub gutvol-l [yourfirstname] [yourlastname]
+[That is "gutvol-L" NOT "gutvol-1"]
+
+Thanks!!
+
+Michael S. Hart
+<hart@pobox.com>
+Project Gutenberg
+Executive Director
+Internet User ~100
+
+
+

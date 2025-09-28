@@ -1,0 +1,802 @@
+The Project Gutenberg Weekly Newsletter January 21, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+
+  - Current procedures for accessing Project Gutenberg eBooks
+
+  - Updates/corrections to previously posted eBooks
+
+  - 38 New U.S. eBooks this week
+
+  - 7 New eBooks at PG Australia
+
+  - Mailing list information
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+
+
+The easiest way to obtain our eBooks is at our search page at
+
+
+
+  http://gutenberg.net/find.shtml
+
+
+
+which allows searching by title, author or eBook number; there is also
+
+an Advanced Search page which allows for additional search criteria
+
+(note that our newer postings may not yet be indexed for all additional
+
+criteria).
+
+
+
+And please note:  you can now obtain a listing by language at the above
+
+link.
+
+
+
+Mirrors (copies) of the complete collection are available around the
+
+world, and you can select one nearer to your location from the link on
+
+the search results page.
+
+
+
+To see a listing of mirror sites, and locate the one nearest to you,
+
+visit:
+
+
+
+  http://gutenberg.net/list.shtml
+
+
+
+EBooks numbered 1 to 10000 are located in "release year" directories. Over
+
+time, the "release year" advanced, so that by November 2003 the release year
+
+was 2006.  Starting with eBook #10001, they are filed by their official eBook
+
+number, with a unique subdirectory based on that eBook number.
+
+
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+
+
+To get to a directory listing you can use either:
+
+
+
+  http://gutenberg.net/1/
+
+    - or -
+
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+
+
+. . .navigate down through the subdirectories until you get to the
+
+appropriate level, and then select the file you wish to download,
+
+using your usual download procedures.  This system works on mirrors,
+
+too, and will hold all eBooks starting with the number "1" for
+
+10,000 and beyond.
+
+
+
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+
+
+Use your Web browser or FTP program to visit our master download site (or
+
+a mirror) if you know the filename and year you want.  For example:
+
+
+
+  http://gutenberg.net/etext06/
+
+    - or -
+
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+
+
+and look for the first five letters of the filesname.  Note that updated
+
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+
+                              ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+
+
+     Note:  this listing best viewed with a fixed-width font, such as
+
+            Courier New or similar.
+
+
+
+=============================================================================
+
+=           [ Here Are The Updated Listings For This Past Week ]            =
+
+=============================================================================
+
+
+
+TOTAL COUNT as of today, Wed 21 Jan 2004:  11,044 (incl. 327 Aus.).
+
+
+
+Last week the Total Count was 11,001, including 320 at PG of Australia.
+
+This week we added 45 new (incl. 7 at PG of Australia); but we are removing
+
+two (#1648 and #7536, see below), and added to the Reserved/Pending count.
+
+
+
+RESERVED/PENDING count:   41
+
+
+
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+.:Please note the following changes, corrections and improvements:
+
+
+
+The following two entries are duplicates, but there is only one eBook; the
+
+entry for #1648 is being removed, and will be identified as "Pending", for
+
+want of a better means of tracking:
+
+Old:
+
+Apr 1999 The Trees of Pride, by Gilbert K. Chesterton [#12][trprdxxx.xxx] 1721
+
+Feb 1999 The Trees of Pride, by G. K. Chesterton [G.K.C.#6][trprdxxx.xxx] 1648
+
+New:
+
+Apr 1999 The Trees of Pride, by Gilbert K. Chesterton      [trprdxxx.xxx] 1721
+
+Feb 1999 [Pending]                                         [trprdxxx.xxx] 1648
+
+
+
+The following eBook has been removed from the collection due to copyright
+
+considerations:
+
+Feb 2005 The Road Leads On, by Knut Hamsun             [#2][?roadxxx.xxx] 7536
+
+This eBook number will be Reserved for the posting in the future.
+
+
+
+The following is being re-posted and re-indexed with a corrected filename
+
+(was oldhmxxx.xxx):
+
+May 2005 The Old Homestead, by Ann S. Stephens             [hmstdxxx.xxx]8078
+
+
+
+The following is being re-indexed to include translator name:
+
+The Positive School of Criminology, by Enrico Ferri                      10580
+
+  [Subtitle: Three Lectures Given at the University of Naples, Italy on
+
+   April 22, 23 and 24, 1901]
+
+  [Translator:  Ernest Untermann]
+
+
+
+The following has been re-posted in an additional format, as indicated:
+
+Feb 2005 13th String Quartet, Ludwig van Beethoven [LVB #9][lv130xxx.zip] 7507
+
+  [Sibelius .sib format in lv13010-sib.sib]
+
+
+
+
+
+-=-=-=-=[ 36 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Audio: Tarrytown, by Roger McGuinn                                       10759C
+
+  [Note: Recorded in the summer of 1959.]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10759 ]
+
+  [Files: 10759-m-readme.txt; 10759-m-001.mp3; 10759.txt; 10759.zip; ]
+
+
+
+Audio: Star-Spangled Banner, by Roger McGuinn                            10758C
+
+  [Author: Francis Scott Key (lyricist)]
+
+  [Author: John Stafford Smith (composer?)]
+
+  [Recorded in July 2000.]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10758 ]
+
+  [Files: 10758-m-readme.txt; 10758-m-001.mp3; 10758.txt; 10758.zip; ]
+
+
+
+Audio: Pretty Saro, by Roger McGuinn                                     10757C
+
+  [Recorded in 2003.]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10757 ]
+
+  [Files: 10757-m-readme.txt; 10757-m-001.mp3; 10757.txt; 10757.zip; ]
+
+
+
+Between Whiles, by Helen Hunt Jackson                                    10756
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10756 ]
+
+  [Files: 10756.txt; 10756.zip; 10756-8.txt; 10756-8.zip; 10756-h.htm;
+
+   10756-h.zip; ]
+
+
+
+The Broken Road, by A. E. W. Mason                                       10755
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10755 ]
+
+  [Files: 10755.txt; 10755.zip; 10755-8.txt; 10755-8.zip; ]
+
+
+
+Little Sarah, by Unknown                                                 10754
+
+  [Children's book with lovely illustrations]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10754 ]
+
+  [Files: 10754.txt; 10754.zip; 10754-h.htm; 10754-h.zip; ]
+
+
+
+Open Source Democracy, by Douglas Rushkoff                               10753C
+
+  [Subtitle: How online communication is changing offline politics]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10753 ]
+
+  [Files: 10753.txt; 10753.zip; ]
+
+
+
+Thoughts in Heads, by Harry Stojan                                       10752C
+
+  [Subtitle: High-school Novel]
+
+  [Language: Bulgarian]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10752 ]
+
+  [Files: 10752.txt; 10752.zip; 10752-8.txt; 10752-8.zip; ]
+
+
+
+Oregon, Washington and Alaska; Sights and Scenes for the Tourist, Lomax  10751
+
+  [Author: E. L. Lomax]
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10751 ]
+
+  [Files: 10751.txt; 10751.zip; 10751-8.txt; 10751-8.zip; 10751-h.htm;
+
+   10751-h.zip; ]
+
+
+
+The Miracle and Other Poems, by Virna Sheard                             10750
+
+  [Link: http://www.gutenberg.net/1/0/7/5/10750 ]
+
+  [Files: 10750.txt; 10750.zip; ]
+
+
+
+The Circus Procession, by Unknown                                        10749
+
+  [Link: http://www.ibiblio.org/gutenberg/1/0/7/4/10749 ]
+
+  [Files: 10749.txt; 10749.zip; 10749-h.htm; 10749-h.zip]
+
+
+
+World's Greatest Books, Vol III, Editors: Arthur Mee and J.A. Hammerton  10748
+
+  [Contains excerpts from the books of:
+
+    Alphonse Daudet
+
+    Thomas Day
+
+    Daniel Defoe
+
+    Charles Dickens
+
+    Benjamin Disraeli (Earl Of Beaconsfield)
+
+    Alexandre Dumas]
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10748 ]
+
+  [Files: 10748.txt; 10748-8.txt; 10748-h.htm]
+
+
+
+Chantecler, by Edmond Rostand                                            10747
+
+  [Subtitle: Play in Four Acts]
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10747 ]
+
+  [Files: 10747.txt]
+
+
+
+Boule de Suif, by Guy de Maupassant                                      10746
+
+  [Language: French]
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10746 ]
+
+  [Files: 10746.txt; 10746-8.txt; 10746-h.htm]
+
+
+
+The Story of the Champions of the Round Table, by Howard Pyle            10745
+
+  [Written and illustrated by Howard Pyle]
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10745 ]
+
+  [Files: 10745.txt; 10745.zip; 10745-h.htm; 10745-h.zip; ]
+
+
+
+Men, Women, and Ghosts, by Elizabeth Stuart Phelps                       10744
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10744 ]
+
+  [Files: 10744.txt; 10744-8.txt]
+
+
+
+Moonfleet, by J. Meade Falkner                                           10743
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10743 ]
+
+  [Files: 10743.txt; 10743-8.txt]
+
+
+
+The Picture Alphabet, by Oliver Spafford                                 10742
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10742 ]
+
+  [Files: 10742.txt; 10742.zip; 10742-h.htm; 10742-h.zip; ]
+
+
+
+Essays Of Arthur Schopenhauer: The Wisdom of Life, Arthur Schopenhauer   10741
+
+  [Translator: T. Bailey Saunders]
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10741 ]
+
+  [Files: 10741.txt; 10741-8.txt]
+
+
+
+The Way of Peace, by James Allen                                         10740
+
+  [Link: http://www.gutenberg.net/1/0/7/4/10740 ]
+
+  [Files: 10740.txt; 10740-8.txt]
+
+
+
+The Essays Of Arthur Schopenhauer, by Arthur Schopenhauer                10739
+
+  [Translated By T. Bailey Saunders]
+
+  [Contents:
+
+    Human Nature
+
+    Government
+
+    Free-Will And Fatalism
+
+    Character
+
+    Moral Instinct
+
+    Ethical Reflections]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10739 ]
+
+  [Files: 10739.txt; 10739-8.txt]
+
+
+
+Mahomet, by Gladys M. Draycott                                           10738
+
+  [Subtitle: Founder of Islam]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10738 ]
+
+  [Files: 10738.txt; 10738-8.txt]
+
+
+
+Book about Animals, by Rufus Merrill                                     10737
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10737 ]
+
+  [Files: 10737.txt; 10737-h.htm]
+
+
+
+Children of the Frost, by Jack London                                    10736
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10736 ]
+
+  [Files: 10736.txt; 10736.zip; 10736-8.txt; 10736-8.zip; 10736-h.htm;
+
+   10736-h.zip; ]
+
+
+
+Christmas Eve on Lonesome and Other Stories, by John Fox, Jr.            10735
+
+  [Illustrator:  F. C. Yohn, A.I. Keller, W.A. Rogers, and H. C. Ransom]
+
+  [Contents:
+
+    Christmas Eve On Lonesome
+
+    The Army Of The Callahan
+
+    The Pardon Of Becky Day
+
+    A Crisis For The Guard
+
+    Christmas Night With Satan
+
+  [Files: 10735.txt; 10735.zip; 10735-h.htm; 10735-h.zip]
+
+
+
+A Collection of Old English Plays, Vol. III, by Various                  10734
+
+  [Edited by A.H. Bullen]
+
+  [Contents:
+
+    Sir Gyles Goosecappe
+
+    The Wisdome of Dr. Dodypoll
+
+    The Distracted Emperor
+
+    The Tryall of Chevalry]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10734 ]
+
+  [Files: 10734.txt; 10734-8.txt]
+
+
+
+Studies in Civics, by James T. McCleary                                  10733
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10733 ]
+
+  [Files: 10733.txt; 10733.zip; 10733-8.txt; 10733-8.zip; ]
+
+
+
+The Essays of Arthur Schopenhauer: Studies in Pessimism, by Schopenhauer 10732
+
+  [Author: Arthur Schopenhauer]
+
+  [Translated by T. Bailey Saunders]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10732 ]
+
+  [Files: 10732.txt; 10732.zip; 10732-8.txt; 10732-8.zip; ]
+
+
+
+The Essays of Arthur Schopenhauer: The Art of Controversy, Schopenhauer  10731
+
+  [Author: Arthur Schopenhauer]
+
+  [Translated by T. Bailey Saunders]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10731 ]
+
+  [Files: 10731.txt; 10731.zip; 10731-8.txt; 10731-8.zip; ]
+
+
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 12, Issue 344 10730
+
+  [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 12,
+
+   Issue 344 (Supplementary Issue)]
+
+  [Author: Various]
+
+  [Link: http://www.gutenberg.net/1/0/7/3/10730 ]
+
+  [Files: 10730.txt; 10730.zip; 10730-8.txt; 10730-8.zip; 10730-h.htm;
+
+   10730-h.zip; ]
+
+
+
+Jack's Ward, by Horatio Alger, Jr.                                       10729
+
+  [Subtitle: The Boy Guardian]
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10729 ]
+
+  [Files: 10729.txt; 10729.zip; 10729-h.htm; 10729-h.zip; ]
+
+
+
+Christie, the King's Servant, by Mrs. O. F. Walton                       10728
+
+  [Subtitle: A Sequel to "Christie's Old Organ"]
+
+  [Author AKA: Amy Catherine Deck Walton]
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10728 ]
+
+  [Files: 10728.txt; 10728.zip; 10728-h.htm; 10728-h.zip; ]
+
+
+
+A Set of Rogues, by Frank Barrett                                        10727
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10727 ]
+
+  [Files: 10727.txt; 10727.zip; 10727-8.txt; 10727-8.zip; 10727-h.htm;
+
+   10727-h.zip; ]
+
+
+
+Outlines of Lessons in Botany, Part I; From Seed to Leaf, Jane H. Newell 10726
+
+  [Subtitle: For the Use of Teachers, or Mothers Studying with Their
+
+   Children]
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10726 ]
+
+  [Files: 10726.txt; 10726.zip; 10726-8.txt; 10726-8.zip; 10726-h.htm;
+
+   10726-h.zip; ]
+
+
+
+The Centralia Conspiracy, by Ralph Chaplin                               10725
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10725 ]
+
+  [Files: 10725.txt; 10725.zip; 10725-h.htm; 10725-h.zip; ]
+
+
+
+The Store Boy, by Horatio Alger, Jr.                                     10724
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10724 ]
+
+  [Files: 10724.txt; 10724.zip; ]
+
+
+
+Betty's Bright Idea, etc., by Harriet Beecher Stowe                      10723
+
+  [Title: Betty's Bright Idea; Deacon Pitkin's Farm; and The First
+
+   Christmas of New England]
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10723 ]
+
+  [Files: 10723.txt; 10723.zip; 10723-h.htm; 10723-h.zip; ]
+
+
+
+Plays, by Alexander Ostrovsky                                            10722
+
+  [Contains:
+
+     A Protegee of the Mistress
+
+     Poverty Is No Crime
+
+     Sin and Sorrow Are Common to All
+
+     It's a Family Affair--We'll Settle It Ourselves]
+
+  [Link: http://www.gutenberg.net/1/0/7/2/10722 ]
+
+  [Files: 10722.txt; 10722-8.txt]
+
+
+
+
+
+=-=-=-=[ 7 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+
+
+Jan 2004 Memoirs of William Cox, Anonymous                 [040019xx.xxx] 0327A
+
+  [http://gutenberg.net.au/ebooks04/0400191.txt or .ZIP ]
+
+Jan 2004 Journal of a First Fleet Surgeon, George B Worgan [040018xx.xxx] 0326A
+
+  [http://gutenberg.net.au/ebooks04/0400181.txt or .ZIP
+
+
+
+Jan 2004 Rogue Herries, Hugh Walpole                       [040017xx.xxx] 0325A
+
+  [http://gutenberg.net.au/ebooks04/0400171.txt or .ZIP ]
+
+  [and http://gutenberg.net.au/ebooks04/0400171h.html or ZIP with image ]
+
+Jan 2004 Strange Interlude, Eugene O'Neill                 [040016xx.xxx] 0324A
+
+  [http://gutenberg.net.au/ebooks04/0400161.txt or .ZIP ]
+
+  [ and http://gutenberg.net.au/ebooks04/0400161h.html ]
+
+Jan 2004 Dynamo, Eugene O'Neill                            [040015xx.xxx] 0323A
+
+  [http://gutenberg.net.au/ebooks04/0400151.txt or .ZIP ]
+
+  [and http://gutenberg.net.au/ebooks04/0400151h.html ]
+
+
+
+Jan 2004 Diff'rent, Eugene O'Neill                         [040011xx.xxx] 0319A
+
+  [http://gutenberg.net.au/ebooks04/0400111.txt or .ZIP ]
+
+  [and http://gutenberg.net.au/ebooks04/0400111h.html ]
+
+Jan 2004 Welded, Eugene O'Neill                            [040010xx.xxx] 0318A
+
+  [http://gutenberg.net.au/ebooks04/0400101.txt or .ZIP ]
+
+  [and http://gutenberg.net.au/ebooks04/0400101h.html ]
+
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+
+go to http://gutenberg.net.au/plusfifty.html
+
+
+
+For more information about Project Gutenberg of Australia, including
+
+accessing those etexts from outside of Australia, please visit:
+
+http://gutenberg.net.au/
+
+
+
+--Project Gutenberg of Australia--
+
+--A treasure trove of Literature--
+
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+
+
+For more information about copyright restrictions in other countries,
+
+please visit:
+
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+=============================================================================
+
+
+
+Never do card tricks for the group you play poker with.
+
+
+
+=============================================================================
+
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberg@listserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end December 2003
+
+      gweekly - 2812
+
+      gmonthly - 3490

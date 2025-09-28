@@ -1,0 +1,553 @@
+---
+params:
+  id: 2058
+title: "PG Weekly Newsletter: Part 3 (2003-10-15)"
+date: 2003-10-15T16:48:37+00:00
+author: Michael Cook
+layout: post
+url: /20031015/pg-weekly-newsletter-2003-10-15-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 15th October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+----------------------------------------------------------------------
+
+    !!!The 10,000th eBook has been posted at Project Gutenberg!!!
+
+        Be sure to read Parts 1 & 2 of this week's newsletter
+        for details.  Congratulations to Michael Hart, and all
+        the thousands of volunteers who have made this happen!
+
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 15 Oct 2003:  10,004 (incl. 282 Aus.).
+
+Last week the Total Count was 9,806, including 280 at PG of Australia.
+This week we added 198 new (incl. 2 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the title ("Woodlanders", not
+"Woodlander"):
+Dec 2005 Audio: The Woodlanders, Thomas Hardy              [woodlxxx.mp3] 9451C
+
+The following is being re-indexed to add translator credits:
+Feb 2002 The Iliad of Homer, trans. Andrew Lang, et al     [iliabxxx.xxx] 3059
+[Tr.: Andrew Lang, M.A., Walter Leaf, Litt.D., And Ernest Myers, M.A.]
+
+The following has been re-posted in HTML as indicated:
+Jun 2004 Little Sister Snow, by Frances Little             [ltsssxxx.xxx] 5960
+[HTML version in ltsss10h.htm and illustrated HTML in ltsss0h.zip]
+
+
+The following is being re-indexed to include editor info:
+Nov 2005 Collection of Old English Plays, Vol II, Dodsley  [?oep2xxx.xxx] 9400
+[Full title: A Select Collection of Old English Plays, Vol. II]
+[Author: Robert Dodsley] [Ed.: W. Carew Hazlitt]
+  Contents:
+    The Interlude of Youth
+    Lusty Juventus
+    Jack Juggler
+    A Pretty Interlude, called Nice Wanton
+    The History of Jacob and Esau
+    The Disobedient Child
+    The Marriage of Wit and Science
+
+The following is being re-indexed to include contents:
+Oct 2005 Collection of Old English Plays, Vol. I., Dodsley  [?oeplxxx.xxx] 9050
+[Full title: A Select Collection of Old English Plays, Volume I.  4th Edn.]
+[Author: Robert Dodsley] [Ed.: W. Carew Hazlitt]
+  Contents
+    Interlude of the Four Elements
+    Calisto and Melibaea
+    Everyman: a Moral Play
+    Hickscorner
+    The Pardoner and the Friar
+    The World and the Child (Mundus and Infans)
+    God's Promises
+    The Four P.P.
+    A New Interlude, called Thersites
+
+-=-=-=-=[ 196 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+(Note:  this one is out of sequence, but as it is eBook #10000, it is being
+ placed at the top of the list.):
+
+Mar 2006 The Magna Carta [Multiple versions, one in Latin] [magnaxxx.xxx]10000
+[This is version 0.1, the 1.0 version should be posted December 10, on TechTV.]
+
+
+Jun 2006 The History Of Rome, Book II, by Theodor Mommsen  [hrom2xxx.xxx]10702
+[Subtitle: From the Abolition of the Monarchy in Rome to the Union of Italy]
+[Tr.: William Purdie Dickson]
+
+
+Jan 2006 Vane of the Timberlands, by Harold Bindloss       [?vanexxx.xxx] 9778
+Jan 2006 Riley Child-Rhymes, by James Whitcomb Riley   [#4][chrlyxxx.xxx] 9777
+Jan 2006 Cicero's Brutus or History of Famous Orators      [?cbhoxxx.xxx] 9776
+[Full Title: Cicero's Brutus or History of Famous Orators; also His Orator,
+ or Accomplished Speaker]
+[Author: Marcus Tullius Cicero] [Tr.: E. Jones]
+
+Jan 2006 Treasure and Trouble Therewith,by Geraldine Bonner[?ttrbxxx.xxx] 9775
+
+Jan 2006 Alice,           by E. B. Lytton, Complete[BL#214][b214wxxx.xxx] 9774
+[Author: Edward Bulwer-Lytton][Contains: EBooks #9763-9773]
+Jan 2006 Alice,           by E. B. Lytton, Book 11 [BL#213][b213wxxx.xxx] 9773
+Jan 2006 Alice,           by E. B. Lytton, Book 10 [BL#212][b212wxxx.xxx] 9772
+Jan 2006 Alice,           by E. B. Lytton, Book 9  [BL#211][b211wxxx.xxx] 9771
+Jan 2006 Alice,           by E. B. Lytton, Book 8  [BL#210][b210wxxx.xxx] 9770
+Jan 2006 Alice,           by E. B. Lytton, Book 7  [BL#209][b209wxxx.xxx] 9769
+Jan 2006 Alice,           by E. B. Lytton, Book 6  [BL#208][b208wxxx.xxx] 9768
+Jan 2006 Alice,           by E. B. Lytton, Book 5  [BL#207][b207wxxx.xxx] 9767
+Jan 2006 Alice,           by E. B. Lytton, Book 4  [BL#206][b206wxxx.xxx] 9766
+Jan 2006 Alice,           by E. B. Lytton, Book 3  [BL#205][b205wxxx.xxx] 9765
+Jan 2006 Alice,           by E. B. Lytton, Book 2  [BL#204][b204wxxx.xxx] 9764
+Jan 2006 Alice,           by E. B. Lytton, Book 1  [BL#203][b203wxxx.xxx] 9763
+
+Jan 2006 Calderon,        by E. B. Lytton,         [BL#202][b202wxxx.xxx] 9762
+
+Jan 2006 Leila,           by E. B. Lytton, Complete[BL#201][b201wxxx.xxx] 9761
+[Author: Edward Bulwer-Lytton][Contains: EBooks #9756-9760]
+Jan 2006 Leila,           by E. B. Lytton, Book 5  [BL#200][b200wxxx.xxx] 9760
+Jan 2006 Leila,           by E. B. Lytton, Book 4  [BL#199][b199wxxx.xxx] 9759
+Jan 2006 Leila,           by E. B. Lytton, Book 3  [BL#198][b198wxxx.xxx] 9758
+Jan 2006 Leila,           by E. B. Lytton, Book 2  [BL#197][b197wxxx.xxx] 9757
+Jan 2006 Leila,           by E. B. Lytton, Book 1  [BL#196][b196wxxx.xxx] 9756
+
+Jan 2006 Night & Morning, by E. B. Lytton, Complete[BL#195][b195wxxx.xxx] 9755
+[Author: Edward Bulwer-Lytton][Contains: EBooks #9750-9754]
+Jan 2006 Night & Morning, by E. B. Lytton, Vol. 5  [BL#194][b194wxxx.xxx] 9754
+Jan 2006 Night & Morning, by E. B. Lytton, Vol. 4  [BL#193][b193wxxx.xxx] 9753
+Jan 2006 Night & Morning, by E. B. Lytton, Vol. 3  [BL#192][b192wxxx.xxx] 9752
+Jan 2006 Night & Morning, by E. B. Lytton, Vol. 2  [BL#191][b191wxxx.xxx] 9751
+Jan 2006 Night & Morning, by E. B. Lytton, Vol. 1  [BL#190][b190wxxx.xxx] 9750
+
+Jan 2006 The Highwayman, by H.C. Bailey                    [?highxxx.xxx] 9749
+Jan 2006 The Old Gray Homestead, by Frances Parkinson Keyes[?grayxxx.xxx] 9748
+Jan 2006 The Fortune Hunter, by Louis Joseph Vance         [?fortxxx.xxx] 9747
+[Also posted Illustrated HTML - 8fort10h.zip; and 8fort10h.htm]
+Jan 2006 The Ashiel mystery, by Mrs. Charles Bryce         [?ashlxxx.xxx] 9746
+
+Jan 2006 The Rock of Chickamauga, by Joseph A. Altsheler   [trochxxx.xxx] 9745
+
+
+[The following (#9703-#9744) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Jan 2006 Audio: David Copperfield, Charles Dickens         [cprfdxxx.mp3] 9744C
+Jan 2006 Audio: Sketches of Young Couples, Charles Dickens [yngcpxxx.mp3] 9743C
+Jan 2006 Audio: The Wreck of the Golden Mary, C. Dickens   [wrkgmxxx.mp3] 9742C
+Jan 2006 Audio: The Uncommercial Traveller, Charles Dickens[unctrxxx.mp3] 9741C
+
+Jan 2006 Audio: Tom Tiddler's Ground, Charles Dickens      [ttgndxxx.mp3] 9740C
+Jan 2006 Audio: Cricket on the Hearth, Charles Dickens     [tcothxxx.mp3] 9739C
+Jan 2006 Audio: The Chimes, Charles Dickens                [tchmsxxx.mp3] 9738C
+Jan 2006 Audio: The Seven Poor Travellers, Charles Dickens [svprtxxx.mp3] 9737C
+Jan 2006 Audio: Sunday Under Three Heads, Charles Dickens  [suthsxxx.mp3] 9736C
+
+Jan 2006 Audio: Somebody's Luggage, Charles Dickens        [smlggxxx.mp3] 9735C
+Jan 2006 Audio: Sketches of Young Gentlemen,Charles Dickens[skygmxxx.mp3] 9734C
+Jan 2006 Audio: Sketches by Boz, Charles Dickens           [sbbozxxx.mp3] 9733C
+Jan 2006 Audio: Barnaby Rudge, Charles Dickens             [rudgexxx.mp3] 9732C
+Jan 2006 Audio: To Be Read At Dusk, Charles Dickens        [rddskxxx.mp3] 9731C
+
+Jan 2006 Audio: The Pickwick Papers, Charles Dickens       [pwprsxxx.mp3] 9730C
+Jan 2006 Audio: Perils of Certain English Prisoners, CD    [pocepxxx.mp3] 9729C
+Jan 2006 Audio: Pictures from Italy, Charles Dickens       [picitxxx.mp3] 9728C
+Jan 2006 Audio: Oliver Twist, Charles Dickens              [olivrxxx.mp3] 9727C
+Jan 2006 Audio: No Thoroughfare, Charles Dickens           [nothoxxx.mp3] 9726C
+
+Jan 2006 Audio: Nicholas Nickleby, Charles Dickens         [ncklbxxx.mp3] 9725C
+Jan 2006 Audio: Miscellaneous Papers, Charles Dickens      [mspcdxxx.mp3] 9724C
+Jan 2006 Audio: Mrs. Lirriper's Legacy, Charles Dickens    [mlrlgxxx.mp3] 9723C
+Jan 2006 Audio: Mrs. Lirriper's Lodgings, Charles Dickens  [mlldgxxx.mp3] 9722C
+Jan 2006 Audio: Master Humphrey's Clock, Charles Dickens   [mhmphxxx.mp3] 9721C
+
+Jan 2006 Audio: Mugby Junction, Charles Dickens            [mgjncxxx.mp3] 9720C
+Jan 2006 Audio: Our Mutual Friend, Charles Dickens         [mfrndxxx.mp3] 9719C
+Jan 2006 Audio: Mudfog and Other Sketches, Charles Dickens [mdfogxxx.mp3] 9718C
+Jan 2006 Audio: The Lazy Tour of Two Idle Apprentices      [lttiaxxx.mp3] 9717C
+Jan 2006 Audio: The Lamplighter, Charles Dickens           [lmpltxxx.mp3] 9716C
+
+Jan 2006 Audio: Little Dorrit, Charles Dickens             [ldortxxx.mp3] 9715C
+Jan 2006 Audio: A House to Let, Charles Dickens            [hsletxxx.mp3] 9714C
+Jan 2006 Audio: The Haunted Man and the Ghost's Bargin, CD [hntmnxxx.mp3] 9713C
+Jan 2006 Audio: Hunted Down, Charles Dickens               [hntdnxxx.mp3] 9712C
+Jan 2006 Audio: The Holly-Tree, Charles Dickens            [hlytrxxx.mp3] 9711C
+
+Jan 2006 Audio: Holiday Romance, Charles Dickens           [hldrmxxx.mp3] 9710C
+Jan 2006 Audio: Hard Times, Charles Dickens                [hardtxxx.mp3] 9709C
+Jan 2006 Audio: George Silverman's Explanation, C. Dickens [gsilxxxx.mp3] 9708C
+Jan 2006 Audio: Going into Society, Charles Dickens        [gisocxxx.mp3] 9707C
+Jan 2006 Audio: Speeches: Literary and Social, C. Dickens  [dslasxxx.mp3] 9706C
+
+Jan 2006 Audio: The Mystery of Edwin Drood, Charles Dickens[droodxxx.mp3] 9705C
+Jan 2006 Audio: Doctor Marigold, Charles Dickens           [drmrgxxx.mp3] 9704C
+Jan 2006 Audio: Dombey and Son, Charles Dickens            [dombyxxx.mp3] 9703C
+Jan 2006 Audio: The Old Curiosity Shop, Charles Dickens    [curioxxx.mp3] 9702C
+
+Jan 2006 Beowulf, Ed. by James A. Harrison and Robert Sharp[8bwlfxxx.xxx] 9701
+[8-bit Unicode in 8bwlf10ua.txt and 8egs410ua.zip, no Plain Text version]
+[Also posted HTML - 8bwlf10ha.zip and 8bwlf10ha.htm, ISO-8859-1]
+Jan 2006 Beowulf, Ed. by James A. Harrison and Robert Sharp[8bwlfxxx.xxx] 9700
+[8-bit in 8bwlf10.txt/.zip; HTML in 8bwlf10h.htm/.zip; no Plain Text format]
+[This version is the direct reproduction of the source text]
+
+
+[The following (#9671-#9699) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Jan 2006 Audio: Martin Chuzzlewit, Charles Dickens         [chuzzxxx.mp3] 9699C
+Jan 2006 Audio: Some Christmas Stories, Charles Dickens    [cdscsxxx.mp3] 9698C
+Jan 2006 Audio: Reprinted Pieces, Charles Dickens          [cdrprxxx.mp3] 9697C
+Jan 2006 Audio: A Christmas Carol, Charles Dickens         [carolxxx.mp3] 9696C
+
+Jan 2006 Audio: Bleak House, Charles Dickens               [blkhsxxx.mp3] 9695C
+Jan 2006 Audio: The Battle of Life, Charles Dickens        [batlfxxx.mp3] 9694C
+Jan 2006 Audio: American Notes, Charles Dickens            [amntsxxx.mp3] 9693C
+Jan 2006 Audio: A Message From the Sea, Charles Dickens    [amftsxxx.mp3] 9692C
+Jan 2006 Audio: All The Year Round, Charles Dickens        [allyrxxx.mp3] 9691C
+
+Jan 2006 Audio: A Child's History of England, C. Dickens   [achoexxx.mp3] 9690C
+Jan 2006 Audio: Three Ghost Stories, Charles Dickens       [3ghstxxx.mp3] 9689C
+Jan 2006 Audio: Tour through through England, Daniel Defoe [ttecexxx.mp3] 9688C
+[Full title: Tour through the Eastern Counties of England]
+Jan 2006 Audio: Robinson Crusoe, Daniel Defoe              [rbcruxxx.mp3] 9687C
+Jan 2006 Audio: The Further Adventures of Robinson Crusoe  [rbcr2xxx.mp3] 9686C
+[Author: Daniel Defoe]
+
+Jan 2006 Audio: Moll Flanders, Daniel Defoe                [mollfxxx.mp3] 9685C
+Jan 2006 Audio: From London to Land's End, Daniel Defoe    [lndlexxx.mp3] 9684C
+Jan 2006 Audio: A Journal of the Plague Year, Daniel Defoe [jplagxxx.mp3] 9683C
+Jan 2006 Audio: Essay Upon Projects, Daniel Defoe          [esprjxxx.mp3] 9682C
+Jan 2006 Audio: Everybody's Business is Nobody's Business  [ebdybxxx.mp3] 9681C
+[Author: Daniel Defoe]
+
+Jan 2006 Audio: Dickory Cronke, Daniel Defoe               [dckcrxxx.mp3] 9680C
+Jan 2006 Audio: The Famous Captain Singleton, Daniel Defoe [cpsngxxx.mp3] 9679C
+[Full title: The Life, Adventures & Piracies of the Famous Captain Singleton]
+Jan 2006 Audio: The Consolidator, Daniel Defoe             [consoxxx.mp3] 9678C
+Jan 2006 Audio: Captain Mission, Daniel Defoe              [7cmisxxx.mp3] 9677C
+Jan 2006 Audio: Silas Marner, George Eliot                 [smarnxxx.mp3] 9676C
+
+Jan 2006 Audio: The Mill on the Floss, George Eliot        [mlflsxxx.mp3] 9675C
+Jan 2006 Audio: The Lifted Veil, George Eliot              [lftvlxxx.mp3] 9674C
+Jan 2006 Audio: Brother Jacob, George Eliot                [brjcbxxx.mp3] 9673C
+Jan 2006 Audio: Adam Bede, George Eliot                    [adambxxx.mp3] 9672C
+Jan 2006 Audio: Daniel Deronda, George Eliot               [7drdaxxx.mp3] 9671C
+
+
+Jan 2006 Less-known British Poets, Complete, Gilfillan [#5][?lbp4xxx.xxx] 9670
+Jan 2006 Less-known British Poets, Vol. 3, by Gilfillan[#4][?lbp3xxx.xxx] 9669
+Jan 2006 Less-known British Poets, Vol. 2, by Gilfillan[#3][?lbp2xxx.xxx] 9668
+Jan 2006 Less-known British Poets, Vol. 1, by Gilfillan[#2][?lbp1xxx.xxx] 9667
+[Full title: Specimens with Memoirs of the Less-known British Poets]
+[Edited by George Gilfillan] [Introductory Essays By George Gilfillan]
+
+Jan 2006 Scientific American Supplement, No. 497           [?0497xxx.xxx] 9666
+[Full title: Scientific American Supplement, No. 497, July 11, 1885]
+[Full author: Various]
+[Also posted Illustrated HTML - 8049710h.zip; and 8049710h.htm]
+
+Jan 2006 Delia Blanchflower, by Mrs. Humphry Ward          [?dlblxxx.xxx] 9665
+Jan 2006 Amiable Charlatan, by E. P. Oppenheim [EPO#16]    [?achrxxx.xxx] 9664
+[Full Title: An Amiable Charlatan]
+[Full Author: E. Phillips Oppenheim]
+Jan 2006 Domnei, by James Branch Cabell                    [?domnxxx.xxx] 9663
+[Subtitle: A Comedy of Woman-Worship]
+[Preface by Joseph Hergesheimer; Critical comments by E. Noel Codman and
+ Paul Verville]
+Jan 2006 An Enquiry Concerning Human Understanding, D. Hume[?echuxxx.xxx] 9662
+[Author: David Hume]
+[Introduction, Comparative Table of Contents, and Analytical Index by
+ by L. A. Selby-Bigge] [Ed.: L. A. Selby-Bigge]
+[Also posted: HTML version in 8echu10h.htm and 8echu10h.zip]
+Jan 2006 Mormon Settlement in Arizona,byJames H. McClintock[mrmsaxxx.xxx] 9661
+[Subtitle: A Record of Peaceful Conquest of the Desert]
+
+Jan 2006 First Blast of the Trumpet, by John Knox, 1558    [?trmpxxx.xxx] 9660
+[Full title: The First Blast of the Trumpet against the monstrous regiment
+ of Women] [Ed.: Edward Arber]
+[Also posted HTML - 8trmp10h.zip and 8trmp10h.htm]
+Jan 2006 Gentleman From Indiana, by Booth Tarkington[BT#21][gfindxxx.xxx] 9659
+[Full Title: The Gentleman From Indiana]
+Jan 2006 Punchinello, Vol.1, No. 13 , June 25,1870, Various[?p113xxx.xxx] 9658
+[Also posted Illustrated HTML - 8p11310h.zip; and 8p11310h.htm]
+Jan 2006 The Mutineers, by Charles Boardman Hawes          [?mutnxxx.xxx] 9657
+Jan 2006 Alarms and Discursions, by G. K. Chesterton       [aldscxxx.xxx] 9656
+[Author AKA: Gilbert Keith Chesterton]
+
+Jan 2006 Stello, by Alfred De Vigny                        [?stelxxx.xxx] 9655
+[Language: French]
+Jan 2006 Lendas e Narrativas (Tomo I), Alexandre Herculano [?ldnrxxx.xxx] 9654
+[Transcribed from the 1858 2nd edition of Lendas e Narrativas (Tomo I)]
+[Language: Portugese]
+Jan 2006 A Wreath of Virginia Bay Leaves, James Barron Hope[?wvblxxx.xxx] 9653
+[Subtitle: Poems of James Barron Hope] [Editor: Janey Hope Marr]
+Jan 2006 Miscellany of Poetry, by Various                  [?msptxxx.xxx] 9652
+[Ed.: W. Kean Seymour] [Decorations: Doris Palmer, Cecil Palmer and Hayward]
+[Also posted HTML - 8mspt10h.zip and 8mspt10h.htm]
+Jan 2006 A Child-World, by James Whitcomb Riley        [#4][?cwldxxx.xxx] 9651
+[Poetry]
+
+Jan 2006 Independent Bohemia, by Vladimir Nosek            [?ibohxxx.xxx] 9650
+[Subtitle: An Account Of The Czecho-Slovak Struggle For Liberty]
+[Also posted Illustrated HTML - 8iboh10h.zip; and 8iboh10h.htm]
+Jan 2006 With Trapper Jim in the North Woods, L. J. Leslie [tjnwdxxx.xxx] 9649
+[Full author: Lawrence J. Leslie]
+[Also posted HTML - tjnwd10h.zip and tjnwd10h.htm]
+Jan 2006 Tip Lewis and His Lamp, Pansy (aka Isabella Alden [llampxxx.xxx] 9648
+[Also posted HTML - llamp10h.zip and llamp10h.htm]
+
+Jan 2006 Landscape Gardening of the Exposition,by Mullgardt[algexxxx.xxx] 9647
+[Full title: The Architecture and Landscape Gardening of the Exposition]
+[Subtitle: A Pictorial Survey of the Most Beautiful Achitectural Compositions
+ of the Panama-Pacific International Exposition]
+[Intro: Louis Christian Mullgardt]
+(Also see the other Project Gutenberg eBooks about the 1915 Panama Pacific
+ Exposition in San Francisco, eBook #'s 7411, 6631, 5771, 5712, 5620, 4672,
+ 3151)
+Jan 2006 Odes and Epodes, by Horace                        [?hodexxx.xxx] 9646
+[Language: Latin]
+
+Jan 2006 Quatrevingt-Treize, by Victor Hugo           [#14][?quatxxx.xxx] 9645
+[Language: French]
+Jan 2006 Litterature et Philosophie melees,Victor Hugo[#13][?ltphxxx.xxx] 9644
+[Language: French]
+Jan 2006 Histoire des Montagnards, by Alphonse Esquiros    [?hmntxxx.xxx] 9643
+[Language: French]
+Jan 2006 Poesie e novelle in versi, by Ferdinando Fontana  [?psnvxxx.xxx] 9642
+[Language: Italian]
+Jan 2006 Ugo: Scene del secolo X, by Ambrogio Bazzero      [?ugoxxxx.xxx] 9641
+[Language: Italian]
+
+Jan 2006 Georgian Poetry 1920-22, by Various               [?gp05xxx.xxx] 9640
+[Ed.: Sir Edward Howard Marsh]
+[Also posted HTML - 8gp0510h.htm and 8gp0510h.zip]
+Jan 2006 La dame de Monsoreau v.3, by Alexandre Dumas      [?ddm3xxx.xxx] 9639
+[Language: French]
+Jan 2006 La dame de Monsoreau v.2, by Alexandre Dumas      [?ddm2xxx.xxx] 9638
+[Language: French]
+Jan 2006 La dame de Monsoreau v.1, by Alexandre Dumas      [?ddm1xxx.xxx] 9637
+[Language: French]
+Jan 2006 Punchinello, Vol.1, No. 12 , June 18,1870, Various[?p112xxx.xxx] 9636
+[Also posted Illustrated HTML - 8p11210h.zip]
+
+Jan 2006 The End of Her Honeymoon, by Marie Belloc Lowndes [?nhmnxxx.xxx] 9635
+Jan 2006 Sir George Tressady, Vol. II, by Mrs. Humphry Ward[?sgt2xxx.xxx] 9634
+[Author AKA: Mrs. Humphrey Ward; Mary Augusta Arnold Ward]
+Jan 2006 Sir George Tressady, Vol. I, by Mrs. Humphry Ward [?sgt1xxx.xxx] 9633
+[Author AKA: Mrs. Humphrey Ward; Mary Augusta Arnold Ward]
+Jan 2006 Die Richterin:  Novelle, by Conrad Ferdinand Meyer[?drctxxx.xxx] 9632
+[Language: German]
+Jan 2006 Waltoniana, by Isaak Walton                   [#4][?waltxxx.xxx] 9631
+[Subtitle: Inedited Remains in Verse and Prose of Izaak Walton]
+[With Notes And Preface By Richard Herne Shepherd]
+
+Jan 2006 Proportional Representation, by John H. Humphreys [?prepxxx.xxx] 9630
+[Subtitle: A Study in Methods of Election]
+[With an introduction by the Rt. Hon. Lord Courtney of Penwith]
+Jan 2006 Ghost Stories of an Antiquary, by M. R. James [#2][?jgs2xxx.xxx] 9629
+[Subtitle: Part 2: More Ghost Stories] [Author: Montague Rhodes James]
+
+Jan 2006 Buried Cities, Complete, by Jennie Hall           [?bct4xxx.xxx] 9628
+Jan 2006 Buried Cities, Volume 3, Mycenae, by Jennie Hall  [?bct3xxx.xxx] 9627
+Jan 2006 Buried Cities, Volume 2, Olympia, by Jennie Hall  [?bct2xxx.xxx] 9626
+Jan 2006 Buried Cities, Volume 1, Pompeii, by Jennie Hall  [?bct1xxx.xxx] 9625
+[Also posted: HTML in 8bct410h.htm; Illustrated HTML in 8bct410h.zip (6.5mb)]
+
+Jan 2006 Directions for Cookery, by Eliza Leslie           [?cookxxx.xxx] 9624
+[Full title: Directions for Cookery, in its Various Branches]
+[Also posted HTML - 8cook10h.zip and 8cook10h.htm]
+Jan 2006 Wir Fanden Einen Pfad, by Christian Morgenstern   [?wfpfxxx.xxx] 9623
+[Subtitle: Neue Gedichte] [Language: German]
+Jan 2006 Lyrical Ballads 1798, by Wordsworth and Coleridge [?lbalxxx.xxx] 9622
+[Full Title: Lyrical Ballads, With a Few Other Poems]
+[Also posted HTML - 8lbal10h.zip and 8lbal10h.htm]
+Jan 2006 Georgian Poetry 1918-19, by Various               [?gp04xxx.xxx] 9621
+[Ed.: Sir Edward Marsh]
+[Also posted HTML - 8gp0410h.zip and 8gp0410h.htm]
+
+Jan 2006 Tales and Novels, Vol. 6, by Maria Edgeworth      [?tal6xxx.xxx] 9620
+[Subtitle: The Absentee; Madame de Fleury; Emilie de Coulanges; The Modern
+ Griselda]
+Jan 2006 Who Can Be Happy And Free In Russia?, by Nekrassov[?whrsxxx.xxx] 9619
+[Full author: Nicholas Nekrassov]
+[Tr.: Juliet M. Soskice] [Introduction by Dr. David Soskice]
+Jan 2006 The Field of Ice, by Jules Verne                  [8ficexxh.xxx] 9618
+[HTML only - 8fice10h.zip and 8fice10h.htm]
+Jan 2006 Echoes of the War, by J. M. Barrie                [wechoxxx.xxx] 9617
+  Contents:
+    The Old Lady Shows Her Medals
+    The New Word
+    Barbara's Wedding
+    A Well-Remembered Voice
+[Also posted HTML - wecho10h.zip and wecho10h.htm]
+Jan 2006 Ramuntcho, by Pierre Loti                    [#12][ramunxxx.xxx] 9616
+
+Jan 2006 Superfluous Man and Others, by Ivan Turgenev      [?spmnxxx.xxx] 9615
+[Full title: The Diary of a Superfluous Man and Other Stories]
+  Contents:
+    The Diary Of A Superfluous Man
+    A Tour In The Forest
+    Yakov Pasinkov
+    Andrei Kolosov
+    A Correspondence
+Jan 2006 The Case of Richard Meynell, by Mrs. Humphry Ward [?rmeyxxx.xxx] 9614
+Jan 2006 The Young Buglers, by G.A. Henty                  [?ybugxxx.xxx] 9613
+Jan 2006 The Botanic Garden, Part 1, by Erasmus Darwin     [?bot1xxx.xxx] 9612
+[Subtitle: A Poem in Two Parts. Part 1: The Economy of Vegetation]
+Jan 2006 Joseph Andrews, Vol 1, by Henry Fielding          [?jan1xxx.xxx] 9611
+[From The Works Of Henry Fielding Edited By George Saintsbury In Twelve
+ Volumes, Vol. I.]
+[Also posted Illustrated HTML - 8jan110h.zip; and 8jan110h.htm]
+
+Jan 2006 The Elegies of Tibullus, by Tibullus              [eltibxxx.xxx] 9610
+[Subtitle: Being The Consolations Of A Roman Lover Done In English Verse]
+[Tr.: Theodore C. Williams]
+[Also posted HTML - eltib10h.zip and eltib10h.htm]
+Jan 2006 Joseph Andrews, Vol. 2, by Henry Fielding         [?jan2xxx.xxx] 9609
+[From The Works Of Henry Fielding, Edited By George Saintsbury In Twelve
+ Volumes, Vol. II.]
+[Also posted Illustrated HTML - 8jan210h.zip; and 8jan210h.htm]
+Jan 2006 The Cords of Vanity, by James Branch Cabell       [?cvanxxx.xxx] 9608
+[Author: Introduction by Wilson Follett]
+[Subtitle: A Comedy of Shirking]
+Jan 2006 From Boyhood to Manhood, by William M. Thayer     [bhmhdxxx.xxx] 9607
+[Subtitle: Life of Benjamin Franklin]
+Jan 2006 A Little Book of Western Verse, by Eugene Field   [?lbwvxxx.xxx] 9606
+
+Jan 2006 Chico: the Story of a Homing Pigeon, L. Blanchard [chicoxxx.xxx] 9605
+[Author's Full Name: Lucy M. Blanchard]
+Jan 2006 Hung Lou Meng, Book II, by Cao Xueqin             [?hlm2xxx.xxx] 9604
+[Subtitle: Or, The Dream of the Red Chamber, A Chinese Novel in Two Books]
+[Tr.: H. Bencraft Joly]
+Jan 2006 Hung Lou Meng, Book I, by Cao Xueqin              [?hlm1xxx.xxx] 9603
+[Subtitle: Or, The Dream of the Red Chamber, A Chinese Novel in Two Books]
+[Tr.: H. Bencraft Joly]
+Jan 2006 History of the French Revolution, by F.A.M Mignet [?hfrrxxx.xxx] 9602
+[Title: History of the French Revolution from 1789 to 1814]
+Jan 2006 Poetical Works of Pope, Vol. II, by Alexander Pope[?pop2xxx.xxx] 9601
+[With Memoir, Critical Dissertation, and Explanatory Notes by Gilfillan]
+[Ed.: Rev. George Gilfillan]
+
+
+Dec 2005 Whittier's Poems of Slavery, Vol. 3, Complete[#25][wit21xxx.xxx] 9580
+Dec 2005 Labor and Reform, by Whittier,    V3,  Part 5[#24][wit20xxx.xxx] 9579
+Dec 2005 Poems in War Time, by Whittier,   V3,  Part 4[#23][wit19xxx.xxx] 9578
+Dec 2005 Anti Slavery Poems III, Whittier, V3,  Part 3[#22][wit18xxx.xxx] 9577
+Dec 2005 Anti Slavery Poems II, Whittier,  V3,  Part 2[#21][wit17xxx.xxx] 9576
+
+Dec 2005 Anti Slavery Poems I, Whittier,   V3,  Part 1[#20][wit16xxx.xxx] 9575
+
+
+Dec 2005 Ride to the Lady, by Helen Gray Cone              [?ridlxxx.xxx] 9559
+[Subtitle: And Other Poems]
+
+[The following (#9551-#9558) are human-read audio eBooks provided by
+ AudioBooksForFree.com; each are comprised of multiple .mp3 files, and
+ are available in both 16- and 32-bit audio, each with corresponding
+ *index.html and *readme.txt files.]
+
+Dec 2005 Audio: The Sign of Four, Arthur Conan Doyle       [shsofxxx.mp3] 9558C
+[16-bit audio in shsof16??.mp3, 32-bit audio in shsof32??.mp3)
+Dec 2005 Audio: The Valley of Fear, Arthur Conan Doyle     [shvofxxx.mp3] 9557C
+[16-bit audio in shvof16??.mp3, 32-bit audio in shvof32??.mp3)
+Dec 2005 Audio: A Study in Scarlet, Arthur Conan Doyle     [shscaxxx.mp3] 9556C
+[16-bit audio in shsca16.mp3, 32-bit audio in shsca32.mp3)
+
+Dec 2005 Audio: The Memoirs of Sherlock Holmes, AC Doyle   [shmemxxx.mp3] 9555C
+[16-bit audio in shmem16??.mp3, 32-bit audio in shmem32??.mp3)
+Dec 2005 Audio: The Last Bow, Arthur Conan Doyle           [shlasxxx.mp3] 9554C
+[16-bit audio in shlas16??.mp3, 32-bit audio in shlas32??.mp3]
+Dec 2005 Audio: The Return of Sherlock Holmes, AC Doyle    [rholmxxx.mp3] 9553C
+[16-bit audio in rholm16??.mp3, 32-bit audio in rholm32??.mp3)
+Dec 2005 Audio: The Hound of the Baskervilles, AC Doyle    [bskrvxxx.mp3] 9552C
+[16-bit audio in bskrv16??.mp3, 32-bit audio in bskrv32??.mp3)
+Dec 2005 Audio: The Adventures of Sherlock Holmes, AC Doyle[advshxxx.mp3] 9551C
+[16-bit audio in advsh16??.mp3, 32-bit audio in advsh32??.mp3)
+
+Dec 2005 Manual of Gardening (Second Edition), L. H. Bailey[?mgrdxxx.xxx] 9550
+[Subtitle: A Practical Guide to the Making of Home Grounds and the Growing
+ of Flowers, Fruits, and Vegetables for Home Use]
+[Also posted: HTML in 8mgrd10h.htm; illustrated HTML in 8mgrd10h.zip (8.8mb)]
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Oct 2003 Witch Wood, by John Buchan                        [030133xx.xxx] 0282A
+[http://gutenberg.net.au/ebooks03/0301331.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0301331h.html ]
+
+Oct 2003 Short Circuits, by Stephen Leacock                [030132xx.xxx] 0281A
+[http://gutenberg.net.au/ebooks03/0301321.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0301321h.html ]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+When life gives you a lemon, just say "Lemons? I like lemons. What else have
+you got?"
+
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_10_15_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_10_15_part_3.txt</a>

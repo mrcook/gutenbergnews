@@ -1,0 +1,1197 @@
+From hart at pglaf.org  Wed Sep 27 09:59:58 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Sep 27 10:00:03 2006
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0609270959300.15173@pglaf.org>
+
+pt1a3.906
+pt1b3.906
+Weekly_September_27.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, September 27, 2006 PT1
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971*******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+LAST CHANCE!
+
+GUTENBERG! THE MUSICAL! at the New York Musical Theater Festival
+By Anthony King and Scott Brown. Directed by Dave Mowers.
+Starring Chris Fitzgerald ("Wicked" / "Fully Committed"),
+Jeremy Shamos ("The Rivals" / "Reckless") and Matt Castle
+(John Doyle's "Company")
+
+Johann Gutenberg invented the printing press in 1450. So Bud
+Davenport and Doug Simon wrote a musical about him and they're
+bringing it to Broadway. They don't have a cast, a budget, or a
+producer . . . but they have a dream!
+
+"A surefire hit ... it's so bang on the money that, were I a
+speculative type, I'd almost be tempted to invest," The Daily Telegraph.
+
+Gutenberg! The Musical! is Bud and Doug's backers' audition: a
+tuneful, tasteless triumph, celebrating the monstrous success of
+their idiocy. Since its sold-out January premiere in London,
+performed by the authors, we've been polishing the script and
+writing new songs. Now - with a fantastic creative team and hugely
+talented new cast - we're bringing it home to New York.
+
+"Utterly brilliant ... the funniest and cleverest spoof I've come
+across ... Mel Brooks couldn't have done it better," Clive Davis.
+
+Venue: Sage Theatre (711 7th Avenue, at Times Square).
+6 performances only: Fri 22nd Sept (8pm), Mon 25th (4.30pm), 
+Wed 27th (8pm), Thu 28th (8pm) and Sat 30th (1pm and 4.30pm). 
+Running time: 90 minutes.
+
+Tickets: $20.00.
+
+To book: call 212-352-3101 or visit
+http://www.nymf.org/index.php?module=ShowManager&func=display&sid=497
+
+
+"Contains more wit and intelligence than three decades of megashows,"
+
+Five Stars! The Times.
+
+///
+
+For now I am leaving PT1a and PT1b combined.
+
+Please also let me know if you think these Newsletters are a waste of 
+time or if you think I/we should keep doing them.
+
+Thanks!
+
+Michael
+
+
+Some Suggestions We Received For The Newsletters
+
+
+0.
+Several people have merely suggested to other readers
+that they start from both ends and read to the middle
+and thus they will get the highlights first, and then
+the regular features, requests, etc. that stay pretty
+much the same from issue to issue.
+
+I would agree with this suggestion, and would simply,
+for my own edification, also read the "Flashback," as
+I find it interesting to see Project Gutenberg eBooks
+as they appeared in our catalog x years ago.
+
+
+1.
+Divide the Newsletter in Web page URLs so the readers 
+could just jump to whatever portions they wanted.
+[This would take some additional labor by someone who
+was more familiar with writing web pages than I.]
+
+You should already be able to jump to whichever parts
+you want to read. . .simply use your search commands,
+search for "*" plus the section header as outlined in
+The Table of Contents.
+
+
+2.
+Redivide PT1 of the Weekly Newsletter into two parts.
+
+[This would create a lot more work for whomever edits
+the Newsletters, which probably wouldn't be so bad if
+that were their only responsibility.  I work to point
+of exhaustion nearly every single day, and I need for
+things to become easier rather than harder.  Hence my
+requests for anyone who would like to be editor:  the
+format of the Newsletter would be their choice and we
+could either turn over the statistics to them, or our
+stats people could simply send in that portion, ahead
+of the deadline by an hour or two.  We would continue
+to encourage our readers to send in news items not in
+the main regular media coverage.]
+
+
+*
+
+We are interested in increasing the "SF" available at Project Gutenberg of
+Australia. To this end we are happy to receive donations of ebooks to add
+to our collection.
+
+SF, in this context can mean: Science, Speculative, Superhero, Swords,
+Sorcery, Spies, Supernatural and Scary Fiction.
+
+Of course, we are only able to accept works that are public domain in
+Australia.
+
+Generally speaking, this means that the author died in 1954 or earlier.
+
+Please see our WANTED list at http://gutenberg.net.au/wanted.html for
+authors and works of interest. If you have suggestions for authors or 
+works to add to the list, please let us know.  Do check first that 
+they are not already available at Project Gutenberg Australia or 
+Project Gutenberg, please.  Contact details are provided on the WANTED page.
+
+  http://gutenberg.net.au/wanted.html
+
+  http://gutenberg.net.au/wanted.html
+
+As always, ebooks by Australian authors and of general Australian interest
+are always greatly appreciated.
+
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    Also collected in the Monthly Newsletter
+   Corrections in separate section
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+                         *eBook Milestones*
+
+
+            21,366 eBooks As Of Today At These Four PG Sites
+
+        19,346 Project Gutenberg US  [+ 52] [NOT Including PG Australia]
+         1,290 Australian eBooks     [+  3] [NOT Included in above line]
+           351 Gutenberg Europe      [+  1] [NOT Included in above lines]
+           376 PG PrePrint Site      [+  0] [NOT Inclucded in above lines]
+        21,366 Grand Total           [+ 56]
+        21,363 [by hand count]       [+ 56]
+               [Please note we have several counting methods,
+               and they often differ by several book that we
+               have to hunt down by hand to reconcile.]
+               [Pleast note there is some duplication between
+               these various collections.  Volunteers needed
+               to take these duplications into account.]
+
+                ~13% of the way from 20,000 to 30,000
+
+               100,000+ eBooks at the PG Consortia Center
+               http://www.gutenberg.cc   [185,000+ files]
+
+[Please note that the four collections totals are eBooks that originated
+as created, edited, proofread, formatted, etc., by Project Gutenberg and
+its 50,000 volunteers, while the Project Gutenberg Consortia Center with
+100,000+ books contains entire eBook collections from 125+ eLibraries so
+the production statistics given here are for some 20,000+ eBooks created
+by the various teams of Project Gutenberg volunteers, for which we share
+the responsibility of maintaining.  The Consortia Center eBooks were and
+are the responsibility of the donating eLibraries, and we would be happy
+to forward any suggestions for correction to those eLibraries, but those
+eBooks must be edited by the donating parties, as per their requests.]
+
+/
+
+
+             18,298 New eBooks Since The Start Of 2001
+
+           That's ~266 eBooks per Month for ~68.75 Months
+
+            3,218 New eBooks in 2006 at These Four Sites
+
+            45 New eBooks From Distributed Proofreaders
+             9,111 total from Distributed Proofreaders
+              Since October, 2000 [Details in PT1B]
+              [Currently over 36,000 DP volunteers]
+            [Note, PGDP mostly included in US eBooks]
+         [Note, PGEU has its own Distributed Proofreaders
+          whose total closely matches their grand total]
+
+             We Averaged ~339 eBooks Per Month In 2004
+             We Averaged ~248 eBooks Per Month In 2005
+                      [Including PG Australia]
+
+
+       We Are Averaging ~368 eBooks Per Month This Year!!!
+              [Including PGAu, PGEu and PrePrints]
+
+All Four Sites Combined Are Averaging 85 eBooks Per Week In 2006
+                        58 This Week
+                        99 Last Week
+                       278 This Month [Sep]
+
+
+It took ~32 years, from 1971 to 2003 to do our first 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~12.5 years from Jan. 1994 to Jun. 2006 to go from 100 to 20,100
+
+It took ~32 months, from 2003 to 2006 for our last 10,000 eBooks
+
+It took ~2.8 years from Oct. 2003 to Jun. 2006 from 10,000 to 20,000
+
+It took ~2.3 years from Jan. 2004 to Aug. 2006 from 11,000 to 21,000
+
+Not counting the addition of The Project Gutenberg Consortia Center's
+Receipt of ~100,000 eBooks from 125+ Other eLibraries Worldwide.
+
+*
+
+[Daily PrePrints stats at http://preprints.readingroo.ms/]
+
+Please note that sometimes it takes a few weeks for entire
+collections to fully appear in the PrePrints Section, thus
+the count sometimes jumps by a large number when the files
+are eventually completed and added in.  Also note that the
+PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or
+The Project Gutenberg Consortia Center, etc.  For example,
+on June 14, 200 WAP compatible cell phone eBooks appeared,
+and will likely be moved to other collection points later.
+The entire process of working out the details just to send
+them to the PrePrints Section took well over a month.
+
+Even with the speeded up process of the PrePrints Section,
+it still takes a certain amount of time to collect and put
+such a large collection online in a proper manner.
+
+*
+
+
+
+***Introduction
+[Ignore for the moment]
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+
+FREE INTERNET REFERENCE SITE
+
+LivingInternet.com provides a 700-odd page reference about the Internet
+"to provide living context and perspective to this most technological
+of human inventions", and has received input from many people that helped
+build the Internet.  It currently receives about 3 thousand visitors a day,
+many from educational institutions.  Now in its 7th year of operation.
+http://www.livinginternet.com/
+
+
+TEXT TO SPEECH
+
+Dolphin Producer is a new software package which will convert a text
+document into a fully synchronized text and audio DTB at the push of a
+single button. The DTB can then be played back using Dolphin's
+EaseReader software player - which is included in Dolphin Producer.
+The DTB can also be played back on any other DAISY DTB software or
+hardware player, as well as any MP3 player - The choice is yours.
+
+http://www.dolphinuk.co.uk or http://www.dolphinusa.com
+
+
+***BREAK FOR PT1A AND PT1B***
+pt1a3.906
+pt1b3.906
+Weekly_September_20.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, September 27, 2006 PT1
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971*******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+***Continuing Requests New Sites and Announcements
+
+
+General Catalog of Old Books and Authors
+
+http://www.kingkong.demon.co.uk/ngcoba/ngcoba.htm
+
+which now indexes 24,000 books available free online, including all
+PG(US) & PG(Aus)'s books, along with some basic date information
+about them and their authors where you can find more.
+
+Plus many books not available on line, a good place to search
+for books by specific authors who you are interested in.
+
+For information please contact Philip Harper
+<webmaster AT kingkong.demon.co.uk>
+
+*
+
+We have been invited to peruse the various eBook collections
+of the Internet Archive for potential Project Gutenberg eBooks.
+
+http://www.archive.org
+
+Don't worry, many of the numbers listed are out of date,
+but you should get all the files when you pass through
+to the original sites.
+
+Click on "texts" to get started, feel free to pick up any
+of the eBooks you would like to work on.
+
+Many Thanks To Brewster Kahle and the Internet Archive!
+
+*
+
+Please visit and test our newest site:
+
+"PROJECT GUTENBERG EUROPE"
+
+http://pge.rastko.net [Project Gutenberg Europe]
+http://dp.rastko.net [Distributed Proofreaders Europe]
+
+*
+
+There is an experimental online reader available.
+Start from any bibliographic record page, e.g.
+
+http://www.gutenberg.org/etext/4300
+
+
+Basically this paginates the .txt file and remembers your last position
+in a cookie so you can later resume reading where you left off.
+
+Please test it. It should work with any book that has a text file
+where the encoding is known.
+
+*
+
+MACHINE TRANSLATION
+
+We are seeking as much information as possible on the various
+approaches to Machine Translation. Any brand names or contact
+information would be greatly appreciated.
+
+***
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://www.gutenberg.org/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD and DVD there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+***
+
+Please checkout the various Project Gutenberg FAQs, etc. at:
+
+http://www.gutenberg.org/about
+
+
+*
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://www.gutenberg.org/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+
+So far we have sent out 15 million eBooks via snailmail!!!
+
+We currently have access to a dozen DVD burners.  If you have a DVD burner
+and are interested in lending a hand, please email Aaron Cannon
+
+<cannona@fireantproductions.com>
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them directly
+to readers whose addresses we can send you, or you can
+do a stack of these and send the whole box back for reshipping.
+We can also reimburse you for supplies and postage if you wish.
+
+Please note that we can only use DVDs which are burnt in the dvd-r format,
+as we have had some compatibility issues with the dvd+r format.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.
+We have regular need for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+  In the first 08.75 months of this year, PG produced 3,218 new eBooks.
+
+It took us from Jul 1971 to Apr 2002 to produce our first 3,218 eBooks!
+
+            That's 38 WEEKS as Compared to ~31 Years!!!
+
+                  58   New eBooks This Week
+                  99   New eBooks Last Week
+                 278   New eBooks This Month [Sep]
+
+                 368   Average Per Month in 2006
+                 266   Average Per Month in 2005 Counting 216 PGEu
+                 248   Average Per Month in 2005 Not Counting PGEu
+                 336   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                3218   New eBooks in 2006
+                3186   New eBooks in 2005  Counting 216 PGeu
+             >  2970   New eBooks in 2005  Not Counting PGEu
+                4049   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+              18,298   New eBooks Since Start Of 2001
+                       That's Only 68.75 Months!
+                       ~266 books per month!
+
+              21,366  Total Project Gutenberg eBooks
+              17,211   eBooks This Week Last Year
+                ====
+               4,155   New eBooks In Last 12 Months
+                       [Incl. PGAu, PGEu & PrePrints]
+
+               1,290   eBooks From Project Gutenberg of Australia
+                       [This does NOT include PGAu eBooks posted
+                       at the U.S. site:  www.gutenberg.org ]
+
+                 351   eBooks From Project Gutenberg of Europe
+
+                 376   Items in Project Gutenberg PrePrints
+
+            ~100,000   Project Gutenberg Consortia Center
+                       http://www.gutenberg.cc
+                       [~185,000 files at about 2 files pers book]
+
+You may also want to look at Project Runeberg [Scandinavian eBooks]
+http://runeberg.org
+
+*
+
+Project Gutenberg began operation on July 4, 1971
+Project Runeberg began operation on December 13, 1992
+Distributed Proofreaders began October 22, 2000
+    [Became an official PG-US site in 2002]
+Project Gutenberg of Australia began in August, 2001
+The Project Gutenberg Consortia Center started in 1997]
+    [Became an official PG-US site in 2003]
+Project Gutenberg of Europe started January 12, 2004
+    [Posted first books February 26, when we met in Brussels
+    to address people at the European Union Parliament.
+Project Gutenberg PrePrints Started January 25, 2006
+http://preprints.readingroo.ms
+
+*
+
+PROJECT GUTENBERG DISTRIBUTED PROOFREADERS UPDATE:
+
+Since starting production in October 2000,
+Distributed Proofreaders has contributed
+9,111 Books to Project Gutenberg.
+45 added this week.
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+*
+
+Check out our website at www.gutenberg.org, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+
+http://www.gutenberg.org/howto/subscribe-howto
+or
+http://www.gutenberg.org/subs.shtml
+
+***
+
+*Project Gutenberg Consortia Center Report
+
+The PGCC collection at http://www.gutenberg.cc has doubled
+in size from the listings below, but we don't have exactly
+matching collection sizes yet for a new breakdown.
+
+There are ~185,000 separate downloadable files,
+and presuming 45% are reduntant or are required
+at the level of more than one file per book:
+
+The number of individual eBooks now is about 100,000.
+
+Thus the grand total of eBooks at Project Gutenberg
+is 21,000+ created by Project Gutenberg volunteers,
+and 100,000 donated from over 125 other eLibraries,
+to create a downloadble library of 100,000+ eBooks
+plus 80,000 donated from over 100 other eLibraries,
+to create a downloadble library of 100,000+ eBooks
+
+*
+
+PGCC's current eBook and eDocument Collections listings
+of 18 collections. . .with this week's listing as:
+
+[This list is being updated as the moment, you can get
+the entire list on the collections pages at gutenberg.cc]
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Internet Archive                  ~30,000 eBook Files [In Progress]  <<<
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,           ~34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      15,035 eBook Files
+PGCC Chinese eBook Collection       ~300 eBook files   <<< Note Name Change
+Renascence Editions Collection,      561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files=========~137,142 Total Files=====
+
+Average Size of the Collections     8,067.18 Total Files
+
+
+***
+
+Please also note that over 25,000 eBooks are listed via
+The Online Books Page, of which over 6,300 are from PG.
+http://onlinebooks.library.upenn.edu/
+
+In addition:  The Internet Public Library had a similar
+listing which is now in limbo.  If anyone knows what is
+happening with the IPL, please let us know.  Inquiries,
+made months ago, and again recently, have not turned up
+any current information.
+
+You can try a new IPL service at:
+
+http://www.ipl.org/div/subject/browse/hum60.60.00/
+
+It would appear that The Internet Public Library ended
+its first incarnation with about 22,284 entries, which
+has now been surpassed by the Online Books Page.
+
+Still looking for more Internet Public Library info.
+
+***
+
+Today Is Day #266 of 2006
+This Completes Week #38 and Month #08.75  [364 days this year]
+    98 Days/18 Weeks To Go  [We get 52 Wednesdays this year]
+8,634 Books To Go To #30,000
+We are 13.5% of the way from 20,000 to 30,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    85   Weekly Average in 2006
+    61   Weekly Average in 2005  [Counting 216 PGEu]
+    57   Weekly Average in 2005  [Not Counting PGEu]
+    78   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    42   Only ~42 Numbers Left On Our Reserved Numbers List
+          [Used to be well over 100]
+          [This listing usually from the previous week]
+
+*** Permanent Requests For Assistance:
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+
+
+Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner.
+[Note that the high-speed scanner requires destruction of the book(s) which
+will not be returned.]  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a project you would like to work on.
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+as well as in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.org":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.org&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 35 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.org/donation.html  or email donate@gutenberg.org
+
+
+*Access To The Project Gutenberg Collections
+
+
+*Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://www.gutenberg.org/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.org/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://www.gutenberg.org/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+
+Statistical Review
+
+In the 38 weeks of this year, we have produced 3218 new eBooks.
+It took us from 07/71 to 05/02 to produce our FIRST 3218 eBooks!!!
+
+          That's 38 WEEKS as Compared to ~31 YEARS!!!
+
+
+FLASHBACK!
+
+Here's a sample of what books we were doing around eBook #3218
+
+Mon Year Title and Author                                  [filename.ext] ###
+A "C" Following The eText # Indicates That This eText Is Under Copyright
+
+[Note:  books without month and year entries are now in new catalog format]
+
+
+
+
+/
+
+
+May 2002 Honey's Large Business Dictionary German-English  [8lgdexxx.xxx] 3220C
+   [Language: German/English]
+May 2002 Mr. Honey's Tourist Dictionary English-German     [8tredxxx.xxx] 3219C
+   [Language: English/German]
+May 2002 Mr. Honey's Tourist Dictionary German-English     [8trdexxx.xxx] 3218C
+   [Language: German/English]
+May 2002 Honey's Small Business Dictionary English-German  [8smedxxx.xxx] 3217C
+   [Language: English/German]
+May 2002 Honey's Small Business Dictionary German-English  [8smdexxx.xxx] 3216C
+   [Language: German/English]
+
+May 2002 Mr. Honey's Insurance Dictionary English-German   [8inedxxx.xxx] 3215C
+   [Language: English/German]
+May 2002 Mr. Honey's Insurance Dictionary German-English   [8indexxx.xxx] 3214C
+   [Language: German/English]
+May 2002 Mr. Honey's Beginner's Dictionary English-German  [8bgedxxx.xxx] 3213C
+   [Language: English/German]
+May 2002 Mr. Honey's Beginner's Dictionary German-English  [8bgdexxx.xxx] 3212C
+   [Language: German/English]
+May 2002 Honey's Small Banking Dictionary English-German   [8baedxxx.xxx] 3211C
+   [Language: English/German]
+
+May 2002 Honey's Small Banking Dictionary German-English   [8badexxx.xxx] 3210C
+   [Language: German/English]
+May 2002 Honey's Medium Business Dictionary, English-German[8meedxxx.xxx] 3209C
+   [Language: English/German]
+May 2002 Honey's Medium Business Dictionary, German-English[8medexxx.xxx] 3208C
+   [Language: German/English]
+May 2002 Leviathan, by Thomas Hobbes                       [lvthnxxx.xxx] 3207
+   [Subtitle: Or, the Matter, Forme, & Power of a Common-Wealth]
+    Eclesiastical and Civill]
+May 2002 Moby Multiple Language Lists of Common Words      [mlangxxx.xxx] 3206
+
+May 2002 Moby Pronunciation List                           [mpronxxx.zip] 3205
+May 2002 Moby Hyphenation List                             [mhyphxxx.zip] 3204
+May 2002 Moby Part of Speech List                          [mpospxxx.zip] 3203
+May 2002 Moby Thesaurus List                               [mthesxxx.zip] 3202
+May 2002 Moby Word Lists                                   [mwordxxx.zip] 3201
+Entire Project Gutenberg Works of Mark Twain, Mark Twain (Samuel Clemens) 3200
+
+/
+
+
+Have We Given Away A Trillion Dollars Worth or a Trillion eBooks Yet???
+
+
+If our average eBook has reached just 1% of the world population of
+6,546,790,688 that would be 21,366 x 65,467,907 = ~1.39 Trillion !!!
+
+With 21,366 eBooks online as of September 27, 2006 it now takes an average
+of ~1% of the world gaining a nominal value of ~$.72 from each book.
+[1% world population x #eBooks] 65,467,869 x 21,365 x $.71 = ~$1 Trillion 
+[Google "world population" "popclock" to get the most current figures.]
+[By the way, the US "popclock" is about to turn to 300 million people.]
+[Just turning 299.9 million this week!]
+
+
+A Trillion Dollars Given Away At Just $.47 Value Per Book To 100 Million
+
+With 21,366 eBooks online as of September 27, 2006 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.47 from each book.
+This "cost" is down from about $.58 when we had 17,211 eBooks a year ago.
+
+[This is not counting the 100,000 eBooks at http://gutenberg.cc which are
+counted and maintained separately by their donating electronic libraries]
+
+Our Target Audience Is 1.5% Of The World Population = ~100 million people.
+
+Next Decade's Target:  15% Of The world Population = 1 billion !!! people.
+
+
+At 21,366 eBooks in 35 Years and 02.75 Months We Averaged
+       606 Per Year
+        51 Per Month
+         1.66 Per Day
+
+At 3218 eBooks Done In The 266 Days Of 2006 We Averaged
+    12.1 Per Day
+      85 per Week
+     368 Per Month
+
+
+If you are interested in the population of the world or of the U.S.
+you might want to know that these numbers, official as they appear,
+are just just estimates, and perhaps not as accurate as we hope.
+
+However, for those keeping track of how quickly the U.S. reaches a
+300 million population level, and who noticed the passing of 299M,
+just two weeks ago. . .the U.S. is already 80% the way to 300M, so
+it will probably be 2 more weeks to 300M.
+
+Recently the U.S. Congress, pertaining to district reapportionment,
+who gets to vote for which Congresspeople, decided that many of the
+districts were undercounted by 5%, perhaps then later deciding that
+all districts had been undercounted by 5% [can't recall details].
+
+*
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 4th was
+the first Wednesday of 2006, and thus ended PG's production
+year of 2005 and began the production year of 2006 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***BREAK FOR PT1A AND PT1B***
+
+
+
+
+
+*Headline News from Edupage
+
+
+[PG Editor's Comments In Brackets]
+
+
+BRITISH LIBRARY SAYS COPYRIGHT LAW NEEDS UPDATING
+The British Library has called for a wide-scale revision of existing
+copyright law, which, it said, inadequately addresses digital content,
+putting too much control into the hands of content producers and
+owners. Lynne Brindley, chief executive of the British Library, took
+aim at digital rights management (DRM) technology in particular, saying
+that it allows content producers to prevent legitimate uses of content,
+such as for academic purposes, for archival efforts, or for making
+content available to people with disabilities. Calling the problem a
+global issue, Brindley said that without "a serious updating of
+copyright law to recognize the changing technological environment, the
+law becomes an ass." The Open Rights Group supported the library's
+call for revising copyright law, saying that the current situation
+"allows publishers to write whatever license they like, which is what
+is happening now." The British Library also said the question of
+orphaned works should be addressed--works whose proper copyright owners
+cannot be located easily or at all.
+CNET, 25 September 2006
+http://news.com.com/2100-1025_3-6119043.html
+
+
+PUBLISHERS TAKE HEART FROM BELGIAN COURT RULING
+Buoyed by a recent ruling from a court in Belgium, the World
+Association of Newspapers (WAN) is leading the development of an
+automated system for coordinating content permissions with search
+engines. The Belgian court found that Google violates the rights of
+content producers when it indexes news stories and reposts parts of
+those stories on its own site. News organizations have long complained
+that search engines profit from the efforts of news outlets, and the
+court ruling, which Google is appealing, strengthens their position in
+trying to restrict how search engines are allowed to use online
+content. Search engines typically rely on applications that scour the
+Web for content and incorporate it into search results without human
+intervention. The Automated Content Access Protocol being developed by
+the WAN will reportedly give news organizations the ability to include
+parameters about how their content may be used inside online content.
+The applications that search engines use to index content will be able
+to interpret those parameters and treat the content accordingly. Gavin
+O'Reilly, chairman of the WAN, said, "This system is intended to
+remove completely any rights conflicts between publishers and search
+engines."
+CNET, 22 September 2006
+http://news.com.com/2100-1030_3-6118523.html
+
+
+YALE TO POST VIDEO OF COURSES ONLINE
+Yale University announced plans to begin posting video of course
+lectures online. Yale's effort is part of a larger movement in higher
+education toward open courseware, led in large part by an initiative
+started at MIT in 2001. For the OpenCourseWare project, MIT posts
+course materials online, including syllabi, reading lists, and other
+resources. Diana Kleiner, who is leading the effort at Yale, said the
+project follows "MIT's footprints" but represents the next step.
+Kleiner said that Yale officials believe the in-class experience to be
+central to the educational experience. Under the program, all of the
+lectures for a given course will be recorded and placed online.
+Beginning with seven courses this year, the program is expected to grow
+quickly to include many more in successive years. The university is
+exploring ways to ensure that offering video of lectures online will
+not encourage Yale students to skip class and simply watch the lectures
+at their convenience. Also at issue are intellectual property
+considerations, given that faculty are free to use some copyrighted
+materials in lectures, but that those materials may not be used
+similarly by the public.
+Inside Higher Ed, 20 September 2006
+http://www.insidehighered.com/news/2006/09/20/yale
+
+
+
+You've been reading excerpts from Edupage:
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+
+
+
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+Besides all the references to the National Intelligence Estimate
+that said the US is causing more terrorism via its trowback uses
+of gunboat diplomacy in the Middle East, several officers in the
+command positions in Iraq had the following comments this week.
+
+The officers were, Major General John Batiste, Major General
+Paul Eaton, and Colonel Paul Hammes.  Batiste was commander
+of the 1st Infantry Division, and was also the senior military
+aide to Secretary of Defense Paul Wolfowitz, and blames Congress
+for not asking "the tough questions."  He also mentioned threats
+by Secretary of Defense Donald Rumsfeld to fire anyone who said
+he needed a postwar strategy.
+
+In comments earlier this spring, General Batiste added, "the current
+administration repeatedly ignored sound military advice and counsel
+with respect to the war plans. I think the principles of war are
+fundamental, and we violate those at our own peril."
+
+Around the same time Commanding General Anthony Zinni, of the
+Central Command in Iraq had the following additional comments:
+
+"I think we are paying the price for lack of credible planning, or 
+the lack of a plan. We are throwing away 10 years of planning, in
+effect, for underestimating the situation we were going to get into
+and for not adhering to the advice that was being given to us by others.''
+
+Major General Eaton said referred to Secretary of Defense Rumsfeld
+as "incompetent, stragically, operationally, and tactically," and
+added "Mr. Rumsfeld and his immediate team must be replaced or we
+will see two more years of extraordinaily bad decision making."
+
+Eaton was in command of U.S. efforts to train the Iraq military
+until the last election.
+
+Earlier this year he wrote the following to the New York Times:
+
+"Rumsfeld has put the Pentagon at the mercy of his ego, his Cold
+Warrior's view of the world and his unrealistic confidence in
+technology to replace manpower. As a result, the US Army finds itself
+severely undermanned. . .cut to 10 active divisions but asked by the
+administration to support a foreign policy that requires at least 12
+or 14," [active divisions].
+
+
+
+DOUBLESPEAK OF THE WEEK
+
+The various declassifying of minimal pages of the National
+Intelligence Estimate that only support the administration,
+but leave out the entire portion that said the U.S. caused
+more problems than it solved by invading Iraq.
+
+
+*QUOTES OF THE WEEK
+
+16 days afterwards, still no real apology from the Pope.
+
+
+*PREDICTIONS OF THE WEEK
+
+Just as the rich keep getting richer,
+and the poor keep getting poorer,
+the distance between the various
+portions of humanity will increase,
+and the reason won't matter. . .
+any reason will do. . .the reasons
+for wars are usually fabrications.
+
+
+*ODD STATISTICS OF THE WEEK
+
+47% of female students said they would not raise their hands
+in class even if they knew the answer for fear of harassment
+for being smart.
+
+Source:  NPR, Sunday Morning
+
+*
+
+By the way, for those interested, the official U.S. population
+[i.e. if you had invested in ConEd and the S&P in 1997,
+and had made $1,000 on your S&P, your profits from that
+ConEd stock would be $15,000]
+
+Yet the Illinois Commerce Commission (ICC) voted 5-0 to 
+allow the new system.
+estimates just passed 299 million, though many say estimations
+of this nature leave out as much as 5% of the population, with
+the obvious exclusion of the 11-12 million immigrant workers
+now being mentioned so much in the news.
+
+Still hoping for more statistical updates and additional entries.
+[This one is getting a little out of date, as the US population
+is obviously no longer 6% of the world.  In fact, rounding to the
+nearest percent, the US will soon fall from 5% to 4%.]
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people would possess 59% of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+
+*
+
+Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org

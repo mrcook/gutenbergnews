@@ -1,0 +1,449 @@
+---
+params:
+  id: 2141
+title: "PG Weekly Newsletter: Part 2 (2004-05-12)"
+date: 2004-05-12T12:40:07+00:00
+author: Michael Cook
+layout: post
+url: /20040512/pg-weekly-newsletter-2004-05-12-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 12 May 2004 -- Part 2
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 59 New U.S. eBooks this week
+  - 2 New eBooks at PG Australia
+  - Last, but not least:  insights and other fine stuff
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the world,
+and you can select one nearer to your location from the link on the search
+results page.  To see a listing of mirror sites, and locate the one nearest
+to you, visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 12 May 2004:  12,642 (incl. 356 Aus.).
+
+Last week the Total Count was 12,581, including 354 at PG of Australia.
+This week we added 61 new (including 2 new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Please note the following changes, corrections and improvements:
+
+The following was originally posted as "Author: Unknown"; the author has
+been identified, and is now included in the listing:
+The Young Emigrants; Madelaine Tube; and other stories; by Sedgwick      11585
+  [Title: The Young Emigrants; Madelaine Tube; The Boy and the Book; and
+   Crystal Palace]
+  [Author: Susan Anne Livingston Ridley Sedgwick]
+
+The following has been extensively revised and corrected, and re-posted
+in a new edition 12:
+Apr 2002 Doctor Thorne, by Anthony Trollope                [drthnxxx.xxx] 3166
+
+The following has been re-posted in a greatly improved 11th edition, also
+new formats as indicated; note that the base filename has been changed
+from stbusxxx.xxx to ?stbuxxx.xxx:
+Apr 2000 Strictly Business, by O. Henry                    [?stbuxxx.xxx] 2141
+  [Plain text in 7stbu11.txt, 8-bit in 8stbu11.txt, HTML in 8stbu11h.htm]
+
+The corrected and improved edition of the following was originally
+mis-named (allnq10a.txt); that file has been slightly corrected and
+re-posted as an 11th edition (allnq10a.txt/.z-p have been removed):
+Nov 1996 Allan Quatermain, by H. Rider Haggard  [HRH #1]   [allnqxxx.xxx]  711
+
+
+-=-=-=-=[  59 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Tent Life in Siberia, by George Kennan                                   12328
+  [Link: http://www.gutenberg.net/1/2/3/2/12328 ]
+  [Files: 12328.txt; 12328-8.txt]
+
+The Jewish Manual, by Judith Cohen Montefiore                            12327
+  [Subtitle: Practical Information In Jewish And Modern Cookery with a
+   Collection of Valuable Recipes & Hints Relating to the Toilette]
+  [Link: http://www.gutenberg.net/1/2/3/2/12327 ]
+  [Files: 12327.txt; 12327-8.txt]
+
+The Story of My Life, by Ellen Terry                                     12326
+  [Subtitle: Recollections and Reflections]
+  [Link: http://www.gutenberg.net/1/2/3/2/12326 ]
+  [Files: 12326.txt; 12326-8.txt; 12326-h.htm]
+
+History and Collection of Voyages and Travels, Vol. III, by Robert Kerr  12325
+  [Title: A General History and Collection of Voyages and Travels, Vol. III]
+  [Subtitle: Arranged in Systematic Order: Forming a Complete History of
+   the Origin and Progress of Navigation, Discovery, and Commerce, by Sea
+   and Land, from the Earliest Ages to the Present Time]
+  [Part II, Book II:  History of the Discovery of America, and of Some of the
+   Early Conquests in the New World]
+  [Link: http://www.gutenberg.net/1/2/3/2/12325 ]
+  [Files: 12325.txt; 12325-8.txt]
+
+Elizabethan Parish in its Ecclesiastical and Financial Aspects, by Ware  12324
+  [Full author: Sedley Lynch Ware]
+  [Link: http://www.gutenberg.net/1/2/3/2/12324 ]
+  [Files: 12324.txt; 12324-8.txt]
+
+Punch, Vol. 99, August 2, 1890, Ed. by Sir Francis Burnand               12323
+  [Link: http://www.gutenberg.net/1/2/3/2/12323 ]
+  [Files: 12323.txt; 12323-8.txt; 12323-h.htm]
+
+Poetical Works of Edmund Waller and Sir John Denham, by Waller & Denham  12322
+  [Aauthor: Edmund Waller; John Denham]
+  [With Memoir and Dissertation by the Rev. George Gilfillan]
+  [Link: http://www.gutenberg.net/1/2/3/2/12322 ]
+  [Files: 12322.txt; 12322-8.txt]
+
+Rudimental Divine Science, by Mary Baker Eddy                            12321
+  [Link: http://www.gutenberg.net/1/2/3/2/12321 ]
+  [Files: 12321.txt; 12321-h.htm]
+
+Civilization and Beyond, by Scott Nearing                                12320
+  [Subtitle: Learning From History]
+  [Link: http://www.gutenberg.net/1/2/3/2/12320 ]
+  [Files: 12320.txt; 12320-8.txt]
+
+Atlantic Monthly, Vol. 1, No. 4, February, 1858, by Various              12319
+  [Link: http://www.gutenberg.net/1/2/3/1/12319 ]
+  [Files: 12319.txt; 12319-8.txt]
+
+Messages and Papers of the Presidents: Garfield, by Richardson           12318
+  [Title: Messages and Papers of the Presidents, Vol. VIII.:
+   James A. Garfield]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/2/3/1/12318 ]
+  [Files: 12318.txt]
+
+Two Little Knights of Kentucky, by Annie Fellows Johnston                12317
+  [Link: http://www.gutenberg.net/1/2/3/1/12317 ]
+  [Files: 12317.txt; 12317-h.htm]
+
+True Tilda, by Arthur Thomas Quiller-Couch                               12316
+  [Author AKA: Q.]
+  [Link: http://www.gutenberg.net/1/2/3/1/12316 ]
+  [Files: 12316.txt; ]
+
+Shanty the Blacksmith; A Tale of Other Times, by Mrs. Sherwood           12315
+  [Author: Mrs. Mary Martha Sherwood]]
+  [Link: http://www.gutenberg.net/1/2/3/1/12315 ]
+  [Files: 12315.txt; 12315-h.htm]
+
+Ashton-Kirk, Investigator, by John T. McIntyre                           12314
+  [Link: http://www.gutenberg.net/1/2/3/1/12314 ]
+  [Files: 12314.txt; 12314-8.txt; 12314-h.htm]
+
+Pictures of Sweden, by Hans Christian Andersen                           12313
+  [Link: http://www.gutenberg.net/1/2/3/1/12313 ]
+  [Files: 12313.txt; 12313-8.txt; 12313-h.htm]
+
+A King, and No King, by Francis Beaumont and John Fletcher               12312
+  [Link: http://www.gutenberg.net/1/2/3/1/12312 ]
+  [Files: 12312.txt]
+
+Christ The Way, The Truth, and The Life, by John Brown (of Wamphray)     12311
+  [Link: http://www.gutenberg.net/1/2/3/1/12311 ]
+  [Files: 12311.txt; 12311-h.htm]
+
+Atlantic Monthly, Vol. 9, No. 56, June, 1862, by Various                 12310
+  [Link: http://www.gutenberg.net/1/2/3/1/12310 ]
+  [Files: 12310.txt; 12310-8.txt]
+
+Love Affairs of the Courts of Europe, by Thornton Hall                   12309
+  [Link: http://www.gutenberg.net/1/2/3/0/12309 ]
+  [Files: 12309.txt; 12309-8.txt; 12309-h.htm]
+
+Winning His Spurs, by George Alfred Henty                                12308
+  [Subtitle: A Tale of the Crusades]
+  [Link: http://www.gutenberg.net/1/2/3/0/12308 ]
+  [Files: 12308.txt; 12308-8.txt]
+
+Giorgione, by Herbert Cook                                               12307
+  [Link: http://www.gutenberg.net/1/2/3/0/12307 ]
+  [Files: 12307.txt; 12307-8.txt; 12307-h.htm]
+
+Punch, Vol. 99, October 4, 1890, Ed. by Sir Francis Burnand              12306
+  [Link: http://www.gutenberg.net/1/2/3/0/12306 ]
+  [Files: 12306.txt; 12306-8.txt; 12306-h.htm]
+
+Punch, Vol. 99, August 16, 1890, Ed. by Sir Francis Burnand              12305
+  [Link: http://www.gutenberg.net/1/2/3/0/12305 ]
+  [Files: 12305.txt; 12305-8.txt; 12305-h.htm]
+
+Nancy, by Rhoda Broughton                                                12304
+  [Link: http://www.gutenberg.net/1/2/3/0/12304 ]
+  [Files: 12304.txt; 12304-8.txt]
+
+Fated to Be Free, by Jean Ingelow                                        12303
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.net/1/2/3/0/12303 ]
+  [Files: 12303.txt; 12303-8.txt; ]
+
+All In It K(1) Carries On, by John Hay Beith (AKA: Ian Hay)              12302
+  [Subtitle: A Continuation of the First Hundred Thousand]
+  [Link: http://www.gutenberg.net/1/2/3/0/12302 ]
+  [Files: 12302.txt; 12302-8.txt]
+
+Banquet du 17 janvier 1841, by Andrzej Towianski                         12301
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/3/0/12301 ]
+  [Files: 12301.txt; 12301-8.txt; 12301-0.txt]
+
+The True George Washington [10th Ed.], by Paul Leicester Ford            12300
+  [Link: http://www.gutenberg.net/1/2/3/0/12300 ]
+  [Files: 12300.txt; 12300-8.txt]
+
+The Mechanical Properties of Wood, by Samuel J. Record                   12299
+  [Subtitle: Including a Discussion of the Factors Affecting the
+   Mechanical Properties, and Methods of Timber Testing]
+  [Link: http://www.gutenberg.net/1/2/2/9/12299 ]
+  [Files: 12299.txt; 12299-8.txt; 12299-h.htm]
+
+The Grand Canon of the Colorado, by John Muir                            12298
+  [Link: http://www.gutenberg.net/1/2/2/9/12298 ]
+  [Files: 12298.txt; 12298-8.txt; 12298-h.htm]
+
+Slave Narratives:  Florida Narratives, by Works Project Administration   12297
+  [Title:  Slave Narratives, A Folk History Of Slavery In The United States
+   From Interviews With Former Slaves, Vol. III Florida Narratives]
+  [Link: http://www.gutenberg.net/1/2/2/9/12297 ]
+  [Files: 12297.txt; 12297-8.txt; 12297-h.htm]
+
+Camps and Trails in China, Roy Chapman Andrews and Yvette Borup Andrews  12296
+  [Subtitle: A Narrative of Exploration, Adventure, and Sport
+   in Little-Known China]
+  [Link: http://www.gutenberg.net/1/2/2/9/12296 ]
+  [Files: 12296.txt; 12296-8.txt; 12296-h.htm]
+
+Histoire de la Revolution francaise, VIII, by Adolphe Thiers             12295
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/9/12295 ]
+  [Files: 12295.txt; 12295-8.txt]
+
+Punch, Vol. 146, January 7, 1914, Ed. by Owen Seaman                     12294
+  [Link: http://www.gutenberg.net/1/2/2/9/12294 ]
+  [Files: 12294.txt; 12294-8.txt; 12294-h.htm]
+
+Old Cookery Books and Ancient Cuisine, by William Carew Hazlitt          12293
+  [Link: http://www.gutenberg.net/1/2/2/9/12293 ]
+  [Files: 12293.txt; 12293-8.txt; 12293-h.htm; ]
+
+Punch, Vol. 99, July 26, 1890, Ed. by Sir Francis Burnand                12292
+  [Link: http://www.gutenberg.net/1/2/2/9/12292 ]
+  [Files: 12292.txt; 12292-8.txt; 12292-h.htm]
+
+The Teacher, by Jacob Abbott                                             12291
+  [Link: http://www.gutenberg.net/1/2/2/9/12291 ]
+  [Files: 12291.txt; 12291-h.htm]
+
+The Church and Modern Life, by Washington Gladden                        12290
+  [Link: http://www.gutenberg.net/1/2/2/9/12290 ]
+  [Files: 12290.txt; 12290-8.txt; 12290-h.htm; ]
+
+Quelques ecrivains francais, by Emile Hennequin                          12289
+  [Subtitle: Flaubert, Zola, Hugo, Goncourt, Huysmans, etc.]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/8/12289 ]
+  [Files: 12289.txt; 12289-8.txt; 12289-h.htm]
+
+Witchcraft Delusion In Colonial Connecticut (1647-1697), John M. Taylor  12288
+  [Link: http://www.gutenberg.net/1/2/2/8/12288 ]
+  [Files: 12288.txt; 12288-8.txt; 12288-h.htm]
+
+Somerset, by G.W. Wade and J.H. Wade                                     12287
+  [Link: http://www.gutenberg.net/1/2/2/8/12287 ]
+  [Files: 12287.txt; 12287-8.txt; 12287-h.htm]
+
+Flowers and Flower-Gardens, by David Lester Richardson                   12286
+  [Subtitle: With an Append of Practical Instructions and Useful
+   Information Respecting the Anglo-Indian Flower-Garden]
+  [Link: http://www.gutenberg.net/1/2/2/8/12286 ]
+  [Files: 12286.txt; 12286-8.txt; 12286-h.htm]
+
+Atlantic Monthly, Vol. 7, No. 44, June, 1861, by Various                 12285
+  [Link: http://www.gutenberg.net/1/2/2/8/12285 ]
+  [Files: 12285.txt; 12285-8.txt]
+
+Anie, by Hector Malot                                                    12284
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/8/12284 ]
+  [Files: 12284.txt; 12284-8.txt; 12284-0.txt]
+
+The Soul of a Child, by Edwin Bjorkman                                   12283
+  [Link: http://www.gutenberg.net/1/2/2/8/12283 ]
+  [Files: 12283.txt; 12283-8.txt; 12283-h.htm]
+
+The Right and Wrong Uses of the Bible, by R. Heber Newton                12282
+  [Link: http://www.gutenberg.net/1/2/2/8/12282 ]
+  [Files: 12282.txt; 12282-8.txt; 12282-h.htm]
+
+Cattle Brands, by Andy Adams                                             12281
+  [Subtitle: A Collection of Western Camp-fire Stories]
+  [Link: http://www.gutenberg.net/1/2/2/8/12281 ]
+  [Files: 12281.txt; 12281-8.txt]
+
+The Grandissimes, by George Washington Cable                             12280
+  [Link: http://www.gutenberg.net/1/2/2/8/12280 ]
+  [Files: 12280.txt; 12280-8.txt; 12280-h.htm]
+
+The Maid-At-Arms, by Robert W. Chambers                                  12279
+  [Link: http://www.gutenberg.net/1/2/2/7/12279 ]
+  [Files: 12279.txt; 12279-8.txt; 12279-h.htm]
+
+Confessions of a Young Man, by George Moore                              12278
+  [Link: http://www.gutenberg.net/1/2/2/7/12278 ]
+  [Files: 12278-0.txt; 12278-h.htm]
+
+The Delectable Duchy, by Arthur Thomas Quiller-Couch                     12277
+  [Link: http://www.gutenberg.net/1/2/2/7/12277 ]
+  [Files: 12277.txt; 12277-8.txt]
+
+Viajes por Filipinas: De Manila a Tayabas, by Juan Alvarez Guerra        12276
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/2/2/7/12276 ]
+  [Files: 12276-8.txt]
+
+Viajes por Filipinas: De Manila a Albay, by Juan Alvarez Guerra          12275
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/2/2/7/12275 ]
+  [Files: 12275-8.txt]
+
+Viajes por Filipinas: De Manila a Marianas, by Juan Alvarez Guerra       12274
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/2/2/7/12274 ]
+  [Files: 12274-8.txt]
+
+Grevinde, by Hermann Heiberg                                             12273
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/2/2/7/12273 ]
+  [Files: 12273-0.txt; 12273-8.txt]
+
+The History of Puerto Rico, by R.A. Van Middeldyk                        12272
+  [Subtitle: From the Spanish Discovery to the American Occupation]
+  [Edited by Martin G. Brumbaugh]
+  [Link: http://www.gutenberg.net/1/2/2/7/12272 ]
+  [Files: 12272.txt; 12272-8.txt]
+
+Contes litteraires du bibliophile Jacob a ses petits-enfants, by Jacob   12271
+  [Full author: Paul Jacob [Paul Lacroix]]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/7/12271 ]
+  [Files: 12271.txt; 12271-8.txt]
+
+The Doomswoman, by Gertrude Franklin Horn Atherton                       12270
+  [Subtitle: An Historical Romance of Old California]
+  [Link: http://www.gutenberg.net/1/2/2/7/12270 ]
+  [Files: 12270.txt; 12270-8.txt]
+
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+May 2004 The King's Passport, by H Bedford-Jones           [040048xx.xxx] 0356A
+ [http://gutenberg.net.au/ebooks04/0400481.txt or .z-p]
+
+May 2004 Harmer John, by Hugh Walpole                      [040047xx.xxx] 0355A
+  [http://gutenberg.net.au/ebooks04/0400471.txt or .z-p]
+   and http://gutenberg.net.au/ebooks04/0400471h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Proofread carefully to see if you any words out.
+
+And poor punctuation can also lead to confusion:
+
+A panda goes into a bar, orders a sandwich, fires a gun and heads for
+the door. A shaken barman asks why. 'Look it up,' says the panda,
+throwing him a badly punctuated wildlife manual. The barman turns to the
+relevant page: 'Panda: Bear-like mammal native to China. Eats, shoots
+and leaves.'
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_05_12_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_05_12_part_2.txt</a>

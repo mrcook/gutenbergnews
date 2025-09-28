@@ -1,0 +1,462 @@
+The Project Gutenberg Weekly Newsletter 9th July 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+REMINDER: GUTINDEX Has Moved to Five Digits!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 09 Jul 2003:   8,628 (incl. 247 Aus.).
+
+Last week the Total Count was 8,411, including 242 at PG of Australia.
+This week we added 217 new (incl. 5 at PG of Australia).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct author's name (Samuel,
+not Saumuel):
+Feb 2000 Journey Scotland's Western Isles, Samuel Johnson  [jwsctxxx.xxx] 2064
+
+
+The following has been re-posted in an updated 12th Edition:
+Dec 2003 Russian Roulette, by Sam Vaknin         [Vaknin#6][rroulxxx.xxx] 4779C
+[Subtitle: Russia's Economy in Putin's Era]
+[Also posted:  RTF in rroul12r.zip - zip only]
+
+
+=-=-=-=[ 212 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Jul 2005 Mohun, or, The Last Days of Lee, John Esten Cooke [?dleexxx.xxx] 8424
+Jul 2005 Blood Brothers, by Colonel Eugene C. Jacobs       [blbroxxx.xxx] 8423C
+[Subtitle: A Medic's Sketch Book] [Ed.: Sam Rohlfing]
+Jul 2005 Moral Deliberations in Modern Cinema, S Vaknin[17][mfilmxxx.xxx] 8422C
+[Author's Full Name: Sam Vaknin]
+[Also posted:  RTF in mfilm10r.zip]
+Jul 2005 The First Book of Factoids, by Sam Vaknin    [#16][ffactxxx.xxx] 8421C
+[Also posted: RTF in ffact10r.zip]
+
+Jul 2005 Issues in Population and Bioethics, Sam Vaknin[15][isbioxxx.xxx] 8420C
+[Also posted:  RTF in isbio10r.zip]
+Jul 2005 The Journals of Lewis and Clarke 1804-1806        [lcjnlxxx.xxx] 8419
+[Authors: Meriwether Lewis & William Clark]
+[Also posted:  RTF in lcjnl10r.zip, Word .doc in lcnjl10w.zip]
+Jul 2005 Hippolytus/The Bacchae, by Euripides              [?uripxxx.xxx] 8418
+Jul 2005 Discovery of the Source Of The Nile, John Speke   [?wlsnxxx.xxx] 8417
+[Full Title: What Led To The Discovery of the Source Of The Nile]
+[Full Author: John Hanning Speke]
+[Also posted: 8-bit version maps in 8wlsn10m.zip only]
+(See also:  #3284)
+Jul 2005 Nouveaux Contes a Ninon, by Emile Zola            [nvxcnxxx.xxx] 8416
+[Language: French]
+
+Jul 2005 The Magician's Show, by Lydia Maria Child         [?magcxxx.xxx] 8415
+[Full title: The Magician's Show Bos and Other Stories]
+Jul 2005 Freedom Talks No. II, by Julia Seton, M.D         [ftalkxxx.xxx] 8414
+[Also posted: HTML in ftalk10h.zip and ftalk10h.htm]
+Jul 2005 The Bishop's Shadow, by I. T. Thurston            [thbshxxx.xxx] 8413
+[HTML version in thbsh10h.htm and thbsh10h.zip]
+[HTML zip contains 6 .png files which were not included on first copy
+ of thbsh10h.zip to etext05 but were included on second copy]
+Jul 2005 Seeing Europe with Famous Authors, Volume 3       [?eur3xxx.xxx] 8412
+[Subtitle: France and The Netherlands]
+[Author: Various] [Ed.: Francis W. Halsey]
+[Also posted: HTML with accented characters in 8eur310h.htm/.zip]
+Jul 2005 Forest & Frontiers, by G. A. Henty           [#18][?frfrxxx.xxx] 8411
+
+Jul 2005 Jack of the Pony Express, by Frank V. Webster     [jpexpxxx.xxx] 8410
+Jul 2005 Love-Letters, by Aphra Behn                       [?lvlrxxx.xxx] 8409
+[Full title: Love-Letters Between a Nobleman and His Sister]
+[Also posted HTML - 8lvlr10h.zip and 8lvlr10h.htm]
+Jul 2005 Scientific American Suppl. No. 299,Various        [?0299xxx.xxx] 8408
+[Subtitle: September 24, 1881]
+[Also posted: HTML with accented characters in 8029910h.htm/.zip]
+[Illustrated HTML in 8029910h.zip only]
+Jul 2005 The Christian, by Hall Caine                  [#2][?chrsxxx.xxx] 8407
+Jul 2005 Subterranean Brotherhood, by Julian Hawthorn[JH#8][?sbbrxxx.xxx] 8406
+
+Jul 2005 Journalism for Women, by E.A. Bennett             [?jrnwxxx.xxx] 8405
+[Also posted HTML - 8jrnw10h.zip and 8jrnw10h.htm]
+Jul 2005 Jane Talbot, by Charles Brockden Brown            [jntlbxxx.xxx] 8404
+[Also posted: HTML in jntlb10h.htm and jntlb10h.zip]
+Jul 2005 Young People's Pride, by Stephen Vincent Benet[#2][?ypprxxx.xxx] 8403
+Jul 2005 East and West, by Bret Harte                      [?eswsxxx.xxx] 8402
+[Also posted: HTML in 8esws10h.zip and 8esws10h.htm]
+Jul 2005 Germany History, V4, by Wolfgang Menzel           [?grm4xxx.xxx] 8401
+[Full title: Germany from the Earliest Period Vol. 4]
+[Full author: Wolfgang Menzel, Trans. Mrs. George Horrocks]
+
+Jun 2005 Selections from Erasmus, by Erasmus Roterodamus   [?erasxxx.xxx] 8400
+[Edited by P.S. Allen][Language: English and Latin]
+Jun 2005 Manners and Social Usages, Mrs. J.M.E.W. Sherwood [?msusxxx.xxx] 8399
+[Full author: Mrs. John M. E. W. Sherwood]
+Jun 2005 The Sign at Six, by Stewart Edward White      [#6][sign6xxx.xxx] 8398
+Jun 2005 Expositions of Holy Scripture, Alex. Maclaren [#9][exp09xxx.xxx] 8397
+[Full title: Expositions of Holy Scripture: The Acts]
+[Full author: Alexander Maclaren]
+
+Jun 2005 The Gods of Pegana, by E.J.M.D. Plunkett      [#5][?gpegxxx.xxx] 8395
+[Full author: Lord Dunsany [Edward J. M. D. Plunkett]]
+Jun 2005 The Doings Of Raffles Haw,bySir Arthur Conan Doyle[rafflxxx.xxx] 8394
+Jun 2005 Life in the Backwoods, by Susanna Moodie      [#4][?bkwdxxx.xxx] 8393
+Jun 2005 Hin Und Her, by H. H. Fick                        [?hnhrxxx.xxx] 8392
+[Subtitle: Ein Buch fuer die Kinder]
+[Language: German]
+Jun 2005 Scientific American Sup. No. 288, by Various      [?sa04xxx.xxx] 8391
+[Full title: Scientific American Supplement, No. 288, July 9, 1881]
+[Also posted HTML - 8sa0410h.zip and 8sa0410h.htm]
+
+Jun 2005 Buddhism and Buddhists in China, by Lewis Hodus   [?bdsmxxx.xxx] 8390
+Jun 2005 Lectures Of Col. Ingersoll, V2,R. G. Ingersoll[#2][ingr2xxx.xxx] 8389
+[Full title: Lectures of Col. R.G. Ingersoll - Latest]
+[Full author: Col. Robert Green Ingersoll]
+Jun 2005 Poems By Walt Whitman, by Walt Whitman            [?pwwtxxx.xxx] 8388
+[Editor: William Rossetti]
+Jun 2005 Hunger, by Knut Hamsun                            [?hngrxxx.xxx] 8387
+[Author: with introduction by Edwin Bjorkman]
+[Tr. from Norwegian: George Egerton]
+[Also posted: accented HTML in 8hngr10h.htm/.zip]
+Jun 2005 Ptomaine Street, by Carolyn Wells             [#8][?ptomxxx.xxx] 8386
+
+Jun 2005 The Short Line War, by Merwin and Webster         [shwarxxx.xxx] 8385
+[Full Author: Samuel Merwin and Henry Kitchell Webster]
+Jun 2005 Pauline's Passion and Punishment,L. M. Alcott[#16][?ppauxxx.xxx] 8384
+[Full author: Louisa May Alcott]
+Jun 2005 Monsieur Maurice, by Amelia B. Edwards        [#2][?maurxxx.xxx] 8383
+Jun 2005 Canadian Crusoes, by Catherine Parr Traill    [#3][?cacrxxx.xxx] 8382
+Jun 2005 Expositions of Holy Scripture, Alex. Maclaren [#8][exp08xxx.xxx] 8381
+[Full title: Expositions of Holy Scripture: St. John Chaps. XV to XXI]
+[Full author: Alexander Maclaren]
+
+Jun 2005 Cuba in War Time, by Richard Harding Davis   [#37][?cubaxxx.xxx] 8380
+Jun 2005 Shakespeare's Bones, by C. M. Ingleby             [shbnxxxx.xxx] 8379
+[Subtitle: The proposal to disinter them, considered in relation to their
+ possible bearing on his portraiture]
+[Text in shbn10.txt/.zip, XHTML in shbn10h.htm/.zip]
+Jun 2005 Selected Polish Tales, by Various                 [?pltlxxx.xxx] 8378
+[Tr.: Else C. M. Benecke and Marie Busch]
+Jun 2005 Water Ghost and Others, by John K. Bangs   [JKB#9][wghstxxx.xxx] 8377
+Jun 2005 Correspondence of Lafayette, by Lafayette     [#2][?laftxxx.xxx] 8376
+[Full title: Memoirs, Correspondence and Manuscripts of General Lafayette]
+
+Jun 2005 Der Streit Ueber Die Tragoedie, by Theodor Lipps  [?sttrxxx.xxx] 8375
+[Language: German]
+Jun 2005 Alton Locke, Tailor And Poet,Rev. Charles Kingsley[?allkxxx.xxx] 8374
+[Subtitle: An Autobiography]
+[Author Note: with a Prefatory Memoir by Thomas Hughes, Esq., Q.C.]
+Jun 2005 The Bible, Douay-Rheims, Apocalypse       Book 73 [drb73xxx.xxx] 8373
+Jun 2005 The Bible, Douay-Rheims, Jude             Book 72 [drb72xxx.xxx] 8372
+Jun 2005 The Bible, Douay-Rheims, 3 John           Book 71 [drb71xxx.xxx] 8371
+
+Jun 2005 The Bible, Douay-Rheims, 2 John           Book 70 [drb70xxx.xxx] 8370
+Jun 2005 The Bible, Douay-Rheims, 1 John           Book 69 [drb69xxx.xxx] 8369
+Jun 2005 The Bible, Douay-Rheims, 2 Peter          Book 68 [drb68xxx.xxx] 8368
+Jun 2005 The Bible, Douay-Rheims, 1 Peter          Book 67 [drb67xxx.xxx] 8367
+Jun 2005 The Bible, Douay-Rheims, James            Book 66 [drb66xxx.xxx] 8366
+
+Jun 2005 The Bible, Douay-Rheims, Hebrews          Book 65 [drb65xxx.xxx] 8365
+Jun 2005 The Bible, Douay-Rheims, Philemon         Book 64 [drb64xxx.xxx] 8364
+Jun 2005 The Bible, Douay-Rheims, Titus            Book 63 [drb63xxx.xxx] 8363
+Jun 2005 The Bible, Douay-Rheims, 2 Timothy        Book 62 [drb62xxx.xxx] 8362
+Jun 2005 The Bible, Douay-Rheims, 1 Timothy        Book 61 [drb61xxx.xxx] 8361
+
+Jun 2005 The Bible, Douay-Rheims, 2 Thessalonians  Book 60 [drb60xxx.xxx] 8360
+Jun 2005 The Bible, Douay-Rheims, 1 Thessalonians  Book 59 [drb59xxx.xxx] 8359
+Jun 2005 The Bible, Douay-Rheims, Colossians       Book 58 [drb58xxx.xxx] 8358
+Jun 2005 The Bible, Douay-Rheims, Philippians      Book 57 [drb57xxx.xxx] 8357
+Jun 2005 The Bible, Douay-Rheims, Ephesians        Book 56 [drb56xxx.xxx] 8356
+
+Jun 2005 The Bible, Douay-Rheims, Galatians        Book 55 [drb55xxx.xxx] 8355
+Jun 2005 The Bible, Douay-Rheims, 2 Corinthians    Book 54 [drb54xxx.xxx] 8354
+Jun 2005 The Bible, Douay-Rheims, 1 Corinthians    Book 53 [drb53xxx.xxx] 8353
+Jun 2005 The Bible, Douay-Rheims, Romans           Book 52 [drb52xxx.xxx] 8352
+Jun 2005 The Bible, Douay-Rheims, Acts             Book 51 [drb51xxx.xxx] 8351
+
+Jun 2005 The Bible, Douay-Rheims, John             Book 50 [drb50xxx.xxx] 8350
+Jun 2005 The Bible, Douay-Rheims, Luke             Book 49 [drb49xxx.xxx] 8349
+Jun 2005 The Bible, Douay-Rheims, Mark             Book 48 [drb48xxx.xxx] 8348
+Jun 2005 The Bible, Douay-Rheims, Matthew          Book 47 [drb47xxx.xxx] 8347
+Jun 2005 The Bible, Douay-Rheims, 2 Machabees      Book 46 [drb46xxx.xxx] 8346
+
+Jun 2005 The Bible, Douay-Rheims, 1 Machabees      Book 45 [drb45xxx.xxx] 8345
+Jun 2005 The Bible, Douay-Rheims, Malachias        Book 44 [drb44xxx.xxx] 8344
+Jun 2005 The Bible, Douay-Rheims, Zacharias        Book 43 [drb43xxx.xxx] 8343
+Jun 2005 The Bible, Douay-Rheims, Aggeus           Book 42 [drb42xxx.xxx] 8342
+Jun 2005 The Bible, Douay-Rheims, Sophonias        Book 41 [drb41xxx.xxx] 8341
+
+Jun 2005 The Bible, Douay-Rheims, Habacuc          Book 40 [drb40xxx.xxx] 8340
+Jun 2005 The Bible, Douay-Rheims, Nahum            Book 39 [drb39xxx.xxx] 8339
+Jun 2005 The Bible, Douay-Rheims, Micheas          Book 38 [drb38xxx.xxx] 8338
+Jun 2005 The Bible, Douay-Rheims, Jonas            Book 37 [drb37xxx.xxx] 8337
+Jun 2005 The Bible, Douay-Rheims, Abdias           Book 36 [drb36xxx.xxx] 8336
+
+Jun 2005 The Bible, Douay-Rheims, Amos             Book 35 [drb35xxx.xxx] 8335
+Jun 2005 The Bible, Douay-Rheims, Joel             Book 34 [drb34xxx.xxx] 8334
+Jun 2005 The Bible, Douay-Rheims, Osee             Book 33 [drb33xxx.xxx] 8333
+Jun 2005 The Bible, Douay-Rheims, Daniel           Book 32 [drb32xxx.xxx] 8332
+Jun 2005 The Bible, Douay-Rheims, Ezechiel         Book 31 [drb31xxx.xxx] 8331
+
+Jun 2005 The Bible, Douay-Rheims, Barruch          Book 30 [drb30xxx.xxx] 8330
+Jun 2005 The Bible, Douay-Rheims, Lament. Jeramias Book 29 [drb29xxx.xxx] 8329
+Jun 2005 The Bible, Douay-Rheims, Jeramias         Book 28 [drb28xxx.xxx] 8328
+Jun 2005 The Bible, Douay-Rheims, Isaias           Book 27 [drb27xxx.xxx] 8327
+Jun 2005 The Bible, Douay-Rh., Ecclesiasticus      Book 26 [drb26xxx.xxx] 8326
+
+Jun 2005 The Bible, Douay-Rheims, Book of Wisdom   Book 25 [drb25xxx.xxx] 8325
+Jun 2005 The Bible, Douay-Rheims, Solomon's Cant.  Book 24 [drb24xxx.xxx] 8324
+Jun 2005 The Bible, Douay-Rheims, Ecclesiastes     Book 23 [drb23xxx.xxx] 8323
+Jun 2005 The Bible, Douay-Rheims, Proverbs         Book 22 [drb22xxx.xxx] 8322
+Jun 2005 The Bible, Douay-Rheims, Psalms           Book 21 [drb21xxx.xxx] 8321
+
+Jun 2005 The Bible, Douay-Rheims, Job              Book 20 [drb20xxx.xxx] 8320
+Jun 2005 The Bible, Douay-Rheims, Esther           Book 19 [drb19xxx.xxx] 8319
+Jun 2005 The Bible, Douay-Rheims, Judith           Book 18 [drb18xxx.xxx] 8318
+Jun 2005 The Bible, Douay-Rheims, Tobias           Book 17 [drb17xxx.xxx] 8317
+Jun 2005 The Bible, Douay-Rheims, 2 Esdras         Book 16 [drb16xxx.xxx] 8316
+
+Jun 2005 The Bible, Douay-Rheims, 1 Esdras         Book 15 [drb15xxx.xxx] 8315
+Jun 2005 The Bible, Douay-Rheims, 2 Paralipomenon  Book 14 [drb14xxx.xxx] 8314
+Jun 2005 The Bible, Douay-Rheims, 1 Paralipomenon  Book 13 [drb13xxx.xxx] 8313
+Jun 2005 The Bible, Douay-Rheims, 4 Kings          Book 12 [drb12xxx.xxx] 8312
+Jun 2005 The Bible, Douay-Rheims, 3 Kings          Book 11 [drb11xxx.xxx] 8311
+
+Jun 2005 The Bible, Douay-Rheims, 2 Kings          Book 10 [drb10xxx.xxx] 8310
+Jun 2005 The Bible, Douay-Rheims, 1 Kings          Book  9 [drb09xxx.xxx] 8309
+Jun 2005 The Bible, Douay-Rheims, Ruth             Book  8 [drb08xxx.xxx] 8308
+Jun 2005 The Bible, Douay-Rheims, Judges           Book  7 [drb07xxx.xxx] 8307
+Jun 2005 The Bible, Douay-Rheims, Josue            Book  6 [drb06xxx.xxx] 8306
+
+Jun 2005 The Bible, Douay-Rheims, Deuteronomy      Book  5 [drb05xxx.xxx] 8305
+Jun 2005 The Bible, Douay-Rheims, Numbers          Book  4 [drb04xxx.xxx] 8304
+Jun 2005 The Bible, Douay-Rheims, Leviticus        Book  3 [drb03xxx.xxx] 8303
+Jun 2005 The Bible, Douay-Rheims, Exodus           Book  2 [drb02xxx.xxx] 8302
+Jun 2005 The Bible, Douay-Rheims, Genesis          Book  1 [drb01xxx.xxx] 8301
+
+Jun 2005 The Bible, Douay-Rheims, Complete                 [drb00xxx.xxx] 8300
+[Plain text in drb??10.txt/.zip; HTM version in drb??10h.htm/.zip]
+[drb0010h.htm contains an active index to all the htm files]
+Jun 2005 Filipino Popular Tales, by Dean S. Fansler        [?filpxxx.xxx] 8299
+Jun 2005 Komik und Humor, by Theodor Lipps                 [?kmikxxx.xxx] 8298
+[Subtitle: Eine Psychologische-Aesthetische Untersuchung]
+[Language: German]
+Jun 2005 Scientific American Sup. No. 286, by Various      [?sa02xxx.xxx] 8297
+[Full Title: Scientific American, Supplement 286, June 25, 1881]
+[Also posted HTML - 8sa0210h.zip and 8sa0210h.htm]
+Jun 2005 Scientific American Sup. No. 303, by Various      [?sa03xxx.xxx] 8296
+[Full title: Scientific American Supplement, No. 303, October 22, 1881]
+[Also posted HTML - 8sa0310h.zip and 8sa0310h.htm]
+
+
+Jun 2005 The World English Bible (WEB): Complete           [web67xxx.xxx] 8294
+Jun 2005 The World English Bible (WEB): Revelation         [web66xxx.xxx] 8293
+Jun 2005 The World English Bible (WEB): Jude               [web65xxx.xxx] 8292
+Jun 2005 The World English Bible (WEB): 3 John             [web64xxx.xxx] 8291
+
+Jun 2005 The World English Bible (WEB): 2 John             [web63xxx.xxx] 8290
+Jun 2005 The World English Bible (WEB): 1 John             [web62xxx.xxx] 8289
+Jun 2005 The World English Bible (WEB): 2 Peter            [web61xxx.xxx] 8288
+Jun 2005 The World English Bible (WEB): 1 Peter            [web60xxx.xxx] 8287
+Jun 2005 The World English Bible (WEB): James              [web59xxx.xxx] 8286
+
+Jun 2005 The World English Bible (WEB): Hebrews            [web58xxx.xxx] 8285
+Jun 2005 The World English Bible (WEB): Philemon           [web57xxx.xxx] 8284
+Jun 2005 The World English Bible (WEB): Titus              [web56xxx.xxx] 8283
+Jun 2005 The World English Bible (WEB): 2 Timothy          [web55xxx.xxx] 8282
+Jun 2005 The World English Bible (WEB): 1 Timothy          [web54xxx.xxx] 8281
+
+Jun 2005 The World English Bible (WEB): 2 Thessalonians    [web53xxx.xxx] 8280
+Jun 2005 The World English Bible (WEB): 1 Thessalonians    [web52xxx.xxx] 8279
+Jun 2005 The World English Bible (WEB): Colossians         [web51xxx.xxx] 8278
+Jun 2005 The World English Bible (WEB): Philippians        [web50xxx.xxx] 8277
+Jun 2005 The World English Bible (WEB): Ephesians          [web49xxx.xxx] 8276
+
+Jun 2005 The World English Bible (WEB): Galatians          [web48xxx.xxx] 8275
+Jun 2005 The World English Bible (WEB): 2 Corinthians      [web47xxx.xxx] 8274
+Jun 2005 The World English Bible (WEB): 1 Corinthians      [web46xxx.xxx] 8273
+Jun 2005 The World English Bible (WEB): Romans             [web45xxx.xxx] 8272
+Jun 2005 The World English Bible (WEB): Acts               [web44xxx.xxx] 8271
+
+Jun 2005 The World English Bible (WEB): John               [web43xxx.xxx] 8270
+Jun 2005 The World English Bible (WEB): Luke               [web42xxx.xxx] 8269
+Jun 2005 The World English Bible (WEB): Mark               [web41xxx.xxx] 8268
+Jun 2005 The World English Bible (WEB): Matthew            [web40xxx.xxx] 8267
+Jun 2005 The World English Bible (WEB): Malachi            [web39xxx.xxx] 8266
+
+Jun 2005 The World English Bible (WEB): Zechariah          [web38xxx.xxx] 8265
+Jun 2005 The World English Bible (WEB): Haggai             [web37xxx.xxx] 8264
+Jun 2005 The World English Bible (WEB): Zephaniah          [web36xxx.xxx] 8263
+Jun 2005 The World English Bible (WEB): Habakkuk           [web35xxx.xxx] 8262
+Jun 2005 The World English Bible (WEB): Nahum              [web34xxx.xxx] 8261
+
+Jun 2005 The World English Bible (WEB): Micah              [web33xxx.xxx] 8260
+Jun 2005 The World English Bible (WEB): Jonah              [web32xxx.xxx] 8259
+Jun 2005 The World English Bible (WEB): Obadiah            [web31xxx.xxx] 8258
+Jun 2005 The World English Bible (WEB): Amos               [web30xxx.xxx] 8257
+Jun 2005 The World English Bible (WEB): Joel               [web29xxx.xxx] 8256
+
+Jun 2005 The World English Bible (WEB): Hosea              [web28xxx.xxx] 8255
+Jun 2005 The World English Bible (WEB): Daniel             [web27xxx.xxx] 8254
+Jun 2005 The World English Bible (WEB): Ezekiel            [web26xxx.xxx] 8253
+Jun 2005 The World English Bible (WEB): Lamentations       [web25xxx.xxx] 8252
+Jun 2005 The World English Bible (WEB): Jeremiah           [web24xxx.xxx] 8251
+
+Jun 2005 The World English Bible (WEB): Isaiah             [web23xxx.xxx] 8250
+Jun 2005 The World English Bible (WEB): Song of Solomon    [web22xxx.xxx] 8249
+Jun 2005 The World English Bible (WEB): Ecclesiastes       [web21xxx.xxx] 8248
+Jun 2005 The World English Bible (WEB): Proverbs           [web20xxx.xxx] 8247
+Jun 2005 The World English Bible (WEB): Psalms             [web19xxx.xxx] 8246
+
+Jun 2005 The World English Bible (WEB): Job                [web18xxx.xxx] 8245
+Jun 2005 The World English Bible (WEB): Esther             [web17xxx.xxx] 8244
+Jun 2005 The World English Bible (WEB): Nehemiah           [web16xxx.xxx] 8243
+Jun 2005 The World English Bible (WEB): Ezra               [web15xxx.xxx] 8242
+Jun 2005 The World English Bible (WEB): 2 Chronicles       [web14xxx.xxx] 8241
+
+Jun 2005 The World English Bible (WEB): 1 Chronicles       [web13xxx.xxx] 8240
+Jun 2005 The World English Bible (WEB): 2 Kings            [web12xxx.xxx] 8239
+Jun 2005 The World English Bible (WEB): 1 Kings            [web11xxx.xxx] 8238
+Jun 2005 The World English Bible (WEB): 2 Samuel           [web10xxx.xxx] 8237
+Jun 2005 The World English Bible (WEB): 1 Samuel           [web09xxx.xxx] 8236
+
+Jun 2005 The World English Bible (WEB): Ruth               [web08xxx.xxx] 8235
+Jun 2005 The World English Bible (WEB): Judges             [web07xxx.xxx] 8234
+Jun 2005 The World English Bible (WEB): Joshua             [web06xxx.xxx] 8233
+Jun 2005 The World English Bible (WEB): Deuteronomy        [web05xxx.xxx] 8232
+Jun 2005 The World English Bible (WEB): Numbers            [web04xxx.xxx] 8231
+
+Jun 2005 The World English Bible (WEB): Leviticus          [web03xxx.xxx] 8230
+Jun 2005 The World English Bible (WEB): Exodus             [web02xxx.xxx] 8229
+Jun 2005 The World English Bible (WEB): Genesis            [web01xxx.xxx] 8228
+
+Jun 2005 Audio: Middlemarch, by George Eliot               [mdmarxx3.xxx] 8227C
+[Computer-generated audio files in MP3 format]
+[87 mp3 files: mdmar003.mp3-mdmar863.mp3; mdmar3-readme.txt, mdmar3-index.htm]
+(Note:  individual files only, no .zip)
+Jun 2005 Fairy Tales; Their Origin and Meaning, by J. Bunce[frtomxxx.xxx] 8226
+[Subtitle: With Some Account of Dwellers in Fairyland]
+[Author's Full Name: John Thackray Bunce]
+[HTML version in frtom10h.zip only; contains 7 individual HTML files.]
+
+Jun 2005 Defence of Divine Revelation, by Hosea Ballou     [?drevxxx.xxx] 8225
+[Full title: A Series of Letters In Defence of Divine Revelation]
+Jun 2005 Fundamenta Krestomatio, by L. Zamenhof            [?esprxxx.xxx] 8224
+[Language: Esperanto]
+[Also posted: HTML in 8espr10h.zip and 8espr10h.htm]
+Jun 2005 Edgar Huntly, by Charles Brockden Brown           [edhntxxx.xxx] 8223
+[Title note:  alternate spelling "Edgar Huntley"]
+[HTML version in edhnt10h.htm and edhnt10h.zip]
+Jun 2005 Early Letters of George Wm. Curtis, ed. G.W. Cooke[lcurtxxx.xxx] 8222
+[Full author: G. W. Curtis, ed. George Willis Cooke]
+Jun 2005 A Study of Poetry, by Bliss Perry             [#2][?stptxxx.xxx] 8221
+
+Jun 2005 Remarks, by Bill Nye                              [?rmrkxxx.xxx] 8220
+Jun 2005 The Desert and The Sown, by Mary Hallock Foote    [?dsrtxxx.xxx] 8219
+Jun 2005 Wars and Empire, by Sam Vaknin         [Vaknin#14][wandexxx.xxx] 8218C
+[Also posted:  RTF in wande10r.rtf]
+Jun 2005 The Belgian Curtain, by Sam Vaknin     [Vaknin#13][belgcxxx.xxx] 8217C
+[Subtitle: Europe after Communism]
+[Also posted:  RTF in belgc10r.zip - zip only]
+Jun 2005 Issues in Ethics, by Sam Vaknin        [Vaknin#12][isethxxx.xxx] 8216C
+[Also posted:  RTF in iseth10r.zip - zip only]
+
+Jun 2005 The Development Psychology of Psychopathology[#11][dppsyxxx.xxx] 8215C
+[Author's Full Name: Sam Vaknin]
+[Also posted: RTF in dppsy10r.zip - zip only]
+Jun 2005 Capitalistic Musings, by Sam Vaknin    [Vaknin#10][capmuxxx.xxx] 8214C
+[Also posted:  RTF in capmu10r.zip - zip only]
+Jun 2005 Three Years in Tristan da Cunha, by K. M. Barrow  [?trisxxx.xxx] 8213
+Jun 2005 Poems, by Robert Southey                      [#3][spoemxxx.xxx] 8212
+Jun 2005 Outdoor Girls at Wild Rose Lodge,by Laura Lee Hope[?gwrlxxx.xxx] 8211
+[Subtitle: or, The Hermit of Moonlight Falls]
+[Also posted: HTML - 8gwrl10h.zip and 8gwrl10h.htm]
+
+
+=-=-=-=[ 5 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jul 2003 The Land of Hidden Men, by Edgar Rice Burroughs   [030098xx.xxx] 0247A
+[http://gutenberg.net.au/ebooks03/0300981h.html HTML]
+[Originally published as Jungle Girl]
+Jul 2003 Belshazzar, by H Rider Haggard                    [030097xx.xxx] 0246A
+[http://gutenberg.net.au/ebooks03/0300971.txt or ZIP]
+
+Jul 2003 Old-Ugly Face, by Talbot Mundy                    [030096xx.xxx] 0245A
+[http://gutenberg.net.au/ebooks03/0300961.txt or ZIP]
+Jul 2003 The Interpreters, by A.E.                         [030095xx.xxx] 0244A
+[http://gutenberg.net.au/ebooks03/0300951.txt or ZIP]
+[Real name: George William Russell]
+Jul 2003 The House of the Titans, by A.E.                  [030094xx.xxx] 0243A
+[http://gutenberg.net.au/ebooks03/0300941.txt or ZIP]
+[Real name: George William Russell]
+
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+the booklists. Mike Eschman for the RG updates, Mark for the beer,
+Greg for keeping quiet, Michael, and Larry Wall. Entertainment for the
+workers provided by BBC 6music as always.

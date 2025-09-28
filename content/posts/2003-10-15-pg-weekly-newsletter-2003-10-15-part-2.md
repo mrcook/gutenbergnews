@@ -1,0 +1,707 @@
+---
+params:
+  id: 2057
+title: "PG Weekly Newsletter: Part 2 (2003-10-15)"
+date: 2003-10-15T15:57:17+00:00
+author: Michael Cook
+layout: post
+url: /20031015/pg-weekly-newsletter-2003-10-15-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 15th October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News
+   Distributed Proofreaders Update
+3) Notes and Queries, Reviews and Features
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Flag - check
+Ticker tape - check
+Bunting - check
+Cake - check
+Silly hats - check
+Food - on order
+Frosty drinks - see Thierry for those
+
+Yes indeed, the day we have been waiting for has arrived! Which kind of
+leaves me wondering what we will all do tomorrow. Anyway, a huge raft
+of well done's to all involved, and please can I take a line to say a
+special well done to David Widger who has today completed a year long
+project to put the works of E B Lytton onto PG. I wonder what he's
+planning next, probably a long rest.
+
+Happy reading,
+
+Alice
+
+send email to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://ibiblio.org/gutenberg/
+Project Gutenberg Newsletter website: http://ibiblio.org/gutenberg/newsletter
+Radio Gutenberg: http://www.radio-gutenberg.com
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://ibiblio.org/gutenberg/subs.html
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News and Comment
+
+North Dakota & New Mexico
+
+We are again looking for people to exist in these states. Just to
+remind you this is to help with PG's registered status in all fifty
+states. As PG has to register separately in all 50 states we are
+required to have a registered person with a real address. Now you
+don't have to physically 'do' anything except give your name and
+address just in case one of those people who ticks boxes for a living
+happens to call, if they do, you can just refer them on the Anne or
+Greg and that's it. If you think you can help, or you know someone who
+can please contact me and I will pass you over to Anne.
+
+PS Len can you mail me again to let me know if you got my reply, thank
+you.
+
+                    -------------------
+
+Magna Carta
+
+Magna Carta is often thought of as the corner-stone of liberty and the
+chief defence against arbitrary and unjust rule in England. In fact it
+contains few sweeping statements of principle, but is a series of
+concessions wrung from the unwilling King John by his rebellious
+barons in 1215. However, Magna Carta established for the first time a
+very significant constitutional principle, namely that the power of
+the king could be limited by a written grant.
+
+King John's unsuccessful attempts to defend his dominions in Normandy
+and much of western France led to oppressive demands on his
+subjects. Taxes were extortionate; reprisals against defaulters were
+ruthless, and John's administration of justice was considered
+capricious. In January 1215 a group of barons demanded a charter of
+liberties as a safeguard against the King's arbitrary behaviour. The
+barons took up arms against John and captured London in May 1215.
+
+By 10 June both parties met and held negotiations at Runnymede, a
+meadow by the River Thames. The concessions made by King John were
+outlined in a document known as the 'Articles of the Barons', to which
+the King's great seal was attached, and on 19 June the barons renewed
+their oaths of allegiance to the King. Meanwhile the royal chancery
+produced a formal royal grant, based on the agreements reached at
+Runnymede, which became known as Magna Carta (Latin for the 'Great
+Charter').
+
+Four copies of this original grant survive. Two are held at the
+British Library while the others can be seen in the cathedral archives
+at Lincoln and Salisbury.
+
+All four copies declare themselves to have been 'given by our hand in
+the meadow which is called Runnymede between Windsor and Staines on
+the 15th day of June in the 17th year of our reign' (1215).
+
+Each differs slightly in size, shape and text. The few short words and
+passages written at the foot of the present document have been
+incorporated into the main texts of the Lincoln and Salisbury charters
+and may therefore represent last-minute revisions.
+
+According to contemporary chronicles, copies were distributed to
+bishops, sheriffs and others throughout the land, but the exact number
+of copies sent out from the royal chancery in 1215 is not known.
+
+Magna Carta is on permanent display in the British Library exhibition
+galleries.
+
+[This article taken from a very nice British Library website
+www.bl.uk/collections/treasures/magna.html]
+
+                    -------------------
+
+Library of Congress Online: American Notes: Travels in America 1750-1920
+
+The Library of Congress announces the release on the American Memory
+website of American Notes: Travels in America, 1750-1920
+(http://memory.loc.gov/ammem/lhtnhtml).
+
+The website is comprised of 253 published narratives by Americans and
+foreign visitors recounting their travels in the colonies and the
+United States andtheir observations and opinions about American
+peoples, places, and society from about 1750 to 1920. Also included is
+the thirty-two-volume set of manuscript sources entitled Early Western
+Travels, 1748-1846, published between 1904 and 1907 after diligent
+compilation by the distinguished historian and secretary of the
+Wisconsin Historical Society Reuben Gold Thwaites. All items are from
+the general collections of the Library of Congress. Although many of
+the authors represented in American Notes are not widely known, the
+collection includes works by major figures such as Matthew Arnold,
+Fredrika Bremer, William Cullen Bryant, Francois Rene de
+Chateaubriand, William Cobbett, James Fenimore Cooper, J. Hector
+St. John de Crevecoeur, Charles Dickens, Washington Irving, Benjamin
+Henry Latrobe, Sir Charles Lyell, William Lyon Mackenzie, Andre
+Michaux, Thomas Nuttall, Frederick Law Olmsted, and Robert Louis
+Stevenson. The narratives in American Notes therefore range from the
+unjustly neglected to the justly famous, and from classics of the
+genre to undiscovered gems. Together, they build a mosaic portrait of
+a young nation.
+
+American Memory is a gateway to rich primary source materials relating
+to the history and culture of the United States.  The site offers more
+than 8 million digital items from more than 120 historical
+collections.
+
+Please submit any questions you may have via the American Memory
+webform at: http://www.loc.gov/rr/askalib/ask?memory2.html
+
+                    -------------------
+
+Other news items this week
+
+Spanish Bible Files
+
+Watch out for these coming onto PG shortly. Text and HTML versions
+will be available.
+
+------------------------------
+
+Lessons in ebooks
+
+Occasionally, I get mails asking how to go about downloading texts
+from Project Gutenberg. Thanks to a new set of lessons from Candida
+Martinelli, all mystery is now lifted.
+
+Candida has put together six lessons to explain just about everything
+you might need to know to get started with finding a text,
+downloading, use and management, they are well worth a look. You can
+find the lessons at:
+
+http://home.wanadoo.nl/cecilia.mccabe/instructions.htm
+
+                    -------------------
+Distributed Proofreaders Update
+
+[riiiiip ... crumple ... toss!]  So, there's goes my draft version for
+this week's column, right at the last minute too. Just in, and
+apparently official, the day we have all been waiting for and counting
+down to has made a last minute sprint and arrived suddenly before our
+eyes.
+
+Project Gutenberg now provides for the world 10,000 artifacts of
+literature, history, and countless varieties of the human
+expression. As much as we have all looked forward to this day, it is
+still surprising to be here, and more than a bit exciting.
+
+But before I go any further into the Distributed Proofreaders view on
+this historic day, there is something that needs saying. This is a
+significant day for everyone who has given something of their own to
+Project Gutenberg, and there are thousands of us. Yet as much as this
+event may mean to each, it is hard to imagine that any of our
+experiences right now are comparable to those of the person who sat
+down some thirty years ago and typed the words: "When in the Course of
+human Events . . ."
+
+So...on behalf of all of us at DP ... Congratulations Michael! The
+world is now vastly different from the way you found it when you
+arrived.
+
+Over at DP, the excitement has been building all month towards this
+day. There is much to celebrate, for today was to be a festive event
+in it's own right, before the news of re-publication of the Magna
+Carta coincided with ongoing events. Joining the party at DP are three
+authors celebrating this day in a  personal way. October 15th is the
+birthday of the Roman poet Virgil, Friedrich Nietzsche and Helen Hunt
+Jackson.
+
+Thanks to Tim Bonham and the festivity planners at DP, Authors'
+receive a new found respect and attention on their birthdays. Before
+this day is through, there should be 12 new books proofed by this
+trio. If one of these authors is a favorite of yours, it's not too
+late to join the party and help preserve their legacies. The doors are
+open all night, but hurry...it looks like a full house already. Even
+the Forum attendance records have been broken today. Wherever you look
+today, this evening and into the wee hours, you will find us and be
+warmly welcomed.
+
+And speaking of breaking records...the last two proofing days were a
+first for 2003. No month yet in this year has seen two days with over
+6,000 pages proofed. We just set away two of them, back to back. And I
+have it on good authority, that we are about to do it again. See,
+here's the plan, and it's so simple, it's brilliant! Once we get
+enough people into the site...  I'm going to lock the doors, and
+nobody leaves without proofing ten pages. Okay, maybe I need to work
+on that! But however we do it, in honor of PG's 10.000 books, DP is
+going to set down the best proofing day of 2003. If you think I'm over
+the edge here, stop by later and have a look for yourself. At least
+you'll be able to say: "I was there for the biggest day of the year!"
+
+The fifteenth is also the midpoint of the month, a natural time to
+take a breath and see what we have accomplished for October. Back on
+the first we set out an objective and claimed October as 'Post
+Processing Month.'  The goal was to see 300 books out of Post
+Processing and into the Verification stage. Many folks laughed at
+first. "You can't treat the Post process like proofing.", they
+said. Plus, "There's too many variables." and "This is not something
+that can be forced." To be fair, there was definitely some uncertainty
+and debate before publicly announcing the goal. Still, it was agreed a
+worthy endeavor and set in motion.
+
+So, where are we now, half way down the line? As of last night,
+counting 14 days out of 31, a total of 162 projects had completed the
+Post stage this month, with 20 books set as finished on Monday
+alone. Frankly... many of us are surprised by just how successful the
+initiative has become and how contagious the support and excitement
+for the effort grows with each day. I won't conjecture a guess at the
+final count on the 31st, but that shouldn't stop you from enjoying the
+play!
+
+Perhaps one of the most impressive measures of the past two weeks is
+offered by DP's Site Administrator, Bill Keir: "...we have almost 40
+new (or newly returned to active duty) PPers so far this month - our
+goal there was 50.." It is beyond doubt now, that something is
+happening at DP, which has a very contagious quality. Over the past
+two months there is an increase in both attendance and participation
+at the site. An interesting puzzler within this phenomenon is that
+while a greater share of attention than normal is upon the Post
+process, the proofing numbers have not diminished at all. In fact, the
+proofing counts are well on their way to producing the most successful
+month of the year, if not in all of DP's history. Yes, that means we
+may even see a higher monthly total than was produced by the original
+SlashDot rush of November 2002. Stay tuned right here to see how this
+turns out.
+
+So we have Birthdays, impressive posted figures and amazing page
+counts to celebrate... what else could possibly fit inside a single
+month? Well...the new source code is still worth applause, not only
+for performing impressively under all this added activity, but also
+because we are still discovering new features that were folded within
+it. One of these which holds our great promise for the future of DP
+and thus PG is the Internationalization of the site's features. That
+this is being phased in gradually does not diminish it's sparkle. As
+the workings of the Localization components are tested, we will be
+getting glimpses of the road out ahead of us, where DP expands to
+support a wide range of languages.
+
+The full implementation of a DP in multiple language will take some
+time, but a solid effort has begun. Even for those of us native to
+English, this is exciting to see come into focus. Help files and FAQs
+are already being produced in a variety of languages and there is work
+going on to provide multi-lingual utility and comfort to the
+forums. As always, we'll be sure to follow these innovations right
+here.
+
+There are two other 'quiet' happenings going on this month that people
+have been asking about for a while. I will only touch upon these
+briefly this week as an introduction to more in-depth study in the
+future. One is the Uber Projects designation and the other is the DP
+History and Lore Archive. These two endeavors are still in the early
+stages of development, but their future is bright. The Uber Projects
+are large scale works which require special needs or great resources
+of time and energy. As written of in previous issues, the success of
+DP made the creation of a special projects division inevitable. The
+power of distribution has made it possible to realistically consider
+book projects which were previously out of the realm of  feasibility
+for digital conversion. The recent creation of an independent forum
+for the Uber Projects has brought them into the light of attention. So
+by request we are going to be exploring some of these large-scale
+works a little bit more with each column.
+
+The History and Lore archive is also an item within this week's
+news. I can speak freely of this because I have worked closely upon it
+for several months now. It is very much what the title suggest: a home
+for the story and collective knowledge of DP so far. As this project
+is about the past, more or less, and not of an immediate urgency, it's
+growth to date has been slow to glacial-like. This week that has
+changed thanks to a generous offer by DP's own T. Mangrove, known and
+adored by his friends as Montanus. The H&L Archive now has a place to
+grow and prosper out of the way of the day to day affairs of book
+building. Over in a quiet, little corner of the Net' those of us who
+like to explore history can take our time preserving the knowledge and
+record of what we do at DP, while DP goes on its way preserving the
+knowledge and records of others.
+
+So that's October from the middle of the voyage, folks! I think you
+all know that I would enjoy going on about the meaning of this day for
+the PG community and the journey of the road travelled to keep things
+going until this day. . .but that's Michael's job...and I wouldn't
+take a word of it away from him.
+
+Rejoice in this moment, everyone! Don't let the thin air of this
+cynical age steal it's gift from you. There is a great and wonderful
+power at work here. The long-term effects of what we do at DP/PG each
+day cannot always be measured from where we stand. I assure you that a
+day will come, and it will come unexpectedly, when some rare chance
+coincidence occurs in your life that brings you back through the years
+to this very hour. Don't lose who you are today, and who you have
+become through participating in this dream. Rejoice!...and do it with
+great gladness, no matter how 'uncool' that may look to your SO. One
+day ... and this I promise ... you will look back this way and say:
+"I was there, that day, with Michael ... and you know something ... I
+helped make it happen."
+
+May you always find an abundant return for the part of yourself you
+give to the world!
+
+For now...
+
+Thierry Alberto
+                    -------------------
+
+Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+Radio Gutenberg is currently off the air.
+
+
+If you are interested in creating a slide-show with a soundtrack
+from your favourite book, or piece of literature please mail us here
+at news@pglaf.org and we will pass your message on.
+
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. An example of
+the changed listing is given below. If you would like either a daily
+or weekly version of this list please email news@pglaf.org, and state
+which version you require.
+
+{Note to the unwary: this is an example.}
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries, Reviews and Features
+
+The Egyptian literature continued - the content and the form.
+
+The content.
+
+During the writing it occurred to me, that actually the Egyptians were
+the inventors of the Happy End. The eloquent peasant is winning the
+case over the malicious town-dweller protected by his patron ('Tale of
+eloquent peasant' can be found in Petrie 'Egyptian Tales'), the fled
+nobleman is forgiven ('Story of Sinuhe') and his property is restored,
+lost people are coming home and even the doomed prince is managing to
+survive somehow, thanks to his beloved wife. Does it mean
+simple-minding or normal confidence of the healthy and wealthy that
+the gods are on your side? this is for you to decide.
+
+What is more interesting is the overall familiarity not only of
+literature genres and rules in general, but even of the very plot
+lines, that were born in the minds disappeared so long ago and written
+in the strange signs that nobody could read for more than 1000
+years. The poor but diligent step-daughter tormented by an evil
+step-mother started her miserable and glorious life almost 5000 years
+ago, in 26 century B.C. during the 4th dynasty. Her 2000 years younger
+relative, more famous amongst contemporary readers, was the pale Greek
+slave Rhadopis of Strabo tortured by tanned Egyptian female-slaves,
+whos slipper was brought to the bored Pharaoh by the falcon-god Horus
+himself. The shipwrecked sailor has found the treasure island long ago
+before similar attempts of western and eastern sea-travellers. The
+island disappeared in the sea-waves immediately after the sailor left,
+but the scholars are seeing the traces of it in the works of Stevenson
+and even in the adventures of Count Monte-Cristo, whose ship they
+claim, was not incidentally called Pharaoh.
+
+Another extremely familiar story is of two brothers Truth and
+Falsehood, which tells us about the betrayal of jealous Falsehood, and
+the poor Truth, blinded already by his younger brother, should be
+thrown to lion by the servants. He begs for his life from the servants
+and they are killing another instead of him. After many days following
+this, Falsehood raised his eyes to have a look, and he observed  the
+exemplariness of Truth, his elder brother. Falsehood said to Truth's
+two servants: Please ab[duct] your lord and [cast] him [to] a
+dangerous lion that has many lionesses [as mate]s, and they shall
+[devour him. Then they] abducted him. Now as they were going up
+carrying him, Truth [told his servant]s: Don't abduct [me and] put
+[an]other [in my place... .  The son of blinded but still beautiful
+Truth and the rich lady is defeating the wicked uncle and the beloved
+Happy End comes inevitable as in Hollywood movies. Quite different
+from the dismal Greek or Scandinavian epic stories when the final
+scene is mostly often the violent death of the heroes, deceived and
+betrayed - the standard European happy ending :).
+
+The form.
+
+I do not remember who told it first but Ive heard it from many real
+poets, that to make a verse is much easier than the good prose
+line. This sounds for first glance strange - we are as Moliers
+personage said 'talking in prose', but the fact is that most of the
+ancient literature was written in verses. Which may be compared with
+the painting - the history of art was starting from the surrealism,
+abstractionism and others of that ilk. May be it is easier to create
+more rigid formal structure, than to imitate the over-detailed 'real'
+world. Or vice-versa - the worlds perception is simpler so more
+formal expression is more appropriate. In any case, Egyptian
+literature is not an exception from this rule, though the tales are
+very often translated in prosaic form. It is hard for us to judge the
+quality of the poetry written in the dead language, however the
+richness of translated metaphors is quite amazing. Below are few lines
+from self-description of Mentuhotep, an official under reign of
+Sessotris I. This inscription was accepted by Egyptians as an example
+of good style in the Middle and New Kingdoms and was copied several
+times on the stelas of different officials: I am sending two brothers
+satisfied with the utterances of his mouth upon whose tongue is the
+writing of Thoth, more accurate than the weight, likeness of the
+balances giving attention to hear words, like a god in his hour,
+excellent in heart, skilled in his fingers finding the speech of the
+palace, knowing that which is in every body (heart), putting map into
+his real place, finding matters in which there is irregularity, giving
+the lie to him that speaks it and the truth to him that brings it, an
+official loosening the knot, whom the king (lit. god) exalt above
+millions master of secret things of the house of sacred
+writing. Another example is quite opposite but not less poetic
+inscription of Man Who Was Tired of Life: I opened my mouth to my soul
+that I might answer what it had said:Behold, my name is detested,
+Behold, more than the smell of vultures On a summer's day when the sky
+is hot. Behold, my name is detested, Behold, more than the smell of
+ducks, More than a covert of reeds full of waterfowl. Death is in my
+sight today Like the smell of myrrh,Like sitting under an awning on a
+windy day.Death is in my sight today Like the perfume of lotuses,Like
+sitting on the shore of the Land of Drunkenness. Death is in my sight
+todayLike the clearing of the sky,Like a man who... ... for something
+which he does not know. Besides poetic tales, inscriptions and the
+hymns to gods, the Egyptians knew and liked the songs and the short
+loves poems. Those love songs were often more expressive than
+metaphoric, where the tumult of love is compared with the trap for the
+gooses, and the lover says that the kisses of the beloved are
+invigorating the heart and her/his embraces are the best medicine With
+sickness faint and weary All day in bed I'll lie; My friends will
+gather near meAnd she'll with them come nigh. She'll put to shame the
+doctorsWho'll ponder over me, For she alone, my loved one, Knows well
+my malady. Or For those who have interest and understanding in the
+technical details of poetry, here is the excerpt from
+http://www.utexas.edu/utpress/excerpts/exfosanc.html For their poems
+ancient Egyptian poets used a couplet form: the lines of the poems
+were grouped in twos, and each pair of lines completed a verse
+sentence. There were variations upon this basic form (triplets and
+quatrains), but the generalization is fundamental to understanding the
+structure of the poems. The verse line was clausal and syntactic: each
+line consisted of either a dependent or an independent clause; and the
+pair made up the full sentence. Unfortunately not many texts are in PG
+yet. For those who is interested there is very good collection of the
+texts on the official Egyptian government site:
+http://touregypt.net/literature.htm There are also few more books of
+Wallis Budge of 1901. Even if you can not find the copyright for those
+things to add it to PG, at least you can enjoy reading the words
+invented by the minds that disappeared long ago that were written in
+the strange signs that nobody could read for more than millennium.
+
+Gali Sirkis
+                    -------------------
+
+What's Cooking? Part 1
+
+A recent article by Gali Sirkis highlighting the Home Economics
+Archive as a possible source of material to add to PG reminded me that
+several cookbooks had passed through DP recently. I decided to trawl
+the depths of GUTINDEX.ALL to see just what we have in the way of
+cookery manuals.
+
+As it turns out, quite a little range of cookbooks is available via
+PG. Perhaps the oldest is The Forme of Cury, by Samuel Pegge; A Roll
+of Ancient English Cookery Compiled about A.D. 1390; the newest might
+be The BYU Solar Cooker/Cooler, by Steven E. Jones (complete with
+illustrations of said cooker/cooler), or The Perdue Chicken Cookbook,
+by Mitzi Perdue. In between we can find general tomes such as Domestic
+Cookery, Useful Receipts, and Hints to Young Housekeepers, by
+Elizabeth E. Lea; School and Home Cooking, by Carlotta C. Greer; Miss
+Parloa's New Cook Book, by Maria Parloa (new as of 1881); Things
+Mother Used To Make, by Lydia Maria Gurney; and Seventy-Five Receipts
+for Pastry, Cakes, and Sweetmeats, by Miss Leslie.
+
+Several national cuisines are represented: there is a Belgian
+Cookbook, and Simple Italian Cookery. We have at least one
+Spanish-language cookbook (La Mejor Cocinera: Recetas de Cocina), and
+one in French especially for vegetarians or those of delicate stomach
+(Traite' General de la Cuisine Maigre: Potages, Entrees et Releves,
+Entremets de Legumes, Sauces, Entremets sucres; Traite' des Hors
+d'oeuvre et Savoureux). The latter guarantees satisfaction: "Les
+estomacs auxquels, pour une raison ou pour une autre, les mets gras
+sont interdits, devront une reconnaissance sans prix a l'Auteur de ce
+bel et utile ouvrage. Et quant aux autres, ils pourront user des
+privileges vegetariens avec profit. Ainsi, pour ceux-ci ou ceux-la,
+l'avantage est constant et ne fera que des heureux."
+
+For any one who is tired of scrambled, poached, fried, boiled, and
+over-easy, we can offer Many Ways for Cooking Eggs. Those whose
+cooking does not always succeed might turn to Recipes Tried and True
+by Presbyterian Ladies' Aid for a foolproof idea. For a dish that's
+sure to please, there is always Favorite Dishes, by Carrie
+V. Shuman. (Or maybe not: see Part 2 next week to find out what I
+mean....)
+
+We do not neglect beverages. The London and Country Brewer
+(publication date 1736) will instruct anyone who wishes to become
+versed in "making good Malts;" "know[ing] good from bad Malts;" "the
+_London_ Method of Brewing Stout, But-Beer, Pale and Brown Ales" as
+opposed to "the Country or Private Way of Brewing," and much more. For
+a different taste, we may turn to the fascinating The Book of Tea, by
+Kakuzo Okakura, and we can even tell our fortunes afterwards with the
+help of Telling Fortunes By Tea Leaves.
+
+Finally, for those who wish to know what happens after food or drink
+leaves plate or bowl and begins a lengthy journey to its final
+destination, I can recommend The History of a Mouthful of Bread, by
+Jean Mace--but I advise that you do not read it while you are eating.
+
+Having whetted your appetite, I will invite you to read more about our
+cookery collection next week in What's Cooking? Part 2, where we will
+investigate a few of the more interesting recipes (Brain Cakes,
+anyone?)
+
+--Tonya Allen
+
+                    -------------------
+
+Quiz
+
+No quiz this week, we don't want to wear you out now do we? However,
+this does give you time to start swotting for the next one.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Tonya, Thierry, Gali, Greg, Michael, King John and Larry
+Wall. Entertainment for the workers provided by BBC 6Music. Baseball
+update from John Hagerson, who believes that the dictionary definition
+of futility should be the Chicago Cubs. We would like to wish them good luck
+in their deciding playoff match tonight. We also include this courtesy
+of Patricia at DP.
+
+Baseball's Sad Lexicon*
+by Franklin Pierce Adams
+(15nov1881-23mar1960)
+
+These are the saddest of possible words:
+  "Tinker to Evers to Chance."
+Trio of bear cubs, and fleeter than birds,
+  Tinker and Evers and Chance.
+Ruthlessly pricking our gonfalon bubble,
+  Making a Giant hit into a double--
+Words that are heavy with nothing but trouble:
+  "Tinker to Evers to Chance."
+
+* The poem's original title was That Double Play Again and it
+was first published in the New York Evening Mail of July 10, 1910
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_10_15_part_2.txt" target="_blank" rel="nofollow">pgweekly_2003_10_15_part_2.txt</a>

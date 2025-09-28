@@ -1,0 +1,439 @@
+---
+params:
+  id: 2169
+title: "PG Weekly Newsletter: Part 2 (2004-08-18)"
+date: 2004-08-18T18:09:38+00:00
+author: Michael Cook
+layout: post
+url: /20040818/pg-weekly-newsletter-2004-08-18-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 18 Aug 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 53 New U.S. eBooks this week
+   -  1 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 18 Aug 2004:  13,538 (incl. 371 Aus.).
+
+Last week the Total Count was 13,484, including 370 at PG of Australia.
+This week we added 54 new, including 1 at PG of Australia.
+
+RESERVED/PENDING count:   43 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Spinifex and Sand, by David W Carnegie                                    4975
+   [Subtitle: Five Years' Pioneering and Exploration in Western Australia]
+   [Updated edition of: etext04/spnfx10.txt or spnfx10h.htm]
+   [Link: http://www.gutenberg.net/4/9/7/4975 ]
+   [Files: 4975.txt; 4975-h.htm]
+
+A Drama on the Seashore, by Honore de Balzac                              1427
+   [Updated edition of: etext98/seshr10.txt]
+   [Translated by Katharine Prescott Wormeley]
+   [Link: http://www.gutenberg.net/1/4/2/1427 ]
+   [Files: 1427.txt]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+The following has been re-indexed to correct the title ("Home Made", not
+"Hand Made"):
+Chocolate and Cocoa Recipes and Home Made Candy Recipes, by Miss Parloa  13177
+   [Link: http://www.gutenberg.net/1/3/1/7/13177 ]
+   [Files: 13177.txt; 13177-8.txt; 13177-h.htm]
+
+The following is being re-indexed to correct the title ("Troubadour", not
+"Troubador"):
+Sep 2005 In Troubadour-Land, by S. Baring-Gould        [#2][?trlnxxx.xxx] 8819
+
+
+-=-=-=-=[  53 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Night Before Christmas and Other Popular Stories For Children, Various   13213
+   [Link: http://www.gutenberg.net/1/3/2/1/13213 ]
+   [Files: 13213.txt; 13213-h.htm]
+
+The Wild Olive, by Basil King                                            13212
+   [Link: http://www.gutenberg.net/1/3/2/1/13212 ]
+   [Files: 13212.txt; 13212-8.txt; 13212-0.txt; 13212-h.htm]
+
+The Pearl, by Sophie Jewett                                              13211
+   [Link: http://www.gutenberg.net/1/3/2/1/13211 ]
+   [Files: 13211.txt; 13211-8.txt]
+
+El Comendador Mendoza, by Juan Valera                                    13210
+   [Subtitle: Obras Completas Tomo VII]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/2/1/13210 ]
+   [Files: 13210.txt; 13210-8.txt]
+
+The Second Violin, by Grace S. Richmond                                  13209
+   [Link: http://www.gutenberg.net/1/3/2/0/13209 ]
+   [Files: 13209.txt; 13209-8.txt; 13209-h.htm]
+
+Characters and events of Roman History, by Guglielmo Ferrero             13208
+   [Link: http://www.gutenberg.net/1/3/2/0/13208 ]
+   [Files: 13208.txt; 13208-8.txt]
+
+Les Pardaillan - 01, by Michel Zevaco                                    13207
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/2/0/13207 ]
+   [Files: 13207-8.txt; 13207-h.htm]
+
+A Short History of Monks and Monasteries, by Alfred Wesley Wishart       13206
+   [Link: http://www.gutenberg.net/1/3/2/0/13206 ]
+   [Files: 13206.txt; 13206-8.txt; 13206-h.htm]
+
+Civics: as Applied Sociology, by Patrick Geddes                          13205
+   [Link: http://www.gutenberg.net/1/3/2/0/13205 ]
+   [Files: 13205.txt; 13205-8.txt; 13205-h.htm]
+
+Sermons to the Natural Man, by William G.T. Shedd                        13204
+   [Link: http://www.gutenberg.net/1/3/2/0/13204 ]
+   [Files: 13204.txt; 13204-8.txt]
+
+Original Letters and Biographic Epitomes, by J. Atwood.Slater            13203
+   [Author AKA: James Atwood Slater (without the period)]
+   [Link: http://www.gutenberg.net/1/3/2/0/13203 ]
+   [Files: 13203.txt; 13203-8.txt]
+
+Evelyn Innes, by George Moore                                            13201
+   [Link: http://www.gutenberg.net/1/3/2/0/13201 ]
+   [Files: 13201.txt; 13201-8.txt; 13201-h.htm]
+
+Act, Declaration, & Testimony, by The Reformed Presbytery                13200
+   [Title: Act, Declaration, & Testimony for the Whole of our Covenanted
+    Reformation, as Attained to, and Established in Britain and Ireland;
+    Particularly Betwixt the Years 1638 and 1649, Inclusive]
+   [Link: http://www.gutenberg.net/1/3/2/0/13200 ]
+   [Files: 13200.txt; 13200-8.txt]
+
+The Mirror of Literature, Amusement, & Instruction, Vol. 17, No. 469     13199
+   [January 1, 1831]
+   [Link: http://www.gutenberg.net/1/3/1/9/13199 ]
+   [Files: 13199.txt; 13199-8.txt; 13199-h.htm]
+
+Nouvelles lettres d'un voyageur, by George Sand                          13198
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/1/9/13198 ]
+   [Files: 13198-8.txt; 13198-h.htm]
+
+Wear and Tear, by Silas Weir Mitchell                                    13197
+   [Subtitle: or, Hints for the Overworked]
+   [Link: http://www.gutenberg.net/1/3/1/9/13197 ]
+   [Files: 13197.txt; 13197-8.txt; 13197-h.htm]
+
+Quiet Talks on Prayer, by S. D. (Samuel Dickey) Gordon                   13196
+   [Link: http://www.gutenberg.net/1/3/1/9/13196 ]
+   [Files: 13196.txt; 13196-8.txt; 13196-h.htm]
+
+Lippincott's Magazine of Popular Literature and Science, by Various      13195
+   [Subtitle: Vol. XI, No. 27, June, 1873]
+   [Link: http://www.gutenberg.net/1/3/1/9/13195 ]
+   [Files: 13195.txt; 13195-8.txt; 13195-h.htm]
+
+The Rules of the Game, by Stewart Edward White                           13194
+   [Link: http://www.gutenberg.net/1/3/1/9/13194 ]
+   [Files: 13194.txt; 13194-8.txt; 13194-h.htm]
+
+Supreme Personality, by Delmer Eugene Croft                              13193
+   [Link: http://www.gutenberg.net/1/3/1/9/13193 ]
+   [Files: 13193.txt; 13193-h.htm]
+
+Oeuvres de Napoleon Bonaparte, Tome IV, by Napoleon Bonaparte            13192
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/1/9/13192 ]
+   [Files: 13192.txt; 13192-8.txt; 13192-h.htm]
+
+The Cross of Berny, by Emile de Girardin                                 13191
+   [Link: http://www.gutenberg.net/1/3/1/9/13191 ]
+   [Files: 13191.txt; 13191-8.txt; 13191-h.htm]
+
+De l'importance des livres de raison, by Louis Guibert                   13190
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/1/9/13190 ]
+   [Files: 13190-8.txt; 13190-0.txt]
+
+Le gorille, by Oscar Metenier                                            13189
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/1/8/13189 ]
+   [Files: 13189-8.txt; 13189-0.txt]
+
+Putnam's Word Book, by Louis A. Fleming                                  13188
+   [Link: http://www.gutenberg.net/1/3/1/8/13188 ]
+   [Files: 13188.txt; 13188-8.txt; 13188-0.txt; 13188-h.htm]
+
+Dialogue aux enfers entre Machiavel et Montesquieu, by Maurice Joly      13187
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/1/8/13187 ]
+   [Files: 13187-8.txt; 13187-h.htm]
+
+Punch, Vol. 100, March 14, 1891, Ed. by Sir Francis Burnand              13186
+   [Link: http://www.gutenberg.net/1/3/1/8/13186 ]
+   [Files: 13186.txt; 13186-8.txt; 13186-h.htm]
+
+Punch, Vol. 100, March 7, 1891, Ed. by Sir Francis Burnand               13185
+   [Link: http://www.gutenberg.net/1/3/1/8/13185 ]
+   [Files: 13185.txt; 13185-8.txt; 13185-h.htm]
+
+Narrative and Lyric Poems, by O. J. Stevenson                            13184
+   [Title: Narrative and Lyric Poems (first series) for use in the Lower
+    School]
+   [Contents:
+     The Meeting of the Water, by Moore
+     Jock o' Hazeldean, by Scott
+     Horatius, by Macaulay
+     Alice Brand , by Scott
+     The Solitary Reaper, by Wordsworth
+     The Island of the Scots, by Aytoun
+     Dickens in Camp, by Harte
+     A Musical Instrument, by Mrs. Browning
+     Gradatim, by Holland
+     The Battle of the Lake Regillus , by Macaulay
+     The Vision of Sir Launfal, by Lowell
+     The Builders, by Longfellow
+     British Freedom, by Wordsworth
+     The Courtship of Miles Standish, by Longfellow
+     Sohrab and Rustum, by Arnold]
+   [Link: http://www.gutenberg.net/1/3/1/8/13184 ]
+   [Files: 13184.txt]
+
+In the Days of Chivalry, by Evelyn Everett-Green                         13183
+   [Link: http://www.gutenberg.net/1/3/1/8/13183 ]
+   [Files: 13183.txt; 13183-h.htm]
+
+Prefaces and Prologues to Famous Books, by Charles W. Eliot              13182
+   [Title: Prefaces and Prologues to Famous Books with Introductions,
+    Notes and Illustrations]
+   [Link: http://www.gutenberg.net/1/3/1/8/13182 ]
+   [Files: 13182.txt; 13182-8.txt]
+
+The Boy With the U.S. Census, by Francis Rolt-Wheeler                    13181
+   [Link: http://www.gutenberg.net/1/3/1/8/13181 ]
+   [Files: 13181.txt; 13181-8.txt; 13181-h.htm]
+
+The Tracer of Lost Persons, by Robert W. Chambers                        13180
+   [Link: http://www.gutenberg.net/1/3/1/8/13180 ]
+   [Files: 13180.txt; 13180-8.txt; 13180-0.txt; 13180-h.htm]
+
+The Poems of William Watson, by William Watson                           13179
+   [Link: http://www.gutenberg.net/1/3/1/7/13179 ]
+   [Files: 13179.txt; 13179-8.txt]
+
+Broken to the Plow, by Charles Caldwell Dobie                            13178
+   [Link: http://www.gutenberg.net/1/3/1/7/13178 ]
+   [Files: 13178.txt; 13178-8.txt]
+
+Chocolate and Cocoa Recipes and Hand Made Candy Recipes, by Miss Parloa  13177
+   [Link: http://www.gutenberg.net/1/3/1/7/13177 ]
+   [Files: 13177.txt; 13177-8.txt; 13177-h.htm]
+
+The Abolitionists, by John F. Hume                                       13176
+   [Subtitle: Together With Personal Memories Of The Struggle For Human
+    Rights]
+   [Link: http://www.gutenberg.net/1/3/1/7/13176 ]
+   [Files: 13176.txt; 13176-8.txt; 13176-h.htm]
+
+Ved vejen, by Herman Bang                                                13175
+   [Language: Danish]
+   [Link: http://www.gutenberg.net/1/3/1/7/13175 ]
+   [Files: 13175.txt; 13175-8.txt]
+
+Sylvi; Kovan onnen lapsia, by Minna Canth                                13174
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/1/7/13174 ]
+   [Files: 13174.txt; 13174-8.txt]
+
+Anna Liisa; Kotoa pois, by Minna Canth                                   13173
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/1/7/13173 ]
+   [Files: 13173.txt; 13173-8.txt]
+
+True Stories of Crime From the District Attorney's Office, Arthur Train  13172
+   [Link: http://www.gutenberg.net/1/3/1/7/13172 ]
+   [Files: 13172.txt; 13172-8.txt; 13172-h.htm]
+
+Tapani Lofvingin seikkailut, by Kyosti Wilkuna                           13171
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/1/7/13171 ]
+   [Files: 13171-8.txt]
+
+The Lake of the Sky, by George Wharton James                             13170
+   [Link: http://www.gutenberg.net/1/3/1/7/13170 ]
+   [Files: 13170.txt; 13170-8.txt; 13170-h.htm]
+
+The Prose Works of Jonathan Swift, D. D., Volume IX, by Jonathan Swift   13169
+   [Title: The Prose Works of Jonathan Swift, D. D., Volume IX;
+    Contributions to The Tatler, The Examiner, The Spectator, and The
+    Intelligencer]
+   [Link: http://www.gutenberg.net/1/3/1/6/13169 ]
+   [Files: 13169.txt; 13169-8.txt]
+
+Dick in the Everglades, by A. W. Dimock                                  13168
+   [Link: http://www.gutenberg.net/1/3/1/6/13168 ]
+   [Files: 13168.txt; 13168-h.htm]
+
+More Cricket Songs, by Norman Gale                                       13167
+   [Link: http://www.gutenberg.net/1/3/1/6/13167 ]
+   [Files: 13167.txt; 13167-8.txt; 13167-h.htm]
+
+The Psalms of David, by Isaac Watts                                      13166
+   [Subtitle: Imitated in the Language of The New Testament And Applied
+    to The Christian State and Worship]
+   [Includes The Life of Isaac Watts, D.D. by Dr. Johnson. From his lives
+    of the most eminent English Poets.]
+   [Link: http://www.gutenberg.net/1/3/1/6/13166 ]
+   [Files: 13166.txt]
+
+Papin perhe; Han on Sysmasta; Spiritistinen istunto, by Minna Canth      13165
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/1/6/13165 ]
+   [Files: 13165.txt; 13165-8.txt]
+
+Murtovarkaus; Roinilan talossa, by Minna Canth                           13164
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/1/6/13164 ]
+   [Files: 13164-8.txt]
+
+The Cruise of the Alabama and the Sumter, by Raphael Semmes              13163
+   [Link: http://www.gutenberg.net/1/3/1/6/13163 ]
+   [Files: 13163.txt; 13163-8.txt]
+
+Coralie, by Charlotte M. Braeme                                          13162
+   [Link: http://www.gutenberg.net/1/3/1/6/13162 ]
+   [Files: 13162.txt; 13162-h.htm]
+
+Sane Sex Life and Sane Sex Living, by H.W. Long                          13161
+   [Subtitle: Some Things That All Sane People Ought To Know About Sex
+    Nature And Sex Functioning; Its Place In The Economy Of Life, Its
+    Proper Training And Righteous Exercise]
+   [Link: http://www.gutenberg.net/1/3/1/6/13161 ]
+   [Files: 13161.txt; 13161-8.txt; 13161-h.htm]
+
+An Iron Will, by Orison Swett Marden                                     13160
+   [Link: http://www.gutenberg.net/1/3/1/6/13160 ]
+   [Files: 13160.txt; 13160-8.txt; 13160-h.htm]
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Aug 2004 Magnificent Obsession, by Lloyd C Douglas         [040063xx.xxx] 0371A
+   [http://gutenberg.net.au/ebooks04/0400631.txt or .zip ]
+   [and http://gutenberg.net.au/ebooks04/0400631h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+If you're reading this, please note that with the move to our new
+mail server, we are no longer held captive by the forbidden word:
+".zip"  Zip-zip-hooray!  (Sorry, I won't do that again.)
+
+~ ~ ~
+
+David Widger comments on the re-posted #4975 (Spinifex and Sand, by David W
+Carnegie):  This is one of the most captivating tales of exploration I have
+read in a long time.  Direct link to the illustrated html file:
+http://www.gutenberg.net/4/9/7/4975/4975-h/4975-h.htm
+
+~ ~ ~
+
+My opinions may have changed, but not the fact that I am right.
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_08_18_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_08_18_part_2.txt</a>

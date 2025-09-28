@@ -1,0 +1,592 @@
+Date:         Wed, 25 Nov 1992 06:49:42 CST
+To: Multiple recipients of list GUTNBERG
+ <GUTNBERG%UIUCVMD.BITNET@pucc.Princeton.EDU>
+
+THIS NOTE IS ABOUT NETWORK ACCESS;
+AFTER YOU HAVE ACCESS TO A NETWORK
+
+(This note sent intentionally at non-peak period)
+
+ACCESS *ON* NETWORKS AFTER ACCESS *TO* THE NETWORKS
+
+This is the November 15, 1992 edition of Newsletter2
+It is actually being posted on November 25 at 6:00AM
+(There was no October 15, 1992 edition, honoring the
+newly founded "Lurkers Week" when time was set aside
+to encourage those who usually speak to set aside an
+annual week for the usually silent to speak; and due
+to research on this edition.  To those who like much
+of what I have written, my apologies. . .I have done
+a lot of toning down, editing and inserted suggested
+comments from my advisory board.  Therefore, this is
+not written in the usual manner and may appear some-
+what less cohesive and longer than usual.
+
+However, the content is well worth your considerated
+effort to read, even if form is less than usual.)
+====================================================
+
+Trends are beginning to limit access on the networks.
+
+I would like to see these trends reversed.
+
+When the systems are optimized for the experts, what
+happens to the optimization for the novices?
+
+Which will yield more results, optimization for past
+masters of the systems, or optimization for the 99%,
+who are not going to master driving on the internet,
+any more than the average driver masters driving the
+cars on race tracks?
+
+Help yourselves optimize the systems for yourself.
+We should encourage readers to use the delete key,
+rather than discourage persons from posting notes.
+
+Limiting size and number of postings because some of
+the people don't want to have to delete them is like
+limiting what books go into a library because people
+have said they don't want to have to walk past books
+they don't want to read to get to ones they do read.
+  [Yes, there are applicable limits:  see below]
+
+[For those who want to limit notes to Sound-Bytes...
+the above was what you would get.  What you get from
+me is NOT Sound-Bytes.  However, I will assist those
+who don't want to see my messages so they can delete
+them as follows:
+
+msh 9 R Access ON Networks is the subject line of this message:
+indicating the following:  Who From, Number of Pages, Subject.
+Only 5 characters identifies this note as FROM ME, 9 PAGES and
+it is a REPLY about Access ON Networks [not Access TO Networks])
+
+WARNING:  this message is NOT stated in the typical short
+"Sound-Byte" manner unofficially approved of by several of the
+lists I am posting it on.  For those who don't like messages
+longer than Sound-Bytes, press the delete key now.
+
+[The official limits on the size of email are set by various
+mailer programs, and are usually 100,000 to 250,000 characters.
+However, certain social pressures are trying to limit messages
+to around 1,000 to 2,500 characters (social limits here are 99
+time more powerful than the technological limits).  They also
+want to limit the number of messages a person may send by
+various pressures described below.  The methods are contradictory
+. . .some people have stated they don't want to spend the time to
+read messages longer than a Sound-Byte, but have also stated that
+they don't want to receive very many messages in total.
+
+Given the fact that network traffic is tripling every year,
+these people are applying social pressures to limit technological
+capabilities, trying to limit access to network conversations.
+If they are going to succeed in this effort, they will have to
+be three times as powerful in their efforts in 1993 as they were
+in 1992. . .hopefully these efforts will become more obvious due
+this required intensification, and thus will be dropped.
+
+These pressures are couched in buzzword terms, such as
+"bandwidth" to make people think they are trying to save
+the resources of the networks, but the truth of the matter
+is that they are trying to reduce network traffic to their
+own "personal bandwidth levels" where they are comfortable
+with the number of messages, the length of messages, and
+the subjects of those messages.  When someone posts notes
+they don't agree with, they respond with comments about
+everything BUT the substantive content of the messages.
+They talk about the length, the style, the semantics and
+ad hominem comments about the author but not the content.
+If their memories were longer, they would remind us that
+using the networks is like "drinking from a firehose," an
+analogy that get just about as much mileage as wanting a
+library to only contain the books you want to read.  No one
+has the nerve to suggest that even the most specialized of
+Public Libraries or Special Libraries should contain ONLY
+books of interest to them as individuals, or that books one
+person requests are not valid when the subject is libraries
+and their usage.
+
+The fact is that these discussions should also be tripling
+in their traffic, along with the rest of the Networld.
+These people would rather distract you with discussions
+on the "meaning" of "lurker," "wallflower" or "kibitzer"
+than discuss the substantive real issue to discourage or
+encourage others to join the discussion.
+
+They would also prefer to ridicule the exchange of notes
+on topics they would prefer not to see discussed via the
+methods of saying "If you can discuss topics I don't see
+as what I want, then I will post notes in response I can
+be sure will be ones everyone else will not want to see,
+with the obvious result that ALL our notes will become a
+source of irritation and will either not be read or will
+not get posted at all."  Immature, but often effective.
+
+THIS IS A MESSAGE ABOUT MESSAGES
+
+Now, I am not saying that all messages are suitable for all
+discussions, but a message concerning how the discussions
+are carried on is always valid, and messages inviting those
+who usually don't contribute to have a say are also valid.
+Granted that there are groups devoted to specific subjects,
+and there should be, but the issues of group access and of
+fields related to the main field are valid for discussion.
+
+
+ACCESS *TO* THE NETWORKS VERSUS ACCESS *ON* THE NETWORKS
+
+It is sad enough that most of the people never post notes,
+but it is unconscionable to discourage them from posting.
+Messages encouraging and complimenting people for keeping
+quiet are nothing more than thinly veiled attempts to be
+one of the people who sit at the main podium with a gavel.
+Since no one can actually interrupt anyone else on network
+discussions, there is no way one person can "have the floor."
+Any individual who doesn't want to hear. . .can simply wipe
+out others remarks in one second by using the delete key,
+they have an infinitely powerful gavel. . .FOR THEMSELVES;
+they just don't get to bang it in everyone else's ears and
+that bothers them.  They would rather keep OTHERS from being
+heard by OTHERS. . .RATHER THAN MERELY LEAVE THEMSELVES OUT.
+
+However, to try to delete the remarks for every other person
+who might be listening reeks of censorship in a place where
+speech could/should be many times freer than "on the floor."
+
+When suggestions appear that they simply delete messages they
+don't want to read, the response has been that it takes too
+long to open each message to make such a decision.  If this
+message were broken down into smaller segments, as some would
+have it, that process would take even longer.
+
+CONTENTS
+
+The following is approximately 7 pages and addresses:
+
+1.  Elimination of access to Plain Vanilla ASCII files.
+
+2.  Pressure to speak in narrowly specified manners:
+
+    A.  Pressure not to speak at all.
+
+    B.  Pressure to speak in Sound-Bytes.
+
+    C.  Pressure to speak in "journal articles"
+
+    E.  Pressure not to address certain issues.
+
+    F.  Pressure not to address a wide audience.
+
+
+This note is being posted to a handful of lists, each of which
+have had at least a 3 to 1 ratio of people who have sent notes
+asking me to post there, as opposed to those who expressed the
+opposing point of view.  When that ratio drops to 50/50 I have
+decided to throw the idea of posting to the moderators of that
+list, rather than to continue posting directly.  This invites,
+if you will, the opposition to a "tyranny of the majority" but
+at least might have a chance to eliminate an invisible attempt
+to create a tyranny of a very small minority.
+
+This article has been rewritten many times, something I do not
+usually do even once. . .and some of my advisors have said the
+original was better than some of the edited versions.  However
+the original was too negative for me and I wanted to provide a
+more positive side of the coin to look at, so I have tried the
+process of projecting more of the positive side, rather than a
+more anti-negative approach. . .think about it. . .saying that
+"people should have an ENABLING POWER offered to them," is not
+equivalent to saying "people should NOT have a DISABLING POWER
+applied to them."  One extends a positive hand to everyone and
+the other extends a negative hand to the negative influences--
+I would prefer to be positive than anti-negative.
+
+Reversing these trends is not something one person should even
+try to do alone.  So. . .if you leave me alone, I will go away
+and not try this again for a long time.
+
+*I am not trying to take on the powers-that-be in a cause one*
+*person could not possibly hope to win, but I would regret it*
+*if I did not make the opportunity to speak at this time when*
+*the trends might be reversed so early in network life.*
+
+The only purpose here is to make these trends evident,
+the rest of you networkers will have to deal with them,
+but will hopefully have a better chance to see them now.
+Network trends are in motion that are withdrawing novice access
+to greater distances than before.  They are:
+
+1.  Increased distance between experts and novices.
+    Makes it harder for information to trickle down.
+    Create your own guru system, and when you find
+    out things from wizards and manuals, share them.
+
+2.  Storage of materials in compressed formats.
+    Makes is harder for novices to get information.
+    Teach each other how to uncompress files.
+    Encourage at least SOME posting of important
+    files in uncompressed formats.  Remind them
+    NOT ALL COMPUTERS SUPPORT ALL COMPRESSIONS.
+
+3.  Encoding of materials in markup formats.
+    Makes it harder for people to read information.
+    Insist on clear dissemination of information,
+    in addition to the marked-up formats.  Remind them
+    NOT ALL COMPUTERS SUPPORT ALL MARKUP FORMATS.
+
+
+4.  Pressure not to write to email discussion groups.
+    Makes it harder for people to share their thoughts.
+    Remind them:  THEY WERE NOVICES ONCE, TOO.
+
+5.  A lack of advice on what to do when things go wrong.
+    (Start right now to solve this one. . .when you find
+    new information about the systems, share it with the
+    people you know.  Often people think they don't know
+    enough to teach others but often the best teacher is
+    the person who just learned it.  When no one knows a
+    thing we all have to work together to find and share
+    the information.)  BE YOUR OWN GURUS WHEN YOU CAN!!!
+
+
+DEFINITIONS, CAUSES, and SOLUTIONS (send me yours)
+
+1.  Increased distance between experts and novices.
+
+The longer any system remains in place, the more potential for
+distance to grow between those who have been in the system the
+longest and the shortest.  (True of all systems, social, too.)
+
+Everyone enters the system as a novice, and then moves along a
+growth path.  When the system is new, everyone is a novice and
+there is little or no chance for disparities.  This is also in
+effect when there are massive system changes, and suddenly all
+are equal in terms of learning the newly changed elements.  No
+one knows anything at the beginning, so they all share, rather
+than trying to prove they know something others don't.
+
+New systems, by definition, are composed of equal members, the
+exception, of course, being those who designed the system.  As
+time goes on, and more new people enter the system, a veteran,
+expert or another class will appear, as distinct from a novice
+class (is continually replaced by new system members).  Novice
+members need more sharing of information than veterans but are
+less likely to. . .get your novices together to make what your
+efforts turn up get more mileage.  Share Information!
+
+Without much in the way of intention of effort, a growing gulf
+appears between the newest and oldest members of the systems.
+
+Systems grow: "by extending the number of important operations
+which we can perform without thinking about them."   Whitehead
+
+The wizards who perform actions without thinking about them at
+all are not going to be the best teachers. . .those who know a
+thing just well enough to remember how they learned it are, or
+those who truly practice the arts and sciences of teaching.
+
+[I think he also said something like "the only purpose schools
+have is to unite the experiences and knowledge of the old with
+the energy of the new."]
+
+When the veterans of the system optimize the system for expert
+skills they also make it optimized less and less for those who
+do not have those expert skills, without thinking about it.
+
+Of course, not all advancements require expert skills; example
+efforts of those who provide Archie, Gopher and other powerful
+but simple tools should be greatly appreciated.
+
+An example of experts requiring more than novice skills is:
+
+2.  Storage of materials in compressed formats.  [Example, now
+it now takes more skill to find and read Alice in Wonderland--
+than it did a year ago, or two years ago, or three years ago--
+not a great trend in network access.]
+
+A couple days ago I had a librarian come visit here to see the
+demonstrations we do of various network and workstations tools
+available.  One of the demonstrations we do is to search for a
+copy of Alice in Wonderland, one of the most widely ranging of
+the electronic books on the networks.  "archie -s alice" was a
+normal choice for the first search, and we were stunned to see
+dozens of compressed copies of Alice out there, but not one of
+the uncompressed versions had apparently survived some massive
+deletion during the past few months.  We emailed our guru, and
+reported this.  It turns out that Archie normally does not get
+results past 95 matches.  While this was being discovered, the
+searches we were doing finally found the one, single, solitary
+copy of Alice29.txt. . .and we found it was on a system we had
+already gotten results from in our first search.  We were sure
+we had found a major bug, since the file was there, but was no
+hit on the first search, which reported several zipped copies,
+on that very same site.
+
+After much of a to do, it was determined that Archie does this
+search in a non-linear manner, and doesn't find all the copies
+in one system at a time, and when it reaches the 95 matches it
+just stops in its tracks, thus leaving us with the impressions
+of a complete search of whatever sites were listed. . .kind of
+like a short person looking on library shelves and reporting--
+quite accurately--that they had not found the book they should
+have hoped to find, but that they found several others by that
+author on the shelf.
+
+Even with our new found power to modify Archie searches, these
+searches only ever turned up one text copy of Alice, even with
+multiple (sometimes five) compressed copies on one machine.  A
+set of probably unrelated events had resulted in the deletions
+of all the text files of Alice except one, within the reach of
+the Archie searches.
+
+The point is that compressed files are so mandatory these days
+that novices are not likely to find an uncompressed version of
+one of the most widely distributed etexts on the networks, and
+if they don't know how to uncompress it. . . .
+
+It is kind of a Catch-22. . .the expert knows enough to find a
+version of Alice29.txt, and they also know how to uncompress a
+compressed version, should they tire of looking. . .the novice
+doesn't know either way.
+
+A few months ago this demonstration would locate text files on
+many systems, because zip, tar and .Z files were not so much a
+totally overwhelming majority of files everywhere.  For people
+who were not yet familiar with compressed files, trying a read
+on these files gave them nothing but gobbledygook. . .but text
+files were easily available, so it was no big deal.
+
+Now the text file is all but extinct, while there are more and
+more files available to the more educated, and fewer and fewer
+to the novices, with so many more megabytes at cheaper prices,
+why are the text files vanishing?
+
+This is even [or should I say especially?] true of files of an
+interest to the novice such as Zen and the Art of the Internet
+and the NUSIRG guide, which are two of the most popular guides
+to the networks.  However, neither of them was etext available
+in a text file format until independent parties did the effort
+to convert them from "marked up" files to "Plain Vanilla ASCII
+Text" files during the past few months.  [Perhaps we should do
+one historical note here. . .only a few years ago there was no
+such thing as a .zip file. . .and they have already just about
+driven the .txt files into extinction, and novice access along
+with it.  [3.  Encoding of materials in markup formats.]
+
+
+4.  Pressure not to write to email discussion groups.
+
+Another limitation facing the novices is lack of encouragement
+to talk to those who are already veterans on the networks.
+
+I feel they should be encouraged, not discouraged, as follows:
+
+There are two ways in which one can show one's expertise:
+
+one is to share that expertise with those who don't have it in
+a manner to encourage them to move up from their present level
+. . .the other is just the opposite, keeping them from rising.
+
+Sometimes this is not as intentional as it might sound.
+
+As the distance from the novice level rises, it is a difficult
+thing to keep in touch with the novice, even if you try to.  I
+used to teach classes on computer-phobia, getting new users in
+the stream of things, and I found that after more than a dozen
+times I simply could not talk to them in the language required
+as I had reached Whitehead's level, doing things automatically
+so much that it was difficult to go out of automatic mode in a
+decreasingly successful effort to communicate with novices.  I
+finally gave up teaching this course several years ago.
+
+Therefore, I cast no aspersions at people who are in a similar
+position. . .but, I encourage them to try, and understand that
+this effort cannot continue forever, unless one happens to be
+truly gifted in the proper manner.
+
+At the same time, there ARE things we can do consciously to be
+more inviting of novices to join the networks. . .after all it
+is only one percent of the people who are already on the nets,
+and thus, from the current perspective, nearly everyone on the
+planet is yet to enter even the novice areas of networking.
+
+One of the things we can and should do, is make communications
+easier for the novices, to post materials in easily read files
+in easy to get at places.  It is totally astonishing how great
+a number of supposedly important postings are made so that the
+majority of the people are never going to read them. . .and it
+seems too prevalent not to consider the possibility that it is
+intentional by design. . .so that one may do a study or a poll
+and get responses only from the audience that one wished to be
+getting answer from.  In such a manner one could elect a Dewey
+when the majority preferred a Truman.
+
+[In the 1948 US Presidential election, all the polls showed an
+overwhelming majority for Dewey, even to the point at which an
+enterprising major newspaper printed "DEWEY WINS!" as a banner
+headline before the election returns were totally counted.  As
+it was the rural regions that carried the vote for Truman, the
+early returns showed the overwhelming expected majority and it
+was only when all the votes were counted that Truman won.  The
+polls were the first effort at telephone interviewing, and the
+pollsters neglected those who didn't have telephones, thus the
+Truman supporters never were reported in the polls, but were a
+victorious majority at the other (real) polls.]
+
+This is being done by posting RFC's [Requests for Comments] in
+formats that limit the respondents to those who can read SGML,
+NROFF, TROFF, PostScript, TEX, LATEX, in TAR, Z or ZIP format.
+
+Only a small minority of the network users are easily familiar
+with these formats in a sufficient manner to be comfortable in
+FTPing such files, decoding them onto screen or paper and then
+generating a sufficient response.
+
+This effectively silences the average person from responding--
+or even reading the questionnaire.
+
+Some people would like us to think that a majority is using an
+mark-up from the list above, but the truth is that not even an
+example can be found of one of those markups being used in the
+email traffic we see. . . .  Why not?  Because they know email
+readers will not be able to easily read such messages.  If .ps
+(PostScript) files were truly a standard, then we would see an
+entire fleet of messages sent in PostScript, same for the rest
+of them.  90% of the readers are not proper recipients for any
+marked-up kinds of files, hence they are not sent.
+
+With only one percent of the people on the networks now, and a
+very small minority (myself included, of course) speaking out,
+the potential exists for this very, very, very small minority,
+one percent of one percent, to establish trends which novices,
+even experts, of the future will regard as written in stone.
+
+I take this opportunity, which opportunity I hope will present
+itself to all networkers of the future, to encourage the other
+99% of the 1% and the other other 99% of the entire population
+to be heard, and to be heard in the manner they desire.
+
+There sometimes is a concerted effort to limit a participation
+on various listservers, either to the short "Sound-Byte" notes
+or to the longest variety of notes of the paper "Peer-Reviewed
+Journal" variety.
+
+. . .in either case the authors are limited to writing manners
+or styles not terribly effective to a majority of the people.
+
+"Sound Bytes" are cute, but don't really say enough to have an
+effect. . ."journal articles" are so formal that only smallest
+numbers of readers actually read. . .neither are effective for
+changing things.  Only when the message migrates to some media
+that allow in-between efforts at communication, does effective
+and influential communication occur.
+
+What we need is the freedom to write short, medium or long; so
+encouragement for in-between lengths and formalities should be
+included rather than excluded.  More alternatives, not less.
+
+Now that the first of the electronic journals is being printed
+by a major scholarly publisher, the schism between the "Sound-
+Byte" notes and the "Peer-Reviewed Journal Article" notes is a
+potential major factor in the future of list oriented email.
+
+If we only allow "Sound-Bytes" or "Journal Articles" we are to
+lose the entire range in between, and personally, I don't feel
+either "Sound-Bytes" or "Journal Articles" are the major types
+of notes that can have maximal effectiveness. . .and who wants
+to read, or write, ineffective notes, or to be limited to long
+and short, but see nothing of a more moderate length?
+
+
+5.  A lack of advice on what to do when things go wrong.
+
+Wizards and gurus often have many accounts on many computers--
+which yield a wider variety of alternatives.  When efforts are
+failing on one system, it is easy for them to switch over from
+that system to other systems, something they do regularly, but
+something those with less expertise, who have greater need for
+alternatives, are never told.
+
+Everyday usage of programs such as ZIP, FTP, TELNET, etc. have
+various methods and rates of success on different computers, a
+fact the experts know all too well, but which the novices have
+no idea about.  So many times when FTP or TELNET fails to make
+a successful connection, the expert merely switches to another
+computer account and tries it from there, as each FTP, TELNET,
+or other program operates slightly differently in hardware and
+software combinations which are slightly different.  Ofttimes,
+and more often then you might think, this effort is successful
+in performing tasks easily on one computer that might not work
+at all on another computer.  Last night was a perfect example:
+I got so much email that my mainframe disk was overloaded, and
+I had to copy a bunch of it here to make room sooner than I am
+usually prepared for. . .however, the transfers kept crashing.
+The solution was to send my mail to another mainframe and then
+to transfer them from there.  Someone who is not fluent with a
+variety of processes and accounts is not going to have this as
+a viable alternative, and they are going to panic when message
+after message appears telling them there was an error when the
+logoff sequence they usually use fail due to disk overload.
+
+The same is true for allowing access to various modem numbers,
+connections methods, etc., which the experts know to use, when
+things have failed on one connection, and alternatives are the
+order of the day.  All of you are probably already, or soon to
+be, aware that your computers and connections are not totally,
+completely reliable. . .often closer to 90% than to 100% . . .
+however, alternative methods are not well publicized.
+
+Please find and help others to find alternative methods.
+
+
+SUMMARY
+
+The networks are truly still in their infancy, but people feel
+they are already cast in stone.  This is an effort in avoiding
+casting so many items in stone that the future of the networks
+could be socially limited by the actions we are taking today--
+even. . .or especially when the networks are more capable of a
+support system for the average person. . .but when support may
+be reserved for those with higher levels of expertise.
+
+Will "Network Drivers' Licenses" be used to keep new users off
+the nets, or could they be used to insure they have methods of
+instruction provided to them?  [Will the instruction be enough
+to ENABLE them to really use the networks?  Or might it be the
+tool some people want to keep them out of their hair?]
+
+The actions we take to today should be those of "ENABLING" the
+new members of the network community, not those of "DISABLING"
+them from various alternatives that might have been present in
+the past, present or future.
+
+Why is it harder to find a text file of Alice in Wonderland in
+the present day networks, with the aid of Archie, than a while
+back, without Archie?
+
+The networks are capable of storing more, transferring it more
+quickly, and making things easier all around. . .then why does
+it seem more difficult?
+
+
+      If You Don't Defend the Networks, Who Will?
+
+
+
+
+=====================================================
+
+Thank you for your interest,
+
+Michael S. Hart, Professor of Electronic Text
+Executive Director of Project Gutenberg Etext
+Illinois Benedictine College, Lisle, IL 60532
+No official connection to U of Illinois--UIUC
+hart @uiucvmd.bitnet or hart@vmd.cso.uiuc.edu
+
+COPYRIGHT 1992 PROF. MICHAEL S. HART, ALL RIGHTS RESERVED
+THIS MESSAGE MAY NOT BE COPIED WITHOUT WRITTEN PERMISSION
+PERMISSION EASILY AVAILABLE UPON REQUEST TO THIS ADDRESS.
+
+
+

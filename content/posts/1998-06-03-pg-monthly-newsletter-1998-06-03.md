@@ -1,0 +1,265 @@
+---
+params:
+  id: 1772
+title: PG Monthly Newsletter (1998-06-03)
+date: 1998-06-03T18:08:47+00:00
+author: Michael Cook
+layout: post
+url: /19980603/pg-monthly-newsletter-1998-06-03/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: June Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: Michael Hart &lt;hart@pobox.com&gt;
+Date: Wed, 3 Jun 1998 13:47:20 -0500 (CDT)
+
+This is the Project Gutenberg Newsletter for June, 1998
+
+We have now completed 14% of our 10,000 Etext goal. . .
+and selected Great Expectations as #1400, Anna Karenina
+as #1399, and Tarzan the Untamed as #1401, hopefully we
+will always have something for everyone to read.
+
+
+We lost touch with our volunteer at the Library of Congress,
+if anyone can put us in touch with a friend there, thanks!!!
+
+
+Dianne Bean will away from her email until June 22; please hold your mail
+til then. If you need to send a completed etext, send it to Michael Hart.
+
+
+Geof Pawlicki has purchased a set of O Henry, as below.  If you would
+like any of these to work on and/or to keep, all you have to do is to
+pay the shipping.  [geof@netcom.com]
+
+These are mostly collections titled after one story in the collection.
+
+The Whirligigs
+Cabbages and Kings
+The Trimmed Lamp
+Sixes and Sevens
+Options
+Rolling Stones
+Strictly Business
+Heart of the West
+The Voice of the City
+The Four Million
+Roads of Destiny
+
+***
+
+Here are the 36 July Etexts for 1998.  The Federalist Papers tops the list to
+commemorate the 27th Anniversary of the first Project Gutenberg Etext, the US
+Declaration of Independence.  Since we are currently two months ahead of this
+year's schedule, we are posting most of these books in June, so they would be
+currently arriving at the best time for people to include them in some of the
+4th of July celebrations, and also Bastille Day.  Therefore the month of June
+will primarily be filled with "History of Democracy" Etexts, as was our first
+10 years at Project Gutenberg.  We hope you will find them enlightening.
+
+These Etexts are from  http://www.constitution.org/liberlib.htm
+Our Thanks to The Constitution Society for Providing This Etext!
+
+
+Mon Year    Title and Author                               [filename.ext]####
+
+Jul 1998 The Federalist Papers, by Hamilton, Jay & Madison [federxxx.xxx]1404
+Jul 1998 A Start in Life, by Honore de Balzac  [Balzac #25][stlifxxx.xxx]1403
+Jul 1998 Where the Blue Begins, by Christopher Morley      [wtbbgxxx.xxx]1402
+Jul 1998 Tarzan the Untamed, by Edgar Rice Burroughs[TARZ7][tarz7xxx.xxx]1401
+
+Jul 1998 Great Expectations, by Charles Dickens[Dickens#38][grexpxxx.xxx]1400
+Jul 1998 Anna Karenina, by Leo Tolstoy/Tolstoi [Tolstoy #5][nkrnnxxx.xxx]1399
+Jul 1998 Dore Lectures on Mental Science, by Thomas Troward[dorelxxx.xxx]1398
+Jul 1998 The Ruins by C. F. [Constantin Francois de] Volney[ruinsxxx.xxx]1397
+
+Jul 1998 Rienzi, last of the Roman Tribunes, by E. B.Lytton[rienzxxx.xxx]1396
+Jul 1998 Letters on Literature, by Andrew Lang   [Lang #8] [ltlitxxx.xxx]1395
+Jul 1998 The Holly-Tree, by Charles Dickens  [Dickens #37] [hlytrxxx.xxx]1394
+Jul 1998 Amours de Voyage, by Arthur Hugh Clough           [mrvygxxx.xxx]1393
+
+Jul 1998 The Seven Poor Travellers, by Charles Dickens[#36][svprtxxx.xxx]1392
+Jul 1998 Penelope's Irish Experiences by Kate D. Wiggin[#7][pnliexxx.xxx]1391
+Jul 1998 The Jimmyjohn Boss and Other Stories by Wister    [jmyjnxxx.xxx]1390
+Jul 1998 Gobseck, by Honore de Balzac[Honore de Balzac #24][gbsekxxx.xxx]1389
+
+Jul 1998 Padre Ignacio, by Owen Wister   [Owen Wister #7]  [igncoxxx.xxx]1388
+Jul 1998 Mother, by Owen Wister          [Owen Wister #6]  [mothrxxx.xxx]1387
+Jul 1998 Lady Baltimore, by Owen Wister  [Owen Wister #5]  [lbaltxxx.xxx]1386
+Jul 1998 Lin McLean, by Owen Wister      [Owen Wister #4]  [lmclnxxx.xxx]1385
+
+Jul 1998 The Ayrshire Legatees, by John Galt [John Galt #3][ayrlgxxx.xxx]1384
+Jul 1998 Poems by George Meredith - Volume 3 [Meredith #5] [pmgm3xxx.xxx]1383
+Jul 1998 Poems by George Meredith - Volume 2 [Meredith #4] [pmgm2xxx.xxx]1382
+Jul 1998 Poems by George Meredith - Volume 1 [Meredith #3] [pmgm1xxx.xxx]1381
+
+Jul 1998 The Two Brothers, by Honore de Balzac [Balzac #23][brthrxxx.xxx]1380
+Jul 1998 A Straight Deal, by Owen Wister  [Owen Wister #3] [strdlxxx.xxx]1379
+Jul 1998 The Land of Footprints, by Stewart Edward White #3[fprntxxx.xxx]1378
+Jul 1998 The Talisman, by Walter Scott[Sir Walter Scott #3][tlsmnxxx.xxx]1377
+
+Jul 1998 The Little White Bird, by J.M. Barrie  [Barrie #4][tlwbdxxx.xxx]1376
+Jul 1998 New Chronicles of Rebecca by Kate Douglas Wiggin 7[tncorxxx.xxx]1375
+Jul 1998 Vendetta, by Honore de Balzac[Honore de Balzac#22][vndtaxxx.xxx]1374
+Jul 1998 Study of a Woman, by Honore de Balzac [Balzac #21][sowmnxxx.xxx]1373
+
+Jul 1998 The Adventures of Captain Bonneville, by Irving #4[taocbxxx.xxx]1372
+Jul 1998 Astoria, by Washinton Irving[Washington Irving #3][striaxxx.xxx]1371
+Jul 1998 Autobiography of Andrew Dickson White  Volume II  [2aadwxxx.xxx[1370
+Jul 1998 Paz, by Honore de Balzac, #20 by Honore de Balzac [pzhdbxxx.xxx]1369
+
+and here are the first 8 we have scheduled for August:
+
+Mon Year    Title and Author                               [filename.ext]####
+
+Aug 1998 Masterman Ready, by Captain Marryat   [Marryat #1][mmrdyxxx.xxx]1412
+Aug 1998 Domestic Peace by Honore de Balzac [de Balzac #28][dmspcxxx.xxx]1411
+Aug 1998 The Commission in Lunacy by Honore de Balzac [#27][lunacxxx.xxx]1410
+Aug 1998 The Soul of the Far East, by Percival Lowell  [#1][sofrexxx.xxx]1409
+4
+Aug 1998 The Natural History of Selborne, by Gilbert White [tnhosxxx.xxx]1408
+Aug 1998 A Message From the Sea by Charles Dickens [CD #39][amftsxxx.xxx]1407
+Aug 1998 Perils of Certain English Prisoners by Dickens #38[pocepxxx.xxx]1406
+Aug 1998 The Collection of Antiquities, by Balzac [HDB #26][clntqxxx.xxx]1405
+
+&gt;From Edupage:
+
+SENATE PASSES ONLINE COPYRIGHT EXTENSION
+The Senate unanimously approved the Digital Millennium Copyright Act, which
+offers the same protection to online computer software, music, movies and
+written works that they enjoy in more tangible form.  In a key provision,
+the legislation exempts libraries and online services from prosecution for
+copyright violations committed by patrons and customers.  Individuals who
+violate copyrights for financial gain will be liable for $1 million in fines
+and up to 10 years in prison.  (Wall Street Journal 15 May 98)
+
+INTERNET GROWTH
+A study by the U.S. Commerce Department ( http://ecommerce.gov/ ) says that
+traffic on the Internet is doubling every hundred days and predicts that
+electronic commerce will grow to $300 billion a year by 2002.  (USA Today 16
+Apr 96)  [So. . .anyone who says they can make the Internet 100 time faster,
+will have to deal with the fact that traffice with double as fast as they do
+any doubling of the speed.  Don't expect any real speedups.    Michael Hart]
+
+[Note Well:  This means traffice is multiplying by 10 every year. . . .
+When you listen to those people promising to make the Internet run 100
+time faster in 10 years, ask them if the Internet won't be slowing down
+because they aren't proposing increasing the speed as fast as traffic.
+None of them are saying they could possibly make the Internet handle
+100 times more traffic every year. . . .  This is smoke and mirrors.
+
+ECONOMIST PREDICTS Y2K PROBLEM WILL CAUSE RECESSION
+In an op-ed piece, Edward Yardeni, chief economist and managing director of
+Deutsche Morgan Grenfell says that problems arising from the Year 2000
+computer glitch could cause a major recession, as businesses fail and
+government agencies become incapable of delivering basic services, including
+tax collection, welfare payments, national defense and air traffic control:
+"The likely recession could be at least as bad as the one during 1973-74,
+which was caused mostly by a disruption in the supply of oil.  Information,
+stored and manipulated by computers, is as vital as oil for running modern
+economies.  If information is harder to obtain, markets will allocate and
+use resources inefficiently.  Market participants will be forced to spend
+more time and money obtaining information that was previously available at
+little or no cost...  Furthermore, a 2000 recession is bound to be
+deflationary.  The U.S. may experience a $1 trillion drop in nominal GDP and
+a $1 trillion loss in stock market capitalization."  (Wall Street Journal 4
+May 98)  [and you heard it here first, years ago. . .mh]
+
+NEW DOS IS YEAR 2000-COMPLIANT
+IBM has launched a new PC DOS 2000 that automatically corrects the two-digit
+dates that threaten to befuddle older computer systems, and also supports
+the European Monetary Union's new euro currency symbol -- a management
+problem that could prove even more troublesome for European businesses than
+the Y2K problem.  According to recent research, there are between 120
+million and 150 million people who still use DOS on their desktop machines.
+"We believe about half of those are business users," says a manager at IBM's
+Network Computing Software division.  That figure doesn't include users of
+Microsoft Windows 3.1, which includes DOS as a component.  (InternetWeek 27
+May 98)
+
+Edupage ... is what you've just finished reading excerpts of--
+to subscribe to Edupage: send mail to: listproc@educom.unc.edu
+with the message:           subscribe edupage Susan B. Anthony
+(if your name is Susan B. Anthony; otherwise use your own name
+To unsubscribe send a message to:      listproc@educom.unc.edu
+with the message: unsubscribe edupage.   If you have problems,
+send email to manager@educom.unc.edu.)   "I love Edupage."  mh
+Edupage is written by John Gehl (gehl@educom.edu), and Suzanne
+Douglas (douglas@educom.edu).     USA Telephone:  770-590-1017
+
+http://www.educom.edu/web/pubs/pubHomeFrame.html
+
+Edupage is supported by Educom
+
+***
+
+This concludes the June Project Gutengberg Newsletter. . . .
+
+Thanks so much for your continuing support!
+
+Michael
+
+***
+
+You can subscribe or unsubscribe by yourself to the listservers we
+have running. . .if you are trying to unsubscribe, please be aware
+that MANY different listservers relay the newsletters from Project
+Gutenberg and Ask Dr. Internet, and that it is quite likely you do
+not receive our newsletters directly from our listservers.  In any
+case of that nature, you would have to deal with the listserver in
+question, presuming you still wanted to unsubscribe in that case.
+
+There are TWO Project Gutenberg Lists. . .volunteers will also want
+to subscribe to the "gutvol-l" list AND the "gutnberg" list, simply
+by including a second line with "gutvol-l" in place of "gutnberg."
+[That is an "-L" after "gutvol" for the Volunteer's Listserver.]
+
+
+To SUBSCRIBE to the Project Gutenberg mailing list, "gutnberg" please
+send an email message to: listproc@listserv.oit.unc.edu
+
+The subject line of the message will be ignored.  The body of the
+message should contain the text:
+
+	subscribe gutnberg Your True Name
+
+So, if your name were Dudley P. Duck, your message would contain:
+
+	subscribe gutnberg Dudley P. Duck
+
+You do not need to include your email address, because Listprocessor
+gets it from the header of your email message.
+
+Beware that the address must be "listproc@listserv.oit.unc.edu" You
+can't address your message to an address like "listserv" or "listprocessor"
+or "majordom"
+
+To UNSUBSCRIBE, just send this message to "listproc@listserv.oit.unc.edu"
+
+	unsubscribe gutnberg
+
+If you are having trouble with the list, send a message to
+"owner-gutnberg@listserv.oit.unc.edu" and your message will be routed
+to the person who manages the list.
+
+
+Thanks!!
+
+Michael S. Hart
+[hart@pobox.com]
+Project Gutenberg
+Executive Director
+Internet User ~#100
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1998_06_03.txt" target="_blank" rel="nofollow">pgmonthly_1998_06_03.txt</a>

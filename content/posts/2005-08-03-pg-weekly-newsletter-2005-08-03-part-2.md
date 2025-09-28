@@ -1,0 +1,453 @@
+---
+params:
+  id: 2280
+title: "PG Weekly Newsletter: Part 2 (2005-08-03)"
+date: 2005-08-03T14:28:03+00:00
+author: Michael Cook
+layout: post
+url: /20050803/pg-weekly-newsletter-2005-08-03-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Thu Aug  4 09:40:31 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Aug  4 09:40:33 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0508040929480.16654@pglaf.org&gt;
+
+GWeekly_August_03_part2.txt
+
+The Project Gutenberg Weekly Newsletter 03 Aug 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 56 New U.S. eBooks this week
+    - 3 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 03 Aug 2005: 16842 (incl. 466 Aus.).
+
+Last week the Total Count was 16783, including 463 at PG of Australia.
+This week we added 59 new.
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+   None
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct author's last name (Child, not Childs):
+Duty of Disobedience to the Fugitive Slave Act, by Lydia Maria Child     13989
+   [Subtitle: Anti-Slavery Tracts No. 9, An Appeal To The Legislators Of
+    Massachusetts]
+
+-=-=-=-=[  56 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Olden Time Series, Vol. 5: Some Strange and Curious Punishments, Brooks  16419
+   [Full author: Henry M. Brooks]
+   [Subtitle: Gleanings Chiefly from Old Newspapers]
+   [of Boston and Salem, Massachusetts]
+   [Link: http://www.gutenberg.org/1/6/4/1/16419 ]
+   [Files: 16419.txt; 16419-8.txt; 16419-h.htm]
+
+What Great Men Have Said About Women, by Various                         16418
+   [Subtitle: Ten Cent Pocket Series No. 77]
+   [Editor: Marcet Haldeman-Julius]
+   [Link: http://www.gutenberg.org/1/6/4/1/16418 ]
+   [Files: 16418.txt; 16418-8.txt; 16418-h.htm]
+
+Spadacrene Anglica, by Edmund Deane                                      16417
+   [Subtitle: The English Spa Fountain]
+   [Intro.: James Rutherford] [Biographical Notes by Alex. Butler]
+   (Note: The First Work on the Waters of Harrogate)
+   [Link: http://www.gutenberg.org/1/6/4/1/16417 ]
+   [Files: 16417.txt; 16417-8.txt; 16417-0.txt; 16417-h.htm]
+
+Essay Toward a History of Shakespeare in Norway, by Martin Brown Ruud    16416
+   [Link: http://www.gutenberg.org/1/6/4/1/16416 ]
+   [Files: 16416.txt; 16416-8.txt; 16416-h.htm]
+
+Tales from Many Sources, Vol. V,  by Various                             16415
+   [Link: http://www.gutenberg.org/1/6/4/1/16415 ]
+   [Files: 16415.txt; 16415-8.txt; 16415-h.htm]
+
+Quincy Adams Sawyer and Mason's Corner Folks, by Charles Felton Pidgin   16414
+   [Subtitle: A Picture of New England Home Life]
+   [Link: http://www.gutenberg.org/1/6/4/1/16414 ]
+   [Files: 16414.txt; 16414-h.htm]
+
+Arroz y tartana, by Vicente Blasco (Ibez) Ibanez                       16413
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/6/4/1/16413 ]
+   [Files: 16413-8.txt; 16413-h.htm; 16413-page-images]
+
+A Study of Shakespeare, by Algernon Charles Swinburne                    16412
+   [Editor: Edmund Gosse]
+   [Link: http://www.gutenberg.org/1/6/4/1/16412 ]
+   [Files: 16412.txt; 16412-h.htm]
+
+Kahleeton vanki, by Heikki Merilinen                                    16411
+   [Subtitle: Elmkerrallinen kuvaus]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/4/1/16411 ]
+   [Files: 16411-8.txt]
+
+The Life-Story of Insects, by Geo. H. Carpenter                          16410
+   [Link: http://www.gutenberg.org/1/6/4/1/16410 ]
+   [Files: 16410.txt; 16410-8.txt; 16410-h.htm]
+
+Notes and Queries, Number 20, March 16, 1850, by Various                 16409
+   [Link: http://www.gutenberg.org/1/6/4/0/16409 ]
+   [Files: 16409.txt; 16409-8.txt; 16409-h.htm]
+
+The Grey Wig: Stories and Novelettes, by Israel Zangwill                 16408
+   Contents:
+     The Grey Wig
+     Chass-Crois
+     The Woman Beater
+     The Eternal Feminine
+     The Silent Sisters
+     The Big Bow Mystery
+     Merely Mary Ann
+     The Serio-Comic Governess
+   [Link: http://www.gutenberg.org/1/6/4/0/16408 ]
+   [Files: 16408.txt; 16408-8.txt; 16408-h.htm; ]
+
+Under the Dragon Flag, by James Allan                                    16407
+   [Subtitle: My Experiences in the Chino-Japanese War]
+   [Link: http://www.gutenberg.org/1/6/4/0/16407 ]
+   [Files: 16407.txt; 16407-8.txt; 16407-h.htm; ]
+
+An Introduction to Philosophy, by George Stuart Fullerton                16406
+   [Link: http://www.gutenberg.org/1/6/4/0/16406 ]
+   [Files: 16406.txt; 16406-8.txt; ]
+
+Stories of Mystery, by Various                                           16405
+   [Subtitle: The Ghost, by William D. O'Connor; The Four-Fifteen Express,]
+   [by Amelia B. Edwards; The Signal-Man, by Charles Dickens;]
+   [The Haunted Ships, by Allan Cunningham; A Raft That No Man]
+   [Made, by Robert T.S. Lowell; The Invisible Princess, by]
+   [Francis O'Connor; The Advocate's Wedding-Day, by Catherine]
+   [Crowe; The Birthmark, by Nathaniel Hawthorne]
+   [Editor: Rossiter Johnson]
+   Contents:
+     The Ghost, William D. O'Connor
+     The Four-Fifteen Express, Amelia B. Edwards
+     The Signal-Man, Charles Dickens
+     The Haunted Ships, Allan Cunningham
+     A Raft That No Man Made, Robert T.S. Lowell
+     The Invisible Princess, Francis O'Connor
+     The Advocate's Wedding-Day, Catherine Crowe
+     The Birthmark, Nathaniel Hawthorne
+   [Link: http://www.gutenberg.org/1/6/4/0/16405 ]
+   [Files: 16405.txt]
+
+Notes and Queries, Issue No. 61, December 28, 1850, by Various           16404
+   [Subtitle: A Medium Of Inter-Communication For Literary Men, Artists,]
+   [Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.org/1/6/4/0/16404 ]
+   [Files: 16404.txt; 16404-8.txt; 16404-h.htm]
+
+Led Astray and The Sphinx, by Octave Feuillet                            16403
+   [Subtitle: Two Novellas In One Volume]
+   [Link: http://www.gutenberg.org/1/6/4/0/16403 ]
+   [Files: 16403.txt; 16403-8.txt; 16403-h.htm]
+
+The  Works  Of  John Dryden, Vol. 7 (of 18), ed. by Walter Scott         16402
+   [Subtitle: The Duke of Guise; Albion and Albanius; Don Sebastian]
+   [Link: http://www.gutenberg.org/1/6/4/0/16402 ]
+   [Files: 16402.txt; 16402-8.txt; 16402-h.htm]
+
+Punch, Vol. 158, February 18th, 1920, ed. by Sir Owen Seaman             16401
+   [Link: http://www.gutenberg.org/1/6/4/0/16401 ]
+   [Files: 16401.txt; 16401-8.txt; 16401-h.htm]
+
+Libris Grammaticis, by M. Terentius Varro                                16400
+   [Editor: Augustus Wilmanns]
+   [Language: Latin]
+   [Link: http://www.gutenberg.org/1/6/4/0/16400 ]
+   [Files: 16400.txt; 16400-8.txt; 16400-0.txt; 16400-h.htm]
+
+A Winter Tour in South Africa, by Frederick Young                        16399
+   [Link: http://www.gutenberg.org/1/6/3/9/16399 ]
+   [Files: 16399.txt; 16399-8.txt; 16399-h.htm; ]
+
+What Necessity Knows, by Lily Dougall                                    16398
+   [Link: http://www.gutenberg.org/1/6/3/9/16398 ]
+   [Files: 16398.txt; 16398-8.txt; ]
+
+Larry Dexter's Great Search, by Howard R. Garis                          16397
+   [Subtitle: or, The Hunt for the Missing Millionaire]
+   [Link: http://www.gutenberg.org/1/6/3/9/16397 ]
+   [Files: 16397.txt; 16397-8.txt; 16397-h.htm; ]
+
+A Conspiracy of the Carbonari, by Louise Mhlbach                        16396
+   [Translator: Mary J. Safford]
+   [Link: http://www.gutenberg.org/1/6/3/9/16396 ]
+   [Files: 16396.txt; 16396-8.txt; 16396-h.htm]
+
+Runoelmia, by Kaarlo Kramsu                                              16395
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/9/16395 ]
+   [Files: 16395-8.txt]
+
+Punch, Vol. 158, February 11, 1920, ed. by Sir Owen Seaman               16394
+   [Link: http://www.gutenberg.org/1/6/3/9/16394 ]
+   [Files: 16394.txt; 16394-8.txt; 16394-h.htm]
+
+Tuomo sedn tupa, by Harriet Beecher Stowe                               16393
+   [Editor: Maikki Friberg]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/9/16393 ]
+   [Files: 16393-8.txt; 16393-h.htm]
+
+Set Tuomon tupa, by Harriet Beecher Stowe                               16392
+   [Editor: A. H. Fogowitz]
+   [Translator: Aatto S.]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/9/16392 ]
+   [Files: 16392-8.txt]
+
+Vanhan pivkirjan lehti, by Berta Edelfelt                             16391
+   [Subtitle: Episodi J. L. Runebergin elmst]
+   [Commentator: Werner Sderhjelm]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/9/16391 ]
+   [Files: 16391-8.txt; 16391-h.htm]
+
+Little Prudy's Dotty Dimple, by Sophie May                               16390
+   [Link: http://www.gutenberg.org/1/6/3/9/16390 ]
+   [Files: 16390.txt; 16390-h.htm]
+
+The Enchanted April, by Elizabeth von Arnim                              16389
+   [Link: http://www.gutenberg.org/1/6/3/8/16389 ]
+   [Files: 16389.txt; 16389-8.txt; ]
+
+Bulletin de Lille, Dec. 1915, by Anonymous                               16388
+   [Subtitle: Publi sous le contrle de l'aurit allemande]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/3/8/16388 ]
+   [Files: 16388-8.txt; 16388-h.htm]
+
+History of Rome, by William C. Taylor                                    16387
+   [Link: http://www.gutenberg.org/1/6/3/8/16387 ]
+   [Files: 16387.txt; 16387-8.txt; 16387-h.htm]
+
+Juan Tamad, by Anonymous                                                 16386
+   [Title: Bhay na Pinagdaanan ni Juan Tamad na Anac ni Fabio at ni Sofia]
+   [Subtitle: Sa Caharian nang Portugal, na Hinango sa Novela]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/1/6/3/8/16386 ]
+   [Files: 16386-8.txt; 16386-h.htm]
+
+Obras poticas, by Nicolau Tolentino                                     16385
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/6/3/8/16385 ]
+   [Files: 16385-8.txt]
+
+O Mandarim, by Ea Queirs                                               16384
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/6/3/8/16384 ]
+   [Files: 16384-8.txt]
+
+Dotty Dimple Out West, by Sophie May                                     16383
+   [Link: http://www.gutenberg.org/1/6/3/8/16383 ]
+   [Files: 16383.txt; 16383-8.txt; 16383-h.htm]
+
+In Clive's Command, by Herbert Strang                                    16382
+   [Subtitle: A Story of the Fight for India]
+   [Link: http://www.gutenberg.org/1/6/3/8/16382 ]
+   [Files: 16382.txt; 16382-h.htm; ]
+
+The Summons, by A.E.W. Mason                                             16381
+   [Link: http://www.gutenberg.org/1/6/3/8/16381 ]
+   [Files: 16381.txt; 16381-8.txt; 16381-h.htm]
+
+The Odds, by Ethel M. Dell                                               16380
+   [Subtitle: And Other Stories]
+   [Link: http://www.gutenberg.org/1/6/3/8/16380 ]
+   [Files: 16380.txt; 16380-8.txt; 16380-h.htm]
+
+Children's Classics in Dramatic Form, Book Two, by Augusta Stevenson     16379
+   [Link: http://www.gutenberg.org/1/6/3/7/16379 ]
+   [Files: 16379.txt; 16379-8.txt; 16379-h.htm]
+
+The Art of Perfumery, by G. W. Septimus Piesse                           16378
+   [Subtitle: And Methods of Obtaining the Odors of Plants]
+   [Link: http://www.gutenberg.org/1/6/3/7/16378 ]
+   [Files: 16378.txt; 16378-8.txt; 16378-h.htm]
+
+The Blue Book of Chess, by Howard Staunton and "Modern Authorities"      16377
+   [Subtitle: Teaching the Rudiments of the Game, and Giving an Analysis]
+   [of All the Recognized Openings]
+   [Link: http://www.gutenberg.org/1/6/3/7/16377 ]
+   [Files: 16377.txt; 16377-h.htm]
+
+Browning's Shorter Poems, by Robert Browning                             16376
+   [Editor: Franklin T. Baker]
+   [Link: http://www.gutenberg.org/1/6/3/7/16376 ]
+   [Files: 16376.txt; 16376-8.txt; 16376-h.htm]
+
+The King's Achievement, by Robert Hugh Benson                            16375
+   [Link: http://www.gutenberg.org/1/6/3/7/16375 ]
+   [Files: 16375.txt; 16375-8.txt]
+
+Kuppari-Maija, by Heikki Merilinen                                      16374
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/7/16374 ]
+   [Files: 16374-8.txt]
+
+Mrs. Red Pepper, by Grace S. Richmond                                    16373
+   [Link: http://www.gutenberg.org/1/6/3/7/16373 ]
+   [Files: 16373.txt; 16373-8.txt; 16373-h.htm]
+
+Fortuna, by Enrique Perez Escrich                                        16372
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/6/3/7/16372 ]
+   [Files: 16372-8.txt; 16372-h.htm]
+
+Bluebell, by Mrs. George Croft Huddleston                                16371
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/6/3/7/16371 ]
+   [Files: 16371.txt; 16371-8.txt; 16371-h.htm]
+
+Lameness of the Horse, by John Victor Lacroix                            16370
+   [Subtitle: Veterinary Practitioners' Series, No. 1]
+   [Link: http://www.gutenberg.org/1/6/3/7/16370 ]
+   [Files: 16370.txt; 16370-8.txt; 16370-h.htm; ]
+
+Fishing with a Worm, by Bliss Perry                                      16369
+   [Link: http://www.gutenberg.org/1/6/3/6/16369 ]
+   [Files: 16369.txt; 16369-h.htm; ]
+
+The White Ladies of Worcester, by Florence L. Barclay                    16368
+   [Subtitle: A Romance of the Twelfth Century]
+   [Link: http://www.gutenberg.org/1/6/3/6/16368 ]
+   [Files: 16368.txt; 16368-8.txt]
+
+Watch--Work--Wait, by Sarah A. Myers                                     16367
+   [Subtitle: Or, The Orphan's Victory]
+   [Link: http://www.gutenberg.org/1/6/3/6/16367 ]
+   [Files: 16367.txt; 16367-8.txt; 16367-h.htm]
+
+The Workingman's Paradise, by John Miller                                16366
+   [Subtitle: An Australian Labour Novel]
+   [Link: http://www.gutenberg.org/1/6/3/6/16366 ]
+   [Files: 16366.txt; 16366-8.txt]
+
+Liika viisas, by Maiju Lassila                                           16365
+   [Subtitle: Viisaudenkirja eli kertomus Sakari Kolistajasta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/6/16365 ]
+   [Files: 16365-8.txt]
+
+Punch, Vol. 158, March 10th, 1920, ed. by Sir Owen Seaman                16364
+   [Link: http://www.gutenberg.org/1/6/3/6/16364 ]
+   [Files: 16364.txt; 16364-8.txt; 16364-h.htm]
+
+
+-=-=-=-=[ 3 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Aug 2005 Giants in the Earth, by O E Rolvaag               [050071xx.xxx] 0466A
+
+Aug 2005 Basic French for Canadian Schools, by Anonymous   [050070xx.xxx] 0465A
+Aug 2005 Doreen, by C J Dennis                             [050069xx.xxx] 0464A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_08_03_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_08_03_part_2.txt</a>

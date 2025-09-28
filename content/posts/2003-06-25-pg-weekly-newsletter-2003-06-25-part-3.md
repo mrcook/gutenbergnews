@@ -1,0 +1,251 @@
+---
+params:
+  id: 2010
+title: "PG Weekly Newsletter: Part 3 (2003-06-25)"
+date: 2003-06-25T13:14:42+00:00
+author: Michael Cook
+layout: post
+url: /20030625/pg-weekly-newsletter-2003-06-25-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 25th June 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 25 Jun 2003:   8,352 (incl. 241 Aus.).
+
+Last week the Total Count was 8,221, including 239 at PG of Australia.
+This week we added 52 new (incl. 2 at PG of Australia).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following have been posted in new formats as indicated:
+Mar 1998 Cyrano de Bergerac by Edmond Rostand [In English] [cdbenxxx.xxx]1254
+[HTML in cdben10h.htm/.zip]
+Sep 1997 Within The Tides, by Joseph Conrad  [Conrad #14]  [wthntxxx.xxx]1053
+[Text in wthnt10.txt/.zip, XHTML in wthnt10h.htm/.zip]
+Sep 1997 A Reading of Life, Other Poems, by George Meredith[rdlifxxx.xxx]1042
+[Text in rdlif10.txt/.zip, XHTML in rdlif10h.htm]
+
+The following has been re-posted in an updated 11th Edition, and in a new
+format as indicated:
+Feb 1998 Gargantua and Pantagruel, by Francis Rabelais     [ggpntxxx.xxx]1200
+[Illustrated HTML in ggpnt11h.zip (8 mb)]
+[Illustrator: Gustave Dore]
+(See also new HTML files of each individual book #'s8166-8170,
+  averaging 2.5mb)
+
+The following has been re-posted in an improved 12th Edition:
+Apr 2001 Indian Summer of a Forsyte, by John Galsworthy[#5][isoafxxx.xxx]2594
+   Contains:
+     Indian Summer of a Forsyte
+     In Chancery
+[This is Volume 2 of the Forsyte Saga, also see: #2559 & #2596]
+
+The following have been re-posted in an updated 11th Edition:
+Aug 2003 The Forsyte Saga, complete, by Galsworthy  [JG#38][fsagaxxx.xxx]4397
+[Author:  John Galsworthy]
+(This file is a compilation of #2596 Awakening & To Let, and #2594 Indian
+  Summer of a Forsyte, and #2559 Man of Property)
+
+The following are being re-indexed to include subtitles:
+May 2005 Glimpses of an Unfamiliar Japan,Lafcadio Hearn[#7][?glm2xxx.xxx]8133
+[Subtitle: Second Series]
+May 2005 Glimpses of an Unfamiliar Japan,Lafcadio Hearn[#6][?glm1xxx.xxx]8130
+[Subtitle: First Series]
+Dec 2004 Specimens of Greek Tragedy, by Goldwin Smith      [?grtrxxx.xxx]7073
+[Subtitle: Specimens of Greek Tragedy: Aeschylus and Sophocles]
+
+
+The following are being re-indexed to correct the order of posting (Numbers
+before Deuteronomy):
+Apr 2005 The Bible, King James, Deuteronomy    Book  5[#25][bib05xxx.xxx]8005
+Apr 2005 The Bible, King James, Numbers        Book  4[#24][bib04xxx.xxx]8004
+
+
+=-=-=-=[ 50 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Jun 2006 The History of Rome, v1, by Theodor Mommsen       [hrom1xxx.xxx]10701
+[Tr.: William Purdie Dickson]
+[See Also #3060 for the original German]
+
+May 2005 Contes de la Montagne, by Erckmann-Chatrian       [?mntgxxx.xxx]8173
+[Language: French]
+May 2005 History of Astronomy, by George Forbes            [?hsrsxxx.xxx]8172
+[Also posted HTML as 8hsrs10h.zip - zipped only]
+[Also posted Unicode - 8hsrs10u.txt and 8hsrs10u.zip]
+May 2005 Modern Italian Poets, by W. D. Howells            [?mdipxxx.xxx]8171
+[Subtitle: Essays and Versions]
+
+May 1998 Gargantua and Pantagruel, by Rabelais, Book V     [rab05xxx.xxx]8170
+May 1998 Gargantua and Pantagruel, by Rabelais, Book IV    [rab04xxx.xxx]8169
+May 1998 Gargantua and Pantagruel, by Rabelais, Book III   [rab03xxx.xxx]8168
+May 1998 Gargantua and Pantagruel, by Rabelais, Book II    [rab02xxx.xxx]8167
+May 1998 Gargantua and Pantagruel, by Rabelais, Book I     [rab01xxx.xxx]8166
+[Full Author: Francois Rabelais]
+[Translated into English by Sir Thom. Urquhart of Cromarty and P. A. Motteux]
+[Illustrated HTML, zipped only - rab0?10h.zip][Illustrated by Gustave Dore]
+
+May 2005 The Geste of Duke Jocelyn, by Jeffery Farnol  [#5][?jocexxx.xxx]8165
+May 2005 My Man Jeeves, by P. G. Wodehouse            [#27][?jeevxxx.xxx]8164
+May 2005 Handbook of Universal Literature,A. C. Lynch Botta[?unltxxx.xxx]8163
+[Full author: Anne C. Lynch Botta]
+May 2005 Modern Painting, by George Moore                  [?mdptxxx.xxx]8162
+May 2005 Fragments Of Ancient Poetry, by James MacPherson  [?fgapxxx.xxx]8161
+[Subtitle: Collected in the Highlands of Scotland and Translated from
+  the Galic or Erse Language]
+
+May 2005 Recollections Of My Childhood And Youth,G. Brandes[?rchyxxx.xxx]8160
+[Full Author: George Brandes]
+[Also posted: accented HTML in 8rchy10h.htm/.zip]
+May 2005 Wanderings In South America, by Charles Waterton  [?wnsaxxx.xxx]8159
+[Also posted:  accented in HTML 8wnsa10h.htm, with images in 8wnsa10h.zip]
+May 2005 Barlasch of the Guard, by H. S. Merriman          [brlsxxxx.xxx]8158
+[Also posted: XHTML in brls10h.htm/.zip]
+May 2005 Esther Waters, by George Moore                    [?esthxxx.xxx]8157
+May 2005 Twilight And Dawn, by Caroline Pridham            [?twltxxx.xxx]8156
+[Subtitle: Simple Talks on the Six Days of Creation]
+[Author AKA: Mrs. L. G. Wait]
+
+May 2005 Colonel Thorndyke's Secret, by G. A. Henty        [thornxxx.xxx]8155
+[Also posted HTML - thorn10h.zip and thorn10h.htm]
+May 2005 Revolutionary Heroes, &c, by James Parton         [?revhxxx.xxx]8154
+[Full Title: Revolutionary Heroes, And Other Historical Papers]
+May 2005 Young Engineers in Arizona, H. Irving Hancock [#2][azengxxx.xxx]8153
+May 2005 Henrik Ibsen, by Edmund Gosse                     [?ibsnxxx.xxx]8152
+[HTML version in 8ibsn10h.htm and illustrated HTML in 8ibsn10h.zip]
+May 2005 Miss Merivale's Mistake, by Mrs. Henry Clarke     [?mmvmxxx.xxx]8151
+
+May 2005 A Street of Paris, by Honore De Balzac            [parisxxx.xxx]8150
+[Full title: A Street Of Paris And Its Inhabitant]
+[Also posted in Illustrated HTML, zipped only - paris10h.zip]
+May 2005 Jean Christophe: In Paris, by Romain Rolland      [?jeanxxx.xxx]8149
+May 2005 Youth and Egolatry, by Pío Baroja                 [?yegoxxx.xxx]8148
+May 2005 The Man Who Would Be King, by Rudyard Kipling     [?kingxxx.xxx]8147
+[Also posted HTML - 8king10h.zip and 8king10h.htm]
+May 2005 Victor Roy, A Masonic poem, Harriet Annie Wilkins [vcroyxxx.xxx]8146
+[Also posted HTML - vcroy10h.zip and vcroy10h.htm]
+
+May 2005 Life And Times Of Washington, V2, by Schroeder, &c[?ltw2xxx.xxx]8145
+[Subtitle: Revised, Enlarged, and Enriched]
+[Full Author: John Frederick Schroeder]
+May 2005 Acetylene, Principles, &c, by Leeds & Butterfield [?acetxxx.xxx]8144
+[Full Title: Acetylene, the Principles of Its Generation and Use]
+[Subtitle: A Practical Handbook on the Production, Purification, and
+  Subsequent  Treatment of Acetylene for the Development of Light, Heat,
+  and Power]
+[Full Authors: F.H. Leeds and W.J. Atkinson Butterfield]
+[Also posted: HTML with accented characters plus images in 8acet10h.zip only]
+May 2005 The Shadow of the East, by E. M. Hull         [#2][?shadxxx.xxx]8143
+May 2005 The Riot Act, by British Parliament               [rtactxxx.xxx]8142
+[Also posted HTML - rtact10h.zip and rtact10h.htm]
+
+
+May 2005 Der Nachsommer, by Adalbert Stifter           [#2][?nsomxxx.xxx]8126
+[Language: German]
+
+
+May 2005 Early Bardic Literature, Ireland, Standish O'Grady[?eblixxx.xxx]8109
+
+
+Apr 2005 The Bible, King James, Romans         Book 45[#65][bib45xxx.xxx]8045
+Apr 2005 The Bible, King James, Acts           Book 44[#64][bib44xxx.xxx]8044
+Apr 2005 The Bible, King James, John           Book 43[#63][bib43xxx.xxx]8043
+Apr 2005 The Bible, King James, Luke           Book 42[#62][bib42xxx.xxx]8042
+Apr 2005 The Bible, King James, Mark           Book 41[#61][bib41xxx.xxx]8041
+
+Apr 2005 The Bible, King James, Matthew        Book 40[#60][bib40xxx.xxx]8040
+Apr 2005 The Bible, King James, Malachi        Book 39[#59][bib39xxx.xxx]8039
+Apr 2005 The Bible, King James, Zechariah      Book 38[#58][bib38xxx.xxx]8038
+Apr 2005 The Bible, King James, Haggai         Book 37[#57][bib37xxx.xxx]8037
+Apr 2005 The Bible, King James, Zephaniah      Book 36[#56][bib36xxx.xxx]8036
+
+Apr 2005 The Bible, King James, Habakkuk       Book 35[#55][bib35xxx.xxx]8035
+Apr 2005 The Bible, King James, Nahum          Book 34[#54][bib34xxx.xxx]8034
+Apr 2005 The Bible, King James, Micah          Book 33[#53][bib33xxx.xxx]8033
+Apr 2005 The Bible, King James, Jonah          Book 32[#52][bib32xxx.xxx]8032
+Apr 2005 The Bible, King James, Obadiah        Book 31[#51][bib31xxx.xxx]8031
+
+
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+June 2003 Saint Michael's Gold, by H Bedford-Jones         [030092xx.xxx]0241A
+[http://gutenberg.net.au/ebooks03/0300921.txt or ZIP]
+June 2003 D'Artagnan, by H Bedford-Jones                   [030091xx.xxx]0240A
+[http://gutenberg.net.au/ebooks03/0300911.txt or ZIP]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers, programming help and
+the booklists. Mike Eschman for the RG updates, Mark for the beer,
+Greg, Michael, and Larry Wall. Entertainment for the workers provided
+by Andrew Collins, goodbye to Gary Bales, and thanks for improving our
+knowledge of the 'Red House Painters'.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_06_25_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_06_25_part_3.txt</a>

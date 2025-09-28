@@ -1,0 +1,288 @@
+---
+params:
+  id: 1992
+title: "PG Weekly Newsletter: Part 2 (2003-05-14)"
+date: 2003-05-14T12:31:06+00:00
+author: Michael Cook
+layout: post
+url: /20030514/pg-weekly-newsletter-2003-05-14-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 14th May 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+We have now completed 7916 ebooks!!!
+
+
+In this part of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) News
+3) Notes and Queries
+4) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+The possibilities of 8000 ebooks rolls into view. See those numbers
+fall! If you would like more inforamtion on Distributed Proofreaders
+and how to become one of the lucky people that gets to assemble a
+complete etext, check out the DP information below.
+
+Happy reading,
+
+Alice
+
+(newsletter at schiffwood dot co dot uk - If you hit reply, the mail you
+send does not reach me and disappears into the ether.)
+
+We welcome feedback, critisism (of any kind), ebook reviews, featured
+author suggestions, writings and awkward questions at the address above. Please feel free to send our general ramblings to a friend.
+
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News
+
+May 2003 Broadcast of Gutenberg Radio.
+
+Featured :
+
+The Mysterious Island by Jules Verne.
+[The conclusion of Nemo's tale, Captain of the submarine Nautilus.]
+
+Stereo : The Hound of the Baskervilles by Sir Arthur Conan Doyle.
+
+Mono : The Legend of the Hound of the Baskervilles.
+
+For Download :
+[all downloads are in stereo, .mp3, zipped, one file per chapter.]
+
+Franz Kafka Metamorphosis.
+Jules Verne 20,000 Leagues Under the Sea.
+Jules Verne The Mysterious Island.
+H. G. Wells The Time Machine.
+Sir Arthur Conan Doyle The Hound of the Baskervilles.
+Bram Stoker Dracula.
+
+All Gutenberg Radio broadcasts become part of the official Gutenberg
+archives after review, possible editing and approval.  This usually
+takes 6 to 8 weeks. And books are frequently reissued to leverage advances in
+audio technology.
+
+So don't despair if you miss a broadcast!  Soon it will be available at
+http://www.promo.net/pg/ for download.  You are free to start a broadcast of
+your own, as long as you abide by the Gutenberg copyrights
+and procedures.  Basically, broadcast but DON'T SELL.
+
+If you want to mark up a book for broadcast, watch these announcements.
+We will be publishing a manual to help you do so in these pages. At the moment,
+we would like novels and short stories in English more than anything
+else. But Spanish is in our immediate future, as are biographies and histories,
+though these will be introduced somewhat later.
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries
+
+Gutenberg Gazette
+
+The second edition of the Gutenberg Gazette is heading our way
+soon. Translators are particularly in demand at the moment, but any
+input is welcome. Here at the newsletter we are assisting with the
+reviews so if you want to write a review it will be passed on to the
+Gazette as well (see your name in print!). If you would like to be
+involved with the Gazette send an email to
+
+gutnews@listserv.unc.edu with
+
+subscribe gutnews firstname surname
+
+in the body of the message, see you there.
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research may need to be done by our professional Chief Cataloguer, so for those who wish to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS: A PAGE A DAY OR MORE IS ALL IT TAKES
+
+If you haven't already, please visit the Project
+Gutenberg Distributed Proofreading (DP) project:
+
+	http://texts01.archive.org/dp
+
+By spending a few minutes per page, you can help
+Project Gutenberg to reach our goal of 10,000 eBooks
+by the end of 2003.  Proofreading is easy and fun,
+and there are easy books for newcomers to select from.
+
+Distributed Proofreading is seeking post-processing
+people, too.  After you have completed a number of
+pages, you can start doing final assembly on eBooks.
+There are hundreds of eBooks ready for post-processing,
+and you could help to get them added to the Project
+Gutenberg collection!
+
+Got books suitable for destructive scanning (where the
+binding is chopped off so the pages may be fed to an
+automatic scanner)?  Check whether they're already in
+the collection, and if not send them to our scanner
+site:
+
+	Charles Franks
+	9030 W. Sahara Ave. #195
+	Las Vegas, NV 89117
+
+To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  The
+In Progress list includes eBooks that are not yet completed:
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+For more information about Distributed Proofreading,
+email Charles Franks &lt;charlz@lvcablemodem.com&gt;
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+the booklists. Greg, Michael and Larry Wall (Mark gets no thanks this
+week as we are out of beer and have been for a week). Entertainment
+for the workers provided by Andrew Collins. Back to the kitchen
+renovation for me, isn't life exciting. Get up, stand up.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_05_14_part_2.txt" target="_blank" rel="nofollow">pgweekly_2003_05_14_part_2.txt</a>

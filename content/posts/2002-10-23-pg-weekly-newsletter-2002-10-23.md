@@ -1,0 +1,737 @@
+---
+params:
+  id: 1925
+title: PG Weekly Newsletter (2002-10-23)
+date: 2002-10-23T21:33:21+00:00
+author: Michael Cook
+layout: post
+url: /20021023/pg-weekly-newsletter-2002-10-23/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, October 23, 2002*
+******eBooks Readable By Both Humans and Computers For Over 31 Years*****
+
+
+***Project Gutenberg wins the Stockholm Challenge Award***
+
+For thos who want more details than were posted last week, please visit:
+
+www.challenge.stockholm.se
+
+***
+
+Person On CDROM At University Of Illinois Memorial Stadium[Details Below]
+
+
+
+
+  ***The 16th Week Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+
+
+
+
+Sep 1999 La Tulipe Noire, by Alexandre Dumas[Pere#6/French][tlpnrxxx.xxx]1910
+Sep 1999 Darwin and Modern Science, by A.C. Seward[50th Yr][drwnmxxx.xxx]1909
+Sep 1999 Her Prairie Knight, by B. M. Bower[B.M. Bower #10][hrprkxxx.xxx]1908
+Sep 1999 Rowdy of the Cross L, by B. M. Bower [BM Bower #9][rowdyxxx.xxx]1907
+Sep 1999 Erewhon (Revised Edition), by Samuel Butler       [erwhnxxx.xxx]1906
+Sep 1999 The Governess [Female Academy], by Sarah Fielding [gvrnsxxx.xxx]1905
+Sep 1999 Life & Perambulations of a Mouse by Dorothy Kilner[lpoamxxx.xxx]1904
+Sep 1999 Everybody's Guide to Money Matters, by Wm. Cotton [egtmmxxx.xxx]1903
+Sep 1999 The Old Peabody Pew by Kate Douglas Wiggin[KDW#13][oldpwxxx.xxx]1902
+Sep 1999 Secret of the Woods, by William J. Long           [sctwdxxx.xxx]1901
+Sep 1999 Typee, by Herman Melville     [Herman Melville #2][typeexxx.xxx]1900
+Sep 1999 The Village Rector, by Honore de Balzac[Balzac#79][vrctrxxx.xxx]1899
+Sep 1999 Albert Savarus, by Honore de Balzac[de Balzac #78][svrusxxx.xxx]1898
+Sep 1999 The Seventh Man, by Max Brand       [Max Brand #1][7thmnxxx.xxx]1897
+Sep 1999 The Seventh Man, by Max Brand       [Max Brand #1][7thmnxxx.xxx]1897
+Sep 1999 Under the Red Robe, by Stanley Weyman  [Weyman #1][rdrobxxx.xxx]1896
+Sep 1999 Armadale, by Wilkie Collins   [Wilkie Collins #20][armdlxxx.xxx]1895
+Sep 1999 Visit to Iceland, by Madame Ida Pfeiffer  [IP #1] [vstilxxx.xxx]1894
+Sep 1999 Song & Legend From the Middle Ages, by McClintocks[slfmaxxx.xxx]1893
+Sep 1999 Extracts From Adam's Diary, by Mark Twain  [MT#15][xadamxxx.xxx]1892
+Sep 1999 A Plea for Old Cap Collier by Irvin S. Cobb[Cobb4][pfoccxxx.xxx]1891
+Sep 1999 Speaking of Operations, by Irvin S. Cobb [Cobb #3][spoprxxx.xxx]1890
+Sep 1999 Bird Neighbors, by Neltje Blanchan                [bdnbrxxx.xxx]1889
+Sep 1999 The Bittermeads Mystery, by E. R. Punshon         [btrmmxxx.xxx]1888
+Sep 1999 The Life of the Spider, by J. Henri Fabre         [lfspdxxx.xxx]1887
+Sep 1999 Bunyan Characters (2nd Series), by Alex. Whyte #2 [2bnchxxx.xxx]1886
+Sep 1999 Bunyan Characters (1st Series), by Alex. Whyte #1 [1bnchxxx.xxx]1885
+Sep 1999 The Exiles, by Honore de Balzac  [H de Balzac #77][xilesxxx.xxx]1884
+Sep 1999 The Wife, et al, by Anton Chekhov    [Chekhov #14][twifexxx.xxx]1883
+
+
+Today Is Day #290 of 2002
+76 Days/11 Weeks Left Until 2003
+[Our production year begins the
+2nd Wednesday of the month/year]
+
+
+This the 27th Week Of Our SECOND 5,000 eBooks
+
+15 Months From Today, Perhaps Our 10,000th eBook!
+
+2,148   New eBooks In The Last 12 Months
+4,037   eBooks This Week Last Year
+6,185   Tree-Friendly Titles Now Online
+
+  194   Monthly Average This Year!!!
+  810   New At This Week of 2001
+ 1893   New eBooks So Far In 2002
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Newest Mirror
+- Requests For Assistance
+- Million eBook Giveaway
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Please try the latest PG mirror:
+
+At the Municipal Libraries of Copenhagen
+
+***
+
+Requests For Assistance:
+
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+CIA FACT BOOK READY FOR FORMATTING  [Second Request]
+
+The 2002 edition of the CIA World Fact Book is now
+available at http://www.cia.gov/cia/publications/factbook/index.html
+Project Gutenberg needs a volunteer to harvest and reformat
+this work into plain text (HTML is optional).  See our previous
+WFB's for formatting idea.  Interested?  Email gbnewby@ils.unc.edu
+
+***
+
+Second Request for Alice
+
+If we could get a volunteer to scan them in a similarly large size
+to the other Alice illustrations, then I could have a go at producing
+an illustrated version of "Through the Looking Glass".
+[This would require scanning about 50 illustrations]
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Third Request!
+
+We are seeking a physical copy of the book RUR in Czech by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+I have some copyright research for McNees, but no email address.
+
+***
+
+PROJECT GUTENBERG GIVES A MILLION eBOOKS AT FOOTBALL GAME
+
+Last Friday, Project Gutenberg, the oldest Internet site,
+famous for handing out millions of eBook via the Internet,
+gave away a million eBooks on CDROM's to the fans at the
+big game last Friday.
+
+Several volunteers, including Project Gutenberg founder,
+and Stockholm Prize winner Michael S. Hart, braved truly
+monsoon conditions in which the game was delayed several
+times due to the weather.
+
+Jim Sheppard, the Memorial Stadium voice of the Fighting
+Illini football team, announced that the volunteers were
+in the stands to hand out the million eBooks on CDROMs,
+and that anyone interested should flag down a volunteer.
+All million eBooks were snatched up in a matter of minutes,
+so preparations are already in the works to provide from
+two million to ten million next year, if all goes well.
+
+Project Gutenberg wishes to thank Alec Anderson, Athletic
+Director of Urbana High School, and Jim Sheppard for their
+wonderful assistance in helping bring this about, along with
+Charles Aldarondo, Paul Christensen, and Stephanie Cosat,
+who braved the weather to hand out the million eBooks.
+And many thanks to Steve Maniscalco, Daniel Callahan,
+Joe Maina, William Fishburne, Aaron Cannon, Matt Ellsworth,
+Richard Fane, Norm Wolcott, Wayne Hamilton, Mark Zinzow and
+Greg Newby who helped make up the CDROM image and disks.
+
+The Stockholm Prizes are announced at the same time and in
+the same location as the Nobel Prizes, but organizations
+are not eligible for the Nobel Prizes.  Project Gutenberg
+was awarded the prize earlier this month in Stockholm, on
+October 10th.  The physical prize is now in transit, and
+will be on display in the office of Prof. Greg Newby, the
+Project Gutenberg CEO, at the Univeristy of North Carolina.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+
+
++42 New This Week
+- 1 Removed (#5867 - see Corrections below)
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook has been removed from the collection pending further
+copyright research; it may be re-posted later under a different eBook #:
+Jun 2004 Son of a Hero, by James Oliver Curwood[Curwood#10][snhroxxx.xxx]5867
+
+Also note that #5847 has also been reassigned to a different eBook, see new
+listings below.
+
+The following eBook is being re-indexed to correct the filename
+(wavlyxxhb.xxx, not wvrlyxxhb.xxx):
+Jun 2004 Waverley, by Sir Walter Scott, Illust. [Scott#23][wvrlyxxhb.xxx]5998
+
+The following eBook has been re-indexed to included additional author
+information; also new formats have been posted:
+Jan 1997 La Chartreuse de Parme, Stendhal        [French#1][?parmxxx.xxx] 796
+[Author AKA: One of 170 pseudonyms used by Marie-Henri Beyle]
+[Language: French]
+[7-bit version with non-accented characters in 7parm10.txt and 7parm10.zip]
+[8-bit version with accented characters in 8parm10.txt and 8parm10.zip]
+[8-bit HTML in 8parm10h.txt and 8parm10h.zip]
+
+
+The following eBooks have been re-indexed to reflect correction to the
+contents of each file, as indicated in the series note:
+Jun 2004 Reina Valera New Testament of the Bible 1909  [#5][?va09xxx.xxx]5881
+Jun 2004 Reina Valera New Testament of the Bible 1865  [#4][?va65xxx.xxx]5880
+Jun 2004 Reina Valera New Testament of the Bible 1862  [#3][?va62xxx.xxx]5879
+Jun 2004 Reina Valera New Testament of the Bible 1858  [#2][?va58xxx.xxx]5878
+Jun 2004 Reina Valera New Testament of the Bible 1602  [#1][8va02xxx.xxx]5877
+[Language: Spanish]
+[Series note: #s 5878 and 5879 contain the entire New Testament, while
+[#s 5877, 5880 and 5881 include only portions of the New Testament]
+
+
+New formats of the folloiwng eBook(s) have been posted, as indicated:
+Apr 1999 Eugenie Grandet, by Honore de Balzac  [Balzac #63][gngndxxx.xxx]1715
+[HTML in gngnd10h.htm and .zip]
+
+
+The following eBook is being re-indexed and renamed to indicate that
+it is available in both 7- and 8-bit versions:
+May 2004 La Vendee, by Anthony Trollope       [Trollope#38][?vendxxx.xxx]5709
+[7-bit version with non-accented characters in 7vend10.txt and 7vend10.zip]
+[8-bit version with accented characters in 8vend10.txt and 8vend10.zip]
+[Language: English with some French]
+
+
+***] UPDATES FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+HTML versions of the following have been added...
+
+Nov 2001 Anne of Windy Poplars, by L M Montgomery   [LM#01][010025xx.xxx]0025A
+[http://gutenberg.net.au/0100251h.html]
+Dec 2001 Anne of Ingleside, by L M Montgomery       [LM#02][010028xx.xxx]0028A
+[http://gutenberg.net.au/0100281h.html]
+
+
+***] 3 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Oct 2002 A Room of One's Own, by Virginia Woolf     [VW#06][020079xx.xxx]0113A
+[http://gutenberg.net.au/ebooks02/0200791.txt or .ZIP
+Oct 2002 A Haunted House, by Virginia Woolf         [VW#05][020078xx.xxx]0112A
+[http://gutenberg.net.au/ebooks02/0200781.txt or .ZIP
+[Full Title: A Haunted House and Other Short Stories]
+Oct 2002 The Death of the Moth, by Virginia Woolf   [VW#04][020077xx.xxx]0111A
+[http://gutenberg.net.au/ebooks02/0200771.txt or .ZIP
+[Full Title: The Death of the Moth and Other Essays]
+
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 39 NEW U.S. POSTS [***
+
+Nov 2004 The Kalevala (The Finnish National Epic), Anon.   [kalevxxx.xxx]7000
+[Language: Finnish] (Also see eBooks 5184-5186)
+
+
+*Please Note The Below Are From Our 6000 Series, The Above Is From The 7000s*
+
+
+Aug 2004 Parables Of A Province,  by G. Parker,     [GP#69][gp69wxxx.xxx]6242
+[Author: Gilbert Parker]
+Aug 2004 Lane Had No Turning,   by Parker, Complete [GP#68][gp68wxxx.xxx]6241
+[Title: The Lane That Had No Turning][Author: Gilbert Parker]
+[Contains: EBooks #6237-6240]
+
+Aug 2004 Lane Had No Turning,     by G. Parker, v4  [GP#67][gp67wxxx.xxx]6240
+Aug 2004 Lane Had No Turning,     by G. Parker, v3  [GP#66][gp66wxxx.xxx]6239
+Aug 2004 Lane Had No Turning,     by G. Parker, v2  [GP#65][gp65wxxx.xxx]6238
+Aug 2004 Lane Had No Turning,     by G. Parker, v1  [GP#64][gp64wxxx.xxx]6237
+
+
+*Please Note The Below Are From Our 6000 Series, The Above Are From The 6200s
+
+
+Jul 2004 Quill's Window, by George Barr McCutcheon [GBM#13][quillxxx.xxx]6044
+Jul 2004 The Spanish Tragedie, by Thomas Kyd               [spatrxxx.xxx]6043
+Jul 2004 The Diary and Letters of Madam D'Arblay Volume 2  [dimd2xxx.xxx]6042
+[Author AKA: Frances Burney]
+
+
+Jul 2004 The Great Doctrines of the Bible, by R. Evans     [gdotbxxx.xxx]6038
+[Author's Full Name: Rev. William Evans]
+Jul 2004 The One Woman, by Thomas Dixon           [Dixon#2][onwmnxxx.xxx]6037
+
+
+Jul 2004 The Kadisah of Haji Abdu El-Yezdi,  R. Burton [21][?kasixxx.xxx]6036
+[Translator's Full Name: Richard F. Burton]
+[7-bit version with non-accented characters in 7kasi10.txt and 7kasi10.zip]
+[8-bit version with accented characters in 8kasi10.txt and 8kasi10.zip]
+Jul 2004 The Triple Marriage, N. Destouches, Morlock tr. #4[triplxxx.xxx]6035C
+[Translated by Frank J. Morlock]
+Jul 2004 Rhyme and Reason Volume Two, by Dom       [Dom #5][domrrxxx.xxx]6034
+Jul 2004 Petty Troubles of Married Life, H. de Balzac[#100][pettyxxx.xxx]6033
+[Author's Full Name: Honore de Balzac]
+
+
+Jul 2004 Memoirs or Chronicle of The Fourth Crusade        [mctfcxxx.xxx]6032
+[Full Title: Memoirs or Chronicle of The Fourth Crusade and The Conquest of
+  Constantinople]
+[Author: Geoffrey de Villehardouin]
+(Plain text in ville10.txt and .zip, HTML in ville10h.htm and .zip)
+Jul 2004 Memoirs of My Life and Writings,Edward Gibbon[#14][gbnlwxxx.xxx]6031
+
+Jul 2004 The Iron Star, by John Preston True               [rnstrxxx.xxx]6030
+[Subtitle: And what It saw on Its Journey through the Ages]
+Jul 2004 Spring Days, by George Moore             [Moore#3][sprngxxx.xxx]6029
+Jul 2004 Opening a Chestnut Burr,by Edward Pason Roe[Roe#8][ocbrrxxx.xxx]6028
+
+Jul 2004 The Great Fortress, by William Wood       [Wood#2][cca08xxx.xxx]6026
+[Subtitle: A Chronicle of Louisbourg 1720-1760]
+[This is #8 in our series Chronicles of Canada, edited by George M. Wrong
+[and H. H. Langton, #2 by William Wood]
+
+Jul 2004 The Englishman and Other Poems, by E. Wilcox   [#8][engmxxx.xxx]6025
+[Author's Full Name: Ella Wheeler Wilcox]
+[XHTML in engm10h.htm/.zip, plain text in engm10.txt/.zip]
+Jul 2004 The Duke of Gandia, by A. Swinburne   [Swinburne#6][dkgrxxx.xxx]6024
+[Author's Full Name: Algernon Charles Swinburne]
+[XHTML in dkgr10h.htm/.zip, plain text in dkgr10.txt/.zip]
+Jul 2004 Catherine Furze, by Mark Rutherford  [Rutherford#4][cfrzxxx.xxx]6023
+[XHTML in cfrz10h.htm/.zip, plain text in cfrz10.txt/.zip]
+Jul 2004 A Prisoner in Fairyland, by Algernon Blackwood[#3][prsflxxx.xxx]6021
+
+Jul 2004 Cappy Ricks Retires, by Peter B. Kyne     [Kyne#3][cpyrrxxx.xxx]6020
+Jul 2004 The Earth as Modified by Human Action,by G.P.Marsh[rthmhxxx.xxx]6019
+[Full author: George P. Marsh]
+Jul 2004 Tour to the Hebrides, by James Boswell [Boswell#2][jnthbxxx.xxx]6018
+[Title: The Journal of a Tour to the Hebrides with Samuel Johnson, LL.D.]
+Jul 2004 The Silver Horde, by Rex Beach           [Beach#8][thslvxxx.xxx]6017
+Jul 2004 Roast Beef, Medium, by Edna Ferber      [Ferber#6][rbeemxxx.xxx]6016
+[Subtitle: The Business Adventures of Emma McChesney]
+
+
+Jul 2004 Captain Macklin,by Richard Harding Davis[Davis#35][cptnmxxx.xxx]6015
+[Subtitle: His Memoirs]
+Jul 2004 West Wind Drift, by George Barr McCutcheon[GBM#12][ddrftxxx.xxx]6014
+
+
+*Please Note The Below Are From Our 5000 Series, The Above Are From the 6000s
+
+
+Jun 2004 Rataplan, by Ellen Velvin                         [rtplnxxx.xxx]5867
+[Subtitle: A Rogue Elephant and Other Stories]
+
+Jun 2004 The Heart of Rome, by F. Crawford     [Crawford#3][thhrtxxx.xxx]5847
+[Author's Full Name: Francis Marion Crawford]
+[Subtitle: A Tale of the "Lost Water"]
+
+***
+
+Statistical Review
+
+In the first 41 weeks of this year, we have produced 1,853 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year of 2001 and began the production year of 2002.
+
+With 6,185 eTexts online as of October 2, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.62 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from $2.50 when we had 4006 Etexts A Year Ago
+
+Can you imagine 6,000 books each costing $.86 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6145 eBooks in 31 Years We Averaged
+
+At 1853 eBooks Done In 2002 We Averaged
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+Headlines From Newsscan
+
+MAN VS. MACHINE CONTEST ENDS IN A DRAW
+The eight-game chess series billed as the "Brains in Bahrain" has ended in
+a draw, with world chess champion Vladimir Kramnik and his supercomputer
+opponent Deep Fritz each winning two games and drawing the other four. The
+German company ChessBase created Fritz, which is capable of evaluating 3.5
+million moves in a second. (Reuters 20 Oct 2002)
+http://makeashorterlink.com/?W1D822232
+
+POP-UP SPAM -- A DIABOLICAL INVENTION
+As if e-mail spam weren't annoying enough -- now there's pop-up spam. A
+Romanian-based company has developed software that can blast computers with
+pop-up messages through the Messenger function on many Windows operating
+systems that was originally designed to allow computer network technicians
+to warn network users of a planned shutdown (not to be confused with
+Instant Messenger). Gary Flynn, a security engineer at James Madison
+like somebody barging into your office and interrupting you." Zoltan
+Kovacs, founder of the company that makes the software, responds, "If some
+people use it for bad things, they should take their own responsibility,
+but it's their own problem." The new spam technique represents the latest
+attempt by advertisers to bypass the increasingly sophisticated e-mail
+filters used by ISPs and individuals, and also circumvents state and other
+laws designed to curb junk e-mail. (AP 20 Oct 2002)
+http://apnews.excite.com/article/20021020/D7MPIALG0.html
+
+ENDING MARKETING CALLS TO CELL PHONES
+To help telemarketers comply with a 1991 federal law banning auto-dialed or
+prerecorded commercial calls to cell phones, the Direct Marketing
+Association has identified 280 million existing and prospective wireless
+numbers for its member businesses to avoid calling. Member companies have
+been afraid they'll get into trouble for inadvertently calling cell phone
+numbers not readily distinguishable cellular from landline numbers.
+(New York Times 21 Oct 2002)
+http://partners.nytimes.com/2002/10/21/technology/21CELL.html
+
+CRITICS SAY ADS ON CNN.COM LOOK A LOT LIKE NEWS
+CNN.com has started running ads that look a lot like editorial links,
+raising concern among some journalism ethics watchdogs. The ads, which
+feature text like "If You Love Coffee" or "Avoid Bad Retailers," run
+adjacent to news headlines and are not clearly labeled as having been
+sponsored, or paid for by advertisers. "Clearly, CNN.com needs to mark this
+'adv' or 'advertisement' in that gray space, because it looks too similar
+to the rest of (the news site)," says Sreenath Sreenivasan, who runs the
+new media journalism program at Columbia University Graduate School of
+Journalism. A CNN.com spokesman said the advertising links were new, and
+that previously the space had promoted internal stories or content from
+other Time Warner publications. He added that the company plans in the next
+few days to clearly label the links as "sponsored." CNN.com's foray into
+text-only advertising links reflects a general willingness among Web
+publishers to experiment with all kinds of advertising in an effort to
+combat the challenges of a grim economy. "Online news companies generally
+tend to be much more adventurous with new forms of advertising, including
+pop-up ads and things like moving screens. But everyone is trying to make
+money, and this is a constant process of evolution of editorial standards
+online," says Sreenivasan. (CNet News.com 16 Oct 2002)
+http://news.com.com/2100-1023-962343.html?tag=lh
+
+NOAA EXPANDS 'PERSONAL LOCATOR BEACON' PROGRAM
+Beginning July 1, the National Oceanic and Atmospheric Administration will
+extend to hikers, hunters and other land-bound recreational enthusiasts the
+same emergency locator service now available to pilots and boaters. The
+"personal locator beacons" -- handheld devices equipped with GPS technology
+-- work in zones not covered by cell phone networks and will cost $300 or
+more. "It takes the search out of search and rescue," says Randy Crosby,
+who heads up rescue teams in northern Alaska, where the devices have been
+tested for the past six years. In its 20 years of operation, the satellite
+rescue system has helped save some 14,000 people worldwide, including about
+4,300 in the U.S. There is no penalty for accidental false alarms, but
+deliberate misuse can cost perpetrators up to $250,000 in fines, a six-year
+prison term and reimbursement of rescue costs. NOAA spokesman Daniel
+Karlson says the government works to educate beacon owners so "someone
+doesn't go out there and stub their toe and trip this thing off. We want
+this as a last resort. (AP 16 Oct 2002)
+http://apnews.excite.com/article/20021016/D7MMLK0O0.html
+
+COUCH POTATOES GIVE THUMBS UP TO TEXT MESSAGING
+TV viewers in Europe increasingly are reaching for their mobile phones
+rather than their PCs to interact with their favorite "reality" shows, in
+which viewers' votes determine the outcomes. Most reality shows allow
+text-message voting, and in some cases the majority of votes are now cast
+in this way. In addition, news shows encourage viewers to send in comments,
+game shows allow viewers to compete, and music shows take requests via
+text-message. The trend toward TV text messaging has been a boon for
+wireless operators' bottom lines, and many shows are beginning to view the
+additional revenues as a vital component of their business models (revenues
+are typically shared, with 40% to 50% going to the operator and the
+remainder split between the broadcaster, the production studio and the
+message processing company). For instance, the most recent British series
+of "Big Brother" generated 5.4 million text-message votes and $2.1 million
+in revenue. Endemol, the Dutch company that produces "Big Brother," has
+already started compiling its own database of mobile phone users, and
+analysts say its next step will be to establish direct billing
+relationships with them, attempting to bypass the operators. Operators are
+responding with a more open attitude toward revenue-sharing, with France's
+Orange even going so far as to publish a rate card for divvying up the
+proceeds -- a degree of cooperation that once would have been unthinkable.
+Meanwhile, all this messaging is subtly changing the nature of television,
+notes text-message infrastructure provider CMG. Rather than presenting
+predetermined content to viewers, an increasing number of programs are
+based on response to viewers' input. (The Economist 17 Oct 2002)
+http://www.economist.com/business/displayStory.cfm?story_id=1392699
+
+SHARP UNVEILS NEXT-GENERATION DISPLAY TECHNOLOGY
+Japan's Sharp Corporation took the wraps off its latest advance in flat
+display technology -- a screen that features the microprocessor circuitry
+applied directly onto the glass, using the company's continuous grain
+silicon (CGS) technology. Sharp says the new technique will save space, cut
+production costs and produce ultra-fine resolutions for displaying maps or
+photos. Sharp's foray into next-generation display technology comes as
+South Korean and Taiwanese continue to nip at its heels, moving
+aggressively into the LCD market. Sharp is hoping the new CGS screen not
+only will enable it keep it its Asian competitors at bay, but also will
+enable it to stay one step ahead of the rival low-temperature polysilicon
+technology used in screens by Toshiba and Sanyo Electronic. Sharp's Mikio
+Katayama, head of the company's mobile display division, says CGS, with its
+greater uniformity of silicon grains, achieved three times the rate of
+electron transfer as low-temperature silicon, making it the superior
+technology for on-screen circuitry. (Reuters 22 Oct 2002)
+http://makeashorterlink.com/?M21921532
+
+
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+
+***
+
+Headlines From Edupage:
+
+AOL SAYS IT WILL END SOME POP-UP ADS
+America Online said that in an effort to strengthen its position in the
+market it would eliminate many pop-up ads, generally disliked by users.
+Some other online services have made similar decisions, including
+iVillage and EarthLink. An official from Microsoft promised that their
+service would always have fewer pop-ups than AOL. Jon Miller of AOL
+said the decision reflected an acknowledgment that pop-up ads annoy
+users and do not represent a viable or substantial strategy for
+advertising revenue. AOL will refocus on other forms of advertising and
+on building support from customers. AOL is facing new pressure for
+customers from Microsoft's MSN service.
+New York Times, 16 October 2002 (registration req'd)
+http://www.nytimes.com/2002/10/16/technology/16AOL.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_10_23.txt" target="_blank" rel="nofollow">pgweekly_2002_10_23.txt</a>

@@ -1,0 +1,302 @@
+---
+params:
+  id: 854
+title: "PG Monthly Newsletter 1991-12-16 – Non-network Gutenberg Newsletter"
+date: 1991-12-16T10:56:50+00:00
+author: Michael Cook
+layout: post
+url: /19911216/pg-monthly-newsletter-1991-12-16-non-network-gutenberg-newsletter/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>Special Non-Network Edition of the Project Gutenberg Newsletter
+
+Our #1 goal:  give away one trillion etexts by the end of 2001,
+by giving ten thousand etexts to one hundred million people.
+
+#2:  To make these etexts universally usable on virtually every
+combination of computers and programs.  (Plain Ascii etext such
+as you are reading now is the only way we know of, so far.)
+
+#3:  the founding of a Public Domain Register in 1997, on 100th
+anniversary of the founding of the U.S. Copyright Register.  **
+
+December, 1991  (Thanks for your patience as we adapt for mail,
+as opposed to our usual format of electronic mail.  We can't do
+the same newsletter for both, as most of the e-mail newsletters
+deal with electronic transmission of our books.)  The first few
+paper newsletters may look a little odd, as we are cutting from
+our email newsletter and pasting here, and some items may be in
+here twice, etc. * Michael S. Hart, Director, Project Gutenberg
+
+This month's release is Roget's Thesaurus (roget11x.txt or zip)
+Last month's release was Aesop's Fables   (aesop11x.txt or zip)
+A full listing of the 12 monthly Project Gutenberg releases for
+1991 has been appended to the end of this newsletter.  Alice28,
+aesop11, and roget11 are now becoming available.  Alice28 is an
+upgrade of significance with many spelling, punctuation, even a
+few missing line, errors having been corrected.
+
+You may see some very similar etexts for sale on CDROM or disks
+for well over $100, the CIA World Factbook for example is being
+sold on CDROM for prices ranging from over $50 to over $125 (is
+available in our edition as file world11).
+
+Thank you for your interest in our work.  We hope you will feel
+you can cooperate and assist.  One of the best ways you can for
+the present is to relay the newsletters and disks for others to
+use.  That way we won't get as swamped with mail requests as we
+already are.  Please give our disks and newsletters to computer
+clubs and libraries whenever you can.  We find more and more of
+the libraries are willing to add our electronic book collection
+to their paper book collection.  If they are very worried about
+viruses and things like that, remind them that our files aren't
+programs, but only English words, and thus cannot contain virus
+programs of any nature.
+
+Most of our work is done via network communications or via hand
+to hand swapping of disks.  Long distance paper or disk mailing
+has not been our strong suit in the past, but we make an effort
+to get electronic books into the hands of all who desire them.
+
+A great advantage of the computer networks is that we only post
+a book once and a million people can make their own copies very
+easily and quickly.  What we ask of you is to do the same sorts
+of things as a human networking systems so we can get our books
+out there to everyone without having to send individual copies.
+Therefore we ask you to help others make copies of newsletters,
+books, Shareware text reading programs, etc.  Even if every one
+of the letters we get contained a large donation, we would lose
+time and effort from the process of making the books because we
+would be spending that time and effort in mailing.  We have not
+wanted to become a large impersonal operation, so far all these
+letters and requests have been answered and handled by myself--
+with assistance from friends all around the world.  I hope this
+will continue, and you will never have to get a letter typed by
+a secretary.  If you can get our newsletter and books into more
+hands, then you will help us in this manner.  Please encourage,
+assist, and otherwise promote your local computer BBS, network,
+or whatever to help keep us from getting swamped.  We don't get
+our satisfaction from distributing the books directly, we would
+never be able to do it directly without becoming a corporation,
+and a large one at that.  We hope you will be the ones to see a
+light in the eyes of the people you give your favorite book to.
+
+We have not refused files to anyone who asked but we must try a
+bit to get stamps, disks and handling paid for.  So far we have
+done quite well in this area with no one donating less than $10
+for us sending them a disk.  No one has ever sent us a cent for
+the books they get over the networks, but our network connected
+work is paid for by outside sources, so we break even there.  A
+computer distribution network is very easy to run.
+
+However, one of our biggest problems is the time and expense of
+dealing with paper mail.  If you could send stamps and labels a
+great deal of this time and expense could be eliminated.  It is
+cheaper for your to send stamps and labels than the SASLE's.  L
+is for legal/business sized envelopes, as it is hard to put the
+whole newsletters into smaller envelopes.  You might spend more
+in mailing us disks and envelopes than it would cost otherwise,
+as we buy disks in mass quantities and we wouldn't want to have
+to have you pay for mailing things in both directions.
+
+One of the greatest problems we have is that people send us $10
+or more for etexts without telling us what kind of disk to send
+them.  Please be as specific as you can as follows:
+
+This is a special letter I am writing to those with whom we are
+communicating via regular mail rather than via electronic mail,
+or email (e-mail), as we call it.
+
+In our newsletter, which is normally distributed to some 10,000
+people on the various computer networks and services (Internet,
+Bitnet, CompuServe, etc.) we usually refer to instructions to a
+network listserver and fileserver for getting mail and books or
+sending them in to us.  The same things are available through a
+letter or by mailing a disk.  Please remember to specify what a
+disk is formatted for. . .whether you are sending it to us as a
+book for our collection or whether you are requesting one.  Our
+volunteers can read or make disks in nearly any format, but you
+have to tell us what kind.  Example:  the most common disks are
+IBM 360K.  That alone is enough to tell us what we need, but if
+you would like to add 5 1/4" or 9 sector or any other pieces of
+information about your disks to insure compatibility, please do
+so.  Our most common formats are:
+IBM 360K, 1.2M, 720K, 1.44M.
+    DSDD,  HD   DSDD   HD    DSDD=Double Sided Double Density
+    5.25" 5.25" 3.5"  3.5"    HD = High Density
+    Frequently the 1.44M 3.5 inch disks say 2M,
+    that is unformatted size, you get to use 1.44 Megabytes.
+
+Mac 800K and high density (not usually called by size, but they
+    hold twice as much as the 800K)
+
+On request we will try to make disks for Apples, Ataris, Amigas
+and even the new 2.88M sized 3.5" disks.  If this is too much a
+burden to think about, you can describe your computer to us and
+we will be able to make a good guess as to what kind of disk is
+right for that computer.  Please also call your dealer to get a
+better idea of what kind of disk you need.
+
+If you can find a local computer club, network or BBS (Bulletin
+Board Service) they can assist you in getting the books into an
+etext or disk format suitable for your own private use.  One of
+the great advantages of our network distribution is that when a
+text is copied from a network to your computer, it is automatic
+that it appears in the proper disk format for your computer.  A
+modem copying from another computer does the same thing.
+We are somewhat reluctant to cash the checks people send in, if
+we don't know what kind of disks to send them.  Remember you do
+not buy our books, they are free.  The donations are to Project
+Gutenberg/Illinois Benedictine College (You may abbreviate IBC)
+and since they will be going to the college funds, they will be
+tax deductible.  If you can get the books via network or modem,
+please do so, as we are not prepared for mass mailings of disks
+or the purchase of stamps.  Nevertheless, we want everyone from
+everywhere to be able to get our books so please don't hesitate
+to send us a self-addressed stamped disk mailer and a donation,
+you will get your disks and will be encouraged to share them in
+any manner you can.  Some people put them in public libraries.
+
+Please send to:
+Project Gutenberg
+405  West Elm St.
+Urbana, IL  61801
+
+You are most thoroughly invited to proofread our books while in
+the process of using them.  Your suggestions will be checked on
+during the creation of our next edition of that book.  Etext is
+very easy to edit, and you may be happy to hear that we will be
+soon releasing the 28th edition of Alice in Wonderland due to a
+continuing interest in helping us creating the best editions.
+
+ A Partial History of Project Gutenberg Releases
+ (and from other related and unrelated sources)
+1971 The U.S. Declaration          (whenxxxx.xxx)
+1972 The Bill of Rights            (rightsxx.xxx)
+1973 The U.S. Constitution         (constxxx.xxx)
+197x The Complete Shakespeare*     ( unreleased )
+( Due to chnages in copyright law )
+198x The Bible (various eds)       (biblexxx.xxx)
+1975 Paradise Lost (Joseph Raben)  ( unreleased )
+198x Early Alice in Wonderland     (alicexxx.xxx)
+198x Early Looking-Glass           (lglassxx.xxx)
+
+This is the index of 1991 Project Gutenberg books
+as of December 15, 1991.  If you already have any
+copies of Alice or Roget, then we suggest you get
+the new copy from this list as they have been put
+through a significant improvement process.  A new
+copy of each of these files will be posted as the
+1992 editions, not all with major revisions.
+
+
+Jan 1991 Alice in Wonderland       (alice28x.xxx)
+Feb 1991 Through the Looking Glass (lglass15.xxx)
+Mar 1991 The Hunting of the Snark  (snark11x.xxx)
+Apr 1991 The CIA World Factbook    (world11x.xxx)
+May 1991 Moby Dick (From OBI)      (mobyxxxx.xxx)
+Jun 1991 Peter Pan (for US only)   (peter14a.xxx)
+Jul 1991 The Book of Mormon**      (mormon11.xxx)
+Aug 1991 The Federalist Papers+    (feder11x.xxx)
+Sep 1991 The Song of Hiawatha+     (hisong10.xxx)
+Oct 1991 Paradise Lost (Boss)      (plboss10.xxx)
+Nov 1991 Aesop's Fables            (aesop11x.xxx)
+Dec 1991 Roget's Thesaurus         (roget11x.xxx)
+
+**, +, etc. indicate notes in our newsletters.
+Numbers after titles indicate current releases,
+the newest not available at all sites at present.
+Get the highest number you can find.  When two
+releases are available, that means the newer one
+has just been posted for testing.  Please let us
+know how this file worked for you.
+
+* We currently recommend Shakespeare of Disk, and
+request you call 1-800-446-2089, ask for Niloufer
+or Sam Reifler, and please tell them you heard of
+their work through Project Gutenberg.  Ask for an
+electronic text license for an entire school, all
+students present and future included.  Staff will
+not be included, however.  Also recommended is an
+etext CD called Library of the Future.  You might
+call Valerie Hustwit at 1-800-443-0238; Grolier's
+Encyclopedia is on CD, call 1-800-356-5590.***End
+
+** Donated by Infobases (801) 375-7371, call them
+   more Mormon etexts at inexpensive prices.  Ask
+   for Paul Allen and please mention you heard of
+   their work through Project Gutenberg.
+
++  Was prepared and released by user request.
+
+Various editions of these early releases are in
+circulation, many of them unrecognizable due to
+editing, markup, and other changes.  These were
+not labeled as from any source, but were freely
+posted for Internet and BBS access.  Others are
+still in the process of being assigned to legal
+status for Public Domain release or permissions
+for various kinds of distribution, and thus are
+not being listed.
+
+Long Range Projects
+(some now completed, some in progress, some not started)
+
+Paradise Lost (Raben)     (2plostxx.xxx)
+Britannica 11th Edition
+Merriam-Webster's International Dictionary
+The Century Dictionary
+A New Dictionary Based of the English Language
+  Based on Historical Priciples by Murray
+(Currently named after a large English university)
+All major religious documents
+Plus the Magna Carta (Freenet)
+Mark Twain, collected works
+Jules Verne, collected works
+Shakespeare (a new edition for Public Domain)
+A. Conan Doyle (most of Sherlock Holmes, etc)
+Wuthering Heights         (wutherxx.xxx)
+From the Earth to the Moon(ttmoonxx.xxx)
+Pride and Prejudice       (pridexxx.xxx)
+Origin of Species (spare) (darwinxx.xxx)
+Grimms' Fairy Tales       (grimmxxx.xxx)
+Buddha                    (buddhaxx.xxx)
+Far From the Madding Crowd(crowdxxx.xxx)
+Civil Disobedience        (civildxx.xxx)
+The War of the Worlds     (wotwxxxx.xxx)
+The Time Machine          (tmachxxx.xxx)
+The Brick Moon            (bmoonxxx.xxx)
+Einstein's Moving Bodies  (1einstxx.xxx)
+Sir Walter Scott
+
+=====================================================
+|       The trend of library policy is clearly toward
+|       the ideal of making all information available
+|       without delay to all people.
+|
+|The Software Toolworks Illustrated Encyclopedia (TM)
+|(c) 1990 Grolier Electronic Publishing, Inc.
+
+Thank you for your interest,
+
+Michael S. Hart, Director, Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+
+The views expressed herein do not necessarily reflect
+the views of any person or institution.  Neither Prof
+Hart nor Project Gutenberg have any official contacts
+with the University of Illinois.
+
+Mail will be considered for release in our newsletter
+and notes unless otherwise requested.
+
+Email addresses:
+BITNET> HART@UIUCVMD  INTERNET> HART@VMD.CSO.UIUC.EDU
+Also as the Usenet group bit.listserv.gutnberg
+CompuServe:  >INTERNET:hart@vmd.cso.uiuc.edu
+Attmail:  internet!vmd.cso.uiuc.edu!HART</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1991_12_16.txt" target="new">pgmonthly_1991_12_16.txt</a>

@@ -1,0 +1,807 @@
+---
+params:
+  id: 2029
+title: "PG Weekly Newsletter: Part 1 (2003-08-13)"
+date: 2003-08-13T20:23:14+00:00
+author: Michael Cook
+layout: post
+url: /20030813/pg-weekly-newsletter-2003-08-13-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_August_13.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, August 13, 2003***
+******eBooks Readable By Both Humans and Computers For Over 32 Years*******
+
+
+            This Week We Passed Another Major Milestone!!!
+
+      We Now Have Produced Over 9,000 eBooks = 9/10 of 10,000!!!
+
+&gt;&gt;&gt;              8,000 eBooks In The Last 6 Years!!!!!!!            &lt;&lt;&lt;
+
+We Posted #1,000, Dante's Divine Comedy, The First Week Of August, 1997
+
+
+                     We Are Now At 9,036!!!
+
+
+Only 18 eBooks From Having Produced 5,000 eBooks Since Start Of 2001!!!
+
+
+Imagine the 10,000 books have been separated into 10 stacks of 1,000 each,
+we have just now completed 9 stacks leaving just 1 stack to go!!!
+
+
+GRAND TOTAL #10,000
+
+   ****_
+  (_10**( 10,000              BOOKS DONE!!!
+   ****_                     ****_
+  (**9**(  9,000            (**9**(   9,036
+   ****_                     ****_
+  (**8**(  8,000            (**8**(   8,000
+   ****_                     ****_
+  (**7**(  7,000            (**7**(   7,000
+   ****_                     ****_
+  (**6**(  6,000            (**6**(   6,000
+   ****_                     ****_
+  (**5**(  5,000            (**5**(   5,000
+   ****_                     ****_
+  (**4**(  4,000            (**4**(   4,000
+   ****_                     ****_
+  (**3**(  3,000            (**3**(   3,000
+   ****_                     ****_
+  (**2**(  2,000            (**2**(   2,000             BOOKS TO GO!!!
+   ****_                     ****_                      ****_
+  (**1**(  1,000            (**1**(   1,000            (**1**(     964  &lt;&lt;&lt;
+
+GRAND TOTAL #10,000          BOOKS DONE!!!              BOOKS TO GO!!!
+
+
+
+We Produced Hundreds More eBooks In 32 Weeks Than In The First 29 Years!
+
+
+          Only 4 Months/17 Weeks Until eBook #10,000 I Hope!!!
+
+          9036 Books Done. . .964 To Go. . .in 119 More Days!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 7/53 Year History, We Have Now Averaged About 275 Ebooks/Year
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+               We Are Averaging About 314 Per Month!!!
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    75 New Public Domain eBooks Under US Copyright
+- "The Future Of Project Gutenberg"
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+We're looking for a decent history of the US War of Independence,
+or War of Insurrection, as it was also known.   Thanks!   Michael
+
+***
+
+We're forming a De-hyphenation Team. . .for a long time it was the
+standard here not to include hyphenation, but, not being very bossy,
+I didn't insist. . .but we have had several requests on this, so I
+think we should look into it.
+
+***
+
+I am working on trying to collect and convert some public domain folk tunes
+to ABC notation.  Could use some help tracking down public domain versions
+of the melodies or proof that these songs are in the public domain.  Songs
+I'm working on at present include:
+I Know Where I'm Going
+Simple Gifts
+She Moved Throught The Fair
+A Sailor Courted a Farmer's Daughter (aka Constant Lovers)
+The Fisher Who Died in His Bed
+Ufros Alienu
+If anyone's interesting in converting folk songs to a digital public
+domain format and would like to help or if you want to contact me, you can
+do so through the mailing list at
+http://groups.yahoo.com/group/pdsongs
+
+***
+
+Latin Is A Dying Language???
+Latin Library (www.thelatinlibrary.com) died,
+and was resurrected recently, bring attention
+to the fact that we need to save these files,
+find matching paper editions, and be sure the
+files don't disappear.
+
+If you would like to help with Latin eBooks,
+please let me know.
+
+We have a few volunteers for this who could
+help coordinate your efforts, if you should
+be able to locate any Latin books.
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me,
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November while
+you would download the last month's/weeks' releases.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+We are seeking pro bono or very cheap legal assistance to pursue
+Project Gutenberg trademark infringers and similar issues.  Please
+email Michael Hart &lt;hart@pobox.com&gt;.
+
+[We received 3 replies from the US, 1 from Australia, but
+may need more around December 10.]
+
+
+*** NEW ADDRESS FOR "PUNCH" MAGAZINE TEAM
+
+If you have, and are willing to scan bound volumes of Punch
+pre-1923 please contanct as below. No single issues, please,
+unless you have a complete year of them.
+Please contact:  jonathan_ingram@yahoo.com
+
+
+*** Progress Report
+
+    In the first 7.25 months of this year, we produced 2300 new eBooks.
+
+     It took us from 1971 to 1999 to produce our first 2,300 eBooks!
+
+                 That's 32 WEEKS as Compared to 29 Years!
+
+                   75   New eBooks This Week
+                   90   New eBooks Last Week
+                   75   New eBooks This Month [August]
+
+                  314   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 2293   New eBooks in 2003  &lt;&lt;&lt;
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                9,036   Total Project Gutenberg eBooks
+                5,749   eBooks This Week Last Year
+                3,254   New eBooks In The Last 12 Months  &lt;&lt;&lt;
+
+                4,416   New eBooks in the last 18 months  &lt;&lt;&lt;
+
+                  262   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  2293 New eBooks So Far in 2003
+
+              It took us 29 years for the first 2293!
+
+        That's the 32 WEEKS of 2003 as Compared to 29 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #2293
+
+
+Sep 2000 A House to Let, by Dickens, et.al.   [Dickens #53][hsletxxx.xxx] 2324
+Sep 2000 Recollections and Letters of General Robert E. Lee[releexxx.xxx] 2323
+Sep 2000 Hans Huckebein, by Wilhelm Busch [Three Stories]  [?hckbxxx.xxx] 2322
+  Contents: [In German]
+    Hans Huckebein, der Ungluecksrabe
+    Das Pusterohr
+    Das Bad am Samstag Abend
+Sep 2000 Goetz von Berlichingen, by Johann W. Goethe  [#12][?getzxxx.xxx] 2321
+
+Sep 2000 Novelle, by Johann Wolfgang Goethe    [Goethe #11][?nvllxxx.xxx] 2320
+Sep 2000 West-oestlicher Divan, by Johann W. Goethe[JWG#10][?wdvnxxx.xxx] 2319
+Sep 2000 Droll Stories [V. 2], by Honore de Balzac[HdB #92][2drllxxx.xxx] 2318
+Sep 2000 The Story of My Heart, by Richard Jefferies       [tsomhxxx.xxx] 2317
+Sep 2000 The Choir Invisible, by James Lane Allen          [chrnvxxx.xxx] 2316
+
+Sep 2000 The Flag-Raising, by Kate Douglas Wiggin[Wiggin14][flgrsxxx.xxx] 2315
+Sep 2000 Geschichte des Agathon, Teil 2, by C M Wieland #3 [?2agtxxx.xxx] 2314
+Sep 2000 Geschichte des Agathon, Teil 1, by C M Wieland #2 [?1agtxxx.xxx] 2313
+[In German]
+Sep 2000 Hermann und Dorothea, by Goethe [German 8-bits] #9[?hermxxx.xxx] 2312
+Sep 2000 Travels through France & Italy, by Tobias Smollett[ttfaixxx.xxx] 2311
+
+Sep 2000 In The Carquinez Woods, by Bret Harte  [Harte #13][crqnzxxx.xxx] 2310
+Sep 2000 The Freelands, by John Galsworthy  [Galsworthy #2][frndsxxx.xxx] 2309
+Sep 2000 Bunyan Characters (3rd Series), by Alex. Whyte #3 [3bnchxxx.xxx] 2308
+Sep 2000 The Depot Master, by Joseph C. Lincoln            [dpmstxxx.xxx] 2307
+
+
+Aug 2000 Uncle Remus/Songs/Sayings, by Joel Chandler Harris[remusxxx.xxx] 2306
+[Full Title: Uncle Remus: His Songs and His Sayings]
+
+Aug 2000 A Set of Six, by Joseph Conrad [Joseph Conrad #24][seto6xxx.xxx] 2305
+Aug 2000 Legends and Lyrics, Pt 2, by Adelaide Ann Proctor [lgly2xxx.xxx] 2304
+Aug 2000 Legends and Lyrics, Pt 1, by Adelaide Ann Proctor [lgly1xxx.xxx] 2303
+Aug 2000 Poor Folk, by Fyodor Dostoyevsky  [Dostoyevsky #3][prflkxxx.xxx] 2302
+Aug 2000 A Simpleton, by Charles Reade                     [smptnxxx.xxx] 2301
+
+Aug 2000 The Descent of Man, by Charles Darwin  [Darwin #7][dscmnxxx.xxx] 2300
+Aug 2000 Pandora, by Henry James          [Henry James #21][pndraxxx.xxx] 2299
+Aug 2000 Great Astronomers, by R. S. Ball                  [grastxxx.xxx] 2298
+Aug 2000 Snow-Bound at Eagle's, by Bret Harte   [Harte #12][sbdaexxx.xxx] 2297
+Aug 2000 Pillars of Society, by Henrik Ibsen[Henrik Ibsen2][pllrsxxx.xxx] 2296
+
+Aug 2000 Waifs and Strays, etc, by O Henry Pt 1[O Henry #8][1waifxxx.xxx] 2295
+Aug 2000 Anthol. Massachusetts Poets/William S. Braithwaite[mpoetxxx.xxx] 2294
+Aug 2000 A New England Girlhood[Beverly, MA] by Lucy Larcom[grlhdxxx.xxx] 2293
+Aug 2000 Yet Again, by Max Beerbohm       [Max Beerbohm #8][ytagnxxx.xxx] 2292
+Aug 2000 David Elginbrod, by George MacDonald[Scottish][#7][?lgnbxxx.xxx] 2291
+
+Aug 2000 Twenty-Two Goblins, Translated from the Sanskrit  [22gblxxx.xxx] 2290
+Aug 2000 Rosmersholm, by Henrik Ibsen    [Henrik Ibsen #1] [rsmrhxxx.xxx] 2289
+Aug 2000 Through Russia, by Maxim Gorky   [Maxim Gorky #2] [trussxxx.xxx] 2288
+Aug 2000 Havoc, by E. Philips Oppenheim[E. P. Oppenheim #9][havocxxx.xxx] 2287
+Aug 2000 Devil's Ford by, Bret Harte       [Bret Harte #11][dvlfdxxx.xxx] 2286
+
+Aug 2000 Ridgway of Montana, by William MacLeod Raine  [#4][rdgwyxxx.xxx] 2285
+Aug 2000 Animal Heroes, by Ernest Thompson Seton [Seton #2][anhroxxx.xxx] 2284
+Aug 2000 The Lost Road, etc, by Richard Harding Davis [#30][lstrdxxx.xxx] 2283
+
+***
+
+The Future Of Project Gutenberg
+
+We have had renewed interest in various areas of music, from publishing
+more song lyrics and scores to listenable pieces in MIDI, WAV, and MP3.
+We would LOVE to expand our Music Team to all kinds of music, classical,
+folk, jazz, and music from a wide variety of countries and cultures.
+
+***
+
+Today Is Day #224 of 2003
+This Completes Week #32
+146 Days/21 Weeks To Go  [We get 53 Wednesdays this year]
+964 Books To Go To #10,000
+119 Days To December 10, 2003
+[Our Goal For eBook #10,000]
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #68 Of Our SECOND 5,000 eBooks
+
+   72   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+"Visit http://ibiblio.org/gutenberg
+for a link to the study.
+It only takes a few minutes."
+
+or
+
+Contact Debbie Dvorniks directly:
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by proofreading just a few pages per day.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned)." Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 32 weeks of this year, we have produced 2293 new eBooks.
+It took us from 1971 to 1999 to produce our FIRST 2293 eBooks!!!
+
+         That's 32 WEEKS as Compared to 29 YEARS!!!
+
+
+With 9,036 eBooks online as of August 13, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.11 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.585 percent of the world's population!
+
+This "cost" is down from about $1.74 when we had 5749 eBooks A Year Ago
+
+Can you imagine 9,036+ books each costing $.64 less a year later???
+Or. . .would this say it better?
+Can you imagine 9,036+ books each costing 1/3 less a year later???
+
+At 9036 eBooks in 32 Years and 2.25 Months We Averaged
+    280 Per Year   [About how many we do per month these days!]
+     23 Per Month
+    .78 Per Day
+
+At 2293 eBooks Done In The 224 Days Of 2003 We Averaged
+     10 Per Day
+     72 Per Week
+    314 Per Month
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003 at noon.
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+From Newsscan:
+
+UCITA SUPPORT FADING FAST
+Key backers of the Uniform Computer Information Transactions Act (UCITA)
+have bowed to pressure from opposition groups and will stop lobbying for
+the bill's passage. The bill was intended to protect software developers
+from intellectual property theft by bringing into conformity conflicting
+software licensing laws in various states, but critics, including the
+American Bar Association and the American Library Association, said the
+legislation would grant software makers too much power over their products
+at the expense of consumers. So far, UCITA has been enacted in only two
+states, Maryland and Virginia, and now that the effort has lost the support
+of the National Conference of Commissioners on Uniform State Laws (NCCUSL),
+UCITA is unlikely to gain further consideration from other states, says an
+NCCUSL spokeswoman. Opponents of the bill commended NCCUSL for its
+decision: "It is heartening to see NCCUSL backing away from a very flawed
+statute, but it will never be able to write sound law for the information
+economy until it takes to heart the criticisms of the user sector," said
+Jean Braucher, a law professor at the University of Arizona and a member of
+AFFECT -- Americans For Fair Electronic Commerce Transactions. (CNet
+News.com 7 Aug 2003)
+
+[THE WINTER OF OUR DISCONTENT *NOT* MADE GLORIOUS SUMMER VIA TECH SUPPORT]
+[I have advised 100's of people NOT to do this. . .duh!  Here it lies R.I.P.]
+[I downloaded an "upgrade" from Micron to fix some problems that made their
+CDROM drive pretty iffy on reading CDROMs written via consumer CD writers.
+Well, it's not "iffy" any more. . .now it won't read ANY of them, AND will
+not read many OEM install CDROMs, even many from MicroSoft, so I can't
+install a new OS which Micron said MIGHT help some.] [I just spent THREE
+hours installing a new OS over a network connection. . .didn't help. . .
+in fact I liked ALL the old stuff better, so far.]
+
+NOW IS THE WINTER OF OUR DISCONTENT WITH TECH SUPPORT
+A March survey of 10,000 computer users by Consumer Reports magazine
+indicates that of the 8 million users who seek tech support from software
+companies every year, about a third are not helped. "People are so
+frustrated with tech support, they're not even calling," says CR senior
+editor Jeff Blyskal. Not only that, but software's getting worse, according
+to a 2002 report funded by the National Institute of Standards and
+Technology. That study estimated that software glitches cost the U.S.
+economy about $60 billion a year, with more than half of that borne by
+users. "Consumers are unpaid conscripts in an unpaid army of product
+testers who go and find the problems and alert the manufacturers," says
+Blyskal. And while a spokesman for the Software and Information Industry
+Association says software makers do not intentionally hurry products to
+market before all the bugs are worked out, experts say the current crop of
+software is riddled with errors, in part because of its increasing
+complexity. To make matters worse, many companies are starting to charge
+users for the privilege of attempting to resolve problems while the number
+of tech support personnel steadily dwindles. And software firms' strategy
+of channeling users toward online help menus and e-mail leaves much to be
+desired, according to the CR survey, which showed that 73% of users said
+Web solutions are hard to find, navigate or don't work at all. The e-mail
+route is equally as frustrating, with 50% reporting either unhelpful
+replies, response delays of longer than two days or no response at all.
+Meanwhile, industry watchers hold out little hope for improvement: "You're
+adding more complex software, more hardware devices, home-based Internet
+applications. These things interact and they don't always work together.
+That's going to make this a bigger problem," says Blyskal.(CNN.com 8 Aug 2003)
+http://www.cnn.com/2003/TECH/ptech/08/07/software.glitches/index.html
+
+PRICE DISCRIMINATION COULD SPARK CONSUMER BACKLASH
+The Internet has made it easy for consumers to comparison shop for items
+such as mortgages, cars, airline tickets and the like, but the flip side of
+that convenience is that sellers also know more about buyers than ever
+before: how much they buy, when they buy, and even how much they can afford
+to pay. The inevitable result is price discrimination -- the practice of
+offering different prices to different buyers, something that drives
+consumers crazy. For example, a few years ago Coca-Cola experimented with
+vending machines that jacked up the price of its sodas as the temperature
+rose. And airlines have become masters of the practice, offering different
+customers the exact same thing -- a seat on a plane -- for vastly different
+prices. But University of Minnesota mathematician Andrew Odlyzko says even
+though consumers hate it, companies increasingly will try to vary their
+prices to suit certain times, places or buyers. But the trend could spark a
+consumer backlash, fueled by growing concern over personal privacy issues.
+"The growth in price discrimination is just one factor involved in this
+evolution of our economy toward where the fight is really going to be --
+about ownership or control of information," says Odlyzko.
+(AP/Siliconvalley.com 7 Aug 2003)
+
+NEW WORM TARGETS MICROSOFT SECURITY SITE
+A virus-like computer attack expected to infect hundreds of thousands of
+computers worldwide is programmed to direct all infected computers to
+attack the security-related Microsoft Web site www.windowsupdate.com, used
+by millions of Microsoft users each week. The worm, variously called
+LoveSan, Blaster and MSBlaster, is apparently similar in structure to the
+Code Red virus that affected 300,000 computers two years ago; it targets a
+flaw in Microsoft Windows operating systems, and is considered to be a worm
+type of virus because it doesn't require computer users to open an e-mail
+attachment or take any other action to spread automatically from computer
+to computer. Home computer users who leave computers constantly online to
+the Internet through DSL or cable are among those most at risk. (San Jose
+Mercury News 11 Aug 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6511962.htm
+
+AMERICA ONLINE WANTS 'AOL' FOR ITSELF
+America Online CEO Jonathan Miller has asked AOL Time Warner to drop the
+"AOL" portion of its moniker, because he's concerned that "AOL," the online
+service, is being confused with "AOL," used as shorthand for the world's
+largest media company. "I believe it's time for us to get our brand back,"
+said Miller in an e-mail to staff Monday. "Any controversy or criticism
+involving the corporate entity has actually hit our consumer brand." A
+company spokeswoman said AOL Time Warner chief executive Richard Parsons is
+considering Miller's proposal, but the final decision will be up to the
+company's board. AOL Time Warner's name has been in the news recently as
+the Securities and Exchange Commission investigates possible accounting
+irregularities, mainly at the AOL division, which is also struggling with
+dialup defection as subscribers switch over to broadband ISPs. (AP 11 Aug 2003)
+http://apnews.excite.com/article/20030811/D7SS04DO0.html
+
+MICROSOFT MUST PAY $521 MILLION FOR PATENT INFRINGEMENTS
+A federal court in Chicago has ruled that Microsoft must pay $521 million
+to Eolas Technologies and the University of California for infringing
+patents owned by UC and licensed to Eolas. At issue is code included in
+Internet Explorer that enables it to use plug-ins and applets, allowing Web
+surfers to view multimedia or real-time content within a Web browser rather
+than a separate software application. Eolas originally filed the lawsuit in
+1999, and will receive 75% of the proceeds from the verdict, minus legal
+fees and costs, and UC will receive the remaining 25%. Microsoft has said
+it will appeal the jury verdict. (CNet News.com 11 Aug 2003)
+http://news.com.com/2100-1012_3-5062409.html
+
+[Anyone Want To Try This On Behalf Of Project Gutenberg??? hart@pobox.com]
+IS 'SIX DEGREES OF SEPARATION' THEORY AN ACADEMIC MYTH?
+Columbia University researchers have conducted the first large-scale
+experiment examining the "six degrees of separation" theory, which posits
+that a short chain of acquaintances (six links or less) can be found
+between almost any two people in the world. In this global study, more than
+60,000 people tried to get in touch with one of 18 people in 13 countries,
+and of the more than 24,000 e-mail chains that were started fewer than 2%
+reached their targets. The successful chains arrived quickly, requiring
+only four steps to get there, but the rest failed when someone in the
+middle did not forward the e-mail. Psychologist Judith S. Kleinfeld of the
+University of Alaska calls the "six degrees of separation" theory the
+"academic equivalent of an urban myth" and says: "Instead of showing we
+live in a small world, it really shows the opposite. Ninety-eight percent
+of people can't reach anybody. What do they conclude? 'Hey, we're all
+connected.' What? All I'm saying is this study didn't prove it." The
+follow-up experiment is at http://smallworld.columbia.edu.
+(New York Times 12 Aug 2003)
+http://partners.nytimes.com/2003/08/12/science/12MAIL.html
+
+
+History teaches us that men and nations behave wisely
+once they have exhausted all other alternatives. Abba Eban
+
+If knowledge can create problems, it is not
+through ignorance that we can solve them.  Isaac Asimov
+
+
+JUDGE THROWS OUT RIAA SUBPOENAS
+A federal judge in Boston has rejected subpoenas filed by the Recording
+Industry Association of America last month as part of its nationwide
+crackdown on digital music file-sharing. The subpoenas targeted students at
+Boston College and the Massachusetts Institute of Technology who used
+various screen names to share songs online. In his ruling, Judge Joseph L.
+Tauro said that under federal rules, subpoenas issued in Washington cannot
+be served in Massachusetts. The RIAA called the ruling "a minor procedural
+issue" but declined to say whether it would refile in Boston. (AP 8 Aug 2003)
+http://apnews.excite.com/article/20030809/D7SQ5LC80.html
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+RIAA ENCOUNTERS ROADBLOCK
+In what the Recording Industry Association of America (RIAA) has deemed
+a "minor procedural issue," a federal judge ruled that some of the
+RIAA's subpoenas are invalid because they were issued from the wrong
+jurisdiction. Boston College and the Massachusetts Institute of
+Technology recently received subpoenas requesting the identities of
+students suspected of illegally trading copyrighted material, but the
+schools noted that the subpoenas were issued from Washington, D.C., and
+should not be valid in Massachusetts. Judge Joseph L. Tauro agreed and
+threw out those subpoenas. The RIAA said the ruling does not change the
+"undeniable fact" that Internet service providers, in this case the
+universities in question, are legally required to reveal the identities
+of suspected copyright violators.
+BBC, 11 August 2003
+http://news.bbc.co.uk/2/hi/technology/3140933.stm
+
+ISPS CONTEST RIAA SUBPOENAS
+An organization representing Internet service providers (ISPs) will
+send a letter this week to the recording industry, expressing the
+group's concern over the ongoing subpoenas from the recording
+industry. The letter from NetCoalition, which represents more than 100
+ISPs, requests a meeting with representatives of the recording industry
+to discuss how the group determines which individuals to pursue as
+violators and how it maintains accurate information in the subpoenas.
+According to the letter, NetCoalition fears that the goal of the
+subpoenas is to make ISPs legally accountable for the actions of their
+users, something the recording industry "has not yet been able to
+accomplish in Congress" but that it is trying to accomplish in the
+courts. An attorney from the recording industry association said the
+purpose of the subpoenas is simply to force ISPs to comply with the law.
+New York Times, 11 August 2003 (registration req'd)
+http://www.nytimes.com/2003/08/11/technology/11LETT.html
+
+
+["Nothing In Our Schools Is More Important Than Safety," school official.]
+[Those Who Would Sacrifice Freedom For Safety, Deserve Neither." Franklin]
+
+WEBCAM SURVEILLANCE IN BILOXI SCHOOLS
+Public schools in Biloxi, Mississippi, now have Web cameras in every
+classroom, as the result of a two-year-long school-safety project. The
+webcams are housed in circular domes on the ceiling and provide a sweeping
+view of the classrooms to school administrators. A Biloxi school system
+administrator reports that students and teachers have said they feel safer:
+"They've been well received in the community. We have not had any problems
+or complaints whatsoever." In rebuttal, the president of the Mississippi
+American Federation of Teachers worries the cameras may affect
+teacher/student rapport and doubts the cameras will act as enough of a
+crime deterrent to justify the intrusion or the $2 million project cost.
+(AP/New York Times 12 Aug 2003)
+http://partners.nytimes.com/aponline/technology/AP-Classroom-Cameras.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_08_13_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_08_13_part_1.txt</a>

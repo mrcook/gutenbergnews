@@ -1,0 +1,259 @@
+---
+params:
+  id: 2034
+title: "PG Weekly Newsletter: Part 3 (2003-08-20)"
+date: 2003-08-20T16:58:32+00:00
+author: Michael Cook
+layout: post
+url: /20030820/pg-weekly-newsletter-2003-08-20-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 20th August 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+REMINDER: GUTINDEX eBook numbers now have five digits.!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+        or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 20 Aug 2003:   9,079 (incl. 263 Aus.).
+
+Last week the Total Count was 9,036, including 262 at PG of Australia.
+This week we added 44 new (incl. 1 at PG of Australia); however, we had to
+remove one posted previously, for a net gain of 43 for the week (details
+below).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to clarify author's name:
+Jul 2005 Table Talk of S. T. Coleridge, by Coleridge   [#7][?tabcxxx.xxx] 8489
+[Full title: Specimens of the Table Talk of Samuel Taylor Coleridge]
+[Ed.: with an Intro by H. N. Coleridge]
+
+
+The following is being re-indexed to correctly identify the contents and
+the authors:
+Aug 2005 Fallen Star/Origin of Evil, by Bulwer & Brougham  [flnstxxx.xxx] 8654
+[Full Titles: The Fallen Star, or, The History of a False Religion, by E. L.
+  Bulwer; and a Dissertation on the Origin of Evil, by Lord Brougham]
+
+
+The following eBook has been removed from the collection (it was a
+duplicate of eBook #8564):
+Jul 2005 Mungo Park in Central Africa, by Mungo Park       [?mprkxxx.xxx] 8573
+[Full title: Life and Travels of Mungo Park in Central Africa]
+(Note:  #8573 has been re-assigned to a different eBook, see below.)
+
+
+We have posted an improved 11th edition of the following:
+Nov 2003 We of the Never-Never, Jeanie "Mrs. Aeneas" Gunn  [wenevxxx.xxx] 4699
+
+
+=-=-=-=[ 43 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Sep 2005 A Love Story, by A Bushman                        [?lvstxxx.xxx] 8883
+[Also posted HTML - 8lvst10h.zip and 8lvst10h.htm]
+Sep 2005 Kokoro, by Lafcadio Hearn                     [#9][kkoroxxx.xxx] 8882
+[Subtitle: Japanese Inner Life Hints]
+Sep 2005 A Fleece of Gold, by Charles Stewart Given        [?jasnxxx.xxx] 8881
+[Subtitle: Five Lessons from the Fable of Jason and the Golden Fleece]
+[Also posted HTML - 8jasn10h.zip and 8jasn10h.htm]
+
+Sep 2005 Satanstoe, by James Fenimore Cooper          [#17][?satnxxx.xxx] 8880
+Sep 2005 There & Back, by George MacDonald                 [?thbkxxx.xxx] 8879
+Sep 2005 The Mischief Maker, by E. Phillips Oppenheim      [?msmkxxx.xxx] 8878
+Sep 2005 Geoffrey Strong, by Laura E. Richards             [gffryxxx.xxx] 8877
+
+
+Sep 2005 The Road to Damascus, by August Strindberg        [?rddmxxx.xxx] 8875
+[A trilogy of plays]
+[Tr. Note:  English Version by Graham Rawson; Intro. by Gunnar Ollen]
+[Also posted: HTML in 8rddm10h.htm; illustrated HTML in 8rddm10h.zip]
+Sep 2005 Queechy, by Elizabeth Wetherell                   [?queexxx.xxx] 8874
+[Also posted: HTML in 8quee10h.htm; illustrated HTML in 8quee10h.zip]
+Sep 2005 The Isle of Unrest, by Henry Seton Merriman   [#7][?islexxx.xxx] 8873
+Sep 2005 Report on the Condition of the South, Carl Schurz [cnsthxxx.xxx] 8872
+Sep 2005 A Desperate Character, by Ivan Turgenev       [#7][?despxxx.xxx] 8871
+[Full title: A Desperate Character and Other Stories]
+
+Sep 2005 La Mejor Cocinera, by Calleja (pseudonym)         [?mjrcxxx.xxx] 8870
+[Subtitle: Recetas de Cocina] [Language: Spanish]
+Sep 2005 Tales From Bohemia, by Robert Neilson Stephens    [?bohmxxx.xxx] 8869
+Sep 2005 Botchan (Master Darling), by Kin-nosuke Natsume   [btchnxxx.xxx] 8868
+[Full Author: Mr. Kin-nosuke Natsume] [Tr.: Yasotaro Morri]
+
+Sep 2005 Wild Flowers Worth Knowing, by Neltje Blanchan    [wfwknxxx.xxx] 8866
+[Author Note: Adapted from Nature's Garden by Asa Don Dickinson]
+[Also posted: HTML wfwkn10h.htm and wfwkn10h.zip]
+[Note:  illustrations included in both zip files.)
+Sep 2005 Miss Theodosia's Heartstrings, by A. Donnell      [?msthxxx.xxx] 8865
+[Author's Full Name: Annie Hamilton Donnell]
+
+Sep 2005 Memoires secrets de Fournier, by Claude Fournier  [?mmrsxxx.xxx] 8864
+[Full title: Memoires secrets de Fournier l'Americain]
+[Intro. and Notes:  Francois-Alphonse Aulard] [Language: French]
+Sep 2005 Le Speronare, by Alexandre Dumas                  [?lsprxxx.xxx] 8863
+[Language: French]
+
+Sep 2005 Scientific American Sup. No. 384, by Various      [?0384xxx.xxx] 8862
+[Full title: Scientific American Supplement, No. 384, May 12, 1883]
+[Also posted: HTML in 8038410h.htm; illustrated HTML in 8038410h.zip]
+Sep 2005 Poetical Works, Vol. 1, by Lord Byron             [?bpt1xxx.xxx] 8861
+[Full Title: The Works Of Lord Byron, Poetry, Volume 1.]
+[Ed.: Ernest Hartley Coleridge]
+[Also posted illustrated HTML in - 8bpt110h.zip; and 8bpt110h.htm]
+
+
+Sep 2005 Palestine or the Holy Land, by Michael Russell    [?pltnxxx.xxx] 8860
+[Subtitle: From the Earliest Period to the Present Time]
+Sep 2005 True to the Old Flag, by G. A. Henty              [?oflgxxx.xxx] 8859
+[Subtitle: A Tale of the American War of Independence]
+[Also posted illustrated HTML only in - 8oflg10h.zip; and 8oflg10h.htm]
+
+Sep 2005 Earthwork Out Of Tuscany, by Maurice Hewlett      [?erthxxx.xxx] 8858
+[Subtitle: Being Impressions and Translations of Maurice Hewlett]
+Sep 2005 Life, Studies, Works Of Benjamin West,by John Galt[?bwstxxx.xxx] 8857
+[Full Title: The Life, Studies, And Works Of Benjamin West, Esq.]
+[Subtitle: Composed from Materials Furnished by Himself]
+[Full Author: John Galt]
+[Also posted: HTML with accented characters in 8bwst10h.htm/.zip]
+Sep 2005 The Secrets Of The Great City, by E. Martin       [?sgrcxxx.xxx] 8856
+[Subtitle: A Work Descriptive of the Virtues and the Vices, the Mysteries,
+  Miseries and Crimes of New York City]
+[Author's Full Name: Edward Winslow Martin]
+
+Sep 2005 Astral Worship, by J. H. Hill                     [astrlxxx.xxx] 8855
+[HTML version in astrl10h.htm and astrl10h.zip]
+[ZIP files contain 9 gif images of exceptional quality]
+
+
+Sep 2005 Tales And Novels, Volume 1, by Maria Edgeworth    [?tal1xxx.xxx] 8826
+[Subtitle: Moral Tales]
+
+Sep 2005 The Life And Letters Of Maria Edgeworth, Vol. 1   [?edg1xxx.xxx] 8825
+[Author's Full Name: Maria Edgeworth] [Ed.: Augustus J. C. Hare]
+Sep 2005 Poems In Two Volumes, Vol 2, by William Wordsworth[pwdw2xxx.xxx] 8824
+
+
+Sep 2005 Journal Of A Mission To The Interior Of Africa, In[?mngoxxx.xxx] 8814
+[Title: The Journal Of A Mission To The Interior Of Africa, In The Year 1805]
+[Subtitle: Together with Other Documents, Official and Private, Relating to
+  the Same Mission, to Which Is Prefixed an Account of the Life of Mr. Park]
+[Full Author: Mungo Park] [Ed.: John Whishaw]
+
+
+Sep 2005 Divine Comedy by Dante, Illust. Dore Complete[#42][comedxxx.xxx] 8800
+[The Divine Comedy: The Vision of Hell, Purgatory and Paradise]
+[Full Author: Dante Alighieri][File Size: 36 mb]
+[Tr.: Henry Francis Cary; Illustrated by Gustave Dore]
+Aug 2005 Divine Comedy: Paradise, Dante, Dore Complete[#41][dpar4xxx.xxx] 8799
+Aug 2005 Divine Comedy: Paradise,  Dante, Dore      V3[#40][dpar3xxx.xxx] 8798
+Aug 2005 Divine Comedy: Paradise,  Dante, Dore      V2[#39][dpar2xxx.xxx] 8797
+Aug 2005 Divine Comedy: Paradise,  Dante, Dore      V1[#38][dpar1xxx.xxx] 8796
+[The Divine Comedy: The Vision of Paradise or Paradiso]
+[Full Author: Dante Alighieri][File Sizes: Complete: 4 mb; V1-3: 2 mb each]
+[Translated by Henry Francis Cary, Illustrated by Gustave Dore]
+
+Aug 2005 Divine Comedy: Purgatory, Dante, DoreComplete[#37][dprg6xxx.xxx] 8795
+Aug 2005 Divine Comedy: Purgatory, Dante, Dore      V5[#36][dprg5xxx.xxx] 8794
+Aug 2005 Divine Comedy: Purgatory, Dante, Dore      V4[#35][dprg4xxx.xxx] 8793
+Aug 2005 Divine Comedy: Purgatory, Dante, Dore      V3[#34][dprg3xxx.xxx] 8792
+Aug 2005 Divine Comedy: Purgatory, Dante, Dore      V2[#33][dprg2xxx.xxx] 8791
+
+Aug 2005 Divine Comedy: Purgatory, Dante, Dore      V1[#32][dprg1xxx.xxx] 8790
+[The Divine Comedy: The Vision of Purgatory or Purgatorio]
+[Full Author: Dante Alighieri][File Sizes: Complete: 10 mb; V1-5: 2.5 mb each]
+[Tr.: Henry Francis Cary; Illustrated by Gustave Dore]
+
+
+Jul 2005 Pausanias, the Spartan, by Lord Lytton            [?psnsxxx.xxx] 8573
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Aug 2003 Early Explorers in Australia, by Ida Lee          [030114xx.xxx] 0263A
+[http://gutenberg.net.au/ebooks03/0301141h.zip ZIPPED HTML WITH IMAGES]
+[http://gutenberg.net.au/ebooks03/0301141.txt  AND ZIP files addes]
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Thierry and Gali, looking forward to working with you more,
+Greg, Michael, and Larry Wall. Entertainment for the workers provided
+by Liz Kershaw and Andrew Collins.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_08_20_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_08_20_part_3.txt</a>

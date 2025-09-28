@@ -1,0 +1,445 @@
+From hart at pglaf.org  Wed May 24 09:47:15 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed May 24 09:47:18 2006
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0605240946480.29276@pglaf.org>
+
+pt1a3.506
+pt1b3.506
+Weekly_May_24.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, May 24, 2006 PT1***
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+*
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    2 New This Week From PG Australia [Australian, Canadian Copyright Etc.]
+    5 New This Week From PGEu [European Copyrights, Life + 50 and 70]
+    6 New This Week From PG PrePrints
+   33 New This Week To Public Domain eBooks Under US Copyright
+   46 New This Week [Including PG Australia, PG Europe and PrePrints]
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                         *eBook Milestones*
+
+            19,415 eBooks As Of Today At These Four PG Sites
+
+                        540 to go to 20,000!!!
+
+                18,978 at www.gutenberg.org[+33]
+                   582 Australian eBooks    [+2] [Included in above line]
+                   313 Gutenberg Europe     [+5] [Including after July 4]
+                   168 PG   PrePrint Site   [+6] [Including after July 4]
+                    47 Total New Books This Week
+                19,461 Grand Total of all four sites
+                19,465 [via my automated program]
+
+                   ~97% of the Way to 20,000
+
+
+      ***557 eBooks Averaged Per Year Since July 4, 1971***
+
+            16,397 New eBooks Since The Start Of 2001
+
+           That's ~257 eBooks per Month for ~63.75 Months
+
+            1,317 New eBooks in 2006 at These Four Sites
+
+            23 New eBooks From Distributed Proofreaders
+             8,473 total from Distributed Proofreaders
+              Since October, 2000 [Details in PT1B]
+              [Currently over 36,000 DP volunteers]
+
+             We Averaged ~339 eBooks Per Month In 2004
+             We Averaged ~248 eBooks Per Month In 2005
+                      [Including PG Australia]
+
+          We Are Averaging ~277 eBooks Per Month This Year
+                [Including PGAu, PGEu and PrePrints]
+
+All Four Sites Combined Are Averaging 66 eBooks Per Week In 2006
+                           47 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2003 to 2006 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.5 years from Oct. 2003 to Mar. 2006 from 10,000 to 19,000
+
+
+[The above changes due to the opening of Project Gutenberg
+sites other than the original one at www.gutenberg.org]
+[Now including totals from Australia, Europe and PrePrints]
+[Apologies, it will take a while to integrate everything
+not all statistics may be totally equalized yet]
+[Daily PGEu stats at http://dp.rastko.net/default.php]
+[Daily DP stats at http://www.pgdp.net]
+
+BTW, we just started a new "PrePrints" site at PG,
+so if you come across eBooks that aren't ready for
+primetime, but that should be saved for upgrading,
+we have a place to put them.
+
+[Daily PrePrints stats at http://preprints.readingroo.ms/]
+
+*
+
+~75,000 eBooks at the PG Consortia Center [Including after July 4]
+         http://www.gutenberg.cc
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+FREE INTERNET REFERENCE SITE
+
+LivingInternet.com provides a 700-odd page reference about the Internet
+"to provide living context and perspective to this most technological
+of human inventions", and has received input from many people that helped
+build the Internet.  It currently receives about 3 thousand visitors a day,
+many from educational institutions.  Now in its 7th year of operation.
+http://www.livinginternet.com/
+
+
+TEXT TO SPEECH
+
+Dolphin Producer is a new software package which will convert a text
+document into a fully synchronized text and audio DTB at the push of a
+single button. The DTB can then be played back using Dolphin's
+EaseReader software player - which is included in Dolphin Producer.
+The DTB can also be played back on any other DAISY DTB software or
+hardware player, as well as any MP3 player - The choice is yours.
+
+http://www.dolphinuk.co.uk or http://www.dolphinusa.com
+
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+PROGRAM AIMS TO LOWER COSTS FOR PCS IN DEVELOPING COUNTRIES
+
+[Do you pay half the price to start, and then 50-75 cents an hour?
+Are there any interest charges, etc?  What operating system?]
+
+A new program supported by Microsoft aims to provide developing
+countries with low-cost access to computer technology through a
+subscription service. Under the FlexGo program, consumers pay a reduced
+price for a PC and then pay for usage of the computer until it is paid off.
+After buying a computer for about half of its retail value,
+customers would buy time on the machine for 50 to 75 cents per hour.
+When the full cost of the computer is paid, the user would then own the
+machine and would not incur any more charges. Microsoft, which has
+criticized Nicholas Negroponte's plan to offer $100 laptops to
+developing nations, said this plan will provide users with
+full-featured computers. According to Mike Wickstrand, director of
+product management in the market expansion group at Microsoft,
+the FlexGo program lets consumers buy "a PC that they want and
+not a PC that they had to settle for." Wickstrand said the FlexGo
+model accommodates the irregular incomes that many people in developing
+countries have, allowing them to pay for their computer when they are able.
+Silicon.com, 22 May 2006
+http://hardware.silicon.com/desktops/0,39024645,39159025,00.htm
+
+FEDS NERVOUS ABOUT LENOVO DEAL
+The U.S. State Department will reportedly not use any of the computers
+it recently purchased from Lenovo for classified information due to
+concerns over the company's connection with the Chinese government.
+Last year, Chinese computer maker Lenovo bought IBM's PC business, and
+in March of this year, the State Department ordered 16,000 Lenovo
+computers valued at $13 million through standard purchasing rules. When
+the deal was announced, Michael Wessel, a member of the congressionally
+created U.S.-China Economic and Security Review Commission, argued that
+use of the computers should be monitored in case they included code
+that could be activated remotely. Rep. Frank Wolf (R-Va.), chair of a
+House committee with responsibility for State Department funding,
+picked up those concerns, and an aide to his office confirmed that the
+Lenovo machines will be restricted to non-classified uses. Officials
+with Lenovo offered no immediate comment, saying they were reviewing
+the decision.
+CNET, 19 May 2006
+http://news.com.com/2100-7350_3-6074207.html
+
+USPTO TO REEXAMINE ONLINE TESTING PATENT
+Based on concerns raised by the Electronic Frontier Foundation (EFF)
+about "prior art," the United States Patent and Trademark Office
+(USPTO) has announced it will conduct a reevaluation of a patent
+granted in 2003 for online testing. The notion of prior art covers
+whether the subject of a patent is indeed original--and patentable--or
+whether another party had previously developed the item or technology
+in question. The patent at issue was granted to Test.com for
+technologies broadly related to offering tests online. If valid, the
+patent would allow the company to claim patent authority over a wide
+range of online testing tools deployed at colleges and universities,
+and the company has already approached some institutions about
+licensing the patent. According to the EFF, however, another company
+offered such tools for sale at least one year before the Test.com
+patent was issued. The review process is expected to take at least two
+months. James J. Posch, chief executive of Test.com, noted that their
+patent claim has passed muster once already. "I'll be surprised if it
+doesn't survive a second time," he said. Jason Schultz, staff lawyer
+at the EFF, had a different outlook, saying that he is confident the
+patent will be invalidated unless Test.com discloses some secret evidence.
+Chronicle of Higher Education, 19 May 2006 (sub. req'd)
+http://chronicle.com/daily/2006/05/2006051901t.htm
+
+ANTISPAM OUTFIT CRUSHED BY SPAMMER RETALIATION
+An antispam start-up based in Israel has shut its doors after a barrage
+of retaliatory action from spammers. In July 2005, Blue Security
+launched the Blue Frog service to fight spam. Users who signed up with
+the service would submit spam they received, which Blue Security would
+then use to flood the servers of spammers and the merchants whose
+products were advertised in those spam messages. If a spammer had a Web
+site that allowed users to opt out of receiving more messages, Blue
+Security would swamp those sites with opt-out requests. Officials from
+Blue Security said their tactic decreased the amount of spam many of
+its customers received, but it also prompted spammers to respond.
+Starting in May, Blue Security was the target of a denial-of-service
+attack, and Blue Security customers began receiving threats from
+spammers. The prospect of further attacks from spammers, many of whom
+have deep resources at their disposal, led Blue Security to end
+operations. "We cannot take the responsibility for an ever-escalating
+cyber war through our continued operations" said a statement on the
+company's site. "We believe this is the responsible thing to do."
+BBC, 17 May 2006
+http://news.bbc.co.uk/1/hi/technology/4990622.stm
+
+RIAA SUES XM RECORDING DEVICE
+The Recording Industry Association of America (RIAA) has filed a
+federal lawsuit against XM Radio, broadcaster of digital radio,
+alleging that the company's new Inno recording device will allow
+"massive wholesale infringement" of copyrights. XM, which introduced
+the Inno this month, had been in talks with the RIAA over royalties for
+songs saved on the portable device, but those talks reportedly broke
+down. In its complaint, the RIAA argued that the new device will allow
+users to record any of the vast amount of content that XM broadcasts,
+leaving users with "little need ever again to buy legitimate copies of
+plaintiffs' sound recordings." The suit asks for $150,000 in damages
+for every song recorded by XM customers. Officials from XM pointed out
+that digital radio is not an on-demand service, meaning listeners can
+only record what the station happens to play, unlike an online music
+service such as Apple's iTunes. XM said the new device allows consumers
+to record radio broadcasts, an action that has legal protection.
+CNET, 17 May 2006
+http://news.com.com/2100-1027_3-6073133.html
+
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.
+Remember, the subject is not the article's subject,
+the subject is the manipulation of the world news.]
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+"Equal justice under the law."
+
+
+*QUOTE OF THE WEEK
+
+"A billion dollars here, a billion dollars there, soon you
+are talking about real money."  [see *Statistics]
+
+
+*PREDICTIONS OF THE WEEK
+
+White collar crime will continue this growth trend.
+
+
+*STATISTICS OF THE WEEK
+
+A $10+ billion dollar accounting scheme to "cook the books"
+at Fannie Mae, over the last 6 years, corrupting mortgages,
+and a total of perhaps $1 trillion has passed in Fannie Mae
+accounts in that that time, so detractors say it was only a
+1% fudge factor.  1% of a trillion is $10 billion.
+
+The basis for cooking the books at Fannie Mae, holder of 20
+percent of all U.S. mortgages, was to generate "bonuses" of
+50+ million dollars just for CEO Franklin Raines alone, but
+others also had their compensation linked to performance.
+
+Now that this performance has been determined fraudulent it
+may be up to the SEC and other governmental agencis to make
+the case to strip these high level executives in court.
+
+Then Raines, Ex-CFO J. Timothy Howard and others might be a
+target to be retroactively fired, and have to repay salary.
+
+*
+
+At the same time the CEO and FIO of the world's 3rd largest
+retailer, Royal Ahold, were convicted of fraud and fined at
+most $300,000 each, along with a suspended sentence.
+
+Ex-CEO Cees van der Hoeven and Ex-CFO Michiel Meurs got the
+news yesterday.
+
+Fining a person who makes millions per year $300,000 is the
+same as fining a person who makes thousands per year $300.
+
+Source:  The Kansas City Star
+
+[Somewhere there is a big difference between justice for an
+assortment of embezzlers, fraudsters, and other executively
+endowed money makers and the blue collar people who do work
+that send those millions and billions of the ladder.]
+
+
+*
+
+By the way, for those interested, the official U.S. population
+estimates just passed 298 million, though many say estimations
+of this nature leave out as much as 5% of the population, with
+the obvious exclusion of the 11-12 million immigrant workers
+now being mentioned so much in the news.
+
+Still hoping for more statistical updates and additional entries.
+[This one is getting a little out of date, as the US population
+is obviously no longer 6% of the world.  In fact, rounding to the
+nearest percent, the US will soon fall from 5% to 4%.]
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people would possess 59% of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+

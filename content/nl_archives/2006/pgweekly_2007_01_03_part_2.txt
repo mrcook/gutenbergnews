@@ -1,0 +1,455 @@
+From news at pglaf.org  Thu Jan  4 13:34:17 2007
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu, 4 Jan 2007 13:34:17 -0800 (PST)
+Subject: [gweekly]  Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.64.0701041333140.21245@pglaf.org>
+
+GWeekly_January_03_part2.txt
+
+The Project Gutenberg Weekly Newsletter 03 Jan 2007
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 59 New U.S. eBooks this week
+    -  2 New eBooks at Project Gutenberg of Australia
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+-.- HOW TO GET EBOOKS FROM PROJECT GUTENBERG -.-
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+For more information about Project Gutenberg, and to see what's new,
+please visit the website at http://www.gutenberg.org.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 03 Jan 2007:
+     20,215 PG U.S.A.
+      1,454 PG of Australia
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Locusts and Wild Honey, by John Burroughs                                 6355
+   [Updated edition of etext04/lwhon10.txt]
+   [Link: http://www.gutenberg.net/6/3/5/6355 ]
+   [Files: 6355.txt; 6355-8.txt; 6355-h.htm]
+
+The American, by Henry James                                               177
+   [Link: http://www.gutenberg.net/1/7/177 ]
+   [Updated edition of: 177.txt and 177-h.htm]
+   [Files: 177.txt; 177-h.htm]
+
+(Note:  since 18 May 2004, 1,866 eBooks have been reposted.)
+
+:: Please note the following additional changes, corrections, improvements:
+
+   None this week.
+
+
+-=-=-=-=[  59 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Hunter's Marjory, by Margaret Bruce Clarke                               20258
+   [Subtitle: A Story for Girls]
+   [Link: http://www.gutenberg.org/2/0/2/5/20258 ]
+   [Files: 20258.txt; 20258-8.txt; 20258-h.htm]
+
+A Political Romance, by Laurence Sterne                                  20257
+   [Link: http://www.gutenberg.org/2/0/2/5/20257 ]
+   [Files: 20257.txt]
+
+Memoir of the Life of John Quincy Adams, by Josiah Quincy                20256
+   [Link: http://www.gutenberg.org/2/0/2/5/20256 ]
+   [Files: 20256.txt; 20256-8.txt; 20256-h.htm]
+
+The Unknown Quantity, by Henry van Dyke                                  20255
+   [Subtitle: A Book of Romance and Some Half-Told Tales]
+   [Link: http://www.gutenberg.org/2/0/2/5/20255 ]
+   [Files: 20255.txt]
+
+Les Maitres sonneurs, by George Sand                                     20254
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/0/2/5/20254 ]
+   [Files: 20254-8.txt; 20254-h.htm]
+
+Llibre D'histories, by Raimond Casellas                                  20253
+   [Language: Catalan]
+   [Link: http://www.gutenberg.org/2/0/2/5/20253 ]
+   [Files: 20253-8.txt]
+
+Raatimiehen tytar, by Evald Ferdinand Jahnsson                           20252
+   [Subtitle: Historiallis-romantillinen naytelma kolmessa naytoksessa]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/2/0/2/5/20252 ]
+   [Files: 20252-8.txt]
+
+Christmas Comes but Once A Year, by Luke Limner                          20251
+   [Subtitle: Showing What Mr. Brown Did, Thought, and Intended to Do,
+    during that Festive Season.]
+   [Illustrator: (Bros.) Dalziel]
+   [Link: http://www.gutenberg.org/2/0/2/5/20251 ]
+   [Files: 20251.txt; 20251-8.txt; 20251-h.htm]
+
+The Fifth Battalion Highland Light Infantry, by F.L. Morrison            20250
+   [Title: The Fifth Battalion Highland Light Infantry in the
+    War 1914-1918]
+   [Link: http://www.gutenberg.org/2/0/2/5/20250 ]
+   [Files: 20250.txt; 20250-8.txt; 20250-h.htm]
+
+Legend Land, Vol. 2, by Various                                          20249
+   [Subtitle: Being a Collection of Some of The Old Tales Told in Those
+    Western Parts of Britain Served by The Great Western Railway]
+   [Link: http://www.gutenberg.org/2/0/2/4/20249 ]
+   [Files: 20249.txt; 20249-8.txt; 20249-h.htm]
+
+The Necessity of Atheism, by Dr. D.M. Brooks                             20248
+   [Link: http://www.gutenberg.org/2/0/2/4/20248 ]
+   [Files: 20248.txt; 20248-8.txt; 20248-h.htm]
+
+Wayside Courtships, by Hamlin Garland                                    20247
+   [Link: http://www.gutenberg.org/2/0/2/4/20247 ]
+   [Files: 20247.txt; 20247-8.txt; 20247-h.htm]
+
+Oeuvres completes, v 3, by Alfred de Musset                              20246
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/0/2/4/20246 ]
+   [Files: 20246-8.txt; 20246-0.txt; 20246-h.htm]
+
+Some of the Lord's Dealings with George Muller, by George Muller         20245
+   [Title: A Narrative of Some of the Lord's Dealings with George Muller]
+   [Subtitle: Written by Himself, Fourth Part]
+   [Link: http://www.gutenberg.org/2/0/2/4/20245 ]
+   [Files: 20245.txt; 20245-8.txt]
+
+Le Voluptueux Voyage, by Marie-Aimery de Cominges (AKA Ginko et Biloba)  20244
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/0/2/4/20244 ]
+   [Files: 20244-8.txt; 20244-h.htm]
+
+Dross, by Henry Seton Merriman                                           20243
+   [Link: http://www.gutenberg.org/2/0/2/4/20243 ]
+   [Files: 20243.txt; 20243-8.txt; 20243-h.htm; ]
+
+Left on Labrador, by Charles Asbury Stephens                             20242
+   [Subtitle: or, The cruise of the Schooner-yacht 'Curlew.' as Recorded
+    by 'Wash.']
+   [Link: http://www.gutenberg.org/2/0/2/4/20242 ]
+   [Files: 20242.txt; 20242-8.txt; 20242-h.htm; ]
+
+The Palace of Pleasure, by William Painter                               20241
+   [Link: http://www.gutenberg.org/2/0/2/4/20241 ]
+   [Files: 20241.txt; 20241-8.txt; 20241-0.txt; 20241-h.htm]
+
+Fountain Street, by Jazno Francoeur                                      20240C
+   [Editor: Rush and Steven McElveen Rankin]
+   [Link: http://www.gutenberg.org/2/0/2/4/20240 ]
+   [Files: 20240-8.txt; ]
+
+Ten Books on Architecture, by Vitruvius                                  20239
+   [Link: http://www.gutenberg.org/2/0/2/3/20239 ]
+   [Files: 20239.txt; 20239-8.txt; 20239-h.htm]
+
+The Great Amulet, by Maud Diver                                          20238
+   [Link: http://www.gutenberg.org/2/0/2/3/20238 ]
+   [Files: 20238.txt; 20238-8.txt; ]
+
+Art in England, by Dutton Cook                                           20237
+   [Subtitle: Notes and Studies]
+   [Link: http://www.gutenberg.org/2/0/2/3/20237 ]
+   [Files: 20237.txt; 20237-8.txt; 20237-h.htm; ]
+
+Fair to Look Upon, by Mary Belle Freeley                                 20236
+   [Illus.: W. L. Dodge]
+   [Link: http://www.gutenberg.org/2/0/2/3/20236 ]
+   [Files: 20236.txt; 20236-8.txt; 20236-h.htm; ]
+
+Heart, by Martin Farquhar Tupper                                         20235
+   [Subtitle: A Social Novel]
+   [Link: http://www.gutenberg.org/2/0/2/3/20235 ]
+   [Files: 20235.txt; 20235-8.txt; 20235-h.htm; ]
+
+Derniers essais de litterature: aout 1887-1890, by Oscar Wilde           20234
+   [Title: Derniers essais de litterature et d'esthetique: aout 1887-1890]
+   [Translator: Albert Savine]
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/0/2/3/20234 ]
+   [Files: 20234-8.txt; 20234-0.txt; 20234-h.htm]
+
+Modern Atheism Under its Forms, by James Buchanan                        20233
+   [Title: Modern Atheism under its forms of Pantheism, Materialism,
+    Secularism, Development, and Natural Laws]
+   [Link: http://www.gutenberg.org/2/0/2/3/20233 ]
+   [Files: 20233.txt; 20233-8.txt; 20233-h.htm]
+
+'Three Score Years and Ten', by Charlotte Ouisconsin Van Cleve           20232
+   [Subtitle: Life-Long Memories of Fort Snelling, Minnesota, and Other
+    Parts of the West]
+   [Link: http://www.gutenberg.org/2/0/2/3/20232 ]
+   [Files: 20232.txt; 20232-8.txt; 20232-h.htm]
+
+Earth's Enigmas, by Charles G. D. Roberts                                20231
+   [Subtitle: A Volume of Stories]
+   [Link: http://www.gutenberg.org/2/0/2/3/20231 ]
+   [Files: 20231.txt; 20231-8.txt; 20231-h.htm]
+
+Jane Journeys On, by Ruth Comfort Mitchell                               20230
+   [Link: http://www.gutenberg.org/2/0/2/3/20230 ]
+   [Files: 20230.txt; 20230-8.txt; 20230-h.htm]
+
+Stories of Comedy, by Various                                            20229
+   [Editor: Rossiter Johnson]
+   [Link: http://www.gutenberg.org/2/0/2/2/20229 ]
+   [Files: 20229.txt; 20229-8.txt; 20229-h.htm]
+
+Noli Me Tangere, by Jose Rizal                                           20228
+   [Translator: Pascual H. Poblete]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/2/0/2/2/20228 ]
+   [Files: 20228-8.txt; 20228-h.htm]
+
+Runoelmia, by Heinrich Heine                                             20227
+   [Translator: Oskar Uotila]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/2/0/2/2/20227 ]
+   [Files: 20227-8.txt]
+
+Snow-Bound, by John Greenleaf Whittier                                   20226
+   [Subtitle: A Winter Idyll]
+   [Illustrator: Harry Fenn, Engraved by A. V. S. Anthony and W. J. Linton]
+   [Link: http://www.gutenberg.org/2/0/2/2/20226 ]
+   [Files: 20226.txt; 20226-8.txt; 20226-h.htm]
+   [See also #9571]
+
+The Story of a Play, by W. D. Howells                                    20225
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/2/0/2/2/20225 ]
+   [Files: 20225.txt; 20225-8.txt; 20225-h.htm]
+
+The Invisible Government, by Dan Smoot                                   20224
+   [Link: http://www.gutenberg.net/2/0/2/2/20224 ]
+   [Files: 20224.txt; 20224-8.txt; 20224-h.htm]
+
+Two Boys in Wyoming, by Edward S. Ellis                                  20223
+   [Subtitle: A Tale of Adventure (Northwest Series, No. 3)]
+   [Link: http://www.gutenberg.net/2/0/2/2/20223 ]
+   [Files: 20223.txt; 20223-h.htm]
+
+An Ethical Problem, by Albert Leffingwell                                20222
+   [Subtitle: Or, Sidelights upon Scientific Experimentation on Man and
+    Animals]
+   [Link: http://www.gutenberg.org/2/0/2/2/20222 ]
+   [Files: 20222.txt; ]
+
+Northern Nut Growers Assn, 24th Annual Meeting, Sep 11-12, 1933          20221
+   [Title: Northern Nut Growers Association Report of the Proceedings at
+    the Twenty-Fourth Annual Meeting, Downington, PA]
+   [Link: http://www.gutenberg.net/2/0/2/2/20221 ]
+   [Files: 20221.txt; 20221-8.txt; 20221-h.htm]
+
+The Mind and Its Education, by George Herbert Betts                      20220
+   [Link: http://www.gutenberg.org/2/0/2/2/20220 ]
+   [Files: 20220.txt; 20220-8.txt; 20220-h.htm; ]
+
+The Lion's Brood, by Duffield Osborne                                    20219
+   [Link: http://www.gutenberg.org/2/0/2/1/20219 ]
+   [Files: 20219.txt; 20219-8.txt; 20219-h.htm; ]
+
+History of the Incas, by Pedro Sarmiento de Gamboa                       20218
+   [Editor: Sir Clements Markham]
+   [Tr.: Sir Clements Markham]
+   [Link: http://www.gutenberg.org/2/0/2/1/20218 ]
+   [Files: 20218.txt; 20218-8.txt; ]
+
+The Stranger, by August von Kotzebue                                     20217
+   [Author: Remarks by Elizabeth Inchbald]
+   [Subtitle: A Drama, in Five Acts]
+   [Tr.: Benjamin Thompson]
+   [Link: http://www.gutenberg.org/2/0/2/1/20217 ]
+   [Files: 20217.txt; 20217-8.txt; 20217-h.htm; ]
+
+Old-Time Makers of Medicine, by James J. Walsh                           20216
+   [Subtitle: The Story of The Students And Teachers of the Sciences
+    Related to Medicine During the Middle Ages]
+   [Link: http://www.gutenberg.org/2/0/2/1/20216 ]
+   [Files: 20216.txt; 20216-8.txt; 20216-h.htm]
+
+An Onlooker in France 1917-1919, by William Orpen                        20215
+   [Link: http://www.gutenberg.org/2/0/2/1/20215 ]
+   [Files: 20215.txt; 20215-8.txt; 20215-h.htm]
+
+Instruction for Using a Slide Rule, by W. Stanley                        20214
+   [Link: http://www.gutenberg.org/2/0/2/1/20214 ]
+   [Files: 20214.txt; 20214-h.htm; 20214-doc.doc]
+
+Peace on Earth, Good-will to Dogs, by Eleanor Hallowell Abbott           20213
+   [Link: http://www.gutenberg.org/2/0/2/1/20213 ]
+   [Files: 20213.txt; 20213-8.txt; 20213-h.htm]
+
+Police Your Planet, by Lester del Rey                                    20212
+   (Author Note: written under the name Eric van Lhin)
+   [Link: http://www.gutenberg.org/2/0/2/1/20212 ]
+   [Files: 20212.txt; 20212-8.txt; 20212-h.htm]
+
+Die schonsten Geschichten der Lagerlof, by Selma Lagerlof                20211
+   [Editor: Walter von Molo]
+   [Translator: Marie Franzos]
+   [Language: German]
+   [Link: http://www.gutenberg.org/2/0/2/1/20211 ]
+   [Files: 20211-8.txt; 20211-0.txt; 20211-h.htm]
+
+Shakespeare's Christmas Gift to Queen Bess, by Anna Benneson McMahan     20210
+   [Link: http://www.gutenberg.net/2/0/2/1/20210 ]
+   [Files: 20210.txt; 20210-8.txt; 20210-h.htm]
+
+History of Steam on the Erie Canal, by Anonymous                         20209
+   [Link: http://www.gutenberg.net/2/0/2/0/20209 ]
+   [Files: 20209.txt; 20209-8.txt; 20209-h.htm]
+
+Boy Scouts in the Philippines, by G. Harvey Ralphson                     20208
+   [Subtitle: Or, The Key to the Treaty Box]
+   [Link: http://www.gutenberg.org/2/0/2/0/20208 ]
+   [Files: 20208.txt; 20208-h.htm]
+
+Under Wellington's Command, by G. A. Henty                               20207
+   [Subtitle: A Tale of the Peninsular War]
+   [Illustrator: Wal. Paget]
+   [Link: http://www.gutenberg.org/2/0/2/0/20207 ]
+   [Files: 20207.txt; 20207-h.htm]
+
+The Agony of the Church (1917), by Nikolaj Velimirovic                   20206
+   [Link: http://www.gutenberg.org/2/0/2/0/20206 ]
+   [Files: 20206.txt; 20206-8.txt]
+
+The Maya Chronicles, by Various                                          20205
+   [Subtitle: Brinton's Library Of Aboriginal American Literature,  Number 1]
+   [Editor: Daniel G. Brinton]
+   [Link: http://www.gutenberg.org/2/0/2/0/20205 ]
+   [Files: 20205.txt; 20205-8.txt; 20205-0.txt; 20205-h.htm]
+
+The Storm-Cloud of the Nineteenth Century, by John Ruskin                20204
+   [Subtitle: Two Lectures delivered at the London Institution February
+    4th and 11th, 1884]
+   [Link: http://www.gutenberg.org/2/0/2/0/20204 ]
+   [Files: 20204.txt; 20204-8.txt; 20204-h.htm]
+
+Autobiography of Benjamin Franklin, by Benjamin Franklin                 20203
+   [Editor: Frank Woodworth Pine]
+   [Illustrator: E. Boyd Smith]
+   [Link: http://www.gutenberg.org/2/0/2/0/20203 ]
+   [Files: 20203.txt; 20203-8.txt; 20203-h.htm]
+
+Walnut Growing in Oregon, by Various                                     20202
+   [Editor: J.C. Cooper]
+   [Link: http://www.gutenberg.org/2/0/2/0/20202 ]
+   [Files: 20202.txt; 20202-h.htm]
+
+Mary Gray, by Katharine Tynan                                            20201
+   [Illustrator: C. H. Taffs]
+   [Link: http://www.gutenberg.net/2/0/2/0/20201 ]
+   [Files: 20201.txt; 20201-8.txt; 20201-h.htm]
+
+Christmas, A Happy Time, by Miss Mant                                    20200
+   [Subtitle: A Tale, Calculated for the Amusement and Instruction of
+    Young Persons]
+   [Link: http://www.gutenberg.net/2/0/2/0/20200 ]
+   [Files: 20200.txt; 20200-h.htm]
+
+
+-=-=-=-=[  2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Jan 2007 My Remarkable Uncle and other Sketches, S Leacock [070001xx.xxx] 1454A
+   [Author: Stephen Leacock]
+   [http://gutenberg.net.au/ebooks07/0700011.txt or .zip
+   [http://gutenberg.net.au/ebooks07/0700011h.html ]
+
+
+Dec 2006 The Lighthouse on Shivering Sand, J S Fletcher    [060932xx.xxx] 1450A
+   [http://gutenberg.net.au/ebooks06/0609321.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609321h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access
+these ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For updated information about copyright in Australia, please see the end
+of the file GUTINDEX.AUS, which can be downloaded from
+http://www.gutenberg.org/dirs/GUTINDEX.AUS
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+
+

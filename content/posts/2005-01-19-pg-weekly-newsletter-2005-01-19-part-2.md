@@ -1,0 +1,442 @@
+---
+params:
+  id: 2224
+title: "PG Weekly Newsletter: Part 2 (2005-01-19)"
+date: 2005-01-19T19:17:31+00:00
+author: Michael Cook
+layout: post
+url: /20050119/pg-weekly-newsletter-2005-01-19-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 19 Jan 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 59 New U.S. eBooks this week
+   - No New eBooks at Project Gutenberg of Australia
+   - Last, but not least: insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 19 Jan 2005:  15,094 (incl. 460 Aus.).
+
+Last week the Total Count was 15,035, including 406 at PG of Australia.
+This week we added 59 new.
+
+RESERVED/PENDING count:   43 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+None to report this week.
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Last week's correction for eBook #14114 was still incorrect; Stewart
+and Long are translators, not authors of this work; Plutarch was, and
+will probably remain, the author:
+Plutarch's Lives, Volume II, Tr. by Aubrey Stewart & George Long         14114
+
+Correction to author's name ("Frederick", not "Fredrick"):
+Mystic Isles of the South Seas, by Frederick O'Brien                     11400
+
+
+-=-=-=-=[  59 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Hatchie, the Guardian Slave; or, The Heiress of Bellevue, by Ashton      14731
+   [Subtitle: A Tale of the Mississippi and the South-west]
+   [Author: Warren T. Ashton; aka William Taylor Adams; aka Oliver Optic]
+   [Link: http://www.gutenberg.org/1/4/7/3/14731 ]
+   [Files: 14731.txt; 14731-8.txt; 14731-h.htm; ]
+
+The Redemption of David Corson, by Charles Frederic Goss                 14730
+   [Link: http://www.gutenberg.org/1/4/7/3/14730 ]
+   [Files: 14730.txt; 14730-8.txt; 14730-h.htm; ]
+
+A Review and Exposition, by An Elector                                   14729
+   [Title: A Review and Exposition, of the Falsehoods and
+    Misrepresentations, of a Pamphlet Addressed to the Republicans of
+    the County of Saratoga, Signed, "A Citizen"]
+   [Link: http://www.gutenberg.net/1/4/7/2/14729 ]
+   [Files: 14729.txt; 14729-8.txt]
+
+The Crime Against Europe, by Roger Casement                              14728
+   [Subtitle: A Possible Outcome of the War of 1914]
+   [Link: http://www.gutenberg.net/1/4/7/2/14728 ]
+   [Files: 14728.txt; 14728-8.txt; 14728-h.htm]
+
+Maekijaervelaeiset, by Kauppis-Heikki                                    14727
+   [Subtitle: Kuvaus Savon kansan elamast]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/7/2/14727 ]
+   [Files: 14727-8.txt]
+
+Elder Eddas of Saemund Sigfusson, Saemund Sigfusson and Snorre Sturleson 14726
+   [Title: The Elder Eddas of Saemund Sigfusson; and the Younger Eddas
+    of Snorre Sturleson]
+   [Tr.: Benjamin Thorpe and I. A. Blackwell]
+   [Editor in Chief: Rasmus B. Anderson]
+   [Managing Editor: J. W. Buel]
+   [Link: http://www.gutenberg.net/1/4/7/2/14726 ]
+   [Files: 14726.txt; 14726-8.txt; 14726-h.htm]
+
+Treatise on Light, by Christiaan Huygens                                 14725
+   [Subtitle: In which are explained the causes of that which occurs in
+    reflexion, & in refraction and particularly in the strange refraction
+    of Iceland crystal]
+   [Tr.: Silvanus P. Thompson]
+   [Link: http://www.gutenberg.org/1/4/7/2/14725 ]
+   [Files: 14725.txt; 14725-8.txt; 14725-h.htm; ]
+
+Kangastuksia; Talvi-yoe; Halla; Taehtitarha, by Eino Leino               14724
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/7/2/14724 ]
+   [Files: 14724-8.txt]
+
+How It Happened, by Kate Langley Bosher                                  14723
+   [Link: http://www.gutenberg.net/1/4/7/2/14723 ]
+   [Files: 14723.txt; 14723-h.htm]
+
+Contestaciones y Consideraciones, by Apolinario Mabini                   14722
+   [Subtitle: Al Pueblo y Congreso Norte-Amercicanos]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/4/7/2/14722 ]
+   [Files: 14722-8.txt; 14722-h.htm]
+
+Speeches and Letters of Abraham Lincoln, 1832-1865, by Abraham Lincoln   14721
+   [Editor: Merwin Roe]
+   [Link: http://www.gutenberg.org/1/4/7/2/14721 ]
+   [Files: 14721.txt; 14721-8.txt; 14721-h.htm; ]
+
+Opuscules, by Jean-Baptiste-Antoine Ferland                              14720
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/2/14720 ]
+   [Files: 14720-8.txt; 14720-h.htm]
+
+Viimeinen ponnistus, by Matti Kurikka                                    14719
+   [Subtitle: Nytelm neljss nytksess]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/7/1/14719 ]
+   [Files: 14719-8.txt]
+
+Bartek Sankari, by Henryk Sienkiewicz                                    14718
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/7/1/14718 ]
+   [Files: 14718-8.txt]
+
+Twelve Men, by Theodore Dreiser                                          14717
+   [Link: http://www.gutenberg.net/1/4/7/1/14717 ]
+   [Files: 14717.txt; 14717-8.txt; 14717-h.htm]
+
+The Art of Soul-Winning, by J.W. Mahood                                  14716
+   [Link: http://www.gutenberg.net/1/4/7/1/14716 ]
+   [Files: 14716.txt; 14716-h.htm]
+
+The House in Good Taste, by Elsie de Wolfe                               14715
+   [Link: http://www.gutenberg.org/1/4/7/1/14715 ]
+   [Files: 14715.txt; 14715-8.txt; 14715-h.htm; ]
+
+Half Portions, by Edna Ferber                                            14714
+   [Link: http://www.gutenberg.net/1/4/7/1/14714 ]
+   [Files: 14714.txt; 14714-8.txt; 14714-h.htm]
+
+Noel dans les pays etrangers, by Alphonse Chabot                         14713
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/1/14713 ]
+   [Files: 14713-8.txt; 14713-h.htm]
+
+Vandover and the Brute, by Frank Norris                                  14712
+   [Link: http://www.gutenberg.org/1/4/7/1/14712 ]
+   [Files: 14712.txt; 14712-8.txt; 14712-h.htm; ]
+
+The Boy Allies Under the Sea, by Robert L. Drake                         14711
+   [Subtitle: The Vanishing Submarines]
+   [Link: http://www.gutenberg.org/1/4/7/1/14711 ]
+   [Files: 14711.txt; 14711-h.htm; ]
+
+Uncle Titus and His Visit to the Country, by Johanna Spyri               14710
+   [Subtitle: A Story for Children and for Those Who Love Children]
+   [Tr.: Louise Brooks]
+   [Link: http://www.gutenberg.org/1/4/7/1/14710 ]
+   [Files: 14710.txt; 14710-h.htm; ]
+
+Lippincott's Magazine, February, 1875, Vol. 15, No. 86, Ed. by Kirk      14709
+   [Editor: John Foster Kirk]
+   [Link: http://www.gutenberg.org/1/4/7/0/14709 ]
+   [Files: 14709.txt; 14709-8.txt; 14709-h.htm; ]
+
+The Laurel Bush, by Dinah Maria Mulock Craik  [aka Miss Mulock]          14708
+   [Subtitle: An Old-Fashioned Love Story]
+   [Link: http://www.gutenberg.org/1/4/7/0/14708 ]
+   [Files: 14708.txt; ]
+
+Punch, Vol. 102, June 11, 1892, Ed. by Francis Burnand                   14707
+   [Link: http://www.gutenberg.org/1/4/7/0/14707 ]
+   [Files: 14707.txt; 14707-8.txt; 14707-h.htm; ]
+
+Greybeards at Play, by G. K. Chesterton                                  14706
+   [Subtitle: Literature and Art for Old Gentlemen]
+   [Link: http://www.gutenberg.org/1/4/7/0/14706 ]
+   [Files: 14706.txt; 14706-8.txt; 14706-h.htm; ]
+
+Le bachelier, by Jules Valles                                            14705
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/0/14705 ]
+   [Files: 14705-8.txt]
+
+L'enfant, by Jules Valles                                                14704
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/0/14704 ]
+   [Files: 14704-8.txt]
+
+Le nain noir, by Walter Scott                                            14703
+   [Tr.: Auguste-Jean-Baptiste Defauconpret]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/0/14703 ]
+   [Files: 14703-8.txt]
+
+Le loup blanc, by Paul H.C. Feval                                        14702
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/7/0/14702 ]
+   [Files: 14702-8.txt]
+
+Roof and Meadow, by Dallas Lore Sharp                                    14701
+   [Illus.: Bruce Horsfall]
+   [Link: http://www.gutenberg.net/1/4/7/0/14701 ]
+   [Files: 14701.txt; 14701-8.txt; 14701-h.htm]
+
+Die Menschen der Ehe, by John Henry Mackay                               14700
+   [Subtitle: Schilderungen aus der kleinen Stadt]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/4/7/0/14700 ]
+   [Files: 14700-8.txt; ]
+
+Shakespeare Study Programs; The Comedies, by Porter and Clarke           14699
+   [Author: Charlotte Porter and Helen A. Clarke]
+   [Link: http://www.gutenberg.org/1/4/6/9/14699 ]
+   [Files: 14699.txt; 14699-8.txt; ]
+
+Ranching for Sylvia, by Harold Bindloss                                  14698
+   [Published in England as: The Trustee]
+   [Link: http://www.gutenberg.org/1/4/6/9/14698 ]
+   [Files: 14698.txt; ]
+
+Lewis Rand, by Mary Johnston                                             14697
+   [Illus.: F.C. Yohn]
+   [Link: http://www.gutenberg.org/1/4/6/9/14697 ]
+   [Files: 14697.txt; 14697-8.txt; 14697-h.htm; ]
+
+Lewis Rand, by Mary Johnston                                             14697
+   [Illus.: F. C. Yohn]
+   [Link: http://www.gutenberg.org/1/4/6/9/14697 ]
+   [Files: 14697.txt; 14697-8.txt; 14697-h.htm; ]
+
+The Wheel of Life, by Ellen Anderson Gholson Glasgow                     14696
+   [Link: http://www.gutenberg.org/1/4/6/9/14696 ]
+   [Files: 14696.txt; 14696-8.txt; 14696-h.htm; ]
+
+Punch, Vol. 102, May 21, 1892, Ed. by Francis Burnand                    14695
+   [Link: http://www.gutenberg.org/1/4/6/9/14695 ]
+   [Files: 14695.txt; 14695-8.txt; 14695-h.htm; ]
+
+Punch, Vol. 102, May 14, 1892, Ed. by Francis Burnand                    14694
+   [Link: http://www.gutenberg.org/1/4/6/9/14694 ]
+   [Files: 14694.txt; 14694-8.txt; 14694-h.htm; ]
+
+Le crime de Lord Arthur Savile, by Oscar Wilde                           14693
+   [Tr.: Albert Savine]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/6/9/14693 ]
+   [Files: 14693-8.txt; 14693-h.htm]
+
+Portraits litteraires, Tome III, by C.-A. Sainte-Beuve                   14692
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/6/9/14692 ]
+   [Files: 14692-8.txt; 14692-h.htm]
+
+Lippincott's Magazine, Vol. XII, No. 28. July, 1873, by Various          14691
+   [Link: http://www.gutenberg.net/1/4/6/9/14691 ]
+   [Files: 14691.txt; 14691-8.txt; 14691-h.htm]
+
+Punch, Vol. 102, May 28, 1892, Ed. by Francis Burnand                    14690
+   [Link: http://www.gutenberg.net/1/4/6/9/14690 ]
+   [Files: 14690.txt; 14690-8.txt; 14690-h.htm]
+
+The Bay State Monthly, Vol. II, No. 6, March, 1885, by Various           14689
+   [Subtitle: A Massachusetts Magazine]
+   [Link: http://www.gutenberg.net/1/4/6/8/14689 ]
+   [Files: 14689.txt; 14689-8.txt; 14689-h.htm]
+
+Un hiver a Majorque, by George Sand                                      14688
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/6/8/14688 ]
+   [Files: 14688-8.txt; 14688-h.htm]
+
+Christian's Mistake, by Dinah Maria Mulock Craik                         14687
+   [Link: http://www.gutenberg.net/1/4/6/8/14687 ]
+   [Files: 14687.txt]
+
+Haermaendene pa Helgeland, by Henrik Ibsen                               14686
+   [Subtitle: Med anmerkninger av stud. mag. Birger Knudsen]
+   [Commentator: Birger Knudsen] [Compiler: Joh. Hertzberg]
+   [Language: Norwegian]
+   [Link: http://www.gutenberg.net/1/4/6/8/14686 ]
+   [Files: 14686-8.txt; 14686-h.htm]
+
+The Philippine Islands, 1493-1898, Ed. by Blair and Robertson            14685
+   [Subtitle: Volume XI, 1599-1602]
+   [Ed. & Annotations: Emma Helen Blair And James Alexander Robertson]
+   [Intro. & Notes: Edward Gaylord Bourne]
+   [Link: http://www.gutenberg.net/1/4/6/8/14685 ]
+   [Files: 14685.txt; 14685-8.txt]
+
+Mr. Dooley Says, by Finley Dunne                                         14684
+   [Link: http://www.gutenberg.net/1/4/6/8/14684 ]
+   [Files: 14684.txt; 14684-h.htm]
+
+Poemes, by Oscar Wilde                                                   14683
+   [Tr.: Albert Savine]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/6/8/14683 ]
+   [Files: 14683-8.txt; 14683-h.htm]
+
+My Friend Prospero, by Henry Harland                                     14682
+   [Link: http://www.gutenberg.net/1/4/6/8/14682 ]
+   [Files: 14682.txt; 14682-8.txt; 14682-h.htm]
+
+The Art of Travel, by Francis Galton                                     14681
+   [Subtitle: Shifts and Contrivances Available in Wild Countries]
+   [Link: http://www.gutenberg.net/1/4/6/8/14681 ]
+   [Files: 14681.txt; 14681-8.txt; 14681-h.htm]
+
+Continental Monthly, Vol. I, No. V, May, 1862, by Various                14680
+   [Subtitle: Devoted To Literature And National Policy]
+   [Link: http://www.gutenberg.net/1/4/6/8/14680 ]
+   [Files: 14680.txt; 14680-8.txt; 14680-h.htm]
+
+Stray Thoughts for Girls, by Lucy H. M. Soulsby                          14679
+   [Link: http://www.gutenberg.org/1/4/6/7/14679 ]
+   [Files: 14679.txt; 14679-8.txt; ]
+
+The War of the Wenuses, by C. L. Graves and E. V. Lucas                  14678
+   [Link: http://www.gutenberg.org/1/4/6/7/14678 ]
+   [Files: 14678.txt; 14678-8.txt; ]
+
+Contes de Noel, by Madame Henri de La Ville de Mirmont                   14677
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/6/7/14677 ]
+   [Files: 14677.txt; 14677-8.txt; 14677-h.htm]
+
+Women and War Work, by Helen Fraser                                      14676
+   [Link: http://www.gutenberg.org/1/4/6/7/14676 ]
+   [Files: 14676.txt; 14676-8.txt; 14676-h.htm; ]
+
+Secret Enemies of True Republicanism, by Andrew B. Smolnikar             14675
+   [Link: http://www.gutenberg.net/1/4/6/7/14675 ]
+   [Files: 14675.txt; 14675-8.txt; 14675-h.htm]
+
+Ten Great Religions, by James Freeman Clarke                             14674
+   [Subtitle: An Essay in Comparative Theology]
+   [Link: http://www.gutenberg.net/1/4/6/7/14674 ]
+   [Files: 14674.txt; 14674-8.txt; 14674-0.txt; 14674-h.htm]
+
+The Copyright Question, by George N. Morang                              14673
+   [Subtitle: A Letter to the Toronto Board of Trade]
+   [Link: http://www.gutenberg.net/1/4/6/7/14673 ]
+   [Files: 14673.txt; 14673-8.txt; 14673-h.htm]
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+Found in #14680, Continental Monthly, Vol. I, No. V, May, 1862:
+
+'Roman newspapers,' said an intelligent Roman to Caper, 'were invented to
+conceal the news.'
+
+We'll leave it to each of you to decide for yourselves if this is still
+true.
+
+~ ~ ~
+
+There is a theory that states: "If anyone finds out what the universe is
+for it will disappear and be replaced by something even more bizaarly
+inexplicable." There is another theory that states: "This has already
+happened...."
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_01_19_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_01_19_part_2.txt</a>

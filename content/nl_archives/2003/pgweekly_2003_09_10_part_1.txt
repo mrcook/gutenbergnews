@@ -1,0 +1,812 @@
+*The Project Gutenberg Weekly Newsletter For Wednesday, September 10, 2003*
+******eBooks Readable By Both Humans and Computers For Over 32 Years*******
+
+
+
+                        New eBook Milestones
+
+
+
+      We Reached 1/3 Of The Way From 9,000 to 10,000 Thursday!!!
+
+
+                 9429 Books Done. . .571 To Go. . . !
+
+
+               We're Over 16/17 Of The Way To 10,000!!!
+
+
+Distributed Proofreaders just posted its 2000th etext to Project
+Gutenberg on September 4th. The 1000th was posted last February.
+This means the DPs have produced 1,000 eBooks in 8 months!!!!!!!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 11/53 Year History, We Have Now Averaged Over 275 Ebooks/Year
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+ By The Way, It's Been About 1 Billion Seconds Since The First eBook!!!
+
+So we have averaged about 29 hours 47 minutes per book over the whole period,
+but less than 2 hours 17 minutes per book for this year!
+
+
+           We Are Averaging About 321 Per Month This Year!!!
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    3 New From PG Australia [Australian, Canadian Copyright Etc.]
+    99 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby <gbnewby AT pglaf.org> if you would like
+more information.
+
+***
+
+!!!
+
+I need a copy of zip for AIX that can do the "-9" high compression,
+and still unzip via the standard unzip programs!!!
+
+***
+
+I am working on trying to collect and convert some public domain folk tunes
+to ABC notation.  Could use some help tracking down public domain versions
+of the melodies or proof that these songs are in the public domain.  Songs
+I'm working on at present include:
+I Know Where I'm Going
+Simple Gifts
+She Moved Throught The Fair
+A Sailor Courted a Farmer's Daughter (aka Constant Lovers)
+The Fisher Who Died in His Bed
+Ufros Alienu
+If anyone's interesting in converting folk songs to a digital public
+domain format and would like to help or if you want to contact me, you can
+do so through the mailing list at
+http://groups.yahoo.com/group/pdsongs
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test DVD here right now!!!  Nearly all
+of our first 9,000 eBooks, and multiple formats!
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL ASSISTANTS AND ASSISTANCE
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+
+*** Progress Report
+
+    In the first 8.00 months of this year, we produced 2686 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 2,686 eBooks!
+
+                That's 35 WEEKS as Compared to ~30 Years!
+
+                  102   New eBooks This Week
+                  178   New eBooks Last Week
+                  102   New eBooks This Month [September]
+
+                  335   Average Per Month in 2003   <<<
+                  203   Average Per Month in 2002   <<<
+                  103   Average Per Month in 2001   <<<
+
+                 2686   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 6367   New eBooks Since Start Of 2001
+                           That's Only 32 Months!!!
+
+                9,429   Total Project Gutenberg eBooks
+                5,909   eBooks This Week Last Year
+
+                3,452   New eBooks In The Last 12 Months [98.16%]
+                3,516   Would Have Been Exactly Moore's Law[100%]
+
+                4,614   New eBooks in the last 18 months [95.83%]
+                4,815   Would Have Been Exactly Moore's Law[100%]
+
+                  273   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  2686 New eBooks So Far in 2003
+
+              It took us 30 years for the first 2686 !
+
+       That's the 36 WEEKS of 2003 as Compared to ~30 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #2686
+
+Jul 2001 Medical Essays, by Oliver Wendell Holmes [OWH #9] [medicxxx.xxx] 2700
+Jul 2001 Pages From an Old Volume of Life by O.W. Holmes #8[pagesxxx.xxx] 2699
+Jul 2001 A Mortal Antipathy, by Oliver Wendell Holmes[OWH7][antipxxx.xxx] 2698
+Jul 2001 The Guardian Angel, by Oliver Wendell Holmes[OWH6][angelxxx.xxx] 2697
+Jul 2001 Elsie Venner, by Oliver Wendell Holmes [Holmes #5][elsiexxx.xxx] 2696
+[Please note these are by Oliver Wendell Holmes, Senior, not the jurist, Jr.]
+
+Jul 2001 Jeff Briggs's Love Story, by Bret Harte[Harte #36][jfblsxxx.xxx] 2695
+Jul 2001 I and My Chimney, by Herman Melville [Melville #4][chmnyxxx.xxx] 2694
+Jul 2001 Greyfriars Bobby, Eleanor Atkinson                [bobbyxxx.xxx] 2693
+Jul 2001 A Protegee Of Jack Hamlin's by Bret Harte [BH #35][apojhxxx.xxx] 2692
+Jul 2001 The Old Lumberman's Secret, by Annie Roe Carr     [nsapcxxx.xxx] 2691
+
+Jun 2001 Coral Reefs, by Charles Darwin[Charles Darwin #11][coralxxx.xxx] 2690
+Jun 2001 Over the Teacups, by Oliver W. Holmes [OWH Sr. #4][teacpxxx.xxx] 2689
+Jun 2001 The Clue of the Twisted Candles, by Edgar Wallace [clotcxxx.xxx] 2688
+Jun 2001 The Snare, by Rafael Sabatini [Rafael Sabatini #7][snarexxx.xxx] 2687
+Jun 2001 The Book of Snobs, by William Makepeace Thackeray [snobsxxx.xxx] 2686
+
+Jun 2001 The Way to Peace, by Margaret Deland              [wy2pcxxx.xxx] 2685
+Jun 2001 Five Tales, by John Galsworthy[John Galsworthy #9][5talexxx.xxx] 2684
+Jun 2001 Saint's Progress, by John Galsworthy  [John G. #8][saintxxx.xxx] 2683
+Jun 2001 Henri III et sa Cour by Alexandre Dumas Pere  [#9][h3escxxx.xxx] 2682
+Jun 2001 Ten Years Later, by Alexandre Dumas[Dumas Pere #8][tenyrxxx.xxx] 2681
+
+Jun 2001 Meditations, by Marcus Aurelius                   [medmaxxx.xxx] 2680
+Jun 2001 Poems of Emily Dickinson, Series Two [Emily D. #2][2mlydxxx.xxx] 2679
+Jun 2001 Poems of Emily Dickinson, Series One [Emily D. #1][1mlydxxx.xxx] 2678
+Jun 2001 Epistles from Pap, Letters from Andrew E. Durham  [efpapxxx.xxx] 2677C
+Jun 2001 The Bell-Ringer of Angel's, by Bret Harte [BH #34][tbroaxxx.xxx] 2676
+
+***
+
+Today Is Day #252 of 2003
+This Completes Week #36
+119 Days/17 Weeks To Go  [We get 53 Wednesdays this year]
+571 Books To Go To #10,000
+ 91 Days To December 10, 2003
+ 61 Days To November 10, 2003
+[Our Goals For eBook #10,000]
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #71 Of Our SECOND 5,000 eBooks
+
+   75   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton <diane_xml@hotmail.com>
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  <<<We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help a lot, by simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 36 weeks of this year, we have produced 2686 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 2686 eBooks!!!
+
+         That's 36 WEEKS as Compared to ~30 YEARS!!!
+
+
+With 9,429 eBooks online as of September 10, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.06 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.69 when we had 5870 eBooks A Year Ago
+
+Can you imagine 9,429 books each costing $.63 less a year later???
+Or. . .would this say it better?
+Can you imagine 9,429 books each costing 1/3 less a year later???
+
+At 9429 eBooks in 32 Years and 3.25 Months We Averaged
+    292 Per Year   [About how many we do per month these days!]
+     24 Per Month
+    .80 Per Day
+
+At 2686 eBooks Done In The 252 Days Of 2003 We Averaged
+     10.7 Per Day
+     74.6 Per Week
+    325.8 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+From Newsscan:
+
+
+[It's Only The Business Plans That Have Stopped Commercial eBooks]
+
+BARNES & NOBLE SHELVES E-BOOKS
+Barnesandnoble.com is shutting down its e-book business in a move viewed as
+a setback for both Microsoft and Adobe Systems, which have been pushing
+their technologies for digital book formats and readers. "Sales have been
+pretty minimal," says Nielsen/NetRatings senior analyst Robert Leathern.
+"E-books for a long time have been something that people have said will
+lead to a spike in adoption, but the technology really hasn't been there
+yet."  The more futuristic vision is that you can carry the book around.
+There is some technology in the works to make reading on those screens a
+lot clearer, and there's some potential for that. It could become the
+preferred way for people to read business documents. But I doubt whether
+that will be the preferred way people read everyday things."
+(CNet News.com 9 Sep 2003)
+http://news.com.com/2100-1019_3-5073796.html?tag=fd_top
+
+
+[A Quite Different Business Plan]
+[Hewlett-Packard's New Ad Campaign Also Features High Density eBooks]
+
+TINY (AND VERY LIGHT) ELECTRONIC WORDS
+Weighty words are less weighty than they used to be, if you use the PDA
+version rather than the print version of Merriam-Webster's Collegiate
+Dictionary. The print version: 1,664 pages, 3 pounds. The PDA-sized
+electronic version, from Franklin Electronic Publishers, weighs just a few
+ounces, and will not only spell and define the words, but will speak them
+(in a computerish voice). You enter words using a full QWERTY keyboard, and
+see the definition displayed on clear monochrome screen display. The
+speaking version also supports Franklin's line of electronic books on
+snap-in cartridges. Titles can be downloaded from www.franklin.com and
+transferred to a cartridge using an optional PC Link
+cable.(Courier-Journal/USA Today 10 Sep 2003)
+www.usatoday.com/tech/techreviews/products/2003-09-10-pda-dictionary_x.htm
+
+'PRE-OWNED' DIGITAL TUNE HITS AUCTION BLOCK
+George Hotelling is pushing the envelope in digital music with his attempt
+to auction off a song that he purchased on Apple's iTunes Music Store.
+Hotelling says he's not concerned about recouping his 99-cent investment in
+Devin Vasquez's rendition of "Double-Dutch Bus," but he's interested in
+probing the murky legal ground surrounding digital copyrights. "I'd just
+like to know that if I buy something, whether it's physical or intellectual
+property, that I'll have my right of 'First Sale,'" says Hotelling. The
+terms of service contract that accompanies iTunes songs doesn't say much
+about the rules that guide resale of songs but does stipulate that the
+songs are only for "personal, noncommercial use." One nagging question
+concerns the lack of legal guidelines governing the rights of an owner of a
+second-hand digital song, says Fred von Lohmann, senior staff attorney at
+the Electronic Frontier Foundation. "If you were to win that auction and
+get that song, you have no relationship with Apple. You didn't agree to the
+terms of service. What governs that song after you've repurchased it?"
+(CNet News.com 3 Sep 2003)
+http://news.com.com/2100-1025_3-5071108.html?tag=fd_top
+
+RECORDING INDUSTRY OFFERS AMNESTY TO MUSIC-SWAPPERS
+The Recording Industry Association of America (RIAA) is planning to tell
+people who have illegally downloaded copyrighted music from the Internet
+that they will not be prosecuted providing they admit what they've done and
+pledge to delete the songs from their computers. (The amnesty offer won't
+apply, though, to music downloaders who have already been subpoenaed for
+RIAA copyright-infringement lawsuits.) Attorney Fred von Lohmann of the
+Electronic Frontier Foundation says: "I'll be curious to see how many opt
+for this. It will be an interesting measure of how much fear the recording
+industry has managed to inject into the American public."
+(AP/San Jose Mercury News 4 Sep 2005)
+http://www.siliconvalley.com/mld/siliconvalley/6694357.htm
+
+ON-DEMAND ENTERTAINMENT SET TO REPLACE HARD COPY
+In five years, about a third of music sales will come from downloads and CD
+sales will drop 30% from their 1999 peak, predicts a new study by Forrester
+Research. "On-demand services are the future of entertainment delivery,"
+says Forrester analyst Josh Bernoff. "CDs, DVDs, and any other forms of
+physical media will become obsolete." Forrester predicts that over the next
+nine months, at least 10 Windows-based music services will emerge, boosting
+the market for online music to $270 million by the end of 2004. If the
+trend continues, digital music sales could account for $1.4 billion of the
+music industry's anticipated $12.8 billion in revenues three years from
+now. "The CD is turning out to be a transitory sort of item," says Roy
+Trakin, senior editor of Hits magazine. "The future of the CD may be in its
+enhanced content -- in a hybrid CD-DVD and the more upscale formats like
+DVD audio and super audio CDs." Meanwhile, Forrester urges Hollywood to
+take note of what's happening in the music industry. By 2007, the research
+group estimates that video rental revenues will plummet 37% and by 2008,
+overall revenues from DVDs and tapes will drop 8%. "Consumers have spoken
+-- they are tired of paying the high cost of CDs and DVDs and prefer more
+flexible forms of on-demand media delivery," says Bernoff.(CNN.com 3 Sep 2003)
+http://www.cnn.com/2003/TECH/ptech/09/03/cd.future/index.html
+
+DISNEY TOUTS SELF-DESTRUCTING DVDs
+Walt Disney is launching its new, disposable DVD product line today, which
+will be available in convenience stores, pharmacies and other outlets in
+four U.S. cities. The test will gauge consumer enthusiasm for the EZ-D
+format, which will carry a suggested price of $6.99 and are viewable for 48
+hours after opening up the package. Once the package is opened, exposure to
+oxygen slowly erodes the readability of the disc through a process similar
+to the developing of Polaroid film. The plan has drawn criticism from
+environmental groups, which say the discs will add needless waste to U.S.
+landfills. Disney says there will be some recycling available -- although
+not in-store -- and consumers eventually will be able to trade in six used
+discs for a free new one. (Reuters/CNN Money 9 Sep 2003)
+http://money.cnn.com/2003/09/09/technology/disney_dvd.reut/index.htm?cnn=yes
+
+CASHING IN ON 'TRASH TRAFFIC'
+Every day, millions of Web users make typos while keying in URLs -- a
+phenomenon referred to as "trash traffic," which resourceful companies like
+Microsoft and AOL Time Warner have figured out how to redirect to their
+advantage. When a user mistypes an address, she is usually whisked off to
+an MSN or AOL Internet search engine (complete with advertisements), which
+suggests a list of sites she might have been trying to reach. Users who
+click on one of the possibilities might be redirected to a page with
+several hyperlinks, some of them ads. But now a group of Internet
+registries, including VeriSign, is eyeing the possibilities for monetizing
+trash traffic by diverting it their own sites. Internet founding father
+Vinton Cerf says such shenanigans could be detrimental to non-Web
+applications like e-mail because the registry operators would have to
+modify their DNS servers to do things they're not designed to do. "I'm
+adamantly opposed to it," says Cerf. (Wall Street Journal 5 Sep 2003)
+http://online.wsj.com/article/0,,SB1062710102434100,00.html (sub req'd)
+
+ARE DATABASES THE NEXT COPYRIGHT BATTLEGROUND?
+A proposed bill scheduled for a joint hearing by the U.S. House Judiciary
+and Energy and Commerce Committees would prevent the wholesale copying of
+news archives, professional directories, and other compilations of factual
+information not currently protected by copyright laws. Backers of the
+measure say it would prevent groups from simply copying and repackaging
+databases to resell them or make them available for free, but the U.S.
+Chamber of Commerce and consumer advocates plan to protest the proposed
+legislation, arguing that it could dramatically limit the public's access
+to information and that database providers can protect themselves through
+existing terms-of-service agreements with users. "We think this is already
+dealt with under license and contract law, and there's no reason to extend
+beyond that," says Joe Rubin, director of congressional and public affairs
+at the U.S. Chamber. And while some advocates say the measure would
+encourage publishers to make more information available for free, Mike
+Godwin, senior technology counsel at Public Knowledge, says the more likely
+outcome will be the opposite: "Information, when not copyrighted, is
+something that can be shared. Once you start putting fences around
+information, there's not freedom of inquiry. That doesn't make us smarter,
+it makes us dumber." (Reuters/CNet 5 Sep 2003)
+http://news.com.com/2100-1028_3-5072206.html
+
+APPLE I RESURRECTED
+A Cleveland, Ohio, computer enthusiast has been granted permission to
+produce a replica of the Apple I, which he plans to sell out of his garage
+for $200 apiece. Vince Briel has been planning his venture for some months,
+but was unable to get the okay from Apple to do it. So he did the next best
+thing -- he wrote Apple co-founder Steve Wozniak asking his permission to
+use the Apple I ROM. "Sure you can use the ROMs," answered Wozniak. "I'm
+sure that Apple would deny this request, even though what you are speaking
+of is very noble and cannot hurt Apple in any way." Wozniak says he freely
+distributed the Apple I's schematics and ROM code at the Homebrew Computer
+Club in 1975, long before he and Steve Jobs started selling the machines
+from Jobs' parents' garage. Briel says his replica uses different
+components from the original, but that it's functionally identical. "I
+spent a lot of time trying to get every detail so the replica functions
+completely identically to the Apple I. I'm hoping this project generates
+interest in creating hardware and exploring computers the way they used to
+be. I just want to help people relive the 8-bit computer experience and get
+more people involved in the history of computers and collecting."
+(Wired.com 8 Sep 2003)
+http://www.wired.com/news/mac/0,2125,60329,00.html
+
+
+[More Below On This One]
+
+JAPAN, CHINA, SOUTH KOREA SEEK ALTERNATIVES TO WINDOWS
+Japan, China and South Korea have agreed to cooperate in an R&D program to
+develop software for operating systems other than Microsoft's Windows, and
+to encourage the more widespread of use of existing operating systems that
+compete with Windows. Japanese trade ministry official Takashi Kume
+explains, "The idea is to get existing non-Windows operating systems, such
+as Linux, to be more broadly used, rather than developing a totally new
+operating system." Besides giving more options to consumers, the
+development of non-Windows operating system software would also allow
+manufacturers a wider choice of platforms in developing electronics and
+information devices. (AP/San Jose Mercury News 9 Sep 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6699893.htm
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+COLLEGES INVESTIGATE LEGAL FILE SHARING
+Members of the Joint Committee of the Higher Education and
+Entertainment Communities are working to identify ways to reduce the
+illegal sharing of copyrighted files on college campuses, including one
+proposal to provide students with legal access to online music.
+According to Graham Spanier, president of Pennsylvania State University
+and co-chair of the committee, the service would work similarly to
+cable television in dorm rooms. Spanier said about a dozen institutions
+are considering testing such a program. The committee will not endorse
+specific solutions to the problem of illegal file sharing but hopes to
+collect educational, technological, and policy resources that parties
+from both the higher education and entertainment communities can use to
+work toward joint solutions. The other co-chair of the committee, Cary
+Sherman of the Recording Industry Association of America, said
+"collaborative solutions are the best approach" because university
+administrators and entertainment executives "are in this boat together."
+Internet News, 2 September 2003
+http://dc.internet.com/news/article.php/3071331
+
+FILE-SWAPPER AMNESTY PROGRAM
+The Recording Industry Association of America (RIAA) will reportedly
+announce an amnesty program next week aimed at individuals willing to
+admit having downloaded and shared copyrighted music files. Those who
+sign the amnesty form--admitting their past activity and promising to
+delete copyrighted files and not to engage in future illegal file
+trading--would be shielded from prosecution by the RIAA. The deal will
+not be available to any of the more than 1,500 people for whom the RIAA
+tas already served subpoenas. Fred von Lohmann of the Electronic Frontier
+Foundation noted that because the RIAA does not represent all copyright
+owners, the agreement would not protect individuals from prosecution
+by other copyright holders. The amnesty offer, von Lohmann said, is
+"not the kind of agreement that most people's lawyers will embrace."
+San Jose Mercury News, 5 September 2003
+http://www.siliconvalley.com/mld/siliconvalley/6694357.htm
+
+QUALITY OF ONLINE COURSES EXPECTED TO ECLIPSE IN-CLASS COURSES
+A survey conducted by Babson College and the Sloan Consortium indicates
+growing respect among some college administrators--including presidents
+and chief academic officers--for the quality of online courses.
+One-third of the roughly 1,000 survey respondents expect the quality of
+online courses at their institutions to surpass that of in-class
+courses within three years. Fifty-seven percent said the quality of
+Web-based classes already rivals that of in-class teaching. Some
+administrators, however, particularly at private baccalaureate
+institutions, remain skeptical of online teaching. One-third of the
+respondents said Web-based courses would not become a significant part
+of the teaching at their institutions.
+Chronicle of Higher Education, 4 September 2003 (sub. req'd)
+http://chronicle.com/prm/daily/2003/09/2003090401t.htm
+
+AUTOMATED ESSAY GRADING: MAKING THE GRADE?
+Several companies offer computer tools to grade student essays, and
+various schools around the United States, including some colleges and
+universities, are using such grading tools to reduce teacher workload
+and improve student writing. One tool called Criterion, developed by
+the Educational Testing Service (ETS), is being used by Camden County
+College in New Jersey. Criterion scores essays based on factors
+"learned" from human readers and also provides students with feedback
+on grammar, style, usage, and organization. Anthony Spatola, chairman
+of the English department at Camden, said students appreciate the
+feedback, and he believes the tool helps students improve their
+writing. Officials from ETS acknowledged that the system theoretically
+could give a high score to an essay that exhibited certain linguistic
+characteristics but lacked a logical argument. Students' taking the
+time, however, to fool the system is unrealistic, they argued. Such
+automated systems have ardent detractors, including Julie Cheville of
+Rutgers University and the local director for the National Writing
+Project, who said automated grading systems "orient students to errors,
+not to meaning." Cheville argued that "Vacuous student essays can
+New York Times, 4 September 2003 (registration req'd)
+http://www.nytimes.com/2003/09/04/technology/circuits/04grad.html
+
+JUDGE ALLOWS POP-UP ADS
+A federal judge has ruled in favor of desktop advertising companies,
+stating that pop-up advertising does not infringe on the trademarks and
+copyrights of Web site publishers and holding individual users
+responsible for downloading software that drives pop-up ads. The case
+concerned U-Haul moving company's allegation that WhenU violated its
+copyrights and trademarks by displaying pop-up advertisements when a
+user visited the U-Haul Web site. Although he issued the first ruling
+granting adware companies the legal right to serve pop-up ads, U.S.
+District Court Judge Gerald Bruce Lee noted that "we computer users
+must endure pop-up advertising along with her ugly brother unsolicited
+bulk e-mail, spam, as a burden of using the Internet."
+Internet News, 8 September 2003
+http://www.internetnews.com/IAR/article.php/3073741
+
+EFF URGES USERS TO PASS UP RIAA'S AMNESTY OFFER
+The Electronic Frontier Foundation (EFF) has issued a statement warning
+users against accepting the recording industry's anticipated but
+unconfirmed plan to offer legal amnesty to those who admit to illegal
+online file sharing, cautioning that users could still face legal
+action. According to Wendy Seltzer, staff attorney for the EFF,
+"Stepping into the spotlight to admit your guilt is probably not a
+sensible course for most people sharing music files online, especially
+since the RIAA [Recording Industry Association of America] doesn't
+control many potential sources of lawsuits." The amnesty program is an
+alternate tactic the RIAA is considering to prevent illegal file
+sharing, pending the outcome of Congressional hearings on the subpoena
+provision of the Digital Millennium Copyright Act--the legal basis of
+the RIAA's subpoena campaign against individual file swappers (see the
+related story below on the RIAA's filing of 261 lawsuits)--contested
+by the EFF and other groups that defend privacy rights.
+PCWorld, 8 September 2003
+http://www.pcworld.com/news/article/0,aid,112362,00.asp
+
+RIAA FILES 261 LAWSUITS
+The Recording Industry Association of America (RIAA) has filed 261
+lawsuits against alleged file swappers, charging the individuals with
+"egregious" copyright infringement. Those targeted were supposedly
+sharing 1,000 songs or more through file-swapping networks. The
+lawsuits are the first time that copyright laws have been used on a
+large scale against individual Internet users, and the RIAA has
+promised to file thousands more in the next couple of months. Despite
+the RIAA's legal warnings, file swapping on services such as Kazaa
+have continued at a brisk pace, reflecting a finding by the Pew
+Internet and American Life Project that 67 percent of people
+downloading music do not care whether the music was copyrighted or not.
+Violators can be held liable for up to $150,000 per violation, although
+few of the suits are expected to go to trial. Many defendants are
+expected to settle with the RIAA, as did four students the RIAA
+previously sued, and several have already agreed to preliminary
+settlements of around $3,000 apiece. In tandem with the lawsuits, the
+RIAA has been considering a "Clean Slate" amnesty program that will
+allegedly protect file sharers who admit to illegal file swapping and
+pledge to stop. Both the lawsuits and the amnesty program have come
+under attack from various sources, including the Electronic Frontier
+Foundation. (See the related story, above.)
+ZDNet, 8 September 2003
+http://zdnet.com.com/2100-1104_2-5072564.html
+
+
+[Is MicroSoft Going To Lose The Entire Pacific Rim?]
+
+THREE ASIAN COUNTRIES PLAN WINDOWS COMPETITOR
+China, South Korea, and Japan are jointly researching an open-source
+software computer operating system to compete with Microsoft Windows.
+Current alternatives, such as Linux, will be explored rather than
+attempting to build a new system from scratch. The intent is to offer
+alternatives to Windows that will allow manufacturers more choice and
+help insulate the countries^R systems against cyberattack. The Japanese
+government, which spearheaded the project, has already earmarked one
+billion yen ($85.5 million). Top officials of the ministries of trade
+of the three countries will meet later in September to further discuss
+the project.
+BBC, 8 September 2003
+http://news.bbc.co.uk/2/hi/technology/3090918.stm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

@@ -1,0 +1,522 @@
+From news at pglaf.org  Wed Jul 13 19:10:10 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Jul 13 19:10:13 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0507131906140.6929@pglaf.org>
+
+GWeekly_July_13_part2.txt
+
+The Project Gutenberg Weekly Newsletter 13 Jul 2005 -- Part 2
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 62 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 13 Jul 2005: 16696 (incl. 462 Aus.).
+
+Last week the Total Count was 16633, including 461 at PG of Australia.
+This week we added 63 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+A Prince of Bohemia, by Honore de Balzac                                  1812
+   [Translator: Clara Bell and others]
+   [Updated edition of: etext99/prbhm10.txt]
+   [Link: http://www.gutenberg.org/1/8/1/1812 ]
+   [Files: 1812.txt]
+
+The Purse, by Honore de Balzac                                            1196
+   [Translated by Clara Bell]
+   [Updated edition of: etext98/purse10.txt]
+   [Link: http://www.gutenberg.org/1/1/9/1196 ]
+   [Files: 1196.txt]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  62 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+New Discoveries at Jamestown, by John L. Cotter and J. Paul Hudson       16277
+   [Subtitle: Site of the First Successful English Settlement in America]
+   [Link: http://www.gutenberg.org/1/6/2/7/16277 ]
+   [Files: 16277.txt; 16277-h.htm]
+
+The Power of Faith, by Isabella  Graham                                  16276
+   [Subtitle: Exemplified In The Life And Writings Of The Late]
+   [Mrs. Isabella Graham.]
+   [Link: http://www.gutenberg.org/1/6/2/7/16276 ]
+   [Files: 16276.txt; 16276-8.txt; 16276-h.htm]
+
+Some Account of the Life of Mr. William Shakespear (1709),Nicholas Rowe  16275
+   [Commentator: Samuel H. Monk]
+   [Link: http://www.gutenberg.org/1/6/2/7/16275 ]
+   [Files: 16275.txt; 16275-8.txt; 16275-h.htm]
+
+The Life and Adventures of Kit Carson, the Nestor of the Rocky Mountains 16274
+   [Title: The Life and Adventures of Kit Carson, the Nestor of the Rocky]
+   [Mountains, from Facts Narrated by Himself]
+   [Author: De Witt C. Peters]
+   [Link: http://www.gutenberg.org/1/6/2/7/16274 ]
+   [Files: 16274.txt; 16274-8.txt; 16274-h.htm; ]
+
+The Manual of Heraldry; Fifth Edition, by Anonymous                      16273
+   [Subtitle: Being a Concise Description of the Several Terms Used, and]
+   [Containing a Dictionary of Every Designation in the Science]
+   [Link: http://www.gutenberg.org/1/6/2/7/16273 ]
+   [Files: 16273.txt; 16273-8.txt; 16273-h.htm; ]
+
+Continental Monthly, Vol. II. July, 1862. No. 1., by Various             16272
+   [Link: http://www.gutenberg.org/1/6/2/7/16272 ]
+   [Files: 16272.txt; 16272-8.txt; 16272-h.htm]
+
+Punch, or the London Charivari, Vol. 158, January 21st, 1920,by Various  16271
+   [Link: http://www.gutenberg.org/1/6/2/7/16271 ]
+   [Files: 16271.txt; 16271-8.txt; 16271-h.htm]
+
+Scientific American Supplement, No. 623, December 10, 1887, by Various   16270
+   [Link: http://www.gutenberg.org/1/6/2/7/16270 ]
+   [Files: 16270.txt; 16270-8.txt; 16270-h.htm]
+
+Thought-Forms, by Annie Besant and C.W. Leadbeater                       16269
+   [Link: http://www.gutenberg.org/1/6/2/6/16269 ]
+   [Files: 16269.txt; 16269-8.txt; 16269-h.htm]
+
+The Story of Jessie, by Mabel Quiller-Couch                              16268
+   [Link: http://www.gutenberg.org/1/6/2/6/16268 ]
+   [Files: 16268.txt]
+
+The Gamester (1753), by Edward Moore                                     16267
+   [Commentator: Charles H. Peake and Phillip R. Wikelund]
+   [Link: http://www.gutenberg.org/1/6/2/6/16267 ]
+   [Files: 16267.txt; 16267-h.htm]
+
+Harvard Psychological Studies, Volume 1, by Various                      16266
+   [Subtitle: Containing Sixteen Experimental Investigations from the]
+   [Harvard Psychological Laboratory.]
+   [Editor: Hugo Mnsterberg]
+   [Link: http://www.gutenberg.org/1/6/2/6/16266 ]
+   [Files: 16266.txt; 16266-8.txt; 16266-h.htm]
+
+Riley Songs of Home, by James Whitcomb Riley                             16265
+   [Pictures By Will Vawter]
+   [Link: http://www.gutenberg.org/1/6/2/6/16265 ]
+   [Files: 16265.txt; 16265-8.txt; 16265-h.htm]
+
+Deutsches Leben der Gegenwart, by Briefs                                 16264
+   [Author: Philipp Witkop, Paul Bekker, Max Scheler, Arnold Sommerfeld,]
+   [and Goetz Briefs]
+   [Editor: D. Philipp Witkop]
+   [Language: German]
+   [Contents: Deutsche Dichtung der Gegenwart, von Prof. Dr. Philipp]
+   [Witkop]
+   [          Deutsche Musik der Gegenwart, von Paul Bekker]
+   [          Deutsche Philosophie der Gegenwart, von Prof. Dr. Max]
+   [Scheler]
+   [          Relativittstheorie, von Prof. Dr. A. Sommerfeld]
+   [          Deutsche Wirtschaftsprobleme der Gegenwart, von Prof. Dr.]
+   [Goetz Briefs]
+   [Link: http://www.gutenberg.org/1/6/2/6/16264 ]
+   [Files: 16264-8.txt; 16264-h.htm; ]
+
+Punch, or the London Charivari, Volume 103, December 3, 1892,by Various  16263
+   [Editor: Francis Burnand]
+   [Link: http://www.gutenberg.org/1/6/2/6/16263 ]
+   [Files: 16263.txt; 16263-8.txt; 16263-h.htm]
+
+Nathan Viisas, by Gotthold Ephraim Lessing                               16262
+   [Subtitle: Viisinytksinen nytelmruno]
+   [Translator: Juhani Siljo]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/2/6/16262 ]
+   [Files: 16262-8.txt]
+
+Some Chinese Ghosts, by Lafcadio Hearn                                   16261
+   [Link: http://www.gutenberg.org/1/6/2/6/16261 ]
+   [Files: 16261.txt; 16261-8.txt; 16261-h.htm]
+
+Nouveau moyen, by Louis-Jacques-Mand Daguerre                            16260
+   [Full title: Nouveau moyen de prparer la couche sensible des plaques]
+   [destines  recevoir les images photographiques]
+   [Subtitle: Lettre  M. Arago]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/6/16260 ]
+   [Files: 16260-8.txt; 16260-h.htm]
+
+The Surprising Adventures of the Magical Monarch of Mo and His People    16259
+   [Author: L. Frank Baum]
+   [Ill.: Frank Ver Beck]
+   [Link: http://www.gutenberg.org/1/6/2/5/16259 ]
+   [Files: 16259.txt; 16259-h.htm; ]
+
+The Squire of Sandal-Side, by Amelia Edith Huddleston Barr               16258
+   [Subtitle: A Pastoral Romance]
+   [Link: http://www.gutenberg.org/1/6/2/5/16258 ]
+   [Files: 16258.txt; 16258-8.txt; 16258-h.htm; ]
+
+The Turtles of Tasman, by Jack London                                    16257
+   [Link: http://www.gutenberg.org/1/6/2/5/16257 ]
+   [Files: 16257.txt; 16257-8.txt; 16257-h.htm]
+
+The Psychology of Management, by L. M. Gilbreth                          16256
+   [Subtitle: The Function of the Mind in Determining, Teaching and]
+   [Installing Methods of Least Waste]
+   [Link: http://www.gutenberg.org/1/6/2/5/16256 ]
+   [Files: 16256.txt; 16256-8.txt; 16256-h.htm]
+
+Dickey Downy, by Virginia Sharpe Patterson                               16255
+   [Subtitle: The Autobiography of a Bird]
+   [Link: http://www.gutenberg.org/1/6/2/5/16255 ]
+   [Files: 16255.txt; 16255-8.txt; 16255-h.htm]
+
+The Fertility of the Unfit, by William Allan Chapple                     16254
+   [Commentator: Rutherford Waddell]
+   [Link: http://www.gutenberg.org/1/6/2/5/16254 ]
+   [Files: 16254.txt; 16254-8.txt; 16254-h.htm]
+
+Madge Morton, Captain of the Merry Maid, by Amy D. V. Chalmers           16253
+   [Link: http://www.gutenberg.org/1/6/2/5/16253 ]
+   [Files: 16253.txt; 16253-8.txt; 16253-h.htm]
+
+Jan, by A. J. Dawson                                                     16252
+   [Subtitle: A Dog and a Romance]
+   [Link: http://www.gutenberg.org/1/6/2/5/16252 ]
+   [Files: 16252.txt; 16252-8.txt; 16252-h.htm]
+
+A Book for Kids, by C. J. (Clarence Michael James) Dennis                16251
+   [Link: http://www.gutenberg.org/1/6/2/5/16251 ]
+   [Files: 16251.txt; 16251-h.htm]
+
+Tristan and Isolda, by Richard Wagner                                    16250
+   [Subtitle: Opera in Three Acts]
+   [Link: http://www.gutenberg.org/1/6/2/5/16250 ]
+   [Files: 16250.txt; 16250-8.txt; 16250-h.htm]
+
+Bought and Paid For, by Arthur Hornblow                                  16249
+   [Subtitle: From the Play of George Broadhurst]
+   [Link: http://www.gutenberg.org/1/6/2/4/16249 ]
+   [Files: 16249.txt; 16249-8.txt; 16249-h.htm]
+
+The Opera, by R.A. Streatfeild                                           16248
+   [Subtitle: A Sketch of the Development of Opera. With full Descriptions]
+   [of all Works in the Modern Repertory]
+   [Other: J. A. Fuller-Maitland]
+   [Link: http://www.gutenberg.org/1/6/2/4/16248 ]
+   [Files: 16248.txt; 16248-8.txt; 16248-h.htm]
+
+Famous Stories Every Child Should Know, by Various                       16247
+   [Editor: Hamilton Wright Mabie]
+   [Link: http://www.gutenberg.org/1/6/2/4/16247 ]
+   [Files: 16247.txt; 16247-8.txt; 16247-h.htm]
+
+Very Pleasaunt & Fruitful Diologe Called the Epicure,Desiderius Erasmus  16246
+   [Link: http://www.gutenberg.org/1/6/2/4/16246 ]
+   [Files: 16246.txt; 16246-8.txt; 16246-h.htm]
+
+Ten Years' Exile, by Anne Louise Germaine Necker                         16245
+   [Subtitle: Memoirs of That Interesting Period of the Life of the
+    Baroness De Stael-Holstein, Written by Herself, during the Years 1810,
+    1811, 1812, and 1813, and Now First Published from the Original
+    Manuscript, by Her Son]
+   [Author AKA: Baronne (Baroness) de Stael-Holstein]
+   [Editor: Auguste Louis, Baron de Stael-Holstein]
+   [Link: http://www.gutenberg.org/1/6/2/4/16245 ]
+   [Files: 16245.txt; ]
+
+The Turkish Jester, by Nasreddin Hoca                                    16244
+   [Subtitle: or, The Pleasantries of Cogia Nasr Eddin Effendi]
+   [Tr.: George Borrow]
+   [Link: http://www.gutenberg.org/1/6/2/4/16244 ]
+   [Files: 16244.txt; 16244-h.htm]
+
+Journal of Landsborough's Expedition from Carpentaria, by Landsborough   16243
+   [Full author: William Landsborough]
+   [Subtitle: In search of Burke and Wills]
+   [Link: http://www.gutenberg.org/1/6/2/4/16243 ]
+   [Files: 16243.txt]
+
+The Purpose of the Papacy, by John S. Vaughan                            16242
+   [Link: http://www.gutenberg.org/1/6/2/4/16242 ]
+   [Files: 16242.txt; 16242-8.txt; 16242-h.htm]
+
+Barbara's Heritage, by Deristhe L. Hoyt                                  16241
+   [Subtitle: Young Americans Among the Old Italian Masters]
+   [Illustrator: Homer W. Colby]
+   [Link: http://www.gutenberg.org/1/6/2/4/16241 ]
+   [Files: 16241.txt; 16241-8.txt; 16241-h.htm]
+
+La Vnus d'Ille, by Prosper Mrime                                      16240
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/4/16240 ]
+   [Files: 16240-8.txt; 16240-r.rtf]
+
+Colomba, by Prosper Mrime                                              16239
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16239 ]
+   [Files: 16239-8.txt; 16239-r.rtf]
+
+Posies Allemandes, by Friedrich Gottlieb Klopstock                      16238
+   [Translator: Grard de Nerval]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16238 ]
+   [Files: 16238-8.txt; 16238-r.rtf]
+
+Les stratagmes, by Sextus Julius Frontin                                16237
+   [Translator: Ch. Bailly]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16237 ]
+   [Files: 16237-8.txt; 16237-r.rtf]
+
+Le dernier des mohicans, by James Fenimore Cooper                        16236
+   [Subtitle: Le roman de Bas-de-cuir]
+   [Translator: A.J.B. Defauconpret]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16236 ]
+   [Files: 16236-8.txt; 16236-r.rtf]
+
+Jane Eyre, by Charlotte Bront                                           16235
+   [Subtitle: ou Les mmoires d'une institutrice]
+   [Translator: Mme Lesbazeilles Souvestre]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16235 ]
+   [Files: 16235-8.txt; 16235-r.rtf]
+
+Introduction  l'tude de la mdecine exprimentale, by Claude Bernard   16234
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/3/16234 ]
+   [Files: 16234-8.txt; 16234-r.rtf]
+
+Fixing the True Standards of Wit, by Corbyn Morris                       16233
+   [Full title: An Essay towards Fixing the True Standards of Wit, Humour,]
+   [Railery, Satire, and Ridicule (1744)]
+   [Commentator: James L. Clifford]
+   [Link: http://www.gutenberg.org/1/6/2/3/16233 ]
+   [Files: 16233.txt; 16233-8.txt; 16233-h.htm]
+
+The Culture of Vegetables and Flowers, by Sutton and Sons                16232
+   [Full title: The Culture of Vegetables and Flowers From Seeds and]
+   [Roots, 16th Edition]
+   [Link: http://www.gutenberg.org/1/6/2/3/16232 ]
+   [Files: 16232.txt; 16232-8.txt; 16232-0.txt; 16232-h.htm]
+
+"Forward, March", by Kirk Munroe                                         16231
+   [Subtitle: A Tale of the Spanish-American War]
+   [Link: http://www.gutenberg.org/1/6/2/3/16231 ]
+   [Files: 16231.txt; 16231-8.txt; 16231-h.htm; ]
+
+Fat and Blood, by S. Weir Mitchell                                       16230
+   [Subtitle: An Essay on the Treatment of Certain Forms of]
+   [Neurasthenia and Hysteria]
+   [Editor: John K. Mitchell]
+   [Link: http://www.gutenberg.org/1/6/2/3/16230 ]
+   [Files: 16230.txt; 16230-8.txt; 16230-h.htm]
+
+The Poems of Henry Van Dyke, by Henry Van Dyke                           16229
+   [Link: http://www.gutenberg.org/1/6/2/2/16229 ]
+   [Files: 16229.txt; 16229-8.txt; 16229-h.htm]
+
+Chambers' Edinburgh Journal, by Various                                  16228
+   [Subtitle: Volume XVII., No 422, New Series, January 31, 1852]
+   [Editor: Robert Chambers and William Chambers]
+   [Link: http://www.gutenberg.org/1/6/2/2/16228 ]
+   [Files: 16228.txt; 16228-8.txt; 16228-h.htm]
+
+The Uses of Astronomy, by Edward Everett                                 16227
+   [Subtitle: An Oration Delivered at Albany on the 28th of July, 1856]
+   [Link: http://www.gutenberg.org/1/6/2/2/16227 ]
+   [Files: 16227.txt; 16227-8.txt; 16227-h.htm; ]
+
+A Journey to Katmandu, by Laurence Oliphant                              16226
+   [Subtitle: (the Capital of Napaul), with The Camp of Jung Bahadoor;]
+   [including A Sketch of the Nepaulese Ambassador at Home]
+   [Link: http://www.gutenberg.org/1/6/2/2/16226 ]
+   [Files: 16226.txt; 16226-h.htm]
+
+Music As A Language, by Ethel Home                                       16225
+   [Subtitle: Lectures to Music Students]
+   [Link: http://www.gutenberg.org/1/6/2/2/16225 ]
+   [Files: 16225.txt; 16225-8.txt; 16225-h.htm]
+
+Tour in France and Germany, Volume One, by Thomas Frognall  Dibdin       16224
+   [Full title: A Bibliographical, Antiquarian and Picturesque Tour in]
+   [France and Germany, Volume One]
+   [Link: http://www.gutenberg.org/1/6/2/2/16224 ]
+   [Files: 16224.txt; 16224-8.txt; 16224-h.htm]
+
+Lukemisia lapsille 1, by Zacharias Topelius                              16223
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/2/2/16223 ]
+   [Files: 16223-8.txt; 16223-h.htm]
+
+Winter Evening Tales, by Amelia Edith Huddleston Barr                    16222
+   [Contents: "Cash," a Problem of Profit and Loss]]
+   [          Franz Mller's Wife]
+   [          The Voice at Midnight]
+   [          Six and Half-a-Dozen]
+   [          The Story of David Morrison]
+   [          Tom Duffan's Daughter]
+   [          The Harvest of the Wind]
+   [          The Seven Wise Men of Preston]
+   [          Margaret Sinclair's Silent Money]
+   [          Just What He Deserved]
+   [          An Only Offer]
+   [          Two Fair Deceivers]
+   [          The Two Mr. Smiths]
+   [          The Story of Mary Neil]
+   [          The Heiress of Kurston Chace]
+   [          Only This Once]
+   [          Petralto's Love Story]
+   [Link: http://www.gutenberg.org/1/6/2/2/16222 ]
+   [Files: 16222.txt; 16222-8.txt; 16222-h.htm; ]
+
+The Spirit of Youth and the City Streets, by Jane Addams                 16221
+   [Link: http://www.gutenberg.org/1/6/2/2/16221 ]
+   [Files: 16221.txt; 16221-8.txt; 16221-h.htm]
+
+Rambles in the Mammoth Cave, by Alexander Clark Bullitt                  16220
+   [Full title: Rambles in the Mammoth Cave, during the Year 1844]
+   [Subtitle: By a Visiter]
+   [Link: http://www.gutenberg.org/1/6/2/2/16220 ]
+   [Files: 16220.txt; 16220-8.txt; 16220-h.htm]
+
+As Farpas (Maio a Junho de 1877), by Ramalho Ortigo & Ea de Queiroz    16219
+   [Subtitle: Chronica Mensal da Politica, das Letras e dos Costumes]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/6/2/1/16219 ]
+   [Files: 16219-8.txt; 16219-h.htm]
+
+As Farpas (Janeiro a Fevereiro de 1877), by Ortigo & de Queiroz         16218
+   [Subtitle: Chronica Mensal da Politica, das Letras e dos Costumes]
+   [Author: Ramalho Ortigo and Ea de Queiroz]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/6/2/1/16218 ]
+   [Files: 16218-8.txt; 16218-h.htm]
+
+As Farpas (Agosto a Setembro de 1877), by Ortigo & de Queiroz           16214
+   [Subtitle: Chronica Mensal da Politica, das Letras e dos Costumes]
+   [Author: Ramalho Ortigo and Ea de Queiroz]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/6/2/1/16214 ]
+   [Files: 16214-8.txt; 16214-h.htm]
+
+
+The Pursuit of the House-Boat, by John Kendrick Bangs                    16097
+   [Subtitle: Being Some Further Account of the Divers Doings of the]
+   [Associated Shades, under the Leadership of Sherlock Holmes, Esq.]
+   [Ill.: Peter Newell]
+   [This is the 1897 edition. It differs in some respects from e-book]
+   [#3169, which was prepared from a 1919 edition.]
+   [Link: http://www.gutenberg.org/1/6/0/9/16097 ]
+   [Files: 16097.txt; 16097-8.txt; 16097-h.htm; ]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Jul 2005 Pacific Tales, by Louis Becke                     [050067xx.xxx] 0462A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+
+~ ~ ~
+
+I thoroughly disapprove of duels. If a man should challenge me, I would
+take him kindly and forgivingly by the hand and lead him to a quiet place
+and kill him. - Mark Twain
+
+=============================================================================
+

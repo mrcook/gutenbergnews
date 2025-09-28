@@ -1,0 +1,245 @@
+---
+params:
+  id: 1987
+title: "PG Weekly Newsletter: Part 3 (2003-04-30)"
+date: 2003-04-30T21:02:28+00:00
+author: Michael Cook
+layout: post
+url: /20030430/pg-weekly-newsletter-2003-04-30-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 30th April 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 04/30/03:   7,803 (incl. 226 Aus.).
+
+Last week the Total Count was 7,743, including 223 at PG of Australia.
+This week we added 60 new (incl. 3 Aus.).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the supplemental
+information line:
+Jan 2005 Carta da Companhia, by St. Joseph Anchieta        [8cartxxx.xxx]7384
+[Anchieta is considered the first Brazilian author, d.1597]
+[Language: Portuguese]
+
+We have posted the following in new formats as indicated:
+Jan 2005 Species and Varieties, by Hugo DeVries            [spvrtxxx.xxx]7234
+[Posted in etext05: spvrt10h.zip - zipped only]
+Dec 2004 The Bushman, by Edward Wilson Landor              [bshmnxxx.xxx]7181
+[HTML in bshmn10h.htm/.zip]
+
+
+=-=-=-=[ 57 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Mar 2005 My Novel,        by E. B. Lytton, Complete[BL#141][b141wxxx.xxx]7714
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7702-7713]
+Mar 2005 My Novel,        by E. B. Lytton, Book 12 [BL#140][b140wxxx.xxx]7713
+Mar 2005 My Novel,        by E. B. Lytton, Book 11 [BL#139][b139wxxx.xxx]7712
+Mar 2005 My Novel,        by E. B. Lytton, Book 10 [BL#138][b138wxxx.xxx]7711
+
+Mar 2005 My Novel,        by E. B. Lytton, Book 9  [BL#137][b137wxxx.xxx]7710
+Mar 2005 My Novel,        by E. B. Lytton, Book 8  [BL#136][b136wxxx.xxx]7709
+Mar 2005 My Novel,        by E. B. Lytton, Book 7  [BL#135][b135wxxx.xxx]7708
+Mar 2005 My Novel,        by E. B. Lytton, Book 6  [BL#134][b134wxxx.xxx]7707
+Mar 2005 My Novel,        by E. B. Lytton, Book 5  [BL#133][b133wxxx.xxx]7706
+
+Mar 2005 My Novel,        by E. B. Lytton, Book 4  [BL#132][b132wxxx.xxx]7705
+Mar 2005 My Novel,        by E. B. Lytton, Book 3  [BL#131][b131wxxx.xxx]7704
+Mar 2005 My Novel,        by E. B. Lytton, Book 2  [BL#130][b130wxxx.xxx]7703
+Mar 2005 My Novel,        by E. B. Lytton, Book 1  [BL#129][b129wxxx.xxx]7702
+
+
+Sep 2002 The Koran/The Q'uran, by Mohammed/Mohammad        [koranxxb.xxx]7440
+[Subtitle: aka The Q'uran and other transliterations] [Tr.:  George Sale]
+[See also eBooks #3434 and 2800.]
+{NOTE: Version 09 being posted pending further formatting.)
+[Plain text in koran09b.txt/.zip, RTF in  koran09br.zip]
+Feb 2005 Engish Fairy Tales, by Joseph Jacobs (coll. & ed  [?eftlxxx.xxx]7439
+Feb 2005 Friends in Council (First Series),Sir Arthur Helps[frccxxxx.xxx]7438
+[Editor: Henry Morley]
+[Text in frcc10.txt/.zip, XHTML in frcc10h.htm/.zip]
+Feb 2005 A Peep Behind the Scenes, by Mrs. O. F. Walton    [bescnxxx.xxx]7437
+Feb 2005 Religious Liberty in Connecticut, by M. L. Greene [?rconxxx.xxx]7436
+[Full title: The Development of Religious Liberty in Connecticut]
+[Full author: M. Louise Greene, Ph. D.]
+
+Feb 2005 Springhaven, by R. D. Blackmore               [#4][sphavxxx.xxx]7435
+Feb 2005 The Adventures of Joel Pepper, by Margaret Sidney [jopepxxx.xxx]7434
+[Also posted in illustrated HTML - jopep10h.zip and jopep10h.htm]
+Feb 2005 The Awkward Age, by Henry James              [#47][akagexxx.xxx]7433
+Feb 2005 On Nothing & Kindred Subjects, Hilaire Belloc [#4][?nothxxx.xxx]7432
+Feb 2005 Confessions and Criticisms,by Julian Hawthorne[#8][?jhccxxx.xxx]7431
+
+Feb 2005 Familiar Spanish Travels, by W. D. Howells        [sptrvxxx.xxx]7430
+[Also posted an illustrated HTMLversion - sptrv10h.zip]
+Feb 2005 Trials and Triumphs of Faith, by Mary Cole        [trtrfxxx.xxx]7429
+Feb 2005 The Consumer Viewpoint, by Mildred Maddocks       [cnsvpxxx.xxx]7428
+[Also posted HTML - cnsvp10h.zip and cnsvp10h.htm]
+Feb 2005 Toasts, by William Pittenger                      [?tostxxx.xxx]7427
+Feb 2005 Chicot the Jester, by Alexandre Dumas        [#33][?chicxxx.xxx]7426
+
+
+Feb 2005 The Louisa Alcott Reader, by Louisa M. Alcott     [?louixxx.xxx]7425
+[Also in HTML in 8loui10h.htm and in illustrated HTML in 8loui10h.zip]
+Feb 2005 The Wishing-Ring Man, by Margaret Widdemer        [?wishxxx.xxx]7424
+[Also posted HTML - 8wish10h.zip and 8wish10h.htm]
+Feb 2005 Mike, by P. G. Wodehouse                     [#25][mikewxxx.xxx]7423
+(Note: based on original 1909 edition, which was later split into two
+(separate books, published as "Mike at Wrykin" and "Mike and Psmith".)
+[Also posted HTML as mikew10h.zip - zipped only]
+Feb 2005 Roman Holidays and Others, by W. D. Howells       [whromxxx.xxx]7422
+[Also posted HTML - whrom10h.zip and whrom10h.htm]
+Feb 2005 Poems of Optimism, by Ella Wheeler Wilcox         [pmopxxxx.xxx]7421
+[Text in pmop10.txt/.zip, XHTML in pmop10h.htm/.zip]
+
+Feb 2005 You meng yin, Complete, by Zhang chao         [#3][?you3xxx.xxx]7420
+[Language: Chinese]
+Feb 2005 You meng yin, Part 2., by Zhang chao          [#2][?you2xxx.xxx]7419
+[Language: Chinese]
+Feb 2005 You meng yin, Part 1., by Zhang chao          [#1][?you1xxx.xxx]7418
+[Language: Chinese]
+Feb 2005 The Resources of Quinola, by Honore de Balzac     [thrsrxxx.xxx]7417
+Feb 2005 The Thirteen, by Honore de Balzac                 [thrtnxxx.xxx]7416
+[Intro. by George Saintsbury]
+   Contents:
+     Ferragus  (see also #1649)
+     The Duchesse de Langeais (see also #469)
+     La Fille aux Yeux d'Or (see also #1659)
+
+Feb 2005 A Shepherd's Life, by W. H. Hudson                [shlifxxx.xxx]7415
+[Subtitle: Impressions of the South Wiltshire Downs]
+[HTML version in shlif10h.htm and shlif10h.zip]
+Feb 2005 Poor White, by Sherwood Anderson              [#4][pwhitxxx.xxx]7414
+Feb 2005 Egyptian Tales, V2, by W. M. Flinders Petrie      [egpt2xxx.xxx]7413
+[Full title: Egyptian Tales, Second Series]
+[Also posted HTML - egpt210h.zip and egpt210h.htm]
+Feb 2005 Coningsby, by Benjamin Disraeli                   [?cngbxxx.xxx]7412
+[Subtitle: The New Generation]
+[Plain text in 7cngb10.txt/.zip, 8-bit version in 8cngb10.txt/.zip]
+Feb 2005 Art-Lovers guide to the Exposition, Shelden Cheney[atexpxxx.xxx]7411
+
+Feb 2005 The Minister's Charge, by William D. Howells      [?michxxx.xxx]7410
+[Subtitle: The Apprenticeship of Lemuel Barker]
+[Plain text in 7mich10.txt/.zip, 8-bit version in 8mich10.txt/.zip]
+Feb 2005 An Essay on Criticism, by Alexander Pope          [esycrxxx.xxx]7409
+[Also posted HTML - esycr10h.zip and esycr10h.htm]
+Feb 2005 Shen jian, by xun yue                             [?xysjxxx.xxx]7408
+[Language: Chinese]
+Feb 2005 Qi jing, by zhang ni                              [?qijixxx.xxx]7407
+[Language: Chinese]
+Feb 2005 Cha jing (A.D.733--A.D.804), by lu yu             [?jingxxx.xxx]7406
+[Language: Chinese]
+
+Feb 2005 The Real Dope, by Ring Lardner                    [rldpexxx.xxx]7405
+[Also posted HTML as rldpe10h.zip - zipped only]
+Feb 2005 John James Audubon, by John Burroughs             [?jjauxxx.xxx]7404
+[Plain text in 7jjau10.txt/.zip, 8-bit version in 8jjau10.txt/.zip]
+[HTML version with accented characters in 8jjau10h.htm and 8jjau10h.zip]
+Feb 2005 Letters of Catherine Benincasa,Catherine Benincasa[?ltcbxxx.xxx]7403
+[Subtitle: Saint Catherine of Siena as Seen in Her Letters]
+[Editor: Vida D. Scudder] [Tr.: Vida D. Scudder]
+[Plain text in 7ltcb10.txt/.zip, 8-bit version in 8ltcb10.txt/.zip]
+Feb 2005 De Bello Catilinario et Jurgthino, by Sallustius  [debcjxxx.xxx]7402
+[Author: C. Sallustii Crispi; AKA Caius Sallustii Crispi (Sallust)]
+[From:  Classical Series. Edited By Drs. Schmitz And Zumpt]
+[Language: Latin with notes in English]
+Feb 2005 A Crystal Age, by W. H. Hudson                    [crystxxx.xxx]7401
+[Also posted HTML - cryst10h.zip and cryst10h.htm]
+
+
+Jan 2005 Grisly Grisell, by Charlotte M. Yonge             [grgrxxxx.xxx]7387
+[Subtitle: or the Laidly Lady of Whitburn: A Tale of the Wars of the Roses]
+[Text in grgr10.txt/.zip, XHTML in grgr10h.htm/.zip]
+Jan 2005 Egyptian Tales, V1, ed. by  W. M. Flinders Petrie [egpt1xxx.xxx]7386
+[Full title: Egyptian Tales, First Series]
+[Also posted HTML - egpt110h.zip and egpt110h.htm]
+
+Jan 2005 Old Calabria, by Norman Douglas                   [?ocalxxx.xxx]7385
+[7-bit version with non-accented characters in 7ocal10.txt and 7ocal10.zip]
+[8-bit version with accented characters in 8ocal10.txt and 8ocal10.zip]
+[HTML version with accented characters in 8ocal10h.htm and 8ocal10h.zip]
+
+Jan 2005 Shang zi, by yang shang                           [?shzixxx.xxx]7383
+[Language: Chinese]
+
+
+=-=-=-=[ 3 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+
+Apr 2003 Le Petit Prince, by Antoine de Saint-Exupery      [030077xx.xxx]0226A
+[http://gutenberg.net.au/ebooks03/0300771h.zip ZIPPED HTML ONLY]
+[Language: French]
+Apr 2003 Marie Grubbe, by Jens Peter Jacobsen              [030076xx.xxx]0225A
+[http://gutenberg.net.au/ebooks03/0300761.txt or .ZIP]
+[Translated from the Danish by Hanna Astrup Larsen]
+Apr 2003 Niels Lyhne, by Jens Peter Jacobsen               [030075xx.xxx]0224A
+[http://gutenberg.net.au/ebooks03/0300751h.zip ZIPPED HTML ONLY]
+[Translated from the Danish by Hanna Astrup Larsen]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_04_30_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_04_30_part_3.txt</a>

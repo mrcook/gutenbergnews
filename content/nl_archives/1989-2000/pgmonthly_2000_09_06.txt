@@ -1,0 +1,589 @@
+========
+Subject: Project Gutenberg Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg mailing list" <gutnberg@listserv.unc.edu>
+Date: Wed, 6 Sep 2000 14:52:50 -0500 (CDT)
+
+
+This is Project Gutenberg's Newsletter of Wednesday, September 6, 2000
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+. . .So Far The New Project Gutenberg Literary Archive Foundation. . .
+HAS NOT RECEIVED ONE SINGLE CENT. . .Please See Below For Details. . .
+
+With 2870 eTexts online it now takes an average of 100,000,000 readers
+gaining a nominal value of $3.48 from each book, for Project Gutenberg
+to have given away $1,000,000,000,000 [One Trillion Dollars] in books.
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $3.55 when we had 2820 Etexts on August 16
+This "cost" is down from $3.60 when we had 2775 Etexts on August 2
+This "cost" is down from $3.70 when we had 2650 Etexts in July
+This "cost" is down from $3.77 when we had 2650 Etexts in June
+This "cost" is down from $3.92 when we had 2550 Etexts in May
+This "cost" is down from $4.00 when we had 2500 Etexts in April
+
+Can you imagine each one of thousands of books reduced by 52 cents???
+
+There is no end to the great things we can accomplish
+if we don't worry about who gets the credit.  - Anon.
+
+If a free society cannot help the many who are poor,
+it cannot save the few who are rich.  John F. Kennedy
+
+Everything should be made as simple as possible, but not simpler.
+Albert Einstein
+
+Life is an open book exam,
+with no particular time limit.
+Michael S. Hart
+
+
+
+Table of Contents:
+
+
+Headline News
+
+Requests For Assistance
+
+Comments About Our New Files
+
+Comments About Our Improved Files
+
+Index Listings for Improved Files
+
+Index Listings for the New Files
+
+Notes from News Scan and Edupage
+
+
+***
+
+
+Headline News
+
+I hate to lead with this, but if Project Gutenberg is going to be able to
+eventually survive when I am gone, we have to get some support coming in.
+
+Please. . .help us get started. . .I am going to conferences in the states
+of Washington, Hawaii and California. . .and it would be nice if we could
+solicit contributions in the process, but it costs money to file the papers
+required before we can do this.  We CAN accept outside U.S. contributions.
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to
+the "Project Gutenberg Literary Archive Foundation" and mailed to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+
+Introducing our first three Etexts in Flemish!
+Sep 2001 De Franse Pers, Heinrich Heine    [#3, in Flemish][fpersxxx.xxx]2840
+Sep 2001 Franse Toestanden, Heinrich Heine [#2, in Flemish][ftoesxxx.xxx]2839
+Sep 2001 De Beurs lacht, Heinrich Heine    [#1, in Flemish][fbeurxxx.xxx]2838
+
+***
+
+We are forming a Hungarian Team, please let us know if you would like
+to help us promote Etexts in Hungarian.
+
+Hungarian Team
+Drotos Laszlo <kondrot@gold.uni-miskolc.hu>
+Hungarian Electronic Library
+Cc: moldovan@oszk.hu
+cc: hart@pobox.com
+
+***
+
+We are forming a Movie Team to explore several libraries of movies,
+let me know if you have enough bandwidth to download and work on a
+few clips we can present.
+
+***
+
+As you can see from the listings below, we are approaching Etext #3000.
+
+We would very much like your suggestions for what to present for #3000.
+
+We have tried to do something particularly interesting for such events,
+such as:
+
+Feb 2001 Siddhartha, by Herman Hesse [Our English Edition] [siddhxxx.xxx]2500
+Feb 2001 Siddhartha, by Herman Hesse [In 8-bit German]     [8siddxxx.xxx]2499
+Feb 2001 Siddhartha, by Herman Hesse [In 7-bit German]     [7siddxxx.xxx]2499
+
+Dec 1999 Sonnets from the Portuguese, by E. B. Browning[#1][snprgxxx.xxx]2002
+Dec 1999 [Reserved for 2001, by Arthur C. Clarke]          [     xxx.xxx]2001
+Dec 1999 Don Quijote, by Cervantes in Spanish .txt & .htm  [2donqxxx.xxx]2000
+Dec 1999 Crome Yellow, by Aldous Huxley [Aldous Huxley #1] [crmylxxx.xxx]1999
+Dec 1999 Thus Spake Zarathustra, by Friedrich Nietzsche #1 [spzarxxx.xxx]1998
+Dec 1999 Paradise, Divine Comedy, Dante, Tr. by Norton     [3ddcnxxx.xxx]1997
+Dec 1999 Purgatory, Divine Comedy, Dante, Tr. by Norton    [2ddcnxxx.xxx]1996
+Dec 1999 Hell/Inferno, Divine Comedy, Dante, Tr. by Norton [1ddcnxxx.xxx]1995
+
+A public domain edition of Shakespeare for #1500-1548
+
+Aug 1997 La Divina Commedia di Dante in Italian, 8-bit text[0ddc8xxx.xxx]1012
+Aug 1997 Divina Commedia di Dante: Paradiso   [8-bit text] [3ddc8xxx.xxx]1011
+Aug 1997 Divina Commedia di Dante: Purgatorio [8-bit text] [2ddc8xxx.xxx]1010
+Aug 1997 Divina Commedia di Dante: Inferno    [8-bit text] [1ddc8xxx.xxx]1009
+Aug 1997 H. F. Cary's Translation of Dante, Entire Comedy  [0ddccxxx.xxx]1008
+Aug 1997 H. F. Cary's Translation of Dante, Paradise       [3ddccxxx.xxx]1007
+Aug 1997 H. F. Cary's Translation of Dante, Puragorty      [2ddccxxx.xxx]1006
+Aug 1997 H. F. Cary's Translation of Dante, Hell           [1ddccxxx.xxx]1005
+Aug 1997 Longfellow's Translation of Dante, Entire Comedy  [0ddclxxx.xxx]1004
+Aug 1997 Longfellow's Translation of Dante  Paradise       [3ddclxxx.xxx]1003
+Aug 1997 Longfellow's Translation of Dante, Purgatory      [2ddclxxx.xxx]1002
+Aug 1997 Longfellow's Translation of Dante, Inferno        [1ddclxxx.xxx]1001
+Aug 1997 La Divina Commedia di Dante in Italian, 7-bit text[0ddcdxxx.xxx]1000
+Aug 1997 Divina Commedia di Dante: Paradiso, 7-bit Italian [3ddcdxxx.xxx] 999
+Aug 1997 Divina Commedia di Dante: Purgatorio 7-bit Italian[2ddcdxxx.xxx] 998
+Aug 1997 Divina Commedia di Dante: Inferno, 7-bit Italian  [1ddcdxxx.xxx] 997
+
+Dec 1996 The High History of the Holy Graal, Author Unknown[hhohgxxx.xxx] 750
+
+Apr 1996 The Story of Doctor Dolittle, by Hugh Lofting     [dolitxxx.xxx] 501
+Apr 1996 Adventures of Pinocchio by Carlo Collodi/Lorenzini[pnocoxxx.xxx] 500
+Apr 1996 Tom Swift / Land of Wonders, by Victor Appleton   [tom20xxx.xxx] 499
+Apr 1996 Rebecca Of Sunnybrook Farm, by Kate Douglas Wiggin[snybkxxx.xxx] 498
+
+and
+
+Jan 1994 Around the World in 80 Days by Jules Verne[Verne2][80day10x.xxx] 103
+Jan 1994 Pudd'n'head Wilson by Mark Twain [Twain #7]       [puddn10x.xxx] 102
+Jan 1994 Hacker Crackdown by Bruce Sterling                [hack10xx.xxx] 101C
+Jan 1994 The Complete Works of William Shakespeare [LOF]   [shaks10x.xxx] 100C
+Jan 1994 Collected Articles of Frederick Douglass, a Slave [dugl210x.xxx]  99
+Jan 1994 A Tale of Two Cities, by Charles Dickens [CD#1]   [2city10x.xxx]  98
+Jan 1994 Flatland, by Edwin A. Abbott [Math in Fiction]    [flat10xx.xxx]  97
+Jan 1994 The Monster Men, by Edgar Rice Burroughs          [monst10x.xxx]  96
+
+
+So. . .if you have anything in mind, perhaps even not in English, we would
+LOVE to hear from you.
+
+
+
+Requests For Assistance
+
+
+I am typing in the book "Defenders of Democracy" which is a collection of
+letters written around the time of the US entrance into WWI.  These
+letters are from heads of state, literature figures, etc. encouraging the
+woman at home in the US to support their husbands, brothers, and sons who
+are going to war in Europe.  Several of the letters are in French and an
+English translation is also printed.  I have typed in two of the French
+letters with their English translations, but the French letters need
+proofing.  Please contact me at bfish@atlantech.net if you can perform
+this type of proof reading and I'll send you the completed letters for
+proofing and additional letters as I get to them in the book.  THANKS!
+Brett Fishburne <Brett.Fishburne@fema.gov>
+
+***
+
+Adrienne Forbes is a Mac user who would appreciate advice on preparing,
+compressing and sending plain text files that can be read by most hardware
+/software combinations.  She will be grateful for help from any Mac user
+who can spare the time.  If you can help, please write to her at:
+<dandaforbes@netmatters.co.uk>
+
+***
+
+Judy Boss has superscanner and Britannica for potential shipping to you
+if you are in the US and would like to get into some VERY serious scanning.
+Judith Boss <jeboss@home.com>
+
+***
+
+Also, is it still true that Canada has a life + 50 years copyright law?
+If so, is there anyone who might like to post some Sabatini novels that
+are not yet public domain in the states?  Sabatini died in 1950.
+I will relay your email to one of our anonymous volunteers.
+
+***
+
+Software developer Bob Zwick would like to make reading
+eText to be an enjoyable experience for everyone.
+eBookIt automatically turns small or huge plain text documents
+into documents that have resizable characters and audio, video
+and Palm sync capabilities.  Broken into small easy to read pages
+that can be bookmarked to hold your place.  Chunks that are small
+enough to load chapter by chapter or page by page to any PalmOS
+device to read anywhere.
+
+eBookIt is a FREE windows based program that can be downloaded at:
+http://www.cottagemicro.com/ebooks/
+
+***
+
+I can send the etext of The Sky Pilot,
+by Ralph Connor, to anyone with a copy
+of the book that has a clearable edition.
+Don Lainson <charlie@idirect.com>
+
+
+
+Comments About Our New Files
+
+We have posted our first three Etexts in Flemish!
+
+This month we have approximately 2/3 of the October, 2001 Etexts done,
+along with about 50% of the November, 2001 Etexts, and we completed an
+extraordinary set of works by Alexandre Dumas that was reserved on the
+schedule for August, 2001, as well as a few other Etexts we worked for
+several months on, including the Dumas collection listed below.
+
+We have 8 Galsworthy titles, and 19 T. H. Huxley titles for November.
+for a total of 27 November, 2001 Etexts, and about 33 October Etexts.
+Thus we have hopefully exceeded our goal of 50 at this time.  While I
+am writing this I am also posting these books. . .so it is kind of an
+interesting race as to how many books I can post before I get totally
+exhausted. . .this is also the reason I sometimes make silly mistakes
+while writing the last few parts of the Newsletter. . . .     ;-)
+
+I am also hoping to [officially] squeeze in 10 extra Etext into those
+November, 2001 listings, before I leave on my speaking tour, so #3000
+can be announced while I am giving my speech in Hawaii.
+
+
+Comments About Our Improved Files
+
+We always need more proofers for the files we posted some time ago,
+in this case especially for The Count of Monte Cristo.
+
+
+Index Listings for Improved Files
+
+Rereleases:  [These are always version 11, except where otherwise indicated]:
+
+Mon Year    Title and Author                               [filename.ext]####
+*****A "C" Following a Project Gutenberg Etext Number Indicates Copyright****
+
+Apr 1997 The Golden Sayings of Epictetus                   [epictxxx.xxx] 871
+Feb 1999 The Imitation of Christ, by Thomas A Kempis       [mcrstxxx.xxx]1653
+Jan 1998 The Count of Monte Cristo by Alexandre Dumas[Pere][crstoxxx.xxx]1184
+[We need more proofers on this, especially for the first 60 chapters.]
+
+
+We have released version 10 of the following which were previously reserved:
+
+May 2001 Du Cote de Chez Swann, Marcel Proust   [Proust #1][swannxxx.xxx]2650
+[We are releasing this as both swann10.txt, swann10h.htm and their zip files]
+[This of Volume One of Proust's "A La Recherche du Temps Perdu"]
+
+
+We have also completed this Dumas collection reserved for August, 2001
+
+Mon Year    Title and Author                               [filename.ext]####
+*****A "C" Following a Project Gutenberg Etext Number Indicates Copyright****
+
+Aug 2001 Reserved for Dumas Commentaries                   [     xxx.xxx]2760*
+Aug 2001 The Man in the Iron Mask[The Novel]Dumas, Pere #28[ironmxxx.xxx]2759
+[Full name:  Alexandre Dumas, Pere]
+[This is the novel entitled The Man in the Iron Mask, not the essay, #2751]
+
+**The 18 volumes listed below comprise "Celebrated Crimes" by Dumas, Pere**
+
+Aug 2001 Marquise de Ganges, by Alexander Dumas, Pere[# 27][gangexxx.xxx]2758
+Aug 2001 Vaninka, by Alexander Dumas, Pere [Dumas, Pere 26][vaninxxx.xxx]2757
+Aug 2001 Marquise Brinvillier, by Alexander[Dumas, Pere 25][brinvxxx.xxx]2756
+15
+Aug 2001 Murat, by Alexander Dumas, Pere  [Dumas, Pere #24][muratxxx.xxx]2755
+Aug 2001 Countess St. Geran, by Alexander Dumas, Pere [#23][geranxxx.xxx]2754
+Aug 2001 Countess de Saint-Geran, by Alexander Dumas  [#23][geranxxx.xxx]2754
+[Alternate spelling of title]
+Aug 2001 Ali Pacha, by Alexander Dumas, Pere[Dumas Pere 22][alpacxxx.xxx]2753
+Aug 2001 Martin Guerre, by Alexander Dumas, Pere [Dumas 21][mguerxxx.xxx]2752
+Aug 2001 Man in the Iron Mask, by Alexander Dumas, Pere 20 [emaskxxx.xxx]2751
+[This is the essay entitled The Man in the Iron Mask, not the novel]
+10
+Aug 2001 Joan of Naples, by Alexander Dumas, Pere     [#19][jonapxxx.xxx]2750
+Aug 2001 La Constantin, by Alexander Dumas, Pere      [#18][cnstnxxx.xxx]2749
+Aug 2001 Derues, by Alexander Dumas, Pere             [#17][derusxxx.xxx]2748
+Aug 2001 Nisida, by Alexander Dumas                   [#16][nisidxxx.xxx]2747
+Aug 2001 Urbain Grandier, by Alexander Dumas, Pere    [#15][ugranxxx.xxx]2746
+5
+Aug 2001 Karl Ludwig Sand, by Alexander Dumas, Pere   [#14][ksandxxx.xxx]2745
+Aug 2001 Mary Stuart, by Alexander Dumas, Pere[Dumas/P #13][marysxxx.xxx]2744
+Aug 2001 Massacres of the South, by Alex. Dumas, Pere [#12][mssthxxx.xxx]2743
+Aug 2001 The Cenci, by Alexander Dumas, Pere/Dumas, Pere 11[cencixxx.xxx]2742
+Aug 2001 The Borgias, by Alexander Dumas, Pere [Dumas, #10][gorgsxxx.xxx]2741
+
+
+And now here are Etexts for November, 2001 and October, 2001:
+
+The following 19 Etexts are a series of essays by Thomas Henry Huxley,
+who's son, Leonard Huxley, was father of Julian Sorell Huxley (1887-1975),
+winner of the Newdigate Prize for poetry 1908, biologist, and was first
+director-general of UNESCO and a founder of the World Wildlife Fund
+for Nature.  Julian was also father of, Aldous Leonard Huxley (1894-1963)
+author of Brave New World and The Doors of Perception [from whom the band
+The Doors took their name]. . .and also father of: Andrew Fielding Huxley
+(1917-) half-brother of Julian and Aldous, Nobel Laureate 1963 in Medicine,
+co-founder of modern biophysics of excitable tissue.
+
+
+Mon Year    Title and Author                               [filename.ext]####
+*****A "C" Following a Project Gutenberg Etext Number Indicates Copyright****
+
+Nov 2001 The Circulation of the Blood, by T. H. Huxley[#29][thx19xxx.xxx]2939
+[Full name: William Harvey and the Discovery of the Circulation of the Blood]
+Nov 2001 Yeast, Thomas Henry Huxley[Thomas Henry Huxley#28][thx18xxx.xxx]2938
+Nov 2001 Coral and Coral Reefs, by T. H. Huxley       [#27][thx17xxx.xxx]2937
+Nov 2001 Geological Contemporaneity, by T. H. Huxley  [#26][thx16xxx.xxx]2936
+[Full title:  Geological Contemporaniety and Persistent Types of Life]
+45
+Nov 2001 On the Study of Zoology, by T. H. Huxley [THH #25][thx15xxx.xxx]2935
+Nov 2001 Improving Natural Knowledge, by T. H. Huxley [#24][thx14xxx.xxx]2934
+[On the Advisableness of Improving Natural Knowledge]
+Nov 2001 On Some Fossil Remains of Man by T. H. Huxley[#23][thx13xxx.xxx]2933
+Nov 2001 Relations of Man to Lower Animals, T H Huxley[#22][thx12xxx.xxx]2932
+[Full title:  On the Relations of Man to the Lower Animals]
+Nov 2001 Man's Place in Nature, by Thomas Henry Huxley[#21][thx11xxx.xxx]2931
+[Full title:  Evidence as to Man's Place In Nature]
+40
+Nov 2001 Criticisms on Origin of Species, T.H. Huxley [#20][thx10xxx.xxx]2930
+Nov 2001 The Origin of Species, by Thomas Henry Huxley[#19][thx09xxx.xxx]2929
+Also see:
+Dec 1999 Origin of Species, 6th Ed., by Charles Darwin [#5][otoos610.xxx]2009
+Mar 1998 On the Origin of Species, by Charles Darwin   [#3][otoosxxx.xxx]1228
+[Indexers take note:  filename was misspelled in some listings as otoof10.* ]
+
+Nov 2001 Time and Life, by Thomas Henry Huxley    [THH #18][thx08xxx.xxx]2928
+Nov 2001 The Darwinian Hypothesis, by Thomas H. Huxley[#17][thx07xxx.xxx]2927
+Nov 2001 Examination of Origin of Species by TH Huxley[#16][thx06xxx.xxx]2926
+  [A Critical Examination of the Position of Mr. Darwin's Work,
+  "On the Origin of Species," In Relation to the Complete
+  Theory of the Causes of the Phenomena of Organic Nature]
+35
+Nov 2001 The Conditions of Existence, by T. H. Huxley [#15][thx05xxx.xxx]2925
+[The Conditions of Existence as Affecting the Perpetuation of Living Beings]
+Nov 2001 The Perpetuation of Living Beings, by Huxley [#14][thx04xxx.xxx]2924
+[The Perpetuation of Living Beings, Hereditary Transmission and Variation]
+Nov 2001 The Origination of Living Beings, by T Huxley[#13][thx03xxx.xxx]2923
+[The Method by which the Causes of the Present and Past Conditions of
+Organic Nature Are to Be Discovered.--The Origination of LIving Beings
+Nov 2001 Past Condition of Organic Nature, T. H. Huxley #12[thx02xxx.xxx]2922
+[Full title: The Past Condition of Organic Nature, by Thomas Henry Huxley]
+Nov 2001 Present Condition of Organic Nature, TH Huxley #11[thx01xxx.xxx]2921
+[Full title: The Present Condition of Organic Nature, by Thomas Henry Huxley]
+
+
+We have reserved a block of 20 Etexts for the following by John Galsworthy:
+[The ones with an * have not yet been posted]
+
+Nov 2001 Four Short Plays, by John Galsworthy      [JG #33][shplyxxx.xxx]2920*
+Nov 2001 The Little Man, by John Galsworthy           [#32][ltmanxxx.xxx]2919*
+Nov 2001 The First and Last, by John Galsworthy    [JG #31][flastxxx.xxx]2918*
+Nov 2001 The Skin Game , by John Galsworthy[Galsworthy #30][skgamxxx.xxx]2917*
+Nov 2001 The Foundations, by John Galsworthy       [JG #29][fndatxxx.xxx]2916*
+15
+Nov 2001 A Bit O' Love, by John Galsworthy [Galsworthy #28][bolovxxx.xxx]2915*
+Nov 2001 The Mob , by John Galsworthy  [John Galsworthy#27][glmobxxx.xxx]2914*
+Nov 2001 The Pigeon, by John Galsworthy     [Galsworthy#26][pigonxxx.xxx]2913*
+Nov 2001 The Fugitive, by John Galsworthy   [Galsworthy#25][fugtvxxx.xxx]2912*
+Nov 2001 Justice, by John Galsworthy  [John Galsworthy #24][justcxxx.xxx]2911*
+10
+Nov 2001 The Little Dream, by John Galsworthy      [JG #23][ldremxxx.xxx]2910*
+Nov 2001 The Eldest Son, by John Galsworthy[Galsworthy #22][eldsnxxx.xxx]2909*
+Nov 2001 Strife, by John Galsworthy   [John Galsworthy #21][strifxxx.xxx]2908
+Nov 2001 Joy, by John Galsworthy      [John Galsworthy #20][gljoyxxx.xxx]2907
+Nov 2001 The Silver Box , by John Galsworthy       [JG #19][silbxxxx.xxx]2906
+5
+Nov 2001 The Burning Spear, by John Galsworthy     [JG #18][bsperxxx.xxx]2905
+Nov 2001 Quality and Others, by John Galsworthy    [JG #17][qualtxxx.xxx]2904
+Nov 2001 Inn of Tranquility et al, by John Galsworthy [#16][inntrxxx.xxx]2903
+Contains:
+INN OF TRANQUILITY
+MAGPIE OVER THE HILL
+SHEEP-SHEARING
+EVOLUTION
+RIDING IN THE MIST
+THE PROCESSION
+A CHRISTIAN
+WIND IN THE ROCKS
+MY DISTANT RELATIVE
+THE BLACK GODMOTHER
+
+Nov 2001 Concerning Letters, by John Galsworthy    [JG #15][cnlet10x.xxx]2902
+Nov 2001 Censorship and Art, by John Galsworthy    [JG #14][cnart10x.xxx]2901
+
+Those from 2874 to 2900 have not been reserved or posted yet.!!!
+
+
+Oct 2001 The Prehistoric World, by E. A. Allen             [prehwxxx.xxx]2873
+[Full title: The Prehistoric World: or, Vanished Races, by E. A. Allen]
+[Released as prehw10.txt and prehw10.zip (plain text version),
+also prehw10h.zip (HTML version with an extensive set of images).]
+
+Oct 2001 Animals and Plants under Domestication V 2, Darwin[2vapdxxx.xxx]2872*
+[Volume 1 is posted now, Volume 2 should be posted in a few weeks]
+Oct 2001 Animals and Plants under Domestication V 1, Darwin[1vapdxxx.xxx]2871
+[Full Title:  The Variation of Animals and Plants under Domestication]
+[Author's full name:  Charles Darwin]
+
+30
+
+Oct 2001 Washington Square, by Henry James[Henry James #40][wassqxxx.xxx]2870
+Oct 2001 The Point of View, by Henry James[Henry James #39][pntvwxxx.xxx]2869
+Oct 2001   *** Was A Large Volume of Huxley. . .           [     xxx.xxx]2868
+is now in the Huxley set just posted for Nov, 2001. . .and wiill be replaced.
+Oct 2001 A Sappho Of Green Springs, by Bret Harte  [BH #48][asogsxxx.xxx]2867
+Contains:
+A SAPPHO OF GREEN SPRINGS
+THE CHATELAINE OF BURNT RIDGE
+THE SANTA CLARA WHEAT
+A MAECENAS OF THE PACIFIC SLOPE
+
+Oct 2001 Windsor Castle, by William Harrison Ainsworth     [wndsrxxx.xxx]2866
+was originally planned to be:
+May 2001 Windsor Castle, by William Harrison Ainsworth     [wndsrxxx.xxx]2611
+but somehow never made it into the Newsletter.
+My apologies.
+
+25
+Oct 2001 Otto of the Silver Hand, by Howard Pyle  [Pyle #4][ottosxxx.xxx]2865
+Oct 2001 The Trumpet-Major, by Thomas Hardy[Thos Hardy #10][trpmjxxx.xxx]2864
+Oct 2001 Satires of Circumstance etc. by Thomas Hardy[TH#9][satcrxxx.xxx]2863
+[Satires of Circumstance, Lyrics and Reveries, with Miscellaneous Pieces]
+Oct 2001 The Twins of Table Mountain, by Bret Harte[BH #47][ttotmxxx.xxx]2862
+Oct 2001 The Sleuth of St. James Street, by M. D. Post     [sosjsxxx.xxx]2861
+[Author's full name:  Melville Davisson Post]
+polly
+20
+Oct 2001 Framley Parsonage, by Anthony Trollope[Trollope#8][frmlyxxx.xxx]2860
+Oct 2001 A Little Dinner at Timmins's, by Thackeray   [#26][aldatxxx.xxx]2859
+[Author's full name:  William Makepeace Thackeray]
+Oct 2001 Cressy, by Bret Harte             [Bret Harte #46][crssyxxx.xxx]2858
+Oct 2001 The Yellow God, by H. Rider Haggard  [Haggard #27][ylwgdxxx.xxx]2857
+Oct 2001 An Idol of Africa, by H. Rider Haggard   [HRH #27][ylwgdxxx.xxx]2857
+[Alternate titles]
+Oct 2001 Moon of Israel, by H. Rider Haggard  [Haggard #26][mnsrlxxx.xxx]2856
+15
+Oct 2001 Elissa, by H. Rider Haggard [H. Rider Haggard #25][lissaxxx.xxx]2855
+Oct 2001 Sir Francis Drake Revived, Philip Nichols, Editor [fdrvvxxx.xxx]2854
+Oct 2001 Quo Vadis, The Time of Nero, by Henryk Sienkiewicz[quvdsxxx.xxx]2853
+[Full Title:  Quo Vadis, A Narrative of the Time of Nero]
+Oct 2001 The Hound of the Baskervilles by A. Conan Doyle 25[bskrvxxx.xxx]2852
+Oct 2001 Sixes and Sevens, by O Henry    [O Henry #11]     [6sn7sxxx.xxx]2851
+10
+Oct 2001 The Wars of The Jews, by Flavius Josephus         [warjexxx.xxx]2850
+["The Wars of The Jews or the History of the Destruction of Jerusalem"]
+Oct 2001 Against Apion, by Flavius Josephus[Tr. Wm. Whiston[agaapxxx.xxx]2849
+Oct 2001 The Antiquities of the Jews, by Flavius Josephus  [taofjxxx.xxx]2848
+Oct 2001 Josephus' Discourse to the Greeks Concerning Hades[hadesxxx.xxx]2847
+["An Extract out of Josephus's Discourse to The Greeks Concerning Hades"]
+Oct 2001 The Life of Flavius Josephus, Tr. by Wm. Whiston  [lfjosxxx.xxx]2846
+5
+Oct 2001 Sir Nigel, by Arthur Conan Doyle [A. C. Doyle #24][nigelxxx.xxx]2845
+Oct 2001 Fatal Boots, by William Makepeace Thackeray  [#25][fbootxxx.xxx]2844
+Oct 2001 Little Travels and Roadside Sketches, by Thackeray[ltarsxxx.xxx]2843
+Oct 2001 Black Heart and White Heart, by H. R. Haggard[#24][bwhrtxxx.xxx]2842
+Oct 2001 The Ivory Child, by H. Rider Haggard [Haggard #23][ivoryxxx.xxx]2841
+
+
+
+50
+
+Sep 2001 De Franse Pers, Heinrich Heine    [#3, in Flemish][fpersxxx.xxx]2840
+Sep 2001 Franse Toestanden, Heinrich Heine [#2, in Flemish][ftoesxxx.xxx]2839
+Sep 2001 De Beurs lacht, Heinrich Heine    [#1, in Flemish][fbeurxxx.xxx]2838
+
+Sep 2001 Lendas do Sul, by J. Somoes Lopes Netto           [lendaxxx.xxx]2837
+[Our First Etext in Portuguese!]
+Luiz Antonio Gusmao <luizgusmao@bol.com.br>
+Sep 2001 Abraham Lincoln and the Union, Nath'l W Stephenson[alatuxxx.xxx]2836
+[Author's full name:  Nathaniel W. Stephenson]
+
+45
+Sep 2001 The Canadian Dominion, by Oscar D. Skelton        [cndndxxx.xxx]2835
+Sep 2001 The Portrait of a Lady, Vol 2, by Henry James[#37][2pldyxxx.xxx]2834
+Sep 2001 The Portrait of a Lady, Vol 1, by Henry James[#36][1pldyxxx.xxx]2833
+Sep 2001 Myth, Ritual, and Religion, V1, by Andrew Lang #28[1mrarxxx.xxx]2832
+
+
+
+***
+
+
+Notes from Edupage and Newsscan
+
+
+BOEING PLANS IN-FLIGHT INTERNET SERVICES
+Hoping to get a head start on its rivals, aircraft giant Boeing is
+planning, to roll out an in-flight Internet and entertainment service to
+air travelers by next year. The Connexion by Boeing service will be
+delivered through a high-speed satellite wireless network that uses
+specialized, phased array antennas to transmit data to laptop-toting
+passengers who will pay $17.50 an hour for the privilege. Download rates
+will be about 5 megabits per second, with upload speeds of 1.5 mps, or
+about as fast as a T-1 line. Boeing is negotiating with various cable
+channels, such as CNN, ESPN, Eurosport and Euronews, to fill the four
+television channels that will be available on the system. "Trying to make
+the time on the airplane more productive is really a tremendous feature
+that will dramatically change the way people travel," says Boeing's P of
+commercial information systems. (Los Angeles Times 28 Aug 2000)
+http://www.latimes.com/business/20000828/t000080716.html
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+IN U.S., DIGITAL HAVES OUTNUMBER HAVE-NOTS
+The Internet continues to integrate itself into the day-to-day
+routines of Americans, according to the results of a random
+telephone survey of 65,000 Internet users by Nielsen NetRatings.
+U.S. home Internet penetration reached 52 percent in July--the
+first time more than half of all Americans had home Web access.
+Home access rates jumped 35 percent from July 1999 to July of
+this year, from 106.3 million home users to 144 million users.
+Likewise, the time Internet users spend online is going up.  The
+average Internet user spent 9 hours 41 minutes online this July
+compared with 7 hours and 39 minutes last July, an increase
+of 26 percent.  Internet users are also looking at fewer Web
+sites, meaning that larger sites are successfully leveraging
+their brand to hold users' attention.  Cheaper Web access is
+enabling Americans to go online in ever-increasing numbers, says
+NetRatings' Sean Kaldor. (Washington Post, August 24 2000)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+Mac users can download our .txt files in binary mode
+to avoid the double spacing cr/lf line ends creates.
+Or download the .zip files, which unzip properly for
+nearly any operating system they are unzipped for...
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+---
+params:
+  id: 2543
+title: "PG Monthly Newsletter: Gutenberg Mobile Cellphone Ebooks (2008-12-21)"
+date: 2008-12-21T20:34:38+00:00
+author: Michael Cook
+layout: post
+url: /20081221/pg-monthly-newsletter-2008-12-21-gutenberg-mobile-cellphone-ebooks/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>This Service Just Announced As Follows!!!
+
+Our CEO, Greg Newby, is trying this out, it's working fine!
+
+[The following is the press release pretty much as it arrived]
+
+
+Look For PG Mobile - Project Gutenberg's Mobile Edition
+
+
+Why using Amazon's proprietary Kindle when you can use your mobile phone
+instead? Today's cell phones offer excellent screens and massive computing
+power to ensure best reading comfort. Mobile books do not weigh much and you
+can carry them with you wherever you are.
+Each Java / MIDP 2.0 enabled cell phone is sufficient - the most common
+computing platform in the world: There are by far more cell phones shipped
+worldwide than personal computers.
+
+PG Mobile is a software that transfers the plain text format provided by
+Project Gutenberg onto small handset screens - together with all the features
+known from physical books like turning pages, page numbers and bookmarks. Just
+download the PG Mobile version of any eBook and read it on your phone: All
+Project Gutenberg mobile eBooks will soon be available for download as an
+additional file format in the download section of each Gutenberg title on
+Gutenberg.org. Stay tuned!
+
+PG Mobile is based on the common Java file format (JAR) readable on nearly all
+mobile handsets. The superior features of the PG Mobile reader offer benefits
+like landscape mode and bookmarks, among many others. There's no book size
+limit, the book size is only limtated by the individual capabilities of your
+handset.
+
+All mobile books can be downloaded as Java-applications and can then later be
+installed on the cell phone by using Bluetooth, serial connection, infrared or
+data cable. Additionally it will be possible to install the books directly
+over the air by using WAP: Just browse to Gutenberg.org and click on the JAR-
+link. And soon the mobile book will automatically be installed on your phone.
+
+Please visit the homepage of the Project Gutenberg Literary Archive
+Foundation: http://www.gutenberg.org.
+
+PG Mobile developed by QiOO Interactive, PG Mobile - JAR-book Technology by
+QiOO Interactive, http://www.qioo.com.
+
+QiOO Interactive is the first producer of free mobile books worldwide. As a
+result of a university spin-off project at the Institute of Electronic
+Business e.V., http://www.ieb.net, the first mobile books were created in
+summer 2003.
+**********************************************_
+gmonthly mailing list
+gmonthly@lists.pglaf.org
+http://lists.pglaf.org/listinfo.cgi/gmonthly
+</pre>
+
+<a href="/nl_archives/2008/pgmonthly_2008_12_21-gutenberg-mobile-cellphone-ebooks.txt" target="_blank" rel="nofollow">pgmonthly_2008_12_21-gutenberg-mobile-cellphone-ebooks.txt</a>

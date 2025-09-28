@@ -1,0 +1,1069 @@
+The Project Gutenberg Weekly Newsletter 03 Nov 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+       (Note: this week there are a lot! Note the introductory notes.)
+   -  56 New U.S. eBooks this week
+   -  No New eBooks at Project Gutenberg of Australia this week
+   - Last, but not least: insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 03 Nov 2004:  14,281 (incl. 386 Aus.).
+
+Last week the Total Count was 14,225, including 386 at PG of Australia.
+This week we added  56 new.
+
+RESERVED/PENDING count:   43 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Note: Several years ago when the first of Churchill's novels were
+contributed to Project Gutenberg a note was inserted in the header stating
+the author was a "cousin of Sir Winston Churchill."  This note was
+dutifully perpetuated in the headers of the next 59 etexts in the PG
+Churchill series.  Richard Stauduhar kindly called to our attention this
+was erroneous--in the reposting of the entire set this misinformation has
+been corrected along with several hundred other errors.
+
+(Note: the following 45 eBooks, #5356-5400, are all by the American
+  Novelist and Historian, Winston Churchill)
+
+Complete PG Edition of The Works of Winston Churchill, Winston Churchill  5400
+   [Updated edition of: etext04/wc63w10.txt]
+   [Link: http://www.gutenberg.net/5/4/0/5400 ]
+   [Files: 5400.txt]
+Essay On The American Contribution And The Democratic Idea, by Churchill  5399
+   [Updated edition of: etext04/wc62w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5399 ]
+   [Files: 5399.txt]
+A Traveller in War-Time, by Winston Churchill                             5398
+   [Updated edition of: etext04/wc61w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5398 ]
+   [Files: 5398.txt]
+Dr. Jonathan (A Play), by Winston Churchill                               5397
+   [Updated edition of: etext04/wc60w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5397 ]
+   [Files: 5397.txt]
+The Crisis, Complete, by Winston Churchill                                5396
+   [Updated edition of: etext04/wc59w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5396 ]
+   [Files: 5396.txt]
+
+The Crisis, Volume 8, by Winston Churchill                                5395
+   [Updated edition of: etext04/wc58w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5395 ]
+   [Files: 5395.txt]
+The Crisis, Volume 7, by Winston Churchill                                5394
+   [Updated edition of: etext04/wc57w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5394 ]
+   [Files: 5394.txt]
+The Crisis, Volume 6, by Winston Churchill                                5393
+   [Updated edition of: etext04/wc56w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5393 ]
+   [Files: 5393.txt]
+The Crisis, Volume 5, by Winston Churchill                                5392
+   [Updated edition of: etext04/wc55w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5392 ]
+   [Files: 5392.txt]
+The Crisis, Volume 4, by Winston Churchill                                5391
+   [Updated edition of: etext04/wc54w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5391 ]
+   [Files: 5391.txt]
+
+The Crisis, Volume 3, by Winston Churchill                                5390
+   [Updated edition of: etext04/wc53w10.txt]
+   [Link: http://www.gutenberg.net/5/3/9/5390 ]
+   [Files: 5390.txt]
+The Crisis, Volume 2, by Winston Churchill                                5389
+   [Updated edition of: etext04/wc52w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5389 ]
+   [Files: 5389.txt]
+The Crisis, Volume 1, by Winston Churchill                                5388
+   [Updated edition of: etext04/wc51w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5388 ]
+   [Files: 5388.txt]
+The Celebrity, Complete, by Winston Churchill                             5387
+   [Updated edition of: etext04/wc50w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5387 ]
+   [Files: 5387.txt]
+The Celebrity, Volume 4, by Winston Churchill                             5386
+   [Updated edition of: etext04/wc49w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5386 ]
+   [Files: 5386.txt]
+
+The Celebrity, Volume 3, by Winston Churchill                             5385
+   [Updated edition of: etext04/wc48w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5385 ]
+   [Files: 5385.txt]
+The Celebrity, Volume 2, by Winston Churchill                             5384
+   [Updated edition of: etext04/wc47w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5384 ]
+   [Files: 5384.txt]
+The Celebrity, Volume 1, by Winston Churchill                             5383
+   [Updated edition of: etext04/wc46w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5383 ]
+   [Files: 5383.txt]
+A Modern Chronicle, Complete, by Winston Churchill                        5382
+   [Updated edition of: etext04/wc45w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5382 ]
+   [Files: 5382.txt]
+A Modern Chronicle, Volume 8, by Winston Churchill                        5381
+   [Updated edition of: etext04/wc44w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5381 ]
+   [Files: 5381.txt]
+
+A Modern Chronicle, Volume 7, by Winston Churchill                        5380
+   [Updated edition of: etext04/wc43w10.txt]
+   [Link: http://www.gutenberg.net/5/3/8/5380 ]
+   [Files: 5380.txt]
+A Modern Chronicle, Volume 6, by Winston Churchill                        5379
+   [Updated edition of: etext04/wc42w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5379 ]
+   [Files: 5379.txt]
+A Modern Chronicle, Volume 5, by Winston Churchill                        5378
+   [Updated edition of: etext04/wc41w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5378 ]
+   [Files: 5378.txt]
+A Modern Chronicle, Volume 4, by Winston Churchill                        5377
+   [Updated edition of: etext04/wc40w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5377 ]
+   [Files: 5377.txt]
+A Modern Chronicle, Volume 3, by Winston Churchill                        5376
+   [Updated edition of: etext04/wc39w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5376 ]
+   [Files: 5376.txt]
+
+A Modern Chronicle, Volume 2, by Winston Churchill                        5375
+   [Updated edition of: etext04/wc38w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5375 ]
+   [Files: 5375.txt]
+A Modern Chronicle, Volume 1, by Winston Churchill                        5374
+   [Updated edition of: etext04/wc37w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5374 ]
+   [Files: 5374.txt]
+Richard Carvel, Complete, by Winston Churchill                            5373
+   [Updated edition of: etext04/wc36w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5373 ]
+   [Files: 5373.txt]
+Richard Carvel, Volume 8, by Winston Churchill                            5372
+   [Updated edition of: etext04/wc35w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5372 ]
+   [Files: 5372.txt]
+Richard Carvel, Volume 7, by Winston Churchill                            5371
+   [Updated edition of: etext04/wc34w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5371 ]
+   [Files: 5371.txt]
+
+Richard Carvel, Volume 6, by Winston Churchill                            5370
+   [Updated edition of: etext04/wc33w10.txt]
+   [Link: http://www.gutenberg.net/5/3/7/5370 ]
+   [Files: 5370.txt]
+Richard Carvel, Volume 5, by Winston Churchill                            5369
+   [Updated edition of: etext04/wc32w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5369 ]
+   [Files: 5369.txt]
+Richard Carvel, Volume 4, by Winston Churchill                            5368
+   [Updated edition of: etext04/wc31w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5368 ]
+   [Files: 5368.txt]
+Richard Carvel, Volume 3, by Winston Churchill                            5367
+   [Updated edition of: etext04/wc30w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5367 ]
+   [Files: 5367.txt]
+Richard Carvel, Volume 2, by Winston Churchill                            5366
+   [Updated edition of: etext04/wc29w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5366 ]
+   [Files: 5366.txt]
+
+Richard Carvel, Volume 1, by Winston Churchill                            5365
+   [Updated edition of: etext04/wc28w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5365 ]
+   [Files: 5365.txt]
+The Inside of the Cup, Complete, by Winston Churchill                     5364
+   [Updated edition of: etext04/wc27w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5364 ]
+   [Files: 5364.txt]
+The Inside of the Cup, Volume 8, by Winston Churchill                     5363
+   [Updated edition of: etext04/wc26w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5363 ]
+   [Files: 5363.txt]
+The Inside of the Cup, Volume 7, by Winston Churchill                     5362
+   [Updated edition of: etext04/wc25w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5362 ]
+   [Files: 5362.txt]
+The Inside of the Cup, Volume 6, by Winston Churchill                     5361
+   [Updated edition of: etext04/wc24w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5361 ]
+   [Files: 5361.txt]
+
+The Inside of the Cup, Volume 5, by Winston Churchill                     5360
+   [Updated edition of: etext04/wc23w10.txt]
+   [Link: http://www.gutenberg.net/5/3/6/5360 ]
+   [Files: 5360.txt]
+The Inside of the Cup, Volume 4, by Winston Churchill                     5359
+   [Updated edition of: etext04/wc22w10.txt]
+   [Link: http://www.gutenberg.net/5/3/5/5359 ]
+   [Files: 5359.txt]
+The Inside of the Cup, Volume 3, by Winston Churchill                     5358
+   [Updated edition of: etext04/wc21w10.txt]
+   [Link: http://www.gutenberg.net/5/3/5/5358 ]
+   [Files: 5358.txt]
+The Inside of the Cup, Volume 2, by Winston Churchill                     5357
+   [Updated edition of: etext04/wc20w10.txt]
+   [Link: http://www.gutenberg.net/5/3/5/5357 ]
+   [Files: 5357.txt]
+The Inside of the Cup, Volume 1, by Winston Churchill                     5356
+   [Updated edition of: etext04/wc19w10.txt]
+   [Link: http://www.gutenberg.net/5/3/5/5356 ]
+   [Files: 5356.txt]
+
+
+(Author Note: the following 5 eBooks, #3762-3766, are all by the American
+  Novelist and Historian, Winston Churchill)
+
+Coniston, Complete, by Winston Churchill                                  3766
+   [Updated edition of: etext03/wc18v11.txt]
+   [Link: http://www.gutenberg.net/3/7/6/3766 ]
+   [Files: 3766.txt]
+Coniston, Book IV., by Winston Churchill                                  3765
+   [Updated edition of: etext03/wc17v11.txt]
+   [Link: http://www.gutenberg.net/3/7/6/3765 ]
+   [Files: 3765.txt]
+Coniston, Book III., by Winston Churchill                                 3764
+   [Updated edition of: etext03/wc16v11.txt]
+   [Link: http://www.gutenberg.net/3/7/6/3764 ]
+   [Files: 3764.txt]
+Coniston, Book II., by Winston Churchill                                  3763
+   [Updated edition of: etext03/wc15v11.txt]
+   [Link: http://www.gutenberg.net/3/7/6/3763 ]
+   [Files: 3763.txt]
+Coniston, Book I., by Winston Churchill                                   3762
+   [Updated edition of: etext03/wc14v11.txt]
+   [Link: http://www.gutenberg.net/3/7/6/3762 ]
+   [Files: 3762.txt]
+
+
+(Author Note: the following 4 eBooks, #3736-3739, are all by the American
+  Novelist and Historian, Winston Churchill)
+
+A Far Country, Complete, by Winston Churchill                             3739
+   [Updated edition of: etext03/wc13v11.txt]
+   [Link: http://www.gutenberg.net/3/7/3/3739 ]
+   [Files: 3739.txt]
+A Far Country, Book 3, by Winston Churchill                               3738
+   [Updated edition of: etext03/wc12v11.txt]
+   [Link: http://www.gutenberg.net/3/7/3/3738 ]
+   [Files: 3738.txt]
+A Far Country, Book 2, by Winston Churchill                               3737
+   [Updated edition of: etext03/wc11v11.txt]
+   [Link: http://www.gutenberg.net/3/7/3/3737 ]
+   [Files: 3737.txt]
+A Far Country, Book 1, by Winston Churchill                               3736
+   [Updated edition of: etext03/wc10v11.txt]
+   [Link: http://www.gutenberg.net/3/7/3/3736 ]
+   [Files: 3736.txt]
+
+
+(Note: the following 4 eBooks, #3681-3684, are all by the American
+  Novelist and Historian, Winston Churchill)
+
+Mr. Crewe's Career, Complete, by Winston Churchill                        3684
+   [Updated edition of: etext03/wc09v11.txt]
+   [Link: http://www.gutenberg.net/3/6/8/3684 ]
+   [Files: 3684.txt]
+Mr. Crewe's Career, Book III., by Winston Churchill                       3683
+   [Updated edition of: etext03/wc08v11.txt]
+   [Link: http://www.gutenberg.net/3/6/8/3683 ]
+   [Files: 3683.txt]
+Mr. Crewe's Career, Book II., by Winston Churchill                        3682
+   [Updated edition of: etext03/wc07v11.txt]
+   [Link: http://www.gutenberg.net/3/6/8/3682 ]
+   [Files: 3682.txt]
+Mr. Crewe's Career, Book I., by Winston Churchill                         3681
+   [Updated edition of: etext03/wc06v11.txt]
+   [Link: http://www.gutenberg.net/3/6/8/3681 ]
+   [Files: 3681.txt]
+
+
+(Author Note: the following 4 eBooks, #3646-3649, are all by the American
+  Novelist and Historian, Winston Churchill)
+
+The Dwelling Place of Light, Complete, by Winston Churchill               3649
+   [Updated edition of: etext03/wc05v11.txt]
+   [Link: http://www.gutenberg.net/3/6/4/3649 ]
+   [Files: 3649.txt]
+The Dwelling Place of Light, Volume 3, by Winston Churchill               3648
+   [Updated edition of: etext03/wc03v11.txt]
+   [Link: http://www.gutenberg.net/3/6/4/3648 ]
+   [Files: 3648.txt]
+The Dwelling Place of Light, Volume 2, by Winston Churchill               3647
+   [Updated edition of: etext03/wc02v11.txt]
+   [Link: http://www.gutenberg.net/3/6/4/3647 ]
+   [Files: 3647.txt]
+The Dwelling Place of Light, Volume 1, by Winston Churchill               3646
+   [Updated edition of: etext03/wc02v11.txt]
+   [Link: http://www.gutenberg.net/3/6/4/3646 ]
+   [Files: 3646.txt]
+
+The Hand of Ethelberta, by Thomas Hardy                                   3469
+   [Subtitle: A Comedy in Chapters]
+   [Updated edition of: etext02/ethbr10.txt]
+   [Link: http://www.gutenberg.org/3/4/6/3469 ]
+   [Files: 3469.txt; 3469-h.htm ]
+
+The Writings of Abraham Lincoln, Complete, by Abraham Lincoln             3253
+   Contents:
+     Introduction by Theodore Roosevelt
+     Editor's Preface by Arthur Brooks Lapsley
+     An Essay by Carl Shurz
+     Memorial Address by Joseph H. Choate
+     The Writings of Abraham Lincoln
+   [Updated edition of: etext02/lcent11.txt]
+   [Link: http://www.gutenberg.net/3/2/5/3253 ]
+   [Files: 3253.txt]
+
+Maupassant Original Short Stories (180), Complete, by Guy de Maupassant   3090
+   [Tr.: Albert M.C. McMaster, A.E. Henderson, Mme. Quesada, and Others]
+   (See also:  #3077-3089)
+   [Updated edition of: etext02/gm00v11.txt]
+   [Link: http://www.gutenberg.net/3/0/9/3090 ]
+   [Files: 3090.txt, 3090-h.htm]
+
+Original Short Stories of Maupassant, Volume 13, by Guy de Maupassant     3089
+   [Tr.: A.M.C. McMaster, A.E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Old Judas
+      The Little Cask
+      Boitelle
+      A Widow
+      The Englishmen Of Etretat
+      Magnetism
+      A Fathers Confession
+      A Mother Of Monsters
+      An Uncomfortable Bed
+      A Portrait
+      The Drunkard
+      The Wardrobe
+      The Mountain Pool
+      A Cremation
+      Misti
+      Madame Hermet
+      The Magic Couch
+   [Updated edition of: etext02/gm13v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3089 ]
+   [Files: 3089.txt]
+
+Original Short Stories of Maupassant, Volume 12, by Guy de Maupassant     3088
+   [Tr.: A.M.C. McMaster, A.E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The Child
+      A Country Excursion
+      Rose
+      Rosalie Prudent
+      Regret
+      A Sister's Confession
+      Coco
+      A Dead Woman's Secret
+      A Humble Drama
+      Mademoiselle Cocotte
+      The Corsican Bandit
+      The Grave
+   [Updated edition of: etext02/gm12v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3088 ]
+   [Files: 3088.txt]
+
+Original Short Stories of Maupassant, Volume 11, by Guy de Maupassant     3087
+   [Tr.: A.M.C. McMaster, A.E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The Umbrella
+      Belhomme's Beast
+      Discovery
+      The Accursed Bread
+      The Dowry
+      The Diary Of A Mad Man
+      The Mask
+      The Penguins Rock
+      A Family
+      Suicides
+      An Artifice
+      Dreams
+      Simon's Papa
+   [Updated edition of: etext02/gm11v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3087 ]
+   [Files: 3087.txt]
+
+Original Short Stories of Maupassant, Volume 10, by Guy de Maupassant     3086
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The Christening
+      The Farmer's Wife
+      The Devil
+      The Snipe
+      The Will
+      Walter Schnaff's Adventure
+      At Sea
+      Minuet
+      The Son
+      That Pig Of A Morin
+      Saint Anthony
+      Lasting Love
+      Pierrot
+      A Normandy Joke
+      Father Matthew
+   [Updated edition of: etext02/gm10v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3086 ]
+   [Files: 3086.txt]
+
+Original Short Stories of Maupassant, Volume 9, by Guy de Maupassant      3085
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Toine
+      Madame Husson's Rosier
+      The Adopted Son
+      A Coward
+      Old Mongilet
+      Moonlight
+      The First Snowfall
+      Sundays Of A Bourgeois
+      A Recollection
+      Our Letters
+      The Love Of Long Ago
+      Friend Joseph
+      The Effeminates
+      Old Amable
+   [Updated edition of: etext02/gm09v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3085 ]
+   [Files: 3085.txt]
+
+Original Short Stories of Maupassant, Volume 8, by Guy de Maupassant      3084
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Clochette
+      The Kiss
+      The Legion Of Honor
+      The Test
+      Found On A Drowned Man
+      The Orphan
+      The Beggar
+      The Rabbit
+      His Avenger
+      My Uncle Jules
+      The Model
+      A Vagabond
+      The Fishing Hole
+      The Spasm
+      In The Wood
+      Martine
+      All Over
+      The Parrot
+      A Piece Of String
+   [Updated edition of: etext02/gm08v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3084 ]
+   [Files: 3084.txt]
+
+Original Short Stories of Maupassant, Volume 7, by Guy de Maupassant      3083
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The False Gems
+      Fascination
+      Yvette Samoris
+      A Vendetta
+      My Twenty-Five Days
+      "The Terror"
+      Legend Of Mont St. Michel
+      A New Year's Gift
+      Friend Patience
+      Abandoned
+      The Maison Tellier
+      Denis
+      My Wife
+      The Unknown
+      The Apparition
+   [Updated edition of: etext02/gm07v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3083 ]
+   [Files: 3083.txt]
+
+Original Short Stories of Maupassant, Volume 6, by Guy de Maupassant      3082
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      That Costly Ride
+      Useless Beauty
+      The Father
+      My Uncle Sosthenes
+      The Baroness
+      Mother And Son
+      The Hand
+      A Tress Of Hair
+      On The River
+      The Cripple
+      A Stroll
+      Alexandre
+      The Log
+      Julie Romaine
+      The Rondoli Sisters
+   [Updated edition of: etext02/gm06v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3082 ]
+   [Files: 3082.txt]
+
+Original Short Stories of Maupassant, Volume 5, by Guy de Maupassant      3081
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Monsieur Parent
+      Queen Hortense
+      Timbuctoo
+      Tombstones
+      Mademoiselle Pearl
+      The Thief
+      Clair De Lune
+      Waiter, A "Bock"
+      After
+      Forgiveness
+      In The Spring
+      A Queer Night In Paris
+   [Updated edition of: etext02/gm05v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3081 ]
+   [Files: 3081.txt]
+
+Original Short Stories of Maupassant, Volume 4, by Guy de Maupassant      3080
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The Moribund
+      The Gamekeeper
+      The Story Of A Farm Girl
+      The Wreck
+      Theodule Sabot's Confession
+      The Wrong House
+      The Diamond Necklace
+      The Marquis De Fumerol
+      The Trip Of The Horla
+      Farewell
+      The Wolf
+      The Inn
+   [Updated edition of: etext02/gm04v11.txt]
+   [Link: http://www.gutenberg.net/3/0/8/3080 ]
+   [Files: 3080.txt]
+
+Original Short Stories of Maupassant, Volume 3, by Guy de Maupassant      3079
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Miss Harriet
+      Little Louise Roque
+      The Donkey
+      Moiron
+      The Dispenser Of Holy Water
+      The Parricide
+      Bertha
+      The Patron
+      The Door
+      A Sale
+      The Impolite Sex
+      A Wedding Gift
+      The Relic
+   [Updated edition of: etext02/gm03v11.txt]
+   [Link: http://www.gutenberg.net/3/0/7/3079 ]
+   [Files: 3079.txt]
+
+Original Short Stories of Maupassant, Volume 2, by Guy de Maupassant      3078
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      The Colonel's Ideas
+      Mother Sauvage
+      Epiphany
+      The Mustache
+      Madame Baptiste
+      The Question Of Latin
+      A Meeting
+      The Blind Man
+      Indiscretion
+      A Family Affair
+      Beside Schopenhauer's Corpse
+   [Updated edition of: etext02/gm02v11.txt]
+   [Link: http://www.gutenberg.net/3/0/7/3078 ]
+   [Files: 3078.txt]
+
+Original Short Stories of Maupassant, Volume 1, by Guy de Maupassant      3077
+   [Tr.: A. M. C. McMaster, A. E. Henderson, Mme. Quesada and Others]
+   Contents:
+      Guy De Maupassant--A Study By Pol. Neveux
+      Boule De Suif
+      Two Friends
+      The Lancer's Wife
+      The Prisoners
+      Two Little Soldiers
+      Father Milon
+      A Coup D'etat
+      Lieutenant Lare's Marriage
+      The Horrible
+      Madame Parisse
+      Mademoiselle Fifi
+      A Duel
+   [Updated edition of: etext02/gm01v11.txt]
+   [Link: http://www.gutenberg.net/3/0/7/3077 ]
+   [Files: 3077.txt]
+
+A Changed Man and Other Tales, by Thomas Hardy                            3058
+   [Updated edition of: etext02/chgmn10.txt]
+   [Link: http://www.gutenberg.org/3/0/5/3058 ]
+   [Files: 3058.txt; 3058-h.htm ]
+
+Wessex Tales, by Thomas Hardy                                             3056
+   [Updated edition of: etext02/westl10.txt]
+   [Link: http://www.gutenberg.org/3/0/5/3056 ]
+   [Files: 3056.txt; 3056-h.htm ]
+
+Under the Greenwood Tree, by Thomas Hardy                                 2662
+   [Subtitle: or The Mellstock Quire; A rural painting of the Dutch School]
+   [Updated edition of: etext01/ungwt11.txt]
+   [Link: http://www.gutenberg.org/2/6/6/2662 ]
+   [Files: 2662.txt; 2662-h.htm ]
+
+Writings of Abraham Lincoln, Volume 7, 1863-1865, by Abraham Lincoln      2659
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/7linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2659 ]
+   [Files: 2659.txt]
+The Writings of Abraham Lincoln, Volume 6, by Abraham Lincoln             2658
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/6linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2658 ]
+   [Files: 2658.txt]
+Writings of Abraham Lincoln, Volume 5, 1858-1862, by Abraham Lincoln      2657
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/5linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2657 ]
+   [Files: 2657.txt]
+The Writings of Abraham Lincoln, Volume 4, by Abraham Lincoln             2656
+   [Subtitle: The Lincoln-Douglas Debates II]
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/4linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2656 ]
+   [Files: 2656.txt]
+
+The Writings of Abraham Lincoln, Volume 3, by Abraham Lincoln             2655
+   [Subtitle: Political Speeches & Debates Of Lincoln in The Senatorial
+    Campaign Of 1858 in Illinois]
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/3linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2655 ]
+   [Files: 2655.txt]
+Writings of Abraham Lincoln, Volume 2, 1843-1858, by Abraham Lincoln      2654
+   [Ed.: Arthur Brooks Lapsley]
+   [Updated edition of: etext01/2linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2654 ]
+   [Files: 2654.txt]
+The Writings of Abraham Lincoln, Volume 1, 1832-1843, by Abraham Lincoln  2653
+   Contents:
+     Introduction by Theodore Roosevelt
+     Editor's Preface by Arthur Brooks Lapsley
+     An Essay by Carl Shurz
+     Memorial Address by Joseph H. Choate
+     The Writings of Abraham Lincoln
+   [Updated edition of: etext01/1linc11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2653 ]
+   [Files: 2653.txt]
+
+
+The Hidden Masterpiece, by Honore de Balzac                               1553
+   [Tr.: Katharine Prescott Wormeley]
+   [Updated edition of: etext98/hmstp10.txt]
+   [Link: http://www.gutenberg.net/1/5/5/1553 ]
+   [Files: 1553.txt]
+
+The Hated Son, by Honore de Balzac                                        1455
+   [Tr.: Katharine Prescott Wormeley]
+   [Updated edition of: etext98/htdsn10.txt]
+   [Link: http://www.gutenberg.net/1/4/5/1455 ]
+   [Files: 1455.txt]
+
+The Crossing, by Winston Churchill                                         388
+   [Author Note: this is the American Winston Churchill, Novelist/Historian]
+   [Updated edition of: etext96/tcros11.txt]
+   [Link: http://www.gutenberg.net/3/8/388 ]
+   [Files: 388.txt]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Date correction (1852, not 1882):
+Chambers's Edinburgh Journal Vol. XVII, by William and Robert Chambers   13865
+   [Title: Chambers's Edinburgh Journal Vol. XVII. No. 418. New Series.
+    January 3, 1852.]
+
+
+-=-=-=-=[  56 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Discours prodigieux et espouventable..., by Anonymous                    13938
+   [Full title: Discours prodigieux et espouventable de trois Espaignols
+    et une Espagnolle]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/9/3/13938 ]
+   [Files: 13938.txt; 13938-8.txt]
+
+The Mysterious Rider, by Zane Grey                                       13937
+   [Link: http://www.gutenberg.net/1/3/9/3/13937 ]
+   [Files: 13937.txt; 13937-8.txt; 13937-h.htm]
+
+Notes & Queries, No. 47, Saturday, September 21, 1850, by Various        13936
+   [Link: http://www.gutenberg.net/1/3/9/3/13936 ]
+   [Files: 13936.txt; 13936-8.txt; 13936-h.htm]
+
+Inferences from Haunted Houses and Haunted Men, by John Harris           13934
+   [Link: http://www.gutenberg.net/1/3/9/3/13934 ]
+   [Files: 13934.txt; 13934-8.txt]
+
+In Old Kentucky, by Edward Marshall and Charles T. Dazey                 13933
+   [Subtitle: A Story of the Bluegrass and the Mountains, Founded on
+    Charles T. Dazey's Play]
+   [Illus.: Clarence Rowe]
+   [Link: http://www.gutenberg.org/1/3/9/3/13933 ]
+   [Files: 13933.txt; 13933-h.htm; ]
+
+Whosoever Shall Offend, by F. Marion Crawford                            13932
+   [Link: http://www.gutenberg.org/1/3/9/3/13932 ]
+   [Files: 13932.txt; 13932-8.txt; 13932-h.htm; ]
+
+Master of His Fate, by J. Mclaren Cobban                                 13931
+   [Author AKA: James Mclaren Cobban (1849-1903)]
+   [Link: http://www.gutenberg.org/1/3/9/3/13931 ]
+   [Files: 13931.txt; 13931-8.txt; 13931-h.htm; ]
+
+African and European Addresses, by Theodore Roosevelt                    13930
+   [Subtitle: With an Introduction presenting a Description of the
+    Conditions under which the Addresses were given during Mr. Roosevelt's
+    Journey in 1910 from Khartum through Europe to New York]
+   [Ed.: Lawrence F. Abbott]
+   [Intro.: Lawrence F. Abbott]
+   [Link: http://www.gutenberg.org/1/3/9/3/13930 ]
+   [Files: 13930.txt; 13930-8.txt; 13930-h.htm; ]
+
+Ilka on the Hill-Top and Other Stories, by Hjalmar Hjorth Boyesen        13929
+   Contents:
+     Ilka On The Hill-Top
+     Annunciata
+     Under The Glacier
+     A Knight Of Dannebrog
+     Mabel And I (A Philosophical Fairy Tale)
+     How Mr. Storm Met His Destiny
+   [Link: http://www.gutenberg.net/1/3/9/2/13929 ]
+   [Files: 13929.txt; 13929-8.txt; 13929-h.htm]
+
+Plays, Acting and Music, by Arthur Symons                                13928
+   [Subtitle: A Book Of Theory]
+   [Link: http://www.gutenberg.net/1/3/9/2/13928 ]
+   [Files: 13928.txt; 13928-8.txt; 13928-h.htm]
+
+Punch, Vol. 156, Jan. 29, 1919, Ed. by Sir Owen Seaman                   13927
+   [Link: http://www.gutenberg.net/1/3/9/2/13927 ]
+   [Files: 13927.txt; 13927-8.txt; 13927-h.htm]
+
+An History of Birmingham (1783), by William Hutton                       13926
+   [Link: http://www.gutenberg.net/1/3/9/2/13926 ]
+   [Files: 13926.txt; 13926-8.txt; 13926-h.htm]
+
+Notes & Queries, No. 24. Saturday, April 13. 1850, by Various            13925
+   [Link: http://www.gutenberg.net/1/3/9/2/13925 ]
+   [Files: 13925.txt; 13925-8.txt; 13925-h.htm]
+
+The Atlantic Monthly, Volume 09, No. 51, January, 1862, by Various       13924
+   [Link: http://www.gutenberg.net/1/3/9/2/13924 ]
+   [Files: 13924.txt; 13924-8.txt; 13924-h.htm]
+
+The Whitehouse Cookbook (1887), by Mrs. F.L. Gillette                    13923
+   [Subtitle: The Whole Comprising A Comprehensive Cyclopedia Of
+    Information For The Home]
+   [Link: http://www.gutenberg.net/1/3/9/2/13923 ]
+   [Files: 13923.txt; 13923-8.txt; 13923-h.htm]
+
+The Visionary, by Jonas Lie                                              13922
+   [Subtitle: Pictures From Nordland]
+   [Tr.: Jessie Muir]
+   [Link: http://www.gutenberg.net/1/3/9/2/13922 ]
+   [Files: 13922.txt; 13922-8.txt; 13922-h.htm]
+
+Volks-Kochbuch, by Hedwig Heyl                                           13921
+   [Subtitle: fur Schule, Fortbildungsschule und Haus]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/3/9/2/13921 ]
+   [Files: 13921.txt; 13921-8.txt]
+
+Kevat ja takatalvi, by Juhani Aho                                        13920
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/9/2/13920 ]
+   [Files: 13920-8.txt]
+
+Muistelmia ja matkakuvia, by Juhani Aho                                  13919
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/9/1/13919 ]
+   [Files: 13919-8.txt]
+
+Secret Chambers and Hiding Places, by Allan Fea                          13918
+   [Subtitle: Historic, Romantic, & Legendary Stories & Traditions
+    About Hiding-Holes, Secret Chambers, Etc.]
+   [Link: http://www.gutenberg.net/1/3/9/1/13918 ]
+   [Files: 13918.txt; 13918-8.txt; 13918-h.htm]
+
+La Daniella, Vol. I, by George Sand                                      13917
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/9/1/13917 ]
+   [Files: 13917.txt; 13917-8.txt]
+
+Marie Bashkirtseff (From Childhood to Girlhood), by Marie Bashkirtseff   13916
+   [Tr.: Mary J. Safford]
+   Contents:
+     Preface by Renee d'Ulmes
+     New Journal of Marie Bashkirtseff
+     Book LI
+   [Link: http://www.gutenberg.net/1/3/9/1/13916 ]
+   [Files: 13916.txt; 13916-8.txt; 13916-h.htm]
+
+Novena sa Maloualhating Ama,t, by Fr. Juan Serrano                       13915
+   [Title: Novena sa Maloualhating Ama,t,Doctor at Ilao nang Santa Iglesia
+    na si San Agustin]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.net/1/3/9/1/13915 ]
+   [Files: 13915.txt; 13915-8.txt; 13915-h.htm]
+
+Lettre a Louis XIV, by Fenelon et Guillemin                              13914
+   [Author: Francois de Salignac de La Mothe Fenelon et Henri Guillemin]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/9/1/13914 ]
+   [Files: 13914-8.txt; 13914-0.txt]
+
+The Port of Missing Men, by Meredith Nicholson                           13913
+   [Link: http://www.gutenberg.org/1/3/9/1/13913 ]
+   [Files: 13913.txt; 13913-8.txt; ]
+
+Bebee, by Ouida  [AKA: Maria Louise de la Ramee]                         13912
+   [Subtitle: Two Little Wooden Shoes]
+   [Link: http://www.gutenberg.org/1/3/9/1/13912 ]
+   [Files: 13912.txt; 13912-8.txt; ]
+
+Little Journeys To the Homes of the Great, Vol. 3 of 14, Elbert Hubbard  13911
+   [Subtitle: Little Journeys to the Homes of American Statesmen]
+   [Editor: Fred Bann]
+   [Link: http://www.gutenberg.org/1/3/9/1/13911 ]
+   [Files: 13911.txt; 13911-8.txt; 13911-h.htm; ]
+
+A Book of Exposition, by Homer Heath Nugent                              13910
+   [Link: http://www.gutenberg.net/1/3/9/1/13910 ]
+   [Files: 13910.txt; 13910-h.htm]
+
+The Indiscretion of the Duchess, by Anthony Hope                         13909
+   [Link: http://www.gutenberg.net/1/3/9/0/13909 ]
+   [Files: 13909.txt; 13909-h.htm]
+
+Pipes O'Pan at Zekesbury, by James Whitcomb Riley                        13908
+   [Link: http://www.gutenberg.net/1/3/9/0/13908 ]
+   [Files: 13908.txt]
+
+The American Missionary, Volume XLII. No. 7. July 1888, by Various       13907
+   [Link: http://www.gutenberg.net/1/3/9/0/13907 ]
+   [Files: 13907.txt; 13907-h.htm]
+
+Conception Control and Its Effects..., by Florence E. Barrett            13906
+   [Title: Conception Control and Its Effects on the Individual and the Nation]
+   [Foreword: Randall Cantuar]
+   [Link: http://www.gutenberg.org/1/3/9/0/13906 ]
+   [Files: 13906.txt; 13906-8.txt; 13906-h.htm; ]
+
+John of the Woods, by Abbie Farwell Brown                                13905
+   [Link: http://www.gutenberg.net/1/3/9/0/13905 ]
+   [Files: 13905.txt]
+
+Un antiguo rencor, by George (Jorge) Ohnet                               13904
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/9/0/13904 ]
+   [Files: 13904-8.txt; 13904-h.htm]
+
+Punch, Vol. 152, January 3, 1917, Ed. by Sir Owen Seaman                 13903
+   [Link: http://www.gutenberg.net/1/3/9/0/13903 ]
+   [Files: 13903.txt; 13903-h.htm]
+
+Pisa, by Unknown                                                         13902
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/9/0/13902 ]
+   [Files: 13902-8.txt; 13902-h.htm]
+
+Perzie, Chaldea en Susiane, by Jane Dieulafoy                            13901
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/9/0/13901 ]
+   [Files: 13901-8.txt; 13901-h.htm]
+
+Collected Poems 1897 - 1907, by Henry Newbolt                            13900
+   [Link: http://www.gutenberg.net/1/3/9/0/13900 ]
+   [Files: 13900.txt; 13900-8.txt]
+
+The Mirror of Literature, Amusement, and Instruction, Vol 10, No. 291    13899
+   [Supplementary Issue 1827]
+   [Link: http://www.gutenberg.net/1/3/8/9/13899 ]
+   [Files: 13899.txt; 13899-h.htm]
+
+Don Strong, Patrol Leader, by William Heyliger                           13898
+   [Link: http://www.gutenberg.net/1/3/8/9/13898 ]
+   [Files: 13898.txt]
+
+The Adventure Club Afloat, by Ralph Henry Barbour                        13897
+   [Illus.: E. C. Caswell]
+   [Link: http://www.gutenberg.org/1/3/8/9/13897 ]
+   [Files: 13897.txt; 13897-h.htm; ]
+
+Jacques Bonneval, or The Days of the Dragonnades, by Anne Manning        13896
+   [Author AKA: Anne E. Manning]
+   [Link: http://www.gutenberg.org/1/3/8/9/13896 ]
+   [Files: 13896.txt; 13896-8.txt; 13896-h.htm; ]
+
+Patricia, by Emilia Elliott [AKA: Caroline Emilia Jacobs]                13895
+   [Link: http://www.gutenberg.org/1/3/8/9/13895 ]
+   [Files: 13895.txt; 13895-8.txt; 13895-h.htm; ]
+
+The Great Adventure, by Arnold Bennett [AKA: Enoch Arnold Bennett]       13894
+   [Subtitle: A Play of Fancy in Four Acts]
+   [Link: http://www.gutenberg.org/1/3/8/9/13894 ]
+   [Files: 13894.txt; 13894-8.txt; 13894-h.htm; ]
+
+Messages and Papers of William McKinley, Ed. by James D. Richardson      13893
+   [Title: A Compilation of the Messages and Papers of the Presidents,
+    William McKinley]
+   [Subtitle: Messages, Proclamations, and Executive Orders Relating
+    to the Spanish-American War]
+   [Link: http://www.gutenberg.net/1/3/8/9/13893 ]
+   [Files: 13893.txt; 13893-8.txt; 13893-h.htm]
+
+Le meunier d'Angibault, by George Sand                                   13892
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/8/9/13892 ]
+   [Files: 13892.txt; 13892-8.txt; 13892-h.htm]
+
+Messages and Papers of Theodore Roosevelt, Ed. by James D. Richardson    13891
+   [Title: A Compilation of the Messages and Papers of the Presidents,
+    Theodore Roosevelt; Section 2 (of 2) of Supplemental Volume]
+   [Link: http://www.gutenberg.net/1/3/8/9/13891 ]
+   [Files: 13891.txt; 13891-8.txt; 13891-h.htm]
+
+Beautiful Britain: Canterbury, by Gordon Home                            13890
+   [Link: http://www.gutenberg.org/1/3/8/9/13890 ]
+   [Files: 13890.txt; 13890-8.txt; 13890-h.htm; ]
+
+Dave Ranney, by Dave Ranney                                              13889
+   [Introduction: A. F. Schauffler]
+   [Subtitle: Thirty Years on the Bowery: An Autobiography]
+   [Link: http://www.gutenberg.org/1/3/8/8/13889 ]
+   [Files: 13889.txt; 13889-h.htm; ]
+
+Bacon, by Richard William Church                                         13888
+   [Subtitle: English Men Of Letters, Edited By John Morley]
+   [Link: http://www.gutenberg.net/1/3/8/8/13888 ]
+   [Files: 13888.txt; 13888-8.txt; 13888-h.htm]
+
+The Allinson Vegetarian Cookery Book, by Thomas R. Allinson              13887
+   [Link: http://www.gutenberg.org/1/3/8/8/13887 ]
+   [Files: 13887.txt; 13887-8.txt; 13887-h.htm; ]
+
+Rhymes of the Rookies, by W. E. Christian                                13886
+   [Subtitle: Sunny Side of Soldier Service]
+   [Link: http://www.gutenberg.org/1/3/8/8/13886 ]
+   [Files: 13886.txt; ]
+
+Echoes from the Sabine Farm, by Roswell Martin Field and Eugene Field    13885
+   (Note: Includes translations from Horace; Sabine Farm was the name of
+    Eugene Field's home in St. Louis)
+   [Link: http://www.gutenberg.org/1/3/8/8/13885 ]
+   [Files: 13885.txt; 13885-8.txt; 13885-h.htm; ]
+
+The History of Sir Charles Grandison, Volume 4 (of 7), Samuel Richardson 13884
+   [Link: http://www.gutenberg.org/1/3/8/8/13884 ]
+   [Files: 13884.txt; 13884-8.txt; ]
+
+The Tree of Heaven, by May Sinclair                                      13883
+   [Author AKA: Mary Amelia St. Clair Sinclair]
+   [Link: http://www.gutenberg.org/1/3/8/8/13883 ]
+   [Files: 13883.txt; 13883-8.txt; 13883-h.htm; ]
+
+
+Correspondance, 1812-1876, Tome 4, by George Sand                        13875
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/8/7/13875 ]
+   [Files: 13875.txt; 13875-8.txt]
+
+
+=============================================================================
+
+All I ask for is the opportunity to prove that money doesn't buy happiness.
+
+~ ~ ~
+
+And: Happy New Year to the rest of you who celebrated the Poundian New Year
+on Nov 1!  (Just a reminder: The year is now 83 p.s.U.)
+
+=============================================================================

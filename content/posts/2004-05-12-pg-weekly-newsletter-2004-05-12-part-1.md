@@ -1,0 +1,980 @@
+---
+params:
+  id: 2140
+title: "PG Weekly Newsletter: Part 1 (2004-05-12)"
+date: 2004-05-12T22:54:08+00:00
+author: Michael Cook
+layout: post
+url: /20040512/pg-weekly-newsletter-2004-05-12-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, May 12, 2004  PT1*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+
+                           eBook Milestones
+
+
+           We Are Over 1/4 of the Way from 10,000 to 20,000
+
+
+                      12643 eBooks As Of Today
+
+
+                        7357 to go to 20,000
+
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2001 to 2004 for our last 10,000
+
+[From 2,643 eBooks in May, 2001 to 12,643 eBooks in May, 2004]
+
+***
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET a new Newsletter editor who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 18/52 Year History, We Have Now Averaged About 390 eBooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+        We Are Averaging About 408 eBooks Per Month This Year!!!
+
+                             96 per week!!!
+
+
+***  HOT Requests!!!
+
+We may need a volunteer who is travelling to the US from
+the UK or South Africa to bring a radio that might help
+in the development of a world wireless eBook network.
+
+
+***
+
+We're working up a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+an *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- New Site (above)
+- Hot Requests (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+     2 New From PG Australia [Australian, Canadian Copyright Etc.]
+    59 New Public Domain eBooks Under US Copyright
+- Headline News from NewsScan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+*** Progress Report
+
+    In the first 3.75 months of this year, we produced 1659 new eBooks.
+
+ It took us from July 1971 to Jan 1999 to produce our first 1,659 eBooks!
+
+                That's 17 WEEKS as Compared to ~28 Years!
+
+                   61   New eBooks This Week
+                   96   New eBooks Last Week
+                   70   New eBooks This Month [May]
+
+                  408   Average Per Month in 2004
+                  355   Average Per Month in 2003
+                  203   Average Per Month in 2002
+                  103   Average Per Month in 2001
+
+                 1736   New eBooks in 2004
+                 4164   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 9581   New eBooks Since Start Of 2001
+                             That's Only 40.25 Months!
+
+               12,643  Total Project Gutenberg eBooks
+                7,852   eBooks This Week Last Year
+                 ====
+                4,791   New eBooks In Last 12 Months
+
+                  356   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage = 104%
+
+Moore's Law 18 month percentage = 101%
+
+[100% of Moore's Law = doubling every 18 months]
+
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1745 New eBooks So Far in 2004
+
+              It took us ~28 years for the first 1736 !
+
+      That's the 4.25 MONTHS of 2004 as Compared to ~28 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1736
+
+Jun 1999 The Winter's Tale, by Shakespeare                 [1ws4011x.xxx] 1800
+. . .
+Jun 1999 Henry the Sixth, Part One, Shakespeare            [1ws0111x.xxx] 1765
+May 1999 Billy and the Big Stick, by R. H. Davis      [#17][bbstkxxx.xxx] 1764
+May 1999 The Nature Faker, by Richard Harding Davis   [#16][ntrfkxxx.xxx] 1763
+May 1999 The Consul, by Richard Harding Davis [RH Davis#15][tcnslxxx.xxx] 1762
+May 1999 My Buried Treasure, by Richard Harding Davis [#14][mbtrsxxx.xxx] 1761
+
+May 1999 The Man Who Could Not Lose, by R. H. Davis   [#13][mwcnlxxx.xxx] 1760
+May 1999 The Black-Bearded Barbarian, by Marian Keith      [bbbrbxxx.xxx] 1759
+May 1999 Majorie Daw, by Thomas Bailey Aldrich [Aldrich #4][mjdawxxx.xxx] 1758
+May 1999 Cruise of the Dolphin by Thomas Bailey Aldrich[#3][dlphnxxx.xxx] 1757
+
+May 1999 Uncle Vanya, by Anton Chekhov         [Checkov #5][vanyaxxx.xxx] 1756
+May 1999 Ivanoff, by Anton Chekhov             [Checkov #4][vanofxxx.xxx] 1755
+May 1999 The Sea-Gull, by Anton Chekhov        [Checkov #3][cgullxxx.xxx] 1754
+May 1999 Swan Song [& Intro], by Anton Chekhov [Checkov #2][swnsgxxx.xxx] 1753
+
+May 1999 El Dorado, by Baroness Orczy [More Pimpernell][#2][ldrdoxxx.xxx] 1752
+May 1999 Twilight Land, by Howard Pyle     [Howard Pyle #3][twlndxxx.xxx] 1751
+May 1999 Laws, by Plato [#29 and last of this Plato series][plawsxxx.xxx] 1750
+May 1999 Cousin Betty, by Honore de Balzac [de Balzac #66] [cbttyxxx.xxx] 1749
+
+May 1999 Other People's Money, by Emile Gaboriau  [E.G. #4][opmnyxxx.xxx] 1748
+May 1999 The Red Seal, by Natalie Sumner Lincoln           [redslxxx.xxx] 1747
+May 1999 New Collected Rhymes, by Andrew Lang    [Lang #14][nwclrxxx.xxx] 1746
+May 1999 Poetical Works, by John Milton                    [pmsjmxxx.xxx] 1745
+
+May 1999 Philebus, by Plato   [More of Socrates][Plato #28][philbxxx.xxx] 1744
+May 1999 Twelve Stories and a Dream, by H. G. Wells[HGW#17][12sadxxx.xxx] 1743
+May 1999 Miss Civilization, by Richard Harding Davis  [#12][miscvxxx.xxx] 1742
+May 1999 The White Moll, by Frank L. Packard   [Packard #2][wtmolxxx.xxx] 1741
+
+May 1999 The Flying U's Last Stand, by B. M. Bower [BMB #8][fuslsxxx.xxx] 1740
+May 1999 The Black Death/The Dancing Mania,by J.F.C. Hecker[bdadmxxx.xxx] 1739
+May 1999 Statesman, by Plato                    [Plato #27][sttsmxxx.xxx] 1738
+May 1999 Facino Cane, by Honore de Balzac [H. de Balzac#65][fcanexxx.xxx] 1737
+
+May 1999 Cromwell, Shakespeare Apocrypha                   [1ws49xxx.xxx] 1736
+May 1999 Sophist, by Plato    [More of Socrates][Plato #26][sophtxxx.xxx] 1735
+May 1999 Secret Places of the Heart, by H.G. Wells[HGW #16][spothxxx.xxx] 1734
+May 1999 The Red Cross Girl, by Richard Harding Davis [#11][rdcrgxxx.xxx] 1733
+
+May 1999 The Schoolmistress, et al, by Anton Chekhov [AC#1][tschmxxx.xxx] 1732
+May 1999 Sister Songs, by Francis Thompson [F. Thompson #3][ssngsxxx.xxx] 1731
+May 1999 Michael, Brother of Jerry, by Jack London [JL #71][mcjerxxx.xxx] 1730
+May 1999 The Deserted Woman, by Honore de Balzac[Balzac#64][dswmnxxx.xxx] 1729
+
+Apr 1999 The Odyssey, by Homer, Butcher & Lang Tr[Homer #3][dyssyxxa.xxx] 1728
+Apr 1999 The Odyssey, by Homer, Trans by Butler  [Homer #2][dyssyxxx.xxx] 1727
+  (See also: #348, Collection of Hesiod, Homer and Homerica)
+Apr 1999 Theaetetus, by Plato [More of Socrates][Plato #25][thtusxxx.xxx] 1726
+Apr 1999 Heart of the West, by O Henry         [O Henry #5][hrtwsxxx.xxx] 1725
+
+Apr 1999 Finished, by H. Rider Haggard[H. Rider Haggard #6][fnshdxxx.xxx] 1724
+Apr 1999 Cow-Country, by B. M. Bower [B. M. Bower eBook #6][cwcntxxx.xxx] 1723
+Apr 1999 Martin Luther's Large Catechism, Bente & Dau, Trns[lrgctxxx.xxx] 1722
+Apr 1999 The Trees of Pride, by Gilbert K. Chesterton [#12][trprdxxx.xxx] 1721
+
+Apr 1999 The Man Who Knew Too Much, by G. K. Chesterton #5A[mwktmxxa.xxx] 1720
+  (Note:  From a different source than our February edition of this.)
+
+
+***
+
+Today Is Day #126 of 2004
+This Completes Week #18 and Month #4.25
+  237 Days/34 Weeks To Go  [We get 52 Wednesdays this year]
+ 7357 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+   97   Weekly Average in 2004
+   79   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   41   Only 41 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada is now starting up!!!
+
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries, as it looks as if the
+Australian copyright law is falling victim to the
+new "Economic Warfare" being waged by the World
+Intellectual Property Organization and various
+billionaire copyright holders around the world.
+
+email: James Linden &lt;jlinden@pglaf.org&gt;
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 18 weeks of this year, we have produced 1736 new eBooks.
+It took us from 1971 to 1998 to produce our FIRST 1736 eBooks!!!
+
+         That's 18 WEEKS as Compared to ~28 YEARS!!!
+
+
+With 12,643 eBooks online as of May 12, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.79 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.27 when we had 7803 eBooks A Year Ago
+
+Can you imagine ~12,500 books each costing ~$.48 less a year later???
+Or. . .would this say it better?
+Can you imagine ~12,500 books each costing 1/3 less a year later???
+
+At 12,636 eBooks in 32 Years and 10.25 Months We Averaged
+      385 Per Year   [We do more per than that month these days!]
+       32.0 Per Month
+        1.05 Per Day
+
+At 1736 eBooks Done In The 126 Days Of 2004 We Averaged
+     14 Per Day
+     97 Per Week
+    408 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+
+TAPSCOTT SAYS INNOVATE OR DIE
+     Rebutting business analysts who preach about the "commoditization" of
+information technology and says that IT doesn't matter anymore, technology
+guru Don Tapscott rejects the commoditization thesis as just plain silly:
+"In fact, nothing in the universe is as diverse as a byte of data, which can
+carry information ranging from baby pictures to a digitally signed
+million-dollar bank transfer. It's like saying that Shakespeare's works are
+a commodity because he uses the alphabet just like everybody else." Tapscott
+says that those who advise companies to spend less and suggest that they
+follow rather than lead in technology are drawing a blueprint for failure;
+his own prescription is: "Cut fat, not your company's nervous system.
+Ultimately companies face a choice. They can innovate in IT -- a resource
+still in its infancy -- to enable new business designs that help them
+differentiate in the market. Or they can yield to the pressures and cynicism
+of a difficult business environment. Punishment is already proving swift for
+those who make the wrong choice." (CIO Magazine 1 May 2004)
+http://www.cio.com/archive/050104/keynote.html
+
+[Here is the story that one replied to:]
+
+INFO TECHNOLOGY IS JUST ANOTHER UTILITY
+      Nicholas Carr rocked the IT world last year with his article
+published in Harvard Business Review titled, "IT Doesn't Matter."
+Techno-mavens such as Steve Ballmer hollered, "Hogwash!" but Carr has now
+responded to his critics with a full-length book, "Does IT Matter?".
+University of California, Berkeley professor Hal Varian says Carr's point
+is well taken: "At one time information was so expensive and so difficult
+to manage that companies could make large amounts of money simply by being
+able to make systems work. (Think IBM.)" Companies that failed to manage
+their IT assets suffered in comparison. But Carr argues that in today's
+world, IT has become a utility, just like telephone service or electricity.
+That may be true, says Varian, but that doesn't mean that technological
+innovation stops -- "Once products become commodities, they can serve as
+components for further innovation," says Varian. "In the 19th century,
+American manufacturers created standardized designs for wheels, gears,
+pulleys, shafts and screws. As such standardized parts became widely
+available and could be purchased 'off the shelf,' there was an outpouring
+of invention." Perhaps information technology is like those standardized
+parts. Desktop PCs, Web servers, databases and scripting languages have
+become components in larger, more complex systems. As these components have
+become more standardized, the opportunities to create innovations have
+multiplied." Varian ends by noting that companies cannot afford to ignore
+IT, but should be thinking about how to use it to improve operations and
+cut costs, and in the process open up new opportunities for innovation.
+(New York Times 6 May 2004)
+http://www.nytimes.com/2004/05/06/business/06scene.html
+
+
+ASIA-PACIFIC TECHNOLOGY UPDATE
+     IT spending in the Asia-Pacific region excluding Japan should grow 10%
+to $88 billion ($AU120 billion) this year, thanks to a recovery in regional
+economies. This represents a sharp acceleration from the 3.4% growth seen in
+2003, says industry research firm IDC: "Infastructure upgrades and business
+oriented initiatives are driving IT demand for 2004." The director of
+information technology spending research at IDC says that 58% of more than
+3,000 company executives recently surveyed across the region plan to
+increase IT spending this year. Only 2.5% indicate that their technology
+expenditures will decrease. (The Australian, 6 May 2004)
+http://tinyurl.com/36j3e Rec'd from John Lamp, Deakin University
+
+EDUCATED (BUT UNEMPLOYED) IN INDIA
+     In spite of the fact that U.S. and European outsourcing has immensely
+benefited India's economy (and although the country is now "shining,"
+according to a government publicity campaign), there are still nowhere near
+enough high-tech jobs to be had for a well-educated population. In the
+Hyderabad area, about 60,000 jobs in information technology have indeed been
+created -- yet many have gone to young Indians from across the country, even
+though the region has 350,000 English-speaking graduates. The head of one
+placement agent in Hyderabad says it's very difficult to place engineers,
+because "no country has as many engineering colleges as this state." By the
+end of 2002, the state had about 2.6 million educated unemployed residents.
+(New York Times 6 May 2004)
+http://www.nytimes.com/2004/05/06/international/asia/06indi.html
+
+AUDACITY, FUN, AND WORK AT MIT
+     MIT's new Strata Center -- which will house CSAIL, the Computer Science
+and Artificial Intelligence Laboratory -- was designed by renowned architect
+Frank O. Gehry to foster creativity and out-of-the-box thinking: walls lean
+and tilt like stacked building blocks and staircases seem suspended in air.
+MIT president Charles M. Vest says, "We hope that it's going to be a
+building that will inspire people, make them think a little bit, and will
+frankly show a little bit of the audacity and fun we have at MIT, as well as
+the hard work we do." Architect Gehry, whose designs include the acclaimed
+Guggenheim Museum in Bilbao, Spain, admits that the building "does take a
+step into another realm, of innovation, and a bit of a sense that it doesn't
+take itself so seriously, as some modernism does. It tends to have a sense
+of humor, and I think that is attractive these days -- I hope so anyway."
+The building is packed with technology, including a holodeck that
+researchers will use to create three-dimensional environments. (AP/San Jose
+Mercury News 6 May 2004)
+http://www.siliconvalley.com/mld/siliconvalley/8605714.htm
+
+CHINA SHUTS DOWN 8,600 INTERNET CAFIS IN 3 MONTHS
+Chinese authorities say they have shut down more than 8,600
+unlicensed Internet cafis in the last three months in their latest campaign
+to bring the communication channel under tighter political control.
+Ostensibly, the crackdown is to protect teenagers from long Internet
+benders playing combat games and the like. The case of two middle school
+pupils in Chongqing, who fell asleep on a railway line and were run over on
+March 31 following a 48-hour interactive gaming session, is being cited.
+But preventing customers from gaining access to "unhealthy information
+online" is also a concern behind the drive against unauthorized public
+Internet venues, which was launched in February and will run until August,
+says the agency that licenses Internet cafis. Preventing anonymous access
+to the Internet from cafis has been one prong of Beijing's drive to squelch
+the Internet's political power for the past 18 months, although the excuse
+has always been the fire risk and protecting juveniles from abuse. (The Age
+7 May 2004) rec'd from John Lamp, Deakin University
+http://theage.com.au/articles/2004/05/07/1083881475636.html
+
+[And in the related mental health version]
+
+THE MENTAL HEALTH OF CHINESE YOUTH
+China has shut down more than 8,600 Internet cafes in the last three
+months, many of them for illegally admitting juveniles. The official Xinhua
+News Agency warns: "Any such place allowing juveniles to enter or allowing
+unhealthy information to spread through the Internet will face rigid, severe
+penalty." The Chinese government agency for industry and commerce has
+decided that Internet cafes that admit minors "have brought great harm to
+the mental health of teenagers and interfered with the school teaching."
+Last month an Internet cafe in the city of Chongqing was fined after two
+teenagers spent more than 48 hours playing an online video game, then fell
+asleep on a railroad track and were killed by a train. (AP/Washington Post 6
+May 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A6356-2004May6.html
+
+DSL INTERNET ACCESS OUTSTRIPS CABLE FOR THE FIRST TIME
+For the first time, U.S. local phone companies have signed up more
+high-speed Internet customers than cable companies have -- a sign of the
+increasingly important role that broadband will play in telephone
+companies' future profits. As many younger phone customers abandon their
+wireline phones for wireless handsets, the phone companies say DSL has
+become the hook that they can use to lure local service customers. "If you
+can get DSL into the bundle, the customer will not leave you," says Verizon
+CFO Doreen Toben. Cable companies had started the broadband access race
+with a huge lead, outselling DSL 2 to 1, but with average rates hovering
+around $40 a month versus DSL's cheaper $26, many customers are making the
+switch. However, with broadband subscribers providing as much as 20% of
+cable revenues, cable companies seem disinclined to compete with the telcos
+on price -- a strategy that may spell trouble in the future, says a
+Deutsche Bank analyst, who warns they must respond "in reasonably short
+order." (Reuters/Los Angeles Times 5 May 2004)
+http://www.
+latimes.com/technology/la-fi-dsl5may05,1,3289458.story?coll=la-headlines-tech
+nology
+
+
+[Once Again, SONY Takes The Narrow Point Of View]
+
+SONY AIMS TO CONNECT WITH NEW MUSIC SERVICE
+Sony has launched its Connect online music download service, offering
+users a choice of more than 500,000 songs from major and independent record
+labels. Like Apple's iTunes, the songs are priced at 99 cents per track,
+with entire albums going for $9.99. The songs are sold in ATRAC3 format,
+which will play on Sony's audio devices but are incompatible with iPods and
+other some other digital players. By tailoring its music service to its own
+brand of players, the electronics giant hopes that Connect will do for its
+audio players what iTunes did for Apple's iPod. "Apple did an excellent job
+in cultivating this new market," says a Sony spokesman. "We believe we can
+expand the market to a much broader audience with a broader line of devices
+and an easy-to-use service." (BBC News 5 May 2004)
+http://news.bbc.co.uk/1/hi/entertainment/music/3685907.stm
+
+[Correct me if I am wrong, but don't iTunes play on nearly anything?]
+[More below, in the Edupage section. . .that confirms iTunes DO only
+play on iPods. . .but I called their format letting the users make
+a number of different CD mixes. . .can these ONLY be used on iPods???]
+
+
+[At the time of this writing, I had heard rumors that an 18 year old
+had already been arrested for this in Germany, now confirmed below.]
+
+AUTHORITIES TEAM UP ON HUNT FOR SASSER CREATOR
+      Security experts in the U.K. are teaming up with U.S. law enforcement
+officials to track down the author or authors of the Sasser worm and are
+investigating the theory that the creator is part of a Russian group
+calling itself the "Skynet antivirus group," which also was responsible for
+the Netsky e-mail virus outbreak. A message found in the code of a recent
+Netsky variant claimed responsibility for Sasser, but the reasoning behind
+this latest Internet assault is still murky. "With Sasser, the author seems
+to be showing off his coding capabilities, but otherwise I have no idea
+what the motive is," says Raimund Genes, European president of antivirus
+group Trend Micro. And while Microsoft has yet to decide whether to offer a
+reward for information leading to culprit, most experts agree if the
+originators are linked to criminal groups, a bounty offer will have little
+effect. "If the person doesn't disclose his identity, we will never know
+the author of this worm or the author of those worms that have caused
+global epidemics in the past," says Eugene Kaspersky, co-founder of
+Moscow's Kaspersky Labs. Over the past six months, Microsoft has offered
+three separate $250,000 rewards for previous outbreaks, but with no
+results. (Reuters/Washington Post 5 May 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A3086-2004May5.html?nav=headlines
+
+[More]
+
+SASSER CREATOR TURNED IN FOR THE REWARD
+The German teenager who created the computer worm Sasser was identified
+by acquaintances seeking a $250,000 reward from Microsoft. The young man was
+arrested in the village of Waffensen, near Bremen, and appeared shaken by
+the extent of the damage his program had caused around the world. He faces
+charges of computer sabotage, which under German law could mean his
+imprisonment for five years. If the teenager is convicted, Microsoft will
+make good on its pledge for the full $250,000 reward.
+(Washington Post 9 May 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A11160-2004May8.html
+
+'DEAR JOHN' NOTIFICATIONS SHIFT TO TEXT MESSAGING
+Nine percent of Britons say they've broken up a relationship by
+sending their partner a "Dear John" text message, and among the younger
+crowd (ages 15-24) the figure rises to 20%. One 15-year-old said using text
+to dump a boy- or girlfriend is common among teenagers because it's "easier
+to talk by text." Meanwhile, about one in three British adults said they'd
+sent a love note via text and 44% used the medium to flirt with a love
+interest. For the suspicious-minded, cell phones have proven a new source
+of potentially incriminating evidence, with 45% of women admitting they'd
+secretly checked the messages on their partners' phones compared to 31% of
+men. The numbers come from MORI, which conducted the poll on behalf of
+Sicap, a messaging services provider based in Bern, Switzerland.
+(AP 4 May 2004)
+http://apnews.excite.com/article/20040504/D82BQ1P80.html
+
+NEW MICROSOFT WINDOWS SECURITY FLAW
+Microsoft has identified and released a Windows software patch for a
+new flaw that could allow hackers to take control of a PC by luring users to
+a malicious Web site and getting them to take certain actions there.  The
+security flaw affects the latest versions of Windows, including Windows XP,
+and software for networked computers such as Windows Server 2003. A user
+would be vulnerable to the security flaw only by visiting the attacker's Web
+site and performing several actions there. (Reuters/USA Today 12 May 2004)
+http://
+www.usatoday.com/tech/news/computersecurity/2004-05-12-ms-patchtime_xhtm
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+&gt;From Edupage
+
+SONY INTRODUCES ONLINE MUSIC SERVICE
+Sony has entered the online music market with its Sony Connect service,
+joining ventures such as the relaunched Napster 2.0 and Apple
+Computer's iTunes service. As with the iTunes service, whose songs
+only play on Apple iPod devices, Sony's music service sells music in a
+format that is restricted to Sony portable players. Michael Goodman,
+analyst with the Yankee Group, said Sony's entry into the market is
+late and that the company has to "play catch-up on two fronts, on
+selling their audio players and getting people to use their music
+service." According to Goodman, Apple's iPod currently controls 80-90
+percent of the market for devices that can play legally purchased music
+files. A spokesman from Sony Connect said the company believes the
+market is still developing and that Sony "can expand the market to a
+much broader audience with a broader line of devices." Sony Connect
+offers more than 500,000 tracks that can be purchased for 99 cents per
+song or as albums starting at $9.99. Sony Connect also allows users to
+copy songs onto CDs that can be played in any CD player.
+Wall Street Journal, 5 May 2004 (sub. req'd)
+http://online.wsj.com/article/0,,SB108371679078002274,00.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+
+GLOBAL WARMING STRIKES GLACIER NATIONAL PARK
+
+"Going to Glacier? You Should Hurry: The glaciers in Glacier National
+Park are melting, and not at a glacial pace, but so quickly that
+scientists from the United States Geological Survey predict that there
+won't be any left by 2030. ..."  New York Times 10 MAY 2004
+
+"But one thing that's hard to see from anywhere along the road is a glacier."
+
+The glaciers in Glacier National Park are melting, and not at a
+glacial pace, but so quickly that scientists from the United States
+Geological Survey predict that there won't be any left by 2030.
+Sneaking a good peek at those that remain is a challenge to relish for
+its sheer difficulty and the bragging rights that go with it.
+
+"At one time, this was the place to see glaciers in North America.
+In the late 1800's, 150 glaciers" were catalogued in the park.
+"Today just 27 glaciers remain, covering about 12 square miles, many of
+them so small they are tough to distinguish from surrounding snowfields."
+
+"By definition, glaciers are moving chunks of ice that carve and shape the
+landscape as they go.) You can glimpse the largest, Blackfoot Glacier,
+and its offshoot, Jackson Glacier, which was split from it by melting
+about 60 years ago, from an overlook on Going-to-the-Sun Road. But
+most of the glaciers are hidden in small valleys."
+
+[On a related note:
+
+9 December 2003
+
+Antarctic Glaciers Speed Up
+
+Glaciers surrounding the Larsen B Ice Shelf.
+
+More news easily found via a Google search on:
+global warming ice shelf glacier national park year
+
+
+***
+
+STUDY EXAMINES GOVERNMNET WEB SITES FOR TERROR
+
+WASHINGTON - The overwhelming majority of federal
+Web sites that reveal information about airports, power plants, military
+bases and other attractive terrorist targets need not be censored because
+similar or better information is easily available elsewhere, a
+taxpayer-financed study found.
+
+The Rand Corp. identified only four Web pages that might merit the
+restrictions imposed after the Sept. 11, 2001, attacks. It urged government
+officials to consider reopening public access to about three dozen Web pages
+that were withdrawn from the Internet in the name of homeland security.
+
+"It's a good time to take a closer look at the choices that they made at the
+time," said John Baker, principal author of the study that was funded by the
+National Geospatial Intelligence Agency, the government's intelligence
+mapping agency.
+
+Advocates of open government said the report shows the Bush administration
+acted rashly after the suicide attacks when it scrubbed numerous government
+Web sites.
+
+"It was a gigantic mistake, and I hope the study brings some rationality
+back to this policy," said Steven Aftergood, director of the Federation of
+American Scientists' project on government secrecy. "Up to now, decisions
+have been made on a knee-jerk basis."
+http://www.latimes.com/news/nationworld/politics/wire/
+
+[And in a related article]
+
+U.S. SHOULD REOPEN MOST WEB SITES SHUT DOWN AFTER 9/11
+The overwhelming majority of federal Web sites shut down after the
+Sept. 11, 2001 terrorist attacks should be reopened because the sites pose
+little or no threat to homeland security, according to a study by the Rand
+Corp.'s National Defense Research Institute. The Institute identified 629
+Internet-accessible "geospatial information" databases provided by 30
+federal agencies that contain critical data about specific locations, but
+only four of those -- two containing information on pipelines plus one on
+nuclear reactors and one on dams -- were worth restricting. None of those
+was available to the public anymore. In many of the other cases, the
+information deemed potentially risky is available elsewhere, in some cases
+in superior detail. "It's a good time to take a closer look at the choices
+that they made at the time," says John Baker, principle author of the
+study, which was funded by the National Geospatial-Intelligence Agency, the
+government's intelligence mapping agency. (AP/Washington Post 11 May 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A15750-2004May10.html
+
+***
+
+OHIO TO USE E-VOTING MACHINES IN 31 COUNTIES
+Ohio lawmakers have authorized 31 counties to switch to electronic
+voting machines in time for the Nov. 2 election. The law also requires
+that by May 2006 e-voting machines be redesigned so that they issue paper
+receipts confirming to voters the choices they made. Ohio's Secretary of
+State will have the responsibility for making sure that those design
+changes are made. (San Jose Mercury News 7 May 2004)
+http://www.siliconvalley.com/mld/siliconvalley/8616084.htm
+
+[I'm sure we will also be hearing that that these "paper receipts
+confirming to voters the choices they made" will be an issue soon,
+perhaps even before these changes are implemented, as this should
+provide an easy path for political insiders to know how you voted.]
+
+***
+
+WHAT THE BLANK IS THE MISSING WORD?
+An Irish graduate student and her research adviser in Luxembourg have
+developed a computer technique for identifying words in a document that have
+been blanked out for security or privacy purposes. The program counts the
+number of pixels blocked out, then determines the pixel length of words when
+written in the specific font used in the document, then reduces the number
+of possible words to just a few by using semantic guidelines and the
+grammatical context. The researchers say that agencies could foil the
+technique by to using OCR technology to rescan documents and alter fonts.
+(New York Times 10 May 2004)
+http://www.nytimes.com/2004/05/10/technology/10crypto.html
+
+***
+
+WIMAX: A TECHNOLOGY IN SEARCH OF A MARKET
+Known formally by its technical standard 802.16, WiMax is a muscle
+version of the 802.11 wireless protocol that transmits Internet signals as
+far as 300 feet to provide WiFi hot spots at coffee shops, airports and
+hotels and for personal networks at home. Sean Maloney, general manager of
+Intel's communications group, says: "We're facing an incredible next five
+years. It's the broadband wireless era, as interesting as 1994-99 was with
+the explosion of the Internet." A single WiMax transmitter could serve a
+corporate headquarters, a college campus or even a city. But there are
+plenty of doubters. Jeff Thermond of Broadcom Corp says "For all the places
+with nomads and camels it's great, but WiMax is a technology in search of a
+market." (Los Angeles Times 9 May 2004) http://tinyurl.com/yqj4r
+
+[Of course, no one is mentioning the security problems inherent in wireless.]
+
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_05_12_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_05_12_part_1.txt</a>

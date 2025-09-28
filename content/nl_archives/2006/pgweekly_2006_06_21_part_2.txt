@@ -1,0 +1,712 @@
+From news at pglaf.org  Thu Jun 22 10:20:18 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Jun 22 10:20:21 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0606221018200.2522@pglaf.org>
+
+GWeekly_June_21_part2.txt
+
+The Project Gutenberg Weekly Newsletter 21 Jun 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 61 New U.S. eBooks this week
+    - 43 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 21 Jun 2006: 19308 (incl. 710 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+
+The Forsyte Saga, Complete, by John Galsworthy                            4397
+   [Contents:]
+   [Part 1. The Man of Property]
+   [Part 2. Indian Summer of a Forsyte]
+   [In Chancery]
+   [Part 3. Awakening]
+   [To Let]
+   [Link: http://www.gutenberg.org/4/3/9/4397 ]
+   [Files: 4397.txt; 4397-h.htm]
+
+The Burning Spear, by John Galsworthy                                     2905
+   [Link: http://www.gutenberg.org/2/9/0/2905 ]
+   [Files: 2905.txt; 2905-h.htm]
+
+The Patrician, by John Galsworthy                                         2774
+   [Link: http://www.gutenberg.org/2/7/7/2774 ]
+   [Files: 2774.txt; 2774-h.htm]
+
+Fraternity, by John Galsworthy                                            2773
+   [Link: http://www.gutenberg.org/2/7/7/2773 ]
+   [Files: 2773.txt; 2773-h.htm]
+
+The Country House, by John Galsworthy                                     2772
+   [Link: http://www.gutenberg.org/2/7/7/2772 ]
+   [Files: 2772.txt; 2772-h.htm]
+
+The Island Pharisees, by John Galsworthy                                  2771
+   [Link: http://www.gutenberg.org/2/7/7/2771 ]
+   [Files: 2771.txt; 2771-h.htm]
+
+Five Tales, by John Galsworthy                                            2684
+   [Contents:]
+   [The First And Last The First And Last]
+   [A Stoic A Stoic]
+   [The Apple Tree The Apple Tree]
+   [The Juryman The Juryman]
+   [Indian Summer Of A Forsyte]
+   [Link: http://www.gutenberg.org/2/6/8/2684 ]
+   [Files: 2684.txt; 2684-h.htm]
+
+Saint's Progress, by John Galsworthy                                      2683
+   [Link: http://www.gutenberg.org/2/6/8/2683 ]
+   [Files: 2683.txt; 2683-h.htm]
+
+Villa Rubein and Other Stories, by John Galsworthy                        2639
+   [Contents:]
+   [Villa Rubein]
+   [A Man of Devon]
+   [A Knight]
+   [Salvation of a Forsyte]
+   [The Silence]
+   [Link: http://www.gutenberg.org/2/6/3/2639 ]
+   [Files: 2639.txt; 2639-h.htm]
+
+The Forsyte Saga, Volume III., by John Galsworthy                         2596
+   [Subtitle: Awakening And To Let]
+   [Link: http://www.gutenberg.org/2/5/9/2596 ]
+   [Files: 2596.txt; 2596-h.htm]
+
+The Forsyte Saga, Volume II., by John Galsworthy                          2594
+   [Subtitle: Indian Summer of a Forsyte and In Chancery]
+   [Link: http://www.gutenberg.org/2/5/9/2594 ]
+   [Files: 2594.txt; 2594-h.htm]
+
+The Forsyte Saga, Volume I., by John Galsworthy                           2559
+   [Subtitle: The Man Of Property]
+   [Link: http://www.gutenberg.org/2/5/5/2559 ]
+   [Files: 2559.txt; 2559-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+EBook #18593 was originally posted as ebook #18264; it is being reposted
+with the new number to keep it together with the rest of the series
+(ebook numbers 18591-18595 new postings below); eBook #18264 is new, and
+is included in the new postings:
+
+The Life of George Washington, Vol. 3 (of 5), by John Marshall           18593
+   [Subtitle: Commander in Chief of the American Forces During the War]
+   [which Established the Independence of his Country and First]
+   [President of the United States]
+   [Link: http://www.gutenberg.org/1/8/5/9/18593 ]
+   [Files: 18593.txt; 18593-8.txt; 18593-h.htm]
+
+
+-=-=-=-=[  61 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Phineas Redux, by Anthony Trollope                                       18640
+   [This is the fourth book of Trollope's six "Palliser" or "political"]
+   [novels and the most important of his works hitherto missing from the PG]
+   [library.]
+   [Link: http://www.gutenberg.org/1/8/6/4/18640 ]
+   [Files: 18640.txt; 18640-8.txt; 18640-h.htm; ]
+
+The Victorian Age in Literature, by G. K. Chesterton                     18639
+   [Link: http://www.gutenberg.org/1/8/6/3/18639 ]
+   [Files: 18639.txt; 18639-8.txt; 18639-0.txt; 18639-h.htm]
+
+Ideal Commonwealths, by Various                                          18638
+   [Editor: Henry Morley]
+   [Link: http://www.gutenberg.org/1/8/6/3/18638 ]
+   [Files: 18638.txt; 18638-8.txt; 18638-0.txt; 18638-h.htm]
+
+Constitution of the U.S.: Analysis and Interpretation, ed. by E. Corwin  18637
+   [Title: The Constitution of the United States of America: Analysis and
+    Interpretation]
+   [Editor: Edward Corwin]
+   [Subtitle: Annotations of Cases Decided by the Supreme Court of the]
+   [United States to June 30, 1952]
+   [Link: http://www.gutenberg.org/1/8/6/3/18637 ]
+   [Files: 18637.txt; 18637-8.txt; 18637-h.htm; ]
+
+The Story of Newfoundland, by Frederick Edwin Smith, Earl of Birkenhead  18636
+   [Link: http://www.gutenberg.org/1/8/6/3/18636 ]
+   [Files: 18636.txt; 18636-8.txt; 18636-h.htm; ]
+
+The Treaty Held with the Indians, by Various                             18635
+   [Title: The Treaty Held with the Indians of the Six Nations at]
+   [Philadelphia, in July 1742]
+   [Subtitle: To which is Prefix'd an Account of the first Confederacy]
+   [of the Six Nations, their present Tributaries, Dependents,]
+   [and Allies]
+   [Editor: Sir George Thomas]
+   [Link: http://www.gutenberg.org/1/8/6/3/18635 ]
+   [Files: 18635.txt; 18635-8.txt; 18635-h.htm]
+
+First Impressions of the New World, by Isabella Strange Trotter          18634
+   [Subtitle: On Two Travellers from the Old in the Autumn of 1858]
+   [Link: http://www.gutenberg.org/1/8/6/3/18634 ]
+   [Files: 18634.txt; 18634-8.txt; 18634-h.htm]
+
+My Lady of Doubt, by Randall Parrish                                     18633
+   [Illustrator: Alonzo Kimball]
+   [Link: http://www.gutenberg.org/1/8/6/3/18633 ]
+   [Files: 18633.txt; 18633-8.txt; 18633-h.htm]
+
+Crossroads of Destiny, by Henry Beam Piper                               18632
+   [Link: http://www.gutenberg.org/1/8/6/3/18632 ]
+   [Files: 18632.txt; 18632-8.txt; 18632-h.htm]
+
+The Lady of Fort St. John, by Mary Hartwell Catherwood                   18631
+   [Link: http://www.gutenberg.org/1/8/6/3/18631 ]
+   [Files: 18631.txt; 18631-8.txt; 18631-h.htm; ]
+
+The Tale of Frisky Squirrel, by Arthur Scott Bailey                      18630
+   [Ill.: Eleanore Fagan]
+   [Link: http://www.gutenberg.org/1/8/6/3/18630 ]
+   [Files: 18630.txt; 18630-h.htm; ]
+
+Nature Near London, by Richard Jefferies                                 18629
+   [Link: http://www.gutenberg.org/1/8/6/2/18629 ]
+   [Files: 18629.txt; 18629-8.txt; 18629-h.htm]
+
+Oracao funebre, by Antonio Vasconcellos                                  18628
+   [Full title: Oracao funebre recitada nas exequias do Illm.^o e Exm.^o]
+   [Sr. Pedro Alexandrino da Cunha]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/8/6/2/18628 ]
+   [Files: 18628-8.txt]
+
+Notre-Dame-d'Amour, by Jean Aicard                                       18627
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/6/2/18627 ]
+   [Files: 18627-8.txt; 18627-h.htm]
+
+The Tale of Major Monkey, by Arthur Scott Bailey                         18626
+   [Illustrator: Lawrence Brehm]
+   [Link: http://www.gutenberg.org/1/8/6/2/18626 ]
+   [Files: 18626.txt; 18626-h.htm]
+
+Contemporary American Literature, John Matthews Manly and Edith Rickert  18625
+   [Subtitle: Bibliographies and Study Outlines]
+   [Link: http://www.gutenberg.org/1/8/6/2/18625 ]
+   [Files: 18625.txt; 18625-8.txt; 18625-h.htm]
+
+Rouva Katariina Boije ja hanen tyttarensa, by Frederika Runeberg         18624
+   [Subtitle: Kertomus ison vihan ajoilta]
+   [Translator: Arvo Lempiranta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/6/2/18624 ]
+   [Files: 18624-8.txt]
+
+Le saucisson a pattes I, by Eugene Chavette                              18623
+   [Subtitle: Fil-a-beurre]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/6/2/18623 ]
+   [Files: 18623-8.txt; 18623-h.htm]
+
+Captain Sam, by George Cary Eggleston                                    18622
+   [Subtitle: The Boy Scouts of 1814]
+   [Link: http://www.gutenberg.org/1/8/6/2/18622 ]
+   [Files: 18622.txt; 18622-8.txt; 18622-h.htm; ]
+
+The Story of Cooperstown, by Ralph Birdsall                              18621
+   [Link: http://www.gutenberg.org/1/8/6/2/18621 ]
+   [Files: 18621.txt; 18621-8.txt; 18621-h.htm]
+
+Phantasten, by Erich von Mendelssohn                                     18620
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/6/2/18620 ]
+   [Files: 18620-8.txt; 18620-0.txt; 18620-h.htm]
+
+The Modern Scottish Minstrel, Volume II., by Various                     18619
+   [Subtitle: The Songs of Scotland of the past half century]
+   [Link: http://www.gutenberg.org/1/8/6/1/18619 ]
+   [Files: 18619.txt; 18619-8.txt; 18619-0.txt; 18619-h.htm]
+
+Stories of Later American History, by Wilbur F. Gordy                    18618
+   [Link: http://www.gutenberg.org/1/8/6/1/18618 ]
+   [Files: 18618.txt; 18618-8.txt; 18618-h.htm; ]
+
+On The Blockade, by Oliver Optic                                         18617
+   [Subtitle: SERIES: The Blue and the Gray Afloat]
+   [Link: http://www.gutenberg.org/1/8/6/1/18617 ]
+   [Files: 18617.txt; 18617-8.txt; 18617-h.htm]
+
+Moral Principles and Medical Practice, by Charles Coppens                18616
+   [Subtitle: The Basis of Medical Jurisprudence]
+   [Link: http://www.gutenberg.org/1/8/6/1/18616 ]
+   [Files: 18616.txt; 18616-8.txt; 18616-0.txt; 18616-h.htm]
+
+Hugh, by Arthur Christopher Benson                                       18615
+   [Subtitle: Memoirs of a Brother]
+   [Link: http://www.gutenberg.org/1/8/6/1/18615 ]
+   [Files: 18615.txt; 18615-8.txt; 18615-h.htm; ]
+
+At the Back of the North Wind, by Elizabeth Lewis and George MacDonald   18614
+   [Ill.: Maria L. Kirk]
+   [This is clearly from a different edition than that used to prepare]
+   [e-book #225 (etext95/nwind10.txt).]
+   [Link: http://www.gutenberg.org/1/8/6/1/18614 ]
+   [Files: 18614.txt; 18614-8.txt; 18614-h.htm; ]
+
+The Golden Scorpion, by Sax Rohmer                                       18613
+   [Link: http://www.gutenberg.org/1/8/6/1/18613 ]
+   [Files: 18613.txt; ]
+
+>From the Housetops, by George Barr McCutcheon                            18612
+   [Illustrator: F. Graham Cootes]
+   [Link: http://www.gutenberg.org/1/8/6/1/18612 ]
+   [Files: 18612.txt; 18612-8.txt; 18612-0.txt; 18612-h.htm]
+
+Les vrais sous-offs, by Georges Darien and Edouard Dubus                 18611
+   [Subtitle: Reponse a M. Descaves]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/6/1/18611 ]
+   [Files: 18611-8.txt; 18611-h.htm]
+
+Eloge du sein des femmes, by Claude-Francois-Xavier Mercier de Compiegne 18610
+   [Subtitle: Ouvrage curieux]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/6/1/18610 ]
+   [Files: 18610-8.txt; 18610-h.htm]
+
+Hark!  The Herald Angels Sing, by Felix Mendelssohn                      18609
+   [Link: http://www.gutenberg.org/1/8/6/0/18609 ]
+   [Files: 18609.txt; 18609-mus.mus; 18609-pdf.pdf ]
+
+Oh Little Town of Bethlehem, by Lewis Redner                             18608
+   [Link: http://www.gutenberg.org/1/8/6/0/18608 ]
+   [Files: 18608.txt; 18608-p.pdf 10608-mus.mus ]
+
+The Manobos of Mindanao, by John M. Garvan                               18607
+   [Subtitle: Memoirs of the National Academy of Sciences, Volume XXIII,
+    First Memoir]
+   [Link: http://www.gutenberg.org/1/8/6/0/18607 ]
+   [Files: 18607-8.txt; 18607-h.htm; ]
+
+The Camp Fire Girls in the Maine Woods, by Hildegard G. Frey             18606
+   [Subtitle: Or, The Winnebagos Go Camping]
+   [Link: http://www.gutenberg.org/1/8/6/0/18606 ]
+   [Files: 18606.txt; ]
+
+A Pair of Patient Lovers, by William Dean Howells                        18605
+   [Contents: A Pair of Patient Lovers]]
+   [          The Pursuit of the Piano]
+   [          A Difficult Case]
+   [          The Magic of a Voice]
+   [          A Circle in the Water]
+   [Link: http://www.gutenberg.org/1/8/6/0/18605 ]
+   [Files: 18605.txt; 18605-8.txt; 18605-h.htm; ]
+
+The Ice-Maiden: and Other Tales, by Hans Christian Anderson              18604
+   [Translator: Fanny Fuller]
+   [Link: http://www.gutenberg.org/1/8/6/0/18604 ]
+   [Files: 18604.txt; 18604-8.txt; 18604-h.htm]
+
+What Social Classes Owe to Each Other, by William Graham Sumner          18603
+   [Link: http://www.gutenberg.org/1/8/6/0/18603 ]
+   [Files: 18603.txt; 18603-8.txt; 18603-h.htm]
+
+The Fourth R, by George Oliver Smith                                     18602
+   [Link: http://www.gutenberg.org/1/8/6/0/18602 ]
+   [Files: 18602.txt; 18602-8.txt; 18602-h.htm]
+
+Account of Some of the Principal Slave Insurrections, by Joshua Coffin   18601
+   [Subtitle: and Others, Which Have Occurred, or Been Attempted, in the
+    United States and Elsewhere, During the Last Two Centuries]
+   [Link: http://www.gutenberg.org/1/8/6/0/18601 ]
+   [Files: 18601.txt]
+
+Mi Ultimo Adios, by Jose Rizal                                           18600
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/8/6/0/18600 ]
+   [Files: 18600-8.txt; 18600-h.htm]
+
+Bully and Bawly No-Tail, by Howard R. Garis                              18599
+   [Illustrator: Louis Wisa]
+   [Link: http://www.gutenberg.org/1/8/5/9/18599 ]
+   [Files: 18599.txt; 18599-8.txt; 18599-0.txt; 18599-h.htm]
+
+Stories of Achievement, Volume IV (of 6), by Various                     18598
+   [Editor: Asa Don Dickinson]
+   [Subtitle: Authors and Journalists]
+   [Link: http://www.gutenberg.org/1/8/5/9/18598 ]
+   [Files: 18598.txt; 18598-8.txt; 18598-h.htm; ]
+
+Stories of Achievement, Volume III (of 6), by Various                    18597
+   [Editor: Asa Don Dickinson]
+   [Subtitle: Orators and Reformers]
+   [Link: http://www.gutenberg.org/1/8/5/9/18597 ]
+   [Files: 18597.txt; 18597-8.txt; 18597-h.htm; ]
+
+Ride A Cock-Horse and A Farmer Went Trotting, by Anonymous               18596
+   [Title: Ride A Cock-Horse To Banbury Cross & A Farmer Went Trotting
+    Upon His Grey Mare]
+   [Subtitle: R. Caldecott's Picture Books]
+   [Illustrator: Randolph Caldecott]
+   [Link: http://www.gutenberg.org/1/8/5/9/18596 ]
+   [Files: 18596.txt; 18596-h.htm]
+
+The Life of George Washington, Vol. 5 (of 5), by John Marshall           18595
+   [Subtitle: Commander in Chief of the American Forces During the War]
+   [which Established the Independence of his Country and First]
+   [President of the United States]
+   [Link: http://www.gutenberg.org/1/8/5/9/18595 ]
+   [Files: 18595.txt; 18595-h.htm]
+
+The Life of George Washington, Vol. 4 (of 5), by John Marshall           18594
+   [Subtitle: Commander in Chief of the American Forces During the War]
+   [which Established the Independence of his Country and First]
+   [President of the United States]
+   [Link: http://www.gutenberg.org/1/8/5/9/18594 ]
+   [Files: 18594.txt; 18594-8.txt; 18594-h.htm]
+
+The Life of George Washington, Vol. 2 (of 5), by John Marshall           18592
+   [Subtitle: Commander in Chief of the American Forces During the War]
+   [which Established the Independence of his Country and First]
+   [President of the United States]
+   [Link: http://www.gutenberg.org/1/8/5/9/18592 ]
+   [Files: 18592.txt; 18592-8.txt; 18592-h.htm]
+
+The Life of George Washington, Vol. 1 (of 5), by John Marshall           18591
+   [Subtitle: Commander in Chief of the American Forces During the War
+    which Established the Independence of his Country and First
+    President of the United States]
+   [Link: http://www.gutenberg.org/1/8/5/9/18591 ]
+   [Files: 18591.txt; 18591-8.txt; 18591-h.htm]
+
+The Letters of Cassiodorus, by Cassiodorus                               18590
+   [Subtitle: Being A Condensed Translation Of The Variae Epistolae Of
+    Magnus Aurelius Cassiodorus Senator]
+   [Author: Cassiodorus (AKA Magnus Aurelius Cassiodorus Senator)]
+   [Translator: Thomas Hodgkin]
+   [Link: http://www.gutenberg.org/1/8/5/9/18590 ]
+   [Files: 18590.txt; 18590-8.txt; 18590-h.htm]
+
+Massachusetts Homeopathic  Medical Society, by Various                   18589
+   [Title: The Act Of Incorporation And The By-Laws Of The Massachusetts
+    Homeopathic Medical Society]
+   [Author: Massachusetts Homoeopathic Medical Society]
+   [Link: http://www.gutenberg.org/1/8/5/8/18589 ]
+   [Files: 18589.txt]
+
+George Borrow, by Edward Thomas                                          18588
+   [Subtitle: The Man and His Books]
+   [Link: http://www.gutenberg.org/1/8/5/8/18588 ]
+   [Files: 18588.txt; 18588-h.htm]
+
+The Chums of Scranton High, by Donald Ferguson                           18587
+   [Subtitle: Hugh Morgan's Uphill Fight]
+   [Link: http://www.gutenberg.org/1/8/5/8/18587 ]
+   [Files: 18587.txt; 18587-8.txt; 18587-h.htm; ]
+
+La San-Felice, Tome IV, by Alexandre Dumas                               18586
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/5/8/18586 ]
+   [Files: 18586-8.txt; 18586-h.htm]
+
+Les Nez-Perces, by Emile Chevalier                                       18585
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/5/8/18585 ]
+   [Files: 18585-8.txt]
+
+The Edge of the Knife, by Henry Beam Piper                               18584
+   [Link: http://www.gutenberg.org/1/8/5/8/18584 ]
+   [Files: 18584.txt; 18584-h.htm]
+
+Brancas; Les amours de Quaterquem, by Alfred Assollant                   18583
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/5/8/18583 ]
+   [Files: 18583-8.txt; 18583-h.htm]
+
+Gypsy Breynton, by Elizabeth Stuart Phelps                               18582
+   [Link: http://www.gutenberg.org/1/8/5/8/18582 ]
+   [Files: 18582.txt; 18582-h.htm]
+
+Adrift in New York, by Horatio Alger                                     18581
+   [Subtitle: Tom and Florence Braving the World]
+   [Link: http://www.gutenberg.org/1/8/5/8/18581 ]
+   [Files: 18581.txt; 18581-h.htm; ]
+
+Los favores del mundo, by Juan Ruiz de Alarcon                           18580
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/8/5/8/18580 ]
+   [Files: 18580-8.txt; 18580-h.htm]
+
+
+Within The Enemy's Lines, by Oliver Optic                                18264
+   [Subtitle: SERIES: The Blue and the Gray--Afloat]
+   [Link: http://www.gutenberg.org/1/8/2/6/18264 ]
+   [Files: 18264.txt; 18264-8.txt; 18264-h.htm]
+
+
+-=-=-=-=[ 43 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Jun 2006 Through the Dragon Glass, by Abraham Merritt      [060192xx.xxx] 0710A
+   [http://gutenberg.net.au/ebooks06/0601921.txt
+   and http://gutenberg.net.au/ebooks06/0601921h.html ]
+
+Jun 2006 The Great Brown-Pericord Motor, by Arthur C Doyle [060191xx.xxx] 0709A
+   [http://gutenberg.net.au/ebooks06/0601911.txt
+   and http://gutenberg.net.au/ebooks06/0601911h.html ]
+
+Jun 2006 The Face In The Abyss, by Abraham Merritt         [060190xx.xxx] 0708A
+   [http://gutenberg.net.au/ebooks06/0601901.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601901h.html ]
+
+Jun 2006 Metropolis, by Thea Von Harbou                    [060189xx.xxx] 0707A
+   [http://gutenberg.net.au/ebooks06/0601891.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601891h.html ]
+
+Jun 2006 Wintersmoon, by Hugh Walpole                      [060188xx.xxx] 0706A
+   [http://gutenberg.net.au/ebooks06/0601881.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601881h.html ]
+
+Jun 2006 The Red Hand, by Arthur Machen                    [060187xx.xxx] 0705A
+   [http://gutenberg.net.au/ebooks06/0601871.txt
+   and http://gutenberg.net.au/ebooks06/0601871h.html ]
+
+Jun 2006 The Novel of the Black Seal, by Arthur Machen     [060186xx.xxx] 0704A
+   [http://gutenberg.net.au/ebooks06/0601861.txt
+   and http://gutenberg.net.au/ebooks06/0601861h.html ]
+
+Jun 2006 Train for Flushing, by Malcolm Jameson            [060185xx.xxx] 0703A
+   [http://gutenberg.net.au/ebooks06/0601851.txt
+   and http://gutenberg.net.au/ebooks06/0601851h.html ]
+
+Jun 2006 Star Maker, by W Olaf Stapledon                   [060184xx.xxx] 0702A
+   [http://gutenberg.net.au/ebooks06/0601841.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601841h.html ]
+
+Jun 2006 Old Pybus, by Warwick Deeping                     [060183xx.xxx] 0701A
+   [http://gutenberg.net.au/ebooks06/0601831.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601831h.html ]
+
+Jun 2006 Armageddon 2419 AD, by Philip Frances Nowlan      [060182xx.xxx] 0700A
+   [http://gutenberg.net.au/ebooks06/0601821.txt
+   and http://gutenberg.net.au/ebooks06/0601821h.html ]
+
+Jun 2006 A Thousand Deaths, by Jack London                 [060181xx.xxx] 0699A
+   [http://gutenberg.net.au/ebooks06/0601811.txt
+   and http://gutenberg.net.au/ebooks06/0601811h.html ]
+
+Jun 2006 Wolfshead, by Robert E Howard                     [060180xx.xxx] 0698A
+   [http://gutenberg.net.au/ebooks06/0601801.txt
+   and http://gutenberg.net.au/ebooks06/0601801h.html ]
+
+Jun 2006 The Valley of the Worm, by Robert E Howard        [060179xx.xxx] 0697A
+   [http://gutenberg.net.au/ebooks06/0601791.txt
+   and http://gutenberg.net.au/ebooks06/0601791h.html ]
+
+Jun 2006 The Tomb's Secret, by Robert E Howard             [060178xx.xxx] 0696A
+   [http://gutenberg.net.au/ebooks06/0601781.txt
+   and http://gutenberg.net.au/ebooks06/0601781h.html ]
+
+Jun 2006 The House of Arabu, by Robert E Howard            [060177xx.xxx] 0695A
+   [http://gutenberg.net.au/ebooks06/0601771.txt
+   and http://gutenberg.net.au/ebooks06/0601771h.html ]
+
+Jun 2006 The Horror From The Mound, by Robert E Howard     [060176xx.xxx] 0694A
+   [http://gutenberg.net.au/ebooks06/0601761.txt
+   and http://gutenberg.net.au/ebooks06/0601761h.html ]
+
+Jun 2006 The Haunter of the Ring, by Robert E Howard       [060175xx.xxx] 0693A
+   [http://gutenberg.net.au/ebooks06/0601751.txt
+   and http://gutenberg.net.au/ebooks06/0601751h.html ]
+
+Jun 2006 The Fire of Asshurbanipal, by Robert E Howard     [060174xx.xxx] 0692A
+   [http://gutenberg.net.au/ebooks06/0601741.txt
+   and http://gutenberg.net.au/ebooks06/0601741h.html ]
+
+Jun 2006 Sea Curse, by Robert E Howard                     [060173xx.xxx] 0691A
+   [http://gutenberg.net.au/ebooks06/0601731.txt
+   and http://gutenberg.net.au/ebooks06/0601731h.html ]
+
+Jun 2006 The Cairn on the Headland , by Robert E Howard    [060172xx.xxx] 0690A
+   [http://gutenberg.net.au/ebooks06/0601721.txt
+   and http://gutenberg.net.au/ebooks06/0601721h.html ]
+
+Jun 2006 The Black Stone, by Robert E Howard               [060171xx.xxx] 0689A
+   [http://gutenberg.net.au/ebooks06/0601711.txt
+   and http://gutenberg.net.au/ebooks06/0601711h.html ]
+
+Jun 2006 Names in The Black Book, by Robert E Howard       [060170xx.xxx] 0688A
+   [http://gutenberg.net.au/ebooks06/0601701.txt
+   and http://gutenberg.net.au/ebooks06/0601701h.html ]
+
+Jun 2006 Moon of Zambebwei, by Robert E Howard             [060169xx.xxx] 0687A
+   [http://gutenberg.net.au/ebooks06/0601691.txt
+   and http://gutenberg.net.au/ebooks06/0601691h.html ]
+
+Jun 2006 Graveyard Rats, by Robert E Howard                [060168xx.xxx] 0686A
+   [http://gutenberg.net.au/ebooks06/0601681.txt
+   and http://gutenberg.net.au/ebooks06/0601681h.html ]
+
+Jun 2006 Fangs of Gold, by Robert E Howard                 [060167xx.xxx] 0685A
+   [http://gutenberg.net.au/ebooks06/0601671.txt
+   and http://gutenberg.net.au/ebooks06/0601671h.html ]
+
+Jun 2006 Black Vulmea's Vengeance, by Robert E Howard      [060166xx.xxx] 0684A
+   [http://gutenberg.net.au/ebooks06/0601661.txt
+   and http://gutenberg.net.au/ebooks06/0601661h.html ]
+
+Jun 2006 Black Talons, by Robert E Howard                  [060165xx.xxx] 0683A
+   [http://gutenberg.net.au/ebooks06/0601651.txt
+   and http://gutenberg.net.au/ebooks06/0601651h.html ]
+
+Jun 2006 Black Canaan, by Robert E Howard                  [060164xx.xxx] 0682A
+   [http://gutenberg.net.au/ebooks06/0601641.txt
+   and http://gutenberg.net.au/ebooks06/0601641h.html ]
+
+Jun 2006 The Scarlet Plague, by Jack London                [060163xx.xxx] 0681A
+   [http://gutenberg.net.au/ebooks06/0601631.txt
+   and http://gutenberg.net.au/ebooks06/0601631h.html ]
+
+Jun 2006 Dr Nikola Returns, by Guy Boothby                 [060162xx.xxx] 0680A
+   [http://gutenberg.net.au/ebooks06/0601621.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601621h.html ]
+
+Jun 2006 The Lust of Hate, by Guy Boothby                  [060161xx.xxx] 0679A
+   [http://gutenberg.net.au/ebooks06/0601611.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601611h.html ]
+
+Jun 2006 Farewell, Nikola, by Guy Boothby                  [060160xx.xxx] 0678A
+   [http://gutenberg.net.au/ebooks06/0601601.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601601h.html ]
+
+Jun 2006 A Bid for Fortune, by Guy Boothby                 [060159xx.xxx] 0677A
+   [http://gutenberg.net.au/ebooks06/0601591.txt or zip
+   and http://gutenberg.net.au/ebooks06/0601591h.html ]
+
+Jun 2006 A Professor of Egyptology, by Guy Boothby         [060158xx.xxx] 0676A
+   [http://gutenberg.net.au/ebooks06/0601581.txt
+   and http://gutenberg.net.au/ebooks06/0601581h.html ]
+
+Jun 2006 A Strange Goldfield, by Guy Boothby               [060157xx.xxx] 0675A
+   [http://gutenberg.net.au/ebooks06/0601571.txt
+   and http://gutenberg.net.au/ebooks06/0601571h.html ]
+
+Jun 2006 The Port of Peril, by Otis Adelbert Kline         [060156xx.xxx] 0674A
+   [http://gutenberg.net.au/ebooks06/0601561.txt
+   and http://gutenberg.net.au/ebooks06/0601561h.html ]
+
+Jun 2006 The Outlaws of Mars, by Otis Adelbert Kline       [060155xx.xxx] 0673A
+   [http://gutenberg.net.au/ebooks06/0601551.txt
+   and http://gutenberg.net.au/ebooks06/0601551h.html ]
+
+Jun 2006 The Call of the Savage, by Otis Adelbert Kline    [060154xx.xxx] 0672A
+   [http://gutenberg.net.au/ebooks06/0601541.txt
+   and http://gutenberg.net.au/ebooks06/0601541h.html ]
+
+Jun 2006 Stolen Centuries, by Otis Adelbert Kline          [060153xx.xxx] 0671A
+   [http://gutenberg.net.au/ebooks06/0601531.txt
+   and http://gutenberg.net.au/ebooks06/0601531h.html ]
+
+Jun 2006 Maza of the Moon, by Otis Adelbert Kline          [060152xx.xxx] 0670A
+   [http://gutenberg.net.au/ebooks06/0601521.txt
+   and http://gutenberg.net.au/ebooks06/0601521h.html ]
+
+Jun 2006 The Adaptive Ultimate, by Stanley G Weinbaum      [060151xx.xxx] 0669A
+   [http://gutenberg.net.au/ebooks06/0601511.txt]
+   [and http://gutenberg.net.au/ebooks06/0601511h.html ]
+
+Jun 2006 Tales of the Colonies, by Charles Rowcroft        [060129xx.xxx] 0647A
+   [http://gutenberg.net.au/ebooks06/0601291.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0601291h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

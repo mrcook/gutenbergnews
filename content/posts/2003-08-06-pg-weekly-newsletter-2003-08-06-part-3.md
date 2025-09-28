@@ -1,0 +1,367 @@
+---
+params:
+  id: 2028
+title: "PG Weekly Newsletter: Part 3 (2003-08-06)"
+date: 2003-08-06T14:33:50+00:00
+author: Michael Cook
+layout: post
+url: /20030806/pg-weekly-newsletter-2003-08-06-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Fri Aug 08 19:40:57 2003
+Return-path: &lt;bounce-gweekly-1355623@listserv.unc.edu&gt;
+Date: Wed, 06 Aug 2003 13:14:00 -0400 (EDT)
+From: Alice Wood &lt;alice at beryl dot ils dot unc dot edu&gt;
+Subject: [gweekly] Pt3 Project Gutenberg Weekly Newsletter 6th August 2003
+Sender: bounce-gweekly-1355623@listserv.unc.edu
+To: Project Gutenberg Weekly Newsletter &lt;gweekly@listserv.unc.edu&gt;
+X-Message-Id: &lt;200308061714.h76HE0Sk006512@beryl.ils.unc.edu&gt;
+List-Owner: &lt;mailto:owner-gweekly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gweekly@listserv.unc.edu&gt;
+List-Id: Project Gutenberg Weekly Newsletter &lt;gweekly.listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+
+The Project Gutenberg Weekly Newsletter 6th August 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+REMINDER: GUTINDEX Has Moved to Five Digits!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+        or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 08 Aug 2003:   8,961 (incl. 262 Aus.).
+
+Last week the Total Count was 8,871, including 255 at PG of Australia.
+This week we added 90 new (incl. 7 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7- & 8- bit versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to include translator info:
+Oct 1996 The Kreutzer Sonata, et al, by Leo Tolstoy/Tolstoi[krsonxxx.xxx]  689
+[Tr.: Benjamin R. Tucker]
+
+The following is being re-indexed to correct the authors name
+(F. F. Rockwell, not F. P. Rockwell)
+Dec 2004 Home Vegetable Gardening, by F. F. Rockwell       [?hmvgxxx.xxx] 7123
+
+The following is also being re-indexed to correct the author's name
+("Kirke", not "Kirk"):
+Dec 2004 Poetical Works, by Henry Kirke White               [?pwhwxxx.xxx]7149
+[Full title: The Poetical Works of Henry Kirke White With a Memoir by
+  Sir Harris Nicolas]
+
+The following is being re-indexed to correct the title (from "XIV and XV"
+to "XIV and XVI"):
+Feb 2005 Images from Hausset's Louis XV and XVI, by Widger [dw45wxxh.xxx] 7561
+
+We have posted the following in new formats as indicated:
+Jul 2005 Charles O'Malley, Vol. 1, by Charles Lever    [#2][?mly1xxx.xxx] 8577
+[Etchings and Drawings by Phiz]
+[HTML in 8mly110h.htm, illustrated HTML in 8mly110h.zip]
+Nov 2004 Mosaics of Grecian History, by Willson & Willson  [?mgrhxxx.xxx] 6841
+[Full author: Marcius Willson and Robert Pierpont Willson]
+[HTML version in 8mgrh10h.htm and illustrated HTML in 8mgrh10h.zip]
+
+
+We have posted the following in two new formats, TomeRaider Desktop in
+shaks12.tr and TomeRaider/Palm in shaks12.pdb:
+Jan 1994 The Complete Works of William Shakespeare [LOF]   [shaksxxx.xxx]  100C
+[Note: shaks12.tr and shaks12.pdb both in shaks12.zip only]
+
+
+We have posted an updated 11th edition of:
+Jun 2004 The BYU Solar Cooker/Cooler, by Steven E. Jones   [cookrxxx.xxx] 5889
+(Note:  The .zip file contains 11 images as well as the text file.)
+
+
+
+=-=-=-=[ 83 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Aug 2005 Robert Elsmere, by Mrs. Humphry Ward          [#2][?relsxxx.xxx] 8737
+Aug 2005 Gaspar Ruiz, by Joseph Conrad                [#29][?ruizxxx.xxx] 8736
+
+Aug 2005 The Revolutions of Time, by Jonathan Dunn         [rvtimxxx.xxx] 8735
+[Also posted HTML - rvtim10h.zip and rvtim10h.htm]
+Aug 2005 East of Paris, by Matilda Betham-Edwards          [?eparxxx.xxx] 8734
+
+Aug 2005 Through the Fray, by G. A. Henty                  [tfrayxxx.xxx] 8732
+[Also posted HTML - tfray10h.zip and tfray10h.htm]
+Aug 2005 Five Sermons, by H.B. Whipple                     [5sermxxx.xxx] 8731
+
+Aug 2005 A Little Bush Maid, by Mary Grant Bruce       [#3][?maidxxx.xxx] 8730
+Aug 2005 The Dancing Mouse, by Robert M. Yerkes            [?mousxxx.xxx] 8729
+Aug 2005 The Winning of Canada, by William Wood[#4][cca#11][cca11xxx.xxx] 8728
+[Full title: The Winning of Canada: A Chronicle of Wolf]
+[This is #11 in our series Chronicles of Canada,
+[edited by George M. Wrong and H. H. Langton]
+Aug 2005 The Last Galley, by Arthur Conan Doyle            [?gallxxx.xxx] 8727
+[Full title: The Last Galley Impressions and Tales]
+
+Aug 2005 Three Cities Trilogy: Rome, Complete, Zola   [#28][rome6xxx.xxx] 8726
+Aug 2005 Three Cities: Rome, Vol. 5, by Emile Zola    [#27][rome5xxx.xxx] 8725
+Aug 2005 Three Cities: Rome, Vol. 4, by Emile Zola    [#26][rome4xxx.xxx] 8724
+Aug 2005 Three Cities: Rome, Vol. 3, by Emile Zola    [#25][rome3xxx.xxx] 8723
+Aug 2005 Three Cities: Rome, Vol. 2, by Emile Zola    [#24][rome2xxx.xxx] 8722
+Aug 2005 Three Cities: Rome, Vol. 1, by Emile Zola    [#23][rome1xxx.xxx] 8721
+[Full title: The Three Cities Trilogy: Rome]
+
+Aug 2005 Tales & Novels, Vol. 2, by Maria Edgeworth    [#6][?tal2xxx.xxx] 8720
+Aug 2005 Monsieur Lecoq, Vol.2, by Emile Gaboriau          [?lcq2xxx.xxx] 8719
+[Subtitle: L'honneur du nom] [Language: French]
+Aug 2005 Scientific American Sup. No. 401, by Various      [?0401xxx.xxx] 8718
+[Full title: Scientific American Supplement, No. 401, September 8, 1883]
+[Also posted HTML - 8040110h.zip and 8040110h.htm]
+Aug 2005 Scientific American Sup. No. 344, by Various      [?0344xxx.xxx] 8717
+[Full title: Scientific American Supplement, No. 344, August 5, 1882]
+[Also posted HTML - 8034410h.zip and 8034410h.htm]
+Aug 2005 The Strong Arm, by Robert Barr                    [?stamxxx.xxx] 8716
+
+Aug 2005 Gallantry, by James Branch Cabell             [#2][?gtryxxx.xxx] 8715
+Aug 2005 Suppliant Maidens and Other Plays,by AEschylus[#2][?aespxxx.xxx] 8714
+Aug 2005 A Man of Means, by P. G. Wodehouse           [#31][mnmnsxxx.xxx] 8713
+Aug 2005 La Conquete De Plassans, by Emile Zola            [?cplzxxx.xxx] 8712
+[7-bit version with non-accented characters in 7cplz10.txt and 7cplz10.zip]
+[8-bit version with accented characters in 8cplz10.txt and 8cplz10.zip]
+[Language: French]
+Aug 2005 The Living Link, by James De Mille            [#3][lvlnkxxx.xxx] 8711
+
+Aug 2005 The Bible Gallery, by Gustave Dore,  Complete[#52][dor10xxx.xxx] 8710
+[Illustrated HTML zip only in dor1010h.zip][20 mb]
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  9 [#51][dor09xxx.xxx] 8709
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  8 [#50][dor08xxx.xxx] 8708
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  7 [#49][dor07xxx.xxx] 8707
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  6 [#48][dor06xxx.xxx] 8706
+[Illustrated HTML zip only in dor0?10h.zip][Avg. file size: 3mb]
+
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  5 [#47][dor05xxx.xxx] 8705
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  4 [#46][dor04xxx.xxx] 8704
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  3 [#45][dor03xxx.xxx] 8703
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  2 [#44][dor02xxx.xxx] 8702
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  1 [#43][dor01xxx.xxx] 8701
+[Illustrated HTML zip only in dor0?10h.zip][Avg. file size: 3mb]
+
+Aug 2005 The Evolution of Man, by Ernst Haeckel      [EH#3][evlmnxxx.xxx] 8700
+[Illustrated HTML zip only in evlmn10h.zip; note filesize 10mb]
+(See also: #6430 and #6710)
+Aug 2005 Woman And Her Savior In Persia, by Unknown        [wmprsxxx.xxx] 8699
+[Author Note: "A Returned Missionary"]
+Aug 2005 O Livro de Cesario Verde, by Cesario Verde        [?olcvxxx.xxx] 8698
+[Language: Portuguese]
+Aug 2005 Guns And Snowshoes, by Captain Ralph Bonehill     [gnsssxxx.xxx] 8697
+[Subtitle: Or, The Winter Outing of the Young Hunters]
+Aug 2005 The Jew And Other Stories, by Ivan Turgenev       [?tjewxxx.xxx] 8696
+[Tr.: Constance Garnett]
+[Also posted:  HTML with accented characters in 8tjew10h.htm/.zip]
+
+Aug 2005 Works of Beattie, Blair, Falconer, ed. Gilfillan  [?pbbfxxx.xxx] 8695
+[Full title: The Poetical Works of Beattie, Blair, and Falconer]
+[Subtitle: With Lives, Critical Dissertations, and Explanatory Notes]
+[Ed.: Rev. George Gilfillan]
+[Also posted HTML - 8pbbf10h.zip and 8pbbf10h.htm]
+Aug 2005 The Abbot's Ghost, by A. M. Barnard               [?abghxxx.xxx] 8694
+[Full Title: The Abbot's Ghost, Or Maurice Treherne's Temptation]
+[Subtitle: A Christmas Story] [Author AKA: Louisa May Alcott]
+Aug 2005 Le Capitaine Arena:  Volume 2, by Alexandre Dumas [?cpt2xxx.xxx] 8693
+[Author AKA: Alexandre Dumas, Pere] [Language: French]
+Aug 2005 Le Capitaine Arena:  Volume 1, by Alexandre Dumas [?cpt1xxx.xxx] 8692
+[Author AKA: Alexandre Dumas, Pere] [Language: French]
+Aug 2005 The American Judiciary, by Simeon E. Baldwin, LLD [?amjdxxx.xxx] 8691
+
+Aug 2005 American Institutions, by Alexis de Tocqueville   [?aminxxx.xxx] 8690
+[Full title: American Institutions And Their Influence]
+Aug 2005 The Eleven Comedies:  Volume 2, Aristophanes      [?rst2xxx.xxx] 8689
+[Author: Athenian Society Edition]
+Aug 2005 Scientific American Sup. No. 362, by Various      [?0362xxx.xxx] 8687
+[Full title: Scientific American Supplement, No. 362, December 9, 1882]
+[Also posted: illustrated HTML in 8036210h.zip only; HTML in 8036210h.htm]
+Aug 2005 The Eleven Comedies:  Volume 1, Aristophanes      [?rst1xxx.xxx] 8688
+[Author: Athenian Society Edition]
+Aug 2005 The Delicious Vice, by Young E. Allison           [?tdvcxxx.xxx] 8686
+
+Aug 2005 Memoirs of Henry Hunt, Esq. Vol. 1, by Henry Hunt [?hnt1xxx.xxx] 8685
+Aug 2005 The Conquest of America, by Cleveland Moffett     [?conqxxx.xxx] 8684
+Aug 2005 The Columbiad, by Joel Barlow                     [?clmbxxx.xxx] 8683
+[Also posted HTML - 8clmb10h.zip and 8clmb10h.htm]
+Aug 2005 The Naturalist on the Thames, by C. J. Cornish    [?thmsxxx.xxx] 8682
+[Also posted illustrated HTML only- 8thms10h.zip; and 8thms10h.htm]
+Aug 2005 The Face And The Mask, by Robert Barr             [?fmskxxx.xxx] 8681
+
+Aug 2005 The Story Of Kennett, by Bayard Taylor            [?sknnxxx.xxx] 8680
+Aug 2005 By England's Aid, by G. A. Henty                  [?bengxxx.xxx] 8679
+[Subtitle: Or, the Freeing of the Netherlands, 1585-1604]
+Aug 2005 The English Governess At The Siamese Court        [?egrlxxx.xxx] 8678
+[Author's Full Name: Anna Harriette Leonowens]
+[Subtitle: Being Recollections of Six Years in the Royal Palace at Bangkok]
+Aug 2005 Behind A Mask, Or A Woman's Power,byA. M. Barnard [?bhmkxxx.xxx] 8677
+[Author AKA: Louisa May Alcott]
+Aug 2005 The Heavenly Twins, by Madame Sarah Grand         [?htwnxxx.xxx] 8676
+
+Aug 2005 Welsh Fairy-Tales, by Edited by P. H. Emerson     [?wftlxxx.xxx] 8675
+[Full title: Welsh Fairy-Tales And Other Stories]
+Aug 2005 Charles O'Malley, Vol. 2, by Charles Lever    [#3][?mly2xxx.xxx] 8674
+[Etchings and Drawings by Phiz]
+[Also posted: HTML in 8mly210h.htm, illustrated HTML in 8mly210h.zip]
+Aug 2005 A Columbus of Space, by Garrett P. Serviss    [#3][?spcexxx.xxx] 8673
+Aug 2005 Poems Chiefly From Manuscript, by John Clare      [?pmclxxx.xxx] 8672
+Aug 2005 The Pagans, by Arlo Bates                         [?pagnxxx.xxx] 8671
+
+Aug 2005 In The Heart Of The Rockies, by G. A. Henty       [?htrkxxx.xxx] 8670
+Aug 2005 Hanna, by J. L. Runeberg                          [?hanaxxx.xxx] 8669
+[Language: Finnish]
+Aug 2005 Revenge!, by Robert Barr                          [?revnxxx.xxx] 8668
+Aug 2005 Cetywayo and his White Neighbours, by Haggard[#48][cetwyxxx.xxx] 8667
+[Full author: H. Rider Haggard]
+Aug 2005 Security in Your Old Age, by Social Security Board[?soscxxx.xxx] 8666
+[Full title: Security in Your Old Age (Informational Service Circular No. 9)]
+[Also posted HTML - 8sosc10h.zip and 8sosc10h.htm]
+
+Aug 2005 A Strange Discovery, by Charles Romyn Dake        [?sdscxxx.xxx] 8665
+Aug 2005 The Glory Of The Conquered, by Susan Glaspell     [glcnqxxx.xxx] 8664
+[Subtitle: The Story of a Great Love]
+Aug 2005 Tales of Two Countries, by Alexander Kielland     [?totcxxx.xxx] 8663
+Aug 2005 Camp Fire Girls at Sunrise Hill, by M. Vandercook [cfgshxxx.xxx] 8662
+[Full title: The Camp Fire Girls at Sunrise Hill]
+[Full author: Margaret Vandercook]
+Aug 2005 An Algonquin Maiden, by G. Mercer Adam            [amaidxxx.xxx] 8661
+
+Aug 2005 Woman and the New Race, by Margaret Sanger    [#2][?wmnrxxx.xxx] 8660
+Aug 2005 Sabbath in Puritan New England, Alice Morse Earle [?sabbxxx.xxx] 8659
+[Also posted HTML - 8sabb10h.zip and 8sabb10h.htm]
+
+Aug 2005 The Thousand Nights And One Night, Vol 4, by Anon [41001xx?.xxx] 8658
+[Full Title: The Book Of The Thousand Nights And One Night, Volume IV]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Note: Plain text in 41001107a.txt/.zip; 8-bit version in 41001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 3, by Anon [31001xx?.xxx] 8657
+[Full Title: The Book Of The Thousand Nights And One Night, Volume III]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 31001107a.txt/.zip; 8-bit version in 31001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 2, by Anon [21001xx?.xxx] 8656
+[Full Title: The Book Of The Thousand Nights And One Night, Volume II]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 21001107a.txt/.zip; 8-bit in 21001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 1, by Anon [11001xx?.xxx] 8655
+[Full Title: The Book Of The Thousand Nights And One Night, Volume I]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 11001107a.txt/.zip; 8-bit version in 11001108a.txt/.zip)
+(Note: see also #'s 3435-3450; the above four files are new versions, note
+  the complete filenames with each listing.)
+
+
+Aug 2005 Jack in the Forecastle, by John Sherburne Sleeper [jforexxx.xxx] 8638
+[Subtitle: or, Incidents in the Early Life of Hawser Martingale]
+
+
+
+=-=-=-=[ 7 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Aug 2003 The Unobstructed Universe, by Stewart Edward White[030113xx.xxx] 0262A
+[http://gutenberg.net.au/ebooks03/0301131.txt or ZIP]
+Aug 2003 World So Wide, by Sinclair Lewis                  [030112xx.xxx] 0261A
+[http://gutenberg.net.au/ebooks03/0301121.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301121h.html HTML]
+Aug 2003 The Betty Book, by Stewart Edward White           [030111xx.xxx] 0260A
+[http://gutenberg.net.au/ebooks03/0301111.txt or ZIP]
+Aug 2003 The Virgin and the Gypsy, by D H Lawrence         [030110xx.xxx] 0259A
+[http://gutenberg.net.au/ebooks03/0301101.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301101h.html HTML]
+Aug 2003 The Stars Are Still There, by Stewart Edward White[030109xx.xxx] 0258A
+[http://gutenberg.net.au/ebooks03/0301091.txt or ZIP]
+Aug 2003 The Road I Know, by Stewart Edward White          [030108xx.xxx] 0257A
+[http://gutenberg.net.au/ebooks03/0301081.txt or ZIP]
+Aug 2003 The Prodigal Parents, by Sinclair Lewis           [030107xx.xxx] 0256A
+[http://gutenberg.net.au/ebooks03/0301071.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301071h.html HTML]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Mark for the beer, no computers this week - too 'ot, Greg,
+Michael, and Larry Wall. Entertainment for the workers provided by BBC 6music.
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_08_06_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_08_06_part_3.txt</a>

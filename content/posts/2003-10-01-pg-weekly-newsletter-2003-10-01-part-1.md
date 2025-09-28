@@ -1,0 +1,927 @@
+---
+params:
+  id: 2050
+title: "PG Weekly Newsletter: Part 1 (2003-10-01)"
+date: 2003-10-01T16:34:17+00:00
+author: Michael Cook
+layout: post
+url: /20031001/pg-weekly-newsletter-2003-10-01-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_October_01.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, October 01, 2003*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971*****
+
+
+
+                            eBook Milestones
+
+
+     We Have Now Averaged 300 eBooks Per Year Since July 4, 1971 !!!
+
+
+    9,683 eBooks in 32 Years and 3.75 Months = 300 eBooks Per Year!!!
+
+
+       We Have Just Passed 2/3 Of The Way From 9,000 to 10,000 !!!
+
+
+                 9683 Books Done. . .317 To Go. . . !
+
+
+              We're Nearly 39/40 Of The Way To 10,000!!!
+
+
+    This Week We Finished The Complete Works Of Nathaniel Hawthorne!
+
+
+Once Again:
+
+For those who were expecting more:  we have about 30 more in the works,
+but the files are so large that it's been taking longer than we expected
+to get them moved around, headers added, and placed for download Other
+than this, we are still pretty close to right on schedule to try #10,000
+on October 15th, thus keeping up with Moore's Law. . .if the new eBooks
+keeping coming in at the rate we are hoping for!!!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 13/53 Year History, We Have Now Averaged About 297 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+ By The Way, It's Been About 1 Billion Seconds Since The First eBook!!!
+
+
+           We Are Averaging About 327 Per Month This Year!!!
+
+
+***  HOT Requests!!!
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+Volunteers Needed For Some Harder Reformatting Than Usual
+
+Please look at this URL, and see what we can use.  We have permission
+for all of them.  Reformatting to plain text may be a challenge.
+
+ http://www.gallup.unm.edu/~smarandache/eBooks-otherformats.htm
+ http://www.gallup.unm.edu/~smarandache/eBooksLiterature.htm
+
+
+***
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    3 New From PG Australia [Australian, Canadian Copyright Etc.]
+    97 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby &lt;gbnewby AT pglaf.org&gt; if you would like
+more information.
+
+***
+
+!!!
+
+I need a copy of zip for AIX that can do the "-9" high compression,
+and still unzip via the standard unzip programs!!!
+
+***
+
+I am working on trying to collect and convert some public domain folk tunes
+to ABC notation.  Could use some help tracking down public domain versions
+of the melodies or proof that these songs are in the public domain.  Songs
+I'm working on at present include:
+I Know Where I'm Going
+Simple Gifts
+She Moved Throught The Fair
+A Sailor Courted a Farmer's Daughter (aka Constant Lovers)
+The Fisher Who Died in His Bed
+Ufros Alienu
+If anyone's interesting in converting folk songs to a digital public
+domain format and would like to help or if you want to contact me, you can
+do so through the mailing list at
+http://groups.yahoo.com/group/pdsongs
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test DVD here right now!!!  Nearly all
+of our first 9,000 eBooks, and multiple formats!
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+
+*** Progress Report
+
+    In the first 9.00 months of this year, we produced 2940 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 2,940 eBooks!
+
+                That's 39 WEEKS as Compared to ~30 Years!
+
+                  100   New eBooks This Week
+                  122   New eBooks Last Week
+                  356   New eBooks This Month [September]
+
+                  327   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 2940   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 6621   New eBooks Since Start Of 2001
+                        That's Only 33 Months! ~200/mo
+
+                9,683   Total Project Gutenberg eBooks
+                6,066   eBooks This Week Last Year
+
+                3,575   New eBooks In The Last 12 Months [99.47%]
+                3,593   Would Have Been Exactly Moore's Law[100%]
+
+                4,650   New eBooks in the last 18 months [94.90%]
+                4,900   Would Have Been Exactly Moore's Law[100%]
+
+                  279   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  2940 New eBooks So Far in 2003
+
+              It took us 30 years for the first 2940 !
+
+       That's the 39 WEEKS of 2003 as Compared to ~30 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #2940
+
+
+Dec 2001 Howards End, by E. M. Forster  [E. M. Forster #3] [hoendxxa.xxx] 2946
+[This is version 10a, see also #2891)
+
+Dec 2001 Essays, Second Series, by Ralph Waldo Emerson[E#2][2srwexxx.xxx] 2945
+Dec 2001 Essays, First Series, by Ralph Waldo Emerson [E#1][1srwexxx.xxx] 2944
+Dec 2001 The Great Hunger, by Johan Bojer [From Norwegian] [ghngrxxx.xxx] 2943
+Dec 2001 Two Penniless Princesses, by Charlotte M. Yonge #5[2pnprxxx.xxx] 2942
+Dec 2001 The Chinese Classics (Prolegomena), by James Legge[prolgxxx.xxx] 2941
+[Warning:  This file in in English, but contains many Chinese characters]
+
+Nov 2001 The Circulation of the Blood, by T. H. Huxley[#29][thx19xxx.xxx] 2939
+[Full name: William Harvey and the Discovery of the Circulation of the Blood]
+Nov 2001 Yeast, Thomas Henry Huxley[Thomas Henry Huxley#28][thx18xxx.xxx] 2938
+Nov 2001 Coral and Coral Reefs, by T. H. Huxley       [#27][thx17xxx.xxx] 2937
+Nov 2001 Geological Contemporaneity, by T. H. Huxley  [#26][thx16xxx.xxx] 2936
+[Title:  Geological Contemporaniety and Persistent Types of Life]
+
+Nov 2001 On the Study of Zoology, by T. H. Huxley [THH #25][thx15xxx.xxx] 2935
+Nov 2001 On the Study of Zoology, by T. H. Huxley [THH #25][thx15xxx.xxx] 2935
+Nov 2001 Improving Natural Knowledge, by T. H. Huxley [#24][thx14xxx.xxx] 2934
+[On the Advisableness of Improving Natural Knowledge]
+Nov 2001 On Some Fossil Remains of Man by T. H. Huxley[#23][thx13xxx.xxx] 2933
+Nov 2001 Relations of Man to Lower Animals, T H Huxley[#22][thx12xxx.xxx] 2932
+[Title:  On the Relations of Man to the Lower Animals]
+Nov 2001 Man's Place in Nature, by Thomas Henry Huxley[#21][thx11xxx.xxx] 2931
+[Title:  Evidence as to Man's Place In Nature]
+
+Nov 2001 Criticisms on Origin of Species, T.H. Huxley [#20][thx10xxx.xxx] 2930
+Nov 2001 The Origin of Species, by Thomas Henry Huxley[#19][thx09xxx.xxx] 2929
+(See also #2009 and #1228)
+Nov 2001 Time and Life, by Thomas Henry Huxley    [THH #18][thx08xxx.xxx] 2928
+Nov 2001 The Darwinian Hypothesis, by Thomas H. Huxley[#17][thx07xxx.xxx] 2927
+Nov 2001 Examination of Origin of Species by TH Huxley[#16][thx06xxx.xxx] 2926
+[A Critical Examination of the Position of Mr. Darwin's Work, "On the
+[Origin of Species," In Relation to the Complete Theory of the Causes
+[of the Phenomena of Organic Nature]
+
+
+***
+
+Today Is Day #273 of 2003
+This Completes Week #39
+ 97 Days/14 Weeks To Go  [We get 53 Wednesdays this year]
+300 Books To Go To #10,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #72 Of Our *SECOND* 5,000 eBooks
+
+   75   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 39 weeks of this year, we have produced 2940 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 2940 eBooks!!!
+
+         That's 39 WEEKS as Compared to ~30 YEARS!!!
+
+
+With 9,683 eBooks online as of October 01, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.03 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.65 when we had 6015 eBooks A Year Ago
+
+Can you imagine 9,683 books each costing $.62 less a year later???
+Or. . .would this say it better?
+Can you imagine 9,683 books each costing 1/3 less a year later???
+
+At 9683 eBooks in 32 Years and 3.75 Months We Averaged
+    300 Per Year   [We do more per month these days!]
+     25 Per Month
+    .81 Per Day
+
+At 2940 eBooks Done In The 273 Days Of 2003 We Averaged
+     10.8 Per Day
+     75.4 Per Week
+    327.7 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+From Newsscan:
+
+
+DELL'S MEDIA STRATEGY
+Dell founder and CEO Michael Dell says his company has been talking to media
+companies "to get agreements with the content owners and the artists. We're
+going to do some things with music and I think there's opportunity in
+movies." Dell is expected to announce a new company strategy intended expand
+its commitment to consumer's home with new digital products, possibly to
+include a digital music player, flat-panel television sets and a new
+handheld computer. Dell's competitors will include Apple, which sells the
+iPod music player, and Gateway, which sells big-screen televisions.
+(Reuters/Forbes 24 Sep 2003)
+http://www.forbes.com/technology/newswire/2003/09/24/rtr1090941.html
+
+RIAA WITHDRAWS IN A CASE OF MISTAKEN IDENTITY
+The Recording Industry Association of America (RIAA) has withdrawn a lawsuit
+that accused a 66-year-old woman of illegally downloading and sharing more
+than 2,000 songs online. An attorney for the Electronic Frontier Foundation
+says the woman and her husband simply use the Internet to send e-mail to
+their children and grandchildren. Also, they use a Macintosh, which cannot
+run the software needed for the Kazaa file-sharing service they are accused
+of using illegally. The RIAA accusation seems to have been a case of
+mistaken identity, and the EFF attorney says more mistaken-identity cases
+are expected because many Internet service providers do not assign IP
+addresses to any one user but shuffle them around.
+(San Francisco Chronicle 24 Sep 2003)
+http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2003/09/24/nati
+onal1155EDT0579.DTL
+
+CRITIC OF MICOSOFT SECURITY LOSES JOB
+Daniel E. Geer Jr., the chief technology officer for AtStake -- a Cambridge,
+Mass., technology firm that works closely with Microsoft -- lost his job
+after participating on a study that disparages security gaps in Microsoft
+software. Microsoft-watchers see the firing as an example of Microsoft's
+ability to silence its critics. Ed Black, head of the Computer and
+Communications Industry Association (sponsor of the report in question)
+says: "It's a tragedy this happened to someone who was speaking in the
+interest of national security. It gives even more credibility to what he
+said and what the report said. He was not in any way representing some
+corporate interests of his company." A statement by AtStake says simply:
+"The values and opinions of the report are not in line with AtStake's
+views." (AP/USA Today 26 Sep 2003)
+http://www.usatoday.com/tech/news/digest.htm
+
+TERMINATION OF INFORMATION AWARENESS OFFICE
+The Pentagon's controversial Information Awareness Office, which had been
+headed by Admiral John M. Poindexter, has been closed down by Congress,
+though a few of its projects will be shifted elsewhere within the Defense
+Advanced Research Projects Agency (DARPA). Senator Ron Wyden (D, OR) says:
+"They turned the lights out on the programs Poindexter conceived. From a
+standpoint of civil liberties, this is a huge victory." Wyden says the
+programs that survived are mainly training initiatives, such as war-gaming
+software that help agencies analyze evidence and communicate with one
+another. (New York Times 26 Sep 2003)
+http://www.nytimes.com/2003/09/26/politics/26SURV.html
+
+
+[I Don't Get It. . .Why Should THEIR Free Speech Extend Into MY House?]
+
+SPEECH, PRIVACY, AND DO-NOT-CALL: 'I WANT TO BE ALONE'
+Privacy and free speech are conflicting values in the current controversy
+over "Do Not Call" legislation aimed at curtailer commercial telemarketing
+calls (while continuing to allow calls made for political or philanthropic
+purposes). David Sobel, general counsel for the Electronic Privacy
+Information Center, says: "The telemarketers have some First Amendment
+rights to disseminate information. But the consumer also has some rights to
+control unwanted information coming into the home." Telemarketers argue that
+their own free-speech rights are being violated by the FTC's attempt to
+establish a Do-Not-Call list, and UCLA law professor Eugene Volokh explains:
+"When it comes to residential privacy, the Supreme Court has suggested that
+content-based discrimination is illegal. The FTC is setting up content-based
+discrimination." Some legal experts think the government could legally
+expand the registry to all telemarketers, with a registry that just says,
+like Greta Garbo, "I want to be alone." Attorney Bruce Johnson, an expert in
+First Amendment law, says: "I don't think it's restricting political or
+religious speech. The registry just says that I don't want to hear from
+anybody." (San Jose Mercury News 27 Sep 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6874978.htm
+
+FCC TRIES TO RESCUE DO-NOT-CALL
+The Federal Communications Commission (FCC) will investigate complaints
+from consumers who receive unwanted telemarketing calls beginning today,
+regardless of the fact that the Do-Not-Call registry created by another
+government agency, the Federal Trade Commission (FTC), was put into limbo
+by the ruling of U.S District Judge Edward W. Nottingham that the
+legislation on which it was based is an unconstitutional abridgement of
+free speech. In spite of Nottingham's ruling, many telemarketers plan to
+honor the list, because (in the words of telemarketer Arthur W. Conway)
+"it's the right thing to do," in addition to the fact that "we don't know
+what the law is anymore."(Washington Post 1 Oct 2003)
+http://www.washingtonpost.com/wp-dyn/articles/A25319-2003Sep30.html
+
+3G WIRELESS SIGNALS COULD MAKE YOU SICK
+Radio signals used for next-generation (3G) wireless services can cause
+headaches and nausea, according to a study conducted on behalf of the
+Netherlands ministries for Economic Affairs, Health and Telecommunications.
+The study compared the impact of radiation from base stations used for
+current wireless services with those for new 3G networks, which transfer
+data at a faster rate. "If the test group was exposed to third-generation
+base station signals there was a significant impact. They felt tingling
+sensations, got headaches and felt nauseous," says a spokeswoman for the
+Dutch Economics Ministry. The Dutch government said follow-up research was
+needed. Previous research on health effects of mobile phones, primarily
+second-generation, has been inconclusive, but a long-term study conducted
+by the International Agency on Research on Cancer is expected to yield
+results next year. (Reuters 30 Sep 2003)
+http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=581&e=7&u=/nm/20030930/
+tc_nm/health_mobile_damage_dc
+
+VISA REDUCTION ADVERSELY IMPACTS HIGH-TECH RECRUITMENT
+The U.S. has sharply reduced (from 195,000 to 65,000) the number of H-1B
+visas granted for skilled foreign professionals, a change which drastically
+complicates the business environment for Indian software services companies
+that provide workers for American companies. The H-1B visa program allows
+foreigners to work in the United States for up to six years, and has done
+much to contribute to the growth of Silicon Valley. The American
+Immigration Lawyers' Association says there are about 900,000 H-1B
+employees in the U.S., of which 35-45% are from India. The reduced visa
+limit is expected gradually to diminish the U.S.'s ability to attract the
+most talented workers, and as the economy continues to recover, the country
+may see an even more acute shortage of skilled workers. Laxman Badiga of
+Indian software exporter Wipro says: "If there are no visas to bring talent
+to the U.S., American companies will eventually say, 'Let's go to India
+where the resources are.'" (New York Times 1 Oct 2003)
+http://partners.nytimes.com/2003/10/01/business/worldbusiness/01visa.html
+
+iTUNES MEETS ITS MUSICMATCH
+Building on the popularity of Apple's iTunes Music Store, software maker
+MusicMatch is launching a Windows-compatible music download service offering
+songs from leading record labels with the fewest restrictions so far on
+copying and portability. The new software allows customers to purchase songs
+for 99 cents apiece without having to enroll in a monthly subscription
+program, and users may copy the tracks onto as many as three different
+computers and transfer them to portable music players, as well as burn as
+many as 5 CDs with the same set of songs. MusicMatch president Peter D.
+Csathy says it took months of negotiations with the labels to agree on those
+terms. A digital music store "is DOA when you have complex usage rules,"
+says Csathy. Those terms are likely to soon be offered by others targeting
+the Windows market, which represents more than 90% of computer users. (Los
+Angeles Times 29 Sep 2003)
+http://www.latimes.com/technology/la-fi-musicmatch29sep29224416,1,6990564.st
+ory?coll=la-headlines-technology
+
+CHANGES AFOOT FOR NIELSEN'S TV RATING SYSTEM
+Nielsen Media Research -- the television industry's lead authority on
+audience ratings -- is revamping its operations in an effort to capture more
+data on audience demographics for viewers of small digital-cable channels.
+The company plans to double the size of its national sample to 10,000 by
+2006 and is testing a new "psycho acoustic coding" system that can
+differentiate between broadcasters' multicast signals. The system requires
+broadcasters to embed distinctive audio signals -- inaudible to humans--
+into their digital broadcasts that will enable Nielsen's new set-top box
+(known inside the company as "golden ears") to monitor the different
+channels. Digital television is still in its infancy but is growing up fast
+as the deadline set for broadcasters to switch over from analog to digital
+looms. Estimates suggest that fewer than 50 digital stations are currently
+multicasting, but that number is expected to mushroom over the next few
+years. Nielsen is also working with radio ratings service Arbitron in a test
+to gauge the number of often uncounted viewers in dorm rooms, hotels and
+gyms, using a "portable people meter" the size of a pager to track what kind
+of radio and television programming people are consuming outside the home.
+In Europe, Nielsen is studying a wristwatch-type meter to measure an
+individual's viewing, be it at home or on the road, but the "portable people
+meter" still has a few kinks to work out. For instance, it records a
+television signal playing in a bar, even if the user isn't watching the
+show. Still, many critics see the moves as a step in the right direction.
+"Since VNU took over there has been a positive movement by Nielsen to
+advance the state of measurement rather than just sit back and watch their
+margins grow," says CBS research chief David Poltrack. "They have a plan for
+measuring the future and are keeping on top of things."
+(Wall Street Journal 29 Sep 2003)
+http://online.wsj.com/article/0,,SB10648012103934100,00.html (sub req'd)
+
+COMPUTERS FOR THE LIVING ROOM
+Microsoft, Dell, Gateway, and other hardware companies are announcing PCs
+using Windows XP Media Center software that turns a computer into a digital
+entertainment system allowing user to watch TV shows, play digital music
+collections, listen to the radio, review photos, watch DVDs and buy music
+over the Internet. Microsoft cofounder and chairman Bill Gates says: "Our
+goal is to create software breakthroughs that break down the boundaries
+between the different devices people use in the home and make the most out
+of all the technology available today. The Media Center PC is our next step
+in this vision, a new kind of computer that simplifies everyday life --
+enabling the TV, stereo, and other devices (to) work together with a single
+remote, and getting TV shows, movies, pictures and music into every room of
+the house." Michael Gartenberg of Jupiter Research says: "It really feels
+like much more of a consumer electronics type of product as opposed to a PC
+product." (USA Today 1 Oct 2003)
+http://www.usatoday.com/tech/news/2003-09-30-ms-media_x.htm
+
+VANDALS DIVERTING COMPUTERS TO $5-A-MINUTE PORN SITES
+Network vandals have been exploiting a security gap in Microsoft's Internet
+Explorer software and using it to connect their computers to $5-a-minute
+porn lines by sending computer users to sites that change a computer's
+dial-up settings, connecting it to expensive long distance telephone numbers
+instead of the user's ISP. The original hole in Internet Explorer was
+discovered last month, and Microsoft issued a software patch to fix it,
+there but new variations of the malicious code seem to be evading the
+existing patch. (Internet News 29 Sep 2003)
+http://www.internet-magazine.com/news/view.asp?id=3732
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+[Long Distance "Too Cheap To Meter!!!]
+
+VOIP AT DARTMOUTH
+Entering freshmen at Dartmouth College this fall can use their
+computers as telephones using the institution's voice-over-Internet
+protocol (VoIP) system, which runs on the campus wireless network. The
+program will be expanded to cover 13,000 students, faculty, and staff
+on campus. Officials from Dartmouth believe theirs is the first
+wireless VoIP implementation of such a size. Students will be able to
+make local or long-distance calls for free, an arrangement that results
+from the college's recent decision not to charge for long-distance
+calls. Dartmouth had come to the conclusion that costs for billing
+long-distance calls were higher than the calls themselves, and tracking
+such calls in the new system would be unrealistic. "Imagine the
+complexities of trying to track down who made what call when on a
+large, mobile, campus voice-over-IP network," said Bob Johnson,
+director of network services.
+New York Times, 23 September 2003 (registration req'd)
+http://www.nytimes.com/2003/09/23/technology/23DART.html
+
+[BTW, my recollection is that Dartmouth has about 4,000 undergrads,
+can anyone confirm?]
+
+
+CONGRESS PROVIDES NO FUNDS FOR CONTROVERSIAL PENTAGON OFFICE
+Congress has approved a spending bill that includes no funds for the
+Pentagon's Information Awareness Office, effectively eliminating it.
+The office and its former head, John Poindexter, had been criticized by
+civil-rights and privacy groups for initiatives including the Total
+Information Awareness program (later called the Terrorism Information
+Awareness program) and a futures market on terrorism, which was ended
+almost immediately after details of its intended operation were made
+public. A few of the office's programs, specifically training, will
+continue but will be transferred elsewhere within the Defense Advanced
+Research Projects Agency.
+New York Times, 26 September 2003 (registration req'd)
+http://www.nytimes.com/2003/09/26/politics/26SURV.html
+
+
+MICROSOFT TO SHUTTER MOST CHAT ROOMS
+Saying that "free, unmoderated chat isn't safe," Microsoft has
+announced it will close Internet chat rooms in most countries around
+the world and will limit access to subscribers to other Microsoft
+services in those countries where chat rooms will still be
+available--the United States, Canada, and Japan. Chat rooms have earned
+a reputation as havens for pedophiles and other child predators.
+Leaving the service available to subscribers is seen as significantly
+less risky because personally identifiable information about those
+users is kept as part of billing records. Geoff Sutton, European
+general manager of Microsoft MSN, said the free and open days of the
+Internet are over because a "small minority have changed that for
+everyone." Those who supported the company's decision--and urge that
+other companies follow suit--pointed to a sharp rise in the past year
+in the incidence of online child predation. Critics of the move,
+including free-speech advocates and some children's rights groups,
+wondered whether eliminating chat rooms will simply force predators
+underground rather than address the root problem.
+Wired News, 23 September 2003
+
+DHS ANNOUNCES PLANS FOR VISA-TRACKING SYSTEM
+Officials from the Department of Homeland Security have announced a
+project to build a massive system to photograph, fingerprint, and track
+all foreigners as they enter and leave the United States with visas.
+Called U.S. Visitor and Status Indication Technology, U.S. VISIT, the
+system would attempt to keep tabs on the millions of non-U.S. citizens
+who enter the country each year on visas, including providing records
+of when those visa holders leave the country--something the existing
+system does not do. Details of the system are expected in November,
+when contractors will submit bids on the project, which analysts expect
+to cost between $3 billion and $10 billion. The program has drawn
+criticism from civil rights groups, who expressed concern over privacy
+issues, and from others who said the system cannot be effective without
+procedures for deporting those who pose a threat. Others noted that
+only 20 percent of the visitors to the United States each year have
+visas because the rest come from countries deemed not to present a
+security risk. James A. Lewis, director of technology policy at the
+Center for Strategic and International Studies, said, "The problem
+we're fixing may not be the al Qaeda problem" because such groups
+could send people to the United States who have clean records or who
+travel from countries that do not require visas.
+Washington Post, 29 September 2003
+http://www.washingtonpost.com/wp-dyn/articles/A14287-2003Sep28.html
+
+TSA THREATENS DATA-SHARING MANDATE
+Criticism of government programs to increase airline security has left
+many airlines reluctant to participate in test programs, prompting the
+Transportation Security Administration (TSA) to raise the possibility
+of requiring airlines to participate. Delta Airlines had previously
+agreed to be part of testing for the Computer Assisted Passenger
+Prescreening System (CAPPS II), which requires passengers to provide
+certain pieces of personal information then used to screen passengers
+for their probability of being terrorists. After a strong public outcry
+at the proposal, Delta withdrew. JetBlue Airways is facing similar
+consumer backlash after it acknowledged releasing passenger information
+to a defense contractor, though the airline claimed it was not part of
+the CAPPS II program. TSA Chief Administrator James Loy said that if no
+airlines are willing to participate, the agency may issue a mandate
+that all airlines must participate.
+Internet News, 29 September 2003
+http://dc.internet.com/news/article.php/3084711
+
+MUSICMATCH ENTERS THE FRAY
+Musicmatch has announced plans to begin selling songs online, using its
+own Musicmatch Jukebox software. Rumors of Dell's involvement in the
+program remain unsubstantiated. Musicmatch will charge 99 cents per
+song or $9.99 for most albums. Musicmatch songs, which will be in
+Windows Media format, can be played on PCs or portable music players.
+Songs can be written to CDs a maximum of five times. The company said
+it will have 200,000 songs available initially and expects to have
+500,000 by the end of the year. Other companies, including Sony,
+RealNetworks, and Amazon.com, are expected to join in the market for
+legal music downloads, a market that some see as the inevitable outcome
+of ongoing copyright enforcement.
+CNET, 29 September 2003
+http://news.com.com/2100-1027_3-5083282.html
+
+CONGRESS PROVIDES NO FUNDS FOR CONTROVERSIAL PENTAGON OFFICE
+Congress has approved a spending bill that includes no funds for the
+Pentagon's Information Awareness Office, effectively eliminating it.
+The office and its former head, John Poindexter, had been criticized by
+civil-rights and privacy groups for initiatives including the Total
+Information Awareness program (later called the Terrorism Information
+Awareness program) and a futures market on terrorism, which was ended
+almost immediately after details of its intended operation were made
+public. A few of the office's programs, specifically training, will
+continue but will be transferred elsewhere within the Defense Advanced
+Research Projects Agency.
+New York Times, 26 September 2003 (registration req'd)
+http://www.nytimes.com/2003/09/26/politics/26SURV.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+[And A Few Articles That Didn't Get Enough Coverage]
+
+Straight out of "Wag The Dog" [which was truer than you might think]:
+
+Presidential candidate Howard Dean mixed fiction and reality in a
+fizzing, but perhaps non-alcoholic beverage, last week by using his
+lines from the HBO show "K Street" [DC's version of Madison Avenue].
+
+In the show, noted Presidential advisor James Carville feeds Dean a
+line that says if having lots of black contituents made one more
+sensitive to racial issue, then Trent Lott would be Martin Luther King.
+
+Dean crossed the lines into reality by using that line in the debates.
+
+I wonder if there are any copyright issues there, since the line was
+undoubtedly copyrighted by HBO.
+
+***
+
+Perhaps the most important event of last week, and I almost included
+it in last week's Newsletter, but wanted to do more research, I only
+heard about it with about 18 hours to deadline, is the fact that the
+polar icecaps, both of them, are cracking in places that have been
+frozen solid for thousands of years.  Here are some of the details:
+
+Just over a week ago, the largest ice shelf in the northern hemisphere
+started breaking up, splitting right down the middle with more and more
+cracks in the remaining two major pieces.  A freshwater lake, apparently
+pretty much landlocked for those thousands of years, drained into the
+salt water of the ocean, which undoubtedly changed the ecology further.
+
+The Ward Hunt ice shelf, as it is called, calved off many icebergs
+which will undoubtedly become major obstacles to ocean navigation
+this winter, if not longer, as well as perhaps being a danger to
+oil drilling platforms at sea.
+
+Even though similar breakups of huge ice shelves in both the Arctic
+AND the Antarctic have been sighted, scientists are trying to convince
+everyone that these are just local and regional events, and not tied
+to any kind of global warming, even though 90% of the northern ice shelf
+surrounding Ellesmere Island, where the recent events occured, is now gone,
+and the temperature has been rising about 1 degree F. per decade since
+the measurments starting in the International Geophysical Year of 1957.
+
+Given the simultaneous reporting of the loss of much of the glaciers
+for which Glacier National Park is names, and so many other reports
+of warming trends, not to even take into account the French heat wave
+that killed 15,000 recently, I find all this denial of global warming
+just a bit hard to take.
+
+In the long run, this might be the biggest story of recorded history,
+yet I've seen only ONE short story about it in the major news media.
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_10_01_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_10_01_part_1.txt</a>

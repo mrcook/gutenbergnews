@@ -1,0 +1,365 @@
+---
+params:
+  id: 2544
+title: PG Monthly Newsletter (2008-12-21)
+date: 2008-12-21T19:31:56+00:00
+author: Michael Cook
+layout: post
+url: /20081221/pg-monthly-newsletter-2008-12-21/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>I am sending this to BOTH the monthly and weekly Newsletter lists, and
+apologize for any previous confusion between those lists:
+
+Project Gutenberg Monthly Newlsetter &lt;gmonthly@lists.pglaf.org&gt;
+Project Gutenberg Weekly Newsletter &lt;gweekly@lists.pglaf.org&gt;
+
+If you appear on BOTH lists you may get two copies.
+
+If you get NO copy next month, be sure you are on MONTHLY.
+
+Let me know if you need info on subbing and unsubbing.
+
+
+Happy New Year Everyone!!!
+
+
+Michael
+
+
+///
+
+
+Project Gutenberg Monthly Newsletter
+
+The Project Gutenberg Monthly Newsletter, Dec. 21, 2008 eBooks Readable By
+Both Humans And Computers Since 1971
+
+
+I'm expecting a rather busy day the 21st, so I am doing as much of the
+Newsletter half a day early as possible, so be forewarned, some of the numbers
+may be a day late or early, depending on how you look at things.
+
+
+Happy Holidays!!!
+
+Give The World eBooks in 2009!!!
+
+
+48 Months to The End of the World Via Mayan Calendaring on December 21, 2012
+[some now saying October 11, 2011]
+
+This leaves 4 years. 16 seasons, or 48 months.
+
+Not to worry, I will still make long range predictions.
+
+
+
+New Project Gutenberg Landmarks and Headlines
+
+
+
+
+The new goal is to put Spanish into our Top 5 list.
+
+I desperately need some Spanish speaking people to help me!
+
+
+
+We also officially passed 32,000 original Project Gutenberg eBooks this past
+month, including all our usual listings.
+
+This means the original Project Gutenberg editions now list as many titles as
+the average U.S. public library.
+
+
+Please note that PrePrints now has nearly 2,500 eBooks!!!
+
+Well worth looking into:
+
+http:www.preprints.readingroo.ms
+
+We could use someone to write a piece about PrePrints.
+
+We also need more help with the Chinese eBooks there.
+
+
+
+The News In More Detail
+
+
+
+The times are changing, and we can either lead or follow.
+
+
+If we don't lead in the field of Chinese eBooks we follow-- and we are
+starting a Project Gutenberg of Chinese, for all who may wish to get in on the
+ground floor.
+
+Believe it or not, Spanish is listed as the third language, with regard to its
+use on the entire Internet so that's the next goal, to bring Spanish to out
+Top 5.
+
+In reference to that goal, I am giving a presentation for a new combination of
+Internet efforts called Both Americas, in Buenos Aires early next Spring,
+followed by what I would hope will be a similar conference in France.  India
+has had one or more problems with getting an actual invitation sent to me, and
+since their current conference will be over less than a month from now, I will
+not be able to attend even if such an invitation is issue at the last moment
+unless it is of such an unusual nature that I can't turn it down and may have
+to interrupt another trip I have now scheduled during, and including the same
+period, the coming month.
+
+This is the second time a conference hosted by people I had contact with in
+India has not worked out due to inabilities to get things organized in a
+manner that does not cost me a great deal of time and money, neither of which
+I have great amounts of to invest in any but the wisest of manners.
+
+I BRING THIS UP AGAIN BECAUSE I HAVEN'T HEARD MUCH LATELY!
+
+HENCE MY NEED FOR ASSISTANCE WITH SPANISH!!!
+
+
+I fear the conference in France may be headed the direction it was headed in
+last year, much as did the other one I had mentioned above, but right now I
+can't say for sure that it is either going to actually happen, or that I may
+speak.
+
+Something I should mention about possible conferences
+
+If all the plans are not made, tickets purchased, arranged, etc., so that I
+can at least expect to break even on trips, at least one month in advance, the
+odds of my attending the conference fall very rapidly to zero.  So far the
+only ones keeping up their end of the bargain are the Both Americas hosting
+the conference in Buenos Aires, so that appears the only conference I am
+certain to attend in six months.
+
+AND NOW THERE ARE DOUBTS ABOUT THAT!!!
+
+
+Greg Newby and I have made an attempt to set up one of few, very few,
+conference appearances with a joint presentation, but we haven't heard a word
+back from that one either, so I won't even mention it at the moment.
+
+Project Gutenberg just doesn't have the money for us to get to conferences
+where we would lose money in the process.
+
+
+
+
+Our All Time Hottest Requests!!!!!!!
+
+
+
+FLASH RAM
+
+
+I am looking for the earliest flash RAM possible.
+
+The very earliest were PCMCIA cards, such as used for the Poqet computer, etc.
+
+The earliest USB flash drives were DisgoDizgo, M-Systems and these were OEMed
+by IBM, HP, etc. They are particular in a recognizable fashion because their
+snapon connectors resemble the connectors of jigsaw puzzles.
+
+
+
+
+POWERPOINT
+
+
+We need someone who can do PowerPoint illustrations.
+
+One in particular, building a 3-D box of 1,000 dominoes.
+
+
+
+
+
+Additional Newsletter Services
+
+
+In addition, we will provide the PG Canada Newsletter and totals from PG of
+Australia, Europe, PrePrints, etc.
+
+You should notice that we had a very good month, with 100 books done nearly
+every single week.
+
+
+These totals do NOT include 75,000+ at
+
+http://www.gutenberg.cc
+
+Where there are eBooks representing over 100 languages.
+
+
+
+These are the various totals from the ~30,000 at
+
+http://www.gutenberg.org
+
+and our other Project Gutenberg Sites
+
+
+This week:
+
+       day       | cnt
+----------------+-----
+  Sun 2008-12-14 |   6
+  Mon 2008-12-15 |   5
+  Tue 2008-12-16 |   9
+  Wed 2008-12-17 |   6
+  Thu 2008-12-18 |   8
+  Fri 2008-12-19 |   7
+  Sat 2008-12-20 |  10
+
+
+Thanks to Marcello Perathoner!
+
+
+
+Here are the current language totals
+for languages with over 100 eBooks.
+
+
+
+Grand total for today: 27,475 [- 27,188 ] +287
+
+23,277 [ - 23,075 =] +202  English en
+ 1,333 [ -  1,319 =] + 14  French  fr
+   556 [ -    553 =] +  3  German  de
+   480 [ -    476 =] +  4  Finnish fi
+   392 [ -    377 =] + 25  Chinese zh
+   370 [ -    361 =] +  9  Dutch   nl
+   287 [ -    267 =] + 20  Portuguese pt
+   218 [ -    217 =] +  1  Spanish es
+   169 [ -    164 =] +  5  Italian it
+
+Not to mention PrePrints, Canada, Australia, Europe....
+
+Total increase       +287      All Reported Languges
+
+
+and from last month. . . .
+
+
+Grand total for today 27,188 [ - 26,867 =] +321
+
+23,075 [ - 22,863 =] + 212   English en
+ 1,319 [ -  1,289 =] +  76   French  fr
+   553 [ -    549 =] +   4   German  de
+   476 [ -    470 =] +   6   Finnish fi
+   361 [ -    359 =] +   2   Dutch   nl
+   377 [ -    359 =] +  18   Chinese zh
+   267 [ -    260 =] +   7   Portuguese pt
+   217 [ -    207 =] +  10   Spanish es
+   164 [ -    159 =] +   5   Italian it
+
+etc.,etc.,etc.
+
+Total increase       + 321     All Reported Lanugages
+
+
+Thanks to Greg Newby!
+
+//////
+
+
+And From Project Gutenberg Sites Worldwide
+
+
+27,475  +   287  112008  PG General Automated Count
+ 1,723  +     6  111808  PG Australia
+   553  +    13  102108  PG Europe
+ 2,494  +    33  102108  PG PrePrints
+   202  +    12  110908  PG Canada  [Estimated]
+======
+32,447  +   349  by various automated counts and
+
+newsletters
+
+
+Note  Without counting PrePrints, we are still about 30K, and some of the new
+.lit collection will not make it under our current rules of addition from
+PrePrints, and would be deleted from PrePrints without moving to other
+listings.
+
+The 307 Chinese eBooks in PrePrints will probably go, as a team of our best
+Chinese workers says they are not worth a lot more time to work on, etc.
+
+Note  There are perhaps 100 eBooks not listed here that are already in
+circulation from Project Gutenberg.
+
+Note  PG Canada includes English, French, and Italian.
+
+
+
+
+
+Here is how we ended 2007
+
+The combined PG projects had produced a total of 26,161
+
+titles.
+
+
+The most number of books posted...
+  ...in one day was 65 on the 26th December
+  ...in one week was 151 in Week 18 (week ending 9th May)
+  ...in one month was 477 in November
+
+We averaged
+338 per month [Over 4,000 for the year]
+  78 per week
+  11.13 per day
+
+99 titles were newly REposted to the new filing system,
+
+bringing us almost to the 2,000 mark.
+
+
+Here is a small selection of project milestones;
+
+TOTAL Original Project Gutenberg eBooks equals about the number of books in
+the average U.S. public library
+
+   32,500 on 20082121 [Counting the 307 Chinese Preprints]
+                      [And presuming 3 after official count]
+   32,000 on Calcuating
+   31,500 on 20081021 [not an error, 1,777 PrePrints]
+   30,000 on 20081021
+   29,500 on 20080919
+   29,000 ~~ Calculating
+   28,500 ~~ Calculating
+   28,000 ~~ 20080516
+   27,500 on 20080405
+   27,000 ~~ 20080229
+   26,500 on 20080126
+   26,000 on 20071224
+   25,000 on 20071012
+   24,000 on 20070710
+   23,000 on 20070415
+
+PG-AU
+   1,700 on 20081010
+   1,600 on 20080208
+   1,500 on 20070407
+
+PG Canada
+   175 on 20080930
+   100 on 20080325
+   110 on 20080417
+
+
+
+
+**********************************************_
+gmonthly mailing list
+gmonthly@lists.pglaf.org
+http://lists.pglaf.org/listinfo.cgi/gmonthly
+</pre>
+
+<a href="/nl_archives/2008/pgmonthly_2008_12_21.txt" target="_blank" rel="nofollow">pgmonthly_2008_12_21.txt</a>

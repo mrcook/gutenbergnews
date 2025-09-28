@@ -1,0 +1,1191 @@
+---
+params:
+  id: 1937
+title: "PG Other Newsletter: Project Gutenberg Needs You Part 2 (2003-04-15)"
+date: 2003-04-15T18:31:32+00:00
+author: Michael Cook
+layout: post
+url: /20030415/pg-other-newsletter-2003-04-15-project-gutenberg-needs-you-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Tue Apr 15 20:20:42 2003
+Date: Tue, 15 Apr 2003 12:47:16 -0400 (EDT)
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+Subject: [gmonthly] Project Gutenberg Needs You! [Long]
+To: Project Gutenberg Monthly Newsletter &lt;gmonthly@listserv.unc.edu&gt;
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+X-Message-Id: &lt;Pine.GSO.4.51.0304151245580.28225@beryl.ils.unc.edu&gt;
+List-Owner: &lt;mailto:owner-gmonthly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gmonthly@listserv.unc.edu&gt;
+List-Id: Project Gutenberg Monthly Newsletter &lt;gmonthly.listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+
+
+***Project Gutenberg Request for Support for April 15, 2003***
+
+ [This is a blatant request for support of Project Gutenberg
+ Please delete it and accept our apology if not interested!]
+
+
+               WE   NEED   YOUR   HELP   !!!
+
+               [Our Top Ten Requests At End]
+
+This year we hope to reach our initial goals of making 10,000
+eBooks and giving them to 100,000,000 people around the world
+for a total of 1,000,000,000,000 = 1 Trillion eBook copies!!!
+
+At the moment we are averaging just over 60 eBooks per week =
+just over 250 per month, but we need to average 77 per week =
+just over 300 per month if we are going to keep up our growth
+rate we have established since we had 10 eBooks in 1990.
+
+    This will require an additional 15 eBooks per week.
+
+We have made it easier and easier for you to help us, and now
+you can proofread a page or two any time you have a moment at
+Distributed Proofreaders.
+
+***
+
+WE also need ISP support for Project Gutenberg of Australia--
+if you know any sites down under that have high bandwidth, as
+well as needing a few sites for PG of the US that have 24 hrs
+of very wide symmetric bandwidth [more than DSL or cable].
+
+As we reach for Project Gutenberg eBook #10,000. . .
+
+Please help us reach more readers. . .send us email addresses
+for anyone you know in the media. . .if no email address then
+web addresses, snailmail, phone numbers, etc!!!
+
+Thank you so much!  MUCH MORE IS BELOW!!!
+
+
+*It Has Been Six Months Since Our Last Such Request Last Fall*
+
+!!!Since that time we have moved from 6,000 eBooks to 7,650!!!
+
+
+     And, WITH YOUR HELP, we want to try to make Project
+     Gutenberg's eBook 10,000 by the end of this year!!!
+
+We have 2 super-scanners in production, and they are hungry!
+Help us find new books for scanning, and to proofread the
+pages we already have scanned.
+
+Contact
+http://texts01.archive.org/dp
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you
+can help, even by scanning just one page per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy to work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We now also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful
+if you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+We ask you to keep an eye out at the garage sales & library sales
+for inexpensive public domain books.
+
+***
+
+Our current track record:
+Year Books
+2001 1240
+2002 2441
+2003 3000+
+to reach our goal of 10,000 eBooks by Dec. 31, 2003!
+
+
+     *****WE NEED YOUR SUPPORT*****
+
+Why Should *YOU* Support Project Gutenberg?
+
+Because The Work of Project Gutenberg is:
+
+1.  Permanent
+2.  Free
+3.  Available
+4.  Useful
+5.  Enlightening
+6.  Growing
+
+and, best of all
+
+7.  Yours!
+
+[Details below on these 7 points]
+
+This is a LONG message. . .we have been writing and rewriting
+it as a major project for several months. . .more hours than
+you would probably like to imagine. . . .
+
+If you want to cut to the chase and donate right away. . .
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our NEW mailing address:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+***
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+International donations are gratefully accepted, but we know NOTHING
+about whether or not they are deductible. . . .
+
+***
+
+Project Gutenberg has been producing 268 eBooks/month, 3200+/year.
+
+It was only 7 years ago that we managed our first 100 Etext year.
+Our volunteers produced 2,650 eBooks in the past 12 months, and
+our next major goal is to reach 10,000 eBooks by the end of 2003!
+
+
+Lots of important news for those who read all the way thru.
+
+
+       We Have Made It Much Easier To Volunteer
+
+         http://promo.net/pg/volunteer.html
+
+
+   We Have Made It Much Easier To Donate [More Below]
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+[Also sometimes referred to as a "federal tax id number."]
+
+Currently we are in sort of a Catch-22 fundraising situation.
+We are registered in most of the 50 states, with paperwork
+in to get to all of them, but we don't have enough money
+to reregister in all states. . .and the stack of paperwork
+for these is literally as large as the person handling them.
+
+The biggest part of this kind of Catch-22 situation is that
+we are aware of at least one state that would fine us up to
+$2,000 if we don't keep our registrations up to date.  You
+can understand the terrible price we pay if we don't raise
+enough money to even pay for all the legal paperwork and
+registrations, we lose far more than what we might be able
+to raise in that state.
+
+The trustees of the Project Gutenberg Literary Archive Foundation
+have told me that they have seen reputable reports that the cost
+of complying with the laws of all 50 states runs approximately
+$25,000 a year for small organizations and can go much higher
+for larger organizations.  There are many fees associated with
+compliance, such as renewal registration fees, the cost of an
+audit by a CPA which some states require and fees for registered
+agent services required in some states.
+
+Obviously, we did the easiest and least expensive states first,
+but some are the most difficult and expensive states are key states
+with large populations that we need to reach.
+
+None of our trustees have the time to do all this by themselves,
+so we also have to pay for a 1/4 time assistant, even though our
+trustees do serve pro bono.  Please note that we are in the process
+of incorporating, so most Trustees will be on the Board of Directors.
+
+We are unsure how states where we are not registered would view
+appearances on national shows, such as Oprah, Regis, Letterman and Leno.
+If they viewed these efforts as fundraising in their states, it could
+cause serious problems.  So we are in even more of a Catch-22 than it
+might appear at first, until we are registered in all 50 states,
+and the District of Columbia.
+
+We are expecting to have approximately 10,000 eBooks online by the
+end of next year, with nearly 2,000 volunteers whom we would like
+to provide more support for in the areas of copyright research,
+book finding, scanning, proofreading, etc.  Currently every one
+of the Project Gutenberg sites around the world is operated by
+a volunteer who provides all the disk space, bandwidth, etc.,
+and we would love to buy our own drives for at least the two
+major US sites on which we initially post our eBooks.
+
+***
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541,
+and has been approved as a 501(c)(3) organization by the US Internal
+Revenue Service (IRS).  Donations are tax-deductible to the maximum
+extent permitted by law.  As the requirements for other states are met,
+additions to this list will be made and fund raising will begin in the
+additional states.
+
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+***
+
+
+First a few lines of comment on each of these topics,
+then a more detailed explanation.
+
+
+1.  Permanent
+
+Unlike the usual character of the Internet and the World Wide Web,
+television and radio, or most other modern media production outlets,
+Project Gutenberg is a landmark. . .a permanent feature of the Net
+. . .since before anyone had coined the term "Internet". . .since
+before the World Wide Web. . .
+
+The Project Gutenberg Literary Archive Foundation was founded to
+ensure the continued existence and viability of our mission for
+more decades, or even centuries into the future. . .with your help."
+
+2.  Free
+
+There are no hidden costs to use Project Gutenberg, no hardware
+or software requirements. . .nearly every computer comes with a
+wide variety of ways to receive, save, read and search our eBooks.
+
+
+3.  Available
+
+Project Gutenberg makes eBooks available in the easiest formats
+to read, search, quote, etc. . .this is particularly important
+to the visually impaired who use various programs to read aloud.
+
+Contrary to the policies of most eBook operations, Project
+Gutenberg encourages EVERYONE to download our eBooks and to
+make them available to the public at large. . .worldwide,
+with only a few words of warning not to violate local laws
+concerning various copyrighted or trademarked materials we
+include in our collection.  Most sites actively discourage
+reposting of their files because they want all the hits.
+
+Because of our unusual free access policy, volunteers have
+created mirror sites in wide varieties of regions, including
+every continent in the world, even Antarctica. . .to insure
+everyone has easy access.  Within the last year or two, new
+PG sites are up in Greece, Turkey, Bulgaria, and Hungary,
+in addition to more sites in the United States and Canada.
+
+"There is no end to the great things we can accomplish
+if we don't worry about who gets the credit."  Anonymous
+
+We don't care about getting the credit, we just want to
+do the work.
+
+
+4.  Useful
+
+Students and scholars all over the world use Project Gutenberg
+eBooks to search, research, and just plain read for fun.  As a
+wider variety of screens become available, with an increasing
+number of colors, more and more people are reading full books
+on their computers, laptops, and palmtops.  In addition, Project
+Gutenberg eBooks are wonderfully flexible for visually impaired
+readers, and are easily readable by the text-to-speech software
+used by many who cannot read at all.  More and more libraries
+are now including Project Gutenberg eBooks in their collections.
+
+
+5.  Enlightening
+
+We are making a great effort to include every language we can
+in our collection, and are hoping to include the classic books
+from every culture within each language.  Project Gutenberg is
+hoping to indeed be "A Window On The World."  We are hoping to
+add a new language several times per year, so please make sure
+we add something in YOUR language[s].
+
+
+6.  Growing
+
+
+We used to talk about Project Gutenberg as a kind of "book of the
+month" production system. . .but now you would have to buy a whole
+new bookshelf each and every month to hold all the paper editions
+we present *OR* just add one new CDROM. . .hee hee!!!
+
+
+7.  Yours
+
+These books are yours, permanently. . . .
+
+When you get a Project Gutenberg eBook, you have not checked it out,
+licenced it, rented it, borrowed it, or any other temporary idiom.
+You can quote them in any way you like, school papers, research,
+books YOU may write. . .without limitation, other than on the 1%
+of them that are copyrighted works, but you can still give those
+away to anyone you like.
+
+These books are YOURS. . .as many copies as you want. . .
+any time you want. . .any place you want. . .
+and they don't take up any space. . .
+it's *literally* any *place* you want.
+
+As a volunteer, these books are even more intimately yours, as we try
+very hard to encourage our volunteers to do their own favorite books,
+in their own languages, in their own good time. . .we don't put anyone
+on a schedule. . . .
+
+
+Here are the details. . . .
+
+
+1.  The Work of Project Gutenberg is Permanent.
+
+The major difference between the products of Project Gutenberg
+and those of other non-profit organizations such as PBS, NPR, etc.,
+is that even now in its 32nd year, our original Etext of the U. S.
+Declaration of Independence is downloaded by more people every year
+than in any previous year of the history of the Internet.  When you
+support Project Gutenberg, your support is seen permanently.  Your
+contributions will be online for everyone to see from the moment of
+the Newsletter announcements and will be listed in all the major
+search engines and catalogs on the Internet.
+
+You won't find TV showing all the shows from 30 years ago. . .but
+the Project Gutenberg eBooks are there forever.  We update format
+types from time to time, and correct errors, but when your family
+reads any of our eBooks now, we want you to know you will be able
+to find it again generations down the road.  We already have people
+getting married and starting families of their own, who read Alice
+from Project Gutenberg when they weren't even teenagers yet. . .and
+their kids are growing up with the same traditions.
+
+This is quite different from the way most Internet sites exist as a
+day to day phenomenon, whereas we are planning on Project Gutenberg
+eBooks being available as long as there IS an Internet.
+
+When you buy CDROMs of most eBooks you get something that requires a
+certain operating system, and even a certain version of it, usually
+one that likely will be incompatible with the next version or the one
+after that. . .and then you have to go out and buy another version.
+That's where the big difference lies between Project Gutenberg eBook
+and nearly every other kind you can get. . .you can still copy books
+from Project Gutenberg onto your floppies, carry them to nearly any
+computer, and read them with minimal effort, no installation needed.
+
+
+2.  The Work of Project Gutenberg is Free.
+
+Because no installation is needed, these eBooks ARE free. . .there is
+no particular brand of hardware or software you need to buy to read a
+Project Gutenberg eBook. . .you don't even have to download a browser
+. . .whether it is free or not. . . .  Virtually every computer there
+is in the world can read these eBooks just the way it comes, and that
+is the point of our existence. . . .
+
+We want EVERYONE, EVERYWHERE, EVERYWHEN to have free access to such a
+library of classics in EVERY LANGUAGE.
+
+7,650 Project Gutenberg titles are now available, and end users are
+never charged a penny by Project Gutenberg for them.  All the eBooks
+are done by our volunteers.  All the sites are run by volunteers.
+
+
+3.  The Work of Project Gutenberg is Available.
+
+The Project Gutenberg eBooks are available from servers on all continents.
+We hope to the number of servers will continually increase, and eventually
+hope to have servers not just on every continent, but in every region,
+and then in every country.  New sites are now in Greece, Turkey, Bulgaria,
+and several others.  With 3 billion computers already around the world,
+and used ones available at garage sales for $5, pretty much anyone who
+really wants to read eBooks and has electricity can do it.  I should add
+that we are aware that 60% of the world's population has never made a
+phone call. . .which is one reason we promote the giving away of our
+eBooks on disks. . .we were receiving letters from around the world
+from people who had received our eBooks on disk years before the
+Internet actually circled the globe.
+
+Our eBooks are actually available for download from several satellites.
+
+
+4.  The Work of Project Gutenberg is Useful.
+
+Looking up something in any of our books takes less time that it would to
+walk over to your own bookcase and find it in your own book.  Quoting the
+material is even faster.  The Complete Works of Shakespeare could be used
+for a search that would take literally seconds.  We also have very complete
+editions of Charles Dickens and Robert Louis Stevenson, so complete that
+they have been listed in library journals as the most complete available
+to the public in the entire world.  [I don't know if there are privately
+owned collections that have more.  But the whole point is that anyone can
+add our entire collection to theirs with no effort.]
+
+We make our eBooks available in plain formats that virtually all programs
+can read, quote, edit, search, etc.  Thus our readers use a wider variety
+of computers and programs, at their own discretion, and budget, to read a
+wide variety of eBooks.  This is a very important aspect of our work. . .
+to make eBooks available to everyone. . .and to let them read it in their
+own favorite programs, in their own favorite fonts, to search with search
+engines of all varieties, not just those designed to parse through markup
+systems of a particular variety.  We also provide conversions into markup
+formats for many of these.  These are not trivially created by programmed
+output only, but are the creations of days of work by our volunteers.  In
+addition, the plain text versions are great for our blind readers who use
+programs to read aloud to them.
+
+
+5.  The Work of Project Gutenberg is Enlightening.
+
+My hope is that the work of Project Gutenberg will finally allow access
+to the information and literature of the entire world to the entire world.
+
+"Of The People, By The People, For The People". . .says it pretty well.
+
+Hopefully you will include yourself as one of "These People."
+
+
+6.  Project Gutenberg Is Growing
+
+
+Project Gutenberg is now producing 268 eBooks/month, 3200/year.
+It was only 6 years ago that we managed our first 100 eBook year.
+Our volunteers produced 2650 eBooks in the past 12 months, and
+we hope reach a total of 10,000 as quickly as possible, perhaps
+even by the end of this year, only 7 months from now. . . .
+
+Not only is Project Gutenberg growing, but our audience is growing
+as well, and even more quickly.  Our Sites Coordinator just told me
+that half the people reading our books are new over the past 18 months.
+This is not uncommon among brand new enterprises, but when you realize
+this is our 32nd year, such growth is truly. . .no hyperbole. . . . .
+
+PHENOMENAL!
+
+
+Here is a brief history of our growth rate:
+
+Here is brief timeline from the 1st Etext in 1971
+to the current production of #7600.
+
+1 per year in 1971-1979 completed the first 9 Etexts
+which were mostly a "History of Western Democracy"
+
+&gt;From 1980-1990 the first Bible and Shakespeare were completed,
+but due to the new copyright extensions, the Shakespeare is
+still not able to be released.  Thus the total was 10 Etexts.
+[Counting all of Shakespeare and The Bible as 1 Etext each.]
+[This particular edition of Shakespeare is still copyrighted,
+even now, 20 years later, due to TWO copyright extensions in
+the 31 year history of Project Gutenberg, which have removed
+two million books from the list we could put online.
+
+eBooks per month per year
+
+ 1  in 1991 We released The Bible as #10.
+ 2  in 1992
+ 4  in 1993
+ 8  in 1994 We released The Complete Shakespeare as #100.
+16  in 1995
+32  in 1996
+32  in 1997 [we lost our funding for that year, and barely survived]
+36  in 1998 [kept this schedule for first half and then in second half
+            we completed two months during each month for 72 per month]
+36  in 1999 [is our official schedule, we are now about 8 months ahead,
+            but, as luck would have it, on the day the muse struck to
+            write this article, I learned that our funding is again lost.]
+40  in 2000 [I was never personally comfortable doing over 30 per month,
+50  in 2001 so this is when I started planning all the delegating of today]
+100 in 2001 [Starting on our 30th Anniversay, and we thought we would NEVER
+            be able to do this many, so it would bring us back on schedule,
+            but so far, only three months later, we have. . .so who knows.]
+            [Note added in January, 2002, we managed to do 1240 in 2001, so
+            we did somehow manage to average 100 per month--who knows how.]
+200 in 2002 We started 2002 with an incredible 200 eBooks per month,
+            and managed to increase that to 203 by the end of the year.
+
+300 in 2003 That's what we need, and are currently averaging about 268.
+
+
+THAT'S WHY WE NEED ***YOU***!!!
+
+Here are some highlights:
+
+####  Date  Title
+
+   1  1971  The U.S. Declaration of Independence [July 4, 1971]
+  10  1990  The King James Bible
+ 100  1994  The Complete Works of William Shakespeare [December 10, 1993]
+1000  1997  Dante's Divine Comedy, In Italian[September 1, 1997]
+2000  1999  Don Quixote, In Spanish [April 23, 1999]
+3000  2000  A L'Ombre Des Jeunes Filles en Fleurs V3 by Proust, In French
+4000  2001  The Complete Works of "The French Immortals", In English
+5000  2002  The Notebooks of Leonardo da Vinci, In English [April 10, 2002]
+6000  2002  Our First Polish eBook "Ironia Pozorow" [September, 2002]
+7000  2003  January 31, and 7500 on March 29!
+
+[Now that we can officially say we have "thousands" of these
+eBooks online, we should prepare to create an institution of
+support for Project Gutenberg that will hopefully carry this
+project into, and at least part of the way through, the next
+millennium. . .your help could be invaluable. . .more below]
+
+We Have Made It Much Easier To Volunteer, see promo.net/pg!!
+
+[There is a brand new set of web pages for our volunteers so
+please help us with any suggestions and/or corrections, your
+help in making this page serve our volunteers is appreciated
+more than you might imagine. . .this page could become a big
+foundation for our future volunteers; we are ALL volunteers]
+
+***
+
+Do We Provide Access to A Trillion Dollars Of Etext Yet?!?!?
+
+Yes, if we manage to get the average one of our 7,600 eBooks
+to 1.6% of the world's population, using a nominal value of
+$1.31 as a street value of the average one of our books:
+our population has passed 6.3 billion about the same time
+we released Project Gutenberg eBook #7500.
+
+Next year, as the population grows, this percentage should
+fall into the 1.5x% range; and as the population should be
+leveling out just before we reach 10 billion:  this figure
+may never quite reach 1% = 100 million people.
+
+OK. . .enough math. . .!!!
+
+;-)
+
+***
+
+The major purpose of Project Gutenberg is to encourage great
+and small efforts towards the creation and distribution of a
+library of eBooks for unlimited distribution worldwide.  Our
+goal is to encourage the creation and distribution of Etext.
+
+What about the original goal set 30 years ago?
+
+This goal may have already been accomplished. . .though many
+of the 20,000 files are still very much Limited Distribution
+items, and we are hoping to see these posted in more places,
+on more sites, for greater and greater public access.  These
+will hopefully all be posted on Project Gutenberg sites some
+time in the not too distant future, we are discussing this a
+lot with the other eBook makers.  Creating a liaison between
+all the eBook makers is one of our major goals right now.
+
+There are currently over 20,000 eBooks listed in the indices
+of the Internet Public Library, and, as usual between 20-25%
+of them are from Project Gutenberg.
+
+We should raise money to hire a copyright lawyer for this to
+help us work on copyright research for many of the eBooks of
+"unknown origin" that we can't republish yet.
+
+***
+
+If we are going to continue on past the first goal of 10,000 eBook
+titles, then we are going to need some Big Time Public Relations--
+and some Big Time fundraising. . .here's why. . . .
+
+1.  Getting the eBooks to twice as many people is just as important
+as creating twice as many eBooks. . .but without MAJOR publicity it
+is not likely to happen. . .we constantly get messages from readers
+who tell us they have been LOOKING for eBooks for years, but barely
+now have FINALLY found Project Gutenberg.  This means we cannot get
+to a major part of our audience with the kind of publicity we have,
+we need something more. . . .  For example, we were the first in an
+entirely new column:  "People To Watch" in TIME magazine, but there
+were less than a dozen emails Project Gutenberg received from these
+very kind words. . .what we really need is to get on Oprah Winfrey,
+and hopefully add something to her book club.  Those of you on AOL,
+perhaps you could email the show and request they invite us, and do
+the same for Letterman, Leno, Rosie, Regis and all the others.
+
+We should undoubtedly also try the other talk shows, and "magazine"
+shows, etc.  All the press we receive is from them contacting us, I
+have had no luck "generating" publicity. . .which seems to be easy,
+for those who have the knack. . .it's just not MY knack. . .help!!!
+
+We really need to find some Public Relations help!!!
+
+
+2.  However, running this great group of volunteers to generate the
+more than 2,500 new eBooks over the recently past eleven months has
+been something that is a knack I have. . .and it hasn't cost a very
+large amount of money to do this:  otherwise you wouldn't know that
+we exist. . .BUT running a group of 10,000 volunteers to create the
+1,000,000 eBooks that may possibly be a next step, will NOT be easy
+--even for people with a knack for it.  It would require more phone
+lines and/or calls than even the Project Gutenberg Literary Archive
+Foundation could presently afford. . .and more email than I can do,
+on my own. . .SO we either need volunteers to help coordinate, or--
+the possibility looms that we should actually HIRE people. . . .
+
+Even if we have more volunteers to help, the Foundation needs to
+actually hire some people to assure a basic level of continuous
+coordination and support for volunteers, especially as the number
+of volunteers increases.
+
+When I first started Project Gutenberg in 1971, I was sure I should
+be able to find someone else to replace me, as it did not cost real
+money or take real time to run. . .but for the last 10 years it has
+taken just about all the time I have, including what I would need a
+lot more of to have a personal life. . .and I would LIKE to have an
+expectation that Project Gutenberg would survive at least 10 years,
+after I am gone, and hopefully 100, and if I really dream, 1,000!!!
+
+So. . .if you are willing and able to help us with these or in some
+related manner, PLEASE LET ME KNOW. . . .
+
+
+***
+
+
+Contents
+
+
+Overview
+
+0.
+eBooks in Various Languages
+
+1.
+Copyright
+
+2.
+Scanning and Typing
+
+3.
+Proofreading
+
+4.
+FTP and WWW Sites
+
+5.
+Donations
+
+6.
+Raiders of the Lost Archives
+
+7.
+Special Requests
+
+8.
+Programming
+
+9.
+New eBooks Needing Proofreading
+
+
+
+Followed By More Detailed Information On Most Of These Subjects
+
+
+*******
+
+0.
+eBooks in Various Languages
+
+As you may be aware, this last year we have greatly expanded our
+output of eBooks in languages other than English, including:
+
+
+1.  English
+2.  Latin
+3.  French
+4.  Italian
+5.  German
+6.  Spanish
+7.  Chinese
+8.  Japanese
+9.  Swedish
+10. Danish
+11. DNA/ATGC
+12. Welsh
+13. Portuguese
+14. Old Dutch [pre 1949]
+15. Bulgarian
+16. Dutch/Flemish
+17. Greek
+18. Hebrew
+19. Polish
+20. Finnish
+21. Old French*
+22  Russian*
+23. Romanian*
+24. Hawaiian*
+[Those with an * are still in need of more help]
+
+eBook Languages
+alphabetically:
+
+1.  Bulgarian
+2.  Chinese
+3.  Danish
+4.  DNA/ATGC
+5.  Dutch
+6.  English
+7.  Finnish
+8.  Flemish
+9.  French
+10. German
+11. Greek
+12. Hebrew
+13. Italian
+14. Japanese
+15. Latin
+16. Polish
+17. Portugese
+18. Spanish
+19. Swedish
+20. Welsh
+
+***
+
+The Distributed Proofreaders work in a variety of languages.
+
+Also, we have just purchased and installed TWO new super-scanners
+for the Distributed Proofreaders (http://charlz.dns2go.com/gutenberg)
+so we can scan more books.  We will also help with copyright research.
+
+*
+
+1.
+Copyright
+
+Project Gutenberg will do copyright research for you if you send us
+xeroxes of the title page [both sides, even if one side is blank.]
+[We will do this even for people working on other eBook projects.]
+[This can now be done by sending us scans as email attachments!!!]
+
+We need people to hunt through libraries or bookstores for editions
+that we can use to legally prepare our Electronic Texts [Etexts.]
+
+We will help you do the copyright research for your chosen books,
+the laws are changing, perhaps even in the next few weeks, so I am
+not including anything specific at the moment.  We try to keep lists
+of copyright laws around the world, so please help us keep up to date
+when you hear of any changes.
+
+For more information on copyright, and to send us scans of
+the title pages and versos of your books, please visit:
+http://beryl.ils.unc.edu/copy.html
+
+
+2.
+Scanning and Typing
+
+Once we have located some proper edition[s], then our volunteers do
+the books by scanning or typing them into the computer.  Usually it
+is the same person who does the proofreading, but not necessarily.
+
+
+If you would like to help us make eBooks available in the future,
+please contact the following:
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+Brett Fishburne &lt;william.fishburne@verizon.net&gt;
+Jim Tinsley &lt;jtinsley@pobox.com&gt;
+with a cc: to me at hart@pobox.com
+
+
+3.
+Proofreading
+
+We have a variety of ways for you to help with Project Gutenberg.
+
+Often the only way for many of our volunteers to work on eBooks for
+us is if they can ship their book to one of us, have it scanned in
+and then returned to them for proofreading.
+
+If you could do the scanning for them, it would help us immensely.
+
+
+4.
+FTP and WWW Sites
+
+If you have a high-bandwidth server and would like to make
+the Project Gutenberg collection available to people in your
+region, please view details here:
+        http://ibiblio.org/gutenberg/mirror-howto.txt
+
+We are always in search of more FTP and World Wide Web sites, so an
+increasing number of people can download our books without unusual,
+even often fatal, delays and glitches in transmission.
+
+If you, or someone you know, can spare gigabytes on their servers,
+please have them contact us about creating more mirror sites.  This
+is a particular need for countries south of the equator, where text
+files are only available on one server that we know of.  If you can
+help us get our books into South America, Africa, and further, this
+would be a great help.  We have something restarted in New Zealand,
+with extensions into Australia, but the load this server can handle
+is probably going to be easily exhausted.
+
+Some local research is required to find out what copyright laws and
+other regulations that must be satisfied to operate such servers.
+
+
+5.
+Donations
+
+Project Gutenberg is almost completely dependent on your donations.
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+Anything you can do in these states would be greatly appreciated,
+since we are at this juncture, helping us get more Public Relations
+coverage of our just released 7,500th eBook.
+
+As I said, anything would be greatly appreciated.  This SHOULD BE a
+great time to get some PR. . .but it still appears, even though the
+project has been written up probably about 300 times, that they are
+going to write us up when THEY have a reason to rather than when WE
+have a reason, and we feel it is now time to try to break out of an
+entirely too limiting niche in the computer oriented media, and get
+some more general publicity out there to the millions of people who
+aren't computer oriented at all, but will would like to receive the
+eBooks for education or entertainment.  This is a majority of world
+population centers, and we should do more to reach them.
+
+If you have any "ins" in the press or with the corporate world, this
+would be a good time to use them.
+
+
+6.
+Raiders of the Lost Archives
+
+As you may be aware from several events of a month ago, and earlier,
+there is a downside to having eBook archives in limited distribution
+modalities, simply because if one site, or one person, or even whole
+countries, change their minds about what they are going to archive--
+then the whole world loses access to those files.
+
+A good example was the loss of The Oxford Book of English Verse from
+Project Bartleby.  We have taken great pains to get this book, which
+is undoubtedly important, back on the Net.  If you want to see which
+sites have lost this file, just do a Yahoo search for the book, then
+count the vast number of sites that have blank entries for the book,
+once it was deleted from a multiplicity of links; this is an example
+of how important it is for eBooks to be posted on many sites, rather
+than just one site will many links to it!!!
+
+We need volunteers who will search the world for every possible book
+and help us preserve it.
+
+Project Gutenberg will not release any of this material until we can
+do the copyright research and prove it belongs in the Public Domain.
+
+We realize that many of our volunteers sometimes get frustrated that
+we do this research, which possibly takes half our time, but it will
+become more and more apparent why this is a good policy as copyright
+laws become stiffer and stiffer, and world intellectual property can
+be limited in greater and great ways.  It is quite likely that it is
+going to be some time in the next calendar year that a United States
+law killing off another 20 years of public domain in the US will get
+passed, to join the countries listed above, in eliminating a million
+books from potentially being posted as eBooks, even though 99% are a
+dead issue, out of print for decades. . . .
+
+[It did pass.  October 27, 1998 - the U.S. went from life plus 50 to
+life plus 70 for works created after 1/1/78, and from 75 to 95 years
+for many works published before 1978. . .but this doesn't change the
+items that had already entered the public domain in the US, unlike a
+reversion from public domain status to copyright status in countries
+in the European Union and other locales.  Thus, the US copyright for
+most works still cuts in at 1923. . .and this is scheduled to stay a
+cutoff date until around 2020.]
+
+So the rule of thumb we use most is that anything pre-1923 is ok.
+
+
+7.
+Special Requests
+
+We occasionally receive scanned material which could have benefitted from
+more cleanup before it was sent to us. What we need is proofers with
+patience to read through an eBook and take out stray letters, clean up the
+punctuation, and send a list of questionable lines to the person who
+scanned it so they can send corrections to be inserted. This usually takes
+a couple of weeks, and is a good short-term project for folks who want to
+get their feet wet with Project Gutenberg.
+
+8.
+Programming
+
+Due to the various formats in which we receive many of our eBooks,
+we need some assistance in writing Perl scripts, sh scripts, or an
+assortment of other scripts that will assist our proofreaders, and
+our editors, in dealing with page numbers, markups, italics and an
+assortment of other formatting issue that come up time to time.
+
+Most of these are fairly trivial and can be solved with a one line
+script for each of the particular situations and we just need some
+people to either run the scripts we already have, or to write some
+new ones from time to time when a particularly rough eBook version
+arrives at our doorstep.  These scripts, which take minutes to set
+up, and seconds to run, can save HOURS of proofreaders' time.  You
+can be a BIG help just running some of these scripts for us, or in
+writing or rewriting some of them on occasion.
+
+***
+
+More Detailed Information
+
+1.
+Copyright
+
+Copyright Extension Is Also Happening in the United States
+
+Since Project Gutenberg began in 1971, millions of copyrights in
+the US should have expired, but have been prevented from expiring
+by various political action groups.
+
+
+
+2.
+Scanning and Typing
+
+We don't really want to get into a public recommendation about what
+scanners and OCR [Optical Character Recognition] programs work best
+. . .it is really the case that some do better on some books, while
+others do better on other fonts, page coloration, etc.
+
+However, we ARE willing to share our experience if you ask.
+
+
+3.
+Proofreading
+
+Our official accuracy level that we try to maintain has been 99.9%,
+for our first release, which is usually raised to 99.95% before the
+vast majority of people ever see them, and this standard has been a
+standard that has been adopted by most eBook providers, including a
+new effort toward Etext by the Library of Congress and the national
+libraries of Great Britain and other countries.
+
+What we hope you realize is that any serious effort to get an eBook
+to 100% accuracy should take MORE effort than to create an entirely
+new Etext with an accuracy level of 99.9% to 99.95%.
+
+While many, even most, of the Project Gutenberg eBooks are accurate
+to an amazing degree, even more amazing when you compare then to an
+entire world of eBooks prepared by both the scholarly or commercial
+eBook enterprises, we do not feel that the additional doubling of a
+more than massive effort, to possibly reduce the errors, by another
+.02% perhaps, would have anywhere near the value of the preparation
+of an entirely new eBook with the same amount of effort.
+
+Nevertheless, even the most famous universities of the world have a
+collection of eBooks, many of which have vastly more errors than in
+our collection.  This is also true of the commercial eBooks.  Don't
+be afraid that your efforts won't be as good as all the others, the
+process of improving Project Gutenberg eBooks is never ending.
+
+In addition, there are many volunteers who would prefer to have an
+eBook or at least an author selected for them to work on.  As some
+of you already know, _I_ have been reluctant to choose for anyone,
+not wanting to bias the formation of our collection with my choice
+of what are the great books of human history.
+
+
+More on:
+
+Proofreading:  We could also use people who know how to use DIFF or
+Word's "compare" that point out differences between two files, even
+programmers that might only be able to search our files for matched
+and unmatched quotes.  [Remember that when quoting many paragraphs,
+each internal paragraph gets only an opening quote.]
+
+Our proofreading is a never-ending story. . .we run spell-checkers,
+and other varieties of programs, on our eBooks, and have real human
+proofreaders go over them in pretty incredible detail, but we would
+be remiss if we did not tell you that over 99% of the books we work
+from have their own errors, and that while we catch some of those--
+we undoubtedly introduce errors of our own, and even though we will
+gladly keep updating our editions, ad infinitum, the odds that this
+will catch ALL the errors in the near future are virtually 0%.
+
+Therefore. . .we need you to email us when you have suggestion, and
+comments, and when you find possible errors that need correction.
+
+
+4.
+FTP and WWW Sites
+
+We are willing to adjust the bandwidth on various sites by adjusting
+the publicity various sites receive, and also by asking our users to
+only use certain sites at certain times of the day or night.  So the
+drain on sites volunteering to mirror eBooks should not suffer any.
+
+Remember:
+Some local research is required to find out what copyright laws and
+other regulations must be satisfied to operate such servers.
+
+
+5.
+Donations
+
+Because of the type of tax exempt organization that the Project
+Gutenberg Literary Archive Foundation falls within, it is especially
+important that our financial support come from as wide a base as possible.
+So far, we have not received any local, regional or national grants,
+but when we do obtain such funding, it will be even more important to
+maintain broad public support as well.  To maintain our tax exempt status,
+between 10% and 34% of our financial support must come from the public.
+
+You are the backbone of our support.
+
+We could barely survive otherwise.
+
+
+6.
+Raiders of the Lost Archives
+
+We need people who can help us save eBooks that have been put online,
+but without enough information to verify they are out of copyright.
+This usually is done by comparing the first and last pages of each
+chapter to a paper edition we can be sure is out of copyright.
+
+If you can either help us find these eBooks, or their counterparts in
+pre-1923 paper editions, you can help preserve these eBooks online,
+otherwise they will are eventually likely to be deleted.
+
+*
+
+
+If you would like to volunteer, please contact:
+
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;,  United States
+John Bickers &lt;jbickers@ihug.co.nz&gt; New Zealand
+Sue Asscher &lt;asschers@bigpond.com&gt; Australia
+David Price &lt;ccx074@coventry.ac.uk&gt; England
+Brett Fishburne &lt;william.fishburne@verizon.net&gt;
+or
+Colin Choat &lt;CChoat@sanderson.net.au&gt;,
+Founder of Project Gutenberg of Australia
+
+
+We also have a Coordinator for those interested
+in German eBooks. . .Please contact:
+Mike Pullen &lt;globaltraveler5565@yahoo.com&gt;
+
+We are VERY interested in adding other languages,
+making more translations, etc.  Let me know if you
+are interested!!!
+
+
+Hopefully it has been worth your while to read this far. . .and you will take
+a moment to consider making a tax-deductible donation to Project Gutenberg.
+
+
+Well, that's all. . .except to include the address:
+
+Donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+[Sorry, legal beagles require me to put in this list each time I
+mention the request for donations.
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We can accept donation from anywhere, just can't solicit from them
+until the paperwork is completed and returned to us.
+
+My HUGE Thanks!!!
+
+Michael S. Hart
+&lt;hart@pobox.com&gt;
+Project Gutenberg
+"*Ask Dr. Internet*"
+Executive Coordinator
+"*Internet User ~#100*"
+</pre>
+
+<a href="/nl_archives/2003/other_2003_04_15_project_gutenberg_needs_you_part_2.txt" target="_blank" rel="nofollow">other_2003_04_15_project_gutenberg_needs_you_part_2.txt</a>

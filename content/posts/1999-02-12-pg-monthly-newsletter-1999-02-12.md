@@ -1,0 +1,263 @@
+---
+params:
+  id: 1783
+title: PG Monthly Newsletter (1999-02-12)
+date: 1999-02-12T20:13:33+00:00
+author: Michael Cook
+layout: post
+url: /19990212/pg-monthly-newsletter-1999-02-12/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: Gutenberg Volnteers' Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg Volunteers' List" &lt;gutvol-l@listserv.oit.unc.edu&gt;
+Date: Fri, 12 Feb 1999 11:29:40 -0600 (CST)
+
+
+This is Project Gutenberg's Volunteers' Newsletter for February, 1999
+
+We are redoing Pride and Prejudice. . .if anyone is interested in new
+work on this, please let me know. . .we could possibly use some help.
+
+We are also going to need some serious help if we are going to get to
+Don Quixote in Spanish for our Etext #2000, which is only now some 90
+Etexts away. . .and we have not had much luck in finding editions the
+copyright has obviously gone out of. . . .  We need to find editions,
+from any country, that were published before 1923. . . .
+
+***
+
+I have a bunch of books available for scanning. For
+list, please see:
+
+http://www.people.cornell.edu/pages/mdo1/scanbook.html
+
+Michael Oltz &lt;mdo1@cornell.edu&gt;
+
+***
+
+Things have gone pretty slowly since the holidays, the last 45 days
+might be first time I can remember that we have not actually made a
+number of Etexts equal to our schedule, though we are still quite a
+bit ahead of our 1999 schedule, but falling back slightly.
+
+If you have sent in xeroxes or Etexts I have not dealt with, please
+let me know. . . .
+
+***
+
+Here are the thank you notes that have arrived since the last issue
+of the Volunteers' Newsletter.
+
+*
+
+I probably wouldn't have had the opportunity to read this and be thus
+affected if it were not on the internet.  Thank you for the work you
+are doing. God bless.
+
+While I am writing I shall add that your Gutenberg Project is excellent.
+I have downloaded many books, and even managed to find time to read a few,
+and passed the books and your site location on to others.
+
+I will pass you kind words on to our volunteers!
+
+By the way, please keep up the GREAT work!  I thoroughly enjoy the
+e-texts.  And more importantly, I'm certain my children and future
+generations will reap incalculable rewards from your diligence.
+
+Bravo for this fantastic Project, like "Amanuenses" six centuries after.
+
+THANK YOU for PG invention & inventory.
+
+I was thrilled to find the volumes of material that
+have populated the web as a result of your project.
+
+Thanks for your work.  It is much appreciated.
+
+I've long enjoyed using your e-texts from way back.
+
+Project Gutenburg speaks well of yourself and your endeavors.
+
+Regards and congratulations on what you have achieved.
+
+As a literature student, I find you websites
+interesting and very helpful.
+
+I have been aware of your wonderful e-text library
+and benefitted from it on several occasions.
+
+We all congratulate you for your work on Project Gutenberg.
+
+I have used the Project Guttenberg site to read some
+great classics, and I also want to say thanks for that.
+
+Thanks not only for a great work, but also for a great idea...
+
+Congratulations for your project.
+
+What a wonderful and generious gift to share with the world!
+I am so impressed with what you are doing in creating an
+electronic public library for the world.  Thank you very
+much for being so insightful and wanting to share knowledge
+with so vast an  audience.  In a way this is probably the
+first distance learning site on the internet.
+
+With all your hard work you rightfully deserve much respect.
+Thanks and please keep up your good work.
+
+brbhan@juno.com,
+brbhan@empireone.net
+
+Your project is, in my opinion, one of the greatest ever imagined since
+the printing press, indeed! And you can be sure that over here, in France,
+your internet address is transmitted to whoever might be interested.
+
+Thanks for your GREAT site!
+
+I read the Wired article about PG and your work and you have truly
+inspired me to look at the world in a completely new way. The work
+you are doing will probably revolutionise the world.  Keep up the
+excellent work!
+
+I am very glad that you have created such an incredible project.
+Your online resources and your promotion of literacy is invaluable.
+
+In the meantime... I offer my congratulations and
+encouragement for your wonderful enterprise.
+
+Thanks very much for Project Gutenberg, a terrific effort
+in IMHO one of the nicer things the internet can offer.
+
+First allow me to express my appreciation for the excellent
+work which you and your various teams are performing.
+
+Finally!  The site I have been waiting for!   Wonderful!
+
+I read the Wired profile of your great Gutenberg work, and I want to
+congratulate you and offer my encouragement and appreciation.
+
+I wanted to say that I've enjoyed a number of the texts that you've
+posted at Project Gutenberg, and I look forward to seeing more.
+
+I recently learned about Project Gutenberg and wrote to you on October 29
+for information on downloading.  You replied on October 30.  I have now
+downloaded three titles and plan to increase my library.  I think your site
+is incredible.  I've been telling everyone I know about it.
+
+Recently, I came across promo.net. I think what the Gutenberg project is
+doing is nothing less than spectacular. Preserving the world's literature,
+I'm sure, is quite the accomplishment. Good job and thank you.
+
+I would also like to thank you for the work you are coordinating here.
+I feel that this is a very worthy project and believe deeply in the
+freedom of information; as well as giving greater access to great works
+and valuable literature.
+
+Keep up the good work!!
+
+Thank you for making these texts available to me...I have been looking for the
+book "The Mansion" by Henry Van Dyke...and someone e=mailed me that I could
+find it here and so much more.  You have done a wonderful service.
+I can't wait to have time to look through all those wonderful books.
+
+I am sure that you get a lot of response from the users of your web site.
+I only want to recap what I am sure the majority of your respondents
+communicate. I love your concept and the materials that you provide
+to the world.
+
+After seeing all these copyright statements on these HTML books, I
+have a greater appreciation for what Project Gutenberg is trying to
+accomplish. I wonder what part of "Public Domain" they don't understand.
+
+I recently visited Project Putenberg, and I was really interested.
+I am very fond of reading books, especially the classics.
+
+Congratulations, it is a great public service web page.
+
+For many years I have admired the efforts of all the volunteers of Project
+Gutenberg, to offer to anyone with an interest in reading, FREE books in
+digital format. Actually, you offer more than free books --you offer
+accessibility to otherwise hard-to-be-found material.
+
+Keep up the good work there.  I admire your ambitious undertaking.
+
+I should tell you: in the last two days I've been approached by several
+people who have already read selections from your collection and are
+delighted to have access.  Yours is a good mission! [From a new site]
+
+Thanks a million and keep up the good work!!!
+I spent some very enjoyable hours reading from your website.
+
+I am  writing you as a result of my recent delighted
+exposure to the Project Gutenberg sites on the internet.
+
+Came across Project Gutenberg. I must say, you have a
+great looking website and an excellent thing going on here!
+
+I want to say that I recently was introduced to your project and the
+related web sites by a friend who works in the head trauma/special needs
+environment.  I was impressed by the collection you have amassed and to
+my surprise I was given privilege to hear the text spoken with some
+software that translated the etext.  It truly was a revelation for me.
+
+I just read about your Project in Biblio's recent article about etexts
+and am captivated by what you have done.  Have subscribed to your newsletter.
+Just want to thank you for this phenomenal resource I am only just beginning
+to mine.  [Mine is a Web term for getting value from the Internet]
+
+Congratulations for the very interesting
+and important work that you are all doing.
+
+Thanks for your continued efforts!
+
+I am very grateful for the e-texts that Project Gutenberg has made available.
+Thank you for making information and literature available on the Internet.
+
+I read about your work with project gutenburg in wired.
+I've always been a great fan of getting literature and books on the web.
+I think your efforts are magnificent and should be continued.
+Thanks for all your hard work, hopefully someday people will
+understand the importance of this.
+
+
+***
+
+I hope you will add my own thanks to the list
+
+
+Michael
+
+
+=============================================
+
+Michael S. Hart, Professor of Electronic Text
+Benedictine University [Illinois Benedictine]
+Carnegie Mellon University Visiting Scientist
+
+Executive Director of Project Gutenberg Etext
+Post Office Box 2782, Champaign IL 61825-3231
+No official connection to U of Illinois--UIUC
+Permanent Internet Address!!!  hart@pobox.com
+
+Internet User Number 100 [approximately] [TM]
+One of the several "Ask Dr Internet" Sponsors
+
+Break Down the Bars of Ignorance & Illiteracy
+On the Carnegie Libraries' 100th Anniversary!
+
+If I don't answer in two days, please resend.
+It usually means I did not get/see your note.
+For General Information on Project Gutenberg
+Please send us email at:  dircompg@pobox.com
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1999_02_12.txt" target="_blank" rel="nofollow">pgmonthly_1999_02_12.txt</a>

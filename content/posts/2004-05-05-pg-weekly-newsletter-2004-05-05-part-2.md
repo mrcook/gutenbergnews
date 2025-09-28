@@ -1,0 +1,604 @@
+---
+params:
+  id: 2139
+title: "PG Weekly Newsletter: Part 2 (2004-05-05)"
+date: 2004-05-05T14:38:57+00:00
+author: Michael Cook
+layout: post
+url: /20040505/pg-weekly-newsletter-2004-05-05-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 05 May 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 91 New U.S. eBooks this week
+  - 4 New eBooks at PG Australia
+  - Last, but not least:  insights and other fine stuff
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the world,
+and you can select one nearer to your location from the link on the search
+results page.  To see a listing of mirror sites, and locate the one nearest
+to you, visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 05 May 2004:  12,581 (incl. 354 Aus.).
+
+Last week the Total Count was 12,486, including 350 at PG of Australia.
+This week we added 95 new (including 3 new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the author's name (Edmund,
+not Edmond):
+The Story of Louis Riel: The Rebel Chief, by Joseph Edmund Collins       10399
+
+The following is being re-posted to correct the author's name
+(Howard Payson, not Robert Drake):
+The Boy Scouts of the Eagle Patrol, by Howard Payson                     12112
+
+
+We have added an HTML format of the following:
+The Postmaster's Daughter, by Louis Tracy                                10110
+
+The following has been re-posted in a greatly improved 11th edition, and
+new 8-bit and HTML formats added:
+Jan 1999 Whirligigs, by O. Henry                           [?whrlxxx.xxx] 1595
+
+
+-=-=-=-=[  91 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Buena Nueva de acuerdo a Juan                                            12503
+  [The Gospel of John]
+  [Subtitle: Traduccion de dominio publico abierta a mejoras]
+  [Language: Spanish]
+
+Buena Nueva de acuerdo a Lucas                                           12502
+  [The Gospel of Luke]
+  [Subtitle: Traduccion de dominio publico abierta a mejoras]
+  [Language: Spanish]
+
+Buena Nueva de acuerdo a Marcos                                          12501
+  [The Gospel of Mark]
+  [Subtitle: Traduccion de dominio publico abierta a mejoras]
+  [Language: Spanish]
+
+Buena Nueva de acuerdo a Mateo                                           12500
+  [The Gospel of Matthew]
+  [Subtitle: Traduccion de dominio publico abierta a mejoras]
+  [Language: Spanish]
+
+
+
+Wee Macgreegor Enlists, by J. J. Bell                                    12269
+  [Link: http://www.gutenberg.net/1/2/2/6/12269 ]
+  [Files: 12269.txt]
+
+Hohe Sommertage, by Gustav Falke                                         12268
+  [Subtitle: Neue Gedichte]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/2/2/6/12268 ]
+  [Files: 12268-0.txt; 12268-8.txt]
+
+Aus meinem Leben, Erster Teil, by August Bebel                           12267
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/2/7/6/12267 ]
+  [Files: 12267-0.txt; 12267-8.txt]
+
+Von Haparanda bis San Francisco, by Ernst Wasserzieher                   12266
+  [Subtitle: Reise-Erinnerungen]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/2/2/6/12266 ]
+  [Files: 12266-0.txt; 12266-8.txt]
+
+The Flying Legion, by George Allan England                               12265
+  [Link: http://www.gutenberg.net/1/2/2/6/12265 ]
+  [Files: 12265.txt; 12265-8.txt]
+
+Father Payne, by Arthur Christopher Benson                               12264
+  [Link: http://www.gutenberg.net/1/2/2/6/12264 ]
+  [Files: 12264.txt; 12264-8.txt]
+
+Blackwood's Edinburgh Magazine, Vol. 53, No. 331, May, 1843, by Various  12263
+  [Link: http://www.gutenberg.net/1/2/2/6/12263 ]
+  [Files: 12263.txt; 12263-8.txt; 12263-h.htm]
+
+Punch, or the London Charivari, Vol. 99, Sept. 27, 1890, by Various      12262
+  [Link: http://www.gutenberg.net/1/2/2/6/12262 ]
+  [Files: 12262.txt; 12262-8.txt; 12262-h.htm]
+
+Balder The Beautiful, Vol. I, by Sir James George Frazer                 12261
+  [Subtitle: A Study In Magic And Religion: The Golden Bough, Part VII,
+   The Fire-Festivals Of Europe And The Doctrine Of The External Soul]
+  [Link: http://www.gutenberg.net/1/2/2/6/12261 ]
+  [Files: 12261.txt; 12261-8.txt; 12261-h.htm]
+
+Jonas on a Farm in Winter, by Jacob Abbott                               12260
+  [Link: http://www.gutenberg.net/1/2/2/6/12260 ]
+  [Files: 12260.txt; 12260-h.htm; ]
+
+Memoirs of a Cavalier, by Daniel Defoe                                   12259
+  [Subtitle: A Military Journal of the Wars in Germany, and the Wars in
+   England. From the Year 1632 to the Year 1648.]
+  [Edited with Introduction and Notes by Elizabeth O'Neill]
+  [Link: http://www.gutenberg.net/1/2/2/5/12259 ]
+  [Files: 12259.txt; 12259-8.txt]
+
+Histoire de la Revolution Francaise, IX, by Adolphe Thiers               12258
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/5/12258 ]
+  [Files: 12258.txt; 12258-8.txt]
+
+The Go-Getter, by Peter B. Kyne                                          12257
+  [Link: http://www.gutenberg.net/1/2/2/5/12257 ]
+  [Files: 12257.txt; 12257-8.txt; 12257-h.htm]
+
+Mistress Penwick, by Dutton Payne                                        12256
+  [Link: http://www.gutenberg.net/1/2/2/5/12256 ]
+  [Files: 12256.txt; 12256-8.txt]
+
+The Egyptian Conception of Immortality, by George Andrew Reisner         12255
+  [Subtitle: The Ingersoll Lecture, 1911]
+  [Link: http://www.gutenberg.net/1/2/2/5/12255 ]
+  [Files: 12255.txt; ]
+
+Illustrated History of Furniture, by Frederick Litchfield                12254
+  [Subtitle: From the Earliest to the Present Time]
+  [Link: http://www.gutenberg.net/1/2/2/5/12254 ]
+
+  [Files: 12254.txt; 12254-8.txt; 12254-h.htm]
+
+Wholesale Price List of Newspapers and Periodicals, by D. D. Cottrell    12253
+  [Full author: D. D. Cottrell's Subscription Agency]
+  [Link: http://www.gutenberg.net/1/2/2/5/12253 ]
+  [Files: 12253.txt]
+
+Swift's Writings on Religion, Vol. I., by Jonathan Swift                 12252
+  [Full title: The Prose Works of Jonathan Swift, Vol. III.:
+   Swift's Writings on Religion and the Church, Vol. I.]
+  [Edited by Temple Scott]
+  [Link: http://www.gutenberg.net/1/2/2/5/12252 ]
+  [Files: 12252.txt; 12252-8.txt]
+
+Contes a mes petites amies, by J. N. Bouilly                             12251
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/5/12251 ]
+  [Files: 12251.txt; 12251-8.txt]
+
+Contes choisis de la famille, by Les freres Grimm                        12250
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/5/12250 ]
+  [Files: 12250.txt; 12250-8.txt]
+
+Bart Ridgeley, by A. G. Riddle                                           12249
+  [Subtitle: A Story of Northern Ohio]
+  [Link: http://www.gutenberg.net/1/2/2/4/12249 ]
+  [Files: 12249.txt]
+
+The King's Cup-Bearer, by Amy Catherine Walton                           12248
+  [Link: http://www.gutenberg.net/1/2/2/4/12248 ]
+  [Files: 12248.txt; 12248-8.txt; 12248-h.htm]
+
+Le Circuit de l'Est, by Commune de Amiens/Nancy                          12247
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/4/12247 ]
+  [Files: 12247.txt; 12247-8.txt]
+
+Oeuvres completes de Francois Villon, by Francois Villon                 12246
+  [Subtitle: Suivies d'un choix des po,sies de ses disciples]
+  [Editor: Pierre Jannet]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/4/12246 ]
+  [Files: 12246.txt; 12246-8.txt; 12246-h.htm]
+
+The Defendant, by G.K. Chesterton                                        12245
+  [Link: http://www.gutenberg.net/1/2/2/4/12245 ]
+  [Files: 12245.txt; 12245-8.txt; 12245-h.htm]
+
+In the Name of the Bodleian and Other Essays, by Augustine Birrell       12244
+  [Link: http://www.gutenberg.net/1/2/2/4/12244 ]
+  [Files: 12244.txt; 12244-8.txt; 12244-h.htm]
+
+Round the Block, by John Bell Bouton                                     12243
+  [Subtitle: An American Novel]
+  [Link: http://www.gutenberg.net/1/2/2/4/12243 ]
+  [Files: 12243.txt; 12243-8.txt; 12243-h.htm; ]
+
+Poems: Three Series, Complete, by Emily Dickinson                        12242
+  [Link: http://www.gutenberg.net/1/2/2/4/12242 ]
+  [Files: 12242.txt; 12242-8.txt; 12242-h.htm]
+
+Poems: Third Series, by Emily Dickinson                                  12241
+  [Link: http://www.gutenberg.net/1/2/2/4/12241 ]
+  [Files: 12241.txt; 12241-8.txt]
+
+The Lady and Sada San, by Frances Little                                 12240
+  [Subtitle: A Sequel to The Lady of the Decoration]
+  [Author AKA: Frances Little is a pseudonym of Fannie Caldwell Macaulay]
+  [Link: http://www.gutenberg.net/1/2/2/4/12240 ] [Files: 12240.txt]
+
+Dead Men's Money, by J. S. Fletcher                                      12239
+  [Link: http://www.gutenberg.net/1/2/2/3/12239 ]
+  [Files: 12239.txt]
+
+Science in the Kitchen, by Mrs. E. E. Kellogg                            12238
+  [Subtitle: A Scientific Treatise On Food Substances and Their Dietetic
+   Properties, Together with a Practical Explanation of the Principles of
+   Healthful Cookery, and a Large Number of Original, Palatable, and
+   Wholesome Recipes]
+  [Link: http://www.gutenberg.net/1/2/2/3/12238 ]
+  [Files: 12238.txt; 12238-8.txt; 12238-h.htm; ]
+
+String Quartet No. 16, Op. 135 no. 2, by Ludwig von Beethoven            12237
+  [Musical score in Finale's .MUS format]
+  [Link: http://www.gutenberg.net/1/2/2/3/12237 ]
+  [Files: 12237.txt; four .MUS files ]
+
+Death Valley in '49, by William Lewis Manly                              12236
+  [Link: http://www.gutenberg.net/1/2/2/3/12236 ]
+  [Files: 12236.txt; 12236-8.txt; 12236-h.htm]
+
+Popular Law-making, by Frederic Jesup Stimson                            12235
+  [Link: http://www.gutenberg.net/1/2/2/3/12235 ]
+  [Files: 12235.txt; 12235-8.txt]
+
+Mr. Scarborough's Family, by Anthony Trollope                            12234
+  [Link: http://www.gutenberg.net/1/2/2/3/12234 ]
+  [Files: 12234.txt; 12234-8.txt; 12234-h.htm; ]
+
+Stonewall Jackson And The American Civil War, by G. F. R. Henderson      12233
+  [Volumes I and II, Complete]
+  [With An Introduction By Field-Marshal Viscount Wolseley]
+  [Link: http://www.gutenberg.net/1/2/2/3/12233 ]
+  [Files: 12233.txt; 12233-8.txt; 12233-h.htm]
+
+Punch, or the London Charivari, V.156, May 28, 1919, Ed. by Owen Seaman  12232
+  [Link: http://www.gutenberg.net/1/2/2/3/12232 ]
+  [Files: 12232.txt; 12232-8.txt; 12232-h.htm]
+
+Punch, or the London Charivari, V.156, May 21, 1919, Ed. by Owen Seaman  12231
+  [Link: http://www.gutenberg.net/1/2/2/3/12231 ]
+  [Files: 12231.txt; 12231-8.txt; 12231-h.htm]
+
+Oeuvres de Napoleon Bonaparte, Tome I, by Napoleon Bonaparte             12230
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/2/3/12230 ]
+  [Files: 12230-8.txt; 12230-h.htm]
+
+Who Goes There?, by Blackwood Ketcham Benson                             12229
+  [Link: http://www.gutenberg.net/1/2/2/2/12229 ]
+  [Files: 12229.txt; 12229-8.txt; 12229-h.htm]
+
+Home Geography For Primary Grades, by C. C. Long                         12228
+  [Link: http://www.gutenberg.net/1/2/2/2/12228 ]
+  [Files: 12228.txt; 12228-h.htm]
+
+Child's First Picture Book, by Anonymous                                 12227
+  [Link: http://www.gutenberg.net/1/2/2/2/12227 ]
+  [Files: 12227.txt; 12227-h.htm]
+
+What Eight Million Women Want, by Rheta Childe Dorr                      12226
+  [Link: http://www.gutenberg.net/1/2/2/2/12226 ]
+  [Files: 12226.txt; 12226-8.txt; 12226-h.htm]
+
+Tales of Lonely Trails, by Zane Grey                                     12225
+  [Link: http://www.gutenberg.net/1/2/2/2/12225 ]
+  [Files: 12225.txt; 12225-8.txt; 12225-h.htm]
+
+We Girls: A Home Story, by Mrs. A. D. T. Whitney                         12224
+  [Link: http://www.gutenberg.net/1/2/2/2/12224 ]
+  [Files: 12224.txt; 12224-8.txt; 12224-h.htm]
+
+The Idler, Vol. III, Issue XIII., Feb 1893, Ed. by Jerome and Barr       12223
+  [Subtitle: An Illustrated Monthly] [Ed. by Jerome K. Jerome & Robert Barr]
+  [Link: http://www.gutenberg.net/1/2/2/2/12223 ]
+  [Files: 12223.txt; 12223-8.txt; 12223-h.htm]
+
+The Faithful Shepherdess, by Francis Beaumont and John Fletcher          12222
+  [From: The Works of Francis Beaumont and John Fletcher (Vol. 2 of 10)]
+  [Edited by Arnold Glover] [Link: http://www.gutenberg.net/1/2/2/2/12222 ]
+  [Files: 12222.txt]
+
+Beggars Bush, by Francis Beaumont and John Fletcher                      12221
+  [From: The Works of Francis Beaumont and John Fletcher (V2 of 10)]
+  [Edited by Arnold Glover] [Link: http://www.gutenberg.net/1/2/2/2/12221 ]
+  [Files: 12221.txt]
+
+Rada, by Alfred Noyes                                                    12220
+  [Subtitle: A Drama of War in One Act]
+  [Link: http://www.gutenberg.net/1/2/2/2/12220 ]
+  [Files: 12220.txt]
+
+Ancient Nahuatl Poetry, by Daniel G. Brinton                             12219
+  [Subtitle: Brinton's Library of Aboriginal American Literature Number VII]
+  [Link: http://www.gutenberg.net/1/2/2/1/12219 ]
+  [Files: 12219.txt; 12219-8.txt; 12219-h.htm]
+
+Pastoral Poetry and Pastoral Drama, by Walter W. Greg                    12218
+  [Subtitle: A Literary Inquiry, with Special Reference to the
+   Pre-Restoration Stage in England]
+  [Link: http://www.gutenberg.net/1/2/2/1/12218 ]
+  [Files: 12218.txt; 12218-8.txt; 12218-0.txt; 12218-h.htm]
+
+Modern Economic Problems, Economics Vol. II, by Frank Albert Fetter      12217
+  [Link: http://www.gutenberg.net/1/2/2/1/12217 ]
+  [Files: 12217.txt; 12217-8.txt]
+
+The Pirates Own Book, by Charles Ellms                                   12216
+  [Subtitle: Authentic Narratives of the Most Celebrated Sea Robbers]
+  [Link: http://www.gutenberg.net/1/2/2/1/12216 ]
+  [Files: 12216.txt; 12216-8.txt; 12216-h.htm; ]
+
+Odd Craft, Complete, by W.W. Jacobs                                      12215
+  [Illustrated by Will Owen]
+  (Contains eBooks #11201 thru #11214)
+  [Link: http://www.gutenberg.net/1/2/2/1/12215 ]
+  [Files: 12215.txt; 12215-h.htm]
+
+Odd Craft, Part 14: Admiral Peters, by W.W. Jacobs                       12214
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/1/12214 ]
+  [Files: 12214.txt; 12214-h.htm]
+
+Odd Craft, Part 13: Odd Charges, by W.W. Jacobs                          12213
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/1/12213 ]
+  [Files: 12213.txt; 12213-h.htm]
+
+Odd Craft, Part 12: The Third String, by W.W. Jacobs                     12212
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/1/12212 ]
+  [Files: 12212.txt; 12212-h.htm]
+
+Odd Craft, Part 11: A Spirit of Avarice, by W.W. Jacobs                  12211
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/1/12211 ]
+  [Files: 12211.txt; 12211-h.htm]
+
+Odd Craft, Part 10: Dixon's Return, by W.W. Jacobs                       12210
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/1/12210 ]
+  [Files: 12210.txt; 12210-h.htm]
+
+Odd Craft, Part 9: The Persecution of Bob Pretty, by W.W. Jacobs         12209
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12209 ]
+  [Files: 12209.txt; 12209-h.htm]
+
+Odd Craft, Part 8: The Changing Numbers, by W.W. Jacobs                  12208
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12208 ]
+  [Files: 12208.txt; 12208-h.htm]
+
+Odd Craft, Part 7: Establishing Relations, by W.W. Jacobs                12207
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12207 ]
+  [Files: 12207.txt; 12207-h.htm]
+
+Odd Craft, Part 6: Breaking A Spell, by W.W. Jacobs                      12206
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12206 ]
+  [Files: 12206.txt; 12206-h.htm]
+
+Odd Craft, Part 5: Lawyer Quince, by W.W. Jacobs                         12205
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12205 ]
+  [Files: 12205.txt; 12205-h.htm]
+
+Odd Craft, Part 4: Bill's Lapse, by W.W. Jacobs                          12204
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12204 ]
+  [Files: 12204.txt; 12204-h.htm]
+
+Odd Craft, Part 3: Blundell's Improvement, by W.W. Jacobs                12203
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12203 ]
+  [Files: 12203.txt; 12203-h.htm]
+
+Odd Craft, Part 2: The Castaway, by W.W. Jacobs                          12202
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12202 ]
+  [Files: 12202.txt; 12202-h.htm]
+
+Odd Craft, Part 1: The Money Box, by W.W. Jacobs                         12201
+  [Illustrated by Will Owen]
+  [Link: http://www.gutenberg.net/1/2/2/0/12201 ]
+  [Files: 12201.txt; 12201-h.htm]
+
+Delsarte System of Oratory, by Francois Delsarte et al.                  12200
+  [Authors: Francois Delsarte, L'Abbe Delaumosne, Mme. Angelique Arnaud,
+   Mme. Marie Geraldy, Alfred Giraudet, Francis A. Durivage,
+   and Hector Berlioz]
+  [Link: http://www.gutenberg.net/1/2/2/0/12200 ]
+  [Files: 12200.txt; 12200-8.txt; 12200-0.txt; 12200-h.htm]
+
+Chase Of Saint-Castin And Other Stories, by Mary Hartwell Catherwood     12199
+  [Full title: The Chase Of Saint-Castin And Other Stories
+   Of The French In The New World]
+  [Link: http://www.gutenberg.net/1/2/1/9/12199 ]
+  [Files: 12199.txt; 12199-8.txt]
+
+Notes & Queries, No. 22, 1850.03.30, by Various                          12198
+  [Link: http://www.gutenberg.net/1/2/1/9/12198 ]
+  [Files: 12198.txt; 12198-8.txt; 12198-h.htm]
+
+Mr. Scraggs, by Henry Wallace Phillips                                   12197
+  [Link: http://www.gutenberg.net/1/2/1/9/12197 ]
+  [Files: 12197.txt]
+
+Red Saunders, by Henry Wallace Phillips                                  12196
+  [Link: http://www.gutenberg.net/1/2/1/9/12196 ]
+  [Files: 12196.txt]
+
+The Mystery of Metropolisville, by Edward Eggleston                      12195
+  [Link: http://www.gutenberg.net/1/2/1/9/12195 ]
+  [Files: 12195.txt; 12195-8.txt]
+
+Liza, by Ivan Sergeevich Turgenev                                        12194
+  [Subtitle: A Nest of Nobles] [Translated by W.R.S. Ralston]
+  [Link: http://www.gutenberg.net/1/2/1/9/12194 ]
+  [Files: 12194.txt; 12194-8.txt]
+
+The Gentleman from Everywhere, by James Henry Foss                       12193
+  [Link: http://www.gutenberg.net/1/2/1/9/12193 ]
+  [Files: 12193.txt; 12193-8.txt]
+
+The Long Shadow, by B. M. Bower                                          12192
+  [Link: http://www.gutenberg.net/1/2/1/9/12192 ]
+  [Files: 12192.txt; 12192-8.txt; 12192-h.htm]
+
+Red Axe, by Samuel Rutherford Crockett                                   12191
+  [Link: http://www.gutenberg.net/1/2/1/9/12191 ]
+  [Files: 12191.txt; 12191-8.txt]
+
+The Adventures of Captain Horn, by Frank Richard Stockton                12190
+  [Link: http://www.gutenberg.net/1/2/1/9/12190 ]
+  [Files: 12190.txt; 12190-8.txt]
+
+Jim Waring of Sonora-Town, by Henry Herbert Knibbs                       12189
+  [Subtitle: Tang of Life]
+  [Link: http://www.gutenberg.net/1/2/1/8/12189 ]
+  [Files: 12189.txt; 12189-8.txt]
+
+The Key To Peace, by A. Marie Miles                                      12188
+  [Link: http://www.gutenberg.net/1/2/1/8/12188 ]
+  [Files: 12188.txt]
+
+The Mystery of 31 New Inn, by R. Austin Freeman                          12187
+  [Link: http://www.gutenberg.net/1/2/1/8/12187 ]
+  [Files: 12187.txt; 12187-8.txt; 12187-h.htm]
+
+The Principles of Masonic Law, by Albert G. Mackey                       12186
+  [Subtitle: A Treatise on the Constitutional Laws, Usages And Landmarks
+   of Freemasonry]
+  [Link: http://www.gutenberg.net/1/2/1/8/12186 ]
+  [Files: 12186.txt; 12186-8.txt; 12186-0.txt; 12186-h.htm]
+
+My Home In The Field of Honor, by Frances Wilson Huard                   12185
+  [Link: http://www.gutenberg.net/1/2/1/8/12185 ]
+  [Files: 12185.txt; 12185-8.txt]
+
+
+McClure's Magazine Vol. 1, No. 549, December, 1895                       11548
+  [Editor: Ida M. Tarbell]
+  [Link: http://www.gutenberg.net/1/1/5/4/11548 ]
+  [Files: 11548.txt; 11548-8.txt; 11548-h.htm]
+
+
+The History Of Rome, Book III, by Theodor Mommsen                        10703
+  [Subtitle: From the Union of Italy to the Subjugation of Carthage and
+   the Greek States]
+  [Tr.: William Purdie Dickson]
+  [Link: http://www.gutenberg.net/1/0/7/0/10703 ]
+  [Files: 10703.txt; ]
+
+
+=-=-=-=[ 4 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+May 2004 The Letters of Gertrude Bell Vol 2, Gertrude Bell [040046xx.xxx] 0354A
+  [http://gutenberg.net.au/ebooks04/0400461.txt or .z-p ]
+May 2004 Hans Frost, Hugh Walpole                          [040045xx.xxx] 0353A
+  [http://gutenberg.net.au/ebooks04/0400451.txt or .z-p ]
+   and http://gutenberg.net.au/ebooks04/0400451h.html ]
+May 2004 Vanessa, Hugh Walpole                             [040044xx.xxx] 0352A
+  [http://gutenberg.net.au/ebooks04/0400441.txt or .z-p ]
+  [and http://gutenberg.net.au/ebooks04/0400441h.html ]
+Apr 2004 The Dragon Murder Case, S S Van Dine              [040043xx.xxx] 0351A
+  [http://gutenberg.net.au/ebooks04/0400431.txt or .z-p ]
+  [and http://gutenberg.net.au/ebooks04/0400431h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Right now is a gift. That's why it's called the "present".
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_05_05_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_05_05_part_2.txt</a>

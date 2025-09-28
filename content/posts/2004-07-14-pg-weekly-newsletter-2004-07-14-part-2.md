@@ -1,0 +1,780 @@
+---
+params:
+  id: 2159
+title: "PG Weekly Newsletter: Part 2 (2004-07-14)"
+date: 2004-07-14T20:51:26+00:00
+author: Michael Cook
+layout: post
+url: /20040714/pg-weekly-newsletter-2004-07-14-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 7 Jul 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 69 New U.S. eBooks this week
+   -  1 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 14 Jul 2004:  13,225 (incl. 36? Aus.).
+
+Last week the Total Count was 13,155, including 363 at PG of Australia.
+This week we added  79 new (including 1 new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+(For the following eight eBooks see also #3177)
+Roughing It, Part 8, by Mark Twain (Samuel Clemens)                       8589
+   [Updated edition of: etext05/rit8w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8589 ]
+   [Files: 8589.txt; 8589-h.htm]
+Roughing It, Part 7, by Mark Twain (Samuel Clemens)                       8588
+   [Updated edition of: etext05/rit7w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8588 ]
+   [Files: 8588.txt; 8588-h.htm]
+Roughing It, Part 6, by Mark Twain (Samuel Clemens)                       8587
+   [Updated edition of: etext05/rit6w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8587 ]
+   [Files: 8587.txt; 8587-h.htm]
+Roughing It, Part 5, by Mark Twain (Samuel Clemens)                       8586
+   [Updated edition of: etext05/rit5w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8586 ]
+   [Files: 8586.txt; 8586-h.htm]
+Roughing It, Part 4, by Mark Twain (Samuel Clemens)                       8585
+   [Updated edition of: etext05/rit4w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8585 ]
+   [Files: 8585.txt; 8585-h.htm]
+Roughing It, Part 3, by Mark Twain (Samuel Clemens)                       8584
+   [Updated edition of: etext05/rit3w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8584 ]
+   [Files: 8584.txt; 8584-h.htm]
+Roughing It, Part 2, by Mark Twain (Samuel Clemens)                       8583
+   [Updated edition of: etext05/rit2w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8583 ]
+   [Files: 8583.txt; 8583-h.htm]
+Roughing It, Part 1, by Mark Twain (Samuel Clemens)                       8582
+   [Updated edition of: etext05/rit1w10h.htm]
+   [Link: http://www.gutenberg.net/8/5/8/8582 ]
+   [Files: 8582.txt; 8582-h.htm]
+
+
+(For the following nine eBooks, see also eBook #86)
+A Connecticut Yankee in King Arthur's Court, Part 9., by Mark Twain       7250
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk9w10h.html]
+   [Link: http://www.gutenberg.net/7/2/5/7250 ]
+   [Files: 7250.txt; 7250-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 8., by Mark Twain       7249
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk8w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7249 ]
+   [Files: 7249.txt; 7249-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 7., by Mark Twain       7248
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk7w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7248 ]
+   [Files: 7248.txt; 7248-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 6., by Mark Twain       7247
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk6w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7247 ]
+   [Files: 7247.txt; 7247-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 5., by Mark Twain       7246
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk5w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7246 ]
+   [Files: 7246.txt; 7246-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 4., by Mark Twain       7245
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk4w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7245 ]
+   [Files: 7245.txt; 7245-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 3., by Mark Twain       7244
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk3w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7244 ]
+   [Files: 7244.txt; 7244-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 2., by Mark Twain       7243
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk2w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7243 ]
+   [Files: 7243.txt; 7243-h.htm]
+A Connecticut Yankee in King Arthur's Court, Part 1., by Mark Twain       7242
+   [Full author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext05/ynk1w10h.html]
+   [Link: http://www.gutenberg.net/7/2/4/7242 ]
+   [Files: 7242.txt; 7242-h.htm]
+
+(For the following eight eBooks, see also #74)
+The Adventures of Tom Sawyer, Part 8, by Mark Twain (Samuel Clemens)      7200
+   [Updated edition of: etext05/saw811h.html]
+   [Link: http://www.gutenberg.net/7/2/0/7200 ]
+   [Files: 7200.txt; 7200-h.htm]
+The Adventures of Tom Sawyer, Part 7, by Mark Twain (Samuel Clemens)      7199
+   [Updated edition of: etext04/saw711h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7199 ]
+   [Files: 7199.txt; 7199-h.htm]
+The Adventures of Tom Sawyer, Part 6, by Mark Twain (Samuel Clemens)      7198
+   [Updated edition of: etext04/saw611h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7198 ]
+   [Files: 7198.txt; 7198-h.htm]
+The Adventures of Tom Sawyer, Part 5, by Mark Twain (Samuel Clemens)      7197
+   [Updated edition of: etext04/saw511h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7197 ]
+   [Files: 7197.txt; 7197-h.htm]
+The Adventures of Tom Sawyer, Part 4, by Mark Twain (Samuel Clemens)      7196
+   [Updated edition of: etext04/saw411h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7196 ]
+   [Files: 7196.txt; 7196-h.htm]
+The Adventures of Tom Sawyer, Part 3, by Mark Twain (Samuel Clemens)      7195
+   [Updated edition of: etext04/saw311h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7195 ]
+   [Files: 7195.txt; 7195-h.htm]
+The Adventures of Tom Sawyer, Part 2, by Mark Twain (Samuel Clemens)      7194
+   [Updated edition of: etext04/saw211h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7194 ]
+   [Files: 7194.txt; 7194-h.htm]
+The Adventures of Tom Sawyer, Part 1, by Mark Twain (Samuel Clemens)      7193
+   [Updated edition of: etext04/saw111h.html]
+   [Link: http://www.gutenberg.net/7/1/9/7193 ]
+   [Files: 7193.txt; 7193-h.htm]
+
+(For the following nine eBooks, see also #1837)
+The Prince and The Pauper, Part 9., by Mark Twain (Samuel Clemens)        7162
+   [Updated edition of: etext04/ppau910h.html]
+   [Link: http://www.gutenberg.net/7/1/6/7162 ]
+   [Files: 7162.txt; 7162-h.htm]
+The Prince and The Pauper, Part 8., by Mark Twain (Samuel Clemens)        7161
+   [Updated edition of: etext04/ppau810h.html]
+   [Link: http://www.gutenberg.net/7/1/6/7161 ]
+   [Files: 7161.txt; 7161-h.htm]
+The Prince and The Pauper, Part 7., by Mark Twain (Samuel Clemens)        7160
+   [Updated edition of: etext04/ppau710h.html]
+   [Link: http://www.gutenberg.net/7/1/6/7160 ]
+   [Files: 7160.txt; 7160-h.htm]
+The Prince and The Pauper, Part 6., by Mark Twain (Samuel Clemens)        7159
+   [Updated edition of: etext04/ppau610h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7159 ]
+   [Files: 7159.txt; 7159-h.htm]
+The Prince and The Pauper, Part 5., by Mark Twain (Samuel Clemens)        7158
+   [Updated edition of: etext04/ppau510h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7158 ]
+   [Files: 7158.txt; 7158-h.htm]
+The Prince and The Pauper, Part 4., by Mark Twain (Samuel Clemens)        7157
+   [Updated edition of: etext04/ppau410h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7157 ]
+   [Files: 7157.txt; 7157-h.htm]
+The Prince and The Pauper, Part 3., by Mark Twain (Samuel Clemens)        7156
+   [Updated edition of: etext04/ppau310h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7156 ]
+   [Files: 7156.txt; 7156-h.htm]
+The Prince and The Pauper, Part 2., by Mark Twain (Samuel Clemens)        7155
+   [Updated edition of: etext04/ppau210h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7155 ]
+   [Files: 7155.txt; 7155-h.htm]
+The Prince and The Pauper, Part 1., by Mark Twain (Samuel Clemens)        7154
+   [Updated edition of: etext04/ppau110h.html]
+   [Link: http://www.gutenberg.net/7/1/5/7154 ]
+   [Files: 7154.txt; 7154-h.htm]
+
+The Foreigner, A Tale of Saskatchewan, by Ralph Connor                    3466
+   [Updated edition of: etext02/frgnr11a.txt and frgnr10.txt]
+   [Link: http://www.gutenberg.net/3/4/6/3466 ]
+   [Files: 3466.txt]
+
+Roughing It, Complete, by Mark Twain (Samuel Clemens)                     3177
+   (See also #8582-#8589)
+   [Updated edition of: etext02/mtrit11.txt or mtrit11h.html]
+   [Link: http://www.gutenberg.net/3/1/7/3177 ]
+   [Files: 3177.txt; 3177-h.htm]
+
+Cousin Pons, by Honore de Balzac [Tr.: Ellen Marriage]                    1856
+   [Updated edition of: etext99/cspns10.txt or cspns10h.htm]
+   [Link: http://www.gutenberg.net/1/8/5/1856 ]
+   [Files: 1856.txt; 1856-h.htm]
+
+The Prince and The Pauper, Complete, by Mark Twain (Samuel Clemens)       1837
+   (See also #7154-#7162)
+   [Updated edition of: etext99/prppr11.txt or prppr11h.html]
+   [Link: http://www.gutenberg.net/1/8/3/1837 ]
+   [Files: 1837.txt; 1837-h.htm]
+
+Cousin Betty, by Honore de Balzac [Tr.: James Waring]                     1749
+   [Updated edition of etext99/cbtty10.txt or cbtty10h.htm]
+   [Link: http://www.gutenberg.net/1/7/4/1749 ]
+   [Files: 1749.txt; 1749-h.htm]
+
+A Connecticut Yankee in King Arthur's Court, Complete, by Mark Twain        86
+   [Full author: Mark Twain (Samuel Clemens)]
+   (See also #7242-#7250)
+   [Updated edition of: etext93/yanke13.txt and yanke13h.html]
+   [Link: http://www.gutenberg.net/8/86 ]
+   [Files: 86.txt; 86-h.htm]
+
+The Adventures of Tom Sawyer, Complete, by Mark Twain (Samuel Clemens)      74
+   (See also #7193-#7200)
+   [Updated edition of: etext93/sawyr11.txt or sawyr11h.html]
+   [Link: http://www.gutenberg.net/7/74 ]
+   [Files: 74.txt; 74-h.htm]
+
+
+.:: The following are being re-indexed to include supplemental information,
+such as translator, author info, title info, etc.:
+
+An Autobiography of Buffalo Bill (Colonel W. F. Cody), by W. F. Cody     12740
+   [Author: Buffalo Bill (William Frederick Cody)]
+   [Illustrated by N.C. Wyeth]
+
+Personality Plus, by Edna Ferber                                         12677
+   [Subtitle: Some Experiences of Emma McChesney and Her Son, Jock]
+   [Illustrations by James Montgomery Flagg]
+
+Public Lands and Agrarian Laws of the Roman Republic, Andrew Stephenson  12638
+   [Ed.: Herbert B. Adams]
+
+The Adventures of Old Mr. Toad, by Thornton W. Burgess                   12630
+   [Illustrations by Harrison Cady]
+
+Seaward Sussex, by Edric Holmes [Illustrations by Mary M. Vigers]        12585
+   [Subtitle: The South Downs from End to End]
+
+California Sketches, Second Series, by O. P. Fitzgerald                  12564
+   [Introduction by Bishop George F. Pierce]
+
+Ravenna, A Study, by Edward Hutton                                       12542
+   [Illustrated by Harald Sund]
+
+May 2000 The Gambler, by Fyodor Dostoyevsky[Dostoyevsky #2][gamblxxx.xxx] 2197
+   [Tr.: C.J. Hogarth]
+
+May 2000 An Iceland Fisherman, by Pierre Loti              [icfshxxx.xxx] 2196
+   [Tr.: M. Jules Cambon]
+
+May 2000 Mauprat, by George Sand [Tr.: Stanley Young]    #1[muprtxxx.xxx] 2194
+   [Author AKA:  Lucile Amandine Aurore Dupin; Armentine Lucile Aurore
+    Dupin, later Dudevant]  (See also #138)
+
+May 2000 Aufzeichnungen des Malte Laurid Brigge, by Rilke  [?maltxxx.xxx] 2188
+   [Author: Rainer Maria Rilke]
+   [Language: German]
+
+May 2000 Seven Discourses on Art, by Joshua Reynolds       [artdsxxx.xxx] 2176
+   [Ed.: Henry Morley]
+
+May 2000 Thoughts on Present Discontents, etc., by Burke   [thdscxxx.xxx] 2173
+   [Author: Edmund Burke] [Ed.: Henry Morley]
+
+Apr 2000 Anarchism and Other Essays, by Emma Goldman       [nrcsmxxx.xxx] 2162
+   [With Biographic Sketch by Hippolyte Havel]
+
+Feb 2000 Life and Letters of Charles Darwin, Volume II [#8][2llcdxxx.xxx] 2088
+   [Edited by Francis Darwin]
+Feb 2000 Life and Letters of Charles Darwin, Volume I  [#7][1llcdxxx.xxx] 2087
+   [Edited by Francis Darwin]
+
+Feb 2000 Memoirs of the Comtesse du Barry by Lamothe-Langon[dbrryxxx.xxx] 2082
+   [by Baron Etienne Leon Lamothe-Langon, using a pseudonym]
+   [Introduction by Robert Arnot, M.A.]
+   (Note:  Plain text in dbrry11.*; 8-bit in dbrry10.*)
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+The following is being re-indexed to correct translator's name (Arvid, not
+Eero):
+Ylosnousemus II, by Leo Tolstoi  [Tr.: Arvid Jarnefelt]                  12604
+   [Language: Finnish]
+
+An illustrated html version of the following has been added:
+Inca Land, by Hiram Bingham                                              10772
+   [Subtitle: Explorations in the Highlands of Peru]
+   [Link: http://www.gutenberg.net/1/0/7/7/10772 ]
+   [Files: 10772-h.htm]
+
+The following is being removed from the collection as it is a duplicate
+of #3466, which has been re-posted as announced above:
+May 2002 The Foreigner, by Ralph Connor   [Ralph Connor #6][frgnrxxx.xxx] 3246
+   [Title: The Foreigner:  A Tale of Saskatchewan]
+
+
+-=-=-=-=[  69 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Romance of the Rabbit, by Francis Jammes  [Ed.: Gladys Edgerton]         12909
+   [Tranlated from the French by Gladys Edgerton]
+   [Link: http://www.gutenberg.net/1/2/9/0/12909 ]
+   [Files: 12909.txt; 12909-8.txt; ]
+
+Missing, by Mrs. Humphry Ward  [AKA: Mary Augusta Arnold Ward]           12908
+   [Link: http://www.gutenberg.net/1/2/9/0/12908 ]
+   [Files: 12908.txt; 12908-8.txt; ]
+
+Runot; Lyhyet kertomukset, by Aleksis Kivi                               12907
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/2/9/0/12907 ]
+   [Files: 12907-8.txt]
+
+Canzio; Selman juonet, by Aleksis Kivi                                   12906
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/2/9/0/12906 ]
+   [Files: 12906-8.txt]
+
+Punch, Vol. 99., December 13, 1890, Ed. by Sir Francis Burnand           12905
+   [Link: http://www.gutenberg.net/1/2/9/0/12905 ]
+   [Files: 12905.txt; 12905-8.txt; 12905-h.htm]
+
+Light, by Henri Barbusse  [Tr.: Fitzwater Wray]                          12904
+   [Link: http://www.gutenberg.net/1/2/9/0/12904 ]
+   [Files: 12904.txt; 12904-0.txt]
+
+Symphonies and Their Meaning; Third Series, Modern Symphonies, by Goepp  12903
+   [Author: Philip H. Goepp]
+   [Link: http://www.gutenberg.net/1/2/9/0/12903 ]
+   [Files: 12903.txt; 12903-8.txt; 12903-h.htm; ]
+
+A Textbook of Theosophy, by C.W. Leadbeater                              12902
+   [Link: http://www.gutenberg.net/1/2/9/0/12902 ]
+   [Files: 12902.txt; 12902-8.txt]
+
+The Moon-Voyage, by Jules Verne                                          12901
+   Contents:
+     From The Earth To The Moon
+     And "Round The Moon
+   [Link: http://www.gutenberg.net/1/2/9/0/12901 ]
+   [Files: 12901.txt; 12901-8.txt]
+
+Poor Relations, by Honore de Balzac                                      12900
+   [Introduction by George Saintsbury]
+   Contents:
+     Cousin Betty [Tr.: James Waring] (See also: #1749)
+     Cousin Pons, [Tr.: Ellen Marriage]  (See also: #1856)
+   [Link: http://www.gutenberg.net/1/2/9/0/12900 ]
+   [Files: 12900.txt; 12900-h.htm]
+
+Mirror of Literature, Amusement, & Instruction, Vol XIII, No. 366        12899
+   [April 18, 1829]
+   [Link: http://www.gutenberg.net/1/2/8/9/12899 ]
+   [Files: 12899.txt; 12899-8.txt; 12899-h.htm]
+
+Mirror of Literature, Amusement, & Instruction, Vol XIII, No. 358        12898
+   [February 28, 1829]
+   [Link: http://www.gutenberg.net/1/2/8/9/12898 ]
+   [Files: 12898.txt; 12898-8.txt; 12898-h.htm]
+
+Mirror of Literature, Amusement, & Instruction, Vol XII, No. 357         12897
+   [February 21, 1829]
+   [Link: http://www.gutenberg.net/1/2/8/9/12897 ]
+   [Files: 12897.txt; 12897-8.txt; 12897-h.htm]
+
+Essays AEsthetical, by George Calvert                                    12896
+   [Link: http://www.gutenberg.net/1/2/8/9/12896 ]
+   [Files: 12896.txt; 12896-8.txt; 12896-h.htm]
+
+Chief of Scouts, by W.F. Drannan                                         12895
+   [Link: http://www.gutenberg.net/1/2/8/9/12895 ]
+   [Files: 12895.txt]
+
+Sacred Books of the East, Ed. by Epiphanius Wilson [Tr.: F. Max Mueller] 12894
+   [Subtitle: Including Selections from the Vedic Hymns, Zend-Avesta,
+    Dhammapada, Upanishads, the Koran, and the Life of Buddha, with
+    Critical and Biographical Sketches by Epiphanius Wilson]
+   [Link: http://www.gutenberg.net/1/2/8/9/12894 ]
+   [Files: 12894.txt; 12894-8.txt; 12894-h.htm; ]
+
+Oeuvres de Napoleon Bonaparte, Tome III, by Napoleon Bonaparte           12893
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/8/9/12893 ]
+   [Files: 12893.txt; 12893-8.txt; 12893-h.htm]
+
+Simon Magus, by Mead George Robert Stow                                  12892
+   [Link: http://www.gutenberg.net/1/2/8/9/12892 ]
+   [Files: 12892.txt; 12892-8.txt; 12892-h.htm]
+
+Running Water, by A. E. W. Mason [AKA: Alfred Edward Woodley Mason]      12891
+   [Link: http://www.gutenberg.net/1/2/8/9/12891 ]
+   [Files: 12891.txt; 12891-8.txt; ]
+
+Elizabethan Demonology, by Thomas Alfred Spalding                        12890
+   [Subtitle: An Essay in Illustration of the Belief in the Existence of
+    Devils, and the Powers Possessed By Them, as It Was Generally Held
+    during the Period of the Reformation, and the Times Immediately
+    Succeeding; with Special Reference to Shakspere and His Works]
+   [Link: http://www.gutenberg.net/1/2/8/9/12890 ]
+   [Files: 12890.txt; 12890-8.txt; ]
+
+Promenades autour d'un village, by George Sand                           12889
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/8/8/12889 ]
+   [Files: 12889.txt; 12889-8.txt; 12889-h.htm]
+
+German Classics of the 19th & 20th Centuries, Vol V, Ed. by Francke      12888
+   [Title: The German Classics of the Nineteenth and Twentieth Centuries,
+    Volume V]
+   [Subtitle: Masterpieces of German Literature Translated into English.
+    In Twenty Volumes]
+   [Edited-in-Chief: Kuno Francke]
+   [Link: http://www.gutenberg.net/1/2/8/8/12888 ]
+   [Files: 12888.txt; 12888-8.txt]
+
+Laugh and Live, by Douglas Fairbanks                                     12887
+   [Link: http://www.gutenberg.net/1/2/8/8/12887 ]
+   [Files: 12887.txt; 12887-8.txt; 12887-h.htm]
+
+The Coquette's Victim, by Charlotte M. Braeme                            12886
+   [Everyday Life Library No.1]
+   [Link: http://www.gutenberg.net/1/2/8/8/12886 ]
+   [Files: 12886.txt; 12886-8.txt; 12886-h.htm]
+
+Bundling; Its Origin, Progress and Decline in America, Henry Reed Stiles 12885
+   [Link: http://www.gutenberg.net/1/2/8/8/12885 ]
+   [Files: 12885-0.txt; 12885-h.htm]
+
+Reed Anthony, Cowman, by Andy Adams                                      12884
+   [Subtitle: An Autobiography]
+   [Link: http://www.gutenberg.net/1/2/8/8/12884 ]
+   [Files: 12884.txt; 12884-8.txt; ]
+
+By the Golden Gate, by Joseph Carey                                      12883
+   [Subtitle: San Francisco, the Queen City of the Pacific Coast; with
+    Scenes and Incidents Characteristic of its Life]
+   [Link: http://www.gutenberg.net/1/2/8/8/12883 ]
+   [Files: 12883.txt; 12883-8.txt; ]
+
+Minstrelsy of the Scottish Border, Vol. II (of 3), by Walter Scott       12882
+   [Subtitle: Consisting Of Historical And Romantic Ballads, Collected
+    In The Southern Counties Of Scotland; With A Few Of Modern Date,
+    Founded Upon Local Tradition]
+   [Link: http://www.gutenberg.net/1/2/8/8/12882 ]
+   [Files: 12882.txt; 12882-8.txt; 12882-h.htm]
+
+Mrs. Budlong's Chrismas Presents, by Rupert Hughes                       12881
+   [Link: http://www.gutenberg.net/1/2/8/8/12881 ]
+   [Files: 12881.txt]
+
+Three Times and Out, by Nellie L. McClung                                12880
+   [Link: http://www.gutenberg.net/1/2/8/8/12880 ]
+   [Files: 12880.txt; 12880-8.txt; 12880-h.htm]
+
+Voices for the Speechless, Ed. by Abraham Firth                          12879
+   [Subtitle: Selections for Schools and Private Reading]
+   [Link: http://www.gutenberg.net/1/2/8/7/12879 ]
+   [Files: 12879.txt; 12879-8.txt; 12879-h.htm; ]
+
+The Radio Boys in the Thousand Islands , by J. W. Duffield               12878
+   [Subtitle: The Yankee-Canadian Wireless Trail]
+   [Link: http://www.gutenberg.net/1/2/8/7/12878 ]
+   [Files: 12878.txt; ]
+
+The First Hundred Thousand, by Ian Hay [AKA: Major John Hay Beith]       12877
+   [Subtitle: Being the Unofficial Chronicle of a Unit of "K(1)"]
+   [Link: http://www.gutenberg.net/1/2/8/7/12877 ]
+   [Files: 12877.txt; 12877-8.txt; ]
+
+A Young Girl's Wooing, by E. P. Roe                                      12876
+   [Link: http://www.gutenberg.net/1/2/8/7/12876 ]
+   [Files: 12876.txt; 12876-8.txt; ]
+
+Life in the Roman World of Nero and St. Paul, by T. G. Tucker            12875
+   [Note: A fascinating and extremely readable account of Roman life.]
+   [Link: http://www.gutenberg.net/1/2/8/7/12875 ]
+   [Files: 12875.txt; 12875-8.txt; ]
+
+The New North, by Agnes Deans Cameron                                    12874
+   [Link: http://www.gutenberg.net/1/2/8/7/12874 ]
+   [Files: 12874.txt; 12874-8.txt; 12874-h.htm]
+
+The Mirror of Literature, Amusement, & Instruction, Vol XII, No. 323     12873
+   [July 19, 1828]
+   [Link: http://www.gutenberg.net/1/2/8/7/12873 ]
+   [Files: 12873.txt; 12873-8.txt; 12873-h.htm; ]
+
+Punch, Vol. 100., Jan. 24, 1891, Ed. by Sir Francis Burnand              12872
+   [Link: http://www.gutenberg.net/1/2/8/7/12872 ]
+   [Files: 12872.txt; 12872-8.txt; 12872-h.htm]
+
+The Insurrection in Dublin, by James Stephens                            12871
+   [Link: http://www.gutenberg.net/1/2/8/7/12871 ]
+   [Files: 12871.txt; 12871-8.txt; 12871-h.htm]
+
+The Boy Allies On the Firing Line, by Clair Wallace Hayes                12870
+   [Link: http://www.gutenberg.net/1/2/8/7/12870 ]
+   [Files: 12870.txt; 12870-8.txt]
+
+
+The Harp of God, by J. F. Rutherford                                     12868
+   [Link: http://www.gutenberg.net/1/2/8/6/12868 ]
+   [Files: 12868.txt; 12868-8.txt; 12868-h.htm]
+
+The Banquet (Il Convito), by Dante Alighieri                             12867
+   [Tr.: Elizabeth Price Sayer] [Introduction By Henry Morely]
+   [Link: http://www.gutenberg.net/1/2/8/6/12867 ]
+   [Files: 12867.txt; 12867-8.txt]
+
+Punch, Vol. 100, Jan. 17, 1891, Ed. by Sir Francis Burnand               12866
+   [Link: http://www.gutenberg.net/1/2/8/6/12866 ]
+   [Files: 12866.txt; 12866-8.txt; 12866-h.htm]
+
+Mattea, by George Sand                                                   12865
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/8/6/12865 ]
+   [Files: 12865.txt; 12865-8.txt; 12865-h.htm]
+
+A Collection of College Words and Customs, by Benjamin Homer Hall        12864
+   [Link: http://www.gutenberg.net/1/2/8/6/12864 ]
+   [Files: 12864.txt; 12864-8.txt]
+
+Campaign of the Indus, by T.W.E. Holdsworth                              12863
+   [Link: http://www.gutenberg.net/1/2/8/6/12863 ]
+   [Files: 12863.txt; 12863-8.txt; 12863-h.htm]
+
+Aldo le rimeur, by George Sand                                           12862
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/8/6/12862 ]
+   [Files: 12862.txt; 12862-8.txt; 12862-h.htm]
+
+Theory of the Earth, Volume 1 (of 4), by James Hutton                    12861
+   [Subtitle: With Proofs and Illustrations, in Four Parts]
+   [Link: http://www.gutenberg.net/1/2/8/6/12861 ]
+   [Files: 12861.txt; 12861-8.txt; 12861-h.htm; ]
+
+Punch, Vol. 100, January 3, 1891, Ed. by Sir Francis Burnand             12860
+   [Link: http://www.gutenberg.net/1/2/8/6/12860 ]
+   [Files: 12860.txt; 12860-8.txt; 12860-h.htm]
+
+Ensign Knightley and Other Stories, by A. E. W. Mason                    12859
+   [Author AKA: Alfred Edward Woodley Mason]
+   [Contents:
+     Ensign Knightly
+     The Man of Wheels
+     Mr. Mitchelbourne's Last Escapade
+     The Coward
+     The Deserter
+     The Crossed Gloves
+     The Shuttered House
+     Keeper of the Bishop
+     The Cruise of the Willing Mind
+     How Barrington Returned to Johannesburg
+     Hatteras
+     The Princess Joceliande
+     A Liberal Education
+     The Twenty-Kroner Story
+     The Fifth Picture]
+   [Link: http://www.gutenberg.net/1/2/8/5/12859 ]
+   [Files: 12859.txt; 12859-8.txt; ]
+
+The Lilac Girl, by Ralph Henry Barbour                                   12858
+   [Illustrated by: Clarence F. Underwood]
+   [Link: http://www.gutenberg.net/1/2/8/5/12858 ]
+   [Files: 12858.txt; 12858-8.txt; 12858-h.htm; ]
+
+Beautiful Britain--Cambridge, by Gordon Home                             12857
+   [Link: http://www.gutenberg.net/1/2/8/5/12857 ]
+   [Files: 12857.txt; 12857-8.txt; ]
+
+The Renaissance of the Vocal Art, by Edmund Myer                         12856
+   [Link: http://www.gutenberg.net/1/2/8/5/12856 ]
+   [Files: 12856.txt; 12856-8.txt; 12856-h.htm]
+
+Elizabethan Sea Dogs, by William Wood                                    12855
+   [Link: http://www.gutenberg.net/1/2/8/5/12855 ]
+   [Files: 12855.txt; 12855-8.txt]
+
+The Master's Indwelling, by Andrew Murray                                12854
+   [Link: http://www.gutenberg.net/1/2/8/5/12854 ]
+   [Files: 12854.txt; 12854-h.htm]
+
+The Wearing of the Green, by A.M. Sullivan                               12853
+   [Link: http://www.gutenberg.net/1/2/8/5/12853 ]
+   [Files: 12853.txt; 12853-8.txt; 12853-h.htm]
+
+Creation and Its Records, by B.H. Baden-Powell                           12852
+   [Link: http://www.gutenberg.net/1/2/8/5/12852 ]
+   [Files: 12852.txt; 12852-8.txt; 12852-h.htm]
+
+Folk Tales from the Russian, by Various                                  12851
+   [Retold by Verra Xenophontovna Kalamatiano de Blumenthal]
+   [Link: http://www.gutenberg.net/1/2/8/5/12851 ]
+   [Files: 12851.txt; 12851-h.htm]
+
+A Philological Essay Concerning the Pygmies of the Ancients, by Tyson    12850
+   [Author: Edward Tyson]
+   [Editor: Bertram C. A. Windle]
+   [Link: http://www.gutenberg.net/1/2/8/5/12850 ]
+   [Files: 12850.txt; 12850-8.txt; ]
+
+The Tinguian, by Fay-Cooper Cole                                         12849
+   [Subtitle: Social, Religious, and Economic Life of a Philippine Tribe]
+   [Link: http://www.gutenberg.net/1/2/8/4/12849 ]
+   [Files: 12849.txt; 12849-8.txt; 12849-h.htm]
+
+Las inquietudes de Shanti Andia, by Pio Baroja                           12848
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/2/8/4/12848 ]
+   [Files: 12848.txt; 12848-8.txt; 12848-h.htm]
+
+Havelok The Dane, by Charles Whistler                                    12847
+   [Subtitle: A Legend of Old Grimsby and Lincoln]
+   [Link: http://www.gutenberg.net/1/2/8/4/12847 ]
+   [Files: 12847.txt; 12847-h.htm]
+
+The First White Man of the West, by Timothy Flint                        12846
+   [Subtitle: Life And Exploits Of Col. Dan'l. Boone, The First Settler Of
+    Kentucky; Interspersed With Incidents In The Early Annals Of The
+    Country.]
+   [Link: http://www.gutenberg.net/1/2/8/4/12846 ]
+   [Files: 12846.txt]
+
+The World's Greatest Books, Vol XII., by Arthur Mee                      12845
+   [Subtitle: Modern History]
+   [Link: http://www.gutenberg.net/1/2/8/4/12845 ]
+   [Files: 12845.txt; 12845-8.txt; 12845-h.htm]
+
+Den engelske Lods, by Henrik Wergeland                                   12844
+   [Language: Norwegian]
+   [Link: http://www.gutenberg.net/1/2/8/4/12844 ]
+   [Files: 12844.txt; 12844-8.txt]
+
+Poems, by Ralph Waldo Emerson                                            12843
+   [Subtitle: Household Edition]
+   [Link: http://www.gutenberg.net/1/2/8/4/12843 ]
+   [Files: 12843.txt; 12843-8.txt]
+
+A Fairy Tale in Two Acts, Taken from Shakespeare (1763), by Shakespeare  12842
+   [Subtitle: As It Is Performed at the Theatre-Royal in Drury Lane, London]
+   [Author:  William Shakespeare]
+   [Note:  This is an abbreviated adaptation of A Midsummer Night's Dream,
+    concentrating on the rustics and the fairies.]
+   [Link: http://www.ibiblio.org/gutenberg/1/2/8/4/12842]
+   [Files: 12842.txt]
+
+John Marr and Other Poems, by Herman Melville                            12841
+   [Link: http://www.gutenberg.net/1/2/8/4/12841 ]
+   [Files: 12841.txt; 12841-8.txt]
+
+Logica, by D. Andres Piquer                                              12840
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/2/8/4/12840 ]
+   [Files: 12840.txt; 12840-8.txt]
+
+
+The following is a new posting, but we are recycling the ebook number (see
+correction notices above, and for counters, note that this does not change
+the count):
+The Mirror of Literature, Amusement, & Instruction, Vol XIII, No. 365     3246
+   [April 11, 1829]
+   [Link: http://www.gutenberg.net/3/2/4/3246 ]
+   [Files: 3246.txt; 3246-8.txt; 3246-h.htm]
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jul 2004 The Robe, by Lloyd C Douglas                      [040056xx.xxx] 0364A
+   [http://gutenberg.net.au/ebooks04/0400561.txt or .zip ]
+   [and http://gutenberg.net.au/ebooks04/0400561h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Joe Loewenstein alerts us to #12875, Life in the Roman World of Nero and
+St. Paul, by T. G. Tucker:  A fascinating and extremely readable account of
+Roman life.
+
+Joe also adds this about #12884, "Reed Anthony, Cowman", by Andy Adams:
+Andy Adams wrote mostly about the old West from first-hand experience,
+having spent 8 years traildriving cattle from Texas to markets in the
+1880's. For more information about him see
+http://www.tsha.utexas.edu/handbook/online/articles/view/AA/fad4.html.
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_07_14_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_07_14_part_2.txt</a>

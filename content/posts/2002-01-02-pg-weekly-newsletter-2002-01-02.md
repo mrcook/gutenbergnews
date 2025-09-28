@@ -1,0 +1,829 @@
+---
+params:
+  id: 1868
+title: PG Weekly Newsletter (2002-01-02)
+date: 2002-01-02T20:53:53+00:00
+author: Michael Cook
+layout: post
+url: /20020102/pg-weekly-newsletter-2002-01-02/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 2 Jan 2002 12:56:34 -0500 (EST)
+
+
+The Project Gutenberg Weekly Newsletter For Wednesday, January 2, 2002
+
+In the 52 weeks since our January 3, 2001, Newsletter and we produced:
+1240 New eBooks in 2001!!
+103 1/3 eBooks per Month!
+About 24 eBooks per Week!
+About 3.3 eBooks per Day!
+
+I would like to do #5000 by July 4, 2002
+which will be our 31st Anniversary!!!!!!!
+
+This will give us 6 months until the
+July 3, 2002 Newsletter, which will
+mean we will have to average:
+117 New eBooks per Month. . .
+ 27 New eBooks per Week. . .
+ 3.85 New eBooks per Day. . .
+
+I have a feeling we can make it!
+
+
+***As of Today We Have***
+
+
+***4,292 Tree-Friendly Titles Online***
+
+***33 New Listings This Week***
+
+***1,240 New Listings This Year***
+
+***Only 54 Listings Are Now Reserved***
+***Last Year There Were Over 100***
+
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com &lt;mailto:hart@pobox.com&gt;
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+      - Intro
+      - Copyright research contact info
+      - Online proofreading team
+      - Making Donations
+      - Access to the collection
+      - Non-English Texts
+      - Information about Mirrors
+      - "Life + 50" Copyright Countries Listing
+      - Weekly etext update:
+        - Updated/corrected etexts
+        - 33 new U.S. etexts
+      - Production Statistics
+      - Newsscan/Edupage news
+      - Information about mailing lists
+      - Tagline
+
+***
+
+We need your support more than ever. . .donation information follows!
+
+Let me know if you can help us stay in contact with some of the places
+where we have been nominated for various cash awards. . .communication
+with some of these is sporadic, and we may have lost out on several of
+these that would have helped our budget a great deal, simply because a
+variety of email glitches kept us out of commication with them.
+
+***
+
+This week:  James Joyce's Ulysses has been posted as eText #4300!  And
+our previous count of 57 reserved etexts has been reduced to 54 with
+the posting of three more of Burton's Arabian Nights, #'s 3444-3446!
+
+***
+
+If you need to follow-up on materials sent in for copyright research,
+contact Michael Hart at hart@pobox.com.  Also send him a message if
+you recently sent in an etext to be posted, and haven't seen it
+announced yet.
+
+***
+
+The Online Distributed Proofreading Team proudly announces another record
+high month; in December we completed 18,903 pages!! December also included
+our new record high day with 1,195 pages completed on the 5th!!!!! How high
+can we go?! Stop on by and give us a hand!
+http://charlz.dns2go.com/gutenberg
+
+***
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search" feature at:
+
+http://promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+etexts in Bulgarian, Chinese, Danish, Dutch/Flemish, French,
+German, Italian, Japanese, Latin, Portuguese, Swedish and
+Welsh.  And, of course, English; and there are some who would
+count the language of DNA/GATC. . .
+
+And very-recently we added our first etext in Greek.
+
+Let's do even more languages. . .
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 01/02/02**:  4,292
+(This number includes the 34 etexts posted at the PG Australia web site.)
+
+Thru 01/02/01:  52 Weeks (364 days)
+                 1,240 total new etexts, yr-to-date.
+                 Monthly avg: 103.33
+                 Weekly avg:   23.85
+                 Daily avg:     3.41
+
+The above translates to the following;
+Our Total For The Year Is About 1,240,
+this is 3.41 per day or 102.2 Per 30 day month. . . .
+We are 52 weeks through the year. . .next week we will
+start a new 52 week calendar year of eBook production!
+
+These statistics are calculated based on full weeks of production,
+each production-week ending on a Wednesday, starting with the first
+Wednesday in Jan.  In 2001, Jan 3rd was the first Wednesday, and
+Jan 10th was the end of the first week of production.  And on this
+basis, etexts announced between Dec 26, 2001 and Jan 2, 2002 will
+be counted as the last week of production for 2001.
+
+Five years ago, in Dec 1996, we announced etext #768; this
+represented the output for the first 25 years of Project
+Gutenberg.  Five years later there are more than 4,250
+Project Gutenberg eBooks online.
+
+***
+
+--=={ REVISIONS, CORRECTIONS AND NEW FORMATS }==--
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt.
+
+
+Please note various changes and improvements below:
+Jul 2003 A Briefe and True Report, Thomas Hariot [Hariot 2][7brtrxxx.xxx]4273
+Jul 2003 A Briefe and True Report, Thomas Hariot [Hariot 2][8brtrxxx.xxx]4273
+was a duplicate of:
+Jul 2003 New Found Land Of Virginia, by Thomas Hariot      [7nflvxxx.xxx]4247
+Jul 2003 New Found Land Of Virginia, by Thomas Hariot      [8nflvxxx.xxx]4247
+So replaced by:
+Jul 2003 Nature Cure, by Henry Lindlahr                    [ncurexxx.xxx]4273
+
+Jul 2003 Abbeychurch, by Charlotte M Yonge       [Yonge#15][abchrxxx.xxx]4267
+[was actually our SEVENTEENTH Charlotte M Young, and should read:]
+Jul 2003 Abbeychurch, by Charlotte M Yonge       [Yonge#17][abchrxxx.xxx]4267
+
+Jun 2000 Kim, by Rudyard Kipling    [Rudyard Kipling #10]  [kimrkxxx.xxx]2226
+
+We have released improved 11th editions of both versions of this one:
+Feb 2003 The Valley of Fear, by Arthur Conan Doyle[Doyle29][vfearxxx.xxx]3776
+Jun 2002 The Valley of Fear, by Arthur Conan Doyle[Doyle28][vfearxxa.xxx]3289
+[This is vfear10a.txt and .zip, from a different source than vfear10.*]
+
+We have posted significantly improved and/or corrected 12th editions
+of the following:
+
+Jan 2000 Something New, by P.G. Wodehouse [P.G.Wodehouse#2][smtnwxxx.xxx]2042
+Jan 1998 The Count of Monte Cristo by Alexandre Dumas[Pere][crstoxxx.xxx]1184
+
+We have posted significantly improved and/or corrected 11th editions
+of the following:
+
+Mar 2003 Love Among the Chickens, by P. G. Wodehouse[PGW#6][lvchkxxx.xxx]3829
+Oct 2001 Framley Parsonage, by Anthony Trollope[Trollope#8][frmlyxxx.xxx]2860
+Jun 2000 Kim, by Rudyard Kipling    [Rudyard Kipling #10]  [kimrkxxx.xxx]2226
+Apr 1994 Treasure Island, by Robert Louis Stevenson [RLS2] [treasxxx.xxx] 120
+
+
+-={ NEW U.S. POSTS }=-
+
+***New eBooks For Project Gutenberg Readers This Week***
+
+Sep 2003 Ordeal Richard Feverel by G. Meredith, all [GM#18][gm18vxxx.xxx]4412
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v6  [GM#17][gm17vxxx.xxx]4411
+
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v5  [GM#16][gm16vxxx.xxx]4410
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v4  [GM#15][gm15vxxx.xxx]4409
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v3  [GM#14][gm14vxxx.xxx]4408
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v2  [GM#13][gm13vxxx.xxx]4407
+Sep 2003 Ordeal Richard Feverel by G. Meredith, v1  [GM#12][gm12vxxx.xxx]4406
+
+Jul 2003 Ulysses, by James Joyce                 [Joyce #4][ulyssxxx.xxx]4300
+[ulyss10.txt and ulyss10.zip, and ulyss10h.htm and ulyss10h.zip
+Jul 2003 The Whirlpool, by George Gissing       [Gissing#5][whrplxxx.xxx]4299
+Jul 2003 The Paying Guest, by George Gissing    [Gissing#4][pygstxxx.xxx]4298
+Jul 2003 Eve's Ransom, by George Gissing        [Gissing#3][vrnsmxxx.xxx]4297
+Jul 2003 Friarswood Post Office, Charlotte M. Yonge   [#19][frwpsxxx.xxx]4296
+
+Jul 2003 Songs of Action, Arthur Conan Doyle    [Doyle #30][sgactxxx.xxx]4295
+Jul 2003 Tales of Aztlan, George Hartmann                  [toaztxxx.xxx]4294
+[Full title: Tales of Aztlan, The Romance of a Hero of our Late
+  Spanish-American War, Incidents of Interest from the Life of a western
+  Pioneer and Other Tales.]
+Jul 2003 Neal, the Miller, James Otis                      [nealmxxx.xxx]4293
+Jul 2003 Copyright Basics, US Copyright Office    [USCO #2][clbasxxx.xxx]4292
+Jul 2003 U.S.A. Copyright Law, US Copyright Office[USCO #1][clusaxxx.xxx]4291
+[Full title: Copyright Law of the United States of America and
+  Related Laws Contained in Title 17 of the United States Code, Circular 92]
+
+Jul 2003 The Dominion in 1983, Ralph Centennius            [dominxxx.xxx]4290
+Jul 2003 The Duchess Of Berry/Charles X, Imbert de St-Amand[dberrxxx.xxx]4289
+Jul 2003 The Rich Mrs. Burgoyne, Kathleen Norris[Norris #3][rburgxxx.xxx]4288
+Jul 2003 The Red Planet, William J. Locke        [Locke #2][rplanxxx.xxx]4287
+Jul 2003 Mastery of Self, Frank Channing Haddock           [mselfxxx.xxx]4286
+
+Jul 2003 The Master-Christian, Marie Corelli   [Corelli #4][mchrixxx.xxx]4285
+Jul 2003 The Window-Gazer, Isabel Ecclestone Mackay        [wgazexxx.xxx]4284
+Jul 2003 Brazilian Sketches, T. B. Ray                     [brazsxxx.xxx]4283
+Jul 2003 Don Rodriguez, Lord Dunsany           [Dunsany #2][drodrxxx.xxx]4282
+[Author's real name: Edward John Plunkett]
+Jul 2003 Helen's Babies, John Habberton                    [babiexxx.xxx]4281
+
+Jul 2003 The Critique of Pure Reason, by Immanuel Kant     [cprrnxxx.xxx]4280
+Jul 2003 Winter Sunshine, by John Burroughs   [Burroughs#2][wntshxxx.xxx]4279
+Jul 2003 An Introduction to Yoga, by Annie Besant          [inyogxxx.xxx]4278
+
+
+Sep 2002 1001 Nights[Arabian Nights], V12 by Richard Burton[c1001xxx.xxx]3446
+[Title: Supplemental Nights, Volume 2]
+Sep 2002 1001 Nights[Arabian Nights], V11 by Richard Burton[b1001xxx.xxx]3445
+[Title: Supplemental Nights, Volume 1]
+Sep 2002 1001 Nights[Arabian Nights], V10 by Richard Burton[a1001xxx.xxx]3444
+
+
+--=={ ETEXT "COST" $$$ & PRODUCTION STATISTICS }==--
+
+With 4,292 eTexts online as of January 2, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.33 from each book,
+for Project Gutenberg to have already given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.40 when we had 4161 Etexts on Dec 5
+This "cost" is down from $2.46 when we had 4059 Etexts on Nov 1
+This "cost" is down from $2.53 when we had 3951 Etexts on Oct 3
+This "cost" is down from $2.61 when we had 3828 Etexts on Sep 5
+This "cost" is down from $2.70 when we had 3709 Etexts on Aug 1
+This "cost" is down from $2.76 when we had 3620 Etexts on Jul 4
+This "cost" is down from $2.83 when we had 3534 Etexts on Jun 6
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2
+This "cost" is down from $2.97 when we had 3367 Etexts on Apr 4
+[This was the month we released two full Newsletters at one time]
+[Also just after this changeover, we subtracted out reserved ##s]
+This "cost" is down from $3.00 when we had 3333 Etexts on Apr 4
+This "cost" is down from $3.10 when we had 3225 Etexts on Mar 7
+This "cost" is down from $3.17 when we had 3150 Etexts on Feb 6
+This "cost" is down from $3.23 when we had 3100 Etexts on Jan 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on Dec 6, 2000
+
+
+***
+
+**Production Statistics
+
+(NOTE:  Monthly statistics based on production as
+  announced in gmonthly newsletters.)
+
+Monthly Average   103.33
+
+Yr-to-date total:  1,240
+
+December Total       131
+November Total        87
+October Total        121
+September Totl       119
+August Total         123
+July Total            93
+June Total            87
+May Total             90
+April Total           82
+March Total          132
+February Total        75
+January Total        100
+
+**Weekly production:
+
+Month          ###        Total Year
+01/02/02        33           1,240
+12/26/01        27           1,207
+12/19/01        32           1,180
+12/12/01        39           1,148
+4 Weeks
+December Total 131
+
+12/05/01        19           1,109
+11/28/01        29           1,090
+11/21/01        19           1,061
+11/14/01        20           1,042
+4 Weeks
+November Total  87
+
+11/07/01        14           1,022
+10/31/01        23           1,008
+10/24/01        31             985
+10/17/01        31             954
+10/10/01        22             923
+5 Weeks
+October Total  121
+
+10/03/01        30             901
+09/26/01        27             871
+09/19/01        31             844
+09/12/01        31             813
+4 Weeks
+September Totl 119
+
+
+09/05/01        28             782
+08/29/01        24             754
+08/22/01        21             730
+08/15/01        30             709
+08/08/01        20             679
+5 Weeks
+August Total   123
+
+08/01/01        22             659
+07/25/01        25             637
+07/18/01        22             612
+07/11/01        24             590
+4 Weeks
+July Total      93
+
+07/04/01        29             566
+06/27/01        22             537
+06/20/01        19             515
+06/13/01        17             496
+4 Weeks
+June Total      87
+
+06/06/01        20             479
+05/31/01        18             459
+05/23/01        16             441
+05/16/01        18             425
+05/09/01        18             407
+5 Weeks
+May Total       90
+
+05/02/01        39             389
+04/25/01        15             350
+04/18/01        16             335
+04/11/01        12             319
+4 Weeks
+April Total     82
+*Start of weekly!*
+*New Newsletters!*
+*Averages Below!!*
+04/04/01        33             307
+03/28/01        33             274
+03/21/01        33             241
+03/14/01        33             208
+4 Weeks
+March Total    132
+
+03/07/01        15             175
+02/28/01        15             160
+02/21/01        15             145
+02/14/01        15             130
+02/07/01        15             115
+5 Weeks
+February Total  75
+
+01/31/01        25             100
+01/24/01        25              77
+01/17/01        25              50
+01/10/01        25              25
+4 Weeks
+January Total  100
+******
+
+1st Qtr ending 04/04/01 (13 weeks):
+     307 total for an avg. of 23.62/wk
+2nd Qtr ending 07/04/01 (13 weeks):
+     259 total for an avg. of 19.952/wk
+3rd Qtr ending 10/03/01 (13 weeks):
+     335 total for an avg. of 25.77/wk
+4th Qtr ending 01/02/02 (13 weeks):
+     334 total for an avg. of 25.69/wk
+
+***
+
+[In case you wondered who was buying up your telephone company
+without much of any real media coverage, it is Southwestern Bell
+Corporation, rarely, if ever, mentioned now other than as SBC.
+They bought Southwestern Bell, Ameritech, PacificBell, Nevada Bell,
+SNET, Cingular, Sterling Commerce, and Prodigy Communications,
+as far as I can tell, and are now starting on Yahoo!. . .let's
+just hope Google never sells out.]
+
+SBC ACQUIRES STAKE IN YAHOO
+SBC Communications, the No. 2 U.S. local telecom operator, is buying a 3%
+stake in Yahoo from Softbank America for undisclosed terms. The move comes
+on the heels of last month's agreement between the two companies to connect
+Yahoo's content with SBC's 3.6 million Internet customers. "This purchase
+will strengthen the new SBC and Yahoo relationship, further solidifying the
+premier alliance between the nation's leading DSL Internet provider and the
+number one global Internet destination," says SBC chairman and CEO Edward
+Whitacre. (Financial Times 28 Dec 2001)
+http://news.ft.com/news/industries/media
+
+
+[Meanwhile, talk about eating while being eaten [see "Trenco"]
+
+YAHOO WINS HOTJOBS AFTER RIVAL BIDDER DROPS OUT
+Yahoo has been successful in its attempt to acquire HotJobs, the Internet's
+second-largest site devoted to job-seeking. TMP Worldwide, which had agreed
+to buy HotJobs six months ago, decided it was not interested in engaging in
+a bidding war. (New York Times 28 Dec 2001)
+http://partners.nytimes.com/2001/12/28/technology/28NET.html
+
+
+["When R&D Bugdets Go, You Can Be Sure All Else Will Follow"]
+[Quote from a Zenith employee when Sony killed of their R&D]
+
+U.S. R&D SPENDING TO GROW JUST 3.2% NEXT YEAR
+Corporate spending on research and development will grow by just 3.2% in
+2002, for a total of about $195 billion, according to research compiled by
+Battelle Memorial Institute and R&D Magazine. The growth rate is down from
+an estimated 5.4% in 2001 and 10.8% in 2000. Meanwhile, with corporate
+spending down, that means that for the first time in years, the government
+is expected to increase its R&D spending more than industry next year.
+According to Battelle, government R&D expenditures will increase 4.7% to
+$75.5 billion next year, up from 1.3% in 2001. (Wall Street Journal 28 Dec
+2001)
+http://interactive.wsj.com/articles/SB1009492193571530640.htm (sub req'd)
+
+THE FUTURE OF E-PUBLISHING
+Although e-publishing has suffered a series of setbacks this year, Wired
+magazine still found plenty of optimism about the future of e-books. Michael
+S. Hart of Project Gutenberg, which offers books in electronic form, says:
+"In 2002 the number of e-books available for free download on the Net will
+pass 20,000 and the number of Net users will start heading towards 1 billion."
+Librarian Cynthia Orr, a co-founder of BookBrowser.com, thinks e-publishers
+should pay more attention to libraries, and says that if the major
+publishers worked with librarians or distributors "to figure out how to let
+libraries purchase or license their e-books, and let readers 'check them
+out' for free," that would help build "a market that otherwise threatens to
+just collapse for lack of interest. Librarians have been careful defenders
+of copyright over the years ... and our budgets are far higher than they
+realize." And Mark Gross, president of Data Conversion Laboratory, thinks
+that the e-publishing has already won a stealth war: ""What people forget is
+e-books were going strong before they were called e-books and they went on
+to sweep into many aspects of business and publishing. Most of this has gone
+unnoticed by the media. Probably because it has been a kind of backdoor
+revolution. To cite one example: Print law books are just about gone. People
+don't use them in law firms anymore. It's all electronic books or online. A
+revolution has occurred, but no one's noticed." (Wired 25 Dec 2001)
+http://www.wired.com/news/culture/0,1284,49297,00.html
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+[Not to mention that cellphones will be reporting locations in 2002]
+
+THE SURVEILLANCE SOCIETY
+In the battle between privacy and security, the events of Sept.
+11 may favor security, but the United States was leaning toward
+surveillance even before that. Americans now seem more willing
+to accept technologies that can be used to track them, as long
+as they offer protection. Cameras mounted on traffic lights,
+electronic cards that record users' locations, and computerized
+financial records are only the tip of the surveillance iceberg.
+Law enforcement agencies are taking advantage of tools that
+allow them to follow data trails to apprehend criminals and
+suspects. Cameras that use face-recognition software are widely
+accepted in Britain, where about 1.5 million police surveillance
+units are in operation, with more on the way. Researchers are
+developing software that can gather information from a wide
+variety of disparate sources based on user requests. The level
+of protection that society desires raises fears that a giant
+surveillance network could be created--one that could erase
+personal privacy and public anonymity. However, citizens can
+use the same technology to make sure that the government does
+not exceed its authority and acts responsibly. (Wired, December 2001)
+
+
+[Not to mention Disney's totally obvious control of the ABC TV Network]
+
+A TROUBLING TREND
+Even as the Internet population continues to surge, there are
+fewer channels for Web content to flow through as smaller Internet
+firms close up and carriers begin restricting broadcasting
+capabilities. Part of the reason for the limited content is
+that Internet users are becoming more savvy about where to
+find exactly what they need and surfing fewer sites as a result.
+But now there is the threat that companies that own both the
+infrastructure and content will keep smaller companies and
+individuals from publishing on the Web. Stanford professor
+Lawrence Lessig warns of corporations such as AOL that will
+leverage their ownership of cable lines to favor their own
+content. He gives the example of some cable Internet providers
+that prevent users from running Web servers and broadcasting
+large numbers of video streams.
+(International Herald Tribune, 31 December 2001)
+
+
+[Now you know why so many people refuse to enter their
+real names when starting up various operating systems,
+since those names can never be deleted, even if you do
+a complete reinstall. . .they mention Thought Police.]
+
+A WATCH LIST FOR 2002: COPYRIGHTS
+In 2001 the entertainment industry tried to staunch the flow
+of pirated material over the Internet by suing the Internet
+companies over whose networks such copyright infringement took
+place. That strategy proved ineffective, so the new target for
+2002 will be the pirates--namely, consumers--themselves. "It's
+not companies doing this; it's hobbyists in their garage,"
+explained Forrester Research analyst Eric Scheirer. "To stop
+hobbyists requires a whole new level of copyright enforcement."
+Scheirer expects to see entertainment-industry lawsuits aimed
+at consumers next year. Meanwhile, the industry is pressuring
+computer and consumer electronics manufacturers to enhance their
+products with technology that can block consumers from playing
+pirated software. Several movie studios are backing a proposal
+from Sen. Ernest F. Hollings (D-S.C.) that would make such
+technologies a requirement.
+(New York Times, 31 December 2001)
+
+[Do you really think the government will try to stop Hollywood?]
+
+FEDS PROBE HOLLYWOOD INTERNET MOVIE VENTURES
+Two separate ventures by Hollywood studios to offer Web-based
+video-on-demand are being investigated by the Justice Department.
+Both efforts "may substantially lessen competition or tend to
+create a monopoly in the market for video-on-demand services and
+related movie products," according to a civil subpoena obtained
+by the Wall Street Journal. Competitors are concerned that the
+ventures will use their influence to raise fees, or will refuse
+to license their films to other digital movie companies. One of
+the efforts, MovieFly, includes Sony, Warner, Paramount, MGM,
+and Universal; Disney and 20th Century Fox have teamed up for
+the second service, Movies.com. Video-on-demand customers can
+download movies on set-top boxes or on their computers from the
+Internet. The service is expected to boom with a projected surge
+in broadband use.
+(NewsFactor Network, 21 December 2001)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+     gmonthly (for monthly newsletters)
+     gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+           subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+           subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+           unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+". . .and yes I said yes I will Yes." -- Molly Bloom
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2002_01_02.txt" target="_blank" rel="nofollow">pgweekly_2002_01_02.txt</a>

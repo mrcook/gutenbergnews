@@ -1,0 +1,449 @@
+---
+params:
+  id: 2147
+title: "PG Weekly Newsletter: Part 2 (2004-06-02)"
+date: 2004-06-02T13:12:03+00:00
+author: Michael Cook
+layout: post
+url: /20040602/pg-weekly-newsletter-2004-06-02-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 06 Jun 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+      Please read about the updating/renaming process.
+  - Updates/corrections to previously posted eBooks
+  - 48 New U.S. eBooks this week
+  - No New eBooks this week at PG Australia
+  - Last, but not least:  insights and other fine stuff
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the world,
+and you can select one nearer to your location from the link on the search
+results page.  To see a listing of mirror sites, and locate the one nearest
+to you, visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+* * *
+
+Please see the Part 1 of this week's newsletter for more information
+about Project Gutenberg.  And if you haven't done so lately, please visit
+the website at http://gutenberg.net to see what's new.
+
+* * *
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 06 Jun 2004:  12,808 (incl. 359 Aus.).
+
+Last week the Total Count was 12,760, including 359 at PG of Australia.
+This week we added ?? new (including ? new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+CONVERTING OLD EBOOKS TO THE NEW FILENAMING AND DIRECTORY SYSTEM:
+
+As of 18 May 04, Project Gutenberg volunteers began the process of
+manually transferring the eBooks with numbers between 1 and 10000 to the
+new directory structure.  This means that the files which were
+previously posted in etext dirs based on their "official release year"
+are now being posted in directories based on their filename.
+
+This process includes, where possible and practicable, repairing,
+correcting, and re-formatting to current PG standards, and in the
+beginning stages will be very slow.  Place-holder files are being inserted
+in the original file locations, directing user's to the new location.  The
+pointers on the PG search page are being updated as changes are made.
+
+It should be noted that one of the primary benefits of the new file
+system is that HTML files, especially illustrated HTML files, can now be
+viewed directly online rather than having to be downloaded.
+
+During the past week we did not process any new ebooks per the above, but
+are including this message for information purposes.
+
+
+.:: Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the title ("Nibelungenlied",
+not "Nibelungendlied"):
+Jan 2005 Nibelungenlied, trans. by George Henry Needler    [niebnxxx.xxx] 7321
+
+The following has been re-posted in HTML format:
+Dec 2005 The Little Colonel, by Anne Fellows Johnston      [tlcolxxx.xxx] 9407
+
+
+-=-=-=-=[  48 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Recent Tendencies in Ethics, by William Ritchie Sorley                   12492
+  [Subtitle: Three Lectures to Clergy Given at Cambridge]
+  [Link: http://www.gutenberg.net/1/2/4/9/12492 ]
+  [Files: 12492.txt; 12492-8.txt; ]
+
+Twelve Types, by G.K. Chesterton                                         12491
+  [Link: http://www.gutenberg.net/1/2/4/9/12491 ]
+  [Files: 12491.txt; 12491-8.txt; 12491-h.htm]
+
+Scientific American Supplement, No. 492, June 6, 1885, by Various        12490
+  [Link: http://www.gutenberg.net/1/2/4/9/12490 ]
+  [Files: 12490.txt; 12490-8.txt; 12490-h.htm]
+
+L'art de la mise en scene, by L. Becq de Fouquieres                      12489
+  [Subtitle: Essai d'esthetique theatrale]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/8/12489 ]
+  [Files: 12489-8.txt; 12489-h.htm]
+
+Nouveaux contes extraordinaires, by Benedict H. Revoil                   12488
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/8/12488 ]
+  [Files: 12488-8.txt]
+
+A quoi tient l'amour?, by Emile Blemont                                  12487
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/8/12487 ]
+  [Files: 12487-8.txt]
+
+Indian Nullification, by William Apes                                    12486
+  [Full title: Indian Nullification of the Unconstitutional Laws of
+   Massachusetts Relative to the Marshpee Tribe: or, The Pretended Riot
+   Explained]
+  [Link: http://www.gutenberg.net/1/2/4/8/12486 ]
+  [Files: 12486.txt; 12486-8.txt]
+
+The Three Brides, by Charlotte M. Yonge                                  12485
+  [Link: http://www.gutenberg.net/1/2/4/8/12485 ]
+  [Files: 12485.txt; 12485-h.htm]
+
+The Knave of Diamonds, by Ethel May Dell                                 12484
+  [Link: http://www.gutenberg.net/1/2/4/8/12484 ]
+  [Files: 12484.txt; 12484-8.txt; ]
+
+Reminiscences of Scottish Life and Character, by Edward Bannerman Ramsay 12483
+  [And a Memoir of Dean E. B. Ramsay by Cosmo Innes]
+  [Link: http://www.gutenberg.net/1/2/4/8/12483 ]
+  [Files: 12483.txt; 12483-8.txt; 12483-h.htm; ]
+
+The Mettle of the Pasture, by James Lane Allen                           12482
+  [Link: http://www.gutenberg.net/1/2/4/8/12482 ]
+  [Files: 12482.txt; ]
+
+Hero Tales of the Far North, by Jacob A. Riis                            12481
+  [Link: http://www.gutenberg.net/1/2/4/8/12481 ]
+  [Files: 12481.txt; 12481-8.txt; 12481-h.htm; ]
+
+Clairvoyance and Occult Powers, by Swami Panchadasi                      12480
+  [Subtitle: Including Clairvoyance, Clairaudience, Premonition And
+   Impressions, Clairvoyant Psychometry, Clairvoyant Crystal-Gazing,
+   Distant Clairvoyance, Past Clairvoyance, Future Clairvoyance,
+   Second-Sight, Prevision, Clairvoyant Development, Astral-Body Traveling,
+   Astral-Plane Phenomena, Psychic Influence--Personal and Distant Psychic
+   Attraction, Psychic Healing, Telepathy, Mind-Reading, Thought
+   Transference, and Other Psychic Phenomena]
+  [Link: http://www.gutenberg.net/1/2/4/8/12480 ]
+  [Files: 12480.txt; 12480-h.htm; ]
+
+San Zi Jing [220-581 A.D.], by Anonymous                                 12479
+  [Language: Chinese][Encoding: Big5]
+  [Link: http://www.gutenberg.net/1/2/4/7/12479 ]
+  [Files: 12479.txt; 12479-8.txt]
+
+Books and Characters, by Lytton Strachey                                 12478
+  [Subtitle: French and English]
+  [Link: http://www.gutenberg.net/1/2/4/7/12478 ]
+  [Files: 12478.txt; 12478-8.txt; 12478-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, by Various         12477
+  [Subtitle: Volume 13, No. 356, Saturday, February 14, 1829]
+  [Link: http://www.gutenberg.net/1/2/4/7/12477 ]
+  [Files: 12477.txt; 12477-8.txt; 12477-h.htm]
+
+Ships That Pass In The Night, by Beatrice Harraden                       12476
+  [Link: http://www.gutenberg.net/1/2/4/7/12476 ]
+  [Files: 12476.txt; 12476-8.txt]
+
+Fires of Driftwood, by Isabel Ecclestone Mackay                          12475
+  [Link: http://www.gutenberg.net/1/2/4/7/12475 ]
+  [Files: 12475.txt; 12475-h.htm]
+
+Write It Right, by Ambrose Bierce                                        12474
+  [Subtitle: A Little Blacklist of Literary Faults]
+  [Link: http://www.gutenberg.net/1/2/4/7/12474 ]
+  [Files: 12474.txt; 12474-8.txt; 12474-h.htm]
+
+German Classics of the 19th & 20th Centuries, Vol. VI, Ed. by Francke    12473
+  [Title: The German Classics of The Nineteenth and Twentieth Centuries,
+   Vol. VI]
+  [Subtitle: Masterpieces of German Literature Translated into English.
+   In Twenty Volumes.]
+  [Editor-in-Chief: Kuno Francke]
+  [Contibutors: Heinrich Heine, Franz Grillparzer, Ludwig Van Beethoven]
+  [Link: http://www.gutenberg.net/1/2/4/7/12473 ]
+  [Files: 12473.txt; 12473-8.txt]
+
+Bataille De Dames, by Eugene Scribe and Ernest Legouve                   12472
+  [With Introduction, Notes, and Vocabulary by Benj. W. Wells]
+  [Link: http://www.gutenberg.net/1/2/4/7/12472 ]
+  [Files: 12472.txt; 12472-8.txt; 12472-h.htm]
+
+What I Remember, Volume 2, by Thomas Adolphus Trollope                   12471
+  [Link: http://www.gutenberg.net/1/2/4/7/12471 ]
+  [Files: 12471.txt; 12471-8.txt; ]
+
+A Perilous Secret, by Charles Reade                                      12470
+  [Link: http://www.gutenberg.net/1/2/4/7/12470 ]
+  [Files: 12470.txt; 12470-8.txt]
+
+Punch, Vol. 99, November 8, 1890, Ed. by Sir Francis Burnand             12469
+  [Link: http://www.gutenberg.net/1/2/4/6/12469 ]
+  [Files: 12469.txt; 12469-8.txt; 12469-h.htm]
+
+
+Punch, Vol. 99, October 11, 1890, Ed. by Sir Francis Burnand             12467
+  [Link: http://www.gutenberg.net/1/2/4/6/12467 ]
+  [Files: 12467.txt; 12467-8.txt; 12467-h.htm]
+
+Punch, Vol. 99, September 20, 1890, Ed. by Sir Francis Burnand           12466
+  [Link: http://www.gutenberg.net/1/2/4/6/12466 ]
+  [Files: 12466.txt; 12466-8.txt; 12466-h.htm]
+
+Punch, Vol. 146, January 21, 1914, Ed. by Owen Seaman                    12465
+  [Link: http://www.gutenberg.net/1/2/4/6/12465 ]
+  [Files: 12465.txt; 12465-8.txt; 12465-h.htm]
+
+
+Messages and Papers of the Presidents: John Tyler, Ed. by Richardson     12464
+  [Title: A Compilation of the Messages and Papers of the Presidents,
+   Vol. 4, Part 2 of 3, John Tyler]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/2/4/6/12464 ]
+  [Files: 12464.txt; 12464-8.txt; 12464-h.htm]
+
+Messages and Papers of the Presidents: James Knox Polk, by Richardson    12463
+  [Title: A Compilation of the Messages and Papers of the Presidents,
+   Vol. 4, Part 3 of 3, James Knox Polk]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/2/4/6/12463 ]
+  [Files: 12463.txt; 12463-8.txt; 12463-h.htm]
+
+Messages and Papers of the Presidents: Abraham Lincoln, by Richardson    12462
+  [Title: A Compilation of the Messages and Papers of the Presidents,
+   Vol. 6, Part 1 of 2, Abraham Lincoln]
+  [Edited by James D. Richardson]
+  [Link: http://www.gutenberg.net/1/2/4/6/12462 ]
+  [Files: 12462.txt; 12462-8.txt; 12462-h.htm]
+
+Castles in the Air, by Baroness Emmuska Orczy                            12461
+  [Link: http://www.gutenberg.net/1/2/4/6/12461 ]
+  [Files: 12461.txt; 12461-8.txt]
+
+Pomona's Travels, by Frank R. Stockton                                   12460
+  [Subtitle: A Series of Letters to the Mistress of Rudder Grange
+   from her Former Handmaiden]
+  [Link: http://www.gutenberg.net/1/2/4/6/12460 ]
+  [Files: 12460.txt; 12460-8.txt; 12460-h.htm]
+
+Contes et poesies de Prosper Jourdan: 1854-1866, by Prosper Jourdan      12459
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/5/12459 ]
+  [Files: 12459.txt; 12459-8.txt]
+
+The Talisman, by George Borrow                                           12458
+  [Subtitle: From the Russian of Alexander Pushkin.  With Other Pieces]
+  [Link: http://www.gutenberg.net/1/2/4/5/12458 ]
+  [Files: 12458.txt; 12458-h.htm ]
+
+El Diablo Cojuelo, by Luis Velez de Guevara                              12457
+  [Prologo y Notas de Francisco Rodriguez Marin
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/2/4/5/12457 ]
+  [Files: 12457.txt; 12457-8.txt; 12457-h.htm]
+
+The Troubadours, by H.J. Chaytor                                         12456
+  [Link: http://www.gutenberg.net/1/2/4/5/12456 ]
+  [Files: 12456.txt; 12456-8.txt; 12456-h.htm]
+
+Legends of the Middle Ages, by H.A. Guerber                              12455
+  [Subtitle: Narrated with Special Reference to Literature and Art]
+  [Link: http://www.gutenberg.net/1/2/4/5/12455 ]
+  [Files: 12455.txt; 12455-8.txt]
+
+France At War, by Rudyard Kipling                                        12454
+  [Subtitle: On the Frontier of Civilization]
+  [Link: http://www.gutenberg.net/1/2/4/5/12454 ]
+  [Files: 12454.txt]
+
+Miriam Monfort, by Catherine A. Warfield                                 12453
+  [Link: http://www.gutenberg.net/1/2/4/5/12453 ]
+  [Files: 12453.txt; 12453-8.txt; 12453-h.htm]
+
+Fort Lafayette or, Love and Secession, by Benjamin Wood                  12452
+  [Link: http://www.gutenberg.net/1/2/4/5/12452 ]
+  [Files: 12452.txt; 12452-8.txt; 12452-h.htm]
+
+De profundis! by Carolus [Charles-Auguste Durand]                        12451
+  [Subtitle: Episode Maritime] [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/5/12451 ]
+  [Files: 12451.txt; 12451-8.txt]
+
+The Reason Why, by Elinor Glyn                                           12450
+  [Link: http://www.gutenberg.net/1/2/4/5/12450 ]
+  [Files: 12450.txt; 12450-8.txt; 12450-h.htm]
+
+A Reputed Changeling, by Charlotte M. Yonge                              12449
+  [Subtitle: Three Seventh Years Two Centuries Ago]
+  [Link: http://www.gutenberg.net/1/2/4/4/12449 ]
+  [Files: 12449.txt; 12449-h.htm ]
+
+L'Orco, by George Sand                                                   12448
+  [Author AKA: Aurore Dupin; Amandine-Aurore-Lucile Dupin]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/4/12448 ]
+  [Files: 12448-8.txt; ]
+
+Pauline, by George Sand                                                  12447
+  [Author AKA: Aurore Dupin; Amandine-Aurore-Lucile Dupin]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/2/4/4/12447 ]
+  [Files: 12447-8.txt; ]
+
+Il Designato, by Luciano Zuccoli [AKA: Luciano Von Ingenheim]            12446
+  [Language: Italian]
+  [Link: http://www.gutenberg.net/1/2/4/4/12446 ]
+  [Files: 12446-8.txt; ]
+
+The Water-Witch, or, The Skimmer of the Seas, by James Fenimore Cooper   12445
+  [Link: http://www.gutenberg.net/1/2/4/4/12445 ]
+  [Files: 12445.txt; 12445-8.txt; 12445-h.htm]
+
+Toaster's Handbook, compiled by Peggy Edmund & Harold W. Williams        12444
+  [Subtitle: Jokes Stories, and Quotations]
+  [Introductions by Mary Katharine Reely]
+  [Link: http://www.gutenberg.net/1/2/4/4/12444 ]
+  [Files: 12444.txt; 12444-8.txt; 12444-h.htm]
+
+
+
+=============================================================================
+
+David Price, in "Cloudy England", sends along these notes about #12458
+"The Talisman":
+
+For those wishing to know: George Borrow, English traveller and polyglot
+had been sent to Russia ("I possess some acquaintance with the Russian")
+by the British Bible Society in order to supervise the production of a
+Manchu (Chinese, he'd learnt that a few months before) Bible.  The Talisman
+is one of the two books he produced (and printed) whilst in Russia.  It's
+very short - just five translations of Russian poems.  George wasn't a
+good poet but what they lack in polish they make up for in spirit.  The
+book's important because of its place in George's life - rather than its
+content.
+
+This book is extremely rare - even in reprints.  My own copy is a reprint
+of 1913, part of a small print run.  It cost me very serious money!
+
+Those wishing to know more of George and his strange life can read all
+about it in Herbert Jenkins' "The Life of George Borrow" - eText 3481.
+
+. . .
+
+Later, when it was just "Overcast England", he sent along this brief note
+about #12485 "The Three Brides", by Charlotte M. Yonge:
+
+For those wishing to know: Mrs. Charnock Poynsett, a rich widow, has four sons.
+For reasons unknown three get married at the same time, and bring their
+wives back to the family home.  The story follows the brothers, wives, Mrs.
+Poynsett and various other characters as the situation works itself out.
+
+. . .
+
+And the irrepressible Jim Tinsely, regarding eBook #12461, "Castles in
+the Air", by Baroness Emmuska Orczy, commented thusly:
+
+Seven stories about an amiable rogue whose schemes never turn out quite as
+he expects.
+. . .
+
+Your whimsical editor would like to recommend #12474, "Write It Right",
+by Ambrose Bierce; subtitled "A Little Blacklist of Literary Faults".
+Possibly parts are a tad bit out of date, but still worth perusing and
+considering, and, if nothing else, the pithy passages therein will be
+entertaining.
+
+. . .
+
+--[Space available for comments on current postings, as above, at the whim
+of the Whimsical Editor.]--
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_06_02_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_06_02_part_2.txt</a>

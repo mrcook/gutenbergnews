@@ -1,0 +1,694 @@
+---
+params:
+  id: 1924
+title: PG Weekly Newsletter (2002-10-16)
+date: 2002-10-16T17:05:52+00:00
+author: Michael Cook
+layout: post
+url: /20021016/pg-weekly-newsletter-2002-10-16/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, October 16, 2002*
+******eBooks Readable By Both Humans and Computers For Over 31 Years*****
+
+
+***Project Gutenberg wins the Stockholm Challenge Award***
+
+
+The Project Gutenberg Literary Archive Foundation from the U.S.
+won the 2002 Stockholm Challenge Award in the category "Culture."
+The project received the prize at an award ceremony at the
+Blue Hall in Stockholm City Hall, venue of the Nobel Banquet.
+
+As a Stockholm Challenge Award winner last Thursday, The Project
+Gutenberg Literary Archive Foundation was presented the Stockholm
+Challenge trophy that symbolises the technological progress in
+harmony with nature and the environment.
+
+The project set out in 1971 to prove the feasibility of the eBook
+concept and encourage creation and distribution of free eBooks.
+Today Project Gutenberg has produced over 6,000 eBooks, of the
+20,000+ listed by the Internet Public Library, and has mirror sites
+on every continent, including Antarctica. About 1,500 volunteers hope
+to produce about 2,400 more eBooks in 2002, nearly twice as many as
+the 1,240 they created in 2001.  For every one of those, similar
+organisations create three more, aiming to convert all materials
+entering the public domain in every language into free eBooks.
+By their 7,000th eBook, Project Gutenberg hopes to have included
+examples of books in 20 languages, and already has one eBook that
+contains selections translated into over 75 languages.
+
+Project Gutenberg's original goal was to create ten thousand eBooks
+and get them to one hundred million people, thus giving away a total
+of one trillion eBooks.
+
+Given that this goal may possibly be achieved by the end of 2003,
+Project Gutenberg is in the process of restructuring toward a new
+goal of getting one million eBook titles to one billion people,
+for a total of one quadrillion eBooks to be hopefully given away
+by the end of the year 2015.
+
+In total, 8 winners in 6 categories were awarded by the Mayor of
+Stockholm, Mr. Carl Cederschild, in the Stockholm City Hall, one
+of the most renown buildings in the world as it hosts the annual
+Nobel Prize banquet.  This year IT projects from 78 countries
+throughout the world were nominated in the Stockholm Challenge.
+
+The Stockholm Challenge Award focuses on the positive effects of
+the information society, trying to bridge what is usually called
+the Digital Divide. The 28 member international jury looks for
+exemplary use of information technology that has an impact on
+public lives. The Stockholm Challenge Award is a non-profit
+initiative of the City of Stockholm. Participating projects
+are private, public or academic.
+
+
+We were happy to see that bookshare.org won in Education.
+They distribute Project Gutenberg books, and focus on providing
+literature in Braille and other formats to the blind.
+
+***
+
+
+
+  ***The 12th Week Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+
+
+
+
+Aug 1999 Tartarin of Tarascon, by Alphonse Daudet          [trtrnxxx.xxx]1862
+Aug 1999 An Old Town By The Sea by Thomas Bailey Aldrich #6[ldtwnxxx.xxx]1861
+Aug 1999 Westward Ho! by Charles Kingsley[Chas Kingsley #8][wsthoxxx.xxx]1860
+Aug 1999 The Works of Max Beerbohm, by Max Beerbohm[Max #6][twombxxx.xxx]1859
+Aug 1999 Plain Tales from the Hills, by Rudyard Kipling[#6][ptfthxxx.xxx]1858
+Aug 1999 Initials Only, by Anna Katharine Green  [Green #3][ionlyxxx.xxx]1857
+Aug 1999 Cousin Pons, by Honore de Balzac   [de Balzac #74][cspnsxxx.xxx]1856
+Aug 1999 Ban and Arriere Ban, by Andrew Lang[Andr. Lang#15][bnabnxxx.xxx]1855
+Aug 1999 Catherine de Medici, by Honore de Balzac/Balzac#73[ctdmdxxx.xxx]1854
+Aug 1999 The Ninth Vibration, et. al., by L. Adams Beck #8 [9thvbxxx.xxx]1853
+Aug 1999 Lucile, by Owen Meredith                          [lucilxxx.xxx]1852
+Aug 1999 The Woman in the Alcove by Anna Katharine Green #2[wintaxxx.xxx]1851
+Aug 1999 Old Christmas, by Washington Irving    [Irving #5][oxmasxxx.xxx]1850
+Aug 1999 The Yellow Crayon, by E. Phillips Oppenheim[EPO#5][ycrynxxx.xxx]1849
+Aug 1999 Montezuma's Daughter, by H. Rider Haggard [HRH #7][mzdtrxxx.xxx]1848
+Aug 1999 Songs, Merry and Sad, by John Charles McNeill     [sngmsxxx.xxx]1847
+Aug 1999 The Vision Splendid, by William MacLeod Raine [#3][vspldxxx.xxx]1846
+Aug 1999 Zuleika Dobson, by Max Beerbohm  [Max Beerbohm #5][zdbsnxxx.xxx]1845
+Aug 1999 The Scholemaster, by Roger Ascham  [In Markup]    [smstrxxx.xxx]1844
+[AKA:  The Schoolmaster, by Roger Ascham]
+Aug 1999 Vera, The Medium, by Richard Harding Davis[RHD#29][veramxxx.xxx]1843
+
+Aug 1999 Michael Strogoff, by Jules Verne [Jules Verne #10][strgfxxx.xxx]1842
+
+
+Today Is Day #283 Day of 2002
+83 Days/11 Weeks Left Until 2003
+[Our production year begins the
+2nd Wednesday of the month/year]
+
+
+This the 26th Week Of Our SECOND 5,000 eBooks
+
+15 Months From Today, Perhaps Our 10,000th eBook!
+
+2,140   New eBooks In The Last 12 Months
+4,006   eBooks This Week Last Year
+6,145   Tree-Friendly Titles Now Online
+
+  196   Monthly Average This Year!!!
+  779   New At This Week of 2001
+ 1855   New eBooks In 2002
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Newest Mirror
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Please try the latest PG mirror:
+
+At the Municipal Libraries of Copenhagen
+
+***
+
+Requests For Assistance:
+
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+CIA FACT BOOK READY FOR FORMATTING
+
+The 2002 edition of the CIA World Fact Book is now
+available at http://www.cia.gov/cia/publications/factbook/index.html
+Project Gutenberg needs a volunteer to harvest and reformat
+this work into plain text (HTML is optional).  See our previous
+WFB's for formatting idea.  Interested?  Email gbnewby@ils.unc.edu
+
+***
+
+If we could get a volunteer to scan them in a similarly large size
+to the other Alice illustrations, then I could have a go at producing
+an illustrated version of "Through the Looking Glass".
+[This would require scanning about 50 illustrations]
+
+***
+
+If you go to the Cigna web site and click on the pink ribbon, Cigna will
+donate $1.00 to fight breast cancer.  Only good the month of October.
+[Warning, I heard they were overloaded, and shut down the site. . .]
+
+
+
+PROJECT GUTENBERG IS SEEKING PRODUCTION COORDINATORS
+
+Do you like working with different file formats and character sets,
+have skills with text editors, know a little Unix?  Can you handle
+receiving large file attachments by email?  Do you have a passion for
+making Project Gutenberg's eBooks look as good as possible, from
+receiving a file from a volunteer through uploading and announcing it
+to the world?
+
+If so, please email gbnewby@ils.unc.edu or hart@pobox.com.  We are
+currently seeking one or more new Production Coordinators, who work
+for at least 5-10 hours per week to format, edit and upload Project
+Gutenberg's eBooks.  This is tough work, but highly rewarding and varied.
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Second Request!
+
+We are seeking a physical copy of the book RUR in Czech by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+I have some copyright research for McNees, but no email address.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Past Week
+
+
+
++38 New This Week
+- 1 Recyled Number
+
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook has been removed from the collection pending further
+copyright research; it may be re-posted later under a different eBook #:
+
+The following eBook is being re-indexed to correct the title ("Treasure",
+not "Treasures"):
+Jun 2004 Hidden Treasure, by John Thomas Simpson           [hddntxxx.xxx]5870
+[Subtitle:  The story of a chore boy who made the old farm pay.]
+
+The following eBook is being re-indexed to correct the title ("Grey", not
+"Gray"), and to add full title and additional author info:
+Mar 1997 The Grey Brethren, by Michael Fairless [Barber] #3[grybrxxx.xxx] 835
+[Title:  The Grey Brethren and Other Fragments in Prose and Verse]
+[Author AKA:  Margaret Fairless Barber]
+
+
+Repostings in illustrated HTML, zipped files only:
+
+Dec 2002 Complete Life of Napoleon, V13, by Constant[NB#30][nc13vxxx.xxx]3580
+Dec 2002 Complete Memoirs of Napoleon, by Bourrienne[NB#17][nb17vxxx.xxx]3567
+
+Mar 2003 The Entire Memoirs of Court of St. Cloud   [CM#62][cm62bxxx.xxx]3899
+Mar 2003 The Entire Marie Antoinette, by Campan     [CM#54][cm54bxxx.xxx]3891
+Mar 2003 The Entire Louis XV/XVI, by Hausset        [CM#46][cm46bxxx.xxx]3883
+Mar 2003 Entire Memoirs of Louis XIV, by Saint-Simon[CM#38][cm38bxxx.xxx]3875
+Mar 2003 Entire Memoirs Louis XIV, by Duch d'Orleans[CM#22][cm22bxxx.xxx]3859
+Mar 2003 The Entire Memoirs of Madame de Montespan  [CM#17][cm17bxxx.xxx]3854
+Mar 2003 The Entire Memoirs of Cardinal de Retz     [CM#09][cm09bxxx.xxx]3846
+Mar 2003 The Entire Memoirs of Marguerite de Valois [CM#04][cm04bxxx.xxx]3841
+
+Jun 2003 The Mayflower and Her Log by A. Ames entire[MF#07][mf07vxxx.xxx]4107
+Apr 2003 Entire Confessions of J.J.Rousseau/Book 13 [JJ#13][jj13bxxx.xxx]3913
+
+Mar 2004 The Satyricon of Petronius Arbiter, Complete[PA#8][pas8wxxx.xxx]5225
+[Translator: W. C. Firebaugh][Includes eBooks #5218 to 5224]
+Mar 2004 Satyricon of Petronius, v7, Marchena Notes  [PA#7][pas7wxxx.xxx]5224
+Mar 2004 Satyricon of Petronius, v6, Editor's Notes  [PA#6][pas6wxxx.xxx]5223
+Mar 2004 Satyricon of Petronius, v5, Crotona Affairs [PA#5][pas5wxxx.xxx]5222
+Mar 2004 Satyricon of Petronius, v4, Escape by Sea   [PA#4][pas4wxxx.xxx]5221
+Mar 2004 Satyricon of Petronius, v3, Encolpius et al [PA#3][pas3wxxx.xxx]5220
+Mar 2004 Satyricon of Petronius, v2, Trimalchio      [PA#2][pas2wxxx.xxx]5219
+Mar 2004 Satyricon of Petronius, v1, Introduction    [PA#1][pas1wxxx.xxx]5218
+
+
+We have posted an improved 11th edition of the following:
+Jan 2003 The Duke's Children, by Anthony Trollope   [AT#15][dkchlxxx.xxx]3622
+
+
+
+***] 1 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Oct 2002 Shadows on the Rock, by Willa Cather       [WC#05][020076xx.xxx]0110A
+[http://gutenberg.net.au/ebooks02/0200761.txt or .ZIP]
+[HTML in http://gutenberg.net.au/ebooks02/0200761h.html]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+***] 36 NEW U.S. POSTS [***
+
+Aug 2004 Battle Of The Strong,  by Parker, Complete [GP#63][gp63wxxx.xxx]6236
+[Title: The Battle Of The Strong][Subtitle: A Romance Of Two Kingdoms]
+[Author: Gilbert Parker][Contains:EBooks #6230-6235]
+
+Aug 2004 Battle Of The Strong,    by G. Parker, v6  [GP#62][gp62wxxx.xxx]6235
+Aug 2004 Battle Of The Strong,    by G. Parker, v5  [GP#61][gp61wxxx.xxx]6234
+Aug 2004 Battle Of The Strong,    by G. Parker, v4  [GP#60][gp60wxxx.xxx]6233
+Aug 2004 Battle Of The Strong,    by G. Parker, v3  [GP#59][gp59wxxx.xxx]6232
+Aug 2004 Battle Of The Strong,    by G. Parker, v2  [GP#58][gp58wxxx.xxx]6231
+
+Aug 2004 Battle Of The Strong,    by G. Parker, v1  [GP#57][gp57wxxx.xxx]6230
+
+
+*Please Note the above are from our 6200 series, the below are around #6,000*
+
+
+Jul 2004 Viola Gwyn, by George Barr McCutcheon     [GBM#11][vlgwyxxx.xxx]6013
+Jul 2004 Charlemont, by W. Gilmore Simms                   [chrlmxxx.xxx]6012
+[Subtitle: Or, The Pride of the Village  A Tale of Kentucky.]
+Jul 2004 The Little Lady of Lagunitas, Richard Henry Savage[?ladyxxx.xxx]6011
+[Subtitle: A Franco-Californian Romance]
+[7-bit version with non-accented characters in 7lady10.txt and 7lady10.zip]
+[8-bit version with accented characters in 8lady10.txt and 8lady10.zip]
+
+Jul 2004 What's Bred In the Bone, by Grant Allen  [Allen#8][?whatxxx.xxx]6010
+[7-bit version with non-accented characters in 7what10.txt and 7what10.zip]
+[8-bit version with accented characters in 8what10.txt and 8what10.zip]
+Jul 2004 The Valley of Vision,by Henry Van Dyke[van Dyke#9][vllvsxxx.xxx]6009
+Jul 2004 The Midnight Passenger, by Richard Henry Savage   [?midnxxx.xxx]6008
+[Subtitle: A Novel]
+[7-bit version with non-accented characters in 7midn10.txt and 7midn10.zip]
+[8-bit version with accented characters in 8midn10.txt and 8midn10.zip]
+Jul 2004 The Two Sides of the Shield, by C. M. Yonge  [#37][twsssxxx.xxx]6007
+Jul 2004 Under the Storm, by Charlotte M. Yonge  [Yonge#36][ndstmxxx.xxx]6006
+[Text and HTML posted. HTML is zip only (with images)]
+
+Jul 2004 Celibates, by George Moore               [Moore#2][clbtsxxx.xxx]6005
+Jul 2004 Helden, by George Bernard Shaw[In German][Shaw#37][?hldnxxx.xxx]6004
+[Subtitle: Translation of "Arms and the Man"] [Language: German]
+[7-bit version with non-accented characters in 7hldn10.txt and 7hldn10.zip]
+[8-bit version with accented characters in 8hldn10.txt and 8hldn10.zip]
+Jul 2004 Story of Aeneas, by Michael Clarke                [staenxxx.xxx]6003
+Jul 2004 Little Miss By-The-Day, by Lucille Van Slyke      [bythdxxx.xxx]6002
+Jul 2004 Polly of Pebbly Pit, by Lillian Elizabeth Roy     [pllppxxx.xxx]6001
+
+Jun 2004 Guy Mannering (Complete), by Walter Scott   [#22][gmnngxxha.xxx]5999
+(See also #5355)
+Jun 2004 Waverley, by Sir Walter Scott, Illust. [Scott#23][wvrlyxxhb.xxx]5998
+
+Jun 2004 Maximilian in Mexico, by Sara Yorke Stevenson     [mxlmxxxx.xxx]5997
+Jun 2004 Essays on Russian Novelists,by William Lyon Phelps[essrsxxx.xxx]5996
+[Plain text version in essrsxxx.txt/.zip, HTML in essrsxxh.htm/.zip]
+Jun 2004 Chapters of Opera, by H.E. Krehbiel   [Krehbiel#4][chpprxxx.xxx]5995
+
+
+Jun 2004 Don Quixote, Cervantes/Dore, Part II, Entire [#46][qxp2wxxx.xxx]5946
+[Title: The History of Don Quixote][Author: Miguel de Cervantes Saavedra]]
+[Translated by John Ormsby][Illustrated by Gustave Dore]  [33.5 mb]
+[Illustrated html files only in zip format][Includes Etext #5922-5945]
+
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v42 [#45][qx42wxxx.xxx]5945
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v41 [#44][qx41wxxx.xxx]5944
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v40 [#43][qx40wxxx.xxx]5943
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v39 [#42][qx39wxxx.xxx]5942
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v38 [#41][qx38wxxx.xxx]5941
+
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v37 [#40][qx37wxxx.xxx]5940
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v36 [#39][qx36wxxx.xxx]5939
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v35 [#38][qx35wxxx.xxx]5938
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v34 [#37][qx34wxxx.xxx]5937
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v33 [#36][qx33wxxx.xxx]5936
+
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v32 [#35][qx32wxxx.xxx]5935
+Jun 2004 Don Quixote, by Cervantes, Illust. Dore, v31 [#34][qx31wxxx.xxx]5934
+
+***
+
+
+***
+
+Statistical Review
+
+In the first 41 weeks of this year, we have produced 1,853 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year of 2001 and began the production year of 2002.
+
+With 6,153 eTexts online as of October 2, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.62 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from $2.50 when we had 4006 Etexts A Year Ago
+
+Can you imagine 6,000 books each costing $.88 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6145 eBooks in 31 Years We Averaged
+
+At 1853 eBooks Done In 2002 We Averaged
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+Headlines From Newsscan
+
+UK GOVERNMENT PLANS CELL PHONE TOWER TRACKING SYSTEM
+The government of the U.K. is funding secret radar technology research that
+uses mobile phone masts to enable security officials to watch vehicles and
+people in real time almost anywhere in Britain. The Celldar technology,
+which works wherever there is cell phone coverage, "sees" the shapes made
+when radio waves emitted by the towers meet an obstruction. Signals bounced
+back by immobile objects, such as buildings and trees, are filtered out by
+the receiver, and what's left on the screen are images of anything that
+moves. When combined with technology that allows individuals to be
+identified by their mobile phone handsets, the Celldar system would enable
+security officials to locate and track a specific person from hundreds of
+miles away. An individual using one type of receiver, a portable unit a
+little bigger than a laptop, could even create a "personal radar space"
+around his or her location for security purposes. Researchers are also
+working on an "X-ray vision" feature that would enable the devices to "see"
+through walls and look into people's homes. UK Ministry of Defence
+officials are hoping to introduce the system as soon as resources allow,
+appalling idea. The government is just capitalizing on current public fears
+over security to introduce new systems that are neither desirable nor
+necessary," says Simon Davies, director of Privacy International.
+(The Observer 13 Oct 2002)
+http://www.observer.co.uk/uk_news/story/0,6903,811027,00.html
+
+GADGET TRANSLATES BABY'S CRIES
+Spanish engineer Pedro Monagas has come up with the answer to many new
+parents' prayers -- a pocket-sized device that interprets a baby's crying
+so that the parent can respond appropriately. The battery-powered "Why Cry"
+device contains a microchip that monitors volume, pattern and interval to
+determine if the baby is tired, hungry, sleepy, uncomfortable or stressed
+out. "My own son Alex was always crying and after night after night of not
+very much sleep I decided I had to find a way of finding out what he was
+trying to say to me -- if only for my own sanity," says Monagas, who spent
+three years visiting nurseries and analyzing the crying patterns of around
+100 babies. Some child-rearing experts have expressed doubts about the
+machine and one pediatrician notes that "Why Cry" won't do anything that
+mother, will tell you they are capable of telling the difference between a
+hunger cry, a cry of pain, or an overtired cry with reasonable accuracy.
+What can a machine offer that a parent can't?" Monagas says his device
+boasts a 98% accuracy rate, and will be available at Spanish pharmacies by
+the end of the month, priced at 95 euros. (BBC News 15 Oct 2002)
+http://news.bbc.co.uk/1/hi/health/2329205.stm
+
+FORGETFUL BOOMERS SPAWN MARKET FOR MEMORY AIDS
+A stream of new products is hitting the shelves, aimed at solving one of
+that always seem to go missing just when you're in a hurry to leave. The
+products range from a FINDIT keychain that beeps after the user claps three
+times to the Sharper Image's "Now You Can Find It!" -- a collection of
+plastic tags that can be attached to potentially elusive items, and then
+beep when users hit a button on the central device (of course, for it to
+work, users must make sure not to misplace the central device). The device
+and tags communicate with each other via radio frequency waves, and require
+that the user be within several meters of the hidden object's location. A
+handful of companies are also marketing GPS-enabled "kid finder" watches
+and pagers, and plans are underway to put homing devices on everything from
+luggage to pacifiers. Most ambitious of all, perhaps is the DIPO device,
+made by a French company of the same name, that not only finds an object
+but notifies the owner if it is about to be left behind. The central device
+-- the size of a small cell phone -- checks every few seconds to ensure
+that all tagged objects are within a certain radius -- say, five meters. If
+it notices that the tag on the Palm Pilot, for instance, has moved outside
+the radius, it will beep or vibrate to remind the user to take it along.
+DIPO started out as the brainchild of the company's absent-minded CEO,
+Bruno Enea, who says, "I kept losing my credit card. I always forgot my
+passport. I realized I had to do something about this problem."
+(Wall Street Journal 15 Oct 2002)
+http://online.wsj.com/article/0,,SB1034187143599802356.djm,00.html (sub req'd)
+
+
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+
+***
+
+Headlines From Edupage:
+
+NEW RESTRICTIONS FOR CHINESE INTERNET CAFES
+The Chinese government has announced a new set of Internet cafe
+restrictions, which will go into effect November 15. China already has
+a host of restrictions on Internet cafes and on content available
+online, but the government has added new rules after a fire in August
+killed 25 in an Internet cafe. Under the new rules, smoking is banned,
+cafes cannot operate within 124 feet of a school, and cafes must close
+by midnight. Operators of cafes also must register users and track what
+content they access. These rules are added to already strict
+regulations concerning content that the government deems politically
+subversive, such as information about Tibet and Taiwan, as well as
+online gambling and pornography.
+Associated Press, 11 October 2002 (registration req'd)
+http://www.nandotimes.com/technology/story/572979p-4486391c.html
+
+PEER-TO-PEER EFFORTS AIM TO DEFEAT CENSORSHIP
+Several peer-to-peer efforts aim to allow users in countries that block
+certain Internet content to access that content with the help of users
+in uncensored countries. One such effort, called Peekabooty, responds
+when a user in a country with censorship tries to access a site that is
+blocked. The user sends a request to the Peekabooty community, and a
+computer in a country without restrictions will send that content,
+encrypted to sidestep filters, to that user. It's just a theory so
+far, because the current version lacks the encryption tool and is
+reportedly very buggy. Still, so-called "hacktivists" involved in the
+initiative, as well as others working in projects including Hacktivismo
+and SafeWeb, argue that breaking down censorship in countries like
+China and Iran is an important and noble cause.
+Washington Post, 13 October 2002
+http://www.washingtonpost.com/wp-dyn/articles/A15124-2002Oct11.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_10_16.txt" target="_blank" rel="nofollow">pgweekly_2002_10_16.txt</a>

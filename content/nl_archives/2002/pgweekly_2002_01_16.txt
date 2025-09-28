@@ -1,0 +1,469 @@
+========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg Weekly Newsletter" <gweekly@listserv.unc.edu>
+Date: Wed, 16 Jan 2002 14:02:32 -0500 (EST)
+
+
+The Project Gutenberg Weekly Newsletter For Wednesday, January 16, 2002
+
+eBooks Readable By Both Humans and Computers Since Before The Internet
+
+4,376 Tree-Friendly Titles Now Online
+
+41 New This Week
+43 New Last Week
+42 Weekly Average
+84 New This Month
+84 New This Year    [I really need help keeping these statistics!]
+[Please contact me if you can keep them in a spreadsheet/database]
+
+
+Main URL is promo.net/pg Webmaster is Pietro di Miceli, of Rome, Italy
+Check out our Websites at promo.net/pg & gutenberg.net. . .for INSTANT
+access to this files, please see below, as our Chief Cataloguer is in
+the Eastern Hemisphere for the next few weeks, so you will need to find
+the new files with the filenames rather than our search engines. . . .
+
+
+With 4,376 eBooks online as of January 16, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.29 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+This "cost" is down from $3.17 when we had 3166 Etexts on Jan 17, 2001!
+
+100,000,000 readers is about one and a half percent of world population!
+
+Just 6 years ago, Jan 3, 1995, we announced eBook numbers 208 thru 215!
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+       - Intro
+       - Copyright research contact info
+       - Making Donations
+       - Access to the collection
+       - Information about Mirrors
+       - Weekly etext update:
+         - 2 new etexts at PG of Australia
+         - Updates/corrections
+         - 39 new U.S. etexts
+         - Etext $$$
+       - Newsscan/Edupage news
+       - Information about mailing lists
+
+***
+
+If you need to follow-up on materials sent in for copyright research,
+contact Michael Hart at hart@pobox.com.  Also send him a message if
+you recently sent in an etext to be posted, and haven't seen it yet.
+You can send a copyright scan to Greg Newby <gbnewby@ils.unc.edu>
+
+***
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby <gbnewby@ils.unc.edu>
+
+***
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 01/16/02**:  4376
+(This number includes the 39 etexts posted at the PG Australia web site.)
+
+In the first two weeks of the new year, we have produced 84 new etexts.
+
+The production statistics are calculated based on full weeks of
+production, each production-week ending on a Wednesday, starting
+with the first Wednesday in Jan.  In 2002, Jan 2nd was the first
+Wednesday, and Jan 9th was the end of the first week of production.
+
+
+***
+
+--=={ 2 NEW eBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA}==--
+
+Jan 2002 Burmese Days, by George Orwell            [GO#07][020005xx.xxx]0039A
+Jan 2002 The Great Gatsby, by F Scott Fitzgerald   [SF#01][020004xx.xxx]0038A
+
+Etexts are held in TXT and ZIP formats.
+To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+And from Project Gutenberg of the United States
+Here are the new files we have for you this week:
+
+--=={ REVISIONS, CORRECTIONS AND NEW FORMATS }==--
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt.
+Please note various changes, corrections and improvements:
+
+An astute reader noticed the following etext was missing about 80%!
+A corrected file has been reposted, as well as a newly reformatted version
+(Please Note that this is a copyrighted eBook, as denoted by the last "C".
+
+Nov 1999 The Perdue Chicken Cookbook, by Mitzi Perdue      [mitzixxx.xxx]1979C
+[The following files are now posted in etext99:  mitzi11.txt, mitzi11.zip,
+In etext99: mitzi11.txt  and .zip mitzi11r.rtf and .zip (Rich Text Format)
+
+
+We have REposted 3 significantly improved and/or corrected 11th editions:
+
+Nov 2002 The Eureka Stockade, by Carboni Raffaello[Carboni][rkstkxxx.xxx]3546
+[Wrote as Carboni Raffaello, however Carboni was really Raffaello Carboni]
+Sep 2001 Dubliners, by James Joyce        [James Joyce #1] [dblnrxxx.xxx]2814
+Jul 1996 Gulliver of Mars, by Edwin L. Arnold              [gulvmxxx.xxx] 604
+
+
+-={ 39 NEW U.S. POSTS }=-
+
+***New eBooks For Project Gutenberg Readers This Week***
+
+Sep 2003 Rhoda Fleming by George Meredith, all      [GM#32][gm32vxxx.xxx]4426
+
+Sep 2003 Rhoda Fleming by George Meredith, v5       [GM#31][gm31vxxx.xxx]4425
+Sep 2003 Rhoda Fleming by George Meredith, v4       [GM#30][gm30vxxx.xxx]4424
+Sep 2003 Rhoda Fleming by George Meredith, v3       [GM#29][gm29vxxx.xxx]4423
+Sep 2003 Rhoda Fleming by George Meredith, v2       [GM#28][gm28vxxx.xxx]4422
+Sep 2003 Rhoda Fleming by George Meredith, v1       [GM#27][gm27vxxx.xxx]4421
+
+
+Aug 2003 Some Copyright Statutes, US Copy. Office [USCO #4][clstaxxx.xxx]4365
+   Contents:
+   Circular 3: Copyright Notice
+   Circular 15: Renewal of Copyright
+   Circular 15t: Extension of Copyright Terms
+   Circular 22: Highlights of Copyright Amendments Contained
+                in the Uruguay Round Agreements Act (URAA)
+   WIPO Copyright Treaty
+
+Aug 2003 The Lances Of Lynwood, by Charlotte M. Yonge [#21][lynwdxxx.xxx]4364
+Aug 2003 Beyond Good and Evil, by Friedrich Nietzsche      [bygdvxxx.xxx]4363
+Aug 2003 Memoirs of Gen Philip H. Sheridan, entire [SHD#3] [3shdnxxx.xxx]4362
+Note:  #4362 includes these two previously published files:
+Jun 2001 Personal Memoirs V2, General Philip Henry Sheridan[2shdnxxx.xxx]2652
+Jun 2001 Personal Memoirs V1, General Philip Henry Sheridan[1shdnxxx.xxx]2651
+
+Aug 2003 Vendetta, by Marie Corelli      [Marie Corelli #5][vndttxxx.xxx]4360
+Aug 2003 Lombard Street, by Walter Bagehot     [Bagehot #2][lsadmxxx.xxx]4359
+[Subtitle:  A Description of the Money Market]
+Aug 2003 The Sea Fairies, by L. Frank Baum[LFB #20][TnB #1][thsfrxxx.xxx]4358
+Aug 2003 American Fairy Tales, by L. Frank Baum   [LFB #19][mrcnfxxx.xxx]4357
+Aug 2003 Sky Island, by L. Frank Baum     [LFB #18][TnB #2][skyslxxx.xxx]4356
+
+Aug 2003 David Crockett, by John S. C. Abbott   [Abbott #2][dchlaxxx.xxx]4355
+[Subtitle:  His Life and Adventures]
+Aug 2003 By the Ionian Sea, by George Gissing [Gissing #19][bythnxxx.xxx]4354
+Aug 2003 Five Thousand an Hour, by George Randolph Chester [fthhjxxx.xxx]4353
+[Subtitle:  How Johnny Gamble Won the Heiress]
+Aug 2003 Laughter, by Henri Bergson                        [laemcxxx.xxx]4352
+[Subtitle:  An Essay on the Meaning of the Comic]
+Aug 2003 The English Constitution, by Walter Bagehot       [thnglxxx.xxx]4351
+
+Aug 2003 Physics and Politics, by Walter Bagehot           [phyplxxx.xxx]4350
+Aug 2003 Wisdom And Destiny, by Maurice Maeterlinck  [MM#2][wdsmdxxx.xxx]4349
+Aug 2003 Poor, Dear Margaret Kirby, by Kathleen Norris [#4][pdmgkxxx.xxx]4348
+[Full title: Poor, Dear Margaret Kirby and Other Stories]
+Aug 2003 My Young Alcides, by Charlotte M. Yonge [Yonge#20][mnglcxxx.xxx]4347
+Aug 2003 Cross & Self-Fertilisation, by Charles Darwin[#21][csfvkxxx.xxx]4346
+[Full:  The Effects of Cross & Self-Fertilisation in the Vegetable Kingdom]
+
+Aug 2003 Sparrows, by Horace W.C. Newte                    [sprwsxxx.xxx]4345
+Aug 2003 Marie, by Alexander Pushkin                       [mrsrlxxx.xxx]4344
+Aug 2003 How and When to Be Your Own Doctor,Moser & Solomon[bwndrxxx.xxx]4343
+[Full author: Dr. Isabelle A. Moser with Steve Solomon]
+[Posted both as text and HTML versions. HTML is bwndr10h.zip]
+Aug 2003 Organic Gardener's Composting, by Steve Solomon   [rggcmxxx.xxx]4342
+Aug 2003 Mutual Aid, by P. Kropotkin                       [mtladxxx.xxx]4341
+
+Aug 2003 The British Barbarians, by Grant Allen            [brbrbxxx.xxx]4340
+Aug 2003 Nerves and Common Sense, by Annie Payson Call [#3][nrvcsxxx.xxx]4339
+Aug 2003 The Freedom of Life, by Annie Payson Call [Call#2][frdlfxxx.xxx]4338
+Aug 2003 Power Through Repose, by Annie Payson Call[Call#1][prrpsxxx.xxx]4337
+Aug 2003 Nature and Progress of Rent, by Thomas Malthus[#4][nprntxxx.xxx]4336
+
+Aug 2003 Importation of Foreign Corn, by Thomas Malthus[#3][mpfcrxxx.xxx]4335
+Aug 2003 Effects of the Corn Laws, by Thomas Malthus [TM#2][fxcrlxxx.xxx]4334
+Aug 2003 Studies from Court and Cloister, J.M. Stone       [stdsfxxx.xxx]4333
+
+***
+
+[Remember What I've Been Saying About Pay Per View]
+[And There Are Only About 100 Million U.S. Households]
+[That means about 90% of the US PAYS for television]
+[You think it's going to stop with television???]
+
+SATELLITE SIGN-UPS INCREASE; CABLE SLIPS SLIGHTLY
+Cable television companies' share of the U.S. pay-TV market slid last year
+from 80% to 78% as satellite TV companies increased the rate of customer
+sign-ups by 15% from a year earlier, according to the Federal Communications
+Commission. Cable customer sign-ups grew more slowly, up 1.9% for the year.
+Overall, 88.3 million U.S. households paid for video services as of June
+2001 -- up 4.6% from 2000. (Bloomberg News/Los Angeles Times 15 Jan 2001)
+http://www.latimes.com/technology/
+
+
+[Even Your Name Is Going To Cost You Money!]
+
+THE INTERNET NAME GAME
+The London-based Global Name Registry has begun offering registration of
+Internet names for individual persons. Name registration will cost about $30
+a year (not including Internet access), and the registry plans to expand
+".name" designations to mobile phones and other personal devices by the end
+of the year.  (AP/San Jose Mercury News 14 Jan 2002)
+http://www.siliconvalley.com/docs/news/svfront/002411.htm
+
+[Did You Know That Is Cost BOTH To Have Your Name Listed In The Phonebook
+AND To Have It NOT Listed.  Secret:  ask them how not to pay for no listing,
+it's usually by letting them include it in 411]
+
+
+PHILIPS SAYS COPY-PROTECTED CDs WON'T LAST LONG
+Philips Electronics, which invented the compact disc, says the
+controversial attempts by the recording industry to market "copy protected"
+CDs will fail because consumers just don't like it. As inventor of the CD
+standard and the industry's licensing body, Philips says it could refuse to
+license the new discs as genuine CDs or pursue some kind of legal action,
+but thinks the copy-protected CDs will disappear on their own as consumers
+reject them. "Any kind of legal action would take years and we don't expect
+these [discs] to last that long," says Gary Wirtz, general manager of the
+Philips Copyright Office. "At the moment we are trying to reason with
+people rather than sue them. [The technology is] not going to work, because
+any hacker can still make copies. It's only going to affect legitimate
+consumers and we know there have already been considerable complaints."
+Philips opposes the technology because it can make legitimate CDs
+unplayable in some older players and in-car audio systems. Critics maintain
+that the technique used to block copying can also impair the quality of a
+disc's audio content over time. (New Scientist 11 Jan 2002)
+http://www.newscientist.com/news/news.jsp?id=ns99991783
+
+THE SPAM WARS
+There has been a 16-fold increase in the number of unsolicited commercial
+e-mail messages in the past two years (according to the spam-filtering
+company Brightmail), and little progress has been made in fighting it,
+although sporadic lawsuits have sometimes yielded (very) small (and often
+uncollectable) cash judgments against the spammers. The president of the
+anti-spam Junkbusters Corporation has compared such lawsuits to "mopping up
+an oil spill with a toothbrush." Yet some anti-spammers feel the effort is
+worthwhile, and Bennett Haselton, who recently won four judgments of $500
+each in Washington state, plans to publish a how-to guide for the
+spam-perplexed, hoping that if ought people "get in the habit of taking
+legal action if they get spammed, then it's going to become so expensive
+that spammers have to get out of business." (AP/San Jose Mercury News 14
+Jan 2002)   http://www.siliconvalley.com/docs/news/svfront/031444.htm
+
+CHINA SOON TO BECOME WORLD'S SECOND-BIGGEST PC MARKET
+International Data Corporation (IDC) is forecasting sales of 13.2 million
+PCs in China in 2003, compared with a prediction of 12.7 million units sold
+in Japan. If the forecast holds true China will then be Asia's biggest
+market for personal computers, and will be the world's second-largest PC
+market after the United States. (Reuters/New York Times 8 Jan 2002)
+http://partners.nytimes.com/reuters/technology/tech-tech-asia-computers.html
+
+DVDS OUTSELL VIDEOCASSETTES
+Sales of DVDs have outpaced sales of videocassettes in the U.S. for the
+first time, generating more than $4.6 billion, compared with the $3.8
+billion in VHS sales posted for 2001, according to the DVD Entertainment
+Group. In addition, DVD rentals generated more than $1.4 billion last year.
+"This growth comes from the phenomenal increase in both sales and rentals
+of DVDs and has propelled the overall home video business to an
+unprecedented annual growth rate of 21% for the year," says Warner Home
+Video president Warren Lieberfarb. Sales of DVDs helped drive overall
+revenue for the home video industry up from $13.9 billion in 2000 to $16.8
+billion in 2001. (Hollywood Reporter 9 Jan 2002)
+http://www.hollywoodreporter.com/hollywoodreporter/frontpage/index.jsp
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+MICROSOFT INVESTIGATING ALLEGED FLAW IN BROWSER
+A serious flaw in Microsoft's Internet Explorer browser could
+allow hackers to steal sensitive information from computer users
+who are lured to Web sites with Trojan horse code. Microsoft
+security said it is investigating the claim, first posted on the
+BugTraq mailing list. Microsoft also criticized the security
+researcher who reported the flaw, saying they were not given
+enough lead time to create a solution. BugTraq moderator David
+Ahmad said the hole is a failure on Microsoft's part to adhere
+to standard security rules that prevent Web sites from stealing
+information left by cookies from previously visited Web sites.
+The researcher who discovered the flaw said the easiest way to
+protect any computer was to disable JavaScript and read e-mail
+in text-only format.  (Computerworld Online, 8 January 2002)
+
+CONGRESSMAN MOVES TO PROTECT THE RIGHT TO COPY DIGITAL FILES
+Rep. Rick Boucher (D-Va.), a member of the Judiciary Subcommittee
+on the Courts, the Internet, and Intellectual Property, said he
+will propose an amendment to the Digital Millennium Copyright Act
+(DMCA) that will protect the right of consumers to copy digital
+files. The act classifies tools used to copy digital material,
+such as songs on a CD and DVD movies, as illegal, but Boucher
+thinks they should be kept legal, while people who make
+unauthorized copies should be subject to sanctions. The
+congressman also issued a letter to the Recording Industry
+Association of America implying that copy-protected CDs may
+constitute a violation of the 1992 Audio Home Recording Act.
+In the letter, he expressed his concern that technologies such
+as encryption are being used to block home recording, even
+though consumers already compensate the entertainment industry
+for any potential copying loss whenever they purchase a blank
+recordable CD.  (Los Angeles Times, 8 January 2002)
+
+UTAH STUDENT DEFENDS HANDLING OF AIM SECURITY FLAW
+The Utah State University student who revealed a dangerous
+security hole in AOL's Instant Messenger (AIM) said that he did
+so because he received no response from the proper authorities
+at that company when he told them about it. Matt Conover said he
+and his w00w00 volunteer group of security experts uncovered the
+flaw that could allow hackers to take control of a user's computer
+using a "buffer overflow" glitch found in an advanced game-playing
+features of some AIM versions. AOL criticized the group for making
+public such a dangerous vulnerability, but security expert Russ
+Cooper of TruSecure agreed with Conover's characterization of AOL
+as unresponsive. Nicholas Weaver, a University of California at
+Berkeley computer science graduate student, agreed and added that
+software companies often disregard potential flaws unless they
+are demonstrated in "proof of concept" releases such as the one
+Conover posted. (Reuters, 3 January 2002)
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+
+
+
+
+
+
+

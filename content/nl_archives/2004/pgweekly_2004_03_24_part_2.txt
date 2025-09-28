@@ -1,0 +1,610 @@
+The Project Gutenberg Weekly Newsletter 24 March 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 85 New U.S. eBooks this week (*flash* updated to 112)
+  - 2 New eBooks at PG Australia
+  - Last, but not least
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the world,
+and you can select one nearer to your location from the link on the search
+results page.  To see a listing of mirror sites, and locate the one nearest
+to you, visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 24 Mar 2004:  11,999 (incl. 342 Aus.).
+
+Last week the Total Count was 11,912, including 340 at PG of Australia.
+This week we added 87 new (including 2 at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to include editor credit:
+The Poetical Works of John Dryden, Vol II, by John Dryden                11578
+  [Subtitle: With Life, Critical Dissertation, and Explanatory Notes]
+  [Editor: Rev. George Gilfillan]
+
+The following is being re-indexed to include additional translator
+credit:
+Armenian Literature, Anonymous                                           11461
+  [Introduction by Robert Arnot]
+  [Tr.: Robert Arnot, F. B. Collins, and E. B. Collins]
+
+The following is being re-indexed to add translator information:
+May 2004 Fund. Prin. of the Metaphysic of Morals, Kant[IK2][ikfpmxxx.xxx] 5682
+  [Title: Fundamental Principles of the Metaphysic of Morals]
+  [Author: Immanuel Kant]
+  [Translator: Thomas Kingsmill Abbott]
+
+The following is being re-indexed to correct the author's name ("Goold",
+not "Gould"):
+The Grammar of English Grammars, by Goold Brown                          11615
+  [Contributor: Samuel U. Berrian, A. M.]
+
+We have posted an improved 11th edition of the following:
+May 2005 Die Goettliche Komoedie, by Dante Alighieri       [?komdxxx.xxx] 8085
+  [Language: German]
+
+
+-=-=-=-=[  85 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Note: another 25 files for the Human Genome were added right before
+this newsletter's release time, and will appear in next week's update.
+They are eBooks #11775-11799.
+
+Washington and His Colleagues, by Henry Jones Ford                       11702
+  [Subtitle: A Chronicle of the Rise and Fall of Federalism]
+  [Link: http://www.gutenberg.net/1/1/7/0/11702 ]
+  [Files: 11702.txt; 11702-8.txt; ]
+
+The Makers and Teachers of Judaism, by Charles Foster Kent               11701
+  [Subtitle: From the Fall of Jerusalem to the Death of Herod the Great]
+  [Link: http://www.gutenberg.net/1/1/7/0/11701 ]
+  [Files: 11701.txt; 11701-8.txt; ]
+
+J. S. Le Fanu's Ghostly Tales, Volume 2, by Joseph Sheridan Le Fanu      11700
+  [Subtitle: An Authentic Narrative of a Haunted House; and, Ultor De
+   Lacy: A Legend of Cappercullen]
+  [Link: http://www.gutenberg.net/1/1/7/0/11700 ]
+  [Files: 11700.txt; 11700-8.txt; 11700-h.htm; ]
+
+J. S. Le Fanu's Ghostly Tales, Volume 1, by Joseph Sheridan Le Fanu      11699
+  [Subtitle: Schalken the Painter; and, An Account of Some Strange
+   Disturbances in Aungier Street]
+  [Link: http://www.gutenberg.net/1/1/6/9/11699 ]
+  [Files: 11699.txt; 11699-8.txt; 11699-h.htm; ]
+
+The Three Brontes, by May Sinclair                                       11698
+  [Link: http://www.gutenberg.net/1/1/6/9/11698 ]
+  [Files: 11698.txt; 11698-8.txt]
+
+Mare Nostrum (Our Sea), by Vicente Blasco Ibanez                         11697
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.net/1/1/6/9/11697 ]
+  [Files: 11697.txt; 11697-8.txt]
+
+The Food of the Gods and How It Came to Earth, by H.G. Wells             11696
+  [Link: http://www.gutenberg.net/1/1/6/9/11696 ]
+  [Files: 11696.txt]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 20, No. 561   11695
+  [August 11, 1832]
+  [Link: http://www.gutenberg.net/1/1/6/9/11695 ]
+  [Files: 11695.txt; 11695-8.txt; 11695-h.htm]
+
+The Evolution of English Lexicography, by James Augustus Henry Murray    11694
+  [Link: http://www.gutenberg.net/1/1/6/9/11694 ]
+  [Files: 11694.txt; 11694-8.txt; 11694-h.htm]
+
+The World's Great Sermons, Volume 8, by Grenville Kleiser                11693
+  [Subtitle: Talmage to Knox Little]
+  [Link: http://www.gutenberg.net/1/1/6/9/11693 ]
+  [Files: 11693.txt; 11693-8.txt]
+
+German Classics, Vol. III (Schiller), by Kuno Francke, Editor-in-Chief   11692
+  [Title: The German Classics of The Nineteenth and Twentieth Centuries,
+   Vol. III -- Friedrich von Schiller] (Vol. 3 of 20)
+  [Subtitle: Masterpieces of German Literature Translated into English.
+   In Twenty Volumes]
+  [Link: http://www.gutenberg.net/1/1/6/9/11692 ]
+  [Files: 11692.txt; 11692-8.txt]
+
+Driftwood Spars, by Percival Christopher Wren                            11691
+  [Subtitle: The Stories of a Man, a Boy, a Woman, and Certain Other
+   People Who Strangely Met Upon the Sea of Life]
+  [Link: http://www.gutenberg.net/1/1/6/9/11691 ]
+  [Files: 11691.txt; 11691-8.txt]
+
+
+Calvert of Strathore, by Carter Goodloe                                  11690
+  [Link: http://www.gutenberg.net/1/1/6/9/11690 ]
+  [Files: 11690.txt; 11690-8.txt]
+
+Are Women People?, by Alice Duer Miller                                  11689
+  [Subtitle: A Book of Rhymes for Suffrage Times]
+  [Link: http://www.gutenberg.net/1/1/6/8/11689 ]
+  [Files: 11689.txt; 11689-8.txt; 11689-h.htm; ]
+
+History of Julius Caesar, by Jacob Abbott                                11688
+  [Link: http://www.gutenberg.net/1/1/6/8/11688 ]
+  [Files: 11688.txt; 11688-h.htm; ]
+
+Atlantic Monthly, Volume 3, Issue 17, March, 1859, by Various            11687
+  [Subtitle: A Magazine of Literature, Art, and Politics]
+  [Link: http://www.gutenberg.net/1/1/6/8/11687 ]
+  [Files: 11687.txt; 11687-8.txt; ]
+
+Without Dogma, by Henryk Sienkiewicz                                     11686
+  [Subtitle: A Novel of Modern Poland]
+  [Translated by Iza Young]
+  [Link: http://www.gutenberg.net/1/1/6/8/11686 ]
+  [Files: 11686.txt; 11686-8.txt; ]
+
+L'Endimione, by Pietro Metastasio                                        11685
+  [Author AKA: Pietro Trapassi] [Language: Italian]
+  [Link: http://www.gutenberg.net/1/1/6/8/11685 ]
+  [Files: 11685-8.txt; ]
+
+Il sogno di Scipione, by Pietro Metastasio                               11684
+  [Author AKA: Pietro Trapassi] [Language: Italian]
+  [Link: http://www.gutenberg.net/1/1/6/8/11684 ]
+  [Files: 11684-8.txt; ]
+
+Where the Trail Divides, by Will Lillibridge                             11683
+  [Author AKA: William Otis Lillibridge (1878-1909)]
+  [Link: http://www.gutenberg.net/1/1/6/8/11683 ]
+  [Files: 11683.txt; 11683-8.txt; 11683-h.htm; ]
+
+The Soul of the War, by Philip Gibbs, Intro. by Anthony Langley          11682
+  [This work includes an introduction written specially for Project
+   Gutenberg by Anthony Langley, who also prepared the e-text.]
+  [Link: http://www.gutenberg.net/1/1/6/8/11682 ]
+  [Files: 11682.txt; 11682-8.txt; ]
+
+Marco Paul's Voyages and Travels; Vermont, by Jacob Abbott               11681
+  [Note: One of a series of books called "Marco Paul's Adventures in the
+   Pursuit of Knowledge"]
+  [Link: http://www.gutenberg.net/1/1/6/8/11681 ]
+  [Files: 11681.txt; 11681-h.htm; ]
+
+George Eliot: A Critical Study of Her Life, Writings & Philosophy, Cooke 11680
+  [Author: George Willis Cooke]
+  [Link: http://www.gutenberg.net/1/1/6/8/11680 ]
+  [Files: 11680.txt; 11680-8.txt; ]
+
+The White Road to Verdun, by Kathleen Burke                              11679
+  [Link: http://www.gutenberg.net/1/1/6/7/11679 ]
+  [Files: 11679.txt; 11679-h.htm; ]
+
+La belle Gabrielle, Vol. 2, by Auguste Maquet                            11678
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/7/11678 ]
+  [Files: 11678-8.txt; ]
+
+Ohne den Vater, by Agnes Sapper                                          11677
+  [Subtitle: Erzahlung aus dem Kriege] [Language: German]
+  [Link: http://www.gutenberg.net/1/1/6/7/11677 ]
+  [Files: 11677.txt; 11677-8.txt]
+
+The Balkan Wars: 1912-1913, by Jacob Gould Schurman                      11676
+  [Subtitle: Third Edition]
+  [Link: http://www.gutenberg.net/1/1/6/7/11676 ]
+  [Files: 11676.txt]
+
+Vanishing Roads and Other Essays, by Richard Le Gallienne                11675
+  [Link: http://www.gutenberg.net/1/1/6/7/11675 ]
+  [Files: 11675.txt; 11675-8.txt; 11675-h.htm]
+
+The Torrent, by Vicente Blasco Ibanez                                    11674
+  [Subtitle: Entre Naranjos]
+  [Link: http://www.gutenberg.net/1/1/6/7/11674 ]
+  [Files: 11674.txt; 11674-8.txt; 11674-h.htm]
+
+Stickeen, by John Muir                                                   11673
+  [Link: http://www.gutenberg.net/1/1/6/7/11673 ]
+  [Files: 11673.txt; 11673-h.htm]
+
+A Short History of Women's Rights, by Eugene A. Hecker                   11672
+  [Subtitle: From the Days of Augustus to the Present Time. With Special
+   Reference to England and the United States. Second Edition Revised,
+   With Additions.]
+  [Link: http://www.gutenberg.net/1/1/6/7/11672 ]
+  [Files: 11672.txt; 11672-8.txt; 11672-h.htm]
+
+The Rudder Grangers Abroad and Other Stories, by Frank R. Stockton       11671
+  [Link: http://www.gutenberg.net/1/1/6/7/11671 ]
+  [Files: 11671.txt; 11671-8.txt]
+
+Punch, or the London Charivari, Vol. 156, June 11, 1919, by Various      11670
+  [Link: http://www.gutenberg.net/1/1/6/7/11670 ]
+  [Files: 11670.txt; 11670-8.txt; 11670-h.htm]
+
+La Puerta de Bronce y Otros Cuentos, by Manuel de Terreros               11669
+  [Author: Manuel Romero de Terreros, Marquis de San Francisco]
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/1/6/6/11669 ]
+  [Files: 11669.txt; 11669-8.txt]
+
+The Gold Hunters, by James Oliver Curwood                                11668
+  [Subtitle: A Story of Life and Adventure in the Hudson Bay Wilds]
+  [Link: http://www.gutenberg.net/1/1/6/6/11668 ]
+  [Files: 11668.txt; 11668-8.txt]
+
+Gentle Measures, by Jacob Abbott                                         11667
+  [Full title: Gentle Measures in the Management and Training of the Young]
+  [Subtitle: Or, The Principles on Which a Firm Parental Authority May Be
+   Established and Maintained, Without Violence or Anger, and the Right
+   Development of the Moral and Mental Capacities Be Promoted by Methods in
+   Harmony with the Structure and the Characteristics of the Juvenile Mind]
+  [Link: http://www.gutenberg.net/1/1/6/6/11667 ]
+  [Files: 11667.txt]
+
+The Conjure Woman, by Charles W. Chesnutt                                11666
+  [Link: http://www.gutenberg.net/1/1/6/6/11666 ]
+  [Files: 11666.txt; 11666-h.htm]
+
+Collections and Recollections, by George William Erskine Russell         11665
+  [Link: http://www.gutenberg.net/1/1/6/6/11665 ]
+  [Files: 11665.txt; 11665-8.txt; 11665-h.htm]
+
+The Camp Fire Girls Do Their Bit, by Hildegard G. Frey                   11664
+  [Subtitle: Or, Over the Top with the Winnebagos]
+  [Link: http://www.gutenberg.net/1/1/6/6/11664 ]
+  [Files: 11664.txt; 11664-8.txt; 11664-h.htm]
+
+El Arroyo, by Eliseo Reclus                                              11663
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/1/6/6/11663 ]
+  [Files: 11663.txt; 11663-8.txt]
+
+Scientific American Supplement, No. 598, June 18, 1887, by Various       11662
+  [Link: http://www.gutenberg.net/1/1/6/6/11662 ]
+  [Files: 11662.txt; 11662-8.txt; 11662-h.htm]
+
+The Piper, by Josephine Preston Peabody                                  11661
+  [Link: http://www.gutenberg.net/1/1/6/6/11661 ]
+  [Files: 11661.txt]
+
+Ethel Morton's Enterprise, by Mabell S.C. Smith                          11660
+  [Link: http://www.gutenberg.net/1/1/6/6/11660 ]
+  [Files: 11660.txt; 11660-8.txt; 11660-h.htm]
+
+World's Greatest Books, Vol VIII, Ed. by Arthur Mee and J.A. Hammerton   11659
+  [Contains excerpts from the books of:  Sir Walter Scott; Mary
+   Wollstonecraft Shelley; Sir Philip Sidney; Tobias Smollet; Mme. De Stael;
+   Stendhal (Henri Beyle); Laurence Sterne; Harriet Beecher Stowe; Eugene
+   Sue; Jonathan Swift; William Makepeace Thackeray; Count Lyof N. Tolstoy;
+   Anthony Trollope; Ivan Turgenev; Jules Verne; Horace Walpole; Emile Zola]
+  [Link: http://www.gutenberg.net/1/1/6/5/11659 ]
+  [Files: 11659.txt; 11659-8.txt; 11659-h.htm]
+
+Williams Anthology, Compiled by Edwin Partridge Lehman and Julian Park   11658
+  [Subtitle: A Collection of the Verse and Prose of Williams College,
+   1798-1910]
+  [Link: http://www.gutenberg.net/1/1/6/5/11658 ]
+  [Files: 11658.txt]
+
+La Nina de Luzmela, by Concha Espina                                     11657
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/1/6/5/11657 ]
+  [Files: 11657.txt; 11657-8.txt]
+
+The Great Shadow and Other Napoleonic Tales, by Arthur Conan Doyle       11656
+  [Link: http://www.gutenberg.net/1/1/6/5/11656 ]
+  [Files: 11656.txt]
+
+Fate Knocks at the Door, by Will Levington Comfort                       11655
+  [Link: http://www.gutenberg.net/1/1/6/5/11655 ]
+  [Files: 11655.txt; 11655-8.txt]
+
+Confessions of a Young Man, by George Moore                              11654
+  [Link: http://www.gutenberg.net/1/1/6/5/11654 ]
+  [Files: 11654.txt; 11654-8.txt]
+
+Notes & Queries 1850.01.12, by Various                                   11653
+  [Link: http://www.gutenberg.net/1/1/6/5/11653 ]
+  [Files: 11653.txt; 11653-8.txt; 11653-h.htm]
+
+Notes & Queries 1849.12.22, by Various                                   11652
+  [Link: http://www.gutenberg.net/1/1/6/5/11652 ]
+  [Files: 11652.txt; 11652-8.txt; 11652-h.htm]
+
+Notes & Queries 1849.12.15, by Various                                   11651
+  [Link: http://www.gutenberg.net/1/1/6/5/11651 ]
+  [Files: 11651.txt; 11651-8.txt; 11651-h.htm]
+
+La Belle-Nivernaise, by Alphonse Daudet                                  11650
+  [Title: La Belle-Nivernaise: Histoire d'un vieux bateau et de son equipage]
+  [Also contains: L,gendes et r,cits: Jarjaille chez le bon Dieu; La figue et
+   le paresseux; Premier habit; Les trois messes basses; Le nouveau maitre]
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/5/11650 ]
+  [Files: 11650.txt; 11650-8.txt; 11650-h.htm]
+
+Scientific American Supplement, No. 799, April 25, 1891, by Various      11649
+  [Link: http://www.gutenberg.net/1/1/6/4/11649 ]
+  [Files: 11649.txt; 11649-8.txt; 11649-h.htm]
+
+Scientific American Supplement, No. 595, May 28, 1887, by Various        11648
+  [Link: http://www.gutenberg.net/1/1/6/4/11648 ]
+  [Files: 11648.txt; 11648-8.txt; 11648-h.htm]
+
+Scientific American Supplement, No. 458, October 11, 1884, by Various    11647
+  [Link: http://www.gutenberg.net/1/1/6/4/11647 ]
+  [Files: 11647.txt; 11647-8.txt; 11647-h.htm]
+
+Noa Noa, by Paul Gauguin                                                 11646
+  [Author: Charles Morice] [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/4/11646 ]
+  [Files: 11646-8.txt; ]
+
+La rotisserie de la Reine Pedauque, by Anatole France                    11645
+  [Author AKA: Anatole Francois Thibault] [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/4/11645 ]
+  [Files: 11645-8.txt; ]
+
+La notte del Commendatore, by Anton Giulio Barrili                       11644
+  [Language: Italian]
+  [Link: http://www.gutenberg.net/1/1/6/4/11644 ]
+  [Files: 11644-8.txt; ]
+
+John Caldigate, by Anthony Trollope                                      11643
+  [Link: http://www.gutenberg.net/1/1/6/4/11643 ]
+  [Files: 11643.txt; 11643-8.txt; 11643-h.htm; ]
+
+What to See in England, by Gordon Home                                   11642
+  [Subtitle: A Guide to Places of Historic Interest, Natural Beauty, or
+   Literary Association]
+  [Link: http://www.gutenberg.net/1/1/6/4/11642 ]
+  [Files: 11642.txt; 11642-8.txt; ]
+
+Over There, by Arnold Bennett                                            11641
+  [Subtitle: War Scenes on the Western Front]
+  [Link: http://www.gutenberg.net/1/1/6/4/11641 ]
+  [Files: 11641.txt; ]
+
+Love and Mr. Lewisham, by H. G. Wells                                    11640
+  [Link: http://www.gutenberg.net/1/1/6/4/11640 ]
+  [Files: 11640.txt; 11640-8.txt; ]
+
+Figures of Earth, by James Branch Cabell                                 11639
+  [Subtitle: A Comedy of Appearances]
+  [Illustrated by Frank C. Pape]
+  [Link: http://www.gutenberg.net/1/1/6/3/11639 ]
+  [Files: 11639.txt; 11639-8.txt; 11639-h.htm; ]
+
+Punch, July 18, 1917, by Various                                         11638
+  [Link: http://www.gutenberg.net/1/1/6/3/11638 ]
+  [Files: 11638.txt; 11638-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, by Various         11637
+  [Link: http://www.gutenberg.net/1/1/6/3/11637 ]
+  [Files: 11637.txt; 11637-h.htm]
+
+Notes & Queries 1849.12.01, by Various                                   11636
+  [Link: http://www.gutenberg.net/1/1/6/3/11636 ]
+  [Files: 11636.txt; 11636-8.txt; 11636-h.htm]
+
+Green Tea;  Mr. Justice Harbottle, by Joseph Sheridan LeFanu             11635
+  [Link: http://www.gutenberg.net/1/1/6/3/11635 ]
+  [Files: 11635.txt; 11635-8.txt; 11635-h.htm]
+
+Human Nature In Politics, by Graham Wallas                               11634
+  [Subtitle: Third Edition]
+  [Link: http://www.gutenberg.net/1/1/6/3/11634 ]
+  [Files: 11634.txt; 11634-8.txt; 11634-h.htm]
+
+Parsifal, A Drama by Wagner as Retold by Oliver Huckel                   11633
+  [Link: http://www.gutenberg.net/1/1/6/3/11633 ]
+  [Files: 11633.txt; 11633-8.txt; 11633-h.htm]
+
+Woman: Man's Equal, by Thomas Webster                                    11632
+  [Link: http://www.gutenberg.net/1/1/6/3/11632 ]
+  [Files: 11632.txt; 11632-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 19, No. 553   11631
+  [June 23, 1832]
+  [Link: http://www.gutenberg.net/1/1/6/3/11631 ]
+  [Files: 11631.txt; 11631-8.txt; 11631-h.htm; ]
+
+Punch, or the London Charivari, Vol. 156, June 18, 1919, by Various      11630
+  [Editor: Owen Seamen]
+  [Link: http://www.gutenberg.net/1/1/6/3/11630 ]
+  [Files: 11630.txt; 11630-8.txt; 11630-h.htm; ]
+
+Punch, or the London Charivari, V.153, Dec 26, 1917, Ed. by Owen Seamen  11629
+  [Link: http://www.gutenberg.net/1/1/6/2/11629 ]
+  [Files: 11629.txt; 11629-8.txt; 11629-h.htm; ]
+
+Gossip in a Library, by Edmund Gosse                                     11628
+  [Link: http://www.gutenberg.net/1/1/6/2/11628 ]
+  [Files: 11628.txt; 11628.zip; 11628-8.txt; 11628-8.zip; ]
+
+The World's Great Sermons, Vol. 2 (of 10), by Grenville Kleiser          11627
+  [Subtitle: Hooker to South]
+  [Link: http://www.gutenberg.net/1/1/6/2/11627 ]
+  [Files: 11627.txt; 11627.zip; 11627-8.txt; 11627-8.zip; ]
+
+Dawn of All, by Robert Hugh Benson                                       11626
+  [Link: http://www.gutenberg.net/1/1/6/2/11626 ]
+  [Files: 11626.txt]
+
+The Wrong Twin, by Harry Leon Wilson                                     11625
+  [Link: http://www.gutenberg.net/1/1/6/2/11625 ]
+  [Files: 11625.txt; 11625-8.txt; 11625-h.htm]
+
+The Reflections of Ambrosine, by Elinor Glyn                             11624
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.net/1/1/6/2/11624 ]
+  [Files: 11624.txt; 11624-8.txt]
+
+The Dramatic Works of John Dryden Vol. I, by Sir Walter Scott            11623
+  [Subtitle: With a Life of the Author] [Edited By George Saintsbury]
+  [Link: http://www.gutenberg.net/1/1/6/2/11623 ]
+  [Files: 11623.txt; 11623-8.txt]
+
+Plus fort que Sherlock Holmes, by Mark Twain                             11622
+  [Subtitle: Deuxieme Edition] [Tr.: Francois de Gail] [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/2/11622 ]
+  [Files: 11622.txt; 11622-8.txt; 11622-h.htm]
+
+Le Mauvais Genie, by Comtesse de Segur                                   11621
+  [Language: French]
+  [Link: http://www.gutenberg.net/1/1/6/2/11621 ]
+  [Files: 11621.txt; 11621-8.txt; 11621-h.htm]
+
+My Brilliant Career, by Miles Franklin                                   11620
+  [Link: http://www.gutenberg.net/1/1/6/2/11620 ]
+  [Files: 11620.txt; 11620.zip; ]
+
+Punch, or the London Charivari, V.153, Nov 21, 1917, Ed. by Owen Seamen  11619
+  [Link: http://www.gutenberg.net/1/1/6/1/11619 ]
+  [Files: 11619.txt; 11619.zip; 11619-8.txt; 11619-8.zip; 11619-h.htm;
+   11619-h.zip; ]
+
+>From Chaucer to Tennyson, by Henry A. Beers                              11618
+  [Subtitle: With Twenty-Nine Portraits and Selections from Thirty
+   Authors]
+  [Link: http://www.gutenberg.net/1/1/6/1/11618 ]
+  [Files: 11618.txt; 11618-8.txt; 11618-h.htm; ]
+
+
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Mar 2004 The Letters of Gertrude Bell, Gertrude Bell       [040034xx.xxx] 0342A
+  [http://gutenberg.net.au/ebooks04/0400341.txt or .zip
+
+Mar 2004 Economic Problems of Socialism, Joseph Stalin     [040033xx.xxx] 0341A
+  [Full title: Economic Problems of Socialism in the U.S.S.R.]
+  [http://gutenberg.net.au/ebooks04/0400331.txt or .zip ]
+
+
+Plus, the following update(s):
+
+An HTML version added:
+Mar 2004 The Treasure Of The Lake, by H Rider Haggard      [030088xx.xxx] 0237A
+  [http://gutenberg.net.au/ebooks03/0300881h.html ]
+Mar 2004 Elmer Gantry, by Sinclair Lewis                   [030085xx.xxx] 0234A
+  [http://gutenberg.net.au/ebooks03/0300851h.html ]
+
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Always drink upstream from the herd.
+
+=============================================================================
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberglistserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end February 2004
+
+      gweekly - 2840
+
+      gmonthly - 3519

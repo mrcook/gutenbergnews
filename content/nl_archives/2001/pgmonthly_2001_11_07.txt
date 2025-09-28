@@ -1,0 +1,651 @@
+========
+Subject: [gmonthly] Monthly Newsletter for November 7, 2001
+From: Greg Newby <gbnewby@ils.unc.edu>
+To: "Project Gutenberg Monthly Newsletter" <gmonthly@listserv.unc.edu>
+Date: Wed, 7 Nov 2001 21:51:19 -0500
+
+PROJECT GUTENBERG MONTHLY NEWSLETTER FOR NOVEMBER 7, 2001
+
+In this issue:
+   - Summary of etexts posted during October, 2001
+   - Copyright research
+   - Newest mirror site
+   - Online proofreading team
+   - Anyone in Salt Lake City?
+   - Interesting projects we've heard about
+   - Seeking old newsletters
+   - Making Donations, States list
+   - Access to the collection
+   - 4 New etexts at Project Gutenberg of Australia
+   - 51 Revisions and corrections
+   - 103 New etexts for October, 2001
+   - Current statistics
+   - Information about mailing lists
+
+
+** Thanks to George Davis and John Mamoun for their work
+** on preparing our newsletters while Michael Hart is out of town
+
+
+As of  10/30/01 4:30pm PDT:
+
+***4,059 Tree-Friendly Titles Online***
+
+Total PG ebooks available online **AS OF 10/31/01**:  4,059
+(This number includes the 13 etexts posted at the PG Australia web site.)
+
+Thru 10/31/01:  43 Weeks & 2 Days (303 days)
+                1,009 total new etexts, yr-to-date.
+                Weekly avg.:  23.47
+                Daily avg:     3.33
+
+The above translates to the following;
+Our Total For The Year Is About 1,009 For 303 days,
+this is 3.33 per day or 23.47 Per 30 day month. . . .
+This Would Yield About 1,215 For The Year. . . .
+We are about 43 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+***
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com <mailto:hart@pobox.com>
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+If you are waiting on copyright research, and you haven't yet
+heard from Michael Hart, please contact:
+
+Greg Newby <gbnewby@ils.unc.edu <mailto:gbnewby@ils.unc.edu>>
+. . .as Michael plans to be away until after Thanksgiving.
+
+***
+
+Please welcome our newest mirror site:
+
+epix Internet Services
+http://ftp.epix.net/gutenberg &
+ftp://ftp.epix.net/pub/gutenberg
+(Dallas Pennsylvania)
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+
+The Online Distributed Proofreading team proudly announces that October
+was their new record high month with 10831 pages proofed in the month!!
+We have set our goal at 12,000 pages for the month of November, stop on by
+and help us set a new record!
+http://charlz.dynip.com/gutenberg
+
+***
+
+Fifth Request!!!!
+
+Any volunteers around Salt Lake City?
+We need someone who can help out there.
+Please reply to:
+Anne Wingate <gutenberg77@aol.com <mailto:gutenberg77@aol.com>>
+
+***
+
+There is a website called Blackmask (<http://www.blackmask.com>)
+which takes public domain texts and converts each one into
+several file formats, including palm, acrobat, etc.
+
+***
+
+There is a non-commercial website that links to the product
+databases of a large number of antiquarian book sellers.
+It has a search engine, and it is very easy to locate
+just about any old book edition, often at cheap prices:
+
+http://www.trussel.com/f_books.htm
+
+***
+
+We're looking for copies of older newsletters for historical purposes --
+they seem to have gone missing. Specifically we're looking for the
+following: Feb, 1997; Jan-May plus Aug-Sep-Oct, 1996; and for
+any newsletters prior to 1996, although we do have Mar of 1995 and Sep of
+1994. If you have any of these newsletters, please send a copy to George
+Davis <gbdavis at harborside dot com>. Thank you.
+
+***
+
+As of 10/28/01 contributions are only being solicited from people in:
+Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho,
+Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan,
+Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+New York, North Carolina, South Carolina, Oklahoma, Oregon, Pennsylvania,
+Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+Virginia, Washington, Wisconsin, and Wyoming
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or even
+if they CAN be made deductible, and
+don't have the staff to handle it
+even if there are ways.
+
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+
+You will need the first five letters of the filenames listed below.
+For revisions, see the year they are listed for (e.g., etext02
+or etext01).
+
+***
+
+Those of you who seek etexts, in languages other than English,
+may use the "advanced search" feature at promo:
+
+http://promo.net/cgi-promo/pg/t9.cgi
+
+which allows you to search by language.  Currently, there are
+23 French PG texts and 10 in Italian. Why not more...???
+
+
+--=={ AND NOW, THIS MONTH'S ETEXTS ADDED AND REVISED }==--
+
+This month, we have posted 103 new etexts, plus 4 at the Project 
+Gutenburg of Australia site.  We have also posted a significant 
+number of new versions of existing Etexts, including versions for 
+portable devices, as well as .HTML versions.  This first section 
+of revisions and corrections is, therefore, unusually longer than 
+normal.  The section announcing newly posted editions follows this 
+long section.
+
+First, Four More eTexts from Project Gutenberg of Australia this month:
+
+Oct 2001 Klee Wyck, by Emily Carr                   [EC#02][010013xx.xxx]0013A
+[http://au.geocities.com/gutenberg_au/0100131.txt ]
+Oct 2001 The House of All Sorts, by Emily Carr      [EC#01][010012xx.xxx]0012A
+[http://au.geocities.com/gutenberg_au/0100121.txt ]
+Oct 2001 Seven Pillars of Wisdom, by T. E. Lawrence [TL#01][010011xx.xxx]0011A
+[http://au.geocities.com/gutenberg_au/0100111.zip ]
+Oct 2001 To the Lighthouse, by Virginia Woolf       [VW#01][010010xx.xxx]0010A
+[http://au.geocities.com/gutenberg_au/0100101.txt ]
+
+
+--=={ REVISIONS AND CORRECTIONS }==--
+
+We have posted this file in a new format:
+Mar 2003 Robur the Conqueror, Jules Verne       [Verne #18][xrobcxxx.xxx]3808
+[The HTML version is available in robc10h.htm and robc10h.zip]
+
+We have posted a newly improved 11th editions of:
+May 2000 Der Gwissenswurm, by Ludwig Anzengruber [German]  [7gwssxxx.xxx]2189
+May 2000 Der Gwissenswurm, by Ludwig Anzengruber [German]  [8gwssxxx.xxx]2189
+[The new files are 7gwss11.txt and .zip and 8gwss11.txt and .zip]
+Sep 2002 The Koran/The Q'uran, by Mohammed/Mohammad . . .  [koranxxx.xxx]3434
+Sep 2002 The Q'uran, by Muhamad/Muhammad/Mohomet    . . .  [koranxxx.xxx]3434
+[This is version 11a from a completely different edition than our Etext 2800]
+[The new files are koran11a.txt and koran11a.zip]
+Jan 2003 The Rosary, by Florence L. Barclay                [rosryxxx.xxx]3659
+Feb 2003 The Voyage of the Beagle, by Charles Darwin[CD#18][vbglexxx.xxx]3704
+[Actual Full Title:  A Naturalist's Voyage Round the World]
+[The new version is vbgle11a.txt and .zip]
+
+Revised Index Entry:
+Mar 2003 Hassan, James Elroy Fletcher         [Fletcher #2][htshbxxx.xxx]3834
+should read:
+Mar 2003 Hassan, James Elroy Flecker           [Flecker #2][htshbxxx.xxx]3834
+
+We have posted the following L. Frank Baum etexts in new 
+FORMATs, including Palm Resource (.PRC), and Microsoft 
+Reader .LIT, as well as .HTML:
+
+Jul 1997 Glinda of Oz, by L. Frank Baum  [LFB#17]   [Oz#14][14wozxxx.xxx] 961
+[The HTML formatted files are 14woz10h.htm and 14woz10h.zip]
+[The LIT formatted files are 14woz10l.lit and 14woz10l.zip]
+[The PRC formatted files are 14woz10p.prc and 14woz10p.zip]
+
+Jun 1997 The Tin Woodman of Oz, by Baum  [LFB#16]   [Oz#12][12wozxxx.xxx] 960
+[The HTML formatted files are 12woz10h.htm and 12woz10h.zip]
+[The LIT formatted files are 12woz10l.lit and 12woz10l.zip]
+[The PRC formatted files are 12woz10p.prc and 12woz10p.zip]
+
+Jun 1997 The Lost Princess of Oz, by Baum [LFB#15]  [Oz#11][11wozxxx.xxx] 959
+[The HTML formatted files are 11woz11h.htm and 11woz11h.zip]
+[The LIT formatted files are 11woz11l.lit and 11woz11l.zip]
+[The PRC formatted files are 11woz11p.prc and 11woz11p.zip]
+
+Jun 1997 Rinkitink In Oz, by L. Frank Baum [LFB#14] [Oz#10][10wozxxx.xxx] 958
+[The HTML formatted files are 10woz10h.htm and 10woz10h.zip]
+[The LIT formatted files are 10woz10l.lit and 10woz10l.zip]
+[The PRC formatted files are 10woz10p.prc and 10woz10p.zip]
+
+Jun 1997 The Scarecrow of Oz, by L. Frank Baum[FB#13][Oz#9][09wozxxx.xxx] 957
+[The HTML formatted files are 09woz10h.htm and 09woz10h.zip]
+[The LIT formatted files are 09woz10l.lit and 09woz10l.zip]
+[The PRC formatted files are 09woz10p.prc and 09woz10p.zip]
+
+Jun 1997 Tik-Tok of Oz, by L. Frank Baum [Baum #12] [Oz #8][08wozxxx.xxx] 956
+[The HTML formatted files are 08woz10h.htm and 08woz10h.zip]
+[The LIT formatted files are 08woz10l.lit and 08woz10l.zip]
+[The PRC formatted files are 08woz10p.prc and 08woz10p.zip]
+
+Jun 1997 The Patchwork Girl of Oz, by L. Frank Baum[Baum12][07wozxxx.xxx] 955
+[The HTML formatted files are 07woz10h.htm and 07woz10h.zip]
+[The LIT formatted files are 07woz10l.lit and 07woz10l.zip]
+[The PRC formatted files are 07woz10p.prc and 07woz10p.zip]
+
+May 1996 The Emerald City of Oz, L. Frank Baum[Oz#7/Baum#8][emctyxxx.xxx] 517
+[The HTML formatted files are emcty10h.htm and emcty10h.zip]
+[The LIT formatted files are emcty10l.lit and emcty10l.zip]
+[The PRC formatted files are emcty10p.prc and emcty10p.zip]
+
+Feb 1996 Dorothy and the Wizard in Oz, by L. Frank Baum[#4][dorozxxx.xxx] 420
+[The HTML formatted files are doroz10h.htm and doroz10h.zip]
+[The LIT formatted files are doroz10l.lit and doroz10l.zip]
+[The PRC formatted files are doroz10p.prc and doroz10p.zip]
+
+The following texts have been modified significantly and an 
+improved version has been posted.  PLEASE NOTE:  The index 
+line has also been changed.  Subsequent REpostings will 
+follow to handle new versions in formats other than (txt):
+
+Oct 2002 The Efficiency Expert, Edgar R. Burroughs [ERB #7][effncxxx.xxx]3475
+[Author's Full Name:  Edgar Rice Burroughs]
+[The new version is effnc11.txt and effnc11.zip]
+Jul 1996 Pellucidar, by Edgar Rice Burroughs       [Pell#2][pelluxxx.xxx] 605
+[The new version is pellu11.txt and pellu11.zip]
+Jun 1996 At the Earth's Core, Edgar Rice Burroughs [Pell#1][atcorxxx.xxx] 545
+[The new version is atcor11.txt and atcor11.zip]
+Apr 1994 At the Earth's Core, Edgar Rice Burroughs [Pell#1][ecorexxx.xxx] 123
+[The new version is ecore11.txt and ecore11.zip]
+
+We have posted a new FORMAT of Alice in Wonderland in PDB format:
+Jan 1991 Alice in Wonderland, Lewis Carroll [Carroll #1]   [alicexxx.xxx]  11
+[The PDB version is in alice30p.pdb and alice30p.zip]
+
+The following etexts have been posted in new formats
+(.PRC = Palm ResourCe, .LIT = MicroSoft Reader, and .HTML):
+
+Oct 2002 The Efficiency Expert, by Edgar Rice Burroughs    [effncxxx.xxx]3475
+[The HTML formatted files are effnc10h.htm and effnc10h.zip]
+[The LIT formatted files are effnc10l.lit and effnc10l.zip]
+[The PRC formatted files are effnc10p.prc and effnc10p.zip]
+
+Jan 1998 The Chessman of Mars, Edgar Rice Burroughs[ERB#11][cmarsxxx.txt]1153
+[The HTML formatted files are cmars12h.htm and cmars12h.zip]
+[The LIT formatted files are cmars12l.lit and cmars12l.zip]
+[The PRC formatted files are cmars12p.prc and cmars12p.zip]
+
+Jun 1996 Out Of Time's Abyss, Edgar Rice Burroughs [ERB#14][ootmaxxx.xxx] 553
+[The HTML formatted files are ootma10h.htm and ootma10h.zip]
+[The LIT formatted files are ootma10l.lit and ootma10l.zip]
+[The PRC formatted files are ootma10p.prc and ootma10p.zip]
+
+Jun 1996 At the Earth's Core, Edgar Rice Burroughs [ERB#11][atcorxxx.xxx] 545
+[The HTML formatted files are atcor10h.htm and atcor10h.zip]
+[The LIT formatted files are atcor10l.lit and atcor10l.zip]
+[The PRC formatted files are atcor10p.prc and atcor10p.zip]
+
+Nov 1995 The Mad King, by Edgar Rice Burroughs      [ERB#9][mdkngxxx.xxx] 364
+[The HTML formatted files are mdkng10h.htm and mdkng10h.zip]
+[The LIT formatted files are mdkng10l.lit and mdkng10l.zip]
+[The PRC formatted files are mdkng10p.prc and mdkng10p.zip]
+
+Nov 1995 The Oakdale Affair, by Edgar Rice Burroughs[ERB#8][oakdaxxx.xxx] 363
+[The HTML formatted files are oakda10h.htm and oakda10h.zip]
+[The LIT formatted files are oakda10l.lit and oakda10l.zip]
+[The PRC formatted fils are oakda10p.prc and oakda10p.zip]
+
+Jul 1994 The Lost Continent, by Edgar Rice Burroughs   [#7][lcontxxx.xxx] 149
+[The HTML formatted files are lcont10h.htm and lcont10h.zip]
+[The LIT formatted files are lcont10l.lit and lcont10l.zip]
+[The PRC formatted files are lcont10p.prc and lcont10p.zip]
+
+Jan 1994 The Monster Men, by Edgar Rice Burroughs          [monstxxx.xxx]  96
+[The HTML formatted files are monst10h.htm and monst10h.zip]
+[The LIT formatted files are monst10l.lit and monst10l.zip]
+[The PRC formatted files are monst10p.prc and monst10p.zip]
+
+Jul 1993 Thuvia, Maid of Mars/Edgar Rice Burroughs [Mars#4][mmarsxxx.xxx]  72
+[The HTML formatted files are mmars10h.htm and mmars10h.zip]
+[The LIT formatted files are mmars10l.lit and mmars10l.zip]
+[The PRC formatted files are mmars10p.prc and mmars10p.zip]
+
+May 1993 Gods of Mars, Edgar Rice Burroughs       [Mars #2][gmarsxxx.xxx]  64
+[The HTML formatted files are gmars11h.htm and gmars11h.zip]
+[The LIT formatted files are gmars11l.list and gmars11l.zip]
+[The PRC formatted files are gmars11p.prc and gmars11p.zip]
+
+The following are Tom Swift files which have been posted
+in PRC format (for viewing on a hand-held ebook reader)
+.prc = Palm ResourCe:
+
+Aug 2000 Tom Swift And His Motor-Boat, by Victor Appleton  [02tomxxx.xxx]2273
+[the ebook version is in 02tom10p.prc and 02tom10p.zip]
+Feb 2003 Tom Swift & His Electric Rifle, by Victor Appleton[10tomxxx.xxx]3777
+[The PRC version is in 10tom10p.prc and 10tom10p.zip]
+Feb 2003 Tom Swift in the Caves of Ice, by Victor Appleton [08tomxxx.xxx]3734
+[The PRC version is in 08tom10p.prc and 08tom10p.zip]
+Jan 2002 Tom Swift and His Airship, by Victor Appleton     [03tomxxx.xxx]3005
+[The PRC version is in 03tom10p.prc and 03tom10p.zip]
+Jun 1998 Tom Swift Among The Fire Fighters, Victor Appleton[24tomxxx.xxx]1363
+[The PRC version is in 24tom10p.prc and 24tom10p.zip]
+Jun 1998 Tom Swift And His Undersea Search, Victor Appleton[23tomxxx.xxx]1362
+[The PRC version is in 23tom10p.prc and 23tom10p.zip]
+Jun 1998 Tom Swift And His Giant Cannon, by Victor Appleton[16tomxxx.xxx]1361
+[The PRC version is in 16tom10p.prc and 16tom10p.zip]
+Apr 1998 Tom Swift and His Air Scout, by Victor Appleton   [22tomxxx.xxx]1284
+[The PRC version is in 22tom10p.prc and 22tom10p.zip]
+Apr 1998 Tom Swift and His Wizard Camera by Victor Appleton[14tomxxx.xxx]1283
+[The PRC version is in 14tom10p.prc and 14tom10p.zip]
+Apr 1998 Tom Swift Among the Diamond Makers, by V. Appleton[07tomxxx.xxx]1282
+[The PRC version is in 07tom10p.prc and 07tom10p.zip]
+Apr 1998 Tom Swift & His Aerial Warship, by Victor Appleton[18tomxxx.xxx]1281
+[The PRC version is in 18tom10p.prc and 18tom10p.zip]
+Jun 1997 Tom Swift & his War Tank, by Victor Appleton      [21tomxxx.xxx] 954
+[The PRC version is in 21tom10p.prc and 21tom10p.zip]
+Jun 1997 Tom Swift & his Air Glider, by Victor Appleton    [12tomxxx.xxx] 952
+[The PRC version is in 12tom10p.prc and 12tom10p.zip]
+Jun 1997 Tom Swift & his Sky Racer, by Victor Appleton     [09tomxxx.xxx] 951
+[The PRC version is in 09tom10p.prc and 09tom10p.zip]
+Jun 1997 Tom Swift & his Electric Runabout, by V. Appleton [05tomxxx.xxx] 950
+[The PRC version is in 05tom10p.prc and 05tom10p.zip]
+Jun 1997 Tom Swift & his Submarine Boat, by Victor Appleton[04tomxxx.xxx] 949
+[The PRC version is in 04tom10p.prc and 04tom10p.zip
+Apr 1996 Tom Swift / Land of Wonders, by Victor Appleton   [20tomxxx.xxx] 499
+[The PRC format is in 20tom10p.prc and 20tom10p.zip]
+
+
+--=={103 NEW POSTS }==--
+
+Jun 2003 Diary of Samuel Pepys, 1662 N.S. Complete  [SP#23][sp23gxxx.xxx]4138
+Jun 2003 Diary of Samuel Pepys, Nov/Dec 1662        [SP#22][sp22gxxx.xxx]4137
+Jun 2003 Diary of Samuel Pepys, Sep/Oct 1662        [SP#21][sp21gxxx.xxx]4136
+
+Jun 2003 Diary of Samuel Pepys, Jul/Aug 1662        [SP#20][sp20gxxx.xxx]4135
+Jun 2003 Diary of Samuel Pepys, May/Jun 1662        [SP#19][sp19gxxx.xxx]4134
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1661/62     [SP#18][sp18gxxx.xxx]4133
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1661/62     [SP#17][sp17gxxx.xxx]4132
+Jun 2003 Diary of Samuel Pepys, 1661 N.S. Complete  [SP#16][sp16gxxx.xxx]4131
+
+Jun 2003 Diary of Samuel Pepys, Nov/Dec 1661        [SP#15][sp15gxxx.xxx]4130
+Jun 2003 Diary of Samuel Pepys, Sep/Oct 1661        [SP#14][sp14gxxx.xxx]4129
+Jun 2003 Diary of Samuel Pepys, Jun/Jul/Aug 1661    [SP#13][sp13gxxx.xxx]4128
+Jun 2003 Diary of Samuel Pepys, Apr/May 1661        [SP#12][sp12gxxx.xxx]4127
+Jun 2003 Diary of Samuel Pepys, Jan/Feb/Mar 1660/61 [SP#11][sp11gxxx.xxx]4126
+
+Jun 2003 Diary of Samuel Pepys, 1660 N.S. Complete  [SP#10][sp10gxxx.xxx]4125
+Jun 2003 Diary of Samuel Pepys, Oct/Nov/Dec 1660    [SP#09][sp09gxxx.xxx]4124
+Jun 2003 Diary of Samuel Pepys, Aug/Sep 1660        [SP#08][sp08gxxx.xxx]4123
+Jun 2003 Diary of Samuel Pepys, Jun/Jul 1660        [SP#07][sp07gxxx.xxx]4122
+Jun 2003 Diary of Samuel Pepys, May 1660            [SP#06][sp06gxxx.xxx]4121
+
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1659/60     [SP#05][sp05gxxx.xxx]4120
+Jun 2003 Diary of Samuel Pepys, Feb 1659/60         [SP#04][sp04gxxx.xxx]4119
+Jun 2003 Diary of Samuel Pepys, Jan 1659/60         [SP#03][sp03gxxx.xxx]4118
+Jun 2003 Diary of Samuel Pepys, Preface and Life    [SP#02][sp02gxxx.xxx]4117
+Jun 2003 Christopher Columbus by F. Young entire    [CC#09][cc09vxxx.xxx]4116
+
+Jun 2003 Christopher Columbus by Filson Young v8    [CC#08][cc08vxxx.xxx]4115
+Jun 2003 Christopher Columbus by Filson Young v7    [CC#07][cc07vxxx.xxx]4114
+Jun 2003 Christopher Columbus by Filson Young v6    [CC#06][cc06vxxx.xxx]4113
+Jun 2003 Christopher Columbus by Filson Young v5    [CC#05][cc05vxxx.xxx]4112
+Jun 2003 Christopher Columbus by Filson Young v4    [CC#04][cc04vxxx.xxx]4111
+
+Jun 2003 Christopher Columbus by Filson Young v3    [CC#03][cc03vxxx.xxx]4110
+Jun 2003 Christopher Columbus by Filson Young v2    [CC#02][cc02vxxx.xxx]4109
+Jun 2003 Christopher Columbus by Filson Young v1    [CC#01][cc01vxxx.xxx]4108
+Jun 2003 The Mayflower and Her Log by A. Ames entire[MF#07][mf07vxxx.xxx]4107
+Jun 2003 The Mayflower and Her Log by Azel Ames v6  [MF#06][mf06vxxx.xxx]4106
+
+Jun 2003 The Mayflower and Her Log by Azel Ames v5  [MF#05][mf05vxxx.xxx]4105
+Jun 2003 The Mayflower and Her Log by Azel Ames v4  [MF#04][mf04vxxx.xxx]4104
+Jun 2003 The Mayflower and Her Log by Azel Ames v3  [MF#03][mf03vxxx.xxx]4103
+Jun 2003 The Mayflower and Her Log by Azel Ames v2  [MF#02][mf02vxxx.xxx]4102
+Jun 2003 The Mayflower and Her Log by Azel Ames v1  [MF#01][mf01vxxx.xxx]4101
+
+[The above are Jun 2003 = 4100's listings, those below are May 2003 - 4000's]
+
+May 2003 Sidelights On Astronomy, by Simon Newcomb         [slstrxxx.xxx]4065
+May 2003 Moonbeams From the Larger Lunacy, by S.Leacock[#4][mftllxxx.xxx]4064
+May 2003 Peter Plymley's Letters etc.            [Smith #1][ptpmlxxx.xxx]4063
+  Contains:
+  Peter Plymley's Letters
+  Historical Apology For The Irish Catholics
+  Ireland and England
+  Moore's Captain Rock
+May 2003 Gaston de Latour, by Walter Pater      [Pater #11][xgastxxx.xxx]4062
+[7-bit and 8-bit versions posted]
+May 2003 The Fifteen Decisive Battles of The World, Creasy [tfdbtxxx.xxx]4061
+[Full Title:  The Fifteen Decisive Battles of the World from Marathon to]
+[Waterloo]
+[Author's full name:  Sir Edward Creasy, M.A.]
+
+May 2003 The Renaissance, by Walter Pater             [#10][xrnsnxxx.xxx]4060
+[See also #2398 rnsncxxx Nov 2000]
+May 2003 Miscellaneous Studies, by Walter Pater        [#9][xmstdxxx.xxx]4059
+May 2003 Marius the Epicurean, Vol. II, by Walter Pater[#8][xmrs2xxx.xxx]4058
+May 2003 Marius the Epicurean, Vol. I, by Walter Pater [#7][xmrs1xxx.xxx]4057
+[The four above are posted as both 7- and 8-bit texts]
+May 2003 Two Festivals, Eliza Lee Follen       [Follen #10][twfstxxx.xxx]4056
+
+May 2003 The Future of the Colored Race in America, Aikman [tfcraxxx.xxx]4055
+[Author's Full Name:  William Aikman]
+[Filenames are tfcra10.txt and tfcra10.zip and tfcra10x.xml and tfcra10x.zip]
+May 2003 Gold Diggings of Australia, by Ellen Clacy        [lvtgdxxx.xxx]4054
+[Full title: A Lady's Visit to the Gold Diggings of Australia in 1852-53]
+[Full Author: Mrs Charles (Ellen) Clacy]
+May 2003 Nuttie's Father, Charlotte M. Yonge    [Yonge #14][xnuttxxx.xxx]4053
+[8-bit accents are included in 8nutt10.*, plain characters are in 7nutt10.*]
+May 2003 Address to the Inhabitants, by Richard Johnson    [nswnixxx.xxx]4052
+May 2003 Lady Bridget in the Never-Never Land by Rosa Praed[lbnnlxxx.xxx]4051
+
+May 2003 Mates at Billabong, by Mary Grant Bruce           [mtsbbxxx.xxx]4050
+May 2003 Piccolissima, by Eliza Lee Follen      [Follen #9][pcclsxxx.xxx]4049
+May 2003 The Talkative Wig, by Eliza Lee Follen     [ELF#8][tktvwxxx.xxx]4048
+May 2003 The Leavenworth Case, by Anna Katherine Green [#6][lvnwrxxx.xxx]4047
+May 2003 The Garden of Survival, by Algernon Blackwood     [grdnsxxx.xxx]4046
+
+May 2003 Omoo, by Herman Melville              [Melville#5][omoosxxx.xxx]4045
+[Full Title: Omoo: Adventures in the South Seas]
+May 2003 What the Animals Do and Say, by E.L.Follen [ELF#7][wtnmlxxx.xxx]4044
+May 2003 The Dynasts, by Thomas Hardy            [Hardy#24][dynstxxx.xxx]4043
+May 2003 Mozart:The Man and the Artist, by Kerst & Krehbiel[wammaxxx.xxx]4042
+[Full Title: Mozart: The Man and the Artist, as revealed in his own words]
+[Author: Friedrich Kerst, translated by Henry Edward Krehbiel]
+May 2003 Conscience, by Eliza Lee Follen         [Follen#6][cnscnxxx.xxx]4041
+
+May 2003 The Pedler of Dust Sticks, by Eliza Lee Follen[#5][pdlrdxxx.xxx]4040
+May 2003 Volpone; Or, The Fox, Ben Jonson       [Jonson #5][vlpnrxxx.xxx]4039
+May 2003 Imagionary Portraits, Walter Horatio Pater    [#6][ximagxxx.xxx]4038
+[unaccented version in 7imag10.txt and 7imag10.zip, accented versions in ]
+[ 8imag10.txt and 8imag10.zip]
+May 2003 Appreciations, With An Essay on Style, Pater  [#5][xawaexxx.xxx]4037
+[Author's full name:  Walter Horatio Pater]
+[unaccented version in 7awae10.txt and 7awae10.zip, accented versions in ]
+[ 8awae10.txt and 8awae10.zip]
+May 2003 Essays From 'The Guardian', Walter Pater      [#4][xessgxxx.xxx]4036
+[Author's full name:  Walter Horatio Pater]
+[unaccented version in 7essg10.txt and 7essg10.zip, accented versions in ]
+[ 8essg10.txt and 8essg10.zip]
+
+May 2003 Greek Studies:A Series of Essays,Walter Pater [#3][xgsasxxx.xxx]4035
+May 2003 The Untilled Field, George Moore                  [tullfxxx.xxx]4034
+May 2003 Who Spoke Next, Eliza Lee Follen                  [whspkxxx.xxx]4033
+May 2003 Atlantis:The Antideluvian World, Ignatius Donnelly[xatawxxx.xxx]4032
+[The plain version is 7ataw10.txt and .zip, accents in 8ataw10.txt and .zip]
+May 2003 The London Prodigal, Shakespeare Apocrypha        [1ws50xxx.xxx]4031
+
+May 2003 Travellers' Stories, by Eliza Lee Follen   [ELF#3][trvstxxx.xxx]4030
+May 2003 True Stories About Dogs and Cats, by Follen[ELF#2][tsdgcxxx.xxx]4029
+May 2003 Autobiography of Benvenuto Cellini, Tr. Symonds   [7cllnxxx.xxx]4028
+May 2003 Autobiography of Benvenuto Cellini, Tr. Symonds   [8cllnxxx.xxx]4028
+May 2003 Autobiography of Benvenuto Cellini, Tr. Symonds   [7cllnxxh.xxx]4028
+{These are 7- and 8-bit ASCII versions, and 7clln10h.htm and .zip is HTML]
+May 2003 Little Songs, by Eliza Lee Follen       [Follen#1][lttlsxxx.xxx]4027
+May 2003 The First Man, by Eugene O'Neill       [O'Neill#3][frsmnxxx.xxx]4026
+
+May 2003 Anna Christie, by Eugene O'Neill       [O'Neill#2][nnchrxxx.xxx]4025
+May 2003 The Man of Destiny, by G. B. Shaw        [Shaw#28][tmndsxxx.xxx]4024
+May 2003 Candida, by George Bernard Shaw          [Shaw#27][cnddaxxx.xxx]4023
+May 2003 Coral Reefs, by Charles Darwin         [Darwin#20][crvsgxxh.xxx]4022
+[This is a HTML version of the complete book from which PG texts Coral Reefs
+(#2690), Volcanic Islands (#3054) South American Geology (#3620) were made.]
+May 2003 Dear Brutus, by J. M. Barrie            [Barrie#6][brtusxxx.xxx]4021
+
+May 2003 Arcadian Adventures, by Stephen Leacock[Leacock#3][rcddvxxx.xxx]4020
+[Full Title: Arcadian Adventures With the Idle Rich]
+May 2003 The Lure of the Labrador Wild, by Dillon Wallace  [tlolwxxx.xxx]4019
+May 2003 Japanese Fairy Tales, by Yei Theodora Ozaki       [jpnftxxx.xxx]4018
+May 2003 The Hollow Needle, by Maurice LeBlanc  [LeBlanc#2][hlwndxxx.xxx]4017
+May 2003 Prince Eugene, by Louisa Muhlbach    [Muhlbach#10][prncgxxx.xxx]4016
+[Variant spellings: Louisa, Louise, Luise Muhlbach; and Luise von Muhlbach]
+
+May 2003 The Hairy Ape, by Eugene O'Neill                  [hryapxxx.xxx]4015
+May 2003 Arsene Lupin, by Edgar Jepson & Maurice Leblanc   [rsnlpxxx.xxx]4014
+May 2003 Das Buch Henoch, translated by A. G. Hoffmann     [xenchxxx.xxx]4013
+[The Book of Enoch, translated and edited by Andreas Gottlieb Hoffmann]
+[8-bit accents are included in 8ench10.*, plain characters are in 7ench10.*]
+May 2003 The Dutch Twins, by Lucy Fitch Perkins     [LFP#3][dtchtxxx.xxx]4012
+May 2003 Epicoene:  Or, The Silent Woman, Ben Jonson[Ben#4][eotswxxx.xxx]4011
+
+May 2003 Marmion, ed. Morley, by Walter Scott    [Scott#15][marmnxxx.xxx]4010
+May 2003 Victories of Love, by Coventry Patmore  [Patmor#1][viclvxxx.xxx]4009
+May 2003 Count Julian, by Walter Savage Landor   [Landor#2][cntjlxxx.xxx]4008
+May 2003 Gebir, by Walter Savage Landor          [Landor#1][gebirxxx.xxx]4007
+May 2003 Yesterdays, by Ella Wheeler Wilcox            [#6][yestrxxx.xxx]4006
+
+May 2003 Herb of Grace, by Rosa Nouchette Carey            [hrbgrxxx.xxx]4005
+May 2003 Preface to Androcles and the Lion, by Shaw[GBS#26][ndrcpxxx.xxx]4004
+May 2003 Androcles and the Lion, by G. B. Shaw     [GBS#25][ndrclxxx.xxx]4003
+May 2003 The Honor of the Name, by Emile Gaboriau          [thtnmxxx.xxx]4002
+May 2003 Widger's Quotations PG "French Immortals" series  [dwqimxxx.xxx]4001
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,059 eTexts online as of October 31, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.46 from each book,
+for Project Gutenberg to have given away $1,000,000,000,000 [One
+Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.53 when we had 3951 Etexts on October 3.
+This "cost" is down from $2.61 when we had 3828 Etexts on September 5.
+This "cost" is down from $2.70 when we had 3709 Etexts on August 1.
+This "cost" is down from $2.76 when we had 3620 Etexts on July 4.
+This "cost" is down from $2.83 when we had 3534 Etexts on June 6.
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2.
+This "cost" is down from $2.97 when we had 3367 Etexts on April 4.
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on April 4
+This "cost" is down from $3.10 when we had 3225 Etexts on March 7
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on December 6, 2000
+This "cost" is down from $3.40 when we had 2870 Etexts on October 18/Nov 1
+This "cost" is down from $3.48 when we had 2870 Etexts on September 3
+
+
+Weekly Yearly
+Newsdate Etexts Avg/wk
+
+10/31/01 23 23.47
+10/24/01 31 23.09
+10/17/01 31 22.90
+10/10/01 22 22.70
+10/03/01 29 22.74
+October total 136
+
+09/26/01 27 22.59
+09/19/01 31 22.47
+09/12/01 31 22.3
+09/05/01 27 22.2
+September total 116
+
+08/29/01 25 22
+08/22/01 21 22
+08/15/01 30 22
+08/08/01 20 22
+08/01/01 22 22
+August total 117
+
+07/25/01 24 22
+07/18/01 22 22
+07/11/01 21 23
+07/04/01 29 23
+July Total 96
+
+06/27/01 22 23
+06/20/01 18 23
+06/13/01 17 23
+06/06/01 20 23
+June Total 77
+
+05/31/01 18 24
+05/23/01 16 24
+05/16/01 18 24
+05/09/01 18 25
+05/02/01 39 25
+May Total 109
+
+04/25/01 15 24
+04/18/01 11 25
+04/11/01 12 26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks 326 25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282 21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326 20.38
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month. But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+

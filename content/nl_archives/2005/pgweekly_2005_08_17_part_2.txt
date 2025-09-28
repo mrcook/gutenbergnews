@@ -1,0 +1,314 @@
+From news at pglaf.org  Thu Aug 18 16:49:36 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Aug 18 16:49:42 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0508181647330.17277@pglaf.org>
+
+GWeekly_August_17_part2.txt
+
+The Project Gutenberg Weekly Newsletter 17 Aug 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 33 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 17 Aug 2005: 16961 (incl. 468 Aus.).
+
+Last week the Total Count was 16927, including 467 at PG of Australia.
+This week we added 34 new.
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Metamorphosis, by Franz Kafka                                            5200C
+   [Translator: David Wyllie]
+   [Updated edition of etext04/metam10.txt]
+   [Link: http://www.gutenberg.net/5/2/0/5200 ]
+   [Files: 5200.txt; 5200-h.htm; 5200-r.rtf]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct title and author, clarify edition and editor:
+Dr. Goldsmith's History of Rome, ed. by William C. Taylor                16387
+   [Title: Pinnock's Improved Edition of Dr. Goldsmith's History of Rome]
+   [Author: Oliver Goldsmith]
+
+Correct title ("Miss", not "Mrs."):
+Miss Mink's Soldier and Other Stories, by Alice Hegan Rice               15230
+
+Correct author:
+The Amber Witch, by Wilhelm Meinhold                                      8743
+   [Title AKA: Mary Schweidler, The Amber Witch]
+   [Translator: Lady Duff Gordon]
+
+
+-=-=-=-=[  33 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Chronicles (1 of 6): The Historie of England (4 of 8), by Holinshed      16536
+   [Subtitle: The Fovrth Booke Of The Historie Of England]
+   [Author: Raphael Holinshed]
+   [Link: http://www.gutenberg.org/1/6/5/3/16536 ]
+   [Files: 16536.txt; 16536-8.txt; 16536-h.htm]
+
+Myth and Romance, by Madison Cawein                                      16535
+   [Subtitle: Being a Book of Verses]
+   [Link: http://www.gutenberg.org/1/6/5/3/16535 ]
+   [Files: 16535.txt; 16535-8.txt; 16535-h.htm]
+
+History of the Church of Jesus Christ of Latter-day Saints, by Anderson  16534
+   [Title: A Young Folks' History of the Church of Jesus Christ of
+    Latter-day Saints]
+   [Author: Nephi Anderson]
+   [Link: http://www.gutenberg.org/1/6/5/3/16534 ]
+   [Files: 16534.txt; 16534-h.htm]
+
+Korpelan Tapani, by Heikki Merilinen                                     16533
+   [Subtitle: Kuvaus kansan elmst]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/5/3/16533 ]
+   [Files: 16533-8.txt]
+
+The Plastic Age, by Percy Marks                                          16532
+   [Link: http://www.gutenberg.org/1/6/5/3/16532 ]
+   [Files: 16532.txt; 16532-8.txt; 16532-h.htm]
+
+Old St. Paul's Cathedral, by William Benham                              16531
+   [Link: http://www.gutenberg.org/1/6/5/3/16531 ]
+   [Files: 16531.txt; 16531-8.txt; 16531-h.htm]
+
+The Ridin' Kid from Powder River, by Henry Herbert Knibbs                16530
+   [Illustrator: Stanley L. Wood and R. M. Brinkerhoff]
+   [Link: http://www.gutenberg.org/1/6/5/3/16530 ]
+   [Files: 16530.txt; 16530-8.txt; 16530-h.htm]
+
+Lost Leaders, by Andrew Lang                                             16529
+   [Editor: W. Pett Ridge]
+   [Link: http://www.gutenberg.org/1/6/5/2/16529 ]
+   [Files: 16529.txt; 16529-h.htm]
+
+Forty-one years in India, by Frederick Sleigh Roberts                    16528
+   [Subtitle: From Subaltern To Commander-In-Chief]
+   [Link: http://www.gutenberg.org/1/6/5/2/16528 ]
+   [Files: 16528.txt; 16528-8.txt; 16528-h.htm]
+
+1001 tasks for mental calculation, by Sergej Aleksandrovich Rachinskij   16527
+   [Language: Russian]
+   [Link: http://www.gutenberg.org/1/6/5/2/16527 ]
+   [Files: 16527-8.txt; 16527-h.htm]
+
+Morocco, by S.L. Bensusan                                                16526
+   [Illustrator: A.S. Forrest]
+   [Link: http://www.gutenberg.org/1/6/5/2/16526 ]
+   [Files: 16526.txt; 16526-8.txt; 16526-h.htm]
+
+The Fat of the Land, by John Williams Streeter                           16525
+   [Subtitle: The Story of an American Farm]
+   [Link: http://www.gutenberg.org/1/6/5/2/16525 ]
+   [Files: 16525.txt; 16525-8.txt; 16525-h.htm]
+
+The Nursery, No. 107, November 1875, Vol. 18, by Various                 16524
+   [Subtitle: A Monthly Magazine for Youngest Readers]
+   [Link: http://www.gutenberg.org/1/6/5/2/16524 ]
+   [Files: 16524.txt; 16524-h.htm]
+
+The Kitab-i-Aqdas, by Baha'u'llah                                        16523
+   [Link: http://www.gutenberg.org/1/6/5/2/16523 ]
+   [Files: 16523.txt; 16523-8.txt; 16523-0.txt; 16523-h.htm]
+
+The Nursery, No. 106, October 1875, Vol. 28, by Various                  16522
+   [Subtitle: A Monthly Magazine for Youngest Readers]
+   [Link: http://www.gutenberg.org/1/6/5/2/16522 ]
+   [Files: 16522.txt; 16522-h.htm]
+
+Fanny Goes to War, by Pat Beauchamp                                      16521
+   [Link: http://www.gutenberg.org/1/6/5/2/16521 ]
+   [Files: 16521.txt; 16521-8.txt; 16521-h.htm]
+
+The Girl and Her Religion, by Margaret Slattery                          16520
+   [Link: http://www.gutenberg.org/1/6/5/2/16520 ]
+   [Files: 16520.txt; 16520-8.txt; 16520-h.htm]
+
+Prime Ministers and Some Others, by George W. E. Russell                 16519
+   [Subtitle: A Book of Reminiscences]
+   [Link: http://www.gutenberg.org/1/6/5/1/16519 ]
+   [Files: 16519.txt; 16519-8.txt; 16519-h.htm]
+
+A Day's Tour, by Percy Fitzgerald                                        16518
+   [Subtitle: A Journey through France and Belgium by Calais, Tournay,
+    Orchies, Douai, Arras, Bthune, Lille, Comines, Ypres, Hazebrouck, Berg]
+   [Link: http://www.gutenberg.org/1/6/5/1/16518 ]
+   [Files: 16518.txt; 16518-8.txt; 16518-h.htm]
+
+Liza of Lambeth, by W. Somerset Maugham                                  16517
+   [Link: http://www.gutenberg.org/1/6/5/1/16517 ]
+   [Files: 16517.txt; 16517-8.txt; 16517-h.htm]
+
+Walker's Appeal, by David Walker and Henry Highland Garnet               16516
+   [Title: Walker's Appeal, with a Brief Sketch of His Life]
+   [Subtitle: And Also Garnet's Address to the Slaves of the United States
+    of America]
+   [Link: http://www.gutenberg.org/1/6/5/1/16516 ]
+   [Files: 16516.txt; 16516-8.txt; 16516-h.htm]
+
+Dreaming of Dreaming, by Peter E. Williams                               16515C
+   [Subtitle: Poetry by Peter E. Williams]
+   [Editor: Tim McCann]
+   [Link: http://www.gutenberg.org/1/6/5/1/16515 ]
+   [Files: 16515-8.txt; 16515-h.htm; ]
+
+A Little Cook Book for a Little Girl, by French Benton                   16514
+   [Link: http://www.gutenberg.org/1/6/5/1/16514 ]
+   [Files: 16514-8.txt; ]
+
+World's War Events, Volume III, by Various                               16513
+   [Subtitle: Recorded by Statesmen, Commanders, Historians and by Men Who
+    Fought or Saw the Great Campaigns]
+   [Editor: Francis J. Reynolds, Allen L. Churchill]
+   [Link: http://www.gutenberg.org/1/6/5/1/16513 ]
+   [Files: 16513.txt; 16513-8.txt; 16513-h.htm]
+
+An Apology for Atheism, by Charles Southwell                             16512
+   [Subtitle: Addressed to Religious Investigators of Every Denomination
+    by One of Its Apostles]
+   [Link: http://www.gutenberg.org/1/6/5/1/16512 ]
+   [Files: 16512.txt]
+
+Chronicles (1 of 6): The Historie of England (3 of 8), Raphael Holinshed 16511
+   [Link: http://www.gutenberg.org/1/6/5/1/16511 ]
+   [Files: 16511.txt; 16511-8.txt; 16511-h.htm]
+
+Essays on Education and Kindred Subjects, by Herbert Spencer             16510
+   [Subtitle: Everyman's Library]
+   [Introduction: Charles W. Eliot]
+   [Link: http://www.gutenberg.org/1/6/5/1/16510 ]
+   [Files: 16510.txt; 16510-8.txt; 16510-h.htm]
+
+Punch, Vol. 158, February 25th, 1920, ed. by Sir Owen Seaman             16509
+   [Link: http://www.gutenberg.org/1/6/5/0/16509 ]
+   [Files: 16509.txt; 16509-8.txt; 16509-h.htm]
+
+American Men of Action, by Burton E. Stevenson                           16508
+   [Link: http://www.gutenberg.org/1/6/5/0/16508 ]
+   [Files: 16508.txt; 16508-8.txt; 16508-h.htm]
+
+Lazy Thoughts of a Lazy Girl, by Jenny Wren                              16507
+   [Subtitle: Sister of that "Idle Fellow."]
+   [Link: http://www.gutenberg.org/1/6/5/0/16507 ]
+   [Files: 16507.txt; 16507-8.txt; 16507-h.htm]
+
+Epistle to a Friend, and Essay on Heroic Poetric, by Samuel Wesley       16506
+   [Title: Epistle to a Friend Concerning Poetry (1700) and the Essay on
+    Heroic Poetry (second edition, 1697)]
+   [Introduction: Edward N. Hooker]
+   [Link: http://www.gutenberg.org/1/6/5/0/16506 ]
+   [Files: 16506.txt; 16506-8.txt]
+
+The Voice of the People, by Ellen Glasgow                                16505
+   [Link: http://www.gutenberg.org/1/6/5/0/16505 ]
+   [Files: 16505.txt; 16505-8.txt; 16505-h.htm]
+
+Renaissance in Italy, Volumes 1 and 2, by John Addington Symonds         16504
+   [Subtitle: The Catholic Reaction]
+   [Link: http://www.gutenberg.org/1/6/5/0/16504 ]
+   [Files: 16504.txt; 16504-8.txt; 16504-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Aug 2005 C, by Maurice Baring                              [050073xx.xxx] 0468A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+

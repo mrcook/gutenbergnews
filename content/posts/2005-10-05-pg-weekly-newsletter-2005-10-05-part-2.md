@@ -1,0 +1,310 @@
+---
+params:
+  id: 2305
+title: "PG Weekly Newsletter: Part 2 (2005-10-05)"
+date: 2005-10-05T22:22:00+00:00
+author: Michael Cook
+layout: post
+url: /20051005/pg-weekly-newsletter-2005-10-05-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Thu Oct  6 16:06:29 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Oct  6 16:06:46 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0510061604400.17050@pglaf.org&gt;
+
+GWeekly_October_05_part2.txt
+
+The Project Gutenberg Weekly Newsletter 05 Oct 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 30 New U.S. eBooks this week
+    - 6 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 05 Oct 2005: 17248 (incl. 495 Aus.).
+
+Last week the Total Count was 17212, including 489 at PG of Australia.
+This week we added 36 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Sons of the Soil, by Honore de Balzac                                     1417
+   [Translator: Katharine Prescott Wormeley]
+   [Link: http://www.gutenberg.org/1/4/1/1417 ]
+   [Files: 1417.txt]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  30 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Lydia of the Pines, by Honor Willsie Morrow                             16803
+   [Link: http://www.gutenberg.org/1/6/8/0/16803 ]
+   [Files: 16803.txt; 16803-8.txt; ]
+
+The Ladies' Vase, by An American Lady                                    16802
+   [Subtitle: Polite Manual for Young Ladies]
+   [Link: http://www.gutenberg.org/1/6/8/0/16802 ]
+   [Files: 16802.txt; 16802-8.txt; 16802-h.htm; ]
+
+Horace and His Influence, by Grant Showerman                             16801
+   [Link: http://www.gutenberg.org/1/6/8/0/16801 ]
+   [Files: 16801.txt; 16801-8.txt; 16801-h.htm; ]
+
+The Secret of a Happy Home (1896), by Marion Harland                     16800
+   [Link: http://www.gutenberg.org/1/6/8/0/16800 ]
+   [Files: 16800.txt; 16800-8.txt; 16800-h.htm]
+
+Dangerous Ages, by Rose Macaulay                                         16799
+   [Link: http://www.gutenberg.org/1/6/7/9/16799 ]
+   [Files: 16799.txt; 16799-8.txt; 16799-h.htm; ]
+
+Elster's Folly, by Mrs. Henry Wood                                       16798
+   [Link: http://www.gutenberg.org/1/6/7/9/16798 ]
+   [Files: 16798.txt; 16798-8.txt; 16798-h.htm]
+
+Luther and the Reformation:, by Joseph A. Seiss                          16797
+   [Subtitle: The Life-Springs of Our Liberties]
+   [Link: http://www.gutenberg.org/1/6/7/9/16797 ]
+   [Files: 16797.txt; 16797-8.txt; 16797-h.htm]
+
+La conqute d'une cuisinire II, by Eugne Chavette                      16796
+   [Subtitle: Le tombeur-des-crnes]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/7/9/16796 ]
+   [Files: 16796-8.txt; 16796-h.htm]
+
+La conqute d'une cuisinire I, by Eugne Chavette                       16795
+   [Subtitle: Seul contre trois belles-mres]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/7/9/16795 ]
+   [Files: 16795-8.txt; 16795-h.htm]
+
+Elmst, by Kasimir Leino                                               16794
+   [Subtitle: Pienempi kertomuksia]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/7/9/16794 ]
+   [Files: 16794-8.txt]
+
+The River and I, by John G. Neihardt                                     16793
+   [Link: http://www.gutenberg.org/1/6/7/9/16793 ]
+   [Files: 16793.txt; 16793-8.txt; 16793-h.htm]
+
+Scientific American Supplement, No. 508, September 26, 1885, by Various  16792
+   [Link: http://www.gutenberg.org/1/6/7/9/16792 ]
+   [Files: 16792.txt; 16792-8.txt; 16792-h.htm]
+
+The English Church in the Eighteenth Century, by Overton                 16791
+   [Author: Charles J. Abbey and John H. Overton]
+   [Link: http://www.gutenberg.org/1/6/7/9/16791 ]
+   [Files: 16791.txt; 16791-8.txt; 16791-h.htm; ]
+
+Early Britain, by Grant Allen                                            16790
+   [Subtitle: Anglo-Saxon Britain]
+   [Link: http://www.gutenberg.org/1/6/7/9/16790 ]
+   [Files: 16790.txt; 16790-8.txt; 16790-0.txt; 16790-h.htm]
+
+Hyacinthe, by Alfred Assollant                                           16789
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/7/8/16789 ]
+   [Files: 16789-8.txt; 16789-h.htm]
+
+My Little Lady, by Eleanor Frances Poynter                               16788
+   [Link: http://www.gutenberg.org/1/6/7/8/16788 ]
+   [Files: 16788.txt; 16788-8.txt]
+
+Life of Charles Dickens, by Frank Marzials                               16787
+   [Link: http://www.gutenberg.org/1/6/7/8/16787 ]
+   [Files: 16787.txt; 16787-8.txt; 16787-h.htm; ]
+
+The World's Best Poetry, Volume 3, by Various                            16786
+   [Subtitle: Poems of Sorrow and Consolation]
+   [Editor and Intro.: Lyman Abbott]
+   [Link: http://www.gutenberg.org/1/6/7/8/16786 ]
+   [Files: 16786.txt; 16786-8.txt; 16786-h.htm]
+
+Our Catholic Heritage in English Literature, by Emily Hickey             16785
+   [Title: Our Catholic Heritage in English Literature of Pre-Conquest Days]
+   [Link: http://www.gutenberg.org/1/6/7/8/16785 ]
+   [Files: 16785.txt; 16785-8.txt; 16785-h.htm]
+
+The Writings of Thomas Jefferson, Vol. IV. (of 4), by Thomas Jefferson   16784
+   [Full title: Memoir, Correspondence, And Miscellanies, From The Papers]
+   [Of Thomas Jefferson]
+   [Editor: Thomas Jefferson Randolph]
+   [Illustrator: Steel engraving by Longacre from painting of G. Stuart]
+   [Link: http://www.gutenberg.org/1/6/7/8/16784 ]
+   [Files: 16784.txt; 16784-8.txt; 16784-h.htm]
+
+The Writings of Thomas Jefferson, Vol. III. (of 4), by Thomas Jefferson  16783
+   [Full title: Memoir, Correspondence, And Miscellanies, From The Papers]
+   [Of Thomas Jefferson]
+   [Editor: Thomas Jefferson Randolph]
+   [Illustrator: Steel engraving by Longacre from painting of G. Stuart]
+   [Link: http://www.gutenberg.org/1/6/7/8/16783 ]
+   [Files: 16783.txt; 16783-8.txt; 16783-h.htm]
+
+The Writings of Thomas Jefferson, Vol. II. (of 4), by Thomas Jefferson   16782
+   [Full title: Memoir, Correspondence, And Miscellanies, From The Papers]
+   [Of Thomas Jefferson]
+   [Editor: Thomas Jefferson Randolph]
+   [Illustrator: Steel engraving by Longacre from painting of G. Stuart]
+   [Link: http://www.gutenberg.org/1/6/7/8/16782 ]
+   [Files: 16782.txt; 16782-8.txt; 16782-h.htm]
+
+The Writings of Thomas Jefferson, Volume I. (of 4) by Thomas Jefferson   16781
+   [Full title: Memoir, Correspondence, And Miscellanies, From The Papers]
+   [Of Thomas Jefferson]
+   [Editor: Thomas Jefferson Randolph]
+   [Illustrator: Steel engraving by Longacre from painting of G. Stuart]
+   [Link: http://www.gutenberg.org/1/6/7/8/16781 ]
+   [Files: 16781.txt; 16781-8.txt; 16781-h.htm]
+
+A Ryght Profytable Treatyse, by Thomas Betson                            16779
+   [Full title: A Ryght Profytable Treatyse Compendiously Drawen Out Of
+    Many and Dyvers Wrytynges Of Holy Men]
+   [Link: http://www.gutenberg.org/1/6/7/7/16779 ]
+   [Files: 16779.txt; 16779-8.txt; 16779-h.htm]
+
+Pulpit and Press, by Mary Baker Eddy                                     16778
+   [Link: http://www.gutenberg.org/1/6/7/7/16778 ]
+   [Files: 16778.txt; 16778-8.txt; 16778-h.htm]
+
+The Heart of the Desert, by Honor Willsie Morrow                        16777
+   [Subtitle: Kut-Le of the Desert]
+   [Illus.: V. Herbert Dunton]
+   [Link: http://www.gutenberg.org/1/6/7/7/16777 ]
+   [Files: 16777.txt; 16777-8.txt; 16777-h.htm; ]
+
+Poems of Passion, by Ella Wheeler Wilcox                                 16776
+   [Link: http://www.gutenberg.org/1/6/7/7/16776 ]
+   [Files: 16776.txt; 16776-8.txt; 16776-h.htm; ]
+
+Biographies of Distinguished Scientific Men, by Francois Arago           16775
+   [Translator: W. H. Smyth, Baden Powell and Robert Grant]
+   [Link: http://www.gutenberg.org/1/6/7/7/16775 ]
+   [Files: 16775.txt; 16775-8.txt; 16775-h.htm]
+
+Teuvo Pakkala, by Juhani Siljo                                           16774
+   [Subtitle: Kirjailijakuva]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/7/7/16774 ]
+   [Files: 16774-8.txt]
+
+Scientific American Supplement, No. 443,  June 28, 1884, by Various      16773
+   [Link: http://www.gutenberg.org/1/6/7/7/16773 ]
+   [Files: 16773.txt; 16773-8.txt; 16773-h.htm]
+
+
+-=-=-=-=[ 6 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Oct 2005 Rose of Spadgers, by C J Dennis                   [050094xx.xxx] 0489A
+Oct 2005 Jim of The Hills, by C J Dennis                   [050093xx.xxx] 0488A
+Oct 2005 The Moods of Ginger Mick, by C J Dennis           [050092xx.xxx] 0487A
+Oct 2005 Backblock Ballads and Later Verses, by C J Dennis [050091xx.xxx] 0486A
+Oct 2005 Tros of Samothrace, by Talbot Mundy               [050090xx.xxx] 0485A
+
+Sep 2005 Lucia in London, by E. F. Benson                  [050089xx.xxx] 0484A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_10_05_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_10_05_part_2.txt</a>

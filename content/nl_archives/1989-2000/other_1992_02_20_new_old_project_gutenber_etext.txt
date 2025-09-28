@@ -1,0 +1,97 @@
+Date:         Thu, 20 Feb 1992 10:16:21 CST
+Reply-To:     Public-Access Computer Systems Forum <[log in to unmask]>
+Sender:       Public-Access Computer Systems Forum <[log in to unmask]>
+From:         "Michael S. Hart" <[log in to unmask]>
+Subject:      New/Old Project Gutenberg Etext
+
+----------------------------Original message----------------------------
+ 
+Project Gutenberg announces Paradise Lost, in our
+second version of John Milton's classic.
+ 
+Feb 1992 Paradise Lost (Raben)     (plrabn10.txt)
+ 
+This is the oldest etext known to the project, as
+the original etext from which we worked was 1964-
+1965, prepared by Joseph Raben. (More information
+in the etext.)
+ 
+Books currently available on mrcnext or via mail:
+ 
+Jan 1991 Alice in Wonderland       (alice28x.xxx)
+Feb 1991 Through the Looking Glass (lglass15.xxx)
+Mar 1991 The Hunting of the Snark  (snark11x.xxx)
+Apr 1991 The CIA World Factbook    (world11x.xxx)
+May 1991 Moby Dick (From OBI)*     (mobyxxxx.xxx)
+Jun 1991 Peter Pan (for US only)** (peter14a.xxx)
+Jul 1991 The Book of Mormon        (mormon11.xxx)
+Aug 1991 The Federalist Papers     (feder11x.xxx)
+Sep 1991 The Song of Hiawatha      (hisong10.xxx)
+Oct 1991 Paradise Lost (Boss)      (plboss10.xxx)
+Nov 1991 Aesop's Fables            (aesop10x.xxx)
+Dec 1991 Roget's Thesaurus         (roget11x.xxx)
+*Moby Dick is missing Chapter 72
+**Please do not download Peter Pan outside the US
+ 
+1991 books will soon be in mrcnext.cso.uiuc.edu
+cd etext2/1991, and will be deleted from /etext
+(Easy instructions:  FTP to mrcnext as anonymous,
+then cd etext or cd etext2/1991
+ 
+Jan 1992 Frederick Douglass        (duglas10.xxx)
+Jan 1992 O Pioneers!               (opion10x.xxx)
+Feb 1992 CIA World Factbook        (world91a.xxx)
+(Internally mislabeled as January but replaced at
+last minute by O Pioneers to coincide with CBS).
+Feb 1992 Paradise Lost (Raben)     (plrabn10.xxx)
+ 
+Project Gutenberg has support from Apple, Calera,
+TextPert, Caere, and Expervision and suggests you
+also check out Shakespeare on Disk 1-800-446-2089
+and the Library of the Future and 1-800-443-0238,
+and WordCruncher 1-801-756-1111.  Please let them
+know you heard about them from Project Gutenberg,
+as we hope to receive support from them.  (A note
+from you to us might help in this effort.)
+ 
+Donations to Project Gutenberg should be sent to:
+ 
+Father  David Turner
+Illinois Benedictine
+5700   College  Road
+Lisle, IL 60532-0900
+ 
+You may write to Project Gutenberg c/o:
+ 
+Prof Michael S. Hart
+Post Office Box 2782
+Champaign, IL  61825
+ 
+Please enclose stamp and mailing label or SASLE for reply.
+.
+=====================================================
+|       The trend of library policy is clearly toward
+|       the ideal of making all information available
+|       without delay to all people.
+|
+|The Software Toolworks Illustrated Encyclopedia (TM)
+|(c) 1990, 1991 Grolier Electronic Publishing, Inc.
+ 
+Thank you for your interest,
+ 
+Michael S. Hart, Director, Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+ 
+The views expressed herein do not necessarily reflect
+the views of any person or institution.  Neither Prof
+Hart nor Project Gutenberg have any official contacts
+with the University of Illinois.
+ 
+Mail will be considered for release in our newsletter
+and notes unless otherwise requested.
+ 
+Email addresses:
+BITNET> HART@UIUCVMD  INTERNET> [log in to unmask]
+Also as the Usenet group bit.listserv.gutnberg
+CompuServe:  >INTERNET:[log in to unmask]
+Attmail:  internet!vmd.cso.uiuc.edu!HART

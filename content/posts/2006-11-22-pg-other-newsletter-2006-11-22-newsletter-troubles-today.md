@@ -1,0 +1,67 @@
+---
+params:
+  id: 2351
+title: "PG Other Newsletter: Newsletter Troubles Today (2006-11-22)"
+date: 2006-11-22T21:52:22+00:00
+author: Michael Cook
+layout: post
+url: /20061122/pg-other-newsletter-2006-11-22-newsletter-troubles-today/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Nov 22 08:44:40 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Nov 22 08:44:43 2006
+Subject: [gweekly] PG Newsletter Troubles Today!! New Editors Welcome Now!!
+Message-ID: &lt;Pine.LNX.4.60.0611220823400.18336@pglaf.org&gt;
+
+
+My email connection is SO bad right now that I can't edit
+much of anything online, so I may not get ALL statistics,
+reviews, etc. up to date by the deadline, and may have to
+send out a further revised copy later on.  Sorry, but the
+lag is minutes to see what I have typed, so I am doing it
+all locally, then cutting and pasting the revised parts--
+then waiting literally minutes to see what happened.
+
+Don't be surprised if it takes a day or two for this odds
+and ends approach to get through to you, as I have made a
+piligrimage to another site to get a better connection to
+do this, and the results are staggeringly bad.  I had too
+many minutes of retrying just to get this connection from
+the new spot to count, and so I know it's not just a very
+bad connection from my house.  In fact, looking at counts
+of characters coming in and out here I don't ever think I
+will be able to send anything but the most rudmentary for
+the period until this clears up.  BTW, testing from Newby
+says everything is working well from his end but I assure
+you it is not multiple ends here.
+
+My apologies, this will be the first time I have not sent
+an entire Project Gutenberg Newsletter when scheduled to.
+
+This might be a GREAT time for our new Newsletter editor!
+
+At the moment it appears we already have over one hundred
+new eBooks this week, which will put us over 22,000!!!
+
+However, I will not be able to integrate this total in an
+electronic format to send you, since I can't up/down/load
+the entire Newsletter under these conditions, or rewrite,
+as I usually do, so this may be it for right now.  I will
+try again tomorrow, of course, but it's been getting bad,
+moreso each day, so don't hold your breath.
+
+Again my apologies, even my normal backdoor approach will
+not help if the trouble is further up the line, which has
+been what it appears to be as this new site location will
+not give me any better service.
+
+Michael S. Hart
+Founder
+Project Gutenberg
+</pre>
+
+<a href="/nl_archives/2006/other_2006_11_22_newsletter_troubles_today.txt" target="_blank" rel="nofollow">other_2006_11_22_newsletter_troubles_today.txt</a>

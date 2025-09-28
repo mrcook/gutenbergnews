@@ -1,0 +1,450 @@
+The Project Gutenberg Weekly Newsletter December 10, 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 3 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - ??? New Public Domain eBooks posted under U.S. Copyright
+  - ? New From PG Australia (Australian Copyright)
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title and author; there is also an Advanced
+Search page which allows for additional search criteria (note that our
+newer postings may not yet be indexed for all additional criteria).
+
+And please note:  you can now obtain a listing by language at the above
+link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories. Over
+time, the "release year" advanced, so that by November 2003 the release year
+was 2006.  Starting with eBook #10001, they are filed by their official eBook
+number, with a unique subdirectory based on that eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+. . .navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site (or
+a mirror) if you know the filename and year you want.  For example:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+                              = = = = = = = = = =
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 10 Dec 2003:  10,695 (incl. 304 Aus.).
+
+Last week the Total Count was 10,638, including 299 at PG of Australia.
+This week we added 57 new.(incl. 5 at PG of Australia).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+
+The following has been re-posted in HTML format:
+Bunch Grass, by Horace Annesley Vachell                                  10372
+  [Subtitle: A Chronicle of Life on a Cattle Ranch]
+  [Files: 10372.txt; 10372-8.txt; 10372-h.htm]
+
+The following has been re-posted in an updated 11th edition, and in
+HTML format, as indicated:
+Nov 2000 Madame Bovary, by Gustave Flaubert    [Flaubert#4][mbovaxxx.xxx] 2413
+   [Plain text in mbova11.txt/.zip; HTML version in mbova11h.htm/.zip]
+
+
+-=-=-=-=[ 52 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Die Aufgeregten, by Johann Wolfgang von Goethe                           10428
+  [Subtitle: Politisches Drama in fuenf Akten]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/4/2/10428 ]
+  [Files: 10428.txt; 10428.zip; 10428-8.txt; 10428-8.zip; ]
+
+Scientific Essays and Lectures, by Charles Kingsley                      10427
+  [Link: http://www.gutenberg.net/1/0/4/2/10427 ]
+  [Files: 10427.txt; 10427.zip; 10427-h.htm; 10427-h.zip ]
+
+Die natuerliche Tochter, by Johann Wolfgang von Goethe                   10426
+  [Subtitle: Trauerspiel]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/4/2/10426 ]
+  [Files: 10426.txt; 10426.zip; 10426-8.txt; 10426-8.zip; ]
+
+Torquato Tasso, by Johann Wolfgang von Goethe                            10425
+  [Subtitle: Ein Schauspiel]
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/4/2/10425 ]
+  [Files: 10425.txt; 10425.zip; 10425-8.txt; 10425-8.zip; ]
+
+Audio: Caprice Viennois, by George Hamilton Green                        10424
+  [Author: Fritz Kreisler (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded October 26, 1916, in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/2/10424 ]
+  [Files: 10424-m-readme.txt; 10424-m-001.mp3; ]
+
+Audio: Triplets, by George Hamilton Green                                10423
+  [Subtitle: Fox Trot]
+  [Author: George Hamilton Green (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded in October of 1919, in New York City.]
+  [Link: http://www.gutenberg.net/1/0/4/2/10423 ]
+  [Files: 10423-m-readme.txt; 10423-m-001.mp3; ]
+
+Caesar Dies, by Talbot Mundy                                             10422
+  [Link: http://www.gutenberg.net/1/0/4/2/10422 ]
+  [Files: 10422.txt]
+
+The Life of Lord Byron, by John Galt                                     10421
+  [Link: http://www.gutenberg.net/1/0/4/2/10421 ]
+  [Files: 10421.txt; 10421.zip; 10421-h.htm; 10421-h.zip ]
+
+The Principles of Success in Literature, by George Henry Lewes           10420
+  [Link: http://www.gutenberg.net/1/0/4/2/10420 ]
+  [Files: 10420.txt; 10420.zip; ]
+
+The Forest Monster of Oz, by Bob Evans                                   10419C
+  [Author: Chris Dulabone]
+  [Link: http://www.gutenberg.net/1/0/4/1/10419 ]
+  [Files: 10419.txt; 10419.zip; 10419-8.txt; 10419-8.zip; ]
+
+The Money Moon, by Jeffery Farnol                                        10418
+  [Subtitle: A Romance]
+  [Link: http://www.gutenberg.net/1/0/4/1/10418 ]
+  [Files: 10418.txt; 10418-8.txt]
+
+Love, Life & Work, by Elbert Hubbard                                     10417
+  [Subtitle: Being a Book of Opinions Reasonably Good-Natured Concerning
+   How to Attain the Highest Happiness for One's Self with the Least
+   Possible Harm to Others]
+  [Link: http://www.gutenberg.net/1/0/4/1/10417 ]
+  [Files: 10417.txt; 10417-8.txt]
+
+Audio: There's a Little Bit of Bad in Every Good Little Girl,Gladys Rice 10416
+  [Author: Fred Fischer (composer), Grant Clarke (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded in September of 1916, in New York City.]
+  [Link: http://www.gutenberg.net/1/0/4/1/10416 ]
+  [Files: 10416-m-readme.txt; 10416-m-001.mp3; ]
+
+Audio: Nights of Gladness, by National Promenade Band                    10415
+  [Subtitle: Waltz]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Author: Charles W. Ancliffe (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded January 5, 1914, in New York City.]
+  [Link: http://www.gutenberg.net/1/0/4/1/10415 ]
+  [Files: 10415-m-readme.txt; 10415-m-001.mp3; ]
+
+Audio: I Love You, California, by Elizabeth Spencer                      10414
+  [Editor: Thomas A. Edison]
+  [Author: The Knickerbocker Quartet]
+  [Author: A. E. Frankenstein (composer)]
+  [Subtitle: March Song]
+  [Recorded c. February 1914 in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/1/10414 ]
+  [Files: 10414-m-readme.txt; 10414-m-001.mp3; ]
+
+Audio: Fancy Little Nancy, by Frank W. Wadsworth (saxaphone)             10413
+  [Author: William B. Baines (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded September 9, 1919 in New York City.]
+  [Link: http://www.gutenberg.net/1/0/4/1/10413 ]
+  [Files: 10413-m-readme.txt; 10413-m-001.mp3; ]
+
+Audio: El Choclo Tango, by National Promenade Band                       10412
+  [Author: Manuel Sarrablo (composer)]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Editor: Thomas A. Edison]
+  [Recorded on December 29, 1913 in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/1/10412 ]
+  [Files: 10412-m-readme.txt; 10412-m-001.mp3; ]
+
+Audio: By the Sapphire Sea, by Herbert C. Tilley Jr.                     10411
+  [Author: Ted Snyder (composer)]
+  [Author: Harry Smith (lyricist)]
+  [Author: Francis Wheeler (lyricist)]
+  [Editor: Thomas A. Edison]
+  [Recorded March 22, 1922 in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/1/10411 ]
+  [Files: 10411-m-readme.txt; 10411-m-001.mp3; ]
+
+The Powers and Maxine, by Charles Norris Williamson                      10410
+  [Link: http://www.gutenberg.net/1/0/4/1/10410 ]
+  [Files: 10410.txt; 10410-8.txt; 10410-h.htm]
+
+The Crisis of the Naval War, by John Rushworth Jellicoe                  10409
+  [Link: http://www.gutenberg.net/1/0/4/0/10409 ]
+  [Files: 10409.txt; 10409-8.txt; 10409-h.htm]
+
+Audio: Bring Back my Blushing Rose ("Sally Won't You Come Back")         10408
+  [Subtitle: Foxtrot Medley]
+  [Author: Broadway Dance Orchestra]
+  [Author: Rudolf Friml (composer, "Bring...")]
+  [Author: Dave Stamper (composer, "Sally...")]
+  [Editor: Thomas A. Edison]
+  [Recorded June 28, 1921 in New York City]
+  [Note: Recorded in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/0/10408 ]
+  [Files: 10408-m-readme.txt; 10408-m-001.mp3; ]
+
+Audio: A Perfect Day, by Jaudas' Society Orchestra                       10407
+  [Subtitle: Waltz]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Author: Carrie Jacobs Bond (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded January 23, 1917 in New York City.]
+  [Note: Recorded in New York City.]
+  [Link: http://www.gutenberg.net/1/0/4/0/10407 ]
+  [Files: 10407-m-readme.txt; 10407-m-001.mp3; ]
+
+Audio: Heart Bowed Down, by William Tuson                                10406
+  [Subtitle: The Bohemian Girl]
+  [Author: Michael William Balfe (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. April 1903 in New York City]
+  [Note: Recorded in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/0/10406 ]
+  [Files: 10406-m-readme.txt; 10406-m-001.mp3; ]
+
+Audio: Clarinet Squawk, by Louisiana Five                                10405
+  [Subtitle: One Step]
+  [Author: Lada, Nunez, Cawley (Composers)]
+  [Author: Alcide "Yellow" Nunez (clarinet); Joe Cawley (Piano);
+   Charlie Panelli (trombone); Karl Berger (banjo); Anton Lada (drummer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. September 1919 in New York City]
+  [Link: http://www.gutenberg.net/1/0/4/0/10405 ]
+  [Files: 10405-m-readme.txt; 10405-m-001.mp3; ]
+
+Man Size, by William MacLeod Raine                                       10404
+  [Link: http://www.gutenberg.net/1/0/4/0/10404 ]
+  [Files: 10404.txt; 10404.zip; 10404-8.txt; 10404-8.zip; ]
+
+Twixt France and Spain, by E. Ernest Bilbrough                           10403
+  [Subtitle: Or, A Spring in the Pyrenees]
+  [Link: http://www.gutenberg.net/1/0/4/0/10403 ]
+  [Files: 10403.txt; 10403.zip; 10403-8.txt; 10403-8.zip; ]
+
+A Man and His Money, by Frederic Stewart Isham                           10402
+  [Link: http://www.gutenberg.net/1/0/4/0/10402 ]
+  [Files: 10402.txt; 10402-8.txt]
+
+Personal Memoir Of Daniel Drayton, by Daniel Drayton                     10401
+  [Subtitle: For Four Years And Four Months A Prisoner (For Charity's Sake)
+   In Washington Jail]
+  [Including A Narrative Of The Voyage And Capture Of The Schooner Pearl]
+  [Link: http://www.ibiblio.org/gutenberg/1/0/4/0/10401 ]
+  [Files: 10401.txt; 10401-8.txt]
+
+Historie van Mejuffrouw Sara Burgerhart, by Wolff en Deken               10400
+  [Files: 10400.txt; 10400-8.txt]
+  [Language: Dutch]
+
+The Story of Louis Riel: The Rebel Chief, by Joseph Edmond Collins       10399
+  [Files: 10399.txt]
+
+The American Child, by Elizabeth McCracken                               10398
+  [Link: http://www.gutenberg.net/1/0/3/9/10398 ]
+  [Files: 10398.txt; 10398.zip; 10398-8.txt; 10398-8.zip; ]
+
+Affairs of State, by Burton E. Stevenson                                 10397
+  [Subtitle: Being an Account of Certain Surprising Adventures Which
+   Befell an American Family in the Land of Windmills]
+  [Link: http://www.gutenberg.net/1/0/3/9/10397 ]
+  [Files: 10397.txt; 10397.zip; 10397-8.txt; 10397-8.zip; ]
+
+Andy the Acrobat, by Peter T. Harkness                                   10396
+  [Subtitle: Out with the Greatest Show on Earth]
+  [Files: 10396.txt]
+
+Joy & Power, by Henry van Dyke                                           10395
+  [Files: 10395.txt; 10395-h.htm]
+
+Stolen Treasure, by Howard Pyle                                          10394
+  [Illustrated by Howard Pyle]
+  [Files: 10394.txt; 10394-8.txt; 10394-h.htm]
+
+Making the House a Home, by Edgar A. Guest                               10393
+  [Files: 10393.txt; 10393-h.htm]
+
+The Reminiscences Of Sir Henry Hawkins (Baron Brampton), by Brampton     10392
+  [Author: Henry Hawkins Brampton]
+  [Edited by Richard Harris, K.C.]
+  [Files: 10392.txt; 10392-8.txt]
+
+The Wolf's Long Howl, by Stanley Waterloo                                10391
+  [Link: http://www.gutenberg.net/1/0/3/9/10391 ]
+  [Files: 10391.txt; 10391.zip; 10391-8.txt; 10391-8.zip; 10391-h.htm;
+   10391-h.zip; ]
+
+The Edinburgh Lectures on Mental Science, by Thomas Troward              10390
+  [Link: http://www.gutenberg.net/1/0/3/9/10390 ]
+  [Files: 10390.txt; 10390.zip; 10390-8.txt; 10390-8.zip; 10390-h.htm;
+   10390-h.zip; ]
+
+Northern Trails, Book I., by William J. Long                             10389
+  [Files: 10389.txt; 10389-8.txt]
+
+Old English Plays, Vol. I, by Various                                    10388
+  [Subtitle: A Collection of Old English Plays]
+  [Files: 10388.txt; 10388-8.txt]
+
+The Real America in Romance, Volume 6; A Century Too Soon, by Musick     10387
+  [Title: The Real America in Romance, Volume 6; A Century Too Soon (A
+   Story of Bacon's Rebellion)]
+  [Subtitle: The Age of Tyranny]
+  [Author: John R. Musick]
+  [Link: http://www.gutenberg.net/1/0/3/8/10387 ]
+  [Files: 10387.txt; 10387.zip; 10387-8.txt; 10387-8.zip; 10387-h.htm;
+   10387-h.zip; ]
+
+Condition Of The Slaves In The British Colonies, by Thomas Clarkson      10386
+  [Title: Thoughts On The Necessity Of Improving The Condition Of
+   The Slaves In The British Colonies]
+  [Subtitle: With A View To Their Ultimate Emancipation; And On The
+   Practicability, The Safety, And The Advantages Of The Latter Measure]
+  [Files: 10386.txt; 10386-8.txt; 10386-h.htm]
+
+Histoire de la Revolution Francaise, III, by Adolphe Thiers              10385
+  [Files: 10385.txt; 10385-8.txt]
+  [Language: French]
+
+Le Pays de l'or, by Henri Conscience                                     10384
+  [Files: 10384.txt; 10384-8.txt]
+  [Language: French]
+
+The Maternal Management of Children, in Health and Disease, by Bull      10383
+  [Author: Thomas Bull, M.D.]
+  [Files: 10383.txt]
+
+Memoir of Wm Watts McNair, by J. E. Howard                               10382
+  [Files: 10382.txt; 10382-8.txt]
+
+The History of a Crime, by Victor Hugo                                   10381
+  [Subtitle: The Testimony of an Eye-Witness]
+  [Files: 10381.txt; 10381-8.txt]
+
+Bible Stories and Religious Classics, by Philip P. Wells                 10380
+  [Files: 10380.txt; 10380-8.txt]
+
+At Love's Cost, by Charles Garvice                                       10379
+  [Files: 10379.txt; 10379-8.txt]
+
+Autobiography, by John Stuart Mill                                       10378
+  [Files: 10378.txt; 10378-8.txt]
+
+The Evil Guest, by J. Sheridan Le Fanu                                   10377
+
+
+=-=-=-=[ 5 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Dec 2003 The Island of Sheep, John Buchan                  [030155xx.xxx] 0304A
+  [http://gutenberg.net.au/ebooks03/0301551.txt or .ZIP ]
+  [and http://gutenberg.net.au/ebooks03/0301551h.html ]
+Dec 2003 The Yearling, Marjorie Kinnon Rawlings            [030154xx.xxx] 0303A
+  [http://gutenberg.net.au/ebooks03/0301541.txt or .ZIP ]
+  [and http://gutenberg.net.au/ebooks03/0301541h.html ]
+Dec 2003 Journal of a Voyage to New South Wales, John White[030153xx.xxx] 0302A
+  [http://gutenberg.net.au/ebooks03/0301531.txt or .ZIP ]
+  [and http://gutenberg.net.au/ebooks03/0301531h.html ]
+Dec 2003 For the Defence, Dr. Thorndyke,by R Austin Freeman[030152xx.xxx] 0301A
+  [http://gutenberg.net.au/ebooks03/0301521.txt or .ZIP ]
+
+Dec 2003 Jeremy at Crale, by Hugh Walpole                  [030151xx.xxx] 0300A
+  [His Friends, his Ambitions and his one Great Enemy]
+  [http://gutenberg.net.au/ebooks03/0301511.txt or .ZIP ]
+  [and http://gutenberg.net.au/ebooks03/0301511h.html ]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+Proofread carefully to see if you any words out.
+
+=============================================================================
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://ibiblio.org/gutenberg/subs.html
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberg@listserv.unc.edu" to contact the lists'
+      (human) administrator.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help

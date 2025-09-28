@@ -1,0 +1,252 @@
+From - Wed Oct 03 19:17:54 2001
+Date: Wed, 3 Oct 2001 13:24:18 -0400 (EDT)
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg Weekly Newsletter" <gweekly@listserv.unc.edu>
+Subject: [gweekly] PG #4000 Project Gutenberg Weekly Newsletter
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+List-Subscribe: <mailto:subscribe-gweekly@listserv.unc.edu>
+List-Owner: <mailto:owner-gweekly@listserv.unc.edu>
+X-List-Host: The UNC List Server 
+X-Message-Id: <Pine.GSO.4.33.0110031323140.17388-100000@beryl.ils.unc.edu>
+Sender: bounce-gweekly-760839@listserv.unc.edu
+
+
+Project Gutenberg's Weekly Newsletter for Wednesday, October 3, 2001
+
+11 months ago we posted our 3,000th Etext, with 100-200 reserved.
+Today, we posted our 4,000th text, with only about 64 slots reserved.
+10 months from now we are scheduled to be announcing our 5,000th Etext
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+
+Does anyone know how to contact Bill Cosby?
+
+
+Several volunteers are now using teixlite to tag PG books,
+but we need a volunteer to write a PG style sheet, either
+.css or .xsl, to use with the teixlite.dtd we have.
+From: Judith Boss <jeboss@home.com>
+
+
+
+The Online Distributed Proofreading team proudly announces that September
+was their new record high month with 9074 pages proofed in the month!!
+September also had the Teams new record high day with 680 pages completed
+on September 7th. We have set our goal at 10,000 pages for the month
+of October, stop on by and help us set a new record!
+http://charlz.dynip.com/gutenberg
+
+
+"ETextViewer is an ASCII text-reader for the Windows operating system.  It
+is available free of charge from
+
+http://fractl.magenet.net/etextviewer.htm
+
+***
+
+Try our newest site at:
+http://www.chloeville.com/gutenberg
+Covington, Louisiana [near New Orleans]
+
+***
+
+ETextViewer displays text as a single-page scrolling view with a cursor,
+which is useful when used in conjunction with text-to-speech applications.
+Main features are the ability to open very large files; automated text
+scrolling; full user customisation of the viewing environment (includes
+font styles and margins); text reformatting to remove hard returns,
+and saving of all user settings.  On start up, ETextViewer will
+automatically open the file you were reading at the position where
+it was left.  It also allows for setting of up to 5 bookmarks per book
+and saves a history of 20 books.
+(Software by Julie Brazier - fractl@magenet.net)"
+
+***
+
+We need someone to write the weekly Newsletters for November. . . .
+I'll be on the road. . . .
+I can give you a kind of "fill in the blanks" approach to make it easy.
+I should be able to do the monthly Newsletters. . . .
+
+***
+
+We need some volunteers who can spend just a minute or two looking
+over each of the three or so eTexts we post on the average day....
+Just to download them and check to see that nothing went wrong in
+final save and upload process.  Some times there will be missing
+"hard returns" or there will be trailing spaces on some or all
+of the lines, or there won't be the proper end of file marker,
+margination, or header entries.  Nothing sophisticated here, we
+just want to be able to catch obvious errors, and we can provide
+a program we are porting to various operating system to make this
+even easier as we go along.  100 Etexts per month is just too much
+for any small group of people to do well. . . .
+
+***
+
+Please send in as much copyright research as you can in the next
+month, as I plan to be away for November, and don't want to swamp
+Greg Newby with more copyright research than is necessary.
+
+***
+
+Here Are Your 29 New Project Gutenberg eTexts For This Week:
+And two updated editions:
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+
+We have posted new and significantly revised 11th editions of:
+
+Jan 2003 Every Man In His Humour, by Ben Jonson [Jonson #1][emihhxxx.xxx]3694
+[the new files are emihh11.txt and emihh11.zip]
+Feb 2003 Cynthia's Revels, Ben Jonson                      [cynthxxx.xxx]3771
+[the new files are cynth11.txt and cynth11.zip]
+
+
+Apr 2003 Entire PG Edition of The French Immortals  [IM#87][imewkxxx.xxx]4000
+Apr 2003 Entire An "Attic" Philosopher by Souvestre [IM#86][im86bxxx.xxx]3999
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v3 [IM#85][im85bxxx.xxx]3998
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v2 [IM#84][im84bxxx.xxx]3997
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v1 [IM#83][im83bxxx.xxx]3996
+95
+Apr 2003 The Entire Madame Chrysantheme by Loti     [IM#82][im82bxxx.xxx]3995
+Apr 2003 Madame Chrysantheme by Pierre Loti, v4     [IM#81][im81bxxx.xxx]3994
+Apr 2003 Madame Chrysantheme by Pierre Loti, v3     [IM#80][im80bxxx.xxx]3993
+Apr 2003 Madame Chrysantheme by Pierre Loti, v2     [IM#79][im79bxxx.xxx]3992
+Apr 2003 Madame Chrysantheme by Pierre Loti, v1     [IM#78][im78bxxx.xxx]3991
+90
+Apr 2003 The Entire Conscience by Hector Malot      [IM#77][im77bxxx.xxx]3990
+Apr 2003 Conscience by Hector Malot, v4             [IM#76][im76bxxx.xxx]3989
+Apr 2003 Conscience by Hector Malot, v3             [IM#75][im75bxxx.xxx]3988
+Apr 2003 Conscience by Hector Malot, v2             [IM#74][im74bxxx.xxx]3987
+Apr 2003 Conscience by Hector Malot, v1             [IM#73][im73bxxx.xxx]3986
+
+
+
+Mar 2003 Hospital Sketches, by Louisa May Alcott[Alcott#10][hspskxxx.xxx]3837
+Mar 2003 Swiss Family Robinson, by Johann David Wyss       [sfrbnxxx.xxx]3836C
+[This is a copyrighted Project Gutenberg Etext]
+35
+Mar 2003 Correspondence of Wagner and Liszt, Volume 1      [cwlv1xxx.xxx]3835
+Mar 2003 Hassan, James Elroy Fletcher         [Fletcher #2][htshbxxx.xxx]3834
+[Full Title:  Hassan:  The Story of Hassan of Baghdad
+and How He Came to Make the Golden Journey to Samarkand]                                              Mar 2003                                                   [     xxx.xxx]3833
+Mar 2003 Australian Legendary Tales, by K. L. Parker[KLP#2][strltxxx.xxx]3833
+[Full title: Australian Legendary Tales--
+Folk-lore of the Noongahburrahs as told to the piccaninnies]
+[Author's Full Name: K. (Katie) Langloh Parker (1856-1940)]
+Mar 2003 Australia Felix, by Henry Handel Richardson[HRR#3][strlfxxx.xxx]3832
+Mar 2003 The Secret Power, by Marie Corelli     [Corelli#2][scrtpxxx.xxx]3831
+30
+Mar 2003 Overruled, by George Bernard Shaw         [GBS#24][overrxxx.xxx]3830
+Mar 2003 Love Among the Chickens, by P. G. Wodehouse[PGW#6][lvchkxxx.xxx]3829
+Mar 2003 Simon the Jester, by William J. Locke             [sjstrxxx.xxx]3828
+Mar 2003 The Days Before Yesterday, Lord Frederic Hamilton [tdbysxxx.xxx]3827
+Mar 2003 Rise of the New West, 1819-1829, by F.J. Turner   [rstnwxxx.xxx]3826
+25
+Mar 2003 Pygmalion, by George Bernard Shaw    [GB Shaw #23][pygmlxxx.xxx]3825
+Mar 2003 The Lamp of Fate, by Margaret Pedler   [Pedler #2][lmpftxxx.xxx]3824
+Mar 2003 Thelma, by Marie Corelli                          [thlmaxxx.xxx]3823
+
+***
+
+We created 29 new eTexts for you this week.
+
+With 3945 eTexts online as of October 3, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.53 from each book,
+for Project Gutenberg to have alreacy given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+Our Total For The Year Is About 909 For 275 days,
+this is 3.30 per day or 99 Per 30 day month. . . .
+This Would Yield About 1204 For The Year. . . .
+We are about 40 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+
+         Weekly Yearly
+Newsdate Etexts Avg/wk
+
+01/03/01   29    22.74
+October total   29
+
+09/26/01   27    22.59
+09/19/01   31    22.47
+09/12/01   31    22.3
+09/05/01   27    22.2
+September total 116
+
+
+08/29/01   25    22
+08/22/01   21    22
+08/15/01   30    22
+08/08/01   20    22
+08/01/01   22    22
+August total 117
+
+07/25/01   24    22
+07/18/01   22    22
+07/11/01   21    23
+07/04/01   29    23
+July Total 96
+
+06/27/01   22    23
+06/20/01   18    23
+06/13/01   17    23
+06/06/01   20    23
+June Total 77
+
+05/31/01   18    24
+05/23/01   16    24
+05/16/01   18    24
+05/09/01   18    25
+05/02/01   39    25
+May Total 109
+
+04/25/01   15    24
+04/18/01   11    25
+04/11/01   12    26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks   326   25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282   21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326   20.38
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+

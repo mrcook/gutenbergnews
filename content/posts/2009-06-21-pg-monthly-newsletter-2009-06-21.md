@@ -1,0 +1,390 @@
+---
+params:
+  id: 2558
+title: PG Monthly Newsletter (2009-06-21)
+date: 2009-06-21T16:29:40+00:00
+author: Michael Cook
+layout: post
+url: /20090621/pg-monthly-newsletter-2009-06-21/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter--June 21, 2009
+eBooks Readable By Both Humans And Computers Since 1971
+
+
+42 Months to The End of the World Via Mayan Calendaring on December 21, 2012
+[some now saying October 11, 2011]
+
+Leaving 3 years 6 months, 14  seasons or 42 months.
+
+Not to worry, I will still make long range predictions.
+
+
+
+Headline News
+
+
+
+More eBooks To More People Via More Hardware and Software
+
+
+The 39th year of Project Gutenberg will begin July 4th, 2009-- and we will
+once again be one of larger sponsors of The World eBook Fair at
+http://www.worldebookfair.org, which will reach the neighborhood of ~2.5
+million eBooks from July 4 to August 4, starting in about two weeks.
+
+One of the major developments this year is the advance in the variety of
+hardware and software methods of reading eBooks in more circumstances, more
+locations, and, of course, with more eBooks in wider and wider circulation.
+
+We will be sending out a special edition of this Newsletter a few weeks from
+now dedicated to these.
+
+
+
+Our 25,000th eBook In English Will Be Coming Up Shortly
+
+
+If you have any ideas, suggestions, comments, etc., about how we might
+commemorate this event, please let us know.
+
+
+
+We Just Published Our:
+
+200th eBook in Italian
+400th eBook in Chinese
+500th eBook in Finnish
+
+
+We are coming up on our 250th in Spanish. . .suggestions???
+
+
+
+
+
+iPhone Acquisition
+
+
+As you know, we try to get one of each of the popular reading devices to test
+how our eBooks work on them and demonstrate a wide variety of reading options.
+
+A friend is updating his iPhone today and I am buying his old one, so we would
+appreciate any suggestions of which programs we should load to demonstrate the
+widest variety of readers.
+
+
+
+Some interesting notes about eBooks of various varieties:
+
+National archives reviews purchases of paper materials in digital age Library
+and Archives Canada has put a moratorium on buying paper documents and books
+for its collection. Full Story:
+http://links.cbc.ca/a/l.x?T=jncickgjiekjmplpgobfifjajd&M=36
+
+...
+
+Google Books Improves -
+http://www.slaw.ca/2009/06/18/google-books-improves/
+
+Google Books has released a number of improvements designed to make reading
+and sharing their material easier. The Books blog, Inside Google Book Search
+lists seven changes:
+
+
+
+
+- embedding and links - From the new toolbar on a Books page you can copy a
+link to the source or the html necessary to produce an iframe in your blog or
+web page that will embed the source.
+
+- improved search - There's now more context around your search terms, and you
+can rank your search results by relevance as well as page order.
+
+- thumbnail view - More useful, perhaps, where images are involved, you can
+see an overview in thumbnails of the book you're examining.
+
+- drop-down menu - The drop-down menu displays links to the various divisions
+within the book.
+
+- plain text mode - Viewers can turn off the html mode and work simply with
+plain text.
+
+- page turn animation - This feature, invoked by clicking at the bottom of
+
+
+the screen, simulates a more natural progression through the book.
+
+- improved book overview - There's more data about the book offered on the
+overview page.
+
+
+
+
+
+
+British Library Publishes Online Archive of 19th-Century Newspapers Maev
+Kennedy The Guardian Thursday 18 June 2009
+&lt;http://www.guardian.co.uk/media/2009/jun/18/
+british-library-newspaper-archive-online&gt;
+
+A shorter URL for the above link:
+
+&lt;http://tinyurl.com/nknweq&gt;
+
+
+Over two million pages of 19th and early 20th century newspapers go online
+today, part of the vast British Library collection.
+
+The 49 British national and regional titles cover events including the Battle
+of Waterloo in June 1815 "Vague reports have been made of the numbers slain on
+both sides ... We should not quote them if our silence could prevent the
+
+spreading of disastrous intelligence", the Morning Chronicle reported. There
+was also the banks crisis of 1878, the first FA Cup final in 1872, and the
+triumph of the music hall star Vesta Tilley in a talent contest.
+
+
+&lt;snip&gt;
+
+
+The site
+
+&lt;http://newspapers.bl.uk/blcs&gt;
+
+
+holds journals including the True Crime of its day, the Illustrated Police
+News which covered the Jack the Ripper murders. The British Library worked in
+partnership with the Joint Information Systems Committee and Gale, part of
+Cengage Learning, to create the service. Searches are free, but users can pay
+to download information.
+
+["Can pay"???  I wonder if that translates into "must pay,"
+unless one is a certain kind of member or the like?]
+
+
+
+
+Our All Time Hottest Requests!!!!!!!
+
+
+
+FLASH RAM
+
+
+I am looking for the earliest flash RAM possible.
+
+The very earliest were PCMCIA cards, such as used for the Poqet computer, etc.
+
+The earliest USB flash drives were DisgoDizgo, M-Systems and these were OEMed
+by IBM, HP, etc. They are particular in a recognizable fashion because their
+snapon connectors resemble the connectors of jigsaw puzzles.
+
+We received two examples of RAM actually labeled "Flash,"
+for the H-P 95 pocket DOS machine from 1991, and a sample of Fairchild bubble
+memory, as well, from down under.
+
+Thank you, Mate!
+
+
+
+POWERPOINT
+
+
+We need someone who can do PowerPoint illustrations.
+
+One in particular, building a 3-D box of 1,000 dominoes.
+
+
+
+
+
+Additional Newsletter Services
+
+
+In addition, we will provide the PG Canada Newsletter and totals from PG of
+Australia, Europe, PrePrints, etc.
+
+You should notice that we had a very good month, with 100 books done nearly
+every single week.
+
+
+These totals do NOT include 75,000+ at
+
+httpwww.gutenberg.cc
+
+Where there are eBooks representing over 100 languages.
+
+
+
+The Project Gutenberg Statistical Report [As of about noon Central Daylight
+Time]
+
+
+
+Various totals from the ~30,000 at
+
+httpwww.gutenberg.org
+
+and our other Project Gutenberg Sites
+
+
+This week:
+
+
+      day       | cnt
+----------------+-----
+ Sun 2009-06-14 |   6
+ Mon 2009-06-15 |  13
+ Tue 2009-06-16 |   2
+ Wed 2009-06-17 |  16
+ Thu 2009-06-18 |   6
+ Fri 2009-06-19 |  12
+ Sat 2009-06-20 |  13
+
+
+Thanks to Marcello Perathoner!
+
+
+
+Here are the current language totals
+for languages with 200 or more eBooks.
+
+
+Grand total for today: 29082
+
+24519   English en
+1434    French  fr
+584     German  de
+505     Finnish fi
+423     Dutch   nl
+402     Chinese zh
+329     Portuguese      pt
+241     Spanish es
+200     Italian it
+
+
+
+
+Not to mention PrePrints, Canada, Australia, Europe....
+
+Total increase       +287      All Reported Languges
+
+
+and from the previous month. . . .
+
+
+
+
+Thanks to Greg Newby!
+
+//////
+
+
+And From Project Gutenberg Sites Worldwide [2 months]
+
+29,082   up   283  PG General Automated Count
+ 1,767   up     7  PG of Australia
+   637   up     6  PG of Europe
+ 2,021   up     0  PG PrePrints, Reserved [42],etc.
+   325   up    36  PG of Canada, End of May.
+======
+33,832   up   320  Grand Total
+
+
+
+
+Note  Without counting PrePrints, we are still over 30,000 and some of the new
+.lit collection will not make it under our current rules of addition from
+PrePrints, and would be deleted from PrePrints without moving to other
+listings.
+
+
+Note  There are perhaps 100 eBooks not listed here that are already in
+circulation from Project Gutenberg.
+
+Note  PG Canada includes English, French, and Italian.
+
+
+///
+
+
+Here is how we ended 2008
+
+
+
+27,616   PG General Automated Count
+ 1,726   Project Gutenberg of Australia
+   554   Project Gutenberg of Europe
+   225   Project Gutenberg of Canada [Estimated]
+         [202 up to December, no current report]
+ 2,431   PrePrints [Counting the 307 Chinese eBooks +111]
+======   ======
+32,552   Grand Total [Counting those PrePrints]
+
+
+
+
+Here is how we ended 2007
+
+The combined PG projects had produced a total of 26,161 titles.
+
+
+The most number of books posted...
+ ...in one day was 65 on the 26th December  ...in one week was 151 in Week 18
+(week ending 9th May)  ...in one month was 477 in November
+
+We averaged
+338 per month [Over 4,000 for the year]
+ 78 per week
+ 11.13 per day
+
+99 titles were newly REposted to the new filing system, bringing us almost to
+
+the 2,000 mark.
+
+
+Here is a small selection of project milestones;
+
+TOTAL Original Project Gutenberg eBooks equals about the number of books in
+the average U.S. public library
+  32,500 on 20082121 [Counting the 307 Chinese Preprints]
+                     [And presuming 3 after official count]
+  32,000 on Calcuating
+  31,500 on 20081021 [not an error, 1,777 PrePrints]
+  30,000 on 20081021
+  29,500 on 20080919
+  29,000 ~~ Calculating
+  28,500 ~~ Calculating
+  28,000 ~~ 20080516
+  27,500 on 20080405
+  27,000 ~~ 20080229
+  26,500 on 20080126
+  26,000 on 20071224
+  25,000 on 20071012
+  24,000 on 20070710
+  23,000 on 20070415
+
+PG-AU
+  1,700 on 20081010
+  1,600 on 20080208
+  1,500 on 20070407
+
+PG Canada
+  175 on 20080930
+  100 on 20080325
+  110 on 20080417
+
+
+
+
+**********************************************_
+gmonthly mailing list
+gmonthly@lists.pglaf.org
+http://lists.pglaf.org/mailman/listinfo/gmonthly
+</pre>
+
+<a href="/nl_archives/2009/pgmonthly_2009_06_21.txt" target="_blank" rel="nofollow">pgmonthly_2009_06_21.txt</a>

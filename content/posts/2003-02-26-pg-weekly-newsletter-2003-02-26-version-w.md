@@ -1,0 +1,749 @@
+---
+params:
+  id: 1967
+title: "PG Weekly Newsletter: Version W (2003-02-26)"
+date: 2003-02-26T19:31:38+00:00
+author: Michael Cook
+layout: post
+url: /20030226/pg-weekly-newsletter-2003-02-26-version-w/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 26th February 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7163 ebooks!!!
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New books From PG Australia
+   New U.S. eBooks
+3) News
+4) Readers letters
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+It appears that Project Gutenberg is going from strength to strength at the
+moment. If the article in Time Out New York has brought you onboard dear
+reader, then welcome to an amazing world of literature and more. Whether you
+are new or a reader of sometime standing, please feel free to get in touch
+with your thoughts or a contribution to any of our features.
+
+Happy reading,
+
+Alice (newsletter@schiffwood.demon.co.uk)
+
+We welcome feedback, critisism (constructive and otherwise), ebook reviews,
+featured author suggestions and writings, questions and general rambling (no
+woffle though please) at the address above.
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+Here Are The Updated Listings For This Past Week
+
+
+RESERVED count:   39
+
+TOTAL COUNT
+Last Week:            7,163 (incl. 173 Aus.)
++69  New This Week
+
+TOTAL COUNT as of Wed 02/26/03:   7,232 (incl. 174 Aus.)
+
+
+CORRECTIONS, REVISIONS AND NEW FORMATS
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The file name of the following has been changed as follows:
+from:
+Nov 2004 Richard III, by William Shakespeare        [ws#55][?r3wsxxx.xxx]6924
+to:
+Nov 2004 Richard III, by William Shakespeare        [TS#04][?gs04xxx.xxx]6924
+
+
+We have posted the following in new formats as indicated:
+Nov 2004 Darwiniana, by Thomas Henry Huxley                [?thdrxxx.xxx]6919
+[HTML posted as 8thdr10h.zip - zipped only]
+[XML posted as 8thdr10x.zip - zipped only]
+
+
+We have posted an updated 12th edition of the following:
+Dec 1999 A Miscellany of Men, by G. K. Chesterton [GKC #13][miscyxxx.xxx]2015
+
+
+We have posted an improved 11th edition of the following:
+Oct 2004 Our Legal Heritage, 4th Ed., by S. A. Reilly      [rlglhxxx.xxx]6603C
+Apr 2000 Utopia of Usurers, et al, by G. K. Chesterton[#14][uusryxxx.xxx]2134
+
+
+NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA
+
+Note:  the following is being re-indexed to include additional title
+information as follows:
+Feb 2003 Flowering Wilderness, by John Galsworthy   [JG#06][030023xx.xxx]0172A
+[http://gutenberg.net.au/ebooks03/0300231.txt or .ZIP]
+[2nd Book in the Trilogy "End of the Chapter", 3rd part the Forsyte
+  Chronicles]
+
+New posts:
+
+Feb 2003 The Gracie Allen Murder Case, by Van Dine  [SV#04][030025xx.xxx]0174A
+[http://gutenberg.net.au/ebooks03/0300251.txt or .ZIP]
+[Author's full name: S S Van Dine]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+NEW U.S. POSTS
+
+Mar 2005 Devereux,        by E. B. Lytton, Complete [BL#58][b058wxxx.xxx]7630
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7624-7629]
+Mar 2005 Devereux,        by E. B. Lytton, Book 6   [BL#57][b057wxxx.xxx]7629
+Mar 2005 Devereux,        by E. B. Lytton, Book 5   [BL#56][b056wxxx.xxx]7628
+Mar 2005 Devereux,        by E. B. Lytton, Book 4   [BL#55][b055wxxx.xxx]7627
+Mar 2005 Devereux,        by E. B. Lytton, Book 3   [BL#54][b054wxxx.xxx]7626
+
+Mar 2005 Devereux,        by E. B. Lytton, Book 2   [BL#53][b053wxxx.xxx]7625
+Mar 2005 Devereux,        by E. B. Lytton, Book 1   [BL#52][b052wxxx.xxx]7624
+
+
+Dec 2004 The Angel Adjutant, by Minnie L. Carpenter        [adjutxxx.xxx]7039
+[Full title: The Angel Adjutant of "Twice Born Men"]
+[7-bit version with non-accented characters in adjut10.txt and adjut10.zip]
+[HTML version with accented characters in adjut10h.htm and adjut10h.zip]
+Dec 2004 Personal Experiences of S. O. Susag, by Susag     [pesosxxx.xxx]7038
+Dec 2004 Beric the Briton, by G. A. Henty             [#11][bbritxxx.xxx]7037
+[Plain text in bbrit10.txt/.zip; HTML version in bbrit10h.htm/.zip]
+Dec 2004 Poorhouse Waif, by I. C. Byrum                    [pwaifxxx.xxx]7036
+[Full title: The Poorhouse Waif and His Divine Teacher]
+[Full author: Isabel C. Byrum]
+
+Dec 2004 The Hero of Hill House, by Mable Hale             [hhhsexxx.xxx]7035
+Dec 2004 Fleurs de lys and Other Poems, by Arthur Weir     [?flurxxx.xxx]7034
+[Plain text in 7flur10.txt/.zip; 8-bit version 8flur10.txt/.zip]
+Dec 2004 Picturesque Quebec, by James MacPherson Le Moine  [?quebxxx.xxx]7033
+[Plain text in 7queb10.txt/.zip; 8-bit version in 8queb10.txt/.zip]
+(Note:  The unzipped text files are each 1.4mb)
+Dec 2004 Prose Idylls, by Charles Kingsley                 [pridxxxx.xxx]7032
+[XHTML in prid10h.htm/.zip, text in prid10.txt/.zip]
+Dec 2004 The Sheik, by E. M. Hull                          [sheikxxx.xxx]7031
+
+Dec 2004 Field and Hedgerow, by Richard Jefferies      [#4][fhedgxxx.xxx]7030
+[7-bit version with non-accented characters in fhedg10.txt and fhedg10.zip]
+[HTM version with accented characters in fhedg10h.htm and fhedg10h.zip]
+Dec 2004 Book of Etiquette, by Lillian Eichler             [betiqxxx.xxx]7029
+Dec 2004 The Clicking of Cuthbert, by P. G. Wodehouse [#21][clickxxx.xxx]7028
+Dec 2004 A Hive of Busy Bees, by Effie M. Williams         [bbeesxxx.xxx]7027
+Dec 2004 Children's Touching Incidents, by S. B. Shaw      [ansprxxx.xxx]7026
+[Full title: Children's Edition of Touching Incidents and Remarkable
+  Answers to Prayer]
+
+Dec 2004 Rob Roy, by Sir Walter Scott, Complete            [rob3wxxx.xxx]7025
+Dec 2004 Rob Roy, by Sir Walter Scott, Volume 2            [rob2wxxx.xxx]7024
+Dec 2004 Rob Roy, by Sir Walter Scott, Volume 1            [rob1wxxx.xxx]7023
+[Plain text in rob_w10.txt/.zip]
+[Illustrated HTML version, zip file only with images, in rob_w10h.zip]
+
+Dec 2004 Ein Sommernachtstraum,by William Shakespeare[TS#17][?gs17xxx.xxx]7022
+[Translator: Wilhelm von Schlegel] [Language: German]
+[Plain text in 7gs1710.txt/.zip; 8-bit version in 8gs1710.txt/.zip]
+Dec 2004 Indian Frontier Policy, by General Sir John Ayde  [indfrxxx.xxx]7021
+[Note: Central Asia "Indian", not the American Indian]
+
+Dec 2004 Louis Agassiz as a Teacher, by Lane Cooper        [agaszxxx.xxx]7020
+Dec 2004 For Auld Lang Syne, by Ray Woodward               [auldlxxx.xxx]7019
+Dec 2004 Collection of Scotch Proverbs, by Pappity Stampoy [scprvxxx.xxx]7018
+Dec 2004 A Study in Tinguian Folk-Lore, by Fay-Cooper Cole [?tnflxxx.xxx]7017
+[Also posted TEI XML file 8tnfl10x.zip - zip only]
+Dec 2004 Adventures in the Land of Canaan, Robert Lee Berry[dvlcnxxx.xxx]7016
+[Also posted XML-ish file dvlcn10x.zip]
+
+Dec 2004 Wisdom of the East, by Shinran Shonin             [wsbdpxxx.xxx]7015
+[Also posted Unicode - wsbdp10u.txt and wsbdp10u.zip]
+Dec 2004 Equinoctial Regions of America V2,von Humboldt[#2][qnct2xxx.xxx]7014
+[Full author: Alexander von Humboldt]
+Dec 2004 Journeys Through Bookland V4, Charles H. Sylvester[?bld4xxx.xxx]7013
+Dec 2004 Mes Origines. Memoires et Recits, Frederic Mistral[?momrxxx.xxx]7012
+[Language: French]
+[Plain text in 7momr10.txt/.zip; 8-bit version in 8momr10.txt/.zip]
+[HTML version in 8momr10h.htm and 8momr10h.zip]
+Dec 2004 The Flood, by Emile Zola                     [#14][zofldxxx.xxx]7011
+
+Dec 2004 Graded Lessons in English, by Reed and Kellog     [ggramxxx.xxx]7010
+[Full author: Alonzo Reed and Brainerd Kellogg]
+[Subtitle: An Elementary English Grammar Consisting of One Hundred
+  Practical Lessons, Carefully Graded and Adapted to the Class-Room]
+Dec 2004 Monsieur de Pourceaugnac, by Poquelin (Moliere    [?prncxxx.xxx]7009
+[Plain text in 7prnc10.txt/.zip; 8-bit version in 8prnc10.txt/.zip]
+Dec 2004 The City of Fire, by Grace Livingston Hill        [?cfirxxx.xxx]7008
+[Plain text in 7cfir10.txt/.zip; 8-bit version in 8cfir10.txt/.zip]
+Dec 2004 True Story of My Life, by Hans Christian Andersen [7hcanxxx.xxx]7007
+(Note:  1847 Edition.)
+[Plain text in 7hcan10.txt/.zip; 8-bit version in 8hcan10.txt/.zip]
+Dec 2004 Bonnie Prince Charlie, by G. A. Henty        [#11][bprchxxx.xxx]7006
+[Plain text in bprch10.txt/.zip; HTM in bprch10h.htm/.zip]
+
+Dec 2004 The Antiquary, by Sir Walter Scott, Complete      [ant3wxxx.xxx]7005
+Dec 2004 The Antiquary, by Sir Walter Scott, Volume 2      [ant2wxxx.xxx]7004
+Dec 2004 The Antiquary, by Sir Walter Scott, Volume 1      [ant1wxxx.xxx]7003
+[Plain text in  ant_w10.txt/.zip]
+[Illustrated HTML, zipped files only, in ant_w10h.zip]
+
+Dec 2004 Life of George Washington, V1, by W. Irving   [#7][?wsh1xxx.xxx]7002
+[Full title: The Life of George Washington, Volume I]
+[Full author: Washington Irving]
+[Plain text in 7wsh110.txt/.zip; 8-bit version in 8wsh110.txt/.zip]
+Dec 2004 History of the Philippines, by Antonio de Morga   [?phipxxx.xxx]7001
+[Full title: History of the Philippine Islands Vols 1 and 2]
+[Plain text in 7phip10.txt/.zip; 8-bit version in 8phip10.txt/.zip]
+
+Nov 2004 How to Live a Holy Life, by C. E. Orr             [holywxxx.xxx]6999
+Nov 2004 The Spanish Chest, by Edna A. Brown               [?spchxxx.xxx]6998
+[Plain text in 7spch10.txt/.zip; 8-bit version 8spch10.txt/.zip]
+Nov 2004 Winning of Barbara Worth, by Harold B Wrigh[HBW#5][wbworxxx.xxx]6997
+Nov 2004 Romeo und Julia, by William Shakespeare    [TS#16][?gs16xxx.xxx]6996
+[Translator: August Wilhelm von Schlegel]  [Language: German]
+[Plain text in 7gs1610.txt/.zip; 8-bit version in 8gs1610.txt/.zip]
+
+Nov 2004 Ghosts I have Met and Some Others, by J. Bangs[#8][?gostxxx.xxx]6995
+[Author's Full Name: John Kendrick Bangs]
+[Plain text in 7gost10.txt/.zip; 8-bit version in 8gost10.txt/.zip]
+Nov 2004 Han d'Islande, by Victor Hugo                     [handixxx.xxx]6994
+[Language: French]
+Nov 2004 The Lord of the Sea, by M. P. Shiel               [?lrdsxxx.xxx]6993
+[Plain text 7lrds10.txt/.zip; 8-bit version in 8lrds10.txt/.zip]
+Nov 2004 Belinda, by A. A. Milne                       [#4][beldaxxx.xxx]6992
+[Also posted HTM version with accented characters in belda10h.htm/.zip]
+Nov 2004 Across the Years, by Eleanor H. Porter        [#9][acrosxxx.xxx]6991
+[Also posted HTM version with accented characters in acros10h.htm/.zip]
+
+Nov 2004 Coriolanus, by William Shakespeare         [ST#36][?gs36xxx.xxx]6990
+[Translator: Dorothea Tieck][unter der Redaktion von Ludwig Tieck]
+[Language: German]
+[Plain text in 7gs3610.txt/.zip; 8-bit version in 8gs3610.txt/.zip]
+Nov 2004 History of Rome from 476 AD, by Robert F. Pennell [8romexxx.xxx]6989
+[Full title: History of Rome from the Earliest times down to 476 AD]
+Nov 2004 Ottawa and Chippewa, by Andrew J. Blackbird       [miindxxx.xxx]6988
+[Full title: History of the Ottawa and Chippewa Indians of Michigan]
+Nov 2004 Five Little Peppers Abroad, by Margaret Sidney[#4][pep5axxx.xxx]6987
+Nov 2004 Hygienic Physiology, by Joel Dorman Steele        [?hygnxxx.xxx]6986
+[Subtitle: With Special Reference to the Use of Alcoholic Drinks and
+  Narcotics Being a Revised Edition of the Fourteen Weeks in Human Physiology]
+[Plain text in 7hygn10.txt/.zip; 8-bit version in 8hygn10.txt/.zip]
+
+Nov 2004 A Prefect's Uncle, by P. G. Wodehouse        [#20][pfectxxx.xxx]6985
+Nov 2004 The Pothunters, by P. G. Wodehouse           [#19][pothtxxx.xxx]6984
+Nov 2004 Missionary Work Ojebway Indians, E. F. Wilson     [ojebwxxx.xxx]6983
+[Full title: Missionary Work Among The Ojebway Indians]
+[Author: Edward Francis Wilson]
+Nov 2004 Hawthorne and His Circle, by Julian Hawthorne     [hcircxxx.xxx]6982
+Nov 2004 The Open Air, by Richard Jefferies                [thpnrxxx.xxx]6981
+[HTML version in thpnr10h.htm and thpnr10h.zip]
+
+Nov 2004 Tales of St. Austin's, by P. G. Wodehouse    [#18][talewxxx.xxx]6980
+Nov 2004 The Little Regiment, by Stephen Crane         [#4][regmtxxx.xxx]6979
+
+Mar 2005 The Orations of Lysias, by Lysias                 [lysswxxx.xxx]6978
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+As mentioned last issue, Project Gutenberg and Distributed Proofreaders was
+mentioned in Time Out New York last week (issue 387). The feature is not yet
+up on the website. You can however, find a summary of the article on the
+General forum of the DP site, you do need to register to read this (of
+course, you are registered and proof-reading already!). I will be happy to
+run the article in the newsletter if someone can send me a scanned version at
+newsletter@schiffwood.demon.co.uk. If you have a fax, please mail me and we
+will sort something out.
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Readers letters
+
+Hi Alice,
+
+I'd be interested to read any suggestions from Gutenbergers and others on
+a convenient and reasonably-priced item of hand-held equipment for reading
+etexts. I haven't got a hand-held computer and have no interest in
+getting one as such, but should I look out for a second-hand machine simply
+as an etext reader?  I have heard of the REB machines, but they don't seem
+to be available in the UK, and anyway, I think there was some sort of
+restriction on what could be loaded(?),  --   there was also mention
+recently of a Chinese "ebook v1.0" being produced by Culturecom  --
+does anyone know of progress on that?
+
+Regards,
+
+Les.
+
+{Unfortunately, I cannot add to this debate myself as I use my lap-top, hint
+for birthday prezzie there. However, I do know that a lot of Gutenbergers use
+PDAs, I am sure that this has been a topic on the DP forums, so please send
+in your thoughts. Any contributions to newsletter@schiffwood.demon.co.uk
+please.}
+
+                    -------------------
+
+More hidden gems from DP
+
+1) Stephen Leacock is probably familiar to many, but
+for those who have never read him, some of his best
+work is in PG. He was a Canadian economics professor
+who wrote some of the most entertaining humour of the
+early twentieth century in his spare time.
+Particularly recommended in PG are Arcadian Adventures
+with the Idle Rich, My Discovery of England, Nonsense
+Novels and Sunshine Sketches of a Little Town.
+
+More info on him is available at
+http://www.leacockmuseum.com/
+
+2) Jerome K. Jerome's classic comic favourite Three
+Men in a Boat may be unknown to some; this
+late-Victorian tale ranks as one of the most popular
+and well-loved comedies of the 19th century, and
+remains hilarious today.
+
+See http://www.jeromekjerome.com/ for more info.
+
+
+3)There are several books of literary criticism in PG.
+Browsing through some of these could easily lead to
+ideas for specific authors and works to seek by
+delving deeper into PG. Andrew Lang has a few for
+starters.
+
+Sorry if these seem too obvious! :/
+
+All the best!
+
+Bill
+
+                    -------------------
+
+Wives and Daughters - A Review
+
+What a gem! That's what I said to myself when I finished reading Elizabeth
+Cleghorn Gaskell's last novel, Wives and Daughters. I consider it a must for
+anyone who enjoys Victorian literature or literature of any period in which
+characters are exquisitely drawn in minute detail and become real people.
+
+Wives and Daughters has characterization in spades! At least a dozen
+characters stand out. Foremost, of course, is the heroine, Molly Gibson -
+intelligent, honest, proper, usually shy but bold when determined - all that
+a Victorian heroine should be. The book opens with Molly not quite grown,
+warmly attached to her widowed father, a diligent and warm-hearted country
+doctor. During a prolonged visit to the nearby home of Squire Hamley, Molly
+becomes attached to and beloved by the Hamley family, including the sons
+Osborne and Roger.
+
+Stubborn, outspoken Squire Hamley has breeding (his family has owned the
+estate since before the Norman conquest) but no education and little money;
+he expects his sons, especially Osborne, the elder, to marry for wealth and
+social position (a theme often explored by Trollope). During Molly's stay at
+Hamley Hall, her father decides she needs a stepmother, and he marries a
+widow with a daughter Molly's age. The second Mrs. Gibson, one of the
+memorable characters in literature, a born schemer and social climber
+unencumbered by veracity, takes charge of Molly and, in trying to make her
+into a "lady," makes her life miserable.
+
+Mrs. Gibson's daughter Cynthia is all that Molly is not - beautiful,
+fashionable, flirtatious, and irresistibly attractive to young men. But both
+Cynthia and Mr.Osborne Hamley have secrets which are about to blow up. Molly
+unintentionally learns the secrets and does her best to put things right. The
+action takes place in and about a placid country village whose inhabitants
+are wonderfully described, based on the author's personal experience.
+
+Mrs. Gaskell (as she was called by Victorian readers) died before completing
+the last one or two chapters. A modern reader would never know it, but
+Victorians would have missed the final acknowledgment of love and uniting in
+marriage required by their customs. Those who saw the magnificent Exxon-Mobil
+Masterpiece Theatre dramatization on PBS saw one possible ending, but not the
+one planned by Mrs. Gaskell.
+
+Elizabeth Gaskell was unusual in many ways by Victorian standards. She and her
+husband, a Unitarian minister, did not subscribe to the Victorian conviction
+that women should be subordinated to men. Her novels and short stories, while
+portraying Victorian life in accurate detail, explored the relationships of
+men and women, the worth of individuals accorded by character and achievement
+as opposed to social rank, and the plight of workers in the new industrial
+society. One of her novels, Ruth, shocked her contemporaries by dealing with
+illegitimate pregnancy and its consequences in a society with a dual set of
+behavioral standards.
+
+She left fewer than a dozen novels, by the mid-twentieth century largely
+forgotten by all but scholars. She has, in modern parlance, been
+"re-discovered," deservedly, and the quality of her writing has earned her a
+place among the acknowledged greats of Victorian literature. To me, Wives and
+Daughters is far more skillfully written and has a better plot than
+Thackeray's best-known novel, Vanity Fair, and rivals the best of Trollope's
+bountiful output.
+
+Trust me, and try it!
+
+Joe Loewenstein
+
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+February
+
+26th Victor Hugo
+27th John Steinbeck,Lawrence Durrell, Irwin Shaw, Longfellow
+28th Marcel Pagnol
+
+March
+
+1st Ralph Ellison, Robert Lowell,Oskar Kokoschka
+2nd Friedebert Tuglas
+3rd Rabbe Enckell
+4th Allan Sillitoe, Jean-Joseph Rabearivelo
+
+Also, this week
+
+The first photo-engraving typesetting machine was used in 1954. Henry James
+died aged 72. Henry Fielding published the first edition of 'Tom Jones' in
+1749. 'Native Son'by Richard Wright is published in 1940. British horror
+writer Horace Walpole dies aged 79. In 1930 D.H.Lawrence, poet and writer of
+books including 'Lady Chatterley's Lover' dies aged just 44. Phillip K Dick
+dies aged 53. Time magazine celebrates it's 80th birthday this week.
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+COPY PROTECTION EFFORTS MISGUIDED, SAYS LESSIG
+Lawmakers will be making a big mistake if they bow to Hollywood pressure
+and enact new copyright-protection legislation based on today's Internet
+use patterns, says Stanford University professor Lawrence Lessig.
+Currently, millions of consumers are downloading music to their PCs because
+slow dialup connections make it impractical to stream content quickly to a
+variety of devices. "In the future, it will be easier to pay for
+subscription services than to be an amateur database administrator who
+moves content from device to device. We're legislating against a background
+of the Internet's current architecture of content distribution, and this is
+a fundamental mistake," Lessig told participants at the Digital Rights
+Management Summit held at Intel headquarters. (AP 20 Feb 2003)
+http://apnews.excite.com/article/20030220/D7PA785G0.html
+
+                    -------------------
+
+GOOGLE AND THE WORLD OF BLOGGING: YOU ARE WHAT YOU POINT TO
+Google's purchase of Pyra, creator of the Blogger software for people who
+want to publish their own Web logs ("blogs") has puzzled some, because the
+businesses seem diametrically opposed: Google is used for finding
+information whereas Blogger is used for producing it. So what's going on?
+Meg Hourihan, one of the founders of Pyra, suggests that the acquisition of
+Blogger will give Google a way of gaining faster access to links in the Web
+logs. "I very much think it's about having the Blogger database, not so
+much the words but what people are pointing to, and getting their finger on
+that in real time." (New York Times 24 Feb 2003)
+http://partners.nytimes.com/2003/02/24/technology/24BLOG.html
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+UNIVERSITY TESTS CONTROVERSIAL MONITORING SOFTWARE
+For several months the University of Wyoming has been testing software
+from Audible Magic that allows network operators to see exactly what
+files are passing through the university's routers. The software goes
+beyond bandwidth-shaping applications, which allocate portions of a
+network's capacity to certain types of traffic, and recreates files
+that use FTP (file transfer protocol) or the Gnutella technology to
+identify the content. The next step, theoretically, is to compare files
+passing through the network and block transmission of any that are
+copyrighted. That prospect has many up in arms about what critics call
+censorship, particularly in a university setting. In a letter to
+universities last fall, the Electronic Privacy Information Center said,
+"Monitoring the content of communications is fundamentally incompatible
+with the mission of educational institutions." Brad Thomas, a network
+specialist at the University of Wyoming, noted that he doesn't want to
+look at what's being sent across the network, and users don't want
+their communications monitored. "But," he said, "it's getting to be
+the only way to control our bandwidth."
+ZDNet, 20 February 2003
+http://zdnet.com.com/2100-1105-985027.html
+
+                    -------------------
+
+MICROSOFT FILES UNFAIR COMPETITION BRIEF AGAINST SUN
+In the latest chapter of the ongoing battle between Microsoft and Sun
+Microsystems, Microsoft has filed a court brief accusing Sun of
+anti-competitive practices and of violating an earlier agreement
+between the two. Sun has tried to convince the courts to prevent
+Microsoft from distributing its own version of Java, a technology
+originally developed by Sun. In July 2001, Microsoft settled a similar
+case with Sun. That settlement, according to Microsoft, gives it the
+right to use and distribute its own Java Virtual Machine until 2008.
+Sun's current case attacks the method for that distribution--Microsoft
+offers Sun's Java as an optional download while its own Java is
+included with operating systems. Microsoft argues that Sun's complaint
+violates the 2001 settlement and that Sun's continued legal action is
+designed "to cause competitive injury to Microsoft."
+NewsFactor Network, 24 February 2003
+http://www.newsfactor.com/perl/story/20830.html
+
+{Ooh, pots and kettles I think}
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the number crunching and the
+booklists, Greg for keeping me organised, Mark for the tea, computer
+maintenance and cat control and Larry Wall. Michael is on holiday.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_02_26_version_w.txt" target="_blank" rel="nofollow">pgweekly_2003_02_26_version_w.txt</a>

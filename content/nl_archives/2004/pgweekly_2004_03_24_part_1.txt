@@ -1,0 +1,826 @@
+PGWeekly_March_24.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, March 24, 2004  PT0
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+
+!!!
+Newsletter editors needed!  Please email hart@pobox.com or gbnewby@pglaf.org
+!!!
+
+Apologies for delays and resends, my cut and past from previous listings
+included filetypes you cannot even MENTION in today's emails.
+[I hope this soon goes the way of no mention of brxxst cancer research]
+
+
+
+                            eBook Milestones
+
+              Our Grand Total Passed 12,000 eBooks !!!
+
+
+             We Are 1/5 of the Way from 10,000 to 20,000
+
+
+                     12024 eBooks As Of Today!!!
+
+
+It took 32.25 years from July, 1971 to October, 2003 to do our 1st 10,000
+
+It took 4.25 years from December, 1999 to March, 2004 for our last 10,000
+
+[From 2,024 to 12,024]  [Footnote:  the most recent 25 files are the new
+Human Genome files, and thus are VERY large, may be a few extra minutes
+each before they are all available for download. . .but probably should
+be ready by the time you get this. . .around noon Central Standard Time]
+
+
+Another Milestone:  A.C. Nielsen reported this week that US Internet
+users topped 200 million for the first time last year, now ~75% of
+all American's over the age of 2 have Internet access, up from 66%
+a year before.  That's 3/4 of the population, up from 2/3. . . .
+In each coming year it should move to 5/6 to 6/7 to 7/8 to 8/9 to 9/10
+That would mean 90% of the US would have Internet access before 2010.
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+Today, and until we actually GET a new Newsletter editor who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 3 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 3/4 Year History, We Have Now Averaged About 367 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+           We Are Averaging About 430 Per Month This Year!!!
+
+                       Just over 100 per week!!!
+
+
+By The Way, It's Been About 1.023 Billion Seconds Since The First eBook!!!
+
+
+
+***  HOT Requests!!!
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+an *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Hot Requests (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    2 New From PG Australia [Australian, Canadian Copyright Etc.]
+    110 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+*** Progress Report
+
+    In the first 3.50 months of this year, we produced 1100 new eBooks.
+
+ It took us from July 1971 to Nov 1997 to produce our first 1,100 eBooks!
+
+                That's 10 WEEKS as Compared to ~26 Years!
+
+                  112   New eBooks This Week
+                   93   New eBooks Last Week
+                  313   New eBooks This Month [March]
+
+                  430   Average Per Month in 2004
+                  355   Average Per Month in 2003
+                  203   Average Per Month in 2002
+                  103   Average Per Month in 2001
+
+                  313   New eBooks in 2004
+                 4164   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 8158   New eBooks Since Start Of 2001
+                             That's Only 38.5 Months!
+
+               12,024  Total Project Gutenberg eBooks
+                7,410   eBooks This Week Last Year
+                 ====
+                4,614   New eBooks In Last 12 Months
+
+                  342   eBooks From Project Gutenberg of Australia
+
+
+                        We're still keeping up with Moore's Law!
+
+                        Moore's law 12 month comparison = 105.8%
+
+                        Moore's law 18 month comparison =  99.9%
+
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                   313 New eBooks So Far in 2004
+
+              It took us 27 years for the first 313 !
+
+       That's the 10 WEEKS of 2004 as Compared to ~26 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #313
+
+Sep 1995 Verses 1889-1896, by Rudyard Kipling  [Kipling#2] [11kipxxx.xxx]  323
+Sep 1995 St Ives, by Robert Louis Stevenson [RLS #6]       [stivexxx.xxx]  322
+Sep 1995 Moran of the Lady Letty, by Frank Norris [FN#3]   [morllxxx.xxx]  321
+Sep 1995 Vida de Lazarillo, Author Unknown, In Spanish     [lazaexxx.xxx]  320
+  [Language: Spanish]
+
+Aug 1995 The Ways of Men, by Eliot Gregory                 [waymnxxx.xxx]  319
+Aug 1995 John Barleycorn, by Jack London [London #3]       [jbarlxxx.xxx]  318
+Aug 1995 Culprit Fay and Other Poems, Joseph Rodman Drake  [cufayxxx.xxx]  317
+Aug 1995 The Golden Road, by Lucy Maud Montgomery [#4]     [goldrxxx.xxx]  316
+
+Aug 1995 Rhymes of a Red Cross Man, by Robert W. Service 4 [redcrxxx.xxx]  315
+Aug 1995 Guide to Life and Literature of the Southwest     [swestxxx.xxx]  314
+Aug 1995 Children of the Night by Edwin Arlington Robinson [chnitxxx.xxx]  313
+Aug 1995 Young Adventure, by Stephen Vincent Benet         [yngadxxx.xxx]  312
+
+Aug 1995 Bunner Sisters by Edith Wharton  [Wharton #7]     [bunnrxxx.xxx]  311
+Aug 1995 Before Adam, by Jack London [Jack London #2]      [badamxxx.xxx]  310
+Aug 1995 Rhymes of a Rolling Stone, by Robert W. Service 3 [rolstxxx.xxx]  309
+Aug 1995 Three Men in a Boat, by Jerome K. Jerome          [3boatxxx.xxx]  308
+
+Aug 1995 Three Elephant Power Etc., Banjo Paterson [#3]    [3elphxxx.xxx]  307
+Aug 1995 The Early Short Fiction, Edith Wharton Part Two #6[whrt2xxx.xxx]  306
+Aug 1995 The Count's Millions, by Emile Gaboriau           [cntmixxx.xxx]  305
+Aug 1995 Rio Grande's Last Race, Etc., Banjo Paterson [#2] [rlastxxx.xxx]  304
+
+
+Jul 1995 HomeBrew HomePages Put YOU On The World Wide Web  [homebxxx.xxx]  303C
+Jul 1995 The Fibonacci Number Series    [math0]            [fibnsxxx.xxx]  302
+Jul 1995 Ballad of Reading Gaol, by Oscar Wilde [Wilde #2] [rgaolxxx.xxx]  301
+Jul 1995 United States Declaration of Independence in HTML [1whenxxa.xxx]  300C
+
+Jul 1995 Tales From Two Hemispheres, Hjalmar Hjorth Boysen [twohexxx.xxx]  299
+Jul 1995 The Market-Place by Harold Frederic [Frederic #2] [marktxxx.xxx]  298
+Jul 1995 The Flirt, by Booth Tarkington  [Tarkington #1]   [flirtxxx.xxx]  297
+Jul 1995 The Cash Boy, by Horatio Alger, Jr. [Alger #2]    [cashbxxx.xxx]  296
+
+Jul 1995 The Early Short Fiction, Edith Wharton #5 Part One[whrt1xxx.xxx]  295
+Jul 1995 The Captain of the Polestar, by A. Conan Doyle #5 [polstxxx.xxx]  294
+Jul 1995 Paul Prescott's Charge by Horatio Alger Jr[Alger1][prescxxx.xxx]  293
+Jul 1995 Beauty and The Beast, Etc., by Bayard Taylor      [bbetcxxx.xxx]  292
+
+Jul 1995 The Golden Age, by Kenneth Grahame [Grahame #3]   [gldnaxxx.xxx]  291
+Jul 1995 The Stark Munro Letters, by Arthur Conan Doyle #4 [strkmxxx.xxx]  290
+Jul 1995 The Wind in the Willows, by Kenneth Grahame [#2]  [wwillxxx.xxx]  289
+Jul 1995 The Certain Hour, by James Branch Cabell          [chourxxx.xxx]  288
+
+
+Jun 1995 Remember the Alamo, by Amelia E. Barr             [alamoxxx.xxx]  287
+Jun 1995 The Lost Continent by C. J. Cutcliffe Hyne        [lostcxxx.xxx]  285
+Jun 1995 House of Mirth, by Edith Wharton  [Wharton #4]    [hmirtxxx.xxx]  284
+
+Jun 1995 The Reef, by Edith Wharton [Wharton #3]           [treefxxx.xxx]  283
+Jun 1995 Eothen, by A. W. Kinglake                         [eothnxxx.xxx]  282
+Jun 1995 Father Damien, Robert Louis Stevenson [RLS #5]    [frdamxxx.xxx]  281
+Jun 1995 Records of a Family of Engineers, R. L. Stevenson [rfengxxx.xxx]  280
+
+Jun 1995 Trinity Atomic Bomb Test Site Photographs         [3trntxxx.xxx]  279
+Jun 1995 Trinity Atomic Bomb by White Sands Missle Range   [2trntxxx.xxx]  278
+Jun 1995 Trinity Atomic Bomb by the National Atomic Museum [1trntxxx.xxx]  277
+Jun 1995 Franz Haydn's 104th Symphony [1794-5] [MIDI #2]   [fh104sxx.xxx]  276C
+
+Jun 1995 The Augsburg Confession, 465th Anniversary Edition[augsbxxx.xxx]  275
+Jun 1995 Martin Luther's 95 Theses, In English and Latin[1][the95xxx.xxx]  274
+Jun 1995 The Smalcald Articles, by Martin Luther           [smcalxxx.xxx]  273
+Jun 1995 An Open Letter on Translating by Martin Luther    [ltranxxx.xxx]  272
+
+
+May 1995 Black Beauty by Anna Sewell [English Quaker c1850][bbeauxxx.xxx]  271
+May 1995 Dream Days, by Kenneth Grahame[Kenneth Grahame #1][drdayxxx.xxx]  270
+May 1995 Beasts and Super-Beasts, by Saki [H. H. Munro][#1][beastxxx.xxx]  269
+May 1995 The Octopus, by Frank Norris [A California Story]2[octopxxx.xxx]  268
+
+May 1995 The Touchstone, by Edith Wharton [Wharton #2]     [touchxxx.xxx]  267
+May 1995 "Confessio Amantis" by John Gower [circa 1375 AD] [conamxxx.xxx]  266
+.(Note:  the filename conamxxx.xxx is also used for a totally different
+.(eBook, #5123 in etext04)
+May 1995 The Life and Death of Cormac the Skald [Iceland]  [cormcxxx.xxx]  265
+May 1995 Main Street, Other Poems, Joyce Kilmer [US/NJ/NY] [jkmstxxx.xxx]  264
+
+May 1995 Trees and Other Poems, Joyce Kilmer [US/NJ/NY]    [treesxxx.xxx]  263
+May 1995 Poems of Rupert Brooke                            [rupbrxxx.xxx]  262
+May 1995 Dome of Many-Coloured Glass, Amy Lowell [Mass, US][domcgxxx.xxx]  261
+May 1995 Introduction to Browning, Hiram Corson [Brit/Amer][inbroxxx.xxx]  260
+
+May 1995 Ballads of a Cheechako, Robert W. Service     [#2][bcheexxx.xxx]  259
+May 1995 The Poems of A.L. [Adam Lindsay] Gordon[Australia][agordxxx.xxx]  258
+May 1995 Troilus and Crisyde, by Geoffrey Chaucer [England][troicxxx.xxx]  257
+May 1995 MPG Motion Picture of Rotating Earth [from space] [earthxxx.xxx]  256
+
+***
+
+Today Is Day #076 of 2004
+This Completes Week #11
+  287 Days/41 Weeks To Go  [We get 52 Wednesdays this year]
+ 8000 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+  101   Weekly Average in 2004
+   79   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   41   Only 41 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries, as it looks as if the
+Australian copyright law is falling victim to the
+new "Economic Warfare" being waged by the World
+Intellectual Property Organization and various
+billionaire copyright holders around the world.
+
+email: James Linden <jlinden@pglaf.org>
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 11 weeks of this year, we have produced 313 new eBooks.
+It took us from 1971 to 1997 to produce our FIRST 313 eBooks!!!
+
+         That's 11 WEEKS as Compared to ~26 YEARS!!!
+
+
+With 12,024 eBooks online as of March 23, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.83 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.35 when we had 7420 eBooks A Year Ago
+
+Can you imagine 12,000 books each costing $.52 less a year later???
+Or. . .would this say it better?
+Can you imagine 12,000 books each costing 1/3 less a year later???
+
+At 12,024 eBooks in 32 Years and 9.60 Months We Averaged
+      367 Per Year   [We do more per than that month these days!]
+       30.5 Per Month
+        1.00 Per Day
+
+At 1117 eBooks Done In The 076 Days Of 2004 We Averaged
+     14.7 Per Day
+    102.9 Per Week
+    448.3 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+>From Newsscan:
+
+THE BATTLE OF THE DESKTOP HEATS UP
+      For the first time since Netscape hit the market in the 1990s,
+Microsoft is facing stiff competition in the computer desktop arena, with
+Google and Yahoo eager to depose Microsoft by offering compelling
+alternatives designed to guide PC users through the Web. "The Web has
+created the equivalent of an operating system layered on top of the
+computer's operating system," says former tech magazine publisher John
+Battelle. "There is some question of how important that underlying
+operating system is going to be in the future." For now, search engines
+appear to be the most potent magnet for drawing users' eyeballs -- a
+phenomenon that has enabled Google to leapfrog from No. 26 in 2001 to third
+place behind Yahoo and Microsoft's MSN without spending anything on
+advertising. About 114.5 million Americans, or 39% of the U.S. population,
+now use search engines, and businesses spent an estimated $2 billion last
+year on search-related advertising. And while Google is currently the dark
+horse darling among analysts, Yahoo and Microsoft are pouring millions into
+upgrading their search technologies. The rival search engines "may not end
+up being as good as Google's, but they could be good enough for most
+people," says a Forrester Research analyst. That prospect has Google hard
+at work on ratcheting up its own technology, says director of technology
+Craig Silverstein. "If someone should come along and do a better job than
+us, we know people will switch in a heartbeat." (AP 22 Mar 2004)
+http://apnews.excite.com/article/20040322/D81FHFIG0.html
+
+[And in a related story]
+
+THE DESKTOP WARS: GOOGLE, YAHOO, AND MICROSOFT
+     John Battelle, author of a forthcoming book on the rise of online
+search, thinks that the era of the operating system is over: "The Web has
+created the equivalent of an operating system layered on top of the
+computer's operating system. There is some question how important that
+underlying operating system is going to be in the future." And so the new
+combatants for control of the computer desktop are Yahoo and Google and
+Microsoft's MSN. The fiercest contender may be Google, with an audience
+nearly six times larger than it was in early 2001, but both Yahoo and
+Microsoft think they'll be able to build a better search engine than Google.
+Microsoft MSN director Lisa Gurry says: "Our customers tell us that no one
+is doing a very good job with search right now. Our own internal data
+indicates 50% of search questions go unanswered, so we think there are some
+great opportunities ahead." (AP/USA Today 23 Mar 2004)
+http://tinyurl.com/2doad
+
+[50%???  Wow!  I didn't realize the success rate was that low!]
+
+EUROPEANS TO SANCTION MICROSOFT
+The European Union (EU) is about to sanction U.S. software maker Microsoft
+for violating EU's competition rules, leaving that company under broad
+sanctions for two or three years while it pursues the appeals process.
+EU Competition Commission Mario Monti said: "In the end, I had to decide
+what was best for competition and consumers in Europe." Microsoft CEO Steve
+Balmer reaction was: "We were unable to agree on principles for new issues
+that could arise in the future. I hope that perhaps we can still settle this
+case at a later stage." (Los Angeles Times 19 Mar 2004)
+http://www.latimes.com/technology/la-fi-micro19mar19,1,42556.story?coll=la-h
+eadlines-technology
+
+IEEE WORRIED ABOUT OUTSOURCING
+The U.S. wing of the Institute of Electrical and Electronics Engineers
+(IEEE) is concerned about the "offshoring" trend, and John Steadman, the
+group's president, says: "We must develop a coordinated national strategy to
+maintain U.S. technological leadership and promote job growth in the United
+States. But it's going to be difficult to remain technologically
+competitive, if we continue offshoring the jobs of our innovators at rates
+currently projected." The group is recommending that federal investments and
+tax credits for research and development be limited to work performed in the
+U.S.; it is also making the point that H-1B and L-1 visa programs are
+frequently used to bring in cheaper labor that can lead to the displacement
+of U.S. professionals, exploitation of foreign workers, and "accelerated
+offshoring of engineering and other high-tech jobs."
+(CNET/New York Times 19 Mar 2004)
+http://partners.nytimes.com/cnet/CNET_2100-1011_3-5175699.html
+
+
+[And in a related story. . . .]
+
+POWELL REASSURES INDIA ABOUT OUTSOURCING
+     U.S. Secretary of State Colin Powell has reassured India that the Bush
+administration will not try to halt the outsourcing of high-technology jobs
+to that country. Powell explained that American concerns about outsourcing,
+as expressed in political complaints, were not surprising: "Outsourcing is a
+natural effect of the global economic system and the rise of the Internet
+and broadband communications. You're not going to eliminate outsourcing;
+but, at the same time, when you outsource jobs it becomes a political issue
+in anybody's country." David Wade, a spokesman for the Kerry campaign, said
+that Powell's remarks demonstrated that the Bush administration has "failed
+to fight for American workers"; White House spokeswoman Claire Buchan said,
+"The secretary made clear in his remarks that we are concerned when
+Americans lose jobs, and we are focused on creating jobs for American
+workers, and the best way to do that is to open markets around the world,
+including in India." (New York Times 17 Mar 2004)
+http://partners.nytimes.com/2004/03/17/international/asia/17POWE.html
+
+TELECOM REVOLUTION?
+Skype, a California start-up created by Niklas Zennstrom and Janus Friis
+(founders of the Internet file-swapping service Kazaa), is developing
+software to make it possible for free phone calls to be made anywhere in the
+world. Swedish-born Zennstrom and Friis, a citizen of Finland, decided to
+adapt peer-to-peer technology to telecommunications: "We sat down and we had
+talked about this for a long time. Where can we use this technology to solve
+some real problems and take advantage of the competitive advantages of
+disruptive technology? With peer-to-peer, whether we have 1 million or 10
+million or 100 million users, our cost is pretty much the same. We can
+provide it for free, because we don't have any costs for it." Venture
+capitalist Timothy Draper says, "This is a major phenomenon that's going to
+spread throughout the world," and he predicts that Skype will have "a really
+tremendous business." Independent telecom analyst Daniel Berning says that
+"the basic technology that they're applying, that's the way phones will work
+in the future." (San Jose Mercury News 18 Mar 2004)
+http://www.siliconvalley.com/mld/siliconvalley/8215877.htm
+
+WIRELESS FLAT-PANEL TV
+     Sharp is introducing the world's first wireless flat-panel television,
+a $1600 set that can be carried anywhere in your house as you move from room
+to room. But one reviewer notes: "Sharp's LC-15L1U is a natural purchase
+only for a unique demographic group: those with big video budgets but
+smallish apartments. For everyone else, the new Aquos is best considered a
+technology demonstration, like a concept car." The reviewer decides that
+though the Aquos may be groundbreaking, innovative and wireless, "it's also
+somewhat impractical." (New York Times 18 Mar 2004)
+http://partners.nytimes.com/2004/03/18/technology/circuits/18stat.html
+
+HP LAUNCH OF LINUX PCs IN ASIA
+Hewlett-Packard has become the first major PC maker to offer to
+consumers in Asia desktop computer lines running Linux -- a move that now
+makes HP a serious threat to Microsoft's dominance in that part of the
+world. (Japanese, South Korean and Chinese officials have long been worrying
+that their countries are too dependent on Microsoft's Windows systems.) The
+HP Linux computers will be distributed by Turbolinux and sold in 12 Asian
+locations: China, Hong Kong, Japan, India, Indonesia, South Korea, Malaysia,
+Philippines, Singapore, Taiwan, Thailand and Vietnam.
+(AP/San Jose Mercury News 16 Mar 2004)
+http://www.siliconvalley.com/mld/siliconvalley/8199957.htm
+
+IT'S OFFICIAL: TOSHIBA'S TEENY HARD DRIVE IS WORLD'S SMALLEST
+Guinness World Records has certified that Toshiba's .85-inch hard
+disk drive is the smallest in the world. The company says the tiny drives
+squeeze up to 4 gigabytes of storage into a stamp-sized device that will
+find a use in products such as cell phones and digital camcorders.
+"Toshiba's innovation means that I could soon hold more information in my
+watch than I could on my desktop computer just a few years ago," says
+Guinness science and technology editor David Hawksett. (Reuters 16 Mar 2004)
+http://www.reuters.com/newsArticle.jhtml;jsessionid=YX5ZXPK3QKXTUCRBAEZSFEY?t
+ype=technologyNews&storyID=4575033&section=news
+
+ISPs STRUGGLE TO FIND FIX FOR SPAM
+Unless you've been hibernating the last six months, you know that spam not
+only is a consumer headache -- it's turning into a corporate nightmare.
+U.S. companies spend an estimated $1 billion a year in extra [costs]. . . .
+[snip] details at:
+(CNet News.com 22 Mar 2004) http://news.com.com/2100-7349-5176415.html
+
+[Of course, if this were only a consumer problem, such as well over 100 lbs
+of junk mail that appears annually in the average home snailmailbox, then
+the corporations [who send all that junkmail] wouldn't give a hoot; neither
+would the government.  It's OK for them to spam us, not the other way.]
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+>From Edupage
+
+[Pay Up or Sue Me!!!]  [Is this legal blackmail?]
+
+UNIVERSITIES FACE PATENT ISSUES FOR ONLINE TESTING
+An undisclosed number of colleges and universities have received
+letters from a company called Test Central saying that it holds a
+patent on online testing and that the schools are in violation of that
+patent. Ellen K. Waterman of Regis University, one of the institutions
+threatened by the company, called the letter extremely broad,
+potentially covering any type of testing online. An official from Test
+Central rejected that characterization but said he believes "that other
+people are profiting at our expense." Test Central's patent, for which
+it applied in February 1999, was granted in early 2003. According to
+Rita S. Heimes, a visiting assistant professor of law at Suffolk
+University Law School, a patent can be effectively challenged by
+showing prior use of the patented technology. Many institutions engaged
+in online testing prior to 1999, but, said Heimes, because the cost of
+fighting the patent in court could be extremely expensive, many
+institutions will simply opt to pay licensing fees.
+Chronicle of Higher Education, 26 March 2004 (sub. req'd)
+http://chronicle.com/prm/weekly/v50/i29/29a03101.htm
+
+LAPTOPS FOR ALL STUDENTS
+A charity organization in Britain called Citizens Online has called on
+that country's government to provide laptop computers to all school
+children by 2010. A report from the group contends that "the very
+process of education is dependent on technology," and bridging the
+digital divide is one of the group's primary goals. Currently, only
+half of the homes in the United Kingdom have Internet access. The
+group's report also urges the government to fund efforts to help
+people in the United Kingdom with disabilities gain computer and
+Internet access. Programs to provide all students with computers have
+been tried in several parts of the United Kingdom, with mixed results.
+In some cases, school children with computers have become easy targets
+for thieves.   BBC, 18 March 2004
+http://news.bbc.co.uk/2/hi/technology/3520898.stm
+
+PDF-ARCHIVE PUSHED AS AN INTERNATIONAL STANDARD
+Corporate and government officials are working on a variation of PDF
+specifications to create an archive-friendly format for documents.
+Representatives from companies including Eastman Kodak, IBM, and Xerox
+are participating in developing the new format, called PDF-Archive
+(PDF-A), with Adobe Systems, creator of the original PDF. Also involved
+in the project is Stephen Levenson, judiciary records officer for the
+Administrative Office of the U.S. Courts. The archival challenges
+facing Levenson in the current era of vastly expanding numbers of
+electronic documents have urged him to join in the work to create what
+he said will be a slimmed-down version of PDF. PDF-A, which is based on
+PDF 1.4, will include type fonts and other features to ensure the
+documents are viewable by a wide range of applications in the future.
+PDF-A also will be designed to shield PDF documents from becoming
+security threats by prohibiting proprietary encryption schemes and
+embedded executable files.
+Federal Computer Week, 15 March 2004
+http://www.fcw.com/fcw/articles/2004/0315/news-pdf-03-15-04.asp
+
+IBM AND NAPSTER WORK TO PRESERVE BANDWIDTH
+Recently relaunched music service Napster and IBM this week announced a
+new "Super Peer" application designed to keep peer-to-peer file trading
+from eating up huge portions of a network's bandwidth. Napster has
+several university customers, including the University of Rochester and
+Penn State University, and the new application stores the most
+frequently traded tracks on servers at those locations. The application
+runs on IBM's eServer BladeCenter systems. Users who download those
+tracks get them from the local server rather than from the Internet,
+saving the network's bandwidth for applications that depend on it.
+According to Bill Pence, Napster's chief technology officer, the new
+system would keep about 90 percent of the roughly 100,000 daily
+downloads at Penn State from using up valuable Internet bandwidth,
+saving the university about $50,000 in access fees annually.
+Reuters, 10 March 2004
+http://www.reuters.com/newsArticle.jhtml?storyID=4535158
+
+
+[Me and Valenti again]
+
+REPORT RECOMMENDS BALANCE IN COPYRIGHT ISSUES
+A new report from a policy group in Washington is likely to add fuel to
+the debate over copyright in the digital age. The report from the
+Committee for Economic Development argues that although digital media
+open new doors for copyright infringement, the solution should lie with
+"clear, concentrated thinking, rather than quick legislative or
+regulatory action." At least some of the restrictions on electronic
+content proposed by the entertainment industry are likely to disturb
+the balance between content owners and the public, according to the
+report. Debora L. Spar of Harvard Business School noted that
+conceptions of "a more liberal regime of copyright" are becoming more
+mainstream, not just "a wacky idea cloistered in the ivory tower," but
+that the existing system of copyright is far from simply being thrown
+out. Jack Valenti of the Motion Picture Association of America said
+that although he had not seen the report, the notion that efforts by
+the entertainment industry to protect copyright will stifle innovation
+are "malarkey."
+New York Times, 1 March 2004
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

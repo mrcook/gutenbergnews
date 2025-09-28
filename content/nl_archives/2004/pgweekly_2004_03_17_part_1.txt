@@ -1,0 +1,269 @@
+The Project Gutenberg Weekly Newsletter March 17, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 1
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News and Comment
+3) Notes and Queries, Reviews and Features
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Well there I was talking about real life last week and there it goes
+again. I'll save you all the long story, but this week will be my last
+newsletter in charge, you can read more of my comments futher down,
+but my suggestion would be to grab hold of your mobile phone first,
+you'll need it to read your next etext. What am I talking about? See below.
+
+Happy reading,
+
+Alice
+
+Send feedback and suggestions to the newsletter editor at: news at pglaf.org
+
+Founding editor: Michael Hart hart at pobox.com
+Newsletter editor: Alice Wood news at pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby at pglaf.org
+
+Project Gutenberg website: http://gutenberg.net
+Project Gutenberg Newsletter website: http://gutenberg.net/newsletter
+Radio Gutenberg: http://gutenberg.net/audio
+Hosted by iBiblio, The Public's Library: http://ibiblio.org
+Distributed Proofreaders: http://www.pgdp.net
+Distributed Proofreaders Europe: http://dp.rastko.net
+
+Newsletter and mailing list subscriptions: http://gutenberg.net/subs.shtml
+
+
+
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+      If you have a book you would like to confirm is in the public domain in
+      the US, and therefore suitable for Project Gutenberg, please do the
+      following:
+
+      1. Check whether we have the eBook already.  Look in
+              http://gutenberg.net/GUTINDEX.ALL
+      which is updated weekly.  (The searchable catalog at
+      http://www.gutenberg.net  lags behind by several months)
+
+      2. Check the "in progress" list to see whether someone is already
+      working on the eBook.  Sometimes, books are listed as in progress for
+      years - if so, email David Price (his address is on the list) to ask
+      for contact information for the person working on the book.  The "in
+      progress" list:
+              http://www.dprice48.freeserve.co.uk/GutIP.html
+
+      3. If the book seems to be a good candidate (pre-1923 publication
+      date, or 1923-1988 published in the US without a copyright notice),
+      submit scans of the title page and verso page (even if the verso is
+      blank) to:
+              http://beryl.ils.unc.edu/copy.html
+
+      You'll hear back within a few days.
+
+
+
+2) News and Comment
+
+PG WAP site - read an etext via your phone
+
+        I'm pleased to announce/brag that there is now a PG WAP site available
+for wireless devices such as mobile phones. It allows users to search
+the library by author and title, and download eBooks with a reader
+program in mobile Java (check your phone's blurb: does it support
+"downloadable games?"). To get to it, just point your device at:
+http://www.gutenberg.net/
+
+        I've tested it in as many ways as I can think of, but I would really
+like some help here. Even if you don't have Java support, I'd very much
+appreciate your feedback on the usability of the WAP site. In addition,
+please do give me a yell if you notice anything awry with the main
+website, which I've modified to divert WAP users to the new site.
+
+Many thanks,
+Meredydd Luff
+
+Now I have an excuse to buy one! Alice
+
+
+Statistical roundup
+
+ 11911 Total 03/17/04 Week #10 (70/293)
+    92 New This Week
+   108 New Last Week
+100.40 Weekly Average
+   200 New This Month
+  1004 New This Year
+ 14.34 Average per day this year
+  5206 Projected Total for this year
+    69 New this week last year (03/12/03)
+   269 New this month last year (Mar)
+   605 New this year last year (2003)
+$ 0.84 Trillion dollar cost/book
+$ 1.36 Trillion dollar cost/book last year
+  7348 Etexts This Week Last Year
+    10 Production Weeks this Year 42 to go.
+    70 Production Days this Year 293 to go.
+     3 Production Months this Year
+  2406 eBooks in last 6 months (09/17/03 - 03/17/04) 26 weeks (37 - 10)
+ 13.29 Daily Average for the last 6 months (181 production days)
+  2157 eBooks in the prior 6 months (03/12/03 - 09/10/03) 26 weeks (10 - 36)
+ 11.85 Daily Average for the prior 6 months (182 production days)
+  5934 eBooks in the last 18 months (09/18/02 - 03/17/04) 78 weeks (37 - 10)
+
+-----------------
+
+Just a reminder that, our very own Brett Fishburne has created a
+Project Gutenberg group on the SETIhome website
+(http://setiathome.berkeley.edu). Anyone interested in using their
+screensaver to search for aliens can go to the website, join the
+effort and then JOIN THE GROUP! Brett informs me that there is now a
+version of SETI for the MAC, so you have no excuse.
+
+
+
+
+Radio Gutenberg Update
+
+www.gutenberg.net/audio
+
+channel 1 - Sherlock Holmes "The Sign of Four"
+channel 2 - Robert Sheckley's "Bad Medicine"
+
+Both are high quality live readings from the collection.
+
+Testing of Radio Gutenberg audio books on demand is currently taking
+place.
+
+
+
+      QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+      A. Send a check or money order to:
+
+      Project Gutenberg Literary Archive Foundation
+      809 North 1500 West
+      Salt Lake City, UT 84116
+
+
+      B. Donate by credit card online
+
+      NetworkForGood:
+      http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+      or
+
+      PayPal to "donategutenberg.net":
+      https://www.paypal.com
+      /xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+      Project Gutenberg's success is due to the hard work of thousands of
+      volunteers over more than 30 years.  Your donations make it possible
+      to support these volunteers, and pay our few employees to continue the
+      creation of free electronic texts.  We accept credit cards, checks and
+      money transfers from any country, in any currency.
+
+      Donations are made to the Project Gutenberg Literary Archive Foundation
+      (PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+      the US Internal Revenue Service, and has the Federal Employer Identification
+      Number (EIN) 64-6221541.
+
+      For more information, including several other ways to donate, go to
+      http://www.gutenberg.net  or email gbnewbyils.unc.edu
+
+
+
+3) Notes and Queries, Reviews and Features
+
+
+
+
+
+
+
+
+
+A few thoughts...
+
+Just before I pick up the coffee stained magazines and put them in my
+box, put my chair under the desk and head for the nearest pub, I would
+like to take this opportunity to put down a few thoughts.
+
+Since discovering PG in 2002 I have made many friends and been
+introduced to so many new ideas. I have never ceased to be amazed at
+the 'can do' attitude of the people around me, the way that problems
+become solutions, that people will drop everything to help in a crisis
+and that people will send you get well messages from across the
+continent and cards at New Year from the US, even though they have
+never met you. Perhaps, I should also add the ability to forgive my
+many spelling mistakes.
+
+Project Gutenberg is going through many changes at this time, some of
+which are well overdue. This will be a process that can be messy and
+may lose people who feel that they and their ideas are not catered
+for. Project Gutenberg should not lose sight of what it actually is -
+all things to all people. This is one of the few places where you
+really can contribute what you want when you want and in the way you
+want. It cannot afford to lose that if it is to grow and become more
+diverse. It does require people with ideas, inspiration and the
+ability to look at the world in a slightly different way. I hope that
+Project Gutenberg can accomodate these ways of thinking as it
+adjusts to ever increasing numbers of volunteers. To develop and
+mature requires the need to not be afraid of change.
+
+Before I go a last word for two people who prefer to try and stay
+behind the scenes where they can and without whom life at the
+newsletter would have been impossible, so thanks to Brett and George,
+may your beer glasses never run dry!
+
+Best wishes to you all,
+
+Alice
+
+
+
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberglistserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end February 2004
+
+      gweekly - 2840
+
+      gmonthly - 3519
+
+
+Credits
+
+Thanks this week to Brett and George for the numbers and the
+booklists. Meredydd, Greg, Michael and Larry Wall, plus the newsletter
+backroom staff (thanks Joel). Entertainment for the workers provided
+by as usual by BBC 6Music.

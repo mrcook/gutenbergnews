@@ -1,0 +1,684 @@
+
+**Project Gutenberg Weekly Newsletter For Wednesday, September 4, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+September is "Literacy Awareness Month:"  hand out a few eBook floppies!
+
+
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+
+
+
+
+
+Today Is The 240th Day of 2002
+125 Days/17 Weeks Left Until 2003
+
+We did 1240 eBooks in 2001
+We did 1580 So Far in 2002
+
+
+The 21st Week Of Our SECOND 5,000 eBooks
+
+16 Months From Today, Perhaps Our 10,000th eBook!
+
+1,162   New eBooks In The Last 6 Months
+2,038   New eBooks In The Last 12 Months
+3,834   eBooks This Week Last Year
+5,872   Tree-Friendly Titles Now Online
+
+  197   Monthly Average This Year
+  170   New This Month [8th month of 2002]
+  607   New At This Time Last Year
+
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Please try the latest PG mirror:
+
+At the Municipal Libraries of Copenhagen
+
+***
+
+Project Gutenberg is happy to be a finalist in the Stockholm
+Challenge (http://www.challenge.stockholm.se).  On October 7-10, in
+the city of Stockholm, Sweden, there will be events and festivities
+culminating in an awards ceremony on October 10.
+
+We are seeking someone to attend these events to represent Project
+Gutenberg, preferably someone who lives in Europe.
+
+If you are interested in this opportunity to represent Project
+Gutenberg, please email hart@pobox.com
+
+***
+
+Requests For Assistance:
+
+Can anyone here find a pre-1923 English edition of the Gilgamesh Epic?
+
+***
+
+We are seeking a physical copy of the book RUR in Czeck by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby <gbnewby@ils.unc.edu>.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+The Distributed Proofreading Team is proud to annouce that they have
+now completed over 400 e-texts! Stop on by and give us a hand with
+the next 400! http://charlz.dns2go.com/gutenberg
+
+
+***
+
+Project Gutenberg has a new way to prepare digital editions of books
+which can not be read on a conventional flat bed scanner.
+
+Brewster Kahle has generously donated time on The Internet Archive's
+(http://www.archive.org)  Minolta 7100 orbital scanner
+
+http://bpg.minoltausa.com 02
+
+While its physical location in San Francisco at the Presidio effectively
+limits access to people local to the area, we can offer a limited
+scanning service. Ideal candidate projects would be large format (up to
+17" by 23"),  fragile or rare books which cannot be unbound.
+
+Specifically, when scanned, the book is opened to lay flat on its spine,
+and is well supported on 2 variable height platens, producing a level
+surface upon which the overhead scanhead focuses. Pages can be scanned
+singly or in tandem, with resolution ranging from 300-600 dpi, depending
+upon the size of the scan area. (400 is the max resolution at max size).
+The correction software for eliminating center lines and curved pages is
+outstanding. While not as fast as a sheet feeder, it is physically less
+demanding to use than a flat bed scanner, and of course is much kinder to
+delicate pages and bindings.
+
+Contact me if this sounds like something you can use!
+
+***
+
+I have some copyright research for McNees, but no email address.
+
+***
+
+A new mailing list "gut-tv@listserv.unc.edu" has been added.
+This mailing list is intended for those interested in helping or
+monitoring the progress of a public access cable TV show "Free
+eBooks This Week" which highlights the free eBooks posted in the
+past week.  Those interested in helping could offer to help
+write, help find interviews, be interviewed, and those local to
+Maryland can help in the filming, staging, etc.  Please subscribe
+to this mailing list if you are interested in being up to date on
+all the TV goings on!
+
+***
+
+Gutenberg Music expands offerings to include MusicXML
+
+In response to user requests for a non-proprietary - and preferably
+text-based - music format and equally significant developments
+in the music software industry, Project Gutenberg is pleased to
+announce that all music titles are now available in MusicXML format.
+
+While still a relatively new standard, MusicXML has gained broad
+based support, and clearly responds to a well understood need for
+music software to interoperate. The evolving standard economically
+and unambiguously encodes all notes, rhythms, articulations, and
+expression commonly used in classic period music. It also enables
+the extraction of a basic MIDI performance automatically. Extensive
+details about MusicXML and its adoption are available from
+http://www.recordare.com/xml.html.
+
+As with the main project, any Public Domain works are fair game for Music,
+but we are specifically trying to complete the Beethoven String Quartets as
+a first major series too. If you'd be interested in a unique outlet for your
+love of music (and perhaps dormant expertise ?), please contact Geof Pawlicki
+(gpawlicki@earthlink.net) or check out the volunteer pages at
+
+http://www.ibiblio.org/gutenberg/music for further information.
+
+Thanks for your interest !
+
+
+***
+
+Personal Request:
+
+I am looking for a keyboard for my Visor Edge.
+
+The only one I am SURE will work is the:
+
+PA810U Targus
+
+but there may be others.
+
+I have tried to order many times, nothing ever arrived.
+
+Thanks for any assistance you can provide!
+
+Michael
+
+***
+
+
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Past Week
+
+
+
++44 New this week:
+
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook is being re-indexed to reflect the correct
+series and author info:
+
+May 2004 Mary Louise, by Edith van Dyne                    [marylxxx.xxx]5660
+[Author Note:  Edith van Dyne is one of the pseudonyms of L. Frank Baum]
+  which were authored by L. Frank Baum under the above pseudonym; three
+  later books in the series were authored under that pen name by Emma
+  Speed Sampson.)
+
+
+Nov 2000 Madame Bovary, by Gustave Flaubert    [Flaubert#4][mbovaxxx.xxx]2413
+[HTML added to etext00: mbova10h.htm mbova10h.zip]
+
+We have posted the following eBooks in HTML-only versions including
+images, zipped files only:
+
+Jul 2003 Andersonville, Volume 4       [#6 by John McElroy][an04vxxx.xxx]4260
+Jul 2003 Andersonville, Volume 3       [#5 by John McElroy][an03vxxx.xxx]4259
+Jul 2003 Andersonville, Volume 2       [#4 by John McElroy][an02vxxx.xxx]4258
+Jul 2003 Andersonville, Volume 1       [#3 by John McElroy][an01vxxx.xxx]4257
+Feb 2002 Andersonville, by John McElroy[#2 by John McElroy][andvlxxx.xxx]3072
+  from the 1879 first edition.)
+
+Jun 2003 Christopher Columbus by F. Young entire    [CC#09][cc09vxxx.xxx]4116
+Jun 2003 Christopher Columbus by Filson Young v8    [CC#08][cc08vxxx.xxx]4115
+Jun 2003 Christopher Columbus by Filson Young v7    [CC#07][cc07vxxx.xxx]4114
+Jun 2003 Christopher Columbus by Filson Young v6    [CC#06][cc06vxxx.xxx]4113
+Jun 2003 Christopher Columbus by Filson Young v5    [CC#05][cc05vxxx.xxx]4112
+Jun 2003 Christopher Columbus by Filson Young v4    [CC#04][cc04vxxx.xxx]4111
+Jun 2003 Christopher Columbus by Filson Young v3    [CC#03][cc03vxxx.xxx]4110
+Jun 2003 Christopher Columbus by Filson Young v2    [CC#02][cc02vxxx.xxx]4109
+Jun 2003 Christopher Columbus by Filson Young v1    [CC#01][cc01vxxx.xxx]4108
+  of Columbus--along with a facsimile of a letter of Columbus reported to
+  be in his own hand.)
+
+Mar 1994 A Tramp Abroad, by Mark Twain               [MT#8][trampxxh.xxx] 119
+[HTML with images in zipped file only]  (Note:  12.5MB download)
+
+Sep 1996 Phantasmagoria and Other Poems by Lewis Carroll #5[fntsmxxx.xxx] 651
+(HTML in fntsm10h.htm/.zip)
+Sep 1996 Pictures From Italy, by Charles Dickens[Dickens#7][picitxxx.xxx] 650
+(HTML in picit10h.htm/.zip)
+Sep 1996 Ancient Poems, Ballads and Songs of England [Bell][olengxxx.xxx] 649
+[Title:  Ancient Poems, Ballads and Songs of the Peasantry of England]
+[Ed. by Robert Bell]
+(HTML in oleng10h.htm/.zip)
+Sep 1996 The Dynamiter by RL & Fanny VDG Stevenson [RLS#32][dynmtxxx.xxx] 647
+[Author:  Robert Louis Stevenson and Fanny van de Grift Stevenson (his wife!)]
+(HTML in dynmt10h.htm/.zip)
+Sep 1996 The Figure in the Carpet, by Henry James[James#12][fgcptxxx.xxx] 645
+(HTML in fgcpt10h.htm/.zip)
+Sep 1996 Haunted Man/Ghost's Bargain by Charles Dickens[#6][hntmnxxx.xxx] 644
+[Full title: The Haunted Man and the Ghost's Bargin]
+(HTML in hntmn10h.htm/.zip)
+Sep 1996 The Death of the Lion, by Henry James [James #11] [dlionxxx.xxx] 643
+(HTML in dlion10h.htm/.zip)
+Sep 1996 The Altar of the Dead, by Henry James [James #10] [altddxxx.xxx] 642
+(HTML in altdd10h.htm/.zip)
+Aug 1996 Essays of Travel by Robert Louis Stevenson[RLS#30][esstrxxx.xxx] 627
+(HTML in esstr10h.htm/.zip)
+Jun 1996 The Mystery of Edwin Drood, by Charles Dickens[#2][droodxxx.xxx] 564
+(HTML in drood10h.htm/.zip)
+
+We have posted the following in a significantly improved 12th edition of:
+Sep 2002 The Koran/The Q'uran, by Mohammed/Mohammad        [koranxxx.xxx]3434
+
+
+We have posted the following in a significantly improved 13th edition of:
+Dec 1992 A Christmas Carol Charles Dickens     [Dickens #0][carolxxx.xxx]  46
+
+
+We have posted the following in an improved 12th edition, as well as in
+new formats as indicated:
+
+Apr 2002 The American Claimant, by Mark Twain       [MT#40][mtaclxxx.xxx]3179
+(HTML with images posted in zip file only in mtacl12h.zip)
+
+
+
+Here Are The 54 New Project Gutenberg Editions
+
+
+***] 2 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Aug 2002 Mark Twain's Autobiography Vol 1, by Twain [MT#02][0200561h.zip]0090A
+[http://gutenberg.net.au/ebooks02/0200561h.zip ZIP only]
+[Author's full name: Mark Twain (Samuel Clemens)]
+Aug 2002 Mark Twain's Autobiography Vol 2, by Twain [MT#01][0200551h.zip]0089A
+[http://gutenberg.net.au/ebooks02/0200551h.zip ZIP only]
+[Author's full name: Mark Twain (Samuel Clemens)]
+
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+***] 52 NEW U.S. POSTS [***
+
+Jul 2004 Romany Of The Snows,   by Parker, Complete [GP#13][gp13wxxx.xxx]6185
+[Full Title: A Romany Of The Snows][Author: Gilbert Parker]
+[Subtitle: Being A Continuation Of The Personal Histories Of Pierre And His
+  People, And The Last Existing Records Of Pretty Pierre]
+[Contains: Ebooks #6080-6084 with the Contents Listed Below.]
+Jul 2004 Romany Of The Snows,     by G. Parker, v5  [GP#12][gp12wxxx.xxx]6184
+Jul 2004 Romany Of The Snows,     by G. Parker, v4  [GP#11][gp11wxxx.xxx]6183
+Jul 2004 Romany Of The Snows,     by G. Parker, v3  [GP#10][gp10wxxx.xxx]6182
+Jul 2004 Romany Of The Snows,     by G. Parker, v2  [GP#09][gp09wxxx.xxx]6181
+Jul 2004 Romany Of The Snows,     by G. Parker, v1  [GP#08][gp08wxxx.xxx]6180
+
+
+[Please note the above are from the 6100's and below are from 5700's-5800's]
+
+
+Jun 2004 Sylvia's Marriage, by Upton Sinclair [Sinclair#15][sylvmxxx.xxx]5807
+Jun 2004 The Pot Boiler, by Upton Sinclair    [Sinclair#14][pboilxxx.xxx]5806
+
+Jun 2004 The League of the Scarlet Pimpernel, B. Orczy  [5][lscapxxx.xxx]5805
+[Author's Full Name: Baroness Emmuska Orczy]
+Jun 2004 The Story of a Lamb on Wheels, by L. Hope [Hope#7][lambwxxx.xxx]5804
+[Author's Full Name: Laura Lee Hope]
+Jun 2004 Not that it Matters, by A. A. Milne      [Milne#3][notmaxxx.xxx]5803
+[Author of Winnie The Pooh, which is still under multiple copyright extension]
+Jun 2004 San Francisco Vigilance Committee of 1856, Webb   [sfvigxxx.xxx]5802
+[Full Title: A Sketch of the Causes, Operations and Results of the San
+Francisco Vigilance Committee of 1856]
+[Author's Full Name: Stephen Palfrey Webb]
+Jun 2004 Huttens Letzte Tage, by C.F. Meyer         [CFM#2][?huttxxx.xxx]5801
+[Author AKA: Conrad Ferdinand Meyer]
+[7-bit version with non-accented characters in 7hutt10.txt and 7hutt10.zip]
+[8-bit version with accented characters in 8hutt10.txt and 8hutt10.zip]
+[Language: German]
+
+[Yes, we skipped #5800 in case someone has a special item for that number]
+
+May 2004 Thomas Henry Huxley Vol. 3, by Leonard Huxley [#3][llth3xxx.xxx]5799
+[Title: The Life and Letters of Thomas Henry Huxley Volume 3]
+
+May 2004 The Beautiful Lady, by Booth Tarkington    [BT#13][btfllxxx.xxx]5798
+
+
+May 2004 Youth Challenges, by Clarence B Kelland           [ythchxxx.xxx]5797
+May 2004 Journeys Through Bookland V2, Charles H. Sylvester[blnd2xxx.xxx]5796
+
+
+May 2004 The Secret Rose, by W. B. Yeats          [Yeats#5][scrtrxxx.xxx]5795
+May 2004 Rosa Alchemica, by W. B. Yeats           [Yeats#4][rslcmxxx.xxx]5794
+May 2004 Stories of Red Hanrahan, by W. B. Yeats  [Yeats#3][rdhnrxxx.xxx]5793
+May 2004 Stories Mother Nature Told, by Jane Andrews       [stmtnxxx.xxx]5792
+[Full title: The Stories Mother Nature Told Her Children]
+May 2004 Mrs. Peter Rabbit, by Thornton W. Burgess [TWB#11][mrsprxxx.xxx]5791
+
+May 2004 Aria da Capo, by Edna St. Vincent Millay[Millay#5][rdcapxxx.xxx]5790
+[Plain text in rdcap10.txt/.zip, Unicode UTF-8 in rdcap10u.txt/.zip]
+May 2004 Early Melbourne & Victoria, by William Westgarth  [rlmbvxxx.xxx]5789
+[Full title: Personal Recollections of Early Melbourne & Victoria]
+
+New files posted in html (zip only with images):
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v7  [MT#66][mt7trxxh.zip]5788
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v6  [MT#65][mt6trxxh.zip]5787
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v5  [MT#64][mt5trxxh.zip]5786
+
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v4  [MT#63][mt4trxxh.zip]5785
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v3  [MT#62][mt3trxxh.zip]5784
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v2  [MT#61][mt2trxxh.zip]5783
+May 2004 A Tramp Abroad, by Mark Twain, Illust. v1  [MT#60][mt1trxxh.zip]5782
+
+May 2004 Le Grand Meaulnes, Alain-Fournier                 [?lgmexxx.xxx]5781
+[Author AKA Henri-Alban Fournier] [Language: French]
+[7-bit version with non-accented characters in 7lgme10.txt/ and 7lgme10.zip]
+[8-bit version with accented characters in 8lgme10.txt/.zip]
+[HTML in 8lgme10h.htm/.zip]
+
+May 2004 The Rover Boys at School, Arthur M. Winfield[ES#5][rbschxxx.xxx]5780
+[Author AKA: Edward Stratemeyer]
+May 2004 The Crushed Flower and Other Stories, L. Andreyev [cflowxxx.xxx]5779
+[Author's Full Name: Leonid Andreyev]
+
+May 2004 Try and Trust, by Horatio Alger         [Alger#18][trtrtxxx.xxx]5778
+May 2004 Life's Handicap, by Rudyard Kipling   [Kipling#21][lfshcxxx.xxx]5777
+May 2004 Problems of Conduct, by Durant Drake              [prbcnxxx.xxx]5775
+May 2004 They Call Me Carpenter, by Upton Sinclair  [US#12][clmcrxxx.xxx]5774
+May 2004 Annals of a Quiet Neighbourhood, G. MacDonald[#16][nlqnbxxx.xxx]5773
+[Full author: George MacDonald]
+May 2004 AE in the Irish Theosophist,George William Russell[itheoxxx.xxx]5772
+[Author AKA: AE]
+May 2004 The Art of the Exposition, by Eugen Neuhaus [EN#2][artexxxx.xxx]5771
+May 2004 The Rover Boys in the Jungle, by A. Winfield[ES#4][rbjunxxx.xxx]5770
+[Author's Full Name: Arthur M. Winfield]
+[Author AKA: Edward Stratemeyer]
+May 2004 The Shagganappi, by E. Pauline Johnson     [EPJ#3][shaggxxx.xxx]5769
+May 2004 Free as in Freedom, Sam Williams                  [freedxxx.xxx]5768C
+[Title: Free as in Freedom: Richard Stallman's Crusade for Free Software]
+May 2004 The Fireside Chats of Franklin Delano Roosevelt[3][fdrfcxxx.xxx]5767
+May 2004 Praetor's Lunch, by Dom                   [Dom #4][domprxxx.xxx]5766C
+(Plain text in dompr10.txt/.zip, RTF in dompr10r.rtf/.zip)
+May 2004 Insectivorous Plants, by Charles Darwin[Darwin#23][insecxxx.xxx]5765
+
+May 2004 Doctor Therne, by H. Rider Haggard    [Haggard#42][drthrxxx.xxx]5764
+May 2004 Translation of Scientific Secrets, by Daniel Young[dmtssxxx.xxx]5763
+[Full title: Young's Demonstrative Translation of Scientific Secrets]
+
+
+***
+
+(This number includes the 90 etexts posted at the PG Australia web site)
+
+***
+
+Statistical Review
+
+(This number includes the 88 etexts posted at the PG Australia web site)
+
+In the 35 weeks of this year, we have produced 1,572 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,872 eTexts online as of September 4th, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.70 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.61 when we had 3806 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.91 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+At 5872 eBooks in 31 Years We Averaged
+
+At 1580 eBooks Done In 2002 We Averaged
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+Headlines From Newsscan
+
+[One HeadLine I Have Not Seen Yet. . .China Has Blocked Google Acess,
+Perhaps In Anticipation Of Upcoming Communist Party Congress. . . .]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+
+***
+
+Headlines From Edupage:
+
+DOING LAUNDRY ONLINE
+New technology from IBM and USA Technologies will allow college
+students to do laundry without hunting for quarters or sitting around
+in the laundromat waiting for their clothes to be done. The eSuds
+system will connect 9,000 washers and dryers at U.S. colleges and
+universities to the Internet. Students can check a Web site for
+available machines and add detergent that the machines dispense. When
+the laundry is done, the machine sends an e-mail notifying the student.
+Swipe cards are used to pay for the laundry instead of cash, and
+laundromat owners can use the system to monitor machines and perform
+limited maintenance. The system might also cut down on vandalism, since
+cash won't be collected by the machines.
+Reuters, 29 August 2002
+http://news.com.com/2100-1017-955973.html
+
+DOUBLECLICK TO PAY FINE, MODIFY PRIVACY POLICY
+Online ad provider DoubleClick Inc. has agreed to modify its privacy
+policy and pay a $450,000 fine after a 30-month investigation into the
+company's handling of consumer data. DoubleClick's ads use cookies to
+track users' surfing habits, and privacy groups had accused the
+company of abusing the information it collected. Under the agreement,
+DoubleClick will make user profiles available to consumers, verify its
+compliance with the settlement, and pay the fine. Web sites that permit
+DoubleClick ads to collect user information must state this in their
+privacy policies. Consumer data will no longer be shared without
+permission from individuals, and DoubleClick is developing a tool for
+users to review the data the company has collected on them.
+New York Times, 27 August 2002 (registration req'd)
+http://www.nytimes.com/aponline/technology/AP-DoubleClick-Probe.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+
+

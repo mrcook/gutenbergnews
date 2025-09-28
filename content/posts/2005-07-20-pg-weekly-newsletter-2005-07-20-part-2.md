@@ -1,0 +1,454 @@
+---
+params:
+  id: 2276
+title: "PG Weekly Newsletter: Part 2 (2005-07-20)"
+date: 2005-07-20T16:31:16+00:00
+author: Michael Cook
+layout: post
+url: /20050720/pg-weekly-newsletter-2005-07-20-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Wed Jul 20 17:43:53 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Jul 20 17:43:56 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0507201741440.29715@pglaf.org&gt;
+
+GWeekly_July_20_part2.txt
+
+The Project Gutenberg Weekly Newsletter 20 Jul 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 56 New U.S. eBooks this week
+    - 0 New eBooks at Project Gutenberg of Australia
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 20 Jul 2005: 16752 (incl. 462 Aus.).
+
+Last week the Total Count was 16696, including 462 at PG of Australia.
+This week we added 56 new.
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Resources of Quinola, by Honore de Balzac                             7417
+
+Rise and Fall of Cesar Birotteau, by Honore de Balzac                     1942
+   [Translator: Katharine Prescott Wormeley]
+
+Another Study of Woman, by Honore de Balzac                               1714
+   [Translator: Ellen Marriage and Clara Bell]
+
+The Red Inn, by Honore de Balzac                                          1433
+   [Translator: Katharine Prescott Wormeley]
+
+The Recruit, by Honore de Balzac                                          1426
+   [Translator: Katharine Prescott Wormeley]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  56 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Koti, by Fredrika Bremer                                                 16333
+   [Subtitle: eli perhesuruja ja -iloja]
+   [Translator: Alma Suppanen]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/3/16333 ]
+   [Files: 16333-8.txt; 16333-h.htm]
+
+A Short Life of Abraham Lincoln, by John G. Nicolay                      16332
+   [Subtitle: Condensed from Nicolay & Hay's Abraham Lincoln: A History]
+   [Link: http://www.gutenberg.org/1/6/3/3/16332 ]
+   [Files: 16332.txt; 16332-8.txt; 16332-h.htm]
+
+Current History, by Various                                              16331
+   [Full title: New York Times Current History: The European War from the]
+   [Beginning to March 1915, Vol 1, No. 2]
+   [Subtitle: Who Began the War, and Why?]
+   [Link: http://www.gutenberg.org/1/6/3/3/16331 ]
+   [Files: 16331.txt; 16331-8.txt; 16331-h.htm]
+
+The Young Priest's Keepsake, by Michael Phelan                           16330
+   [Link: http://www.gutenberg.org/1/6/3/3/16330 ]
+   [Files: 16330.txt; 16330-h.htm ]
+
+The Other Girls, by Mrs. A. D. T. Whitney                                16329
+   [Link: http://www.gutenberg.org/1/6/3/2/16329 ]
+   [Files: 16329.txt; 16329-8.txt; 16329-h.htm]
+
+Beowulf                                                                  16328
+   [Subtitle: An Anglo-Saxon Epic Poem, Translated]
+   [From The Heyne-Socin Text by Lesslie Hall]
+   [Link: http://www.gutenberg.org/1/6/3/2/16328 ]
+   [Files: 16328.txt; 16328-8.txt; 16328-h.htm]
+
+At Home And Abroad, by Margaret Fuller Ossoli                            16327
+   [Subtitle: Or, Things And Thoughts In America and Europe]
+   [Editor: Arthur B. Fuller]
+   [Link: http://www.gutenberg.org/1/6/3/2/16327 ]
+   [Files: 16327.txt; 16327-8.txt; 16327-h.htm]
+
+Vljemmill vesill, by Kasimir Leino                                    16326
+   [Subtitle: Uusia Runoja]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/2/16326 ]
+   [Files: 16326-8.txt]
+
+Science in Arcady, by Grant Allen                                        16325
+   [Link: http://www.gutenberg.org/1/6/3/2/16325 ]
+   [Files: 16325.txt; 16325-8.txt; 16325-h.htm]
+
+The Women of the Caesars, by Guglielmo Ferrero                           16324
+   [Link: http://www.gutenberg.org/1/6/3/2/16324 ]
+   [Files: 16324.txt; 16324-8.txt; 16324-h.htm]
+
+The Continental Monthly, Vol. IV. October, 1863, No. IV., by Various     16323
+   [Subtitle: Devoted to Literature and National Policy.]
+   [Link: http://www.gutenberg.org/1/6/3/2/16323 ]
+   [Files: 16323.txt; 16323-8.txt; 16323-h.htm]
+
+Luther Examined and Reexamined, by W. H. T. Dau                          16322
+   [Subtitle: A Review of Catholic Criticism and a Plea for Revaluation]
+   [Link: http://www.gutenberg.org/1/6/3/2/16322 ]
+   [Files: 16322.txt; 16322-8.txt]
+
+The Bread-winners, by John Hay                                           16321
+   [Subtitle: A Social Study]
+   [John Hay wrote this anonymously, as evidenced by an advertisement at]
+   [the end of the book.]
+   [Link: http://www.gutenberg.org/1/6/3/2/16321 ]
+   [Files: 16321.txt; 16321-h.htm; ]
+
+If Not Silver, What?, by John W. Bookwalter                              16320
+   [Link: http://www.gutenberg.org/1/6/3/2/16320 ]
+   [Files: 16320.txt; 16320-8.txt; 16320-h.htm]
+
+Impresiones, Poesas, by Jose Campo-Arana                                16319
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/6/3/1/16319 ]
+   [Files: 16319-8.txt; 16319-h.htm]
+
+Tee tyt elk joudu eptoivoon!, by Thomas Carlyle                     16318
+   [Translator: Uno Brummer]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/1/16318 ]
+   [Files: 16318-8.txt; 16318-0.txt]
+
+The Art of Public Speaking, by Carnegie and Esenwein                     16317
+   [Full author: Dale Carnagey (AKA Dale Carnegie) and J. Berg Esenwein]
+   [Link: http://www.gutenberg.org/1/6/3/1/16317 ]
+   [Files: 16317.txt; 16317-8.txt; 16317-h.htm]
+
+Outdoor Sports and Games, by Claude H. Miller                            16316
+   [Link: http://www.gutenberg.org/1/6/3/1/16316 ]
+   [Files: 16316.txt; 16316-8.txt; 16316-h.htm; ]
+
+Nurmeksen kapina, by J. A. Bergman                                       16315
+   [Subtitle: Historiallinen kertomus It-Suomesta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/1/16315 ]
+   [Files: 16315-8.txt]
+
+Lukemisia lapsille 2, by Zacharias Topelius                              16314
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/1/16314 ]
+   [Files: 16314-8.txt; 16314-h.htm]
+
+Hovin Inkeri, by Anni Kepplerus                                          16313
+   [Subtitle: Historiallinen kertomus Pohjois-Karjalasta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/3/1/16313 ]
+   [Files: 16313-8.txt]
+
+Patnubay nang Cabataan, by Joaquin Tuason                                16312
+   [Full title: Patnubay nang Cabataan  Talinhagang Buhay ni Eliseo at]
+   [ni Hortensio]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/1/6/3/1/16312 ]
+   [Files: 16312-8.txt; 16312-h.htm]
+
+Cinematografo, by Jose Maria Rivera                                      16311
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/1/6/3/1/16311 ]
+   [Files: 16311-8.txt; 16311-h.htm]
+
+Cinderella, by Richard Harding Davis                                     16310
+   [Subtitle: And Other Stories]
+   [Link: http://www.gutenberg.org/1/6/3/1/16310 ]
+   [Files: 16310.txt; 16310-8.txt; 16310-h.htm]
+
+Paradoxes of Catholicism, by Robert Hugh Benson                          16309
+   [Link: http://www.gutenberg.org/1/6/3/0/16309 ]
+   [Files: 16309.txt; 16309-8.txt]
+
+How Deacon Tubman and Parson Whitney Kept New Year's,by W. H. H. Murray  16308
+   [Subtitle: And Other Stories]
+   [Link: http://www.gutenberg.org/1/6/3/0/16308 ]
+   [Files: 16308.txt; 16308-h.htm]
+
+The Ascent of the Soul, by Amory H. Bradford                             16307
+   [Link: http://www.gutenberg.org/1/6/3/0/16307 ]
+   [Files: 16307.txt; 16307-8.txt; 16307-h.htm]
+
+Jacob Behmen, by Alexander Whyte                                         16306
+   [Subtitle: an appreciation]
+   [Link: http://www.gutenberg.org/1/6/3/0/16306 ]
+   [Files: 16306.txt; 16306-h.htm]
+
+Crayon and Character: Truth Made Clear Through Eye and Ear, J. Griswold  16305
+   [Subtitle: Or, Ten-Minute Talks with Colored Chalks]
+   [Link: http://www.gutenberg.org/1/6/3/0/16305 ]
+   [Files: 16305.txt; 16305-h.htm]
+
+Der Heizer, by Franz Kafka                                               16304
+   [Subtitle: Ein Fragment]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/3/0/16304 ]
+   [Files: 16304-8.txt; 16304-0.txt; 16304-h.htm]
+
+Guy Rivers: A Tale of Georgia, by William Gilmore Simms                  16303
+   [Link: http://www.gutenberg.org/1/6/3/0/16303 ]
+   [Files: 16303.txt; 16303-8.txt; 16303-h.htm]
+
+Memoiren einer Sozialistin, by Lily Braun                                16302
+   [Subtitle: Kampfjahre]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/3/0/16302 ]
+   [Files: 16302-8.txt; 16302-h.htm]
+
+Memoiren einer Sozialistin, by Lily Braun                                16301
+   [Subtitle: Lehrjahre]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/3/0/16301 ]
+   [Files: 16301.txt; 16301-8.txt; 16301-h.htm]
+
+The History of Emily Montague, by Frances Brooke                         16300
+   [Link: http://www.gutenberg.org/1/6/3/0/16300 ]
+   [Files: 16300.txt; 16300-8.txt; 16300-h.htm]
+
+A Critical Essay on Characteristic-Writings, by Henry Gally              16299
+   [Subtitle: From his translation of The Moral Characters]
+   [of Theophrastus (1725)]
+   [Editor: Alexander H. Chorney]
+   [Link: http://www.gutenberg.org/1/6/2/9/16299 ]
+   [Files: 16299.txt; 16299-8.txt; 16299-0.txt; 16299-h.htm]
+
+Historic Tales, Vol. 1 (of 15), by Charles Morris                        16298
+   [Subtitle: The Romance of Reality]
+   [Link: http://www.gutenberg.org/1/6/2/9/16298 ]
+   [Files: 16298.txt; 16298-8.txt; 16298-h.htm]
+
+The Philippine Islands, 1493-1898: Volume XXII, 1625-29, by Various      16297
+   [Subtitle: Explorations By Early Navigators, Descriptions Of The]
+   [Islands And Their Peoples, Their History And Records Of]
+   [The Catholic Missions, As Related In Contemporaneous Books]
+   [And Manuscripts, Showing The Political, Economic, Commercial]
+   [And Religious Conditions Of Those Islands From Their]
+   [Earliest Relations With European Nations To The Close Of]
+   [The Nineteenth Century]
+   [Editor: Emma Helen Blair]
+   [Link: http://www.gutenberg.org/1/6/2/9/16297 ]
+   [Files: 16297.txt; 16297-8.txt; 16297-h.htm]
+
+Sketches From My Life, by Hobart Pasha                                   16296
+   [Subtitle: By The Late Admiral Hobart Pasha]
+   [Link: http://www.gutenberg.org/1/6/2/9/16296 ]
+   [Files: 16296.txt; 16296-8.txt; 16296-0.txt; 16296-h.htm]
+
+The Vedanta-Sutras with the Commentary by Sankaracarya                   16295
+   [Subtitle: Sacred Books of the East, Volume 1]
+   [Translator: George Thibaut]
+   [Link: http://www.gutenberg.org/1/6/2/9/16295 ]
+   [Files: 16295.txt; 16295-8.txt; 16295-h.htm]
+
+England in America, 1580-1652, by Lyon Gardiner Tyler                    16294
+   [Link: http://www.gutenberg.org/1/6/2/9/16294 ]
+   [Files: 16294.txt; 16294-8.txt; 16294-h.htm]
+
+Blackwood's Edinburgh Magazine, by Various                               16293
+   [Full title: Blackwood's Edinburgh Magazine -- Volume 55, No. 340,]
+   [February, 1844]
+   [Link: http://www.gutenberg.org/1/6/2/9/16293 ]
+   [Files: 16293.txt; 16293-8.txt; 16293-h.htm]
+
+Works of the Right Honourable Edmund Burke, Vol. VII. (of 12), by Burke  16292
+   [Full author: Edmund Burke]
+   [Link: http://www.gutenberg.org/1/6/2/9/16292 ]
+   [Files: 16292.txt; 16292-8.txt; 16292-0.txt; 16292-h.htm]
+
+The Story of the Other Wise Man, by Henry Van Dyke                       16291
+   [Link: http://www.gutenberg.org/1/6/2/9/16291 ]
+   [Files: 16291.txt; 16291-h.htm]
+
+The Bible Book by Book, by Josiah Blake Tidwell                          16290
+   [Subtitle: A Manual for the Outline Study of the Bible by Books]
+   [Link: http://www.gutenberg.org/1/6/2/9/16290 ]
+   [Files: 16290.txt]
+
+The Fur Bringers, by Hulbert Footner                                     16289
+   [Subtitle: A Story of the Canadian Northwest]
+   [Link: http://www.gutenberg.org/1/6/2/8/16289 ]
+   [Files: 16289.txt; 16289-8.txt]
+
+Oddsfish!, by Robert Hugh Benson                                         16288
+   [Link: http://www.gutenberg.org/1/6/2/8/16288 ]
+   [Files: 16288.txt; 16288-8.txt]
+
+Talks to Teachers and Students, by William James                         16287
+   [Full title: Talks To Teachers On Psychology; And To Students On Some]
+   [Of Life's Ideals]
+   [Link: http://www.gutenberg.org/1/6/2/8/16287 ]
+   [Files: 16287.txt; 16287-8.txt; 16287-h.htm]
+
+Lucrezia Floriani, by George Sand                                        16286
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/2/8/16286 ]
+   [Files: 16286-8.txt; 16286-h.htm]
+
+The Way of Salvation in the Lutheran Church, by G. H. Gerberding         16285
+   [Commentator: M. Rhodes]
+   [Link: http://www.gutenberg.org/1/6/2/8/16285 ]
+   [Files: 16285.txt; 16285-8.txt; 16285-h.htm]
+
+Matthew Arnold, by George Saintsbury                                     16284
+   [Link: http://www.gutenberg.org/1/6/2/8/16284 ]
+   [Files: 16284.txt; 16284-8.txt; 16284-h.htm]
+
+Idolatry, by Julian Hawthorne                                            16283
+   [Subtitle: A Romance]
+   [Link: http://www.gutenberg.org/1/6/2/8/16283 ]
+   [Files: 16283.txt; 16283-8.txt; 16283-h.htm]
+
+History of the World War, Vol. 3,Francis A. March and Richard J. Beamish 16282
+   [Ill.: James H. Hare and Donald Thompson]
+   [Language: en]
+   [Link: http://www.gutenberg.org/1/6/2/8/16282 ]
+   [Files: 16282.txt; 16282-8.txt; 16282-h.htm; ]
+
+Punch, or the London Charivari, Vol. 158, January 28th, 1920, by Various 16281
+   [Link: http://www.gutenberg.org/1/6/2/8/16281 ]
+   [Files: 16281.txt; 16281-8.txt; 16281-h.htm]
+
+Beitrge zur Entdeckung und Erforschung Africa's, by Gerhard Rohlfs      16280
+   [Subtitle: Berichte aus den Jahren 1870-1875]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/2/8/16280 ]
+   [Files: 16280-8.txt; 16280-h.htm]
+
+Zuchthausgeschichten von einem ehemaligen Zchtling, by Joseph M. Hgele 16279
+   [Subtitle: Zweiter Theil]
+   [Forward: Alban Stolz]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/2/7/16279 ]
+   [Files: 16279-8.txt; 16279-h.htm]
+
+Zuchthausgeschichten von einem ehemaligen Zchtling, by Joseph M. Hgele 16278
+   [Subtitle: Erster Theil]
+   [Forward: Alban Stolz]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/2/7/16278 ]
+   [Files: 16278-8.txt; 16278-h.htm]
+
+
+
+-=-=-=-=[ 0 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_07_20_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_07_20_part_2.txt</a>

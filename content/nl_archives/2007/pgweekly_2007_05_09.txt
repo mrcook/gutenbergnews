@@ -1,0 +1,1209 @@
+Pgweekly_2007_05_09.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, May 9, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows NotePad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+Visit www.gutenbergnews.org to read these news items.
+
+ * POLL: PG Weekly Newsletter Statistics [Totals]. KEEP or REMOVE?
+
+ * PG-AU is starting a Monthly Newsletter
+ * Net Radio Megamonopoly (from Michael Hart)
+ * Page Images (.PNG) Uploaded to PGLAF Website
+ * Greg Newby Podcast Interview At Sites Collide
+
+
+FEATURED NEWS
+-------------
+
+POLL: PG Weekly Newsletter Statistics [Totals]. KEEP or REMOVE?
+
+* KEEP ALL stats as they are
+* REMOVE ALL
+* Include just the BASICS [Grand Totals]
+
+I'm curious to know how people feel about the current newsletter statistics.
+If you feel strongly about this subject then visit the www.gutenbergnews.org
+website and cast your vote.
+
+
+PG-AU IS STARTING A MONTHLY NEWSLETTER
+
+Project Gutenberg of Australia is starting a monthly newsletter which will
+include details of postings for the month, together with occasional articles
+relating to the PGofAustralia site.
+
+To subscribe go to; http://gutenberg.net.au/news-form.html
+
+
+GREG NEWBY PODCAST INTERVIEW AT SITES COLLIDE
+
+Tyrel McMahan interviews Dr. Greg Newby, CEO/Director of Project Gutenberg
+about the project, the website, and copyright issues.
+
+You can listen to the interview by visiting the link below;
+
+http://www.sitescollide.com/Podcast/D670D1A2-BE13-49BF-9C1C-1D8A1F436CFE.html
+
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the Volunteers Wanted! Section at: https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad
+along with most other text reading programs.
+
+You can access them by visiting;
+https://www.gutenbergnews.org/component/option,com_docman/Itemid,47/
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #126/364 | Week: #18/52 | Month: #04.15
+
+GRAND TOTALS
+
+21,362 [+148] Project Gutenberg
+ 1,519 [+  3] PG Australia
+    66 [+  0] PG Europe 'Unique' | 442 [+ 0] Total (See NOTES)
+   381 [+  0] PG PrePrints
+=============
+23,328 [+151] GRAND TOTAL
+
+    47 - Reserved/Pending
+
+ 6,672 to go to 30,000 eBooks.
+   ~78% of the way to 30,000
+   ~33% of the way from 20,000 to 30,000
+
+ 1,912 [+10] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+1,147 Project Gutenberg
+   65 PG Australian
+    4 PG Europe 'Unique' | 34 Total (See NOTES)
+    0 PG PrePrints
+=====
+1,216 TOTAL [2007]
+
+   44 eBooks REposted to the new filing system.
+
+    * 77 new eBooks last week
+
+    * 151 new eBooks in May
+    * 304 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 68 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 293 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a speadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,311 [+43] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[  10 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+Military Reminiscences of the Civil War V1, by Jacob Dolson Cox           6961
+  [Link: http://www.gutenberg.net/6/9/6/6961 ]
+  [Updated edition of: etext04/7mcw110.txt, etext 04/8mcw110.txt,
+   and etext 04/8mcw110h.htm]
+  [Files: 6961.txt ; 6961-8.txt; 6961-h.htm]
+
+Colloquies on Society, by Robert Southey                                  4243
+   [Editor: Henry Morley]
+   [Updated edition of etext03/cllsc10.txt]
+   [Link: http://www.gutenberg.org/4/2/4/4243 ]
+   [Files: 4243.txt; 4243-h.htm]
+
+News from Nowhere, by William Morris                                      3261
+   [Subtitle: or An Epoch of Rest, being some chapters from A Utopian
+      Romance]
+   [Updated edition of etext02/nwsnw10.txt ]
+   [Link: http://www.gutenberg.org/3/2/6/3261 ]
+   [Files: 3261.txt; 3261-h.htm ]
+
+Sketches in Lavender, Blue and Green, by Jerome K. Jerome                 2234
+   [Updated edition of etext00/sklbg10.txt]
+   [Link: http://www.gutenberg.org/2/2/3/2234 ]
+   [Files: 2234.txt; 2234-h.htm]
+
+Thoughts on the Present Discontents, by Edmund Burke                      2173
+   [Editor: Henry Morley]
+   [Subtitle: and Speeches]
+   [Updated edition of etext00/thdsc10.txt]
+   [Link: http://www.gutenberg.org/2/1/7/2173 ]
+   [Files: 2173.txt; 2173-h.htm]
+
+Visit to Iceland, by Ida Pfeiffer                                         1894
+   [Subtitle: and the Scandinavian North]
+   [Updated edition of etext99/vstil10.txt ]
+   [Link: http://www.gutenberg.org/1/8/9/1894 ]
+   [Files: 1894.txt; 1894-h.htm ]
+
+The Black Death, and The Dancing Mania, by Justus Friedrich Karl Hecker   1739
+   [Editor: Henry Morley]
+   [Tr.: Benjamin Guy Babington]
+   [Updated edition of etext99/bdadm10.txt]
+   [Link: http://www.gutenberg.org/1/7/3/1739 ]
+   [Files: 1739.txt; 1739-h.htm]
+
+War of the Classes, by Jack London                                        1187
+   [Updated edition of etext98/wrcls10.txt]
+   [Link: http://www.gutenberg.org/1/1/8/1187 ]
+   [Files: 1187.txt; 1187-h.htm]
+
+A Child's History of England, by Charles Dickens                           699
+   [Ill.: F. H. Townsend]
+   [Updated edition of etext96/achoe10.txt]
+   [Link: http://www.gutenberg.org/6/9/699 ]
+   [Files: 699.txt; 699-h.htm]
+
+Robert Louis Stevenson, by Alexander H. Japp                               590
+   [Subtitle: a Record, an Estimate, and a Memorial]
+   [Updated edition of etext96/rlsjp10.txt]
+   [Link: http://www.gutenberg.org/5/9/590 ]
+   [Files: 590.txt; 590-h.htm]
+
+
+---------[  46 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Corrected and updated with new header.
+The Tale of Timothy Turtle, by Arthur Scott Bailey                       20716
+  [Illustrator: Harry L. Smith]
+  [Link: http://www.gutenberg.net/2/0/7/1/20716 ]
+  [Updated edition of: 20716.txt and 20716-h.htm]
+  [Files: 20716.txt; 20716-h.htm]
+
+HTM file modified for ease of printing and updated with new header.
+Lill's Travels, by Ellis Towne, Sophie May and Ella Farman               20112
+  [Full title: Lill's Travels in Santa Claus Land
+   and other Stories]
+  [Link: http://www.gutenberg.net/2/0/1/1/20112 ]
+  [Updated edition of: 20112.txt and 20112-h.htm]
+  [Files: 20112.txt; 20112-h.htm]
+
+The following [44] eBooks have had page images (.PNG) uploaded.
+20821, 20832, 20833, 20835, 20837, 20841, 20842, 20844, 20862, 20867, 20872,
+20873, 20874, 20875, 20876, 20878, 20879, 20898, 20903, 21008, 21009, 21010,
+21027, 21028, 21040, 21041, 21048, 21049, 21079, 21080, 21084, 21188, 21189,
+21190, 21196, 21213, 21216, 21217, 21224, 21225, 21243, 21247, 21248, 21255
+
+
+---------[ 148 NEW PG EBOOK(S) ]------------------------------------------------
+
+De Zonderlinge Lotgevallen, by Alain René Le Sage                        21409
+   [Full title: De Zonderlinge Lotgevallen van Gil Blas van Santillano]
+   [Subtitle: De Spaansche Avonturier, Deel 1 van 2]
+   [Illustrator: Jean Gigoux]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/2/1/4/0/21409 ]
+   [Files: 21409-8.txt; 21409-h.htm]
+
+The Atlantic Monthly, Volume 17, No. 102, April, 1866, by Various        21408
+   [Link: http://www.gutenberg.org/2/1/4/0/21408 ]
+   [Files: 21408.txt; 21408-8.txt; 21408-h.htm]
+
+Figures of Several Centuries, by Arthur Symons                           21407
+   [Link: http://www.gutenberg.org/2/1/4/0/21407 ]
+   [Files: 21407.txt; 21407-8.txt; 21407-h.htm]
+
+Novelas do Minho, by Camilo Castelo Branco                               21406
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/1/4/0/21406 ]
+   [Files: 21406-8.txt]
+
+The Loss of the Royal George, by W.H.G. Kingston                         21405
+  [Illustrator: H.W. Petherick]
+  [Link: http://www.gutenberg.org/2/1/4/0/21405 ]
+  [Files: 21405.txt; 21405-h.htm]
+
+From Powder Monkey to Admiral, by W.H.G. Kingston                        21404
+  [Subtitle: A Story of Naval Adventure]
+  [Illustrator: Archibald Webb]
+  [Link: http://www.gutenberg.org/2/1/4/0/21404 ]
+  [Files: 21404.txt; 21404-h.htm]
+
+The Pirate of the Mediterranean, by W.H.G. Kingston                      21403
+  [Subtitle: A Tale of the Sea]
+  [Illustrator: F.C. Tilney]
+  [Link: http://www.gutenberg.org/2/1/4/0/21403 ]
+  [Files: 21403.txt; 21403-h.htm]
+
+Our Sailors, by W.H.G. Kingston                                          21402
+  [Subtitle: Gallant Deeds of the British Navy during Victoria's Reign]
+  [Illustrator: Charles Adrian (last name not clear)]
+  [Link: http://www.gutenberg.org/2/1/4/0/21402 ]
+  [Files: 21402.txt; 21402-h.htm]
+
+In New Granada, by W.H.G. Kingston                                       21401
+  [Subtitle: Heroes and Patriots]
+  [Link: http://www.gutenberg.org/2/1/4/0/21401 ]
+  [Files: 21401.txt; 21401-h.htm]
+
+Style in Singing, by W. E. Haslam                                        21400
+  [Link: http://www.gutenberg.org/2/1/4/0/21400 ]
+  [Files: 21400.txt; 21400-8.txt; 21400-h.htm]
+
+Dick and His Cat, by Mary Ellis                                          21399
+   [Subtitle: An Old Tale in a New Garb]
+   [Link: http://www.gutenberg.org/2/1/3/9/21399 ]
+   [Files: 21399.txt; 21399-h.htm]
+
+Black Bruin, by Clarence Hawkes                                          21398
+   [Subtitle: The Biography of a Bear]
+   [Illustrator: Charles Copeland]
+   [Link: http://www.gutenberg.org/2/1/3/9/21398 ]
+   [Files: 21398.txt; 21398-h.htm]
+
+Manco, the Peruvian Chief, by W.H.G. Kingston                            21397
+  [Subtitle: An Englishman's Adventures in the Country of the Incas]
+  [Illustrator: A.W. Cooper]
+  [Link: http://www.gutenberg.org/2/1/3/9/21397 ]
+  [Files: 21397.txt; 21397-h.htm]
+
+The Three Lieutenants, by W.H.G. Kingston                                21396
+  [Illustrator: Archibald Webb]
+  [Link: http://www.gutenberg.org/2/1/3/9/21396 ]
+  [Files: 21396.txt; 21396-h.htm]
+
+The Last Look, by W.H.G. Kingston                                        21395
+  [Subtitle: A Tale of the Spanish Inquisition]
+  [Link: http://www.gutenberg.org/2/1/3/9/21395 ]
+  [Files: 21395.txt; 21395-h.htm]
+
+Janet McLaren, by W.H.G. Kingston                                        21394
+  [Subtitle: The Faithful Nurse]
+  [Link: http://www.gutenberg.org/2/1/3/9/21394 ]
+  [Files: 21394.txt; 21394-h.htm]
+
+Hendricks the Hunter, by W.H.G. Kingston                                 21393
+  [Subtitle: The Border Farm, a Tale of Zululand]
+  [Link: http://www.gutenberg.org/2/1/3/9/21393 ]
+  [Files: 21393.txt; 21393-h.htm]
+
+Happy Jack, by W.H.G. Kingston                                           21392
+  [Subtitle: and other Tales of the Sea]
+  [Illustrator: Williamson]
+  [Link: http://www.gutenberg.org/2/1/3/9/21392 ]
+  [Files: 21392.txt; 21392-h.htm]
+
+Great African Travellers, by W.H.G. Kingston                             21391
+  [Subtitle: From Mungo Park to Livingstone and Stanley]
+  [Link: http://www.gutenberg.org/2/1/3/9/21391 ]
+  [Files: 21391.txt; 21391-h.htm]
+
+The Golden Grasshopper, by W.H.G. Kingston                               21390
+  [Subtitle: A story of the days of Sir Thomas Gresham]
+  [Link: http://www.gutenberg.org/2/1/3/9/21390 ]
+  [Files: 21390.txt; 21390-h.htm]
+
+Ronald Morton, or the Fire Ships, by W.H.G. Kingston                     21389
+  [Subtitle: A Story of the Last Naval War]
+  [Illustrator: T. Hoggans]
+  [Link: http://www.gutenberg.org/2/1/3/8/21389 ]
+  [Files: 21389.txt; 21389-h.htm]
+
+Exiled for the Faith, by W.H.G. Kingston                                 21388
+  [Subtitle: A Tale of the Huguenot Persecution]
+  [Link: http://www.gutenberg.org/2/1/3/8/21388 ]
+  [Files: 21388.txt; 21388-h.htm]
+
+In the Eastern Seas, by W.H.G. Kingston                                  21387
+  [Link: http://www.gutenberg.org/2/1/3/8/21387 ]
+  [Files: 21387.txt; 21387-h.htm]
+
+James Braithwaite, the Supercargo, by W.H.G. Kingston                    21386
+  [Subtitle: The Story of his Adventures Ashore and Afloat]
+  [Illustrator: T.C. Dugdale]
+  [Link: http://www.gutenberg.org/2/1/3/8/21386 ]
+  [Files: 21386.txt; 21386-h.htm]
+
+On the Banks of the Amazon, by W.H.G. Kingston                           21385
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/3/8/21385 ]
+  [Files: 21385.txt; 21385-h.htm]
+
+Afar in the Forest, by W.H.G. Kingston                                   21384
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/3/8/21384 ]
+  [Files: 21384.txt; 21384-h.htm]
+
+
+Adventures in Australia, by W.H.G. Kingston                              21383
+  [Illustrator: E. Evans]
+  [Link: http://www.gutenberg.org/2/1/3/8/21383 ]
+  [Files: 21383.txt; 21383-h.htm]
+
+Son Philip, by George Manville Fenn                                      21382
+  [Illustrator: Anonymous]
+  [Link: http://www.gutenberg.org/2/1/3/8/21382 ]
+  [Files: 21382.txt; 21382-h.htm]
+
+A Terrible Coward, by George Manville Fenn                               21381
+  [Illustrator: Anonymous]
+  [Link: http://www.gutenberg.org/2/1/3/8/21381 ]
+  [Files: 21381.txt; 21381-h.htm]
+
+A Young Hero, by G. Manville Fenn                                        21380
+  [Illustrator: Archibald Webb]
+  [Link: http://www.gutenberg.org/2/1/3/8/21380 ]
+  [Files: 21380.txt; 21380-h.htm]
+
+Marcus: the Young Centurion, by George Manville Fenn                     21379
+  [Link: http://www.gutenberg.org/2/1/3/7/21379 ]
+  [Files: 21379.txt; 21379-h.htm]
+
+Yussuf the Guide, by George Manville Fenn                                21378
+  [Subtitle: The Mountain Bandits; Strange Adventure in Asia Minor]
+  [Illustrator: John Schonberg]
+  [Link: http://www.gutenberg.org/2/1/3/7/21378 ]
+  [Files: 21378.txt; 21378-h.htm]
+
+To Win or to Die, by George Manville Fenn                                21377
+  [Subtitle: A Tale of the Klondike Gold Craze]
+  [Illustrator: Paul Hardy]
+  [Link: http://www.gutenberg.org/2/1/3/7/21377 ]
+  [Files: 21377.txt; 21377-h.htm]
+
+Will of the Mill, by George Manville Fenn                                21376
+  [Link: http://www.gutenberg.org/2/1/3/7/21376 ]
+  [Files: 21376.txt; 21376-h.htm]
+
+The Weathercock, by George Manville Fenn                                 21375
+  [Subtitle: Being the Adventures of a Boy with a Bias]
+  [Illustrator: A.W. Cooper]
+  [Link: http://www.gutenberg.org/2/1/3/7/21375 ]
+  [Files: 21375.txt; 21375-h.htm]
+
+!Tention, by George Manville Fenn                                        21374
+  [Subtitle: A Story of Boy-Life during the Peninsular War]
+  [Illustrator: C.M. Sheldon]
+  [Link: http://www.gutenberg.org/2/1/3/7/21374 ]
+  [Files: 21374.txt; 21374-h.htm]
+
+Syd Belton, by George Manville Fenn                                      21373
+  [Subtitle: The Boy who would not go to Sea]
+  [Illustrator: Gordon Browne]
+  [Link: http://www.gutenberg.org/2/1/3/7/21373 ]
+  [Files: 21373.txt; 21373-h.htm]
+
+Steve Young, by George Manville Fenn                                     21372
+  [Link: http://www.gutenberg.org/2/1/3/7/21372 ]
+  [Files: 21372.txt; 21372-h.htm]
+
+Our Soldier Boy, by George Manville Fenn                                 21371
+  [Illustrator: Victor Venner]
+  [Link: http://www.gutenberg.org/2/1/3/7/21371 ]
+  [Files: 21371.txt; 21371-h.htm]
+
+The Silver Canyon, by George Manville Fenn                               21368
+  [Subtitle: A Tale of the Western Plains]
+  [Illustrator: Hildi and Riou]
+  [Link: http://www.gutenberg.org/2/1/3/6/21368 ]
+  [Files: 21368.txt; 21368-h.htm]
+
+Sappers and Miners, by George Manville Fenn                              21367
+  [Subtitle: The Flood beneath the Sea]
+  [Illustrator: Hal Hurst]
+  [Link: http://www.gutenberg.org/2/1/3/6/21367 ]
+  [Files: 21367.txt; 21367-h.htm]
+
+Sail Ho!, by George Manville Fenn                                        21366
+  [Subtitle: A Boy at Sea]
+  [Link: http://www.gutenberg.org/2/1/3/6/21366 ]
+  [Files: 21366.txt; 21366-h.htm]
+
+Rob Harlow's Adventures, by George Manville Fenn                         21365
+  [Subtitle: A Story of the Grand Chaco]
+  [Illustrator: W. Burton]
+  [Link: http://www.gutenberg.org/2/1/3/6/21365 ]
+  [Files: 21365.txt; 21365-h.htm]
+
+The Rajah of Dah, by George Manville Fenn                                21364
+  [Link: http://www.gutenberg.org/2/1/3/6/21364 ]
+  [Files: 21364.txt; 21364-h.htm]
+
+Quicksilver, by George Manville Fenn                                     21363
+  [Subtitle: The Boy With No Skid To His Wheel]
+  [Illustrator: Frank Dadd]
+  [Link: http://www.gutenberg.org/2/1/3/6/21363 ]
+  [Files: 21363.txt; 21363-h.htm]
+
+The Powder Monkey, by George Manville Fenn                               21362
+  [Illustrator: Ambrose Dudley]
+  [Link: http://www.gutenberg.org/2/1/3/6/21362 ]
+  [Files: 21362.txt; 21362-h.htm]
+
+Patience Wins, by George Manville Fenn                                   21361
+  [Subtitle: War in the Works]
+  [Link: http://www.gutenberg.org/2/1/3/6/21361 ]
+  [Files: 21361.txt; 21361-h.htm]
+
+Old Gold, by George Manville Fenn                                        21360
+  [Subtitle: The Cruise of the "Jason" Brig]
+  [Illustrator: Stanley L. Wood]
+  [Link: http://www.gutenberg.org/2/1/3/6/21360 ]
+  [Files: 21360.txt; 21360-h.htm]
+
+Off to the Wilds, by George Manville Fenn                                21359
+  [Subtitle: Being the Adventures of Two Brothers]
+  [Illustrator: Hildibrand]
+  [Link: http://www.gutenberg.org/2/1/3/5/21359 ]
+  [Files: 21359.txt; 21359-h.htm]
+
+The Ocean Cat's Paw, by George Manville Fenn                             21358
+  [Subtitle: The Story of a Strange Cruise]
+  [Illustrator: W.S. Stacey]
+  [Link: http://www.gutenberg.org/2/1/3/5/21358 ]
+  [Files: 21358.txt; 21358-h.htm]
+
+Nic Revel, by George Manville Fenn                                       21357
+  [Subtitle: A White Slave's Adventures in Alligator Land]
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/3/5/21357 ]
+  [Files: 21357.txt; 21357-h.htm]
+
+Nat the Naturalist, by G. Manville Fenn                                  21356
+  [Subtitle: A Boy's Adventures in the Eastern Seas]
+  [Illustrator: Anonymous]
+  [Link: http://www.gutenberg.org/2/1/3/5/21356 ]
+  [Files: 21356.txt; 21356-h.htm]
+
+Middy and Ensign, by G. Manville Fenn                                    21355
+  [Illustrator: G.D. Rowlandson]
+  [Link: http://www.gutenberg.org/2/1/3/5/21355 ]
+  [Files: 21355.txt; 21355-h.htm]
+
+Menhardoc, by George Manville Fenn                                       21354
+  [Illustrator: C.J. Staniland]
+  [Link: http://www.gutenberg.org/2/1/3/5/21354 ]
+  [Files: 21354.txt; 21354-h.htm]
+
+Civics and Health, by William H. Allen                                   21353
+   [Contributor: William T. Sedgwick]
+   [Link: http://www.gutenberg.org/2/1/3/5/21353 ]
+   [Files: 21353.txt; 21353-8.txt; 21353-h.htm]
+
+Fragments of Two Centuries, by Alfred Kingston                           21352
+   [Subtitle: Glimpses of Country Life when George III. was King]
+   [Link: http://www.gutenberg.org/2/1/3/5/21352 ]
+   [Files: 21352.txt; 21352-8.txt; 21352-h.htm]
+
+The Prayer Book Explained, by Percival Jackson                           21351
+   [Link: http://www.gutenberg.org/2/1/3/5/21351 ]
+   [Files: 21351.txt; 21351-8.txt]
+
+Roister Doister, by Nicholas Udall                                       21350
+  [Subtitle: Written, probably also represented, before 1553. Carefully
+       edited from the unique copy, now at Eton College]
+  [Editor: Edward H. Arber]
+  [Link: http://www.gutenberg.org/2/1/3/5/21350 ]
+  [Files: 21350-8.txt; 21350-0.txt; 21350-h.htm]
+
+Ueber Goethes Hermann und Dorothea, by Victor Hehn                       21349
+  [Commentator: Albert Leitzmann and Theodor Schiemann]
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/1/3/4/21349 ]
+  [Files: 21349-8.txt; 21349-0.txt; 21349-h.htm]
+
+Benjamin Franklin, by John Torrey Morse, Jr                              21348
+  [Link: http://www.gutenberg.org/2/1/3/4/21348 ]
+  [Files: 21348.txt; 21348-8.txt; 21348-h.htm]
+
+Naimisen juoruja, by Pietari Päivärinta                                  21347
+  [Subtitle: Kuvaelma kansan elämästä]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/1/3/4/21347 ]
+  [Files: 21347-8.txt]
+
+The Sot-weed Factor: or, A Voyage to Maryland, by Ebenezer Cook          21346
+  [Subtitle: In which is Describ'd The Laws, Government, Courts and
+              Constitutions of the Country]
+  [Link: http://www.gutenberg.org/2/1/3/4/21346 ]
+  [Files: 21346.txt; 21346-8.txt; 21346-h.htm]
+
+A Wounded Name, by Charles King                                          21345
+  [Link: http://www.gutenberg.org/2/1/3/4/21345 ]
+  [Files: 21345.txt; 21345-8.txt; 21345-h.htm]
+
+The Young Bridge-Tender, by Arthur M. Winfield                           21344
+  [Subtitle: or, Ralph Nelson's Upward Struggle]
+  [Link: http://www.gutenberg.org/2/1/3/4/21344 ]
+  [Files: 21344.txt; 21344-h.htm]
+
+La canne de M. de Balzac, by Mme Émile de Girardin                       21343
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/1/3/4/21343 ]
+  [Files: 21343-8.txt; 21343-0.txt; 21343-h.htm]
+
+The Principles of English Versification, by Paull Franklin Baum          21342
+  [Link: http://www.gutenberg.org/2/1/3/4/21342 ]
+  [Files: 21342.txt; 21342-8.txt; 21342-0.txt; 21342-h.htm]
+
+Practical English Composition: Book II., by Edwin L. Miller              21341
+  [Subtitle: For the Second Year of the High School]
+  [Link: http://www.gutenberg.org/2/1/3/4/21341 ]
+  [Files: 21341.txt; 21341-8.txt; 21341-0.txt; 21341-h.htm]
+
+The Little Gold Miners of the Sierras and Other Stories, by Various      21340
+   [Link: http://www.gutenberg.org/2/1/3/4/21340 ]
+   [Files: 21340.txt; 21340-8.txt; 21340-h.htm]
+
+The Works of Aphra Behn, Vol. I (of 6), by Aphra Behn                    21339
+   [Editor: Montague Summers]
+   [Link: http://www.gutenberg.org/2/1/3/3/21339 ]
+   [Files: 21339.txt; 21339-8.txt; 21339-h.htm]
+
+The Vnfortunate Traveller, or The Life Of Jack Wilton, by Thomas Nash    21338
+  [Subtitle: With An Essay on The Life and Writings of Thomas Nash
+             by Edmund Gosse]
+  [Commentator: Edmund Gosse]
+  [Link: http://www.gutenberg.org/2/1/3/3/21338 ]
+  [Files: 21338.txt; 21338-8.txt; 21338-h.htm]
+
+'That Very Mab', by May Kendall and Andrew Lang                          21337
+   [Link: http://www.gutenberg.org/2/1/3/3/21337 ]
+   [Files: 21337.txt; 21337-8.txt; 21337-h.htm]
+
+The Skipper's Wooing, and The Brown Man's Servant, by W. W. Jacobs       21336
+  [Link: http://www.gutenberg.org/2/1/3/3/21336 ]
+  [Files: 21336.txt; 21336-8.txt; 21336-h.htm]
+
+The Moving Finger, by Mary Gaunt                                         21335
+  [Link: http://www.gutenberg.org/2/1/3/3/21335 ]
+  [Files: 21335.txt; 21335-8.txt; 21335-h.htm]
+  [Contents:
+     A Trotting
+     Christmas Eve at Warwingie
+     Lost!
+     The Loss of the "Vanity"
+     Dick Stanesby's Hutkeeper
+     The Yanyilla Steeplechase
+     A Digger's Christmas]
+
+The Beaux-Stratagem, by George Farquhar                                  21334
+  [Link: http://www.gutenberg.org/2/1/3/3/21334 ]
+  [Files: 21334.txt; 21334-8.txt; 21334-h.htm]
+
+Doom Castle, by Neil Munro                                               21333
+  [Link: http://www.gutenberg.org/2/1/3/3/21333 ]
+  [Files: 21333.txt; 21333-8.txt; 21333-h.htm]
+
+Charles Dickens as a Reader, by Charles Kent                             21332
+  [Link: http://www.gutenberg.org/2/1/3/3/21332 ]
+  [Files: 21332.txt; 21332-8.txt; 21332-h.htm]
+
+The Adventures of Hajji Baba of Ispahan, by James Morier                 21331
+  [Link: http://www.gutenberg.org/2/1/3/3/21331 ]
+  [Files: 21331.txt; 21331-8.txt; 21331-h.htm]
+
+Robert Burns, by Principal Shairp                                        21330
+  [Link: http://www.gutenberg.org/2/1/3/3/21330 ]
+  [Files: 21330.txt; 21330-8.txt; 21330-h.htm]
+
+The Nabob, Vol. 2 (of 2), by Alphonse Daudet                             21329
+  [Commentator: Brander Matthews]
+  [Translator: George Burnham Ives]
+  [Link: http://www.gutenberg.org/2/1/3/2/21329 ]
+  [Files: 21329.txt; 21329-8.txt; 21329-h.htm]
+
+The Parables of Our Lord, by William Arnot                               21328
+  [Link: http://www.gutenberg.org/2/1/3/2/21328 ]
+  [Files: 21328.txt; 21328-8.txt; 21328-0.txt; 21328-h.htm]
+
+The Works of Guy de Maupassant, Vol. 1 (of 8), by Guy de Maupassant      21327
+  [Subtitle: Boule de Suif and Other Stories]
+  [Link: http://www.gutenberg.org/2/1/3/2/21327 ]
+  [Files: 21327.txt; 21327-8.txt; 21327-h.htm]
+  [See also: etext #3077 to #3089]
+
+The Black Bar, by George Manville Fenn                                   21326
+  [Illustrator: M.L.P.]
+  [Link: http://www.gutenberg.org/2/1/3/2/21326 ]
+  [Files: 21326.txt; 21326-h.htm]
+
+Outlines of Greek and Roman Medicine, by James Sands Elliott             21325
+  [Link: http://www.gutenberg.org/2/1/3/2/21325 ]
+  [Files: 21325.txt; 21325-8.txt; 21325-0.txt; 21325-h.htm]
+
+Recollections of Old Liverpool, by A Nonagenarian                        21324
+   [Link: http://www.gutenberg.org/2/1/3/2/21324 ]
+   [Files: 21324.txt; 21324-h.htm ]
+
+What the Church Means to Me, by Wilfred T. Grenfell                      21323
+   [Subtitle: A Frank Confession and a Friendly Estimate by an Insider]
+   [Link: http://www.gutenberg.org/2/1/3/2/21323 ]
+   [Files: 21323.txt; 21323-8.txt; 21323-h.htm]
+
+The Tale of Betsy Butterfly, by Arthur Scott Bailey                      21322
+   [Subtitle: Tuck-Me-In Tales]
+   [Link: http://www.gutenberg.org/2/1/3/2/21322 ]
+   [Files: 21322.txt; 21322-h.htm]
+
+Before the Dawn, by Joseph Alexander Altsheler                           21321
+  [Subtitle: A Story of the Fall of Richmond]
+  [Link: http://www.gutenberg.org/2/1/3/2/21321 ]
+  [Files: 21321.txt; 21321-8.txt; 21321-h.htm]
+
+Mass' George, by George Manville Fenn                                    21320
+  [Subtitle: A Boy's Adventures in the Old Savannah]
+  [Illustrator: W.T. Smith]
+  [Link: http://www.gutenberg.org/2/1/3/2/21320 ]
+  [Files: 21320.txt; 21320-h.htm]
+
+Three Boys, by George Manville Fenn                                      21319
+  [Subtitle: or the Chiefs of the Clan Mackhai]
+  [Link: http://www.gutenberg.org/2/1/3/1/21319 ]
+  [Files: 21319.txt; 21319-h.htm]
+
+The Lost Middy, by George Manville Fenn                                  21318
+  [Subtitle: Being the Secret of the Smugglers' Gap]
+  [Illustrator: Stanley L. Wood]
+  [Link: http://www.gutenberg.org/2/1/3/1/21318 ]
+  [Files: 21318.txt; 21318-h.htm]
+
+A Life's Eclipse, by George Manville Fenn                                21317
+  [Illustrator: J. Nash]
+  [Link: http://www.gutenberg.org/2/1/3/1/21317 ]
+  [Files: 21317.txt; 21317-h.htm]
+
+The Adventures of Don Lavington, by George Manville Fenn                 21316
+  [Subtitle: Nolens Volens]
+  [Link: http://www.gutenberg.org/2/1/3/1/21316 ]
+  [Files: 21316.txt; 21316-h.htm]
+
+The King's Sons, by George Manville Fenn                                 21315
+  [Illustrator: T.H. Robinson]
+  [Link: http://www.gutenberg.org/2/1/3/1/21315 ]
+  [Files: 21315.txt; 21315-h.htm]
+
+King o' the Beach, by George Manville Fenn                               21314
+  [Subtitle: A Tropic Tale]
+  [Illustrator: J. B. Garens]
+  [Link: http://www.gutenberg.org/2/1/3/1/21314 ]
+  [Files: 21314.txt; 21314-h.htm]
+
+In Honour's Cause, by George Manville Fenn                               21313
+  [Subtitle: A Tale of the Days of George the First]
+  [Illustrator: Lancelot Speed]
+  [Link: http://www.gutenberg.org/2/1/3/1/21313 ]
+  [Files: 21313.txt; 21313-h.htm]
+
+Glyn Severn's Schooldays, by George Manville Fenn                        21312
+  [Illustrator: Charles Pears]
+  [Link: http://www.gutenberg.org/2/1/3/1/21312 ]
+  [Files: 21312.txt; 21312-h.htm]
+
+Gil the Gunner, by George Manville Fenn                                  21311
+  [Subtitle: The Youngest Officer in the East]
+  [Illustrator: W.H. Overend]
+  [Link: http://www.gutenberg.org/2/1/3/1/21311 ]
+  [Files: 21311.txt; 21311-h.htm]
+
+Featherland, by George Manville Fenn                                     21310
+  [Subtitle: How the Birds lived at Greenlawn]
+  [Illustrator: F. W. Keyl]
+  [Link: http://www.gutenberg.org/2/1/3/1/21310 ]
+  [Files: 21310.txt; 21310-h.htm]
+
+Fitz the Filibuster, by George Manville Fenn                             21309
+  [Illustrator: Harold Piffard]
+  [Link: http://www.gutenberg.org/2/1/3/0/21309 ]
+  [Files: 21309.txt; 21309-h.htm]
+
+First in the Field, by George Manville Fenn                              21308
+  [Subtitle: A Story of New South Wales]
+  [Illustrator: L. Rahey]
+  [Link: http://www.gutenberg.org/2/1/3/0/21308 ]
+  [Files: 21308.txt; 21308-h.htm]
+
+Fire Island, by G. Manville Fenn                                         21307
+  [Subtitle: Being the Adventures of Uncertain Naturalists
+             in an Unknown Track]
+  [Link: http://www.gutenberg.org/2/1/3/0/21307 ]
+  [Files: 21307.txt; 21307-h.htm]
+
+Dick o' the Fens, by George Manville Fenn                                21306
+  [Subtitle: A Tale of the Great East Swamp]
+  [Link: http://www.gutenberg.org/2/1/3/0/21306 ]
+  [Files: 21306.txt; 21306-h.htm]
+
+A Dash from Diamond City, by George Manville Fenn                        21305
+  [Illustrator: F.A. Stewart]
+  [Link: http://www.gutenberg.org/2/1/3/0/21305 ]
+  [Files: 21305.txt; 21305-h.htm]
+
+Begumbagh, by George Manville Fenn                                       21304
+  [Subtitle: A Tale of the Indian Mutiny]
+  [Illustrator: V.S Stacey]
+  [Link: http://www.gutenberg.org/2/1/3/0/21304 ]
+  [Files: 21304.txt; 21304-h.htm]
+
+Devon Boys, by George Manville Fenn                                      21303
+  [Subtitle: A Tale of the North Shore]
+  [Illustrator: Gordon Browne (1858-1932)]
+  [Link: http://www.gutenberg.org/2/1/3/0/21303 ]
+  [Files: 21303.txt; 21303-h.htm]
+
+Charge!, by George Manville Fenn                                         21302
+  [Subtitle: A Story of Briton and Boer]
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/3/0/21302 ]
+  [Files: 21302.txt; 21302-h.htm]
+
+Bunyip Land, by George Manville Fenn                                     21301
+  [Subtitle: A Story of Adventure in New Guinea]
+  [Illustrator: Gordon Browne and R.I.]
+  [Link: http://www.gutenberg.org/2/1/3/0/21301 ]
+  [Files: 21301.txt; 21301-h.htm]
+
+Cowboy Songs, by Various                                                 21300
+  [Subtitle: and Other Frontier Ballads]
+  [Link: http://www.gutenberg.org/2/1/3/0/21300 ]
+  [Files: 21300.txt; 21300-8.txt; 21300-h.htm]
+
+Blue Jackets, by George Manville Fenn                                    21299
+  [Subtitle: The Log of the Teaser]
+  [Illustrator: W.B. Handforth]
+  [Link: http://www.gutenberg.org/2/1/2/9/21299 ]
+  [Files: 21299.txt; 21299-h.htm]
+
+The Black Tor, by George Manville Fenn                                   21298
+   [Subtitle: A Tale of the Reign of James the First]
+   [Illustrator: W. S. Stacey]
+   [Link: http://www.gutenberg.org/2/1/2/9/21298 ]
+   [Files: 21298.txt; 21298-h.htm]
+
+Cutlass and Cudgel, by George Manville Fenn                              21297
+  [Illustrator: J Schonberg]
+  [Link: http://www.gutenberg.org/2/1/2/9/21297 ]
+  [Files: 21297.txt; 21297-h.htm]
+
+Mother Carey's Chicken, by George Manville Fenn                          21296
+  [Subtitle: Her Voyage to the Unknown Isle]
+  [Illustrator: A. Forestier]
+  [Link: http://www.gutenberg.org/2/1/2/9/21296 ]
+  [Files: 21296.txt; 21296-h.htm]
+
+Cormorant Crag, by George Manville Fenn                                  21295
+  [Subtitle: A Tale of the Smuggling Days]
+  [Illustrator: W. Rainey and R. I.]
+  [Link: http://www.gutenberg.org/2/1/2/9/21295 ]
+  [Files: 21295.txt; 21295-h.htm]
+
+Burr Junior, by G. Manville Fenn                                         21294
+  [Illustrator: Harold C. Earnshaw]
+  [Link: http://www.gutenberg.org/2/1/2/9/21294 ]
+  [Files: 21294.txt; 21294-h.htm]
+
+Brownsmith's Boy, by George Manville Fenn                                21293
+  [Subtitle: A Romance in a Garden]
+  [Link: http://www.gutenberg.org/2/1/2/9/21293 ]
+  [Files: 21293.txt; 21293-h.htm]
+
+Brave and True, by George Manville Fenn                                  21292
+  [Subtitle: Short stories for children by G. M. Fenn and Others]
+  [Link: http://www.gutenberg.org/2/1/2/9/21292 ]
+  [Files: 21292.txt; 21292-h.htm]
+
+Pushing to the Front, by Orison Swett Marden                             21291
+  [Link: http://www.gutenberg.org/2/1/2/9/21291 ]
+  [Files: 21291.txt; 21291-8.txt; 21291-h.htm]
+
+Os Bravos do Mindello, by Faustino da Fonseca                            21290
+  [Subtitle: Romance Histórico]
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/2/9/21290 ]
+  [Files: 21290-8.txt; 21290-h.htm]
+
+Album chulo-gaiato ou collecção de receitas para fazer rir,by Anonymous  21289
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/2/8/21289 ]
+  [Files: 21289-8.txt; 21289-h.htm]
+
+The Atlantic Monthly, Volume 17, No. 101, March, 1866, by Various        21288
+  [Link: http://www.gutenberg.org/2/1/2/8/21288 ]
+  [Files: 21288.txt; 21288-8.txt; 21288-h.htm]
+
+Pranto de Maria Parda, by Gil Vicente                                    21287
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/2/8/21287 ]
+  [Files: 21287-8.txt; 21287-h.htm]
+
+Mother West Wind "How" Stories, by Thornton W. Burgess                   21286
+  [Illustrator: Harrison Cady]
+  [Link: http://www.gutenberg.org/2/1/2/8/21286 ]
+  [Files: 21286.txt; 21286-h.htm]
+
+The Story of a Dark Plot, by A.L.O. C. and W.W. Smith                    21285
+  [Subtitle: or Tyranny on the Frontier]
+  [Commentator: J.H.F. Sutton]
+  [Link: http://www.gutenberg.org/2/1/2/8/21285 ]
+  [Files: 21285.txt; 21285-8.txt; 21285-h.htm]
+
+Six Years in the Prisons of England, by A  Merchant - Anonymous          21284
+  [Editor: Frank Henderson]
+  [Link: http://www.gutenberg.org/2/1/2/8/21284 ]
+  [Files: 21284.txt; 21284-8.txt; 21284-h.htm]
+
+Santarenaida: poema eroi-comico, by Francisco de Paula de Figueiredo     21283
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/2/8/21283 ]
+  [Files: 21283-8.txt; 21283-h.htm]
+
+Tradiciones peruanas, by Ricardo Palma                                   21282
+  [Language: Spanish]
+  [Link: http://www.gutenberg.org/2/1/2/8/21282 ]
+  [Files: 21282-8.txt; 21282-h.htm]
+
+The Colored Inventor, by Henry E. Baker                                  21281
+   [Subtitle: A Record of Fifty Years]
+   [Link: http://www.gutenberg.org/2/1/2/8/21281 ]
+   [Files: 21281.txt; 21281-8.txt; 21281-h.htm]
+
+Surgical Experiences in South Africa, 1899-1900, by George Henry Makins  21280
+   [Subtitle: Being Mainly a Clinical Study of the Nature and Effects
+              of Injuries Produced by Bullets of Small Calibre]
+   [Link: http://www.gutenberg.org/2/1/2/8/21280 ]
+   [Files: 21280.txt; 21280-8.txt; 21280-h.htm]
+
+2 B R O 2 B, by Kurt Vonnegut                                            21279
+   [Link: http://www.gutenberg.org/2/1/2/7/21279 ]
+   [Files: 21279.txt; 21279-h.htm]
+
+The Old Castle and Other Stories, by Anonymous                           21278
+   [Link: http://www.gutenberg.org/2/1/2/7/21278 ]
+   [Files: 21278.txt; 21278-h.htm]
+
+La vie et la mort du roi Richard II, by William Shakespeare              21277
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/1/2/7/21277 ]
+   [Files: 21277-8.txt; 21277-h.htm]
+
+The Wars Between England and America, by T. C. Smith                     21276
+   [Link: http://www.gutenberg.org/2/1/2/7/21276 ]
+   [Files: 21276.txt; 21276-8.txt]
+
+The Goat and Her Kid, by Harriet Myrtle                                  21275
+   [Link: http://www.gutenberg.org/2/1/2/7/21275 ]
+   [Files: 21275.txt; 21275-h.htm]
+
+American Cyclops, the Hero of New Orleans, by James Fairfax McLaughlin   21274
+  [Full title: The American Cyclops, the Hero of New Orleans, and
+               Spoiler of Silver Spoons]
+  [Link: http://www.gutenberg.org/2/1/2/7/21274 ]
+  [Files: 21274.txt; 21274-8.txt; 21274-h.htm]
+
+The Atlantic Monthly , Volume 2, No. 14, December 1858, by Various       21273
+  [Link: http://www.gutenberg.org/2/1/2/7/21273 ]
+  [Files: 21273.txt; 21273-8.txt; 21273-h.htm]
+
+The Bibliotaph, by Leon H. Vincent                                       21272
+   [Subtitle: and Other People]
+   [Link: http://www.gutenberg.org/2/1/2/7/21272 ]
+   [Files: 21272.txt; 21272-8.txt; 21272-h.htm]
+
+Chocolate: or, An Indian Drinke, by Antonio Colmenero de Ledesma         21271
+  [Subtitle: By the wise and Moderate use whereof, Health is preserved,
+              Sicknesse Diverted, and Cured, especially the Plague of
+              the Guts; vulgarly called _The New Disease_; Fluxes,
+              Consumptions, & Coughs of the Lungs, with sundry other
+              desperate Diseases. By it also, Conception is Caused,
+              the Birth Hastened and facilitated, Beauty Gain'd and
+              continued.]
+  [Translator: James Wadsworth]
+  [Link: http://www.gutenberg.org/2/1/2/7/21271 ]
+  [Files: 21271.txt; 21271-8.txt; 21271-h.htm]
+
+Bird Day; How to prepare for it, by Charles Almanzo Babcock              21266
+   [Link: http://www.gutenberg.org/2/1/2/6/21266 ]
+   [Files: 21266.txt; 21266-8.txt; 21266-h.htm]
+
+Audio: Zapiski iz podpolya by Fyodor Dostoevsky                          21186
+    [Audio reading by Yakovlev Valery ]
+    [Language: Russian ]
+    [Link: http://www.gutenberg.org/2/1/1/8/21186 ]
+    [Files: 21186-readme.txt; 21186-index.html; 21186-mp3.mp3;
+            21186-ogg.ogg; 21186-m4b.m4b; 21186-spx.spx ]
+
+
+Audio: Belye Nochi by Fyodor Dostoevsky                                  21183
+    [Audio reading by Yakovlev Valery ]
+    [Language: Russian ]
+    [Link: http://www.gutenberg.org/2/1/1/8/21183 ]
+    [Files: 21183-readme.txt; 21183-index.html; 21183-mp3.mp3;
+            21183-ogg.ogg; 21183-m4b.m4b; 21183-spx.spx ]
+
+Audio: The Phantom-Wooer by Thomas Lovell Beddoes                        21170
+    [Audio reading by Claire Goget, Cori Samuel, David Grimes,
+          Danielle Flores, Beth Peat, Ezwa, Justin Brett, Kristin Hughes,
+          Merryb, Mark F. Smith, Peter Bobbe, Sean McKinley, Val Grimm ]
+    [Link: http://www.gutenberg.org/2/1/1/7/21170 ]
+    [Files: 21170-readme.txt; 21170-index.html; 21170-mp3.mp3;
+            21170-ogg.ogg; 21170-m4b.m4b; 21170-spx.spx ]
+
+Audio: The Flag Goes By by Henry Holcomb Bennett                         21166
+    [Audio reading by Alan Davis-Drake, Annie Coleman, Jen Kidd,
+          Kristin Hughes, Karen Savage, Kara Shallenberg, Liam T,
+          shortcircuit, Sean McKinley, Tyler ]
+    [Link: http://www.gutenberg.org/2/1/1/6/21166 ]
+    [Files: 21166-readme.txt; 21166-index.html; 21166-mp3.mp3;
+            21166-ogg.ogg; 21166-m4b.m4b; 21166-spx.spx ]
+
+Audio: The First Battle of Bull Run                                      21165
+    by Pierre Gustave Toutant Beauregard
+    [Audio reading by Mark F. Smith ]
+    [Link: http://www.gutenberg.org/2/1/1/6/21165 ]
+    [Files: 21165-readme.txt; 21165-index.html; 21165-mp3.mp3;
+            21165-ogg.ogg; 21165-m4b.m4b; 21165-spx.spx ]
+
+Audio: Ten Days in a Madhouse by Nellie Bly                              21162
+    [Audio reading by Alice ]
+    [Link: http://www.gutenberg.org/2/1/1/6/21162 ]
+    [Files: 21162-readme.txt; 21162-index.html; 21162-mp3.mp3;
+            21162-ogg.ogg; 21162-m4b.m4b; 21162-spx.spx ]
+
+Audio: Poet To His Love by Maxwell Bodenheim                             21155
+    [Audio reading by Andrea, Annie Coleman, Chip, Fox in the Stars,
+          Linton, Mo, Nathan Miller, Nocturna, Peter Yearsley,
+          Stefan Schmelz, Tracy Hall, Heather Ordover ]
+    [Link: http://www.gutenberg.org/2/1/1/5/21155 ]
+    [Files: 21155-readme.txt; 21155-index.html; 21155-mp3.mp3;
+            21155-ogg.ogg; 21155-m4b.m4b; 21155-spx.spx ]
+
+Audio: On Loving God by Bernard of Clairvaux                             21152
+    [Audio reading by Kirsten Ferreri ]
+    [Link: http://www.gutenberg.org/2/1/1/5/21152 ]
+    [Files: 21152-readme.txt; 21152-index.html; 21152-mp3.mp3;
+            21152-ogg.ogg; 21152-m4b.m4b; 21152-spx.spx ]
+
+Audio: Leonce und Lena by Georg Büchner                                  21145
+    [Audio reading by Karsten Roeseler, Carsten Thiel,
+          Franziska Glaßmeier, Lars Kasper, Kirstin Strokorb,
+          Jakob Bierwagen, Sabrina Kombrink, Thorsten Trieschmann,
+          Andre Schlipp, Anne Tomczak, Christiane Strokorb,
+          Daniel Rettstadt ]
+    [Language: German ]
+    [Link: http://www.gutenberg.org/2/1/1/4/21145 ]
+    [Files: 21145-readme.txt; 21145-index.html; 21145-mp3.mp3;
+            21145-ogg.ogg; 21145-m4b.m4b; 21145-spx.spx ]
+
+Audio: Kleider machen Leute by Gottfried Keller                          21141
+    [Audio reading by Stefan Schmelz ]
+    [Language: German ]
+    [Link: http://www.gutenberg.org/2/1/1/4/21141 ]
+    [Files: 21141-readme.txt; 21141-index.html; 21141-mp3.mp3;
+            21141-ogg.ogg; 21141-m4b.m4b; 21141-spx.spx ]
+
+
+---------[   3 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+May 2007 Puss-cat Mew, E H Knatchbull-Hugessen             [070066xx.xxx] 1519A
+http://gutenberg.net.au/ebooks07/0700661.txt or .zip
+http://gutenberg.net.au/ebooks07/0700661h.html
+
+May 2007 The Elves, Ludwig Tieck                           [070065xx.xxx] 1518A
+http://gutenberg.net.au/ebooks07/0700651.txt or .zip
+http://gutenberg.net.au/ebooks07/0700651h.html
+
+May 2007 The White Peacock, D H Lawrence                   [070064xx.xxx] 1517A
+http://gutenberg.net.au/ebooks07/0700641.txt or .zip
+http://gutenberg.net.au/ebooks07/0700641h.html
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================

@@ -1,0 +1,946 @@
+---
+params:
+  id: 3535
+title: PG Monthly Newsletter (2012-06-06)
+date: 2012-06-06T05:43:02+00:00
+author: Michael Cook
+layout: post
+url: /20120606/pg-monthly-newsletter-2012-06-06/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+  - Social
+---
+This is the Project Gutenberg Newsletter for the month of June,
+in the year 2012.
+
+In this issue:
+
+* Summer Reading
+* Project Gutenberg is Social
+* New site in China
+* Upcoming event: The eFestival of Words
+* New eBooks since our last newsletter
+
+
+* Summer Reading
+
+With the northern hemisphere's summer solstice nearly upon us, now is
+a great time to read some Project Gutenberg books about gardening, the
+great outdoors, or summer activities such as swimming or hiking.
+
+Try the newly improved "search" option at www.gutenberg.org to look
+for eBook subjects, titles and authors.  The "help" button next to the
+search box on every page gives advanced usage information for advanced
+searching.  Searching for "travel" in the subject ("s.travel") yields
+favorites such as:
+
+  Mark Twain, Life on the Mississippi (#245)
+  Ernest Shackleton, South (#5199)
+  H.G. Wells, Time Machine (#17401)
+
+And lots more!
+
+* Project Gutenberg is Social
+
+There are social media links on nearly every Project Gutenberg page,
+usually appearing as buttons on the top right.  These bring you to
+this page:
+
+  www.gutenberg.org/ebooks/social/
+
+>From this Project Gutenberg social launch page, you can find related
+social media on Google, Twitter, and Google+.  You can also get new
+release information via RSS feed.
+
+* New site in China
+
+"We are two Tsinghua university students in China. We love classic
+books very much, and we have run classic reading clubs in Tsinghua
+university for three years. In order to make process of getting and
+reading classic books more convenient, we learn by ourselves to build
+a website named samebook.  We want to put both English and Chinese
+classic books on the website, so that people can download, read epub
+books online and create reading clubs in samebook. This is our website
+samebook: http://samebook.net
+
+  Our email address: liujh09 at gmail.com"
+
+* Upcoming event: The eFestival of Words
+
+The eFestival of Words is the first virtual book fair dedicated to
+highlighting independent and small press ebook publishers. The fair
+will feature a variety of panels, workshops, Author Q & A chats, a
+virtual vendor hall, and other special events.  The festival is free
+to attend and will be held August 17th-19th. Register now to attend at
+www.efestivalofwords.com and be entered in monthly drawings to win
+prizes between now and the festival.
+
+## New eBooks released in May 2012:
+
+<pre>
+The Formation of Christendom, Volume II, by Thomas W. Allies             39873
+
+The Three Perils of Man, Vol. 2 (of 3), by James Hogg                    39872
+ [Subtitle: or, War, Women, and Witchcraft]
+
+Bikey the Skicycle and Other Tales of Jimmieboy, by John Kendrick Bangs  39871
+ [Illustrator: Peter Newell]
+
+Bert Wilson, Marathon Winner, by J. W. Duffield                          39870
+
+Farming with Dynamite, by E. I. du Pont de Nemours Powder Co.            39869
+ [Subtitle: A Few Hints to Farmers]
+
+Glinda of Oz, by L. Frank Baum                                           39868
+ [Subtitle: In which are related the Exciting Experiences
+  of Princess Ozma of Oz, and Dorothy, in their hazardous
+  journey to the home of the Flatheads, and to the Magic
+  Isle of the Skeezers, and how they were rescued from
+  dire peril by the sorcery of Glinda the Good.]
+ [Illustrator: John R. Neill]
+
+39867 Not Ready
+
+39866 Not Ready
+
+Margaret Vincent, by Sophia Lucy Clifford                                39865
+ [Subtitle: A Novel]
+
+The Young People's Wesley, by W. McDonald                                39864
+
+The Montessori Method, by Maria Montessori                               39863
+ [Subtitle: Scientific Pedagogy as Applied to Child
+  Education in 'The Children's Houses' with Additions
+  and Revisions by the Author]
+ [Translator: Anne E. George]
+
+English Traits, by Ralph Waldo Emerson                                   39862
+
+The Life Of Henriette Sontag, Countess De Rossi, by Various              39861
+ [Subtitle: With Interesting Sketches By Scudo,
+  Hector Berlioz, Louis Boerne, Adolphe Adam,
+  Marie Aycard, Julie De Margueritte, Prince
+  Puckler-Muskau, And Theophile Gautier]
+
+The Evolution of States, by J. M. Robertson                              39860
+
+Teerelän perhe, by Santeri Alkio                                         39859
+ [Language: Finnish ]
+
+Trilby, by George Du Maurier                                             39858
+
+Marmaduke, by Flora Annie Steel                                          39857
+
+Expositor's Bible: The Gospel of St Luke, by Henry Burton                39856
+
+The Teaching of Epictetus, by Epictetus                                  39855
+ [Subtitle: Being the 'Encheiridion of Epictetus,'
+  with Selections from the 'Dissertations' and 'Fragments']
+ [Translator: T.W. Rolleston]
+
+Bird-Lore, by Various                                                    39854
+ [Editor: Frank M. Chapman]
+
+The Lance of Kanana, by Harry W. French                                  39853
+ [Subtitle: A Story of Arabia]
+ [Illustrator: Garrett]
+
+Punch or the London Charivari, Volume 150, May 17 1916, by Various       39852
+
+Victorian Literature, by Clement K. Shorter                              39851
+ [Subtitle: Sixty Years of Books and Bookmen]
+
+Cattle-Ranch to College, by Russell Doubleday                            39850
+ [Subtitle: The True Tales of A Boy's Adventures in the Far West]
+ [Illustrator: Janet MacDonald]
+
+Gearr-sgeoil air Sir Seoras Uilleam Ross, by Alexander Fraser            39849
+ [Language: Scots Gaelic]
+
+India Through the Ages, by Flora Annie Steel                             39848
+ [Subtitle: A Popular and Picturesque History of Hindustan]
+
+In the Tideway, by Flora Annie Steel                                     39847
+
+St. Nicholas Vol XIII. No. 8 June 1886, by Various                       39846
+ [Subtitle: an Illustrated Magazine for Young Folks]
+ [Editor: Mary Mapes Dodge]
+
+Early Illustrated Books, by Alfred W. Pollard                            39845
+ [Subtitle: A History of the Decoration and Illustration
+  of Books in the 15th and 16th Centuries]
+
+The Ascent of Man, by Mathilde Blind                                     39844
+
+Women of History, by Anonymous                                           39843
+ [Subtitle: Selected from the Writings of Standard Authors]
+
+The Esperantist, Vol. 2, No. 3, by Various                               39842
+ [Editor: H. Bolingbroke Mudie]
+ [Language: Esperanto]
+
+The Esperantist, Vol. 2, No. 2, by Various                               39841
+ [Editor: H. Bolingbroke Mudie]
+ [Language: Esperanto]
+
+The Esperantist, Vol. 2, No. 1, by Various                               39840
+ [Editor: H. Bolingbroke Mudie]
+ [Language: Esperanto]
+
+The Cross in Ritual, Architecture and Art, by Geo. S. Tyack              39839
+
+Our Railroads To-Morrow, by Edward Hungerford                            39838
+
+L'Illustration, No. 0041, 9 Décembre 1843, by Various                    39837
+ [Language: French]
+
+L'Illustration, No. 0042, 16 Décembre 1843, by Various                   39836
+ [Language: French]
+
+Les morts commandent, by Vicente Blasco Ibáñez                           39835
+ [Language: French]
+
+After the Divorce, by Grazia Deledda                                     39834
+ [Subtitle: A Romance]
+ [Translator: Maria Hornor Lansdale]
+
+The Old Pincushion, by Mrs. Molesworth                                   39833
+ [Subtitle: or, Aunt Clotilda's Guests]
+ [Illustrator: Mrs. Adrian Hope]
+
+In the Permanent Way, by Flora Annie Steel                               39832
+
+A Study of Splashes, by Arthur Mason Worthington                         39831
+
+Memoranda on Poisons, by Thomas Hawkes Tanner                            39830
+
+The Toy Shop, by Margarita Spalding Gerry                                39829
+ [Subtitle: A Romantic Story of Lincoln the Man]
+
+Early American Plays, by Oscar Wegelin                                   39828
+ [Subtitle: 1714-1830]
+
+The Conduct of Life, by Ralph Waldo Emerson                              39827
+
+The Trial of Callista Blake, by Edgar Pangborn                           39826
+
+La coucaratcha (III/III), by Eugène Sue                                  39825
+ [Language: French]
+
+Miss Dividends, by Archibald Clavering Gunter                            39824
+ [Subtitle: A Novel]
+
+History of the National Flag of the United States of America,            39823
+ by Schuyler Hamilton
+
+Tics and Their Treatment, by Henry Meigne and E. Feindel                 39822
+ [Translator: S.A.K. Wilson]
+
+>From the Five Rivers, by Flora Annie Steel                               39821
+
+Mollie and the Unwiseman, by John Kendrick Bangs                         39820
+ [Illustrators: Albert Levering and Clare Victor Dwiggins]
+
+Expositor's Bible: Index, by S. G. Ayres                                 39819
+
+A Catalogue of Books for the Young, by Various                           39818
+
+The Age of Dryden, by Richard Garnett                                    39817
+
+Macchiavellis Buch vom Fürsten, by Niccolò Machiavelli                   39816
+ [Language: German]
+
+My Fire Opal, and Other Tales, by Sarah Warner Brooks                    39815
+
+The Church on the Changing Frontier, by Helen O. Belknap                 39814
+ [Subtitle: A Study of the Homesteader and His Church]
+
+A Sovereign Remedy, by Flora Annie Steel                                 39813
+
+The Oriel Window, by Mrs. Molesworth                                     39812
+ [Illustrator: L. Leslie Brooke]
+
+Oeuvres, Tome VII, by Constantin-François de Chasseboeuf Volney          39811
+ [Subtitle: Leçons d'histoire, prononcées à l'École normale;
+  en l'an III de la République Française; Histoire de Samuel,
+  inventeur du sacre des rois; État physique de la Corse]
+ [Language: French]
+
+A Prince of Dreamers, by Flora Annie Steel                               39810
+
+Der Deutsche Lausbub in Amerika, by Erwin Rosen                          39809
+ [Subtitle: Erinnerungen und Eindrücke]
+ [Language: German]
+
+Wit and Wisdom of Lord Tredegar, by Godfrey Charles Morgan               39808
+
+The Iron Boys in the Steel Mills, by James R. Mears                      39807
+ [Subtitle: or, Beginning Anew in the Cinder Pits]
+
+How "A Dear Little Couple" Went Abroad, by Mary D. Brine                 39806
+
+Practical Boat-Sailing, by Douglas Frazar                                39805
+ [Subtitle: A Concise and Simple Treatise]
+
+Thalaba the Destroyer, by Robert Southey                                 39804
+
+An Explanatory Discourse by Tan Chet-qua of Quang-chew-fu,               39803
+ Gent., by Sir William Chambers
+
+Tommy Wideawake, by H. H. Bashford                                       39802
+
+39801 Not Ready
+
+39800 Not Ready
+
+39799 Not Ready
+
+39798 Not Ready
+
+39797 Not Ready
+
+39796 Not Ready
+
+In the Guardianship of God, by Flora Annie Steel                         39795
+
+King-Errant, by Flora Annie Steel                                        39794
+
+Gioia!, by Annie Vivanti                                                 39793
+ [Language: Italian]
+
+Das Lied vom blöden Ritter, by Heinrich Heine                            39792
+ [Language: German]
+
+Farm Mechanics, by Herbert A. Shearer                                    39791
+ [Subtitle: Machinery and its Use to Save Hand Labor on the Farm]
+
+An American Four-In-Hand in Britain, by Andrew Carnegie                  39790
+
+Nooks and Corners of Old New York, by Charles Hemstreet                  39789
+ [Illustrator: E. C. Peixotto]
+
+The Expositor's Bible: The Epistle to the Philippians, by Robert Rainy   39788
+
+His Majesty's Well-Beloved, by Baroness Orczy                            39787
+ [Subtitle: An episode in the life of Mr. Thomas Betterton
+  as told by his friend John Honeywood]
+
+Beau Brocade, by Baroness Orczy                                          39786
+ [Subtitle: A Romance]
+ [Illustrator: H. M. Brock]
+
+Tunnel Engineering. A Museum Treatment, by Robert M. Vogel               39785
+
+Mother Goose's Nursery Rhymes, by Walter Crane                           39784
+ [Subtitle: A Collection of Alphabets, Rhymes, Tales, and Jingles]
+ [Illustrators: John Gilbert, John Tenniel,
+  Harrison Weir, and others]
+
+Canzoni & Ripostes, by Ezra Pound and T.E. Hulme                         39783
+ [Subtitle: Whereto are appended the Complete
+  Poetical Works of T.E. Hulme]
+
+Brownies and Bogles, by Louise Imogen Guiney                             39782
+ [Illustrator: Edmund H. Garrett]
+
+Cape of Storms, by Percival Pollard                                      39781
+
+Baltimore Hats, by William T. Brigham                                    39780
+ [Subtitle: Past and Present]
+
+American Grape Training, by Liberty Hyde Bailey                          39779
+ [Subtitle: An account of the leading forms now in use
+  of Training the American Grapes]
+
+Mollie and the Unwiseman Abroad, by John Kendrick Bangs                  39778
+ [Illustrator: Grace G. Weiderseim]
+
+Cowboy Life on the Sidetrack, by Frank Benton                            39777
+ [Subtitle: Being an Extremely Humorous & Sarcastic Story
+  of the Trials & Tribulations Endured by a Party of
+  Stockmen Making a Shipment from the West to the East]
+ [Illustrator: E. A. Filleau]
+
+The Three Perils of Man, Vol. 1 (of 3), by James Hogg                    39776
+ [Subtitle: or, War, Women, and Witchcraft]
+
+Encyclopaedia Britannica, 11th Edition, Volume 14, Slice 7, by Various   39775
+ [Subtitle: "Ireland" to "Isabey, Jean Baptiste"]
+
+Les gosses dans les ruines, by Paul Gsell                                39774
+ [Subtitle: Idylle de guerre]
+ [Illustrator: Francisque Poulbot]
+ [Language: French]
+
+Juvenile Styles, Volume 4, by Mary Hoyer                                 39773
+ [Subtitle: Original Designs for Infants and Juveniles]
+
+Mark Gildersleeve, by John S. Sauzade                                    39772
+ [Subtitle: A Novel]
+
+Studies in Modern Music, Second Series, by W. H. Hadow                   39771
+ [Subtitle: Frederick Chopin, Antonin Dvorak, Johannes Brahms]
+
+Punch, or the London Charivari, Volume 107, July 21, 1894, by Various    39770
+
+Ghosts I Have Seen, by Violet Tweedale                                   39769
+ [Subtitle: And Other Psychic Experiences]
+
+Vassall Morton, by Francis Parkman                                       39768
+ [Subtitle: A Novel]
+
+The Book of Isaiah, Volume I (of 2), by George Adam Smith                39767
+
+English and Scottish Ballads, Volume VI (of 8), by Various               39766
+ [Editor: Francis James Child]
+
+Les français peints par eux-mèmes, t.1, by Various                       39765
+ [Editor: Léon Curmer]
+ [Language: French]
+
+Anabasis Volume 1, by Xenophon                                           39764
+ [Language: Greek]
+
+Einheimische Fische, by Kurt Floericke                                   39763
+ [Subtitle: Die Süßwasserfische unsrer Heimat]
+ [Illustrators: E. Bade, W. Koehler and R. Oeffinger]
+ [Language: German]
+
+Etymologisches Wörterbuch der deutschen Seemannssprache,                 39762
+ by Gustav Goedel
+ [Language: German]
+
+The Knack of Managing, by Lewis K. Urquhart and Herbert Watson           39761
+
+Saddle and Mocassin, by Francis Francis Jr                               39760
+
+Wilson's Tales of the Borders and of Scotland Volume 18,                 39759
+ by Alexander Leighton
+ [Subtitle: Historical, Traditionary, & Imaginative]
+
+Matilda Montgomerie, by Major John Richardson                            39758
+ [Subtitle: The Prophecy Fulfilled]
+
+Half-Hours with Jimmieboy, by John Kendrick Bangs                        39757
+ [Illustrators: Frank Verbeck, Charles Howard Johnson,
+  J. T. Richards and P. Newell]
+
+Valkoisia kanervakukkia, by Mathilda Roos                                39756
+ [Language: Finnish]
+
+The Story of Peter Pan, by Daniel Stephen O'Connor                       39755
+ [Subtitle: Retold from the fairy play by Sir James Barrie]
+ [Illustrator: Alice B. Woodward.]
+
+Franz Liszt, by James Huneker                                            39754
+
+The Misfit Christmas Puddings, by Club Consolation                       39753
+ [Illustrator: Wallace Goldsmith]
+
+Fairy Legends and Traditions of The South of Ireland,                    39752
+ by T. Crofton Crocker
+
+Being Well-Born, by Michael F. Guyer                                     39751
+ [Subtitle: An Introduction to Eugenics]
+
+To Your Dog and To My Dog, by Lincoln Newton Kinnicutt                   39750
+
+Principles of Decorative Design, by Christopher Dresser                  39749
+ [Subtitle: Fourth Edition]
+
+Four Winds Farm, by Mrs. Molesworth                                      39748
+ [Illustrator: Walter Crane]
+
+A Manual of Ancient History, by Arnold Hermann Ludwig Heeren             39747
+ [Subtitle: Particularly with Regard to the Constitutions,
+  the Commerce, and the Colonies, of the States of Antiquity]
+
+The Works of George Berkeley, Vol. 1 (of 4), by George Berkeley          39746
+ [Subtitle: Philosophical Works, 1705-21]
+
+Folle-Farine, by Ouida                                                   39745
+
+Arne: Early Tales and Sketches, by Bjornstjerne Bjornson                 39744
+ [Subtitle: Patriots Edition]
+ [Translator: Rasmus B. Anderson]
+
+American Football, by Walter Camp                                        39743
+
+Half a Man, by Mary White Ovington and Franz Boas                        39742
+ [Subtitle: The Status of the Negro in New York]
+
+In My Nursery, by Laura E. Richards                                      39741
+
+Oriental Rugs, by Walter A. Hawley                                       39740
+ [Subtitle: Antique and Modern]
+
+Oeuvres de P. Corneille, Tome IV, by Pierre Corneille                    39739
+ [Language: French]
+
+Lélia, by George Sand                                                    39738
+ [Illustrators: Tony Johannot and Maurice Sand]
+ [Language: French]
+
+Magyar népdalok (Magyar remekirók 54. kötet), by Sándor Endrodi          39737
+ [Language: Hungarian]
+
+Kleurig en donker, by Willem van Amsterdam                               39736
+ [Language: Dutch]
+
+Ti-Ping Tien-Kwoh, by Lin-Le                                             39735
+ [Subtitle: The History of the Ti-Ping Revolution (Volume II)]
+
+The Life of Philip Melanchthon, by Karl Friedrich Ledderhose             39734
+ [Translator: Gottlob Frederick Krotel]
+
+Cooley's Cyclopædia of Practical Receipts and Collateral                 39733
+ Information in the Arts, Manufactures, Professions, and
+ Trades..., Sixth Edition, Volume I, by Arnold Cooley
+ and Richard Tuson
+
+Budd Boyd's Triumph, by William Pendleton Chipman                        39732
+ [Subtitle: or, The Boy-Firm of Fox Island]
+
+The Marriage of Esther, by Guy Boothby                                   39731
+
+The Girl Who Had Nothing, by Mrs. C. N. Williamson                       39730
+ [Illustrator: John Cameron]
+
+Courage, True Hearts, by Gordon Stables                                  39729
+ [Subtitle: Sailing in Search of Fortune]
+
+In Far Bolivia, by Gordon Stables                                        39728
+ [Subtitle: A Story of a Strange Wild Land]
+ [Illustrator: J. Finnemore]
+
+Judges and Ruth, by Robert A. Watson                                     39727
+
+The Rolliad, in Two Parts, by George Ellis, French Laurence,             39726
+ Joseph Richardson, and Richardd Tickell,
+ [Subtitle: Probationary Odes for the Laureatship
+  & Political Eclogues]
+
+William Morris, by Elizabeth Luther Cary                                 39725
+ [Subtitle: Poet, Craftsman, Socialist]
+
+The Imitator, by Percival Pollard                                        39724
+
+The World Before the Deluge, by Louis Figuier                            39723
+
+Samlede Værker, Tredie Bind, by Jeppe Aakjær                             39722
+ [Language: Danish]
+
+Popular Technology, Vol. I (of 2), by Edward Hazen                       39721
+ [Subtitle: or, Professions and Trades]
+
+The Abolition Crusade and Its Consequences, by Hilary Abner Herbert      39720
+ [Subtitle: Four Periods of American History]
+
+L'Illustration, No. 0040, 2 Décembre 1843, by Various                    39719
+ [Language: French]
+
+The Wanderings of a Spiritualist, by Arthur Conan Doyle                  39718
+
+Karolingsche Verhalen, by Josephus Albertus Alberdingk Thijm             39717
+ [Language: Dutch]
+
+Little Masterpieces, by Nathaniel Hawthorne                              39716
+
+The Argentine as a Market, by N. L. Watson                               39715
+
+D.C. Powered Timing Light Model 161.2158 for 12 Volt Ignition Systems,   39714
+ by Anonymous
+ [Subtitle: Sears Owners Manual]
+
+The Foundations of Science, by Henri Poincaré                            39713
+ [Translator: George Bruce Halsted]
+
+Goblin Tales of Lancashire, by James Bowker                              39712
+ [Illustrator: Charles Gliddon]
+
+Constitutional History of England, Vol 1 of 3, by Henry Hallam           39711
+ [Subtitle: Henry VII to George II]
+
+Paris and the Parisians in 1835 (Vol. 2 of 2), by Frances Trollope       39710
+
+Mariposilla, by Mary Stewart Daggett                                     39709
+ [Subtitle: A Novel]
+
+The Mortal Gods and Other Plays, by Olive Tilford Dargan                 39708
+
+Mr. Punch's Life in London, by Various                                   39707
+ [Editor: J. A. Hammerton]
+
+Mother West Wind's Animal Friends, by Thornton W. Burgess                39706
+ [Illustrator: George F. Kerr]
+
+The Lady of the Forest, by L. T. Meade                                   39705
+ [Subtitle: A Story for Girls]
+
+Annali d'Italia, vol. 1, by Lodovico Antonio Muratori                    39704
+ [Subtitle: dal principio dell'era volgare sino all'anno 1750]
+ [Language: Italian]
+
+The First Boke of Moses called Genesis, by William Tyndale               39703
+
+The philosophy of mathematics, by Auguste Comte                          39702
+ [Translator: W. M. Gillespie]
+
+Heroines of the Crusades, by C. A. Bloss                                 39701
+
+Encyclopaedia Britannica, 11th Edition, Volume 14, Slice 8, by Various   39700
+ [Subtitle: "Isabnormal Lines" to "Italic"]
+
+Magyar népballadák (Magyar remekirók 55. kötet), by Sándor Endrodi       39699
+ [Language: Hungarian ]
+
+The Impostor, by Harold Bindloss                                         39698
+ [Illustrator: Victor Prout]
+
+Kertomuksia, by Victoria Benedictsson                                    39697
+ [Language: Finnish]
+
+Odd Bits of History, by Henry W. Wolff                                   39696
+ [Subtitle: Being Short Chapters Intended to Fill Some Blanks]
+
+The Story of Switzerland, by Lina Hug and Richard Stead                  39695
+
+Bijou, by Gyp                                                            39694
+ [Language: French]
+
+Mildred Arkell, (Vol 3 of 3), by Ellen Wood                              39693
+ [Subtitle: A Novel]
+
+Mildred Arkell, (Vol 1 of 3), by Ellen Wood                              39692
+ [Subtitle: A Novel]
+
+Photographic Amusements, Ninth Edition, by Walter E. Woodbury            39691
+ and Frank R. Fraprie
+ [Subtitle: Including A Description of a Number of Novel
+  Effects Obtainable with the Camera]
+
+Harpsichords and Clavichords, by Cynthia A. Hoover                       39690
+
+Satan Sanderson, by Hallie Erminie Rives                                 39689
+ [Illustrator: A. B. Wenzell]
+
+The Balkan Peninsula, by Frank Fox                                       39688
+
+Musiciens d'autrefois, by Romain Rolland                                 39687
+ [Language: French]
+
+North American Stone Implements, by Charles Rau                          39686
+
+Nooks and Corners of Old England, by Allen Fea                           39685
+
+Albania, by E. F. Knight                                                 39684
+ [Subtitle: A narrative of recent travel]
+
+Memoranda on the Maya Calendars Used in the Books of Chilan              39683
+ Balam, by Charles P.. Bowditch
+
+The Idiot at Home, by John Kendrick Bangs                                39682
+ [Illustrator: F. T. Richards]
+
+The Corner of Harley Street, by Henry Bashford                           39681
+ [Subtitle: Being Some Familiar Correspondence of Peter Harding, M.D.]
+
+A Commonplace Book of Thoughts, Memories, and Fancies, by Anna Jameson   39680
+ [Subtitle: 2nd ed.]
+
+André le Savoyard, by Charles Paul de Kock                               39679
+ [Language: French]
+
+In Dingsda, by Johannes Schlaf                                           39678
+ [Language: German]
+
+A Classified Catalogue of Works in General Literature                    39677
+ Published by Longmans, Green, & Co., by Various
+
+Blackwood's Edinburgh Magazine, Vol. 64 No. 396 October 1848,            39676
+ by Various
+
+Dealings With The Dead, by A Sexton of the Old School                    39675
+ [Subtitle: Volume II]
+
+Buffalo Land, by W. E. Webb                                              39674
+ [Subtitle: Authentic Account of the Discoveries, Adventures,
+  and Mishaps of a Scientific and Sporting Party in the Wild West]
+
+A Year in a Lancashire Garden, by Henry Arthur Bright                    39673
+ [Subtitle: Second Edition]
+
+How to Make an Index, by Henry B. Wheatley                               39672
+
+Handel, by Romain Rolland                                                39671
+ [Translator: A. Eaglefield Hull]
+
+The Idiot, by Frederick Bateman                                          39670
+ [Subtitle: His Place in Creation, and His Claims on Society]
+
+Die Die großen Mächte, by Leopold von Ranke                              39669
+ [Language: German]
+
+At Start and Finish, by William Lindsey                                  39668
+
+Vier Jahre Politischer Mord, by Emil Julius Gumbel                       39667
+ [Subtitle: Fuenfte Auflage von ZWEI JAHRE MORD (13. bis 18. Tausend)]
+ [Language: German]
+
+When It Was Dark, by Guy Thorne                                          39666
+ [Subtitle: The Story of a Great Conspiracy]
+
+A History of the Gipsies, by Walter Simson                               39665
+ [Subtitle: with Specimens of the Gipsy Language]
+
+The Hansa Towns, by Helen Zimmern                                        39664
+
+Home Occupations for Boys and Girls, by Bertha Johnston                  39663
+
+The Magic Nuts, by Mrs. Molesworth                                       39662
+ [Illustrator: Rosie M. M. Pitman]
+
+Mortomley's Estate, Vol. III (of 3),                                     39661
+ by Charlotte Elizabeth Lawson Cowan Riddell]
+ [Subtitle: A Novel]
+
+Sylvia & Michael, by Compton Mackenzie                                   39660
+ [Subtitle: The later adventures of Sylvia Scarlett]
+
+Ethnology of the Ungava District, Hudson Bay Territory,                  39659
+ by Lucien Turner?
+ [Subtitle: Eleventh Annual Report of the Bureau of Ethnology
+  to the Secretary of the Smithsonian Institution, 1889-1890,
+  Government Printing Office, Washington, 1894, pages 159-350]
+
+Novelle, by Cesare Balbo                                                 39658
+ [Language: Italian]
+
+Through the Outlooking Glass, by Simeon Strunsky                         39657
+
+The Square Book of Animals, by William Nicholson and Arthur Waugh        39656
+
+History of England from the fall of Wolsey to the death                  39655
+ of Elizabeth. Vol. III, by James Anthony Froude
+
+Histoire des Musulmans d'Espagne, t. 1/4, by Reinhart Dozy               39654
+ [Subtitle: jusqu'a la conqu?te de l'Andalouisie
+  par les Almoravides (711-110))]
+ [Language: French]
+
+Historical materialism and the economics of Karl Marx,                   39653
+ by Benedetto Croce
+ [Translator: C. M. Meredith]
+
+Vayenne, by Percy Brebner                                                39652
+ [Illustrator: Ernest Fuhr]
+
+Switzerland, by Frank Fox                                                39651
+
+Das heilige Donnerwetter, by Adolf Paul                                  39650
+ [Subtitle: Ein Blücherroman]
+ [Language: German]
+
+Népdalok és mondák (3. kötet) by János Erdélyi                           39649
+ [Language: Hungarian]
+
+Character and Conduct, by Various                                        39648
+ [Subtitle: A Book of Helpful Thoughts by
+  Great Writers of Past and Present Ages]
+
+Heath's Modern Language Series: The Spanish American Reader,             39647
+ by Ernesto Nelson
+
+Shaggycoat, by Clarence Hawkes                                           39646
+ [Subtitle: The Biography of a Beaver]
+ [Illustrator: Charles Copeland]
+
+Highlife in New York: a series of letters to Mr. Zephariah Slick,        39645
+ by Ann S. Stephens
+
+Whilomville Stories, by Stephen Crane                                    39644
+ [Illustrator: Peter Newell]
+
+The Bungalow Boys Along the Yukon, by Dexter J. Forrester                39643
+ [Author a.k.a. John Henry Goldfrap]
+ [Illustrator: Charles L. Wrenn]
+
+Kashmir, by Sir Francis Edward Younghusband                              39642
+ [Illustrator: E. Molyneux]
+
+Georgina's Service Stars, by Annie Fellows Johnston                      39641
+ [Illustrator: Thelma Gooch]
+
+Literary Fables of Yriarte, by Tomas de Iriarte                          39640
+ [Translator: Geo. H. Devereux]
+
+Picturesque World's Fair, Vol. I, No. 1, Feb. 10, 1894, by Anonymous     39639
+ [Subtitle: An Elaborate Collection of Colored Views...
+  Comprising Illustrations of the Greatest Features of
+  the World's Columbian Exposition and Midway Plaisance:
+  Architectural, Artistic, Historical, Scenic and Ethnological]
+ [This is the first of a series of photographic essays
+  on the 1894 Chicago World's Fair.]
+
+The Tribute, by Philo                                                    39638
+ [Subtitle: A Panegyrical Poem]
+
+Les fiançailles, by Maurice Maeterlinck                                  39637
+ [Subtitle: Féerie en cinq actes et onze tableaux]
+ [Language: French]
+
+Kuningas Henrik Neljäs II, by William Shakespeare                        39636
+ [Language: Finnish]
+
+The Best Short Stories of 1918, by Various                               39635
+ [Subtitle: and the Yearbook of the American Short Story]
+ [Editor: Edward O'Brien]
+
+Sketches of Successful New Hampshire Men, by Various                     39634
+
+Menexenos, by Plato                                                      39633
+ [Language: Greek]
+
+Encyclopaedia Britannica, 11th Edition, Volume 13, Slice 1, by Various   39632
+ [Subtitle: "Harmony" to "Heanor"]
+
+The Runaways, by Nat Gould                                               39631
+ [Subtitle: A New and Original Story]
+
+Recollections of Abraham Lincoln 1847-1865, by Ward Hill Lamon           39630
+
+Irma in Italy, by Helen Leah Reed                                        39629
+ [Subtitle: A Travel Story]
+ [Illustrator: William A McCullough]
+
+The Expositor's Bible: The Pastoral Epistles, by Alfred Plummer          39628
+
+English and Scottish Ballads, Volume V (of 8), by Unknown                39627
+ [Editor: Francis James Child]
+
+An Alphabet of History, by Wilbur D. Nesbit                              39626
+ [Illustrator: Ellsworth Young]
+
+History of Llangollen and its Vicinity, by W. T. Simpson                 39625
+ [Subtitle: including a circuit of about seven miles]
+
+Der Kinderkreuzzug, by Marcel Schwob                                     39624
+ [Language: German]
+
+Der Held unserer Zeit, by Michail Jurjewitsch Lermontow                  39623
+ [Subtitle: Kaukasische Lebensbilder]
+ [Language: German]
+
+The Church In Politics--Americans Beware!, by M. M. Mangasarian          39622
+
+The Jenolan Caves, by Samuel Cook                                        39621
+ [Subtitle: An Excursion in Australian Wonderland]
+
+Constantinople painted by Warwick Goble, by Alexander Van Millingen      39620
+ [Illustrator: Warwick Goble]
+
+Trotzkopf als Grossmutter, by Suse la Chapelle-Roobol                    39619
+ [Language: German]
+
+Humus, by Raul Germano Brandão                                           39618
+ [Language: Portuguese]
+
+Curiosities of the American Stage, by Laurence Hutton                    39617
+
+In the Hands of the Malays, and Other Stories, by George Alfred Henty    39616
+
+Life and Adventures of Bruce, the African Traveller, by Francis Head     39615
+
+Ardours and Endurances, by Robert Malise Bowyer Nichols                  39614
+ [Subtitle: Also a Faun's Holiday & Poems and Phantasies]
+
+Papeles del doctor Angélico, by Armando Palacio Valdés                   39613
+ [Language: Spanish]
+
+The Life of a Conspirator, by Thomas Longueville                         39612
+ [Subtitle: Being a Biography of Sir Everard Digby
+  by One of His Descendants]
+
+Mortomley's Estate, Vol. I (of 3),                                       39611
+ by Charlotte Elizabeth Lawson Cowan Riddell
+ [Subtitle: A Novel]
+
+Riding for Ladies, by W. A. Kerr                                         39610
+
+Pirates, by Colin Campbell Clements                                      39609
+ [Subtitle: A comedy in one act]
+
+The Magic of the Middle Ages, by Viktor Rydberg                          39608
+ [Translator: August Hjalmar Edgren]
+
+The American Indians, by Henry R. Schoolcraft                            39607
+ [Subtitle: Their History, Condition and Prospects,
+  from Original Notes and Manuscripts]
+
+Ande Trembath, by Matthew Stanley Kemp                                   39606
+ [Subtitle: A Tale of Old Cornwall England]
+
+Hand-book for Horsewomen, by H. L. De Bussigny                           39605
+
+Burlesques, by H. M. Bateman                                             39604
+
+The Public Life of Queen Victoria, by John McGilchrist                   39603
+
+The Industrial Arts in Spain, by Juan F. Riaño                           39602
+
+Devotional Lyrics (Gitanjali), by Rabindranath Tagore                    39601
+ [Language: Greek]
+
+Greek Epic / Lucifer (Ioannis Tsimiskis), by Charilaos Papantoniou       39600
+ [Language: Greek]
+
+The Little Colonel in Arizona, by Annie Fellows Johnston                 39599
+ [Illustrator: Etheldred B. Barry]
+
+Asa Holmes, by Annie Fellows Johnston                                    39598
+ [Subtitle: or At the Cross-Roads]
+ [Illustrator: Ernest  Fosbery]
+
+British Quarterly Review, American Edition, Vol. LIII, by Various        39597
+ [Subtitle: January and April, 1871]
+
+Georgina of the Rainbows, by Annie Fellows Johnston                      39596
+
+The Hall and the Grange, by Archibald Marshall                           39595
+ [Subtitle: A Novel]
+
+The Little Colonel's Knight Comes Riding, by Annie Fellows Johnston      39594
+ [Illustrator: Etheldred B. Barry]
+
+Aunt 'Liza's Hero and Other Stories, by Annie Fellows Johnston           39593
+ and W. L. Taylor
+
+Princess Mary's Gift Book, by Various                                    39592
+ [Subtitle: All profits on sale given to the Queen's
+  "Work for Women" Fund which is acting in Conjunction
+  with The National Relief Fund]
+ [Illustrator: Various]
+
+Keeping Tryst, by Annie Fellows Johnston                                 39591
+ [Subtitle: A Tale of King Arthur's Time]
+
+Some Account of Llangollen and its Vicinity, by W. T. Simpson            39590
+
+L'Illustration, No. 0039, 25 Novembre 1843, by Various                   39589
+ [Language: French]
+
+The Human Slaughter-House, by Wilhelm Lamszus                            39588
+ [Subtitle: Scenes from the War that is Sure to Come]
+ [Translator: Oakley Williams]
+
+The Graftons, by Archibald Marshall                                      39587
+ [Subtitle: A Novel]
+
+
+Dr. Gregory B. Newby
+Chief Executive and Director
+Project Gutenberg Literary Archive Foundation www.gutenberg.org
+A 501(c)(3) not-for-profit organization with EIN 64-6221541
+gbnewby at pglaf.org</pre>

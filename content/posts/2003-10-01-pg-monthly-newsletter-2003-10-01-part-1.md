@@ -1,0 +1,1057 @@
+---
+params:
+  id: 1949
+title: "PG Monthly Newsletter: Part 1 (2003-10-01)"
+date: 2003-10-01T22:22:01+00:00
+author: Michael Cook
+layout: post
+url: /20031001/pg-monthly-newsletter-2003-10-01-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Wed Oct 01 19:43:18 2003
+Date: Wed, 01 Oct 2003 18:31:54 -0400 (EDT)
+From: Alice Wood &lt;alice at beryl dot ils dot unc dot edu&gt;
+To: Project Gutenberg Monthly Newsletter &lt;gmonthly@listserv.unc.edu&gt;
+Subject: [gmonthly] Pt1 Project Gutenberg Monthly Newsletter Oct 2003
+X-Message-Id: &lt;200310012231.h91MVsWr016688@beryl.ils.unc.edu&gt;
+List-Owner: &lt;mailto:owner-gmonthly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gmonthly@listserv.unc.edu&gt;
+List-Id: Project Gutenberg Monthly Newsletter &lt;gmonthly.listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+MIME-version: 1.0
+Content-type: TEXT/PLAIN
+Content-transfer-encoding: 8BIT
+
+The Project Gutenberg Monthly Newsletter 1st October 2003 Part 1
+eBooks Readable By Both Humans and Computers For Since 1971
+
+In this issue of the Project Gutenberg Monthly newsletter:
+
+1) Monthly eBook update:
+   Updates/corrections
+   New U.S. eBooks
+   New books From PG Australia
+2) Mailing list information
+
+----------------------------------------------------------------------
+
+1) Monthly eBook update
+
+NOTE, if you are considering adding a new eBook to the Project
+Gutenberg collection:
+
+Please make sure that any books you want to work on are _not_ already
+in the collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL  (a text file), since the
+online database doesn't reflect recent additions.  Also, please be sure
+to check David Price's "In Progress" list at:
+http://www.dprice48.freeserve.co.uk/GutIP.html
+to ensure no one is currently working on your selection.  It would also
+be helpful if you obtain copyright clearance before mailing the books.
+More information on this can be found in Parts 1 and/or 2 of the
+newsletter.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Month ]           =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 1 Oct 2003:   9,683 (incl. 279 Aus.).
+
+Last month the Total Count was 9,327, including 270 at PG of Australia.
+This month we added 356 new (incl. 9 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct author information:
+Mar 2001 Poems and Tales from Romania, by Sumanaru and Hart[patfrxxx.xxx] 2538C
+[Full Author: Simona Sumanaru and Michael Hart]
+
+The following is being reindexed to add the full title and correct
+the author's name (Logan Marshall, not Logal Marhsall); also note that
+Marshall is the editor, not the author:
+Jan 1997 Sinking of the Titanic, etc, Ed. by Logan Marshall[ttnicxxx.xxx]  781
+[Full Title: The Sinking of the Titanic and Great Sea Disasters]
+
+The following is being re-indexed to correct the title (Wellesley, not
+Wellesly):
+Oct 2000 The Story of Wellesley, by Florence Converse      [wlslyxxx.xxx] 2362
+
+The following is being re-indexed to correct the title (add the hyphen):
+Feb 1991 Through the Looking-Glass, Lewis Carroll[Carroll2][lglassxx.xxx]   12
+
+The following is being re-indexed to correct the full title and full author:
+Apr 2001 Confessions of an Inquiring Spirit, Coleridge   #2[cfinqxxx.xxx] 2575
+[Full Title:  Confessions of an Inquiring Spirit and Miscellaneous Essays
+ from "The Friend"]
+[Full Author: Samuel Taylor Coleridge] [Ed.: Henry Morley]
+
+The following is being re-indexed to correct the author's name ("Wharton",
+not "Warton"):
+Sep 2005 Audio: Edith Wharton, The Age of Innocence        [aginoxxx.mp3] 8958C
+
+The following is being re-indexed to correct the title ("an", not "and"):
+Jul 2001 Pages From and Old Volume of Life, by OW Holmes #8[pagesxxx.xxx] 2699
+
+The following is being re-indexed to include translator's name:
+Jun 2001 Minna von Barnhelm, by Gotthold Ephraim Lessing   [minnaxxx.xxx] 2663
+[English Tr.:  Ernest Bell]
+
+The following are being re-indexed to correct the title (adding the
+apostrophe to "Goldsmiths"):
+Sep 2005 Audio: Mark Twain, Goldsmith's Friend Abroad      [mtgfaxxx.mp3] 9022C
+Apr 2002 Goldsmith's Friend Abroad Again, by Twain  [MT#43][mtgfaxxx.xxx] 3191
+
+
+The following is being re-indexed to correct the filename (replacing the
+"8" with a "?" to indicate availability in both 7- & 8-bit formats):
+Sep 2004 Venerable Mother Mary of the Incarnation, by Anon [?vnmmxxx.xxx] 6486
+
+
+The following is being re-posted correct the filename (?sds2, not ?sds1):
+Oct 2004 Sidonia The Sorceress V2, by William Mienhold     [?sds2xxx.xxx] 6701
+
+
+The following are being re-indexed to include translator info:
+Oct 2005 Saint Augustin, by Louis Bertrand                 [?agstxxx.xxx] 9069
+[Tr.: Vincent O'Sullivan]
+Oct 2005 Sanine, by Michael Artzibashef                    [?sannxxx.xxx] 9051
+[Tr.: Percy Pinkerton] [Preface by Gilbert Cannan]
+Sep 2005 The Mysterious Island, by Jules Verne             [?mislxxx.xxx] 8993
+[Tr.: Stephen W. White]
+Sep 2005 The Blockade Runners, by Jules Verne              [8blokxxx.xxx] 8992
+[Tr.: N. d'Anvers, which is a pseudonym of Mrs. Arthur Bell]
+Sep 2005 The Fur Country, by Jules Verne                   [8furcxxx.xxx] 8991
+[Tr.: N. d'Anvers, which is a pseudonym of Mrs. Arthur Bell]
+Mar 2001 Crime and Punishment, by Fyodor Dostoevsky [FD #4][?crmpxxx.xxx] 2554
+[Tr.: Constance Garnett]
+
+The following is being re-indexed to include translator info, as well as
+supplemental info indicating contents, and to add the hyphen to the
+author's name:
+May 2005 Jean-Christophe: In Paris, by Romain Rolland      [?jeanxxx.xxx] 8149
+[Contents: The Marke-Place; Antoinette; The House]
+[Tr.: Gilbert Cannan]
+
+The following is being re-indexed to include translator info, as well as
+supplemental info indicating contents:
+Apr 2005 Jean-Christophe Journey's End, by Romain Rolland  [?jendxxx.xxx] 7967
+[Contents:  Love and Friendship; The Burning Bush; The New Dawn]
+[Tr.:  Gilbert Cannan]
+
+The GUTINDEX is being updated to correct the author's name ("Camoes", not
+"Camues"):
+Jul 2002 Os Lusiadas, by Luis Vaz de Camoes [in Portuguese][lusdsxxx.xxx] 3333
+
+The following is being re-indexed to correct the eBook number (previously
+posted as #8961, which was already assigned to a different eBook):
+Sep 2005 The Bride of Dreams, by Frederik van Eeden        [?bodrxxx.xxx] 9111
+[Tr.: Mellie von Auw]
+
+The following has been posted in HTML format:
+November 1998 The Merry Wives of Windsor,by Shakespeare    [2ws20xxx.xxx] 1517
+[Full Author: William Shakespeare]
+[HTML in 2ws2010h.htm/.zip]
+
+The following has been posted in MS Reader (.lit) format:
+Aug 1997 H. F. Cary's Translation of Dante, Entire Comedy  [0ddccxxx.xxx] 1008
+[MS Reader format in 0ddcc10.lit]
+
+We have posted an vastly improved 13th edition of:
+May 1996 Little Women, by Louisa May Alcott            [#2][lwmenxxx.xxx]  514
+
+We have posted an improved 12th edition of
+Jun 2002 The Deerslayer, by James Fenimore Cooper      [#7][dslyrxxx.xxx] 3285
+Jul 2004 Copyright Renewals 1957, US Copyright Office  [#5][r1957xxx.xxx] 6161
+May 1997 The White Company, by Arthur Conan Doyle[Doyle#12][whtcoxxx.xxx]  903
+
+We have posted an improved 11th edition of:
+Aug 2001 Jack and Jill, by Louisa May Alcott           [#4][jandjxxx.xxx] 2786
+Apr 2000 Around the World in 80 Days Jr. Ed. by Jules Verne[80dayxxa.xxx] 2154
+Apr 1999 The Vanished Messenger by E. Phillips Oppenheim #4[vmsgrxxx.xxx] 1699
+Apr 1999 Dangerous Days, by Mary Roberts Rinehart [MRR #8] [ddaysxxx.xxx] 1693
+Sep 1998 The Valley of the Moon, by Jack London[London #49][vlymnxxx.xxx] 1449
+Jul 1998 Autobiography of Andrew Dickson White  Volume II  [2aadwxxx.xxx] 1370
+May 1998 Enemies of Books, by William Blades               [nmybkxxx.xxx] 1302
+Jan 1998 Penrod and Sam by Booth Tarkington [Tarkington #6][pnrdsxxx.xxx] 1158
+Sep 1997 The New Machiavelli, by H. G. Wells  [Wells #11]  [nmchvxxx.xxx] 1047
+Aug 1997 Bleak House, by Charles Dickens  [Dickens #33]    [blkhsxxx.xxx] 1023
+Jun 1997 The Voyage of the Beagle, by Charles Darwin [#1]  [vbglexxx.xxx]  944
+
+
+=-=-=-=[ 347 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Dec 2005 Helbeck of Bannisdale, Vol. II, Mrs. Humphry Ward [?hbn2xxx.xxx] 9442
+Dec 2005 Helbeck of Bannisdale, Vol. I., Mrs. Humphry Ward [?hbn1xxx.xxx] 9441
+
+Dec 2005 Adventures of Jimmie Dale, by F. L. Packard   [#3][?fajdxxx.xxx] 9440
+[Full title: The Further Adventures of Jimmie Dale]
+[Full author: Frank L. Packard]
+Dec 2005 Tales and Novels, Vol. IV, by Maria Edgeworth     [?tal4xxx.xxx] 9439
+  Contents:
+    Castle Rackrent
+    Essay On Irish Bulls
+    An Essay On The Noble Science Of Self-Justification
+    Ennui
+
+[The following (#9416-#9438) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Dec 2005 Audio: The Well-Beloved, Thomas Hardy             [wellbxxx.mp3] 9438C
+Dec 2005 Audio: Under the Greenwood Tree, Thomas Hardy     [ungwtxxx.mp3] 9437C
+Dec 2005 Audio: Two on a Tower, Thomas Hardy               [twtwrxxx.mp3] 9436C
+
+Dec 2005 Audio: The Trumpet-Major, Thomas Hardy            [trpmjxxx.mp3] 9435C
+Dec 2005 Audio: Time's Laughingstocks etc., Thomas Hardy   [tmslsxxx.mp3] 9434C
+Dec 2005 Audio: Tess of the d'Urbervilles, A Pure Woman    [tess1xxx.mp3] 9433C
+[Author:  Thomas Hardy]
+Dec 2005 Audio: Satires of Circumstance etc., Thomas Hardy [satcrxxx.mp3] 9432C
+Dec 2005 Audio: Romantic Adventures of a Milkmaid, T. Hardy[rmadvxxx.mp3] 9431C
+
+Dec 2005 Audio: Poems of the Past and the Present, T. Hardy[pmpstxxx.mp3] 9430C
+Dec 2005 Audio: A Pair of Blue Eyes, Thomas Hardy          [pbluexxx.mp3] 9429C
+Dec 2005 Audio: A Group of Noble Dames, Thomas Hardy       [nbldmxxx.mp3] 9428C
+Dec 2005 Audio: Return of the Native, Thomas Hardy         [nativxxx.mp3] 9427C
+Dec 2005 Audio: Moments of Vision, Thomas Hardy            [mntvsxxx.mp3] 9426C
+
+Dec 2005 Audio: The Mayor of Casterbridge, Thomas Hardy    [mayrcxxx.mp3] 9425C
+Dec 2005 Audio: Late Lyrics and Earlier, Thomas Hardy      [ltlr1xxx.mp3] 9424C
+Dec 2005 Audio: Life's Little Ironies etc., Thomas Hardy   [lfirnxxx.mp3] 9423C
+Dec 2005 Audio: A Laodicean, Thomas Hardy                  [laodcxxx.mp3] 9422C
+Dec 2005 Audio: Jude the Obscure, Thomas Hardy             [jude1xxx.mp3] 9421C
+
+Dec 2005 Audio: The Hand of Ethelberta, Thomas Hardy       [ethbrxxx.mp3] 9420C
+Dec 2005 Audio: The Dynasts, Thomas Hardy                  [dynstxxx.mp3] 9419C
+Dec 2005 Audio: Desperate Remedies, Thomas Hardy           [desrmxxx.mp3] 9418C
+Dec 2005 Audio: Far From the Madding Crowd, Thomas Hardy   [crowdxxx.mp3] 9417C
+Dec 2005 Audio: A Changed Man and Other Tales, Thomas Hardy[chgmnxxx.mp3] 9416C
+
+Dec 2005 Olaf the Glorious, by Robert Leighton             [olafgxxx.xxx] 9415
+[Subtitle: A Story of the Viking Age]
+[Also posted HTML - olafg10h.zip and olafg10h.htm]
+Dec 2005 Tales and Novels, Vol. V, by Maria Edgeworth      [?tal5xxx.xxx] 9414
+[Subtitle: Tales of a Fashionable Life]
+  Contents:
+    Manoeuvring
+    Almeria
+    Vivian
+Dec 2005 The Poetical Works Of Alexander Pope, Vol 1, Pope [?pop1xxx.xxx] 9413
+[Subtitle: With Memoir, Critical Dissertation, and Explanatory Notes by the
+ Rev. George Gilfillan (Ed.)]
+[Author: Alexander Pope]
+Dec 2005 A Woman Tenderfoot,byGrace Gallatin Seton-Thompson[?wtdfxxx.xxx] 9412
+Dec 2005 Legends Of The Gods, by E. A. Wallis Budge [#3]   [?egptxxx.xxx] 9411
+[Subtitle: The Egyptian Texts, edited with Translations]
+
+Dec 2005 Helen of the Old House, by Harold Bell Wright [#6][?hohsxxx.xxx] 9410
+Dec 2005 Five Thousand Dollars Reward, Frank Pinkerton [#3][ftdolxxx.xxx] 9409
+Dec 2005 To the Columbian Exposition, by J. S. Wisthaler   [?cexpxxx.xxx] 9408
+[Full title: By Water to the Columbian Exposition]
+[Full author: Johanna S. Wisthaler]
+Dec 2005 The Little Colonel, by Annie Fellows Johnston     [tlcolxxx.xxx] 9407
+Dec 2005 Government By The Brewers?, by Adolph Keitel      [bvbrwxxx.xxx] 9406
+
+Dec 2005 Book of Old English Ballads,George Wharton Edwards[?boebxxx.xxx] 9405
+[Introduction by Hamilton W. Mabie]
+Dec 2005 Malakand Field Force, by Winston S. Churchill     [mkdffxxx.xxx] 9404
+[Full title: The Story of the Malakand Field Force]
+[Subtitle: An Episode of Frontier War]
+Dec 2005 The Life and Works of Friedrich Schiller,C. Thomas[?lwfsxxx.xxx] 9403
+[Author's Full Name: Calvin Thomas]
+Dec 2005 Be Courteous, by Mrs. M. H. Maxwell               [bcrtsxxx.xxx] 9402
+[Subtitle: or, Religion, the True Refiner]
+Dec 2005 The Leopard Woman, by Stewart Edward White        [?lpdwxxx.xxx] 9401
+[Illustrated by W. H. D. Koerner]
+[Also posted: HTML in 8lpdw10h.htm; illustrated HTML in 8lpdw10h.zip]
+
+Nov 2005 Old English Plays, Vol. II, by Dodsley        [#2][?oep2xxx.xxx] 9400
+[Full title: A Select Collection of Old English Plays, Vol. II]
+[Full author: Robert Dodsley]
+  Contents:
+    The Interlude of Youth
+    Lusty Juventus
+    Jack Juggler
+    A Pretty Interlude, called Nice Wanton
+    The History of Jacob and Esau
+    The Disobedient Child
+    The Marriage of Wit and Science]
+Nov 2005 A Roman Lawyer in Jerusalem, by W. W. Story       [romanxxx.xxx] 9399
+[Note: First Century]
+Nov 2005 Gloria and Treeless Street, Annie Hamilton Donnell[gltstxxx.xxx] 9398
+[Also posted illustrated HTML - gltst10h.zip; and gltst10h.htm]
+Nov 2005 The Green Satin Gown, by Laura E. Richards        [?grstxxx.xxx] 9397
+  Contents:
+    The Green Satin Gown
+    Blue Egyptians
+    Little Benjamin
+    Don Alonzo
+    The Shed Chamber
+    Maine To The Rescue
+    The Scarlet Leaves
+[Also posted:  illustrated HTML in 8grst10h.zip; and HTML in 8grst10h.htm]
+Nov 2005 Atlantic Monthly, Vol. 5, No. 30, April, 1860     [?05a4xxx.xxx] 9396
+[Subtitle: A Magazine of Literature, Art, and Politics]
+[This is the 4th issue of Vol. 5.]
+[Author's Full Name:  Various]
+
+Nov 2005 Dorothy's Mystical Adventures in Oz, Robert Evans [doromxxx.xxx] 9395C
+Nov 2005 The Shih King, by James Legge               [JL#5][?shihxxx.xxx] 9394
+[Subtitle: From the Sacred Books of the East Vol. 3]
+[HTML version in 8shih10h.htm and 8shih10h.zip]
+Nov 2005 A Dish Of Orts, by George MacDonald               [?ortsxxx.xxx] 9393
+Nov 2005 Prelude in E Minor, Op. 28, No. 4, Frederik Chopin[fc284xxm.xxx] 9392
+[This is a musical score in the Coda file format, created with Finale]
+[Composer's full name: Fryderyk Franciszek Chopin]
+Nov 2005 Atlantic Monthly, Vol. 4, No. 25, November, 18[25][?04a5xxx.xxx] 9391
+[Full Title: Atlantic Monthly, Vol. 4, No. 25, November, 1859]
+[Author's Full Name:  Various]
+
+Nov 2005 Fifteen Years With The Outcast, by M. Roberts     [fywtoxxx.xxx] 9390
+[Author's Full Name: Mrs. Florence (Mother) Roberts]
+Nov 2005 Atlantic Monthly, Vol. V, No. 29, March 1860 [#29][?05a3xxx.xxx] 9389
+[Full title: The Atlantic Monthly, Volume V, Number 29, March, 1860]
+[Subtitle: A Magazine Of Literature, Art, And Politics]
+[Full author: Various]
+Nov 2005 The Red Flower, by Henry Van Dyke                 [?rdflxxx.xxx] 9388
+[Subtitle: Poems Written in War Time]
+Nov 2005 Theresa Marchmont, by Mrs Charles Gore            [?tmchxxx.xxx] 9387
+[Subtitle: or, The Maid of Honour] [Author AKA: Catherine Frances Moody Gore]
+Nov 2005 Girls: Faults and Ideals, by J.R. Miller          [gfltsxxx.xxx] 9386
+[Subtitle: A Familiar Talk, With Quotations From Letters]
+
+Nov 2005 The Incomplete Amorist, by E. Nesbit         [#12][?amorxxx.xxx] 9385
+Nov 2005 The Comrade In White, by W. H. Leathem            [cmwhtxxx.xxx] 9384
+[Introduction by Hugh Black]
+Nov 2005 Moni the Goat-Boy, by Johanna Spyri               [?monixxx.xxx] 9383
+[Tr.: Helen B. Dole] [Illustrations: Charles Copeland]
+[Also posted: HTML in 8moni10h.htm; Illustrated HTML in 8moni10h.zip]
+Nov 2005 Grandma's Memories, by Mary D. Brine              [grndmxxx.xxx] 9382
+[Also posted: Illustrated HTML in grndm10h.zip]
+Nov 2005 Atlantic Monthly, Vol. 4, No. 24, Oct. 1859, [#24][?04a4xxx.xxx] 9381
+[Full title: The Atlantic Monthly, Volume 4, No. 24, October 1859]
+[Full author: Various]
+
+Nov 2005 Nonsense Anthology, by Collected by Carolyn Wells [?nonsxxx.xxx] 9380
+Nov 2005 A Woman Intervenes, by Robert Barr                [?wminxxx.xxx] 9379
+Nov 2005 The Lone Wolf, by Louis Joseph Vance          [#2][?lwlfxxx.xxx] 9378
+[Subtitle: A Melodrama]
+Nov 2005 London Pride, by M. E. Braddon                [#3][?lprdxxx.xxx] 9377
+[Subtitle: Or When the World Was Younger]
+Nov 2005 The Forest, by Stewart Edward White               [?tfrsxxx.xxx] 9376
+[Also posted illustrated HTML - 8tfrs10h.zip;  and 8tfrs10h.htm]
+
+Nov 2005 Ausgewaehlte Fabeln, by Gotthold Ephraim Lessing  [?afblxxx.xxx] 9375
+[Language: German]
+Nov 2005 A Knight of the Nets, by Amelia E. Barr           [?kngtxxx.xxx] 9374
+Nov 2005 Pax Vobiscum, by Henry Drummond               [#2][?paxvxxx.xxx] 9373
+Nov 2005 Songs Out of Doors, by Henry Van Dyke             [?sngoxxx.xxx] 9372
+Nov 2005 The Praise of Folly, by Desiderius Erasmus    [#2][?eflyxxx.xxx] 9371
+[Tr.: John Wilson, 1668]
+
+Nov 2005 Tiverton Tales, by Alice Brown                    [?tvtlxxx.xxx] 9370
+Nov 2005 Der junge Gelehrte, by Gotthold Ephraim Lessing   [?jnggxxx.xxx] 9369
+[Subtitle: Ein Lustspiel in drei Aufzuegen] [Language: German]
+Nov 2005 Welsh Fairy Tales, by William Elliot Griffis  [#2][?wlshxxx.xxx] 9368
+Nov 2005 Meadow Grass, by Alice Brown                      [?meadxxx.xxx] 9367
+[Subtitle: Tales of New England Life]
+Nov 2005 Mary Olivier: A Life, by May Sinclair             [?molvxxx.xxx] 9366
+
+Nov 2005 Works Charles and Mary Lamb, Vol. 5, Ed. by Lucas [?lmb5xxx.xxx] 9365
+[Full title: The Works of Charles and Mary Lamb, Vol. 5]
+[Subtitle: The Letters Of Charles And Mary Lamb] [Ed.: E. V. Lucas]
+Nov 2005 Life in Mexico, by Frances Calderón De La Barca   [?lmexxxx.xxx] 9364
+[Introduction by Manuel Romero De Terreros Marques De San Francisco]
+Nov 2005 Best British Short Stories, Ed. O'Brien & Cournos [?bbssxxx.xxx] 9363
+[Full title: The Best British Short Stories of 1922]
+[Full author: Edward J. O'Brien and John Cournos, editors]
+Nov 2005 Birds of Prey, by M.E. Braddon                [#3][?preyxxx.xxx] 9362
+
+[The following (#9336-#9361) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Nov 2005 Audio: Youth, Joseph Conrad                       [youthxxx.mp3] 9361C
+Nov 2005 Audio: Within the Tides, Joseph Conrad            [wthntxxx.mp3] 9360C
+Nov 2005 Audio: Under Western Eyes, Joseph Conrad          [wstysxxx.mp3] 9359C
+Nov 2005 Audio: Victory, Joseph Conrad                     [vcty1xxx.mp3] 9358C
+Nov 2005 Audio: Typhoon, Joseph Conrad                     [typhnxxx.mp3] 9357C
+Nov 2005 Audio: 'Twixt Land & Sea, Joseph Conrad           [twxlsxxx.mp3] 9356C
+Nov 2005 Audio: The Rescue, Joseph Conrad                  [trscuxxx.mp3] 9355C
+Nov 2005 Audio: Tales of Unrest, Joseph Conrad             [tnrstxxx.mp3] 9354C
+Nov 2005 Audio: The Mirror of the Sea, Joseph Conrad       [tmotsxxx.mp3] 9353C
+Nov 2005 Audio: End of the Tether, Joseph Conrad           [tethrxxx.mp3] 9352C
+Nov 2005 Audio: The Secret Sharer, Joseph Conrad           [ssharxxx.mp3] 9351C
+Nov 2005 Audio: The Shadow Line, Joseph Conrad             [shlinxxx.mp3] 9350C
+Nov 2005 Audio: A Set of Six, Joseph Conrad                [seto6xxx.mp3] 9349C
+Nov 2005 Audio: Some Reminiscences, Joseph Conrad          [rmnisxxx.mp3] 9348C
+Nov 2005 Audio: An Outcast of the Islands, Joseph Conrad   [outcixxx.mp3] 9347C
+Nov 2005 Audio: Notes on Life and Letters, Joseph Conrad   [ntlflxxx.mp3] 9346C
+Nov 2005 Audio: Nostromo, Joseph Conrad                    [nstrmxxx.mp3] 9345C
+Nov 2005 Audio: Almayer's Folly, Joseph Conrad             [lmyerxxx.mp3] 9344C
+Nov 2005 Audio: Heart of Darkness, Joseph Conrad           [hdarkxxx.mp3] 9343C
+Nov 2005 Audio: Falk, Joseph Conrad                        [falk1xxx.mp3] 9342C
+Nov 2005 Audio: Chance, Joseph Conrad                      [chancxxx.mp3] 9341C
+Nov 2005 Audio: The Arrow of Gold, Joseph Conrad           [argldxxx.mp3] 9340C
+Nov 2005 Audio: A Personal Record, Joseph Conrad           [aprjcxxx.mp3] 9339C
+Nov 2005 Audio: The Secret Agent, Joseph Conrad            [agentxxx.mp3] 9338C
+Nov 2005 Audio: Amy Foster, Joseph Conrad                  [afostxxx.mp3] 9337C
+Nov 2005 Audio: To-morrow, Joseph Conrad                   [2mrowxxx.mp3] 9336C
+
+Nov 2005 Fabeln und Erzaehlungen, by Christian F. Gellert  [?fablxxx.xxx] 9335
+[Full author: Christian Fuerchtegott Gellert]
+[Language: German]
+Nov 2005 The Spectator, Volume 1, by Addison and Steele    [?spt1xxx.xxx] 9334
+[Full author: Joseph Addison and Richard Steele]
+[Volume 1 of 3, includes issues 1-202]
+[Also posted: HTML in 8spt110h.htm; illustrated HTML in 8spt110h.zip]
+Nov 2005 Johnny Bear, by E. T. Seton                       [?jbarxxx.xxx] 9333
+[Subtitle:And Other Stories From Lives of the Hunted]
+  Contents:
+    Johnny Bear
+    Tito: The Story Of The Coyote That Learned How
+    Why The Chickadee Goes Crazy Once A Year
+Nov 2005 Georgie's Present, by Miss Brightwell             [gprstxxx.xxx] 9332
+[Subtitle: Tales of Newfoundland]
+Nov 2005 The Hunted Outlaw, by Anonymous                   [?houtxxx.xxx] 9331
+[Subtitle: Donald Morrison, The Canadian Rob Roy]
+
+Nov 2005 Biography of a Grizzly, by Ernest Seton-Thompson  [?grizxxx.xxx] 9330
+Nov 2005 The Widow O'Callaghan's Boys,byGulielma Zollinger [twocbxxx.xxx] 9329
+[HTML version in twocb10h.htm and twocb10h.zip]
+[HTML zip file includes 21 excellent images]
+Nov 2005 Cleveland Past and Present, by Maurice Joblin     [?clevxxx.xxx] 9328
+[Subtitle: Its Representative Men Comprising Biographical Sketches of
+ Pioneer Settlers and Prominent Citizens]
+[Also posted HTML - 8clev10h.zip and 8clev10h.htm]
+Nov 2005 Die zaertlichen Schwestern,by Christian F. Gellert[?zschxxx.xxx] 9327
+[Full author: Christian Fuerchtegott Gellert] [Language: German]
+Nov 2005 Gespraeche fuer Freimaurer, by Gotthold E. Lessing[?gespxxx.xxx] 9326
+[Full author: Gotthold Ephraim Lessing] [Language: German]
+
+Nov 2005 Der Freigeist, by Gotthold Ephraim Lessing        [?frigxxx.xxx] 9325
+[Language: German]
+Nov 2005 Roden's Corner, by Henry Seton Merriman      [#10][?rodnxxx.xxx] 9324
+Nov 2005 Foliage:  Various Poems, by William H. Davies     [folgexxx.xxx] 9323
+Nov 2005 Nation in a Nutshell, by George Makepeace Towle   [?nnutxxx.xxx] 9322
+Nov 2005 Tales And Novels, Vol. 8, by Maria Edgeworth [#11][?tal8xxx.xxx] 9321
+  Contents:
+    Patronage (concluded)
+    Comic Dramas: Love and Law
+    Leonora
+    Letters of Julia and Caroline
+
+Nov 2005 Doctor of the Old School, Complete, by Ian Mclaren[drmc6xxx.xxx] 9320
+Nov 2005 A Doctor of the Old School, Vol. 5, by Ian Mclaren[drmc5xxx.xxx] 9319
+Nov 2005 A Doctor of the Old School, Vol. 4, by Ian Mclaren[drmc4xxx.xxx] 9318
+Nov 2005 A Doctor of the Old School, Vol. 3, by Ian Mclaren[drmc3xxx.xxx] 9317
+Nov 2005 A Doctor of the Old School, Vol. 2, by Ian Mclaren[drmc2xxx.xxx] 9316
+Nov 2005 A Doctor of the Old School, Vol. 1, by Ian Mclaren[drmc1xxx.xxx] 9315
+[Illustrated by Frederick C. Gordon]
+[Also posted illustrated HTML - drmc?10h.zip only]
+[Complete html file 8mb; the split files about 2mb each]
+
+Nov 2005 The Calling Of Dan Matthews, by Harold Bell Wright[clgdmxxx.xxx] 9314
+Nov 2005 Old Greek Folk Stories Told Anew, by J. Peabody   [?ogrkxxx.xxx] 9313
+[Author's Full Name: Josephine Preston Peabody]
+Nov 2005 From Whose Bourne, by Robert Barr                 [?fwbrxxx.xxx] 9312
+Nov 2005 Hetty's Strange History, by Anonymous             [?hetyxxx.xxx] 9311
+
+Nov 2005 Casanova's Homecoming, by Arthur Schnitzler       [?cshmxxx.xxx] 9310
+[Tr.: Eden and Cedar Paul]
+Nov 2005 In a Steamer Chair And Other Stories, Robert Barr [?stchxxx.xxx] 9309
+  Contents:
+    In A Steamer Chair
+    Mrs Tremain
+    Share And Share Alike
+    An International Bow
+    A Ladies' Man
+    A Society For The Reformation Of Poker Players
+    The Man Who Was Not On The Passenger List
+    The Terrible Experience Of Plodkins
+    A Case Of Fever
+    How The Captain Got His Steamer Out
+    My Stowaway
+    The Purser's Story
+    Miss Mcmillan
+Nov 2005 NY at Louisiana Purch. Expo, by DeLancey M. Ellis [?nylexxx.xxx] 9308
+[Full title: New York at the Louisiana Purchase Exposition, St. Louis 1904]
+[Subtitle: Report of the New York State Commission]
+Nov 2005 Life: Its True Genesis, by R. W. Wright           [?litgxxx.xxx] 9307
+[7-bit version in 7litg10.txt/.zip; Unicode version in 8litg10u.txt/.zip]
+[HTML version in 8litg10h.htm and 8litg10h.zip]
+Nov 2005 Aesthetic as Science of Expression,Benedetto Croce[?asthxxx.xxx] 9306
+[Full title: Aesthetic as Science of Expression and General Linguistic]
+[Translated from the Italian by Douglas Ainslie]
+
+Nov 2005 One Day's Courtship, by Robert Barr               [?dcrtxxx.xxx] 9305
+Nov 2005 Initiation into Philosophy, by Emile Faguet   [#2][?inphxxx.xxx] 9304
+[Translated from the French by Sir Homer Gordon]
+Nov 2005 Post-Augustan Poetry, by H.E. Butler              [?pagpxxx.xxx] 9303
+[Subtitle: From Seneca to Juvenal]
+Nov 2005 Nana a Milano, by Cletto Arrighi                  [?nnmlxxx.xxx] 9302
+[Author AKA: Carlo Righetti]
+[Language: Italian]
+Nov 2005 Ranald Bannerman's Boyhood, by George MacDonald   [?bboyxxx.xxx] 9301
+[Also posted illustrated HTML - 8bboy10h.zip; and 8bboy10h.htm]
+
+Nov 2005 Jennie Baxter, Journalist, by Robert Barr         [?bxtrxxx.xxx] 9300
+Nov 2005 Italian Letters, Vols. I and II,William Godwin[#3][?itltxxx.xxx] 9299
+[Subtitle: The History of the Count de St. Julian]
+Nov 2005 Life and Death of Harriett Frean, by May Sinclair [?frenxxx.xxx] 9298
+Nov 2005 The Orange-Yellow Diamond, by J. S. Fletcher  [#2][?orngxxx.xxx] 9297
+Nov 2005 Clarissa, Volume 1 of 9, by Samuel Richardson [#3][clar1xxx.xxx] 9296
+[Subtitle: History of a Young Lady]
+
+Nov 2005 A Night Out, by Edward Peple                      [ntoutxxx.xxx] 9295
+[Also posted: HTML in ntout10h.htm/.zip; one image in ntout10h.zip]
+Nov 2005 Exploring Expedition to the Rockies, by Fremont   [?exprxxx.xxx] 9294
+[Full title: The Exploring Expedition to the Rocky Mountains, Oregon and
+ California]
+[Subtitle: To Which Is Added a Description of the Physical Geography of
+ California, with Recent Notices of the Gold Region from the Latest and Most
+ Authentic Sources]
+[Full author: Brevet Col. J.C. Fremont]
+[Also posted: HTML in 8expr10h.htm/.zip]
+
+[The following (#9268-#9293) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Nov 2005 Audio: Early Short Fiction of Edith Wharton       [whrt1xxx.mp3] 9293C
+[Author:  Edith Wharton]
+Nov 2005 Audio: The Valley Of Decision, Edith Wharton      [vldcnxxx.mp3] 9292C
+Nov 2005 Audio: The Reef, Edith Wharton                    [treefxxx.mp3] 9291C
+
+Nov 2005 Audio: Touchstone, Edith Wharton                  [touchxxx.mp3] 9290C
+Nov 2005 Audio: Tales Of Men And Ghosts, Edith Wharton     [tlmghxxx.mp3] 9289C
+Nov 2005 Audio: Ethan Frome, Edith Wharton                 [thnfrxxx.mp3] 9288C
+Nov 2005 Audio: The Glimpses of the Moon, Edith Wharton    [tgotmxxx.mp3] 9287C
+Nov 2005 Audio: The Descent of Man & Other Stories, Wharton[tdmosxxx.mp3] 9286C
+[Author: Edith Wharton]
+
+Nov 2005 Audio: Summer, Edith Wharton                      [summrxxx.mp3] 9285C
+Nov 2005 Audio: Sanctuary, Edith Wharton                   [snctrxxx.mp3] 9284C
+Nov 2005 Audio: Artemis to Actaeon and Other Verses,Wharton[rtmstxxx.mp3] 9283C
+Nov 2005 Audio: Madame de Treymes, Edith Wharton           [mdmdtxxx.mp3] 9282C
+Nov 2005 Audio: The Hermit And The Wild Woman, E. Wharton  [hrmwwxxx.mp3] 9281C
+
+Nov 2005 Audio: House of Mirth, Edith Wharton              [hmirtxxx.mp3] 9280C
+Nov 2005 Audio: Fighting France, Edith Wharton             [fghtnxxx.mp3] 9279C
+Nov 2005 Audio: Bunner Sisters, Edith Wharton              [bunnrxxx.mp3] 9278C
+Nov 2005 Audio: Crucial Instances, Edith Wharton           [7crcixxx.mp3] 9277C
+
+Nov 2005 Audio: Three Sermons, Three Prayers Jonathan Swift[trsm1xxx.mp3] 9276C
+
+Nov 2005 Audio: A Tale of a Tub, Jonathan Swift            [tltb1xxx.mp3] 9275C
+Nov 2005 Audio: The Journal to Stella, Jonathan Swift      [stllaxxx.mp3] 9274C
+Nov 2005 Audio: A Modest Proposal, Jonathan Swift          [mdprpxxx.mp3] 9273C
+Nov 2005 Audio: Gulliver's Travels, Jonathan Swift         [gltrvxxx.mp3] 9272C
+Nov 2005 Audio: The Bickerstaff-Partridge Papers, J. Swift [bstafxxx.mp3] 9271C
+
+Nov 2005 Audio: The Battle of the Books, Jonathan Swift    [batbkxxx.mp3] 9270C
+Nov 2005 Audio: Typee, Herman Melville                     [typeexxx.mp3] 9269C
+Nov 2005 Audio: Omoo, Herman Melville                      [omoosxxx.mp3] 9268C
+
+Nov 2005 Chip, of the Flying U, by B. M. Bower        [#13][chpfuxxx.xxx] 9267
+Nov 2005 Scientific American Supplement, No. 447,by Various[?0447xxx.xxx] 9266
+[Title: Scientific American Supplement, Vol. XVIII, No. 447, July 26, 1884]
+[Also posted: illustrated HTML in 8044710h.zip only; HTML in 8044710h.htm]
+
+Nov 2005 Atlantic Monthly, Vol. IV, No. 22, Aug., 1859[#22][?04a2xxx.xxx] 9265
+[Full Title: The Atlantic Monthly, Vol. IV, No. 22, Aug., 1859]
+[Subtitle: A Magazine of Literature, Art, and Politics] [Author: Various]
+Nov 2005 Vand- og stenhoejsplanter, by G.N. Brandt (red.)  [?vastxxx.xxx] 9264
+[Full title: Vand- og stenhoejsplanter en vejledning for havevenner]
+[Language: Danish]
+Nov 2005 In the Midst of Alarms, by Robert Barr            [?mdlrxxx.xxx] 9263
+Nov 2005 Le corricolo, by Alexandre Dumas                  [?lcrrxxx.xxx] 9262
+[Language: French]
+Nov 2005 Les grandes dames, by Arsene Houssaye             [?grdmxxx.xxx] 9261
+[Language: French]
+
+Nov 2005 Prometheus, by Johann Wolfgang Goethe             [?prmtxxx.xxx] 9260
+[Subtitle: Dramatisches Fragment] [Language: German]
+Nov 2005 Charlotte's Inheritance, by M. E. Braddon     [#4][?inhrxxx.xxx] 9259
+Nov 2005 The Miraculous Pitcher, by N. Hawthorne      [#85][haw85xxx.xxx] 9258
+[From "A Wonder Book for Girls and Boys", by Nathaniel Hawthorne]
+Nov 2005 The Three Gold Apples, by N. Hawthorne       [#84][haw84xxx.xxx] 9257
+[From "A Wonder Book for Girls and Boys", by Nathaniel Hawthorne]
+Nov 2005 The Paradise for Children, by N. Hawthorne   [#83][haw83xxx.xxx] 9256
+[From "A Wonder Book for Girls and Boys", by Nathaniel Hawthorne]
+
+Nov 2005 The Gorgon's Head, by Nathaniel Hawthorne    [#82][haw82xxx.xxx] 9255
+[From "A Wonder Book For Girls And Boys", by Nathaniel Hawthorne]
+Nov 2005 Biographical Stories, by Nathaniel Hawthorne [#81][haw81xxx.xxx] 9254
+[From "True Stories From History And Biography" by Nathaniel Hawthorne]
+  Contains:
+    Benjamin West
+    Sir Isaac Newton
+    Samuel Johnson
+    Oliver Cromwell
+    Benjamin Franklin
+    Queen Christina]
+Nov 2005 Browne's Folly, by Nathaniel Hawthorne       [#80][haw80xxx.xxx] 9253
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+Nov 2005 Time's Portraiture, by Nathaniel Hawthorne   [#79][haw79xxx.xxx] 9252
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+Nov 2005 An Old Woman's Tale, by Nathaniel Hawthorne  [#78][haw78xxx.xxx] 9251
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+
+Nov 2005 A Book of Autographs, by Nathaniel Hawthorne [#77][haw77xxx.xxx] 9250
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+Nov 2005 Dr Buillivant, by Nathaniel Hawthorne        [#76][haw76xxx.xxx] 9249
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+Nov 2005 Other Tales and Sketches, by N. Hawthorne    [#75][haw75xxx.xxx] 9248
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+  Contains:
+    My Visit To Niagara
+    The Antique Ring
+    Graves And Goblins]
+Nov 2005 The Journal Of A Solitary Man, by Hawthorne  [#74][haw74xxx.xxx] 9247
+[From "The Doliver Romance and Other Pieces", by Nathaniel Hawthorne]
+Nov 2005 Sketches From Memory, by Nathaniel Hawthorne [#73][haw73xxx.xxx] 9246
+[From "The Doliver Romance And Other Pieces", by Nathaniel Hawthorne]
+  Contains:
+    I.   The Inland Port
+    II.  Rochester
+    III. A Night Scene]
+
+Nov 2005 Biographical Sketches, by N. Hawthorne       [#72][haw72xxx.xxx] 9245
+[From "Fanshawe And Other Pieces" by Nathaniel Hawthorne]
+  Contains:
+    Mrs. Hutchinson
+    Sir William Phips
+    Thomas Green Fessenden
+    Jonathan Cilley]
+Nov 2005 Little Daffydowndilly, by N. Hawthorne       [#71][haw71xxx.xxx] 9244
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 The Wives of the Dead,  by N. Hawthorne      [#70][haw70xxx.xxx] 9243
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Old Ticonderoga, by Nathaniel Hawthorne      [#69][haw69xxx.xxx] 9242
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 John Inglefield's Thanksgiving by Hawthorne  [#68][haw68xxx.xxx] 9241
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+
+Nov 2005 The Man of Adamant, by Nathaniel Hawthorne   [#67][haw67xxx.xxx] 9240
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Old News, by Nathaniel Hawthorne             [#66][haw66xxx.xxx] 9239
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Sylph Etherege, by Nathaniel Hawthorne       [#65][haw65xxx.xxx] 9238
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 A Bell's Biography, by Nathaniel Hawthorne   [#64][haw64xxx.xxx] 9237
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Main Street, by Nathaniel Hawthorne          [#63][haw63xxx.xxx] 9236
+[From "The Snow Image And Other Twice Told Tales", by Nathaniel Hawthorne]
+
+Nov 2005 A Virtuoso's Collection, by N. Hawthorne     [#62][haw62xxx.xxx] 9235
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 The Old Apple Dealer, by N. Hawthorne        [#61][haw61xxx.xxx] 9234
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Sketches from Memory, by N. Hawthorne        [#60][haw60xxx.xxx] 9233
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Passages from a Relinquished Work, Hawthorne [#59][haw59xxx.xxx] 9232
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Earth's Holocaust, by Nathaniel Hawthorne    [#58][haw58xxx.xxx] 9231
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+
+Nov 2005 P's Correspondence, by Nathaniel Hawthorne   [#57][haw57xxx.xxx] 9230
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 The Intelligence Office, by N. Hawthorne     [#56][haw56xxx.xxx] 9229
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Christmas Banquet, by Nathaniel Hawthorne    [#55][haw55xxx.xxx] 9228
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 New Adam and Eve, by Nathaniel Hawthorne     [#54][haw54xxx.xxx] 9227
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 The Hall of Fantasy, by Nathaniel Hawthorne  [#53][haw53xxx.xxx] 9226
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+
+Nov 2005 Monsieur du Miroir, by Nathaniel Hawthorne   [#52][haw52xxx.xxx] 9225
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Buds and Bird Voices, by Nathaniel Hawthorne [#51][haw51xxx.xxx] 9224
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 Fire Worship, by Nathaniel Hawthorne         [#50][haw50xxx.xxx] 9223
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 A Select Party, by Nathaniel Hawthorne       [#49][haw49xxx.xxx] 9222
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+Nov 2005 The Old Manse, by Nathaniel Hawthorne        [#48][haw48xxx.xxx] 9221
+[From the collection "Mosses From An Old Manse" by Nathaniel Hawthorne]
+
+
+Oct 2005 Klein Zaches, genannt Zinnober,by E.T.A. Hoffmann [?klnzxxx.xxx] 9200
+[Subtitle: Ein Maerchen] [Language: German]
+Oct 2005 Monism, by Ernst Haeckel                      [#4][?monoxxx.xxx] 9199
+[Full title: Monism as Connecting Religion and Science] [Subtitle: A Man of
+Science] [Tranlator: J. Gilchrist]
+Oct 2005 The Complete Angler 1653, by Isaak Walton     [#2][?tcngxxx.xxx] 9198
+(See also #683, a more modern version)
+Oct 2005 English Villages, by P. H. Ditchfield             [?vilgxxx.xxx] 9197
+[Also posted illustrated HTML - 8vilg10h.zip; and 8vilg10h.htm]
+Oct 2005 The Clockmaker, by Thomas Chandler Haliburton [#6][clckmxxa.xxx] 9196
+
+Oct 2005 The Slave Of The Lamp, by Henry Seton Merriman    [?sllpxxx.xxx] 9195
+Oct 2005 The Second Deluge, by Garrett P. Serviss          [?2dlgxxx.xxx] 9194
+Oct 2005 The Angel of Lonesome Hill, by Frederick Landis   [anglhxxx.xxx] 9193
+[Subtitle: A Story Of A President]
+Oct 2005 The Channings:  A Story, by Mrs. Henry Wood       [?chgsxxx.xxx] 9192
+[Author AKA: Ellen Wood]
+
+Oct 2005 Stephen Archer and Other Tales,by George MacDonald[?stchxxx.xxx] 9191
+
+Oct 2005 The Greater Inclination, Edith Wharton            [?grclxxx.xxx] 9190
+Oct 2005 Henry Dunbar, by M. E. Braddon                    [?dunbxxx.xxx] 9189
+[Subtitle: A Novel]
+[Also posted HTML - 8dunb10h.zip and 8dunb10h.htm]
+Oct 2005 Aboriginal American Authors, by Daniel G. Brinton [?abamxxx.xxx] 9188
+[Also posted HTML - 8abam10h.zip and 8abam10h.htm]
+Oct 2005 Minna von Barnhelm, by Gotthold Ephraim Lessing   [?mnbhxxx.xxx] 9187
+[Language: German]
+Oct 2005 Nathan der Weise, by Gotthold Epraim Lessing      [?nthnxxx.xxx] 9186
+[Language: German]
+
+Oct 2005 Mystery of Murray Davenport, by Robert N. Stephens[?murrxxx.xxx] 9185
+[Full author: Robert Neilson Stephens]
+Oct 2005 Spirit of St. Francis de Sales, Jean Pierre Camus [?franxxx.xxx] 9184
+Oct 2005 Wilfrid Cumbermede, by George MacDonald           [?wilfxxx.xxx] 9183
+Oct 2005 Villette, by Charlotte Bronte                 [#4][?villxxx.xxx] 9182
+Oct 2005 Die Ahnfrau, by Franz Grillparzer            [#15][?frauxxx.xxx] 9181
+[Language: German]
+
+Oct 2005 Life Of Johnson, Vol. 3,Boswell, ed. Birkbeck Hill[?jhn3xxx.xxx] 9180
+[Full title: The Life Of Johnson, Volume 3 of 6]
+[Including Boswell's Journal Of A Tour To The Hebrides  And Johnson's
+ Diary Of A Journey Into North Wales]
+Oct 2005 The Bride of the Mistletoe, by James Lane Allen   [?bridxxx.xxx] 9179
+Oct 2005 Japanischer Fruehling, by Hans Bethge             [?jpfrxxx.xxx] 9178
+[Subtitle: Nachdichtungen Japanischer Lyrik] [Language: German]
+Oct 2005 The Royal Game of the Ombre, by Anonymous         [ombrexxx.xxx] 9177
+[Subtitle: Written At the Request of divers Honourable Persons--1665]
+Oct 2005 Queen Mary and Harold, by Alfred Lord Tennyson[#7][mrhldxxx.xxx] 9176
+  Contents:
+    Queen Mary: A Drama
+    Harold: A Drama
+
+Oct 2005 Art Of Poetry An Epistle To The Pisos, by Horace  [?artpxxx.xxx] 9175
+[Subtitle: Q. Horatii Flacci Epistola Ad Pisones, De Arte Poetica]
+[Translated From Horace, with Notes By George Colman--1783]
+[Language: Latin, French and English]
+Oct 2005 Bay State Monthly, Volume 1, Issue 1, by Various  [b0101xxx.xxx] 9174
+[Subtitle: A Massachusetts Magazine of Literature, History, Biography,
+ And State Progress]
+[Also posted illustrated HTML - b010110h.zip;  and b010110h.htm]
+Oct 2005 Youth: Its Education, by G. Stanley Hall          [?yuthxxx.xxx] 9173
+[Full title: Youth: Its Education, Regimen, and Hygiene]
+Oct 2005 Study of Association in Insanity, Grace Helen Kent[?insnxxx.xxx] 9172
+[Additional Author: A.J. Rosanoff]
+Oct 2005 Slavery Ordained of God,by Rev. Fred. A. Ross, D.D[?slavxxx.xxx] 9171
+[Also posted HTML - 8slav10h.zip and 8slav10h.htm]
+
+Oct 2005 Three Cities Trilogy, Complete, by Emile Zola[#36][ztrilxxx.xxx] 9170
+[Includes: Lourdes, #8516; Rome, #8726, and Paris, #9169][3.8 mb]
+Oct 2005 Three Cities Trilogy: Paris, Complete,  Zola [#35][pari6xxx.xxx] 9169
+Oct 2005 Three Cities: Paris, Vol. 5, by Emile Zola   [#34][pari5xxx.xxx] 9168
+Oct 2005 Three Cities: Paris, Vol. 4, by Emile Zola   [#33][pari4xxx.xxx] 9167
+Oct 2005 Three Cities: Paris, Vol. 3, by Emile Zola   [#32][pari3xxx.xxx] 9166
+Oct 2005 Three Cities: Paris, Vol. 2, by Emile Zola   [#31][pari2xxx.xxx] 9165
+Oct 2005 Three Cities: Paris, Vol. 1, by Emile Zola   [#30][pari1xxx.xxx] 9164
+[Full title: The Three Cities Trilogy: Paris]
+
+Oct 2005 Scientific American Supplement, No. 417,by Various[?0417xxx.xxx] 9163
+[Title: Scientific American Supplement. Vol. XVI, No. 417., December 29,1883]
+[Also posted illustrated HTML - 8041710h.zip;  and 8041710h.htm]
+Oct 2005 Becket and other plays,by Alfred Lord Tennyson[#7][?beckxxx.xxx] 9162
+  Contents:
+    Becket
+    The Cup
+    The Falcon
+    The Promise Of May
+Oct 2005 Comedy of Marriage & Other Tales, Maupassant [#23][?cmarxxx.xxx] 9161
+[Full author: Guy De Maupassant]
+  Contents:
+    La Paix Du MTnage
+    Musotte
+    Addenda
+    The Lancer's Wife
+    Hautot Senior And Hautot Junior
+    No Quarter
+    The Orphan
+    A Lively Friend
+    The Blind Man
+    The Impolite Sex
+    The Cake
+    The Corsican Bandit
+    The Duel
+
+Oct 2005 Die Erziehung des Menschengeschlechts, Lessing[#9][?mensxxx.xxx] 9160
+[Full author: Gotthold Ephraim Lessing]
+[Language: German]
+Oct 2005 Philotas, by Gotthold Ephraim Lessing         [#8][?phtsxxx.xxx] 9159
+[Language: German]
+Oct 2005 Fabeln und Erzaehlungen, Gotthold Eph. Lessing[#7][?fblnxxx.xxx] 9158
+[Full author: Gotthold Ephraim Lessing]
+[Language: German]
+Oct 2005 Miss Sara Sampson, by Gotthold Ephraim Lessing[#6][?saraxxx.xxx] 9157
+[Language: German]
+Oct 2005 Life and Remains of John Clare, by J. L. Cherry   [lfremxxx.xxx] 9156
+[Subtitle: "The Northamptonshire Peasant Poet"]
+  Contents:
+    Letters From His Friends And Contemporaries,
+    Extracts From His Diary,
+    Prose Fragments, Old Ballads (Collected By Clare)]
+
+Oct 2005 Heather and Snow, by George MacDonald             [hthsnxxx.xxx] 9155
+[Also posted HTML - hthsn10h.zip and hthsn10h.htm]
+Oct 2005 Salted With Fire, by George MacDonald             [sltfrxxx.xxx] 9154
+Oct 2005 History of Louisisana, by Le Page Du Pratz        [?lsnaxxx.xxx] 9153
+[Subtitle: Or Of The Western Parts Of Virginia And Carolina: Containing
+ A Description Of The Countries That Lie On Both Sides Of The River
+ Missisippi: With An Account Of The Settlements, Inhabitants, Soil, Climate,
+ And Products.] [Translated from the French; Tr. Unknown]
+[Also posted illustrated HTML - 8lsna10h.zip; and 8lsna10h.htm]
+Oct 2005 Imogen, by William Godwin                         [imognxxx.xxx] 9152
+[Subtitle: A Pastoral Romance]
+[Also posted HTML - imogn10h.zip and imogn10h.htm]
+Oct 2005 Ruggles of Red Gap, by Harry Leon Wilson          [?rgrgxxx.xxx] 9151
+
+Oct 2005 Dick Sands the Boy Captain, by Jules Verne        [8sandxxh.xxx] 9150
+[Tr.: Ellen E. Frewer]
+[Note:  Posted in HTML only - 8sand10h.zip and 8sand10h.htm]
+Oct 2005 The Gray Dawn, by Stewart Edward White            [?gdwnxxx.xxx] 9149
+Oct 2005 Principal Navigations, V7, by Richard Hakluyt[#10][?hk07xxx.xxx] 9148
+[Full title: The Principal Navigations, Voyages, Traffiques, and
+ Discoveries of The English Nation, v. 7]
+[Subtitle: England's Naval Exploits Against Spain]
+
+
+[The following entries (#9113-#9147) are Computer-generated audio eBooks;
+ each are comprised of multiple .mp3 files, and have corresponding
+ *index.html and *readme.txt files.]
+
+Oct 2005 Audio: Moby Dick, by Herman Melville              [mobyxxxx.mp3] 9147C
+Oct 2005 Audio: I and my Chimney, Herman Melville          [chmnyxxx.mp3] 9146C
+
+Sep 2005 Audio: White Fang, Jack London                    [wtfngxxx.mp3] 9145C
+Sep 2005 Audio: War of the Classes, Jack London            [wrclsxxx.mp3] 9144C
+Sep 2005 Audio: The Valley of the Moon, Jack London        [vlymnxxx.mp3] 9143C
+Sep 2005 Audio: The Red One, Jack London                   [tred1xxx.mp3] 9142C
+Sep 2005 Audio: The People of the Abyss, Jack London       [tpotaxxx.mp3] 9141C
+Sep 2005 Audio: Tales of the Fish Patrol, Jack London      [totfpxxx.mp3] 9140C
+Sep 2005 Audio: The Strength of the Strong, Jack London    [sstrgxxx.mp3] 9139C
+Sep 2005 Audio: The Son of the Wolf, Jack London           [snwlfxxx.mp3] 9138C
+Sep 2005 Audio: Smoke Bellew, Jack London                  [smkblxxx.mp3] 9137C
+Sep 2005 Audio: Revolution and Other Essays, Jack London   [rvlt1xxx.mp3] 9136C
+Sep 2005 Audio: The Night-Born, Jack London                [ntbrnxxx.mp3] 9135C
+Sep 2005 Audio: On the Makaloa Mat and Island Tales, London[mklmtxxx.mp3] 9134C
+Sep 2005 Audio: Moon-Face and Other Stories, Jack London   [mfacexxx.mp3] 9133C
+Sep 2005 Audio: Martin Eden, Jack London                   [medenxxx.mp3] 9132C
+Sep 2005 Audio: Michael, Brother of Jerry, Jack London     [mcjerxxx.mp3] 9131C
+Sep 2005 Audio: The Little Lady of the Big House, London   [ltlbhxxx.mp3] 9130C
+Sep 2005 Audio: Lost Face, Jack London                     [lstfcxxx.mp3] 9129C
+Sep 2005 Audio: Love of Life And Other Stories, Jack London[llifexxx.mp3] 9128C
+Sep 2005 Audio: Tales of the Klondyke, Jack London         [klndkxxx.mp3] 9127C
+Sep 2005 Audio: Jerry of the Islands, Jack London          [jrislxxx.mp3] 9126C
+Sep 2005 Audio: John Barleycorn, Jack London               [jbarlxxx.mp3] 9125C
+Sep 2005 Audio: The Jacket, Jack London                    [jaketxxx.mp3] 9124C
+Sep 2005 Audio: The Iron Heel, Jack London                 [irnhlxxx.mp3] 9123C
+Sep 2005 Audio: The House of Pride & Other Tales of Hawaii [hsprdxxx.mp3] 9122C
+Sep 2005 Audio: The Human Drift, Jack London               [hmndrxxx.mp3] 9121C
+Sep 2005 Audio: When God Laughs and Other Stories, London  [gdlghxxx.mp3] 9120C
+Sep 2005 Audio: The Faith of Men, Jack London              [fthmnxxx.mp3] 9119C
+Sep 2005 Audio: The Mutiny of the "Elsinore", Jack London  [elsnrxxx.mp3] 9118C
+Sep 2005 Audio: The Sea Wolf, Jack London                  [cwolfxxx.mp3] 9117C
+Sep 2005 Audio: The Cruise of the Snark, Jack London       [crsnkxxx.mp3] 9116C
+Sep 2005 Audio: The Call of the Wild, Jack London          [callwxxx.mp3] 9115C
+Sep 2005 Audio: Burning Daylight, Jack London              [bdlitxxx.mp3] 9114C
+Sep 2005 Audio: Before Adam, Jack London                   [badamxxx.mp3] 9113C
+
+Oct 2005 The Dare Boys of 1776, by Stephen Angus Cox       [drbysxxx.xxx] 9112
+[Also posted: HTML in drbys10h.htm/.zip; XML in drbys10x.zip only]
+
+
+
+Oct 2005 Die Juden, by Gotthold Ephraim Lessing            [?djdnxxx.xxx] 9110
+[Language: German]
+Oct 2005 The Project Gutenberg FAQ 2002, by Jim Tinsley    [pgf2002x.xxx] 9109
+[Also posted HTML, zipped only, pgf2002h.zip]
+Oct 2005 Emilia Galotti, by Gotthold Ephraim Lessing       [?mlglxxx.xxx] 9108
+[Language: German]
+Oct 2005 Tales & Novels, Vol. IX, by Maria Edgeworth  [#10][?tal9xxx.xxx] 9107
+[Contents: Harrington; Thoughts on Bores; Ormond]
+Oct 2005 The Elson Readers, Book 5, by William H. Elson[#5][?lsrdxxx.xxx] 9106
+[Full author: William H. Elson and Christine M. Keck]
+
+Oct 2005 Reflections and Moral Maxims, by Rochefoucauld    [?rochxxx.xxx] 9105
+[Full title: Reflections; Or Sentences and Moral Maxims]
+[Full Author: Francois Duc De La Rochefoucauld]
+[Tr.: J. W. Willis Bund and J. Hain Friswell]
+[Also posted: HTML in 8roch10h.zip and 8roch10h.htm]
+Oct 2005 The Naval War of 1812, by Theodore Roosevelt  [#4][?trnvxxx.xxx] 9104
+[Subtitle: The History of the United States Navy during the Last War with
+ Great Britain to Which Is Appended an Account of the Battle of New Orleans]
+[Introduction by Edward K. Eckert]
+Oct 2005 Miracles of Our Lord, by George MacDonald    [#39][?mircxxx.xxx] 9103
+Oct 2005 Run to Earth, by M. E. Braddon                [#3][?rrthxxx.xxx] 9102
+Oct 2005 Domestic Cookery, by Elizabeth E. Lea             [cookhxxx.xxx] 9101
+[Title: Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers]
+[Also posted HTML - cookh10h.zip and cookh10h.htm]
+
+Oct 2005 My Double Life, by Sarah Bernhardt            [#2][?sbhtxxx.xxx] 9100
+[Subtitle: The Memoirs of Sarah Bernhardt]
+Oct 2005 Der Weinhueter, by Paul Heyse                     [?whtrxxx.xxx] 9099
+[Language: German]
+Oct 2005 Tacitus and Bracciolini, by John Wilson Ross      [?tcbrxxx.xxx] 9098
+
+Oct 2005 Robert's Rules of Order, by Henry M. Robert       [?rrorxxx.xxx] 9097
+Oct 2005 Weighed and Wanting, by George MacDonald          [wwantxxx.xxx] 9096
+[Also posted HTML - wwant10h.zip and wwant10h.htm]
+
+Oct 2005 The Life and Letters of Maria Edgeworth, Vol. 2   [?edg2xxx.xxx] 9095
+[Full author: Maria Edgeworth] [Ed.: Augustus J. C. Hare]
+Oct 2005 Wild Flowers, by Robert Bloomfield                [?wflrxxx.xxx] 9094
+[Subtitle: Or, Pastoral and Local Poetry]
+Oct 2005 Rural Tales, Ballads, and Songs, Robert Bloomfield[ruralxxx.xxx] 9093
+Oct 2005 The Farmer's Boy, by Robert Bloomfield            [?farmxxx.xxx] 9092
+[Subtitle:  A Rural Poem]
+Oct 2005 Ester Ried Yet Speaking, by Isabella Alden        [?erysxxx.xxx] 9091
+
+Oct 2005 Germania and Agricola, Caius Cornelius Tacitus[#4][?gragxxx.xxx] 9090
+[Language: Latin and English]
+Oct 2005 Handel, by Edward J. Dent                         [?hndlxxx.xxx] 9089
+Oct 2005 Thoroughbreds, by W. A. Fraser                    [thbdsxxx.xxx] 9088
+Oct 2005 Eleanor, by Mrs. Humphry Ward                 [#2][?elnrxxx.xxx] 9087
+Oct 2005 Die Witwe von Pisa, by Paul Heyse             [#6][?wtpsxxx.xxx] 9086
+[Language: German]
+
+Oct 2005 Das Maedchen von Treppi, by Paul Heyse        [#5][?mdtrxxx.xxx] 9085
+[Language: German]
+Oct 2005 Ein Ring, by Paul Heyse                       [#4][?ringxxx.xxx] 9084
+[Language: German]
+Oct 2005 Die Einsamen, by Paul Heyse                   [#3][?einsxxx.xxx] 9083
+[Language: German]
+Oct 2005 Muistatko, by Juhani Aho                      [#3][?muisxxx.xxx] 9082
+[Language: Finnish]
+Oct 2005 The Bacillus of Beauty, by Harriet Stark          [?bcilxxx.xxx] 9081
+[Subtitle: A Romance of Today]
+
+Oct 2005 Children's Own Longfellow, by Henry W. Longfellow [chlngxxx.xxx] 9080
+[Also posted illustrated HTML - chlng10h.zip; and chlng10h.htm]
+Oct 2005 The Man Shakespeare, by Frank Harris              [?mshkxxx.xxx] 9079
+Oct 2005 Sanders' Union Fourth Reader,by Charles W. Sanders[sreadxxx.xxx] 9078
+[Also posted HTML - sread10h.zip and sread10h.htm]
+
+
+Sep 2005 Sri Vishnu Sahasranaamam, Unknown                 [vsnmexxx.xxx] 9000
+[Approximate English title: The 1000 Names Of Lord Vishnu.]
+[Language: Sanskrit]
+[Transcription by N. Srinivasan and Karthik Krishnan]
+
+Sep 2005 Magnificent Ambersons, by Booth Tarkington [BT#20][?ambrxxx.xxx] 8867
+
+
+Jan 2005 The Chosen People, by Charlotte Mary Yonge        [?chsnxxx.xxx] 7284
+[Subtitle: A Compendium Of Sacred And Church History For School-Children]
+
+
+=-=-=-=[ 9 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Oct 2003 The Dancing Floor, by John Buchan                 [030130xx.xxx] 0279A
+[http://gutenberg.net.au/ebooks03/0301301.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0301301h.html]
+Sep 2003 Adventures of Ralph Rashleigh (1929), James Tucker[030129xx.xxx] 0278A
+[http://gutenberg.net.au/ebooks03/0301291.txt or .ZIP]
+[First edition--heavily edited]
+Sep 2003 Ralph Rashleigh (1952), by James Tucker           [030128xx.xxx] 0277A
+[http://gutenberg.net.au/ebooks03/0301281.txt or .ZIP]
+[First authentic popular edition]
+
+Sep 2003 Inheritors, by Brian Penton                       [030127xx.xxx] 0276A
+[http://gutenberg.net.au/ebooks03/0301271.txt or .ZIP]
+
+Sep 2003 Tender is the Night, by F Scott Fitzgerald        [030126xx.xxx] 0275A
+[http://gutenberg.net.au/ebooks03/0301261.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0301261h.html ]
+Sep 2003 The Common Reader Second Series, by Virginia Woolf[030125xx.xxx] 0274A
+[http://gutenberg.net.au/ebooks03/0301251.txt or .ZIP
+[and http://gutenberg.net.au/ebooks03/0301251h.html ]
+Sep 2003 The Autocracy of Mr. Parham, by H G Wells         [030124xx.xxx] 0273A
+[http://gutenberg.net.au/ebooks03/0301241.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301241h.html]
+Sep 2003 The Three Hostages, by John Buchan                [030123xx.xxx] 0272A
+[http://gutenberg.net.au/ebooks03/0301231.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301231h.html]
+Sep 2003 The Years, by Virginia Woolf                      [030122xx.xxx] 0271A
+[http://gutenberg.net.au/ebooks03/0301221.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301221h.html]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+"Outside of a dog, a book is man's best friend. Inside of a dog it's too dark
+to
+read."  --Groucho Marx
+
+The man who doesn't read good books has no advantage over the man who can't
+read them.  -Mark Twain
+
+----------------------------------------------------------------------
+
+2) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Tonya, Gali, Col, Greg for the news updates, Michael, and
+Larry Wall. Entertainment for the workers provided by the Chicago
+Bears and the Green Bay Packers.
+</pre>
+
+<a href="/nl_archives/2003/pgmonthly_2003_10_01_part_1.txt" target="_blank" rel="nofollow">pgmonthly_2003_10_01_part_1.txt</a>

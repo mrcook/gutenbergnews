@@ -1,0 +1,622 @@
+pgweekly_2007_08_01.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, August 1, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+FEATURED NEWS
+-------------
+
+A NOTE FROM THE EDITOR
+
+I am still without my own internet connection but this should be resovled by
+around the 9th August.
+
+Thank you for your understanding and hopefully normal service should be
+resumed soon.
+
+-- Michael Cook [Ed]
+
+
+POLL: HOW MANY "PG" E-TEXTS HAVE YOU READ?
+
+34.8% - 200+
+21.6% - 10 - 20
+13.0% - 50 - 100
+ 8.7% - 100 - 200
+ 8.7% - 20 - 50
+ 8.7% - Less than 10
+
+Visit the gutenbergnews.org website and place your vote.
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the 'Volunteers' section at https://www.gutenbergnews.org.
+
+MICHAEL HART WANTS IBM MEMORY KEY'S
+  Michael Hart is looking for one of the original "IBM Memory Keys" that have
+  evolved into our current RAMsticks, USBsticks, etc., or even the UK version
+  that existed before that. It doesn't have to be functional...he just wants
+  it for comparison purposes.
+
+PG EBOOK TRANSLATORS REQUIRED
+  Michael Hart, our founder, is looking for people who are willing to
+  translate Project Gutenberg eBooks in and out of; English, French, Spanish,
+  Dutch, Portuguese, Italian and any other languages you might like to include.
+
+If you have a RAM stick or can help with the translations then please contact
+Michael using his email address; hart@pglaf.org.
+
+
+CURRENT 'WANTED' HEADLINES:
+ * PG eBook Translators Required
+ * Michael Hart wants IBM Memory Key's
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad
+along with most other text reading programs.
+
+You can access them by visiting www.gutenbergnews.org and clicking on the
+'Newsletter Archives' menu item.
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #210/364 | Week: #30/52 | Month: #07.00
+
+GRAND TOTALS
+
+22,144 [+ 50] Project Gutenberg
+ 1,550 [+  2] PG Australia
+    67 [+  0] PG Europe 'Unique' | 457 [+ 2] Total (See NOTES)
+   386 [+  0] PG PrePrints
+-------------
+24,147 [+ 52] GRAND TOTAL
+
+    44 - Reserved/Pending
+
+ 5,853 to go to 30,000 eBooks.
+   ~80% of the way to 30,000
+   ~41% of the way from 20,000 to 30,000
+
+ 1,938 [+0] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+1,930 Project Gutenberg
+   96 PG Australian
+    5 PG Europe 'Unique' | 49 Total (See NOTES)
+    0 PG PrePrints
+=====
+2,036 TOTAL [2007]
+
+   70 eBooks REposted to the new filing system.
+
+    *  53 new eBooks last week
+
+    * 208 new eBooks in July
+    * 319 new eBooks in June
+    * 437 new eBooks in May
+    * 303 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 68 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 294 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a spreadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,750 [+53] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   0 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+None this week.
+
+
+---------[  14 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+An html format has been added.
+Leiðarvísir í ástamálum, by Ingimundur Sveinsson                         22139
+  [Subtitle: I. Karlmenn]
+  [Language: Icelandic]
+  [Link: http://www.gutenberg.org/2/2/1/3/22139 ]
+  [Files: 22139-8.txt; 22139-0.txt; 22139-h.htm]
+
+The volume number has been added to all files.
+The Story of the Upper Canada Rebellion, Vol. 1, by John Charles Dent    22131
+   [Link: http://www.gutenberg.org/2/2/1/3/22131 ]
+   [Files: 22131.txt; 22131-8.txt; 22131-h.htm]
+
+The following list of updates made during July were not prevoiously
+mentioned. Thanks to Sankar Viswanathan for forwarding these onto me.
+
+Kelly Miller's History of the World War for Human Rights                 19179
+  by Miller, Kelly
+The Critique of Pure Reason by Kant, Immanuel                             4280
+The Scotch Twins by Perkins, Lucy Fitch                                   4086
+The Dutch Twins by Perkins, Lucy Fitch                                    4012
+The Eskimo Twins by Perkins, Lucy Fitch                                   3774
+The Swiss Twins by Perkins, Lucy Fitch                                    3497
+The Japanese Twins by Perkins, Lucy Fitch                                 3496
+Five Little Peppers and How They Grew by Sidney, Margaret                 2770
+Legends of the Jews, the — Volume 1 by Ginzberg, Louis                    1493
+The Virginian, Horseman of the Plains by Wister, Owen                     1298
+The Bobbsey Twins at School by Hope, Laura Lee                             737
+The Woman in White by  Collins, Wilkie                                     583
+
+
+---------[  50 NEW PG EBOOK(S) ]------------------------------------------------
+
+The Comedies of Terence, by Publius Terentius Afer, (AKA) Terence        22188
+   [Subtitle: Literally Translated into English Prose, with Notes]
+   [Translator: Henry Thomas Riley]
+   [Link: http://www.gutenberg.org/2/2/1/8/22188 ]
+   [Files: 22188.txt; 22188-8.txt; 22188-0.txt; 22188-h.htm]
+
+Chambers's Edinburgh Journal, No. 452, by Various                        22187
+   [Subtitle: Volume 18, New Series, August 28, 1852]
+   [Editor: William Chambers and Robert Chambers]
+   [Link: http://www.gutenberg.org/2/2/1/8/22187 ]
+   [Files: 22187.txt; 22187-8.txt; 22187-h.htm]
+
+For the Liberty of Texas, by Edward Stratemeyer                          22186
+   [Illustrator: Louis Meynelle]
+   [Link: http://www.gutenberg.org/2/2/1/8/22186 ]
+   [Files: 22186.txt; 22186-8.txt; 22186-h.htm]
+
+Sonnie-Boy's People, by James B. Connolly                                22185
+   [Link: http://www.gutenberg.org/2/2/1/8/22185 ]
+   [Files: 22185.txt; 22185-8.txt; 22185-h.htm]
+
+More Tales in the Land of Nursery Rhyme, by Ada M. Marzials              22184
+  [Link: http://www.gutenberg.net/2/2/1/8/22184 ]
+  [Files: 22184.txt; 22184-h.htm]
+
+Wilton School, by Fred E. Weatherly                                      22183
+  [Subtitle: or, Harry Campbell's Revenge]
+  [Link: http://www.gutenberg.net/2/2/1/8/22183 ]
+  [Files: 22183.txt; 22183-8.txt; 22183-h.htm]
+
+The Best of the World's Classics, Vol. V (of X), by Various              22182
+  [Full title: The Best of the World's Classics, Vol. V (of X),
+               Great Britain and Ireland III]
+  [Editor: Henry Cabot Lodge and Francis W.  Halsey]
+  [Link: http://www.gutenberg.org/2/2/1/8/22182 ]
+  [Files: 22182.txt; 22182-8.txt; 22182-h.htm]
+
+The Maid and the Magpie, by Charles Moreton                              22181
+  [Subtitle: An Interesting Tale Founded on Facts]
+  [Anyone interested in lovely illustrations should take a look at this.]
+  [Link: http://www.gutenberg.org/2/2/1/8/22181 ]
+  [Files: 22181.txt; 22181-h.htm; ]
+  [Clearance: 20070716114745moreton]
+
+Prairie Flowers, by James B. Hendryx                                     22180
+  [Link: http://www.gutenberg.org/2/2/1/8/22180 ]
+  [Files: 22180.txt; 22180-8.txt; 22180-h.htm; ]
+  [Clearance: 20061106213841hendryx]
+
+Old Rail Fence Corners, by Various                                       22179
+   [Subtitle: The A. B. C's. of Minnesota History]
+   [Editor: Lucy Leavenworth Wilder Morris]
+   [Link: http://www.gutenberg.org/2/2/1/7/22179 ]
+   [Files: 22179.txt; 22179-h.htm]
+
+Chambers's Edinburgh Journal, No. 451, by Various                        22178
+   [Subtitle: Volume 18, New Series, August 21, 1852]
+   [Editor: William Chambers
+            Robert Chambers]
+   [Link: http://www.gutenberg.org/2/2/1/7/22178 ]
+   [Files: 22178.txt; 22178-8.txt; 22178-h.htm]
+
+Morality as a Religion, by W. R. Washington Sullivan                     22177
+  [Subtitle: An exposition of some first principles]
+  [Link: http://www.gutenberg.net/2/2/1/7/22177 ]
+  [Files: 22177.txt; 22177-8.txt]
+
+The Winged Men of Orcon, by David R. Sparks                              22176
+   [Subtitle: A Complete Novelette]
+   [Link: http://www.gutenberg.org/2/2/1/7/22176 ]
+   [Files: 22176.txt; 22176-8.txt; 22176-h.htm]
+
+Stories from the Ballads, by Mary  MacGregor                             22175
+   [Subtitle: Told to the Children]
+   [Illustrator: Katharine Cameron]
+   [Link: http://www.gutenberg.org/2/2/1/7/22175 ]
+   [Files: 22175.txt; 22175-h.htm]
+
+Andrew Melville, by William Morison                                      22174
+   [Subtitle: Famous Scots Series]
+   [Link: http://www.gutenberg.org/2/2/1/7/22174 ]
+   [Files: 22174.txt; 22174-8.txt; 22174-h.htm]
+
+The Grell Mystery, by Frank Froest                                       22173
+   [Link: http://www.gutenberg.org/2/2/1/7/22173 ]
+   [Files: 22173.txt; 22173-8.txt; 22173-0.txt; 22173-h.htm]
+
+The Knickerbocker, or New-York Monthly Magazine, May 1844, by Various    22172
+   [Subtitle: Volume 23, Number 5]
+   [Editor: Lewis Gaylord Clark]
+   [Link: http://www.gutenberg.org/2/2/1/7/22172 ]
+   [Files: 22172.txt; 22172-8.txt; 22172-h.htm]
+
+The Radiant Shell, by Paul Ernst                                         22171
+   [Link: http://www.gutenberg.org/2/2/1/7/22171 ]
+   [Files: 22171.txt; 22171-h.htm]
+
+Five Lectures on Blindness, by Kate M. Foley                             22170
+   [Link: http://www.gutenberg.org/2/2/1/7/22170 ]
+   [Files: 22170.txt; 22170-h.htm]
+
+The Story of the Barbary Corsairs, by Lane-Poole and Kelley              22169
+   [Full author: Stanley Lane-Poole and Lieut. J. D. Jerrold Kelley]
+   [Link: http://www.gutenberg.org/2/2/1/6/22169 ]
+   [Files: 22169.txt; 22169-8.txt; 22169-0.txt; 22169-h.htm]
+
+The Golden Spears, by Edmund Leamy                                       22168
+   [Subtitle: And Other Fairy Tales]
+   [Illustrator: Corinne Turner]
+   [Link: http://www.gutenberg.org/2/2/1/6/22168 ]
+   [Files: 22168.txt; 22168-8.txt; 22168-h.htm]
+
+C. F. Gellerts Sämmtliche Schriften, by Christian Fürchtegott Gellert    22167
+   [Subtitle: Zweyter Theil]
+   [Language: German]
+   [Link: http://www.gutenberg.org/2/2/1/6/22167 ]
+   [Files: 22167-8.txt; 22167-h.htm]
+
+Slave Narratives: Georgia, Part 2, by Work Projects Administration       22166
+   [Full title: Slave Narratives: A Folk History of Slavery in the
+                United States]
+   [Subtitle: From Interviews with Former Slaves
+              Georgia Narratives, Part 2]
+   [Link: http://www.gutenberg.org/2/2/1/6/22166 ]
+   [Files: 22166.txt; 22166-8.txt; 22166-h.htm]
+
+My Studio Neighbors, by William Hamilton Gibson                          22165
+   [Link: http://www.gutenberg.org/2/2/1/6/22165 ]
+   [Files: 22165.txt; 22165-8.txt; 22165-h.htm]
+
+A Modern Tomboy, by L. T. Meade                                          22164
+   [Subtitle: A Story for Girls]
+   [Link: http://www.gutenberg.org/2/2/1/6/22164 ]
+   [Files: 22164.txt; 22164-8.txt; 22164-h.htm]
+
+Rover Boys on the Farm, by Arthur M. Winfield (AKA Edward Stratemeyer)   22163
+   [Subtitle: or Last Days at Putnam Hall]
+   [Link: http://www.gutenberg.org/2/2/1/6/22163 ]
+   [Files: 22163.txt; 22163-8.txt; 22163-h.htm]
+
+Children of the Old Testament, by Anonymous                              22162
+  [Link: http://www.gutenberg.net/2/2/1/6/22162 ]
+  [Files: 22162.txt; 22162-h.htm]
+
+Chambers's Edinburgh Journal, No. 450, by Various                        22161
+   [Subtitle: Volume 18, New Series, August 14, 1852]
+   [Editor: William Chambers and Robert Chambers]
+   [Link: http://www.gutenberg.org/2/2/1/6/22161 ]
+   [Files: 22161.txt; 22161-8.txt; 22161-h.htm]
+
+Studien und Plaudereien, by Sigmon Stern                                 22160
+  [Subtitle: First Series ]
+  [Language: German ]
+  [Link: http://www.gutenberg.org/dirs/2/2/1/6/22160 ]
+  [Files: 22160-8.txt; 22160-h.htm; ]
+  [Clearance: 20050124094255stern ]
+
+Gespenster, by Henrik Ibsen                                              22159
+  [Subtitle: Ein Familiendrama in drei Aufzügen ]
+  [Translator: M. von Borch ]
+  [Language: German ]
+  [Link: http://www.gutenberg.org/dirs/2/2/1/5/22159 ]
+  [Files: 22159-8.txt; 22159-h.htm; ]
+  [Clearance: 20061230115841ibsen ]
+
+The Lure of the Mask, by Harold MacGrath                                 22158
+   [Illustrator: Harrison Fisher and Karl Anderson]
+   [Link: http://www.gutenberg.org/2/2/1/5/22158 ]
+   [Files: 22158.txt; 22158-8.txt; 22158-h.htm]
+
+Lectures on Stellar Statistics, by Carl Vilhelm Ludvig Charlier          22157
+   [Link: http://www.gutenberg.org/2/2/1/5/22157 ]
+   [Files: 22157.txt; 22157-8.txt; 22157-0.txt; 22157-h.htm]
+
+The Boy with the U. S. Weather Men, by Francis William Rolt-Wheeler      22156
+  [Link: http://www.gutenberg.org/2/2/1/5/22156 ]
+  [Files: 22156.txt; 22156-8.txt; 22156-h.htm; ]
+  [Clearance: 20060705025913roltwheele]
+
+The Expressman and the Detective, by Allan Pinkerton                     22155
+  [Link: http://www.gutenberg.org/2/2/1/5/22155 ]
+  [Files: 22155.txt; 22155-8.txt; 22155-h.htm; ]
+  [Clearance: 20060810190113pinkerton]
+
+Creatures of Vibration, by Harl Vincent                                  22154
+   [Link: http://www.gutenberg.org/2/2/1/5/22154 ]
+   [Files: 22154.txt; 22154-h.htm]
+
+Pagan and Christian Rome, by Rodolfo Lanciani                            22153
+   [Link: http://www.gutenberg.org/2/2/1/5/22153 ]
+   [Files: 22153.txt; 22153-8.txt; 22153-0.txt; 22153-h.htm]
+
+Possessed, by Cleveland Moffett                                          22152
+  [Link: http://www.gutenberg.org/2/2/1/5/22152 ]
+  [Files: 22152.txt; 22152-8.txt; 22152-h.htm]
+
+Cohabitation Of the Faithful with the Unfaithful, Martyr and Bullinger   22151
+  [Full title: A Treatise of the Cohabitation Of the Faithful with the
+        Unfaithful]
+  [Full author: Peter Martyr and Henry Bullinger]
+  [Subtitle: A Treatise of the Cohabitation Of the Faithful with the
+       Unfaithful by Peter Martyr; Wherunto is Added A Sermon
+       made of the Confessing of Christ and His Gospel and of the
+       Denying of the same, by Henry Bullinger]
+  [Link: http://www.gutenberg.org/2/2/1/5/22151 ]
+  [Files: 22151.txt; 22151-0.txt; 22151-h.htm]
+
+The Theories of Darwin, by Rudolf Schmid                                 22150
+   [Full title: The Theories of Darwin and Their Relation to Philosophy,
+                Religion, and Morality]
+   [Translator: G. A. Zimmermann]
+   [Link: http://www.gutenberg.org/2/2/1/5/22150 ]
+   [Files: 22150.txt; 22150-8.txt; 22150-h.htm]
+
+The Journal of Negro History, Volume 6, 1921, by Various                 22149
+   [Link: http://www.gutenberg.org/2/2/1/4/22149 ]
+   [Files: 22149.txt; 22149-8.txt; 22149-h.htm]
+
+The Lord's Dealings with George Müller, by George Müller                 22148
+  [Full title: A Narrative of some of the Lord's Dealings with George
+        Müller]
+  [Subtitle: Written by Himself, Third Part]
+  [Link: http://www.gutenberg.org/2/2/1/4/22148 ]
+  [Files: 22148.txt; 22148-8.txt]
+
+Peter the Hermit, by Daniel A. Goodsell                                  22147
+  [Subtitle: A Tale of Enthusiasm]
+  [Link: http://www.gutenberg.org/2/2/1/4/22147 ]
+  [Files: 22147.txt; 22147-8.txt; 22147-h.htm]
+
+De Turkey and De Law, by Zora Neale Hurston                              22146
+   [Subtitle: A Comedy in Three Acts]
+   [Link: http://www.gutenberg.org/2/2/1/4/22146 ]
+   [Files: 22146.txt; 22146-8.txt]
+
+A Book of Burlesques, by H. L. Mencken                                   22145
+  [Link: http://www.gutenberg.org/2/2/1/4/22145 ]
+  [Files: 22145.txt; 22145-8.txt; 22145-h.htm; ]
+  [Clearance: 20050605123544mencken]
+
+Good Old Anna, by Marie Belloc Lowndes                                   22144
+   [Link: http://www.gutenberg.org/2/2/1/4/22144 ]
+   [Files: 22144.txt; 22144-8.txt; 22144-h.htm]
+
+The Panama Canal Conflict, by Lassa Oppenheim                            22143
+   [Full title: The Panama Canal Conflict between Great Britain and the
+                United States of America]
+   [Subtitle: A Study]
+   [Link: http://www.gutenberg.org/2/2/1/4/22143 ]
+   [Files: 22143.txt; 22143-8.txt; 22143-h.htm]
+
+The Modern Scottish Minstrel, Volume V., by Various                      22142
+  [Subtitle: The Songs of Scotland of the Past Half Century]
+  [Link: http://www.gutenberg.org/2/2/1/4/22142 ]
+  [Files: 22142.txt; 22142-8.txt; 22142-h.htm]
+
+Joy in Service; Forgetting, and Pressing Onward; Until the Day Dawn      22141
+  [Author: George Tybout Purves]
+  [Author: Address at the funeral of Dr. Purves by F. L. Patton]
+  [Link: http://www.gutenberg.org/2/2/1/4/22141 ]
+  [Files: 22141.txt; 22141-h.htm; ]
+  [Clearance: 20060220153336purves]
+
+The Wrong Woman, by Charles D. Stewart                                   22140
+  [Ill.: Harold M. Brett]
+  [Link: http://www.gutenberg.org/2/2/1/4/22140 ]
+  [Files: 22140.txt; 22140-8.txt; 22140-h.htm; ]
+  [Clearance: 20070615150514stewart]
+
+Bessie Costrell, by Mrs. Humphry Ward                                    22128
+  [Link: http://www.gutenberg.net/2/2/1/2/22128 ]
+  [Files: 22128.txt]
+
+
+---------[   2 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Aug 2007 Quintus Servinton, Henry Savery                   [070097xx.xxx] 1550A
+http://gutenberg.net.au/ebooks07/0700971.txt or .zip
+http://gutenberg.net.au/ebooks07/0700971h.html
+
+Aug 2007 Kipps, H G Wells                                  [070096xx.xxx] 1549A
+http://gutenberg.net.au/ebooks07/0700961.txt or .zip
+http://gutenberg.net.au/ebooks07/0700961h.html
+
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================

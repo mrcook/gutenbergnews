@@ -1,0 +1,947 @@
+---
+params:
+  id: 1971
+title: "PG Weekly Newsletter: Version W (2003-03-12)"
+date: 2003-03-12T22:15:23+00:00
+author: Michael Cook
+layout: post
+url: /20030312/pg-weekly-newsletter-2003-03-12-version-w/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>We would like to apologise for the late arrival of this weeks' newsletter=
+=2E=20
+This is due to the wrong kind of data on the line. (Please note that this=
+=20
+remark is ironic, and will probably only be understood by those readers=20
+living in the UK).
+--=20
+Alice Wood
+
+Project Gutenberg newsletter editor
+
+
+The Project Gutenberg Weekly Newsletter 12th March 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7344 ebooks!!!
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New books From PG Australia
+   New U.S. eBooks
+3) News
+4) Readers letters
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+A quiet week at PG with everyone pushing on to try and get to the 7500 ma=
+rk. A=20
+great list of new texts this week with more to follow.=20
+
+Happy reading,
+
+Alice (newsletter@schiffwood.demon.co.uk)
+
+We welcome feedback, critisism (constructive and otherwise), ebook review=
+s,=20
+featured author suggestions and writings, questions and general rambling =
+(we=20
+are accepting woffle this week, in fact I am accepting anything this week=
+, I=20
+only got three mails last week, where is everyone? A few too many commas=20
+there I think) at the address above.
+
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=3D         [ Here Are The Updated Listings For This Past Week ]         =
+  =3D
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+RESERVED count:   39
+
+TOTAL COUNT as of today, Wed 03/12/03:   7,344 (incl. 177 Aus.).
+
+Last week the Total Count was 7,276, including 176 at PG of Australia.
+This week we added 68 new (incl. 1 Aus.).
+
+=3D-=3D-=3D-=3D[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=3D-=3D-=3D-=3D-=
+=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following entry in the GUTINDEX was incorrect, and is being
+replaced:
+Feb 1998 Tales From Shakespeare, by Charles and Mary Lamb  [shlmbxxx.xxx]=
+1185
+(Note:  this eBook was correctly posted as #1286)
+The correct entry for #1185 is as follows:
+Feb 1998 Conflict Between Religion and Science, by Draper  [hcbrsxxx.xxx]=
+1185
+[Full Title: History of the Conflict Between Religion and Science]
+[Author: John William Draper]
+(Note:  the above eBook was incorrectly posted as #6938; that eBook
+  number is being recycled.)
+
+The following is being re-indexed to correct the full title ("Crime",
+not "Times"):
+Oct 2004 John Wilkes Booth, by George Alfred Townsend      [jwbthxxx.xxx]=
+6628
+[Full title: The Life, Crime and Capture of John Wilkes Booth]
+
+The following is being re-indexed to correct the author's name
+(Disraeli, not Disraeili):
+Feb 2003 Sybil, or the Two Nations, by Benjamim Disraeli   [sybilxxx.xxx]=
+3760
+
+
+The following have been re-posted in new formats as indicated:
+Nov 2004 Why We are at War, by Woodrow Wilson              [whwarxxx.xxx]=
+6870
+[HTM in whwar10h.htm/.zip]
+Apr 1999 The Club of Queer Trades, by G. K. Chesterton/GKC8[tcoqtxxx.xxx]=
+1696
+[HTM in tcoqt10h.htm/.zip]
+
+
+The following has been posted in an improved edition 12, plus HTML format
+zipped file only:
+Aug 1993 Adventures of Huckleberry Finn, by Twain   [MT#03][hfinnxxx.xxx]=
+  76
+[Author: Mark Twain (Samuel Clemens)]
+[Plain text in hfinn12.txt/.zip, illustrated HTML in hfinn12h.zip only]
+
+
+=3D-=3D-=3D-=3D[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=3D-=3D=
+-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D
+
+Mar 2003 London Street Games, by by Norman Douglas  [ND#01][030028xx.xxx]=
+0177A
+[http://gutenberg.net.au/ebooks03/0300281.txt or .ZIP]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these eboo=
+ks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=3D-=3D-=3D-=3D[ 67 NEW U.S. POSTS ]-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=
+=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-=3D-
+
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Complete [BL#77][b077wxxx.xxx]=
+7649
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7640-7648]
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 9   [BL#76][b076wxxx.xxx]=
+7648
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 8   [BL#75][b075wxxx.xxx]=
+7647
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 7   [BL#74][b074wxxx.xxx]=
+7646
+
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 6   [BL#73][b073wxxx.xxx]=
+7645
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 5   [BL#72][b072wxxx.xxx]=
+7644
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 4   [BL#71][b071wxxx.xxx]=
+7643
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 3   [BL#70][b070wxxx.xxx]=
+7642
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 2   [BL#69][b069wxxx.xxx]=
+7641
+
+Mar 2005 Ernest Maltravers,  E. B. Lytton, Book 1   [BL#68][b068wxxx.xxx]=
+7640
+
+
+Feb 2005 Images from Hamilton's Count Grammont, by Widger  [dw44wxxh.zip]=
+7560
+Feb 2005 Images from Stewarton's Saint Cloud, by D. Widger [dw43wxxh.zip]=
+7559
+Feb 2005 Images from Campan's Marie Antoinette, by Widger  [dw42wxxh.zip]=
+7558
+Feb 2005 Images from Works of Charles D. Warner, by Widger [dw41wxxh.zip]=
+7557
+Feb 2005 Images from The Works of Mark Twain, by D. Widger [dw40wxxh.zip]=
+7556
+[Above files posted in Illustrated HTML, zipped only]
+
+
+Dec 2004 What Maisie Knew, by Henry James             [#46][wmaisxxx.xxx]=
+7118
+Dec 2004 Memoirs Wemyss Reid, by Stuart J. Reid, ed        [?wemrxxx.xxx]=
+7117
+[Full title: Memoirs of Sir Wemyss Reid 1842-1885]
+[7-bit version with non-accented characters in 7wemr10.txt and 7wemr10.zi=
+p]
+[8-bit version with accented characters in 8wemr10.txt and 8wemr10.zip]
+Dec 2004 Vestiges of the Natural History of Creation       [vstcxxxx.xxx]=
+7116
+[Author's Full Name: Robert Chambers]
+[Text in vstc10.txt/.zip, XHTML in vstc10h.htm/.zip]
+
+Dec 2004 Giant Hours With Poet Preachers,William L. Stidger[?ghppxxx.xxx]=
+7115
+[7-bit version with non-accented characters in 7ghpp10.txt and 7ghpp10.zi=
+p]
+[8-bit version with accented characters in 8ghpp10.txt and 8ghpp10.zip]
+Dec 2004 Une Vie, by Guy de Maupassant                [#22][?uviexxx.xxx]=
+7114
+[Full title: Une Vie, A Piece of String and Other Stories]
+   Contents:
+     Une Vie (The History Of A Heart)
+     A Vagabond; The Fishing Hole
+     The Spasm
+     In The Wood; Martine
+     All Over
+     The Parrot
+     A Piece Of String
+[7-bit version with non-accented characters in 7uvie10.txt and 7uvie10.zi=
+p]
+[8-bit version with accented characters in 8uvie10.txt and 8uvie10.zip]
+[HTM version with accented characters in 8uvie10h.htm and 8uvie10h.zip]
+Dec 2004 The Land of Midian, Vol. 2, by Richard Burton[#24][?mid2xxx.xxx]=
+7113
+[7-bit version with non-accented characters in 7mid210.txt and 7mid210.zi=
+p]
+[8-bit version with accented characters in 8mid210.txt and 8mid210.zip]
+Dec 2004 Erema, by R. D. Blackmore                     [#3][beremxxx.xxx]=
+7112
+Dec 2004 The Land of Midian, Vol. 1, by Richard Burton[#23][?mid1xxx.xxx]=
+7111
+[7-bit version with non-accented characters in 7mid110.txt and 7mid110.zi=
+p]
+[8-bit version with accented characters in 8mid110.txt and 8mid110.zip]
+
+Dec 2004 Rose And Roof-Tree, by George Parsons Lathrop     [?rosexxx.xxx]=
+7110
+[7-bit version with non-accented characters in 7rose10.txt and 7rose10.zi=
+p]
+[8-bit version with accented characters in 8rose10.txt and 8rose10.zip]
+Dec 2004 Candido, o El Optimismo, by Voltaire         [#14][?candxxx.xxx]=
+7109
+[Language: Spanish]
+[7-bit version with non-accented characters in 7cand10.txt and 7cand10.zi=
+p]
+[8-bit version with accented characters in 8cand10.txt and 8cand10.zip]
+Dec 2004 Scarborough and the Critic, by Richard B. Sheridan[?scarxxx.xxx]=
+7108
+[7-bit version with non-accented characters in 7scar10.txt and 7scar10.zi=
+p]
+[8-bit version with accented characters in 8scar10.txt and 8scar10.zip]
+Dec 2004 Adventures of Huckleberry Finn, v8, by Twain [#95][hfin8xxx.zip]=
+7107
+[Chapters 36 - Last]
+Dec 2004 Adventures of Huckleberry Finn, v7, by Twain [#94][hfin7xxx.zip]=
+7106
+[Chapters 31 - 35]
+Dec 2004 Adventures of Huckleberry Finn, v6, by Twain [#93][hfin6xxx.zip]=
+7105
+[Chapters 26 - 30]
+Dec 2004 Adventures of Huckleberry Finn, v5, by Twain [#92][hfin5xxx.zip]=
+7104
+[Chapters 21 - 25]
+Dec 2004 Adventures of Huckleberry Finn, v4, by Twain [#91][hfin4xxx.zip]=
+7103
+[Chapters 16 - 20]
+Dec 2004 Adventures of Huckleberry Finn, v3, by Twain [#90][hfin3xxx.zip]=
+7102
+[Chapters 11 - 15]
+Dec 2004 Adventures of Huckleberry Finn, v2, by Twain [#89][hfin2xxx.zip]=
+7101
+[Chapters 6 - 10]
+Dec 2004 Adventures of Huckleberry Finn, v1, by Twain [#88][hfin1xxx.zip]=
+7100
+[Author: Mark Twain (Samuel Clemens)]
+[Chapters 1 - 5]
+[Above files illustrated HTML zipped files only]
+
+Dec 2004 A Trip to Manitoba, by Mary FitzGibbon            [?tmtbxxx.xxx]=
+7099
+[7-bit version with non-accented characters in 7tmtb10.txt and 7tmtb10.zi=
+p]
+[8-bit version with accented characters in 8tmtb10.txt and 8tmtb10.zip]
+Dec 2004 Enchanted Islands of Atlantic, T. W. Higginson[#4][?teiaxxx.xxx]=
+7098
+[Full title: Tales of the Enchanted Islands of the Atlantic]
+[Full author: Thomas Wentworth Higginson]
+[7-bit version with non-accented characters in 7teia10.txt and 7teia10.zi=
+p]
+[8-bit version with accented characters in 8teia10.txt and 8teia10.zip]
+Dec 2004 Autobiography of Black Hawk, by Black Hawk        [bhawkxxx.xxx]=
+7097
+[Full title: Autobiography of Ma-ka-tai-me-she-kia-kiak, or Black Hawk]
+Dec 2004 Babylonian Story of the Deluge, E. A. Wallis Budge[8bbdlxxx.xxx]=
+7096
+[Also posted HTML as 8bbdl10h.zip - zipped only]
+[Also posted XML as 8bbdl10x.zip - zipped only]
+
+Dec 2004 Malayan Literature, by Various Authors            [?malaxxx.xxx]=
+7095
+[7-bit version with non-accented characters in 7mala10.txt and 7mala10.zi=
+p]
+[8-bit version with accented characters in 8mala10.txt and 8mala10.zip]
+Dec 2004 Audio: Don Quixote, by Migeul de Cervantes        [1donqxxx.mp3]=
+7094C
+[Computer-generated audio files in MP3 format; 1 file per chapter]
+Dec 2004 String Quart E Min, Op. 59 no. 2 Beethoven[LVB #5][lv592xxx.zip]=
+7093
+[String Quartet E Minor, Op. 59 no. 2, by Ludwig van Beethoven]
+[Musical score: Finale .MUS in lv59210m.zip, MusicXML in lv59210x.zip]
+Dec 2004 String Quart F Maj, Op. 59 no. 1 Beethoven[LVB #5][lv591xxx.zip]=
+7092
+[String Quartet F Major, Op. 59 no. 1, by Ludwig van Beethoven]
+[Musical score: Finale .MUS in lv59110m.zip; MusicXML in lv59110x.zip]
+Dec 2004 The Yosemite, by John Muir                [Muir#2][yosemxxx.xxx]=
+7091
+[HTML version in yosem10h.htm and yosem10h.zip]
+
+Dec 2004 The Little Immigrant, by Eva Stern                [limmixxx.xxx]=
+7090
+Dec 2004 The Consolidator, by Daniel Defoe       [Defoe#11][consoxxx.xxx]=
+7089
+[Subtitle: or, Memoirs of Sundry Transactions from the World in the Moon]
+[HTML version in conso10h.htm and conso10h.zip]
+Dec 2004 Pilgrims Progress/One Syllable, Mary Godolphin[#3][pilosxxx.xxx]=
+7088
+[Full title: The Pilgrim's Progess in Words of One Syllable]
+Dec 2004 Gaut Gurley, by D. P. Thompson                [#2][gtgrlxxx.xxx]=
+7087
+Dec 2004 Queen Victoria V2, by Sarah Tytler            [#2][?qvc2xxx.xxx]=
+7086
+[Full title: Life of Her Most Gracious Majesty the Queen, Vol II]
+[7-bit version with non-accented characters in 7qvc210.txt and 7qvc210.zi=
+p]
+[8-bit version with accented characters in 8qvc210.txt and 8qvc210.zip]
+
+Dec 2004 Fanshawe, by Nathaniel Hawthorne             [#10][?fansxxx.xxx]=
+7085
+[7-bit version with non-accented characters in 7fans10.txt and 7fans10.zi=
+p]
+[8-bit version with accented characters in 8fans10.txt and 8fans10.zip]
+Dec 2004 A Girl Among the Anarchists, by Isabel Meredith   [?gataxxx.xxx]=
+7084
+[7-bit version with non-accented characters in 7gata10.txt and 7gata10.zi=
+p]
+[8-bit version with accented characters in 8gata10.txt and 8gata10.zip]
+
+
+Dec 2004 Venetian Life, by W. D. Howells              [#57][?venlxxx.xxx]=
+7083
+[7-bit version with non-accented characters in 7venl10.txt and 7venl10.zi=
+p]
+[8-bit version with accented characters in 8venl10.txt and 8venl10.zip]
+Dec 2004 Lives of the Necromancers, by William Godwin      [lvnecxxx.xxx]=
+7082
+[Author AKA: Edward Baldwin]
+[Subtitle: An Account of the most eminent persons in successive ages who
+  have claimed for themselves or to whom has been imputed by others the
+  exercise of magical power]
+Dec 2004 Motor Girls on Cedar Lake, by Margaret Penrose[#4][tmgolxxx.xxx]=
+7081
+
+Dec 2004 Speeches on Public Policy, V1, by John Bright     [?qpp1xxx.xxx]=
+7080
+[Full title: Speeches on Questions of Public Policy, Volume 1]
+[7-bit version with non-accented characters in 7qpp110.txt and 7qpp110.zi=
+p]
+[8-bit version with accented characters in 8qpp110.txt and 8qpp110.zip]
+Dec 2004 The Companions of Jehu, by Alexandre Dumas   [#32][?tcojxxx.xxx]=
+7079
+[7-bit version with non-accented characters in 7tcoj10.txt and 7tcoj10.zi=
+p]
+[8-bit version with accented characters in 8tcoj10.txt and 8tcoj10.zip]
+Dec 2004 Kanteletar, by Elias Lonnrot [compiler]           [?kantxxx.xxx]=
+7078
+[Language: Finnish]
+[7-bit version with non-accented characters in 7kant10.txt and 7kant10.zi=
+p]
+[8-bit version with accented characters in 8kant10.txt and 8kant10.zip]
+Dec 2004 We Can't Have Everything, by Rupert Hughes        [?cantxxx.xxx]=
+7077
+[7-bit version with non-accented characters in 7cant10.txt and 7cant10.zi=
+p]
+[8-bit version with accented characters in 8cant10.txt and 8cant10.zip]
+Dec 2004 Prisoner for Blasphemy, by G. W. Foote            [blsphxxx.xxx]=
+7076
+[Full author: G. W. [George William] Foote]
+
+Dec 2004 The Idol of Paris, by Sarah Bernhardt             [?idolxxx.xxx]=
+7075
+[7-bit version with non-accented characters in 7idol10.txt and 7idol10.zi=
+p]
+[8-bit version with accented characters in 8idol10.txt and 8idol10.zip]
+Dec 2004 Beauty and the Beast, Marie Le Prince de Beaumont [btbstxxx.xxx]=
+7074
+Dec 2004 Specimens of Greek Tragedy, by Goldwin Smith      [?grtrxxx.xxx]=
+7073
+[7-bit version with non-accented characters in 7grtr10.txt and 7grtr10.zi=
+p]
+[8-bit version with accented characters in 8grtr10.txt and 8grtr10.zip]
+Dec 2004 Tramping in Mexico, by Harry A. Franck        [#2][?mexcxxx.xxx]=
+7072
+[7-bit version with non-accented characters in 7mexc10.txt and 7mexc10.zi=
+p]
+[8-bit version with accented characters in 8mexc10.txt and 8mexc10.zip]
+Dec 2004 In Times of Peril, by G. A. Henty            [#16][?perlxxx.xxx]=
+7071
+[7-bit version with non-accented characters in 7perl10.txt and 7perl10.zi=
+p]
+[8-bit version with accented characters in 8perl10.txt and 8perl10.zip]
+
+Dec 2004 The Treasure of the Incas, by G. A. Henty    [#15][?incaxxx.xxx]=
+7070
+[7-bit version with non-accented characters in 7inca10.txt and 7inca10.zi=
+p]
+[8-bit version with accented characters in 8inca10.txt and 8inca10.zip]
+Dec 2004 Expositions of Holy Scripture, Alexander Maclaren [?gensxxx.xxx]=
+7069
+[Subtitle: Genesis, Exodus, Leviticus and Numbers]
+[7-bit version with non-accented characters in 7gens10.txt and 7gens10.zi=
+p]
+[8-bit version with accented characters in 8gens10.txt and 8gens10.zip]
+Dec 2004 Das Haidedorf, by Adalbert Stifter                [?haidxxx.xxx]=
+7068
+[Language: German]
+[7-bit version with non-accented characters in 7haid10.txt and 7haid10.zi=
+p]
+[8-bit version with accented characters in 8haid10.txt and 8haid10.zip]
+[HTML version with accented characters in 8haid10h.htm and 8haid10h.zip]
+Dec 2004 The Magnificent Lovers, by Moliere (Poquelin      [?amagxxx.xxx]=
+7067
+[Translated by Charles Heron Wall]
+[7-bit version with non-accented characters in 7amag10.txt and 7amag10.zi=
+p]
+[8-bit version with accented characters in 8amag10.txt and 8amag10.zip]
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D
+
+----------------------------------------------------------------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D [ SUBMIT A NEW EBOOK FOR COPYRIGH=
+T CLEARANCE ]=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+=09http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+=09http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+=09http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+Free Computers!!
+
+Project Gutenberg has received a generous donation of over 20 Pentium
+Pro 100 computers.  If you have a need for a computer to do Project
+Gutenberg work or can make good use of computers please
+let William Fishburne (william.fishburne@verizon.net) know!
+
+The computers are physically in Northern Virginia and if you are not,
+it would be necessary for you to arrange for the shipping cost.
+Please send in your thoughts and ideas on how PG can make best use
+of this dated windfall! =20
+
+These are GREAT for any wordprocessing, etc. . .it's just about exactly
+what I am using here,for all my Project Gutenberg work.  However, these
+are NOT good for the "bloatware" operating systems and programs if you
+are going to reload and reboot a lot. . .takes some real time for this.
+However, I scanned the first books I ever OCRed on something much slower.=
+ . .=20
+=2E
+
+Thanks!!!
+
+Michael
+
+{No I am not asleep, we did run this last week. Brett would really like h=
+is=20
+basement back - so come on guys, lets get these computers working!}
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=3D64-6221=
+541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=3Ddonate%40gutenberg.net&item_name=3DDonate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identificat=
+ion
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Readers letters
+
+More in the series 'What is best for reading e-texts?'
+
+From: David Spalding
+
+I highly recommend Mobipocket's Reader (http://www.mobipocket.com/) for
+PalmOS, PocketPC, and several other handheld platforms.
+
+It does a marvelous job for reading .TXT, .HTML, and .PRC ebooks. The
+desktop program comes with a "quick publisher" to create eBooks, and
+Mobipocket offers a free publisher program (imports HTML, Word docs, and
+open ebook exchange files). The basic Reader is free, and $19.95
+registration unlocks fancy features like notes, drawings, orientation spi=
+n,
+highlighting; I have not yet had to register it, though, to fully enjoy
+reading etexts and Internet newsletters on it daily. In fact, my use of
+Mobipocket has renewed my interest in downloading PG texts!
+
+Yours,
+David Spalding
+
+Thank you David
+                    -------------------
+
+Book Review
+From: Juliet Sutherland
+
+Many people focus on PG as a respository of great literature. I prefer to=
+=20
+focus on the "not-so-great" literature. A lovely little book, of a type t=
+hat=20
+many people would not expect to find in PG, is "The Bird-Woman of the Lew=
+is=20
+and Clark Expedition" by Katherine Chandler, 1903c. This is a book intend=
+ed=20
+for a child (or adult) learning to read English. From the Preface, "The=20
+vocabulary consists of fewer than 700 words. Over half of these are found=
+ in=20
+popular primers. Therefore, the child should have no difficulty in readin=
+g=20
+this historical story after completing a first reader." It was published =
+on=20
+the 100th anniversary of the Lewis and Clark Expedition and tells the sto=
+ry=20
+of Sacajawea, the Indian who guided Lewis and Clark for much of their=20
+expedition. I expected that the usual, politically incorrect (by modern=20
+standards) views and opinions of the era would permeate the book. But the=
+=20
+story presents a surprisingly factual and unbiased view of events, that I=
+=20
+found very interesting in light of all the attention surrounding the 200t=
+h=20
+anniversary of the expedition. I'd like to think that another generation =
+of=20
+people learning to read will be able to benefit from this book.
+                    -------------------
+
+Dr Widger's Library
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Have you read the work of Jean de La Fontaine or Harry Lorrequer (Charles=
+=20
+James Lever)? I hadn't until recently. However, in a wonderful example of=
+=20
+bringing Project Gutenberg literature to life, David Widger, a long-time =
+PG=20
+volunteer, has established "Dr. Widger's Library", a literary web site "p=
+ar=20
+excellence". David has produced for Project Gutenberg eBooks covering mor=
+e=20
+than 30 authors, including de La Fontaine and Lorrequer, and his site--st=
+ill=20
+under development--boasts some beautiful images, and beautiful words. Tak=
+e=20
+this example...
+
+"We talked of pipe-clay regulation caps--
+        Long twenty-fours--short culverins and mortars--
+      Condemn'd the 'Horse Guards' for a set of raps,
+        And cursed our fate at being in such quarters.
+      Some smoked, some sighed, and some were heard to snore;
+        Some wished themselves five fathoms 'neat the Solway;
+      And some did pray--who never prayed before--
+        That they might get the 'route' for Cork or Galway."
+
+(From "The Confessions of Harry Lorrequer)
+
+(if you are using images, you could grab one from here:=20
+http://www.gutenberg.net.au/widger/lorrequer/lorrequer.html)
+
+So don't wait, take a visit to Doctor Widger's Library at=20
+http://www.gutenberg.net.au/widger/. Browse the virtual shelves, sample t=
+he=20
+literary gems and download from Project Gutenberg some of the treasure Da=
+vid=20
+has unearthed for us. And, as an extra treat, David has prepared several=20
+volumes of his favourite quotations, from the books he has transcribed. A=
+h,=20
+reading! one of the most "delectable modes of getting over the ground thr=
+ough=20
+life", as Lorrequer declaims.
+
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research=
+ may=20
+need to be done by our professional Chief Cataloguer, so for those who wi=
+sh=20
+to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, et=
+c.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+12th Jack Kerouac
+13th Mahmoud Darwish
+14th Armas Aikia
+15th Ben Okri
+16th Rene Sully-Prudhomme
+17th Patrick Hamilton
+18th John Updike
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please ch=
+eck
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful i=
+f
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+AOL'S ANSWER TO TIVO TO BE LIKE TIVO, SORT OF
+Recognizing the threat TiVo and similar personal video recording technolo=
+gy
+is posing to TV networks and Hollywood studios, AOL Time Warner has been
+secretly developing its own version of the technology, called Mystro TV.
+Mystro uses the cable system itself to let viewers watch programs on thei=
+r
+own schedules (just as TiVo does), but it lets networks retain a level of
+control (dictating which shows users can reschedule) and offers them a wa=
+y
+to insert commercials, which TiVo allows its set-owners to avoid. (New Yo=
+rk
+Times 10 Mar 2003)
+http://partners.nytimes.com/2003/03/10/technology/10AOL.html
+
+
+                    -------------------
+
+MCDONALD'S JUMPS ON WI-FI BANDWAGON
+McDonald's announced ten stores in Manhattan will begin offering one hour=
+ of
+Wi-Fi high-speed Internet access to anyone who buys a combination meal, a=
+nd
+plans to extend the program to 300 McDonald's restaurants in New York,
+Chicago and a yet-unannounced California town. "You can come in and have =
+an
+extra value meal and send some e-mail," says a McDonald's spokeswoman.
+McDonald's joins more than 400 Borders bookstores, hundreds of hotels and=
+ a
+couple of U.S. airports where Wi-Fi access will be available by summer. (=
+AP
+11 Mar 2003)
+http://apnews.excite.com/article/20030311/D7PMRGO80.html
+
+LEGISLATION TO ESTABLISH DIGITAL COPYING RIGHTS
+Rep. Zoe Lofgren (D, CA) is reintroducing legislation called the Balance
+Act, intended to give people the right to make back-up copies of copyrigh=
+ted
+digital works for use on other devices (such as car CD players) and to
+protect consumers who break technological locks in order to view DVD movi=
+es
+on their computers. Lofgren says, "Most people -- at least, most adults -=
+-
+don't expect to get content as a freebie. But when people pay good money =
+to
+buy something and then can't use it in the way they've become accustomed =
+to,
+it makes them mad." The Motion Picture Association of America (MPAA) and =
+the
+Business Software Alliance (BSA) strongly oppose the proposed legislation=
+,
+which is thought to have just a long-shot chance of being passed. Arguing
+that such legislation "would provide safe harbor for pirates," Jack Valen=
+ti
+of the MPAA said, "As drafted, this legislation essentially legalizes
+hacking." (San Jose Mercury News 11 Mar 2003)
+http://www.siliconvalley.com/mld/siliconvalley/5365373.htm
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to=
+:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+CORNELL TO CHARGE BANDWIDTH HOGS
+A new billing system at Cornell University will charge network users
+whose usage exceeds two gigabytes of data per month. Cornell's
+expenses for providing Internet service are rising an average of 40
+percent per year, and officials at the institution decided they had to
+implement a new billing model. Formerly Cornell charged per port,
+though this became problematic when some users installed multiport
+repeaters, allowing them to run several computers on a single port. The
+new, so-called "pay by the drink" program retains the per-port charge
+but adds an Internet use fee, which covers usage up to two gigabytes
+per month. Every megabyte of usage above that limit will incur a fee to
+the user. Officials said the new approach to billing is designed in
+part to recoup some of the costs of providing bandwidth but also to
+educate users about how much bandwidth they are using. With that
+information, said administrators, users can make informed
+decisions--and pay for them--regarding their use of the network.
+Officials at the school said that the two-gigabyte limit will allow 90
+percent of users to avoid paying an extra fee.
+Chronicle of Higher Education, 6 March 2003
+http://chronicle.com/free/2003/03/2003030601t.htm
+
+{We wonder how much they would charge?}
+                    -------------------
+
+COMPUTER WASTE BILL REINTRODUCED
+Rep. Mike Thompson (D-Calif.) last week reintroduced the National
+Computer Recycling Act, which died in last year's Congress. The bill
+would add a $10 surcharge to the price of every computer and monitor
+sold in the United States, to be used to fund what Thompson called a
+national infrastructure for recycling computers and dealing with
+computer waste. Specifically, the Environmental Protection Agency would
+administer a grant program to fund state and local computer recycling
+programs. The bill is also intended to encourage electronics
+manufacturers to set up programs for consumers to return unwanted
+computers and monitors for recycling. Some computer makers, including
+Hewlett-Packard, Dell, and IBM, already offer return and recycling
+programs, but consumer participation has thus far been modest.
+ZDNet, 10 March 2003
+http://zdnet.com.com/2100-1103-991638.html
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/hel=
+p
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the booklists and the number=20
+crunching (great formatting George), Mark and Larry Wall. Greg and Michae=
+l=20
+are on holiday (Wish I was).
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_03_12_version_w.txt" target="_blank" rel="nofollow">pgweekly_2003_03_12_version_w.txt</a>

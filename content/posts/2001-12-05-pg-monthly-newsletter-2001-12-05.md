@@ -1,0 +1,1110 @@
+---
+params:
+  id: 1827
+title: PG Monthly Newsletter (2001-12-05)
+date: 2001-12-05T20:34:20+00:00
+author: Michael Cook
+layout: post
+url: /20011205/pg-monthly-newsletter-2001-12-05/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gmonthly] Project Gutenberg Monthly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Monthly Newsletter" &lt;gmonthly@listserv.unc.edu&gt;
+Date: Wed, 5 Dec 2001 12:31:20 -0500 (EST)
+
+
+PROJECT GUTENBERG MONTHLY NEWSLETTER FOR DECEMBER 5, 2001
+
+Some of the readers of the Weekly Newsletters have mentioned
+that the readers of the Monthly Newsletters are missing some
+of the articles included there but not here.  As far as _I_
+could tell, that was the main reason for the Monthly edition,
+to provide all the indexing information, but not the articles.
+
+***4,161 Tree-Friendly Titles Online***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+   - A message from Michael S. Hart, Founder of Project Gutenberg
+   - The need for donations
+   - Copyright research contact info
+   - Online proofreading team
+   - Anyone in Salt Lake City?
+   - Making Donations, States list
+   - Access to the collection
+   - Non-English Texts
+   - Information about Mirrors
+   - Project Gutenberg of Australia new web address
+   - 14 new etexts at Project Gutenberg of Australia
+   - "Life + 50" Copyright Countries Listing
+   - 254 Updated etexts, including 14 etexts in new formats
+   - 88 new U.S. etexts, including the FIRST Greek etext!
+   - Statistics
+   - Newsscan news
+   - Information about mailing lists
+
+***
+
+Project Gutenberg depends on leverage, the leverage of using the Internet
+to multiply the efforts of our few thousand volunteers to get that effort
+to a few hundred million people.  Your efforts through Project Gutenberg,
+simple as though they may appear. . .typing, scanning, proofreading or an
+assortment of other pieces required to get eBooks to the masses. . .are a
+powerful beacon to people all over the world.
+
+People ask me how I managed to keep working on Project Gutenberg during a
+long initial period of 17 years before anyone ever had any response other
+than that it was crazy to put Shakespeare in a computer. . .the answer is
+that I could see every word I typed being read by 100,000,000 people.
+
+Your work, on your favorite books, is VERY likely to reach 100,000,000 in
+today's world, and even more likely in the world of tomorrow.  Recently I
+noted in our Newsletter that the world population has reached 6 billion--
+meaning that we only had to reach 1.67% of the population to have reached
+our target audience of 100,000,000 people.  When Project Gutenberg began,
+the population was around 3.678 billion, which meant we would need to get
+our eTexts to 2.72% of the population to reach 100,000,000 people and the
+percentange we need to reach to achieve our goal of 100,000,000 people is
+continuing to drop, and will be closer to 1% than to 2% before population
+is recorded at 6.7 billion, probably before we reach 2009.
+
+Thus, even if your work only reaches 1% of the population, you will still
+be able to reach 100,000,000 people. . .Wow!  Talk About Leverage!!!!!!!
+
+So. . .think about this while you are creating eBooks for the world. . .a
+little effort on your part, perhaps spread out over days, weeks, or, even
+months or years, could easily bring advancements in literacy, information
+and the general standard of living to ONE HUNDRED MILLION PEOPLE.
+
+That, in a nutshell, is the goal of Project Gutenberg.
+
+For the first time, we have produced 1,000 eBooks in a single year, which
+means we have to become even better at supporting you, our volunteers.  I
+welcome your suggestions and your efforts as to how to accomplish this.
+
+Wishing You The Very Best Of New Years For 2002!
+
+Michael S. Hart
+Founder
+Project Gutenberg
+
+
+***
+
+Please put Project Gutenberg on your Holiday Gift Giving list
+I've been advised we have just enough to get to month's end.
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com &lt;mailto:hart@pobox.com&gt;
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+Copyright research: Michael Hart is back in town.  If you sent
+him postal mail for copyright clearance, please email him to check
+on its status.  hart@pobox.com
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+
+The Online Distributed Proofreading team proudly announces that October
+was their new record high month with 10831 pages proofed in the month!!
+We have set our goal at 12,000 pages for the month of November, stop on by
+and help us set a new record!
+
+Please note the NEW FASTER ADDRESS for distributed proofreading:
+     http://charlz.dns2go.com/gutenberg
+
+***
+
+Continuing Request!!!!
+
+Any volunteers around Salt Lake City?
+We need someone who can help out there.
+Please reply to:
+Anne Wingate &lt;gutenberg77@aol.com &lt;mailto:gutenberg77@aol.com&gt;&gt;
+
+***
+
+As of 10/28/01 contributions are only being solicited from people in:
+Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho,
+Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan,
+Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico,
+New York, North Carolina, South Carolina, Oklahoma, Oregon, Pennsylvania,
+Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont,
+Virginia, Washington, Wisconsin, and Wyoming
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+Please email Greg Newby, director of the Project Gutenberg
+Literary Archive Foundation, to inquire about wire transfer
+or EFT.
+
+Coming soon:  PayPal donations!
+
+Also coming soon: Donations via Network For Good,
+http://www.networkforgood.org
+
+THANKS to everyone who has sent a donation.  Please think of
+us for your holiday and end-of-year giving.
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search"
+feature at:
+
+http://promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+23 French PG texts and 10 in Italian.
+
+And now, there is 1 in Greek!
+
+Why not more...???
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+Col Choat has moved his Project Gutenberg of Australia website
+from:  http://au.geocities.com/gutenberg_au/
+to:    http://gutenberg.net.au/
+
+Here's more information from Project Gutenberg of Australia:
+
+Project Gutenberg of Australia
+
+Here in Oz we are celebrating the launch of our permanent PG site,
+gutenberg.net.au, after being temporarily located at au.geocities.com
+for a time.
+
+We have 26 books listed which are in the public domain in Australia so
+why not drop in and have a look!  We also have listed all of the PG
+etexts (from both the US and Oz sites) which were written by
+Australians or which relate (loosely) to Australia.
+
+Books enter the public domain in Australia 50 years after the author's
+death, provided they were published during the author's lifetime. For
+translations, the same rules apply to the person translating.
+Therefore, we only need to be satisfied that the author died at least
+50 years ago and that the work was published during his/her
+lifetime. Copyright cannot be renewed or revived by subsequent
+publication, nor does a copyright held by a person other than the
+author have any validity in such cases.
+
+Of course, works which are in the public domain in Australia may
+remain copyrighted in other countries. People may not download, or
+read online, such books if they are in a country where copyright
+protections extend more than 50 years past an author's death. The
+author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+If you require more information or would like to submit an etext,
+contact Col Choat at colc@gutenberg.net.au.
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 12/04/01**:  4,161
+(This number includes the 27 etexts posted at the PG Australia web site.)
+
+Thru 11/28/01:  48 Weeks & 2 Days (338 days)
+                1,103 total new etexts, yr-to-date.
+                Weekly avg.:  22.98
+                Daily avg:     3.26
+
+The above translates to the following;
+Our Total For The Year Is About 1,103 For 338 days,
+this is 3.26 per day or 98.04 Per 30 day month. . . .
+This Would Yield About 1,190 For The Year. . . .
+We are about 48 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+--=={ PROJECT GUTENBERG OF AUSTRALIA }==--
+
+First, 14 More eTexts from Project Gutenberg of Australia:
+
+Dec 2001 Tarzan and the Golden Lion, by E Burroughs [EB#06][010027xx.xxx]0027A
+[Author's full name: Edgar Rice Burroughs]
+Nov 2001 The Island of Desire, by Robert D Frisbie  [RF#01][010026xx.xxx]0026A
+
+Nov 2001 Anne of Windy Poplars, by L M Montgomery   [LM#01][010025xx.xxx]0025A
+Nov 2001 Llana of Gathol, by Edgar Rice Burroughs   [EB#05][010024xx.xxx]0024A
+Nov 2001 Synthetic Men of Mars, by Edgar R Burroughs[EB#04][010023xx.xxx]0023A
+[Author's full name: Edgar Rice Burroughs]
+Nov 2001 Swords of Mars, by Edgar Rice Burroughs    [EB#03][010022xx.xxx]0022A
+Nov 2001 A Fighting Man of Mars, by Edgar Burroughs [EB#02][010021xx.xxx]0021A
+[Author's full name: Edgar Rice Burroughs]
+
+Nov 2001 The Mastermind of Mars, by Edgar Burroughs [EB#01][010020xx.xxx]0020A
+[Author's full name: Edgar Rice Burroughs]
+Nov 2001 Two hanged Women, by Henry H Richardson    [HR#05][010019xx.xxx]0019A
+[Author's full name: Henry Handel Richardson]
+Nov 2001 Lady Chatterley's Lover, by D H Lawrence   [DL#01][010018xx.xxx]0018A
+Nov 2001 Down and Out in Paris and London, by Orwell[GO#03][010017xx.xxx]0017A
+[Author's full name: George Orwell]
+Oct 2001 A Raw Youth, by Fyodor Dostoevsky          [FD#01][010016xx.xxx]0016A
+
+Oct 2001 Dwellers in the Mirage, by Abraham Merritt [AM#01][010015xx.xxx]0015A
+Oct 2001 Bush Studies, by Barbara Baynton           [BB#01][010014xx.xxx]0014A
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+--=={ REVISIONS, CORRECTIONS AND NEW FORMATS }==--
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt.
+
+A significantly updated Version 14 has been posted of the folloiwng:
+
+Sep 1993 Ivanhoe, Walter Scott [#1]  OBI/Wiretap/Gutenberg [ivnhoxxx.xxx]  82
+[This includes a section missing from the original etext.]
+
+
+We have just posted a significantly improved 13th edition of:
+Apr 1993 A Princess of Mars Edgar Rice Burroughs  [Mars #1][pmarsxxx.xxx]  62
+
+
+The following has been reposted with an improved 12th edition:
+
+Aug 2002 Entire PG Edition of William Dean Howells  [WH#47][whewkxxx.xxx]3400
+
+The following have been posted with new 12th editions and have had
+the series information changed on the indexes:
+
+May 1993 Gods of Mars, Edgar Rice Burroughs       [Mars #2][gmarsxxx.xxx]  64
+Apr 1993 A Princess of Mars, Edgar Rice Burroughs [Mars #1][pmarsxxx.xxx]  62
+
+A significantly updated version 12 has been posted of the following,
+with a new copyrighted header.
+
+Aug 1994 Beethoven's Fifth Symphony, New Version in Stereo [lvb5sxxx.zip] 156C
+[MIDI format
+  Contains: README.TXT 5_1gm15.mid  5_2gm15.mid  5_3gm14.mid  5_4gm14.mid]
+
+The following etext has been re-posted as Version 12, in both
+.txt and .zip formats:
+
+Apr 2002 Complete Letters of Mark Twain, by Paine   [MT#60][mtcltxxx.xxx]3199
+
+
+The following have been reposted with significantly improved 11th editions:
+
+These files will be found in etext02, as edition 11, in both .txt and .zip
+(The .txt file is approximately 19mb.)
+Apr 2002 Entire Gutenberg Twain Files, by Mark Twain[MT#61][mtentxxx.xxx]3200
+
+May 2003 Mozart:The Man and the Artist, by Kerst & Krehbiel[wammaxxx.xxx]4042
+
+Apr 2003 The Entire Madame Chrysantheme by Loti     [IM#82][im82bxxx.xxx]3995
+Apr 2003 Madame Chrysantheme by Pierre Loti, v4     [IM#81][im81bxxx.xxx]3994
+Apr 2003 Madame Chrysantheme by Pierre Loti, v3     [IM#80][im80bxxx.xxx]3993
+Apr 2003 Madame Chrysantheme by Pierre Loti, v2     [IM#79][im79bxxx.xxx]3992
+Apr 2003 Madame Chrysantheme by Pierre Loti, v1     [IM#78][im78bxxx.xxx]3991
+
+Feb 2003 Haydn, by J. Cuthbert Hadden  [Master Musicians]  [hhmmsxxx.xxx]3788
+
+Feb 2003 Coniston, Complete, by Winston Churchill   [WC#18][wc18vxxx.xxx]3766
+Feb 2003 Coniston, Volume 4, by Winston Churchill   [WC#17][wc17vxxx.xxx]3765
+Feb 2003 Coniston, Volume 3, by Winston Churchill   [WC#16][wc16vxxx.xxx]3764
+Feb 2003 Coniston, Volume 2, by Winston Churchill   [WC#15][wc15vxxx.xxx]3763
+Feb 2003 Coniston, Volume 1, by Winston Churchill   [WC#14][wc14vxxx.xxx]3762
+[This author is a cousin of Sir Winston Churchill, the English
+[Prime Minister]
+
+Feb 2003 The Entire PG Memoirs of Napoleon, by Various     [napolxxx.xxx]3740
+[Authors: Bourrienne, Constant, and Stewarton (a "Gentleman at Paris")]
+Feb 2003 A Far Country by Winston Churchill All[Winston#13][wc13vxxx.xxx]3739
+Feb 2003 A Far Country, by Winston Churchill V3[Winston#12][wc12vxxx.xxx]3738
+Feb 2003 A Far Country, by Winston Churchill V2[Winston#11][wc11vxxx.xxx]3737
+Feb 2003 A Far Country, by Winston Churchill V1[Winston#10][wc10vxxx.xxx]3736
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Jan 2003 Mr. Crewe's Career, All, by Winston Churchill [#9][wc09vxxx.xxx]3684
+Jan 2003 Mr. Crewe's Career, V. 3, by Winston Churchill[#8][wc08vxxx.xxx]3683
+Jan 2003 Mr. Crewe's Career, V. 2, by Winston Churchill[#7][wc07vxxx.xxx]3682
+Jan 2003 Mr. Crewe's Career, V. 1, by Winston Churchill[#6][wc06vxxx.xxx]3681
+
+Jan 2003 The Dwelling Place of Light /All/Winston Churchill[wc05vxxx.xxx]3649
+Jan 2003 The Dwelling Place of Light, V3, Winston Churchill[wc04vxxx.xxx]3648
+Jan 2003 The Dwelling Place of Light, V2, Winston Churchill[wc03vxxx.xxx]3647
+Jan 2003 The Dwelling Place of Light, V1, Winston Churchill[wc02vxxx.xxx]3646
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Dec 2002 The Complete Essays of Montaigne, Cotton   [MN#20][mn20vxxx.xxx]3600
+Dec 2002 The Essays of Montaigne, V19, 1877, Cotton [MN#19][mn19vxxx.xxx]3599
+Dec 2002 The Essays of Montaigne, V18, 1877, Cotton [MN#18][mn18vxxx.xxx]3598
+Dec 2002 The Essays of Montaigne, V17, 1877, Cotton [MN#17][mn17vxxx.xxx]3597
+Dec 2002 The Essays of Montaigne, V16, 1877, Cotton [MN#16][mn16vxxx.xxx]3596
+
+Dec 2002 The Essays of Montaigne, V15, 1877, Cotton [MN#15][mn15vxxx.xxx]3595
+Dec 2002 The Essays of Montaigne, V14, 1877, Cotton [MN#14][mn14vxxx.xxx]3594
+Dec 2002 The Essays of Montaigne, V13, 1877, Cotton [MN#13][mn13vxxx.xxx]3593
+Dec 2002 The Essays of Montaigne, V12, 1877, Cotton [MN#12][mn12vxxx.xxx]3592
+Dec 2002 The Essays of Montaigne, V11, 1877, Cotton [MN#11][mn11vxxx.xxx]3591
+
+Dec 2002 The Essays of Montaigne, V10, 1877, Cotton [MN#10][mn10vxxx.xxx]3590
+Dec 2002 The Essays of Montaigne, V9, 1877, Cotton  [MN#09][mn09vxxx.xxx]3589
+Dec 2002 The Essays of Montaigne, V8, 1877, Cotton  [MN#08][mn08vxxx.xxx]3588
+Dec 2002 The Essays of Montaigne, V7, 1877, Cotton  [MN#07][mn07vxxx.xxx]3587
+Dec 2002 The Essays of Montaigne, V6, 1877, Cotton  [MN#06][mn06vxxx.xxx]3586
+
+Dec 2002 The Essays of Montaigne, V5, 1877, Cotton  [MN#05][mn05vxxx.xxx]3585
+Dec 2002 The Essays of Montaigne, V4, 1877, Cotton  [MN#04][mn04vxxx.xxx]3584
+Dec 2002 The Essays of Montaigne, V3, 1877, Cotton  [MN#03][mn03vxxx.xxx]3583
+Dec 2002 The Essays of Montaigne, V2, 1877, Cotton  [MN#02][mn02vxxx.xxx]3582
+Dec 2002 The Essays of Montaigne, V1, 1877, Cotton  [MN#01][mn01vxxx.xxx]3581
+
+Dec 2002 Complete Life of Napoleon, V13, by Constant[NB#30][nc13vxxx.xxx]3580
+Dec 2002 Private Life of Napoleon, V12, by Constant [NB#29][nc12vxxx.xxx]3579
+Dec 2002 Private Life of Napoleon, V11, by Constant [NB#28][nc11vxxx.xxx]3578
+Dec 2002 Private Life of Napoleon, V10, by Constant [NB#27][nc10vxxx.xxx]3577
+Dec 2002 Private Life of Napoleon, V9, by Constant  [NB#26][nc09vxxx.xxx]3576
+
+Dec 2002 Private Life of Napoleon, V8, by Constant  [NB#25][nc08vxxx.xxx]3575
+Dec 2002 Private Life of Napoleon, V7, by Constant  [NB#24][nc07vxxx.xxx]3574
+Dec 2002 Private Life of Napoleon, V6, by Constant  [NB#23][nc06vxxx.xxx]3573
+Dec 2002 Private Life of Napoleon, V5, by Constant  [NB#22][nc05vxxx.xxx]3572
+Dec 2002 Private Life of Napoleon, V4, by Constant  [NB#21][nc04vxxx.xxx]3571
+
+Dec 2002 Private Life of Napoleon, V3, by Constant  [NB#20][nc03vxxx.xxx]3570
+Dec 2002 Private Life of Napoleon, V2, by Constant  [NB#19][nc02vxxx.xxx]3569
+Dec 2002 Private Life of Napoleon, V1, by Constant  [NB#18][nc01vxxx.xxx]3568
+Dec 2002 Complete Memoirs of Napoleon, by Bourrienne[NB#17][nb17vxxx.xxx]3567
+Dec 2002 Memoirs of Napoleon, V16, by Bourrienne    [NB#16][nb16vxxx.xxx]3566
+
+Dec 2002 Memoirs of Napoleon, V15, by Bourrienne    [NB#15][nb15vxxx.xxx]3565
+Dec 2002 Memoirs of Napoleon, V14, by Bourrienne    [NB#14][nb14vxxx.xxx]3564
+Dec 2002 Memoirs of Napoleon, V13, by Bourrienne    [NB#13][nb13vxxx.xxx]3563
+Dec 2002 Memoirs of Napoleon, V12, by Bourrienne    [NB#12][nb12vxxx.xxx]3562
+Dec 2002 Memoirs of Napoleon, V11, by Bourrienne    [NB#11][nb11vxxx.xxx]3561
+
+Dec 2002 Memoirs of Napoleon, V10, by Bourrienne    [NB#10][nb10vxxx.xxx]3560
+Dec 2002 Memoirs of Napoleon, V9, by Bourrienne     [NB#09][nb09vxxx.xxx]3559
+Dec 2002 Memoirs of Napoleon, V8, by Bourrienne     [NB#08][nb08vxxx.xxx]3558
+Dec 2002 Memoirs of Napoleon, V7, by Bourrienne     [NB#07][nb07vxxx.xxx]3557
+Dec 2002 Memoirs of Napoleon, V6, by Bourrienne     [NB#06][nb06vxxx.xxx]3556
+
+Dec 2002 Memoirs of Napoleon, V5, by Bourrienne     [NB#05][nb05vxxx.xxx]3555
+Dec 2002 Memoirs of Napoleon, V4, by Bourrienne     [NB#04][nb04vxxx.xxx]3554
+Dec 2002 Memoirs of Napoleon, V3, by Bourrienne     [NB#03][nb03vxxx.xxx]3553
+Dec 2002 Memoirs of Napoleon, V2, by Bourrienne     [NB#02][nb02vxxx.xxx]3552
+Dec 2002 Memoirs of Napoleon, V1, by Bourrienne     [NB#01][nb01vxxx.xxx]3551
+[Author's Full Name: Louis Antoine Fauvelet de Bourrienne]
+
+Oct 2002 The Boys' Life of Mark Twain, Albert Bigelow Paine[mt8bgxxx.xxx]3463
+
+Sep 2002 Ragged Lady, by William Dean Howells Vol 2 [WH#52][wh2rlxxx.xxx]3406
+Sep 2002 Ragged Lady, by William Dean Howells Vol 1 [WH#51][wh1rlxxx.xxx]3405
+Sep 2002 April Hopes, by William Dean Howells       [WH#50][whahpxxx.xxx]3404
+
+Aug 2002 Of Literature--Entire, by W. D. Howells    [WH#46][whlfrxxx.xxx]3399
+Aug 2002 First Visit to New England, by W. Howells  [WH#45][whvnexxx.xxx]3398
+Aug 2002 Roundabout to Boston, by W. D. Howells     [WH#44][whrtbxxx.xxx]3397
+Aug 2002 Literary Boston, by William Dean Howells   [WH#43][whbosxxx.xxx]3396
+
+Aug 2002 Oliver Wendell Holmes, by W. D. Howells    [WH#42][whowhxxx.xxx]3395
+Aug 2002 The White Mr. Longfellow, by W. Howells    [WH#41][whlngxxx.xxx]3394
+Aug 2002 Studies of Lowell, by William Dean Howells [WH#40][whlowxxx.xxx]3393
+Aug 2002 Cambridge Neighbors, by W. D. Howells      [WH#39][whcbnxxx.xxx]3392
+Aug 2002 A Belated Guest, by Willam Dean Howells    [WH#38][whabgxxx.xxx]3391
+
+Aug 2002 My Mark Twain, by Willam Dean Howells      [WH#37][whmmtxxx.xxx]3390
+
+Aug 2002 Literature and Life, by W. D. Howells      [WH#36][whlalxxx.xxx]3389
+Aug 2002 Man of Letters in Business, by W. Howells  [WH#35][whmlbxxx.xxx]3388
+Aug 2002 Confessions of Summer Colonist, by Howells [WH#34][whcscxxx.xxx]3387
+Aug 2002 The Young Contributor, by W. D. Howells    [WH#33][whtycxxx.xxx]3386
+
+Aug 2002 Last Days in a Dutch Hotel, by W. Howells  [WH#32][whldhxxx.xxx]3385
+Aug 2002 Anomalies of the Short Story, by Howells   [WH#31][whassxxx.xxx]3384
+Aug 2002 Spanish Prisoners of War, by W. Howells    [WH#30][whspwxxx.xxx]3383
+Aug 2002 American Literary Centers, by W. Howells   [WH#29][whalcxxx.xxx]3382
+Aug 2002 Standard Household Effect Co., by Howells  [WH#28][whshexxx.xxx]3381
+
+Aug 2002 Notes of a Vanished Summer, by W. Howells  [WH#27][whvanxxx.xxx]3380
+Aug 2002 Short Stories and Essays, by W. Howells    [WH#26][whssexxx.xxx]3379
+Aug 2002 My Literary Passions, by W. D. Howells     [WH#25][whmlpxxx.xxx]3378
+Aug 2002 Criticism and Fiction, by W. D. Howells    [WH#24][whcafxxx.xxx]3377
+Aug 2002 The Landlord at Lions Head V2, by Howells  [WH#23][wh2lhxxx.xxx]3376
+
+Aug 2002 The Landlord at Lions Head V1, by Howells  [WH#22][wh1lhxxx.xxx]3375
+Aug 2002 The Entire March Family Trilogy, by Howells[WH#21][whemfxxx.xxx]3374
+[Includes all volumes of "Wedding Journeys," and "A Hazard of New Fortunes"]
+Aug 2002 Silver Wedding Journey V3, by W. D. Howells[WH#20][wh3swxxx.xxx]3373
+Aug 2002 Silver Wedding Journey V2, by W. D. Howells[WH#19][wh2swxxx.xxx]3372
+Aug 2002 Silver Wedding Journey V1, by W. D. Howells[WH#18][wh1swxxx.xxx]3371
+
+Aug 2002 A Hazard of New Fortunes V5, by W. Howells [WH#17][wh5nfxxx.xxx]3370
+Aug 2002 A Hazard of New Fortunes V4, by W. Howells [WH#16][wh4nfxxx.xxx]3369
+Aug 2002 A Hazard of New Fortunes V3, by W. Howells [WH#15][wh3nfxxx.xxx]3368
+Aug 2002 A Hazard of New Fortunes V2, by W. Howells [WH#14][wh2nfxxx.xxx]3367
+Aug 2002 A Hazard of New Fortunes V1, by W. Howells [WH#13][wh1nfxxx.xxx]3366
+
+Aug 2002 Their Wedding Journey, by W. D. Howells    [WH#12][whtwjxxx.xxx]3365
+Aug 2002 Dr. Breen's Practice, by W. D. Howells     [WH#11][whdbpxxx.xxx]3364
+Aug 2002 Fennel and Rue, by William Dean Howells    [WH#10][whfarxxx.xxx]3363
+Aug 2002 The Kentons, by William Dean Howells       [WH#09][whkenxxx.xxx]3362
+Aug 2002 The Entire PG Edition of Chesterfield      [LC#11][lcewkxxx.xxx]3361
+
+Aug 2002 Letters to His Son 1766-71, by Chesterfield[LC#10][lc10sxxx.xxx]3360
+Aug 2002 Letters to His Son 1759-65, by Chesterfield[LC#09][lc09sxxx.xxx]3359
+Aug 2002 Letters to His Son 1756-58, by Chesterfield[LC#08][lc08sxxx.xxx]3358
+Aug 2002 Letters to His Son 1753-54, by Chesterfield[LC#07][lc07sxxx.xxx]3357
+Aug 2002 Letters to His Son 1752, by Chesterfield   [LC#06][lc06sxxx.xxx]3356
+
+Aug 2002 Letters to His Son 1751, by Chesterfield   [LC#05][lc05sxxx.xxx]3355
+Aug 2002 Letters to His Son 1750, by Chesterfield   [LC#04][lc04sxxx.xxx]3354
+Aug 2002 Letters to His Son 1749, by Chesterfield   [LC#03][lc03sxxx.xxx]3353
+Aug 2002 Letters to His Son 1748, by Chesterfield   [LC#02][lc02sxxx.xxx]3352
+Aug 2002 Letters to His Son 1746-47, by Chesterfield[LC#01][lc01sxxx.xxx]3351
+
+Jul 2002 The Complete Wandering Jew, by Eugene Sue  [ES#12][es12vxxx.xxx]3350
+Jul 2002 The Wandering Jew, Vol. 11, by Eugene Sue  [ES#11][es11vxxx.xxx]3349
+Jul 2002 The Wandering Jew, Vol. 10, by Eugene Sue  [ES#10][es10vxxx.xxx]3348
+Jul 2002 The Wandering Jew, Vol.  9, by Eugene Sue  [ES#09][es09vxxx.xxx]3347
+Jul 2002 The Wandering Jew, Vol.  8, by Eugene Sue  [ES#08][es08vxxx.xxx]3346
+
+Jul 2002 The Wandering Jew, Vol.  7, by Eugene Sue  [ES#07][es07vxxx.xxx]3345
+Jul 2002 The Wandering Jew, Vol.  6, by Eugene Sue  [ES#06][es06vxxx.xxx]3344
+Jul 2002 The Wandering Jew, Vol.  5, by Eugene Sue  [ES#05][es05vxxx.xxx]3343
+Jul 2002 The Wandering Jew, Vol.  4, by Eugene Sue  [ES#04][es04vxxx.xxx]3342
+Jul 2002 The Wandering Jew, Vol.  3, by Eugene Sue  [ES#03][es03vxxx.xxx]3341
+
+Jul 2002 The Wandering Jew, Vol.  2, by Eugene Sue  [ES#02][es02vxxx.xxx]3340
+Jul 2002 The Wandering Jew, Vol.  1, by Eugene Sue  [ES#01][es01vxxx.xxx]3339
+
+Jun 2002 Hadleyburg and Other Stories, by Mark Twain       [mthdbxxx.xxx]3251
+
+May 2002 How Tell a Story and Others, by Mark Twain [MT#31][mthtsxxx.xxx]3250
+
+Apr 2002 Twain's Letters V6 1907-1910 by A. B. Paine[MT#59][mt6ltxxx.xxx]3198
+Apr 2002 Twain's Letters V5 1901-1906 by A. B. Paine[MT#58][mt5ltxxx.xxx]3197
+Apr 2002 Twain's Letters V4 1886-1900 by A. B. Paine[MT#57][mt4ltxxx.xxx]3196
+
+Apr 2002 Twain's Letters V3 1876-1885 by A. B. Paine[MT#56][mt3ltxxx.xxx]3195
+Apr 2002 Twain's Letters V2 1867-1875 by A. B. Paine[MT#55][mt2ltxxx.xxx]3194
+Apr 2002 Twain's Letters V1 1835-1866 by A. B. Paine[MT#54][mt1ltxxx.xxx]3193
+Apr 2002 Curious Republic of Gondour, by Mark Twain [MT#53][mtcrgxxx.xxx]3192
+Apr 2002 Goldsmiths Friend Abroad Again, by Twain   [MT#52][mtgfaxxx.xxx]3191
+
+Apr 2002 1601, by Mark Twain                        [MT#51][mtsxnxxx.xxx]3190
+Apr 2002 Sketches New and Old, by Mark Twain        [MT#50][mtsnoxxx.xxx]3189
+Apr 2002 Mark Twain's Speeches, by Mark Twain       [MT#49][mtmtsxxx.xxx]3188
+Apr 2002 Christian Science, by Mark Twain           [MT#48][mtcscxxx.xxx]3187
+Apr 2002 The Mysterious Stranger, by Mark Twain     [MT#47][mtmstxxx.xxx]3186
+
+Apr 2002 Those Extraordinary Twins, by Mark Twain   [MT#46][mtextxxx.xxx]3185
+Apr 2002 Alonzo Fitz and Others, by Mark Twain      [MT#45][mtlafxxx.xxx]3184
+Apr 2002 Carnival of Crime in CT., by Mark Twain    [MT#44][mtcccxxx.xxx]3183
+Apr 2002 Rambling Idle Excursion, by Mark Twain     [MT#43][mtridxxx.xxx]3182
+Apr 2002 The Stolen White Elephant, by Mark Twain   [MT#42][mtswexxx.xxx]3181
+
+Apr 2002 Double Barrelled Detective, by Mark Twain  [MT#41][mtdbdxxx.xxx]3180
+Apr 2002 The American Claimant, by Mark Twain       [MT#40][mtaclxxx.xxx]3179
+Apr 2002 The Gilded Age, by Twain and Warner[MT#40][CDW#39][mtgldxxx.xxx]3178
+Apr 2002 Roughing It, by Mark Twain                 [MT#38][mtritxxx.xxx]3177
+Apr 2002 The Innocents Abroad, by Mark Twain        [MT#37][mtinnxxx.xxx]3176
+
+Apr 2002 A Burlesque Autobiography, by Mark Twain   [MT#36][mtbbgxxx.xxx]3175
+Apr 2002 A Dog's Tale, by Mark Twain                [MT#35][mtdtlxxx.xxx]3174
+Apr 2002 Essays on Paul Bourget, by Mark Twain      [MT#34][mtpbgxxx.xxx]3173
+Apr 2002 Fennimore Cooper Offences, by Mark Twain   [MT#33][mtfcoxxx.xxx]3172
+Apr 2002 Defence of Harriet Shelley, by Mark Twain  [MT#32][mtdhsxxx.xxx]3171
+
+
+Mar 2002 Entire Warner, by Charles Dudley Warner    [CW#40][cwewkxxx.xxx]3136
+
+Mar 2002 Summer in a Garden, by C. D. Warner        [CW#39][cwsigxxx.xxx]3135
+Mar 2002 Backlog Studies, by Charles Dudley Warner  [CW#38][cwblsxxx.xxx]3134
+Mar 2002 Baddeck, by Charles Dudley Warner          [CW#37][cwbdkxxx.xxx]3133
+Mar 2002 In the Wilderness, by C. D. Warner         [CW#36][cwitwxxx.xxx]3132
+Mar 2002 Spring in New England, by C. D. Warner     [CW#35][cwsnexxx.xxx]3131
+
+Mar 2002 Captain John Smith, by C. D. Warner        [CW#34][cwcjsxxx.xxx]3130
+Mar 2002 Pocohantas, by Charles Dudley Warner       [CW#33][cwpocxxx.xxx]3129
+Mar 2002 Saunterings, by Charles Dudley Warner      [CW#32][cwsntxxx.xxx]3128
+Mar 2002 Being a Boy, by Charles Dudley Warner      [CW#31][cwbabxxx.xxx]3127
+Mar 2002 On Horseback, by Charles Dudley Warner     [CW#30][cwohbxxx.xxx]3126
+
+Mar 2002 Complete Essays, by Charles Dudley Warner  [CW#29][cwcesxxx.xxx]3125
+Mar 2002 For whom Shakespeare, by C. D. Warner      [CW#28][cwshkxxx.xxx]3124
+Mar 2002 Novel and School, by Charles Dudley Warner [CW#27][cwnscxxx.xxx]3123
+Mar 2002 England, by Charles Dudley Warner          [CW#26][cwengxxx.xxx]3122
+Mar 2002 Mr. Foude's Progress, by C. D. Warner      [CW#25][cwfpgxxx.xxx]3121
+
+Mar 2002 Modern Fiction, by C. D. Warner            [CW#24][cwmftxxx.xxx]3120
+Mar 2002 Your Culture to Me, by C. D. Warner        [CW#23][cwctmxxx.xxx]3119
+Mar 2002 Equality, by Charles Dudley Warner         [CW#22][cweqlxxx.xxx]3118
+Mar 2002 Literature and Life, by C. D. Warner       [CW#21][cwlalxxx.xxx]3117
+Mar 2002 Literary Copyright, by C. D. Warner        [CW#20][cwlcrxxx.xxx]3116
+
+Mar 2002 Indeterminate Sentence, by C. D. Warner    [CW#19][cwinsxxx.xxx]3115
+Mar 2002 Education of the Negro, by C. D. Warner    [CW#18][cwnegxxx.xxx]3114
+Mar 2002 Causes of Discontent, by C. D. Warner      [CW#17][cwcdcxxx.xxx]3113
+Mar 2002 Pilgrim and American, by C. D. Warner      [CW#16][cwpamxxx.xxx]3112
+Mar 2002 Diversities of American Life, by C. Warner [CW#15][cwdalxxx.xxx]3111
+
+Mar 2002 American Newspaper, by C. D. Warner        [CW#14][cwanpxxx.xxx]3110
+Mar 2002 Fashions in Literature, by C. D. Warner    [CW#13][cwfltxxx.xxx]3109
+Mar 2002 Nine Short Essays, by Charles D. Warner    [CW#12][cw9esxxx.xxx]3108
+Mar 2002 As We Go, by Charles Dudley Warner         [CW#11][cwawgxxx.xxx]3107
+Mar 2002 As We Were Saying, by C. D. Warner         [CW#10][cwawsxxx.xxx]3106
+
+Mar 2002 That Fortune, by Charles Dudley Warner      [CW#9][cwfrtxxx.xxx]3105
+Mar 2002 The Golden House, by Charles Dudley Warner  [CW#8][cwgldxxx.xxx]3104
+Mar 2002 Little Journey in the World, by C. Warner   [CW#7][cwljwxxx.xxx]3103
+Mar 2002 Their Pilgrimage, by Charles Dudley Warner  [CW#6][cwpilxxx.xxx]3102
+Mar 2002 Washington Irving, by Charles Dudley Warner [CW#5][cwirvxxx.xxx]3101
+
+Feb 2002 Andersonville, by John McElroy[#2 by John McElroy][andvlxxx.xxx]3072
+
+Dec 2001 Mark Twain, A Biography, Complete, by Albert Paine[mt7bgxxx.xxx]2988
+Dec 2001 Mark Twain, A Biography 1907-1910, by Albert Paine[mt6bgxxx.xxx]2987
+Dec 2001 Mark Twain, A Biography 1900-1907, by Albert Paine[mt5bgxxx.xxx]2986
+
+Dec 2001 Mark Twain, A Biography 1886-1900, by Albert Paine[mt4bgxxx.xxx]2985
+Dec 2001 Mark Twain, A Biography 1875-1886, by Albert Paine[mt3bgxxx.xxx]2984
+Dec 2001 Mark Twain, A Biography 1866-1875, by Albert Paine[mt2bgxxx.xxx]2983
+Dec 2001 Mark Twain, A Biography 1835-1866, by Albert Paine[mt1bgxxx.xxx]2982
+
+Nov 2001 Following the Equator, by Mark Twain   [Twain #20][feqtrxxx.xxx]2895
+
+Jun 2001 The Writings of Abraham Lincoln, Volume 7  [AH #9][7lincxxx.xxx]2659
+Jun 2001 The Writings of Abraham Lincoln, Volume 6  [AH #8][6lincxxx.xxx]2658
+Jun 2001 The Writings of Abraham Lincoln, Volume 5  [AH #7][5lincxxx.xxx]2657
+Jun 2001 The Writings of Abraham Lincoln, Volume 4  [AH #6][4lincxxx.xxx]2656
+
+Jun 2001 The Writings of Abraham Lincoln, Volume 3  [AH #5][3lincxxx.xxx]2655
+Jun 2001 The Writings of Abraham Lincoln, Volume 2  [AH #4][2lincxxx.xxx]2654
+Jun 2001 The Writings of Abraham Lincoln, Volume 1  [AH #3][1lincxxx.xxx]2653
+Jun 2001 Personal Memoirs V2, General Philip Henry Sheridan[2shdnxxx.xxx]2652
+Jun 2001 Personal Memoirs V1, General Philip Henry Sheridan[1shdnxxx.xxx]2651
+
+May 2001 Memoirs of General William T. Sherman, Volume 2   [2shrmxxx.xxx]2617
+May 2001 Memoirs of General William T. Sherman, Volume 1   [1shrmxxx.xxx]2616
+
+Nov 1997 Moon-Face and Other Stories by Jack London[#19-26][mfacexxx.xxx]1089
+[Includes the following:]
+Nov 1997 Planchette, by Jack London                  [#26] [mfacexxx.xxx]1089
+Nov 1997 All Gold Canyon, by Jack London             [#25] [mfacexxx.xxx]1089
+Nov 1997 The Shadow and the Flash, by Jack London    [#24] [mfacexxx.xxx]1089
+Nov 1997 The Minions of Midas, by Jack London        [#23] [mfacexxx.xxx]1089
+Nov 1997 Amateur Night, by Jack London               [#22] [mfacexxx.xxx]1089
+Nov 1997 Local Color, by Jack London                 [#21] [mfacexxx.xxx]1089
+Nov 1997 The Leopard Man's Story, by Jack London     [#20] [mfacexxx.xxx]1089
+Nov 1997 Moon-Face, by Jack London       [Jack London #19] [mfacexxx.xxx]1089
+
+
+The following have also been posted with new 11th editions and have had
+the series information changed on the indexes:
+
+Jan 2000 Tarzan the Terrible,Edgar R. Burroughs [Tarzan #8][tzntrxxx.xxx]2020
+Jul 1998 Tarzan the Untamed, Edgar R. Burroughs [Tarzan #7][tarz7xxx.xxx]1401
+Feb 1994 Jungle Tales of Tarzan,E. R. Burroughs [Tarzan #6][tarz6xxx.xxx] 106
+[Author's Full Name:  Edgar Rice Burroughs]
+Jul 1993 Thuvia, Maid of Mars, Edgar Rice Burroughs[Mars#4][mmarsxxx.xxx]  72
+Jun 1993 Warlord of Mars, Edgar Rice Burroughs     [Mars#3][wmarsxxx.xxx]  68
+
+
+The following text has been reindexed to be included in the
+math series (the header on the file itself was also updated):
+
+Apr 1993 The Number "e"                          [Math #20][ee6xxxxx.xxx]  63
+[Natural Log to 100,000 places]
+
+
+The following have been reposted in HTML, LIT, and PRC format:
+
+Oct 2002 The Efficiency Expert, Edgar R. Burroughs [ERB #7][effncxxx.xxx]3475
+[Author's Full Name:  Edgar Rice Burroughs]
+[The HTML formatted files are effnc11h.htm and effnc11h.zip]
+[The LIT formatted files are effnc11l.lit and effnc11l.zip]
+[The PRC formatted files are effnc11p.prc and effnc11p.zip]
+
+Jul 1996 Pellucidar, by Edgar Rice Burroughs      [Pell #2][pelluxxx.xxx] 605
+[The HTML formatted files are pellu11h.htm and pellu11h.zip]
+[The LIT formatted files are pellu11l.lit and pellu11l.zip]
+[The PRC formatted files are pellu11p.prc and pellu11p.zip]
+
+Jun 1996 At the Earth's Core, Edgar Rice Burroughs[Pell #1][atcorxxx.xxx] 545
+[The HTML formatted files are atcor11h.htm and atcor11h.zip]
+[The LIT formatted files are atcor11l.lit and atcor11l.zip]
+[The PRC formatted files are atcor11p.prc and atcor11p.zip]
+
+Apr 1994 At the Earth's Core, by Burroughs        [Pell #1][ecorexxx.xxx] 123
+[Author's Full Name:  Edgar Rice Burroughs]
+[The HTML formatted files are ecore11h.htm and ecore11h.zip]
+[The LIT formatted files are ecore11l.lit and ecore11l.zip]
+[The PRC formatted files are ecore11p.prc and ecore11p.zip]
+
+Nov 1991 Aesop's Fables                                    [aesopxxx.xxx]  21
+[The HTML formatted files are aesop11h.htm and aesop11h.zip]
+[The LIT formatted files are aesop11l.lit and aesop11l.zip]
+[The PRC formatted files are aesop11p.prc and aesop11p.zip]
+
+Jul 1993 Thuvia, Maid of Mars/Edgar Rice Burroughs[Mars #4][mmarsxxx.xxx]  72
+[The HTML format is in mmars11h.htm and mmars11h.zip]
+[The LIT format is in mmars11l.lit and mmars11l.zip]
+[The PRC fromat is in mmars11p.prc and mmars11p.zip]
+
+Jun 1993 Warlord of Mars, Edgar Rice Burroughs    [Mars #3][wmarsxxx.xxx]  68
+[The HTML format is in wmars13h.htm and wmars13h.zip]
+[The LIT format is in wmars13l.lit and wmars13l.zip]
+[The PRC format is in wmars13p.prc and wmars13p.zip]
+
+Sep 1991 The Song of Hiawatha                              [hisongxx.xxx]  19
+[The HTML format is in hisong12h.htm and hisong12h.zip]
+[The LIT format is in hisong12l.lit and hisong12l.zip]
+[The PRC format is in hisong12p.prc and hisong12p.zip]
+
+Feb 1991 Through the Looking Glass, Lewis Carroll[Carroll2][lglassxx.xxx]  12
+[The HTML format is in lglass18h.htm and lglass18h.zip]
+[The LIT format is in lglass18l.lit and lglass18l.zip]
+[The PRC format is in lglass18p.prc and lglass18p.zip]
+
+Dec 1979 Abraham Lincoln's First Inaugural Address         [linc1xxx.xxx]   9
+[The HTML format is in linc111h.htm and linc111h.zip]
+[The LIT format is in linc111l.lit and linc111l.zip]
+[The PRC format is in linc111p.prc and linc111p.zip]
+
+Dec 1978 Abraham Lincoln's Second Inaugural Address        [linc2xxx.xxx]   8
+[The HTML format is in linc211h.htm and linc211h.zip]
+[The LIT format is in linc211l.lit and linc211l.zip]
+[The PRC format is in linc211p.prc and linc211p.zip]
+
+Dec 1977 The Mayflower Compact                             [mayflxxx.xxx]   7
+[The HTML format is in mayfl11h.htm and mayfl11h.zip]
+[The LIT format is in mayfl11l.lit and mayfl11l.zip]
+[The PRC format is in mayfl11p.prc and mayfl11p.zip]
+
+Dec 1976 Give Me Liberty Or Give Me Death, Patrick Henry   [liberxxx.xxx]   6
+[The HTML format is in liber11h.htm and liber11h.zip]
+[The LIT format is in liber11l.lit and liber11l.zip]
+[The PRC format is in liber11p.prc and liber11p.zip]
+
+Dec 1971 Declaration of Independence                       [whenxxxx.xxx]   1
+[The HTML format is in when11h.htm and when11h.zip]
+[The LIT format is in when11l.lit and when11l.zip]
+[The PRC format is in when11p.prc and when11p.zip]
+
+
+--=={ 88 NEW U.S. POSTS }==--
+
+Jul 2003 Aesthetic Poetry, by Walter Pater       [Pater#13][sthptxxx.xxx]4207
+Jul 2003 Letters of Franklin K. Lane, edited by Lane & Wall[ltrlnxxx.xxx]4206
+[Editors: Anne Wintermute Lane and Louise Herrick Wall]
+
+Jul 2003 Berlin and Sans-Souci, by L. Muhlbach[Muhlbach#12][brlssxxx.xxx]4205
+Jul 2003 The Elements of Geology, by W. H. Norton          [lmglgxxx.xxx]4204
+Jul 2003 Wake-Robin, by John Burroughs                     [wkrbnxxx.xxx]4203
+Jul 2003 Quotations From Diary of Samuel Pepys, by Widger  [dwqspxxx.xxx]4202
+Jul 2003 Literary Friends, by W. D. Howells, Entire [WH#57][whelfxxx.xxx]4201
+
+We still have a number of *reserved* numbers here. . .
+
+Jun 2003 Diary of Samuel Pepys, 1667 N.S. Complete  [SP#69][sp69gxxx.xxx]4184
+Jun 2003 Diary of Samuel Pepys, December 1667       [SP#68][sp68gxxx.xxx]4183
+Jun 2003 Diary of Samuel Pepys, November 1667       [SP#67][sp67gxxx.xxx]4182
+Jun 2003 Diary of Samuel Pepys, October 1667        [SP#66][sp66gxxx.xxx]4181
+
+Jun 2003 Diary of Samuel Pepys, September 1667      [SP#65][sp65gxxx.xxx]4180
+Jun 2003 Diary of Samuel Pepys, August 1667         [SP#64][sp64gxxx.xxx]4179
+Jun 2003 Diary of Samuel Pepys, July 1667           [SP#63][sp63gxxx.xxx]4178
+Jun 2003 Diary of Samuel Pepys, June 1667           [SP#62][sp62gxxx.xxx]4177
+Jun 2003 Diary of Samuel Pepys, May 1667            [SP#61][sp61gxxx.xxx]4176
+
+Jun 2003 Diary of Samuel Pepys, April 1667          [SP#60][sp60gxxx.xxx]4175
+Jun 2003 Diary of Samuel Pepys, March 1666/67       [SP#59][sp59gxxx.xxx]4174
+Jun 2003 Diary of Samuel Pepys, February 1666/67    [SP#58][sp58gxxx.xxx]4173
+Jun 2003 Diary of Samuel Pepys, January 1666/67     [SP#57][sp57gxxx.xxx]4172
+Jun 2003 Diary of Samuel Pepys, 1666 N.S. Complete  [SP#56][sp56gxxx.xxx]4171
+
+Jun 2003 Diary of Samuel Pepys, December 1666       [SP#55][sp55gxxx.xxx]4170
+Jun 2003 Diary of Samuel Pepys, November 1666       [SP#54][sp54gxxx.xxx]4169
+Jun 2003 Diary of Samuel Pepys, October 1666        [SP#53][sp53gxxx.xxx]4168
+Jun 2003 Diary of Samuel Pepys, Aug/Sep 1666        [SP#52][sp52gxxx.xxx]4167
+Jun 2003 Diary of Samuel Pepys, July 1666           [SP#51][sp51gxxx.xxx]4166
+
+Jun 2003 Diary of Samuel Pepys, May/Jun 1666        [SP#50][sp50gxxx.xxx]4165
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1665/66     [SP#49][sp49gxxx.xxx]4164
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1965/66     [SP#48][sp48gxxx.xxx]4163
+Jun 2003 Diary of Samuel Pepys, 1665 N.S. Complete  [SP#47][sp47gxxx.xxx]4162
+Jun 2003 Diary of Samuel Pepys, Nov/Dec 1665        [SP#46][sp46gxxx.xxx]4161
+
+Jun 2003 Diary of Samuel Pepys, October 1665        [SP#45][sp45gxxx.xxx]4160
+Jun 2003 Diary of Samuel Pepys, September 1665      [SP#44][sp44gxxx.xxx]4159
+Jun 2003 Diary of Samuel Pepys, August 1665         [SP#43][sp43gxxx.xxx]4158
+Jun 2003 Diary of Samuel Pepys, July 1665           [SP#42][sp42gxxx.xxx]4157
+Jun 2003 Diary of Samuel Pepys, May/Jun 1665        [SP#41][sp41gxxx.xxx]4156
+
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1964/65     [SP#40][sp40gxxx.xxx]4155
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1964/65     [SP#39][sp39gxxx.xxx]4154
+Jun 2003 Diary of Samuel Pepys, 1664 N.S. Complete  [SP#38][sp38gxxx.xxx]4153
+Jun 2003 Diary of Samuel Pepys, December 1664       [SP#37][sp37gxxx.xxx]4152
+Jun 2003 Diary of Samuel Pepys, Oct/Nov 1664        [SP#36][sp36gxxx.xxx]4151
+
+Jun 2003 Diary of Samuel Pepys, Aug/Sep 1664        [SP#35][sp35gxxx.xxx]4150
+Jun 2003 Diary of Samuel Pepys, Jun/Jul 1664        [SP#34][sp34gxxx.xxx]4149
+Jun 2003 Diary of Samuel Pepys, Apr/May 1664        [SP#33][sp33gxxx.xxx]4148
+Jun 2003 Diary of Samuel Pepys, March 1663/64       [SP#32][sp32gxxx.xxx]4147
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1663/64     [SP#31][sp31gxxx.xxx]4146
+
+Jun 2003 Diary of Samuel Pepys, 1663 N.S. Complete  [SP#30][sp30gxxx.xxx]4145
+Jun 2003 Diary of Samuel Pepys, Nov/Dec 1663        [SP#29][sp29gxxx.xxx]4144
+Jun 2003 Diary of Samuel Pepys, Sep/Oct 1663        [SP#28][sp28gxxx.xxx]4143
+Jun 2003 Diary of Samuel Pepys, Jul/Aug 1663        [SP#27][sp27gxxx.xxx]4142
+Jun 2003 Diary of Samuel Pepys, May/Jun 1663        [SP#26][sp26gxxx.xxx]4141
+
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1662/63     [SP#25][sp25gxxx.xxx]4140
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1662/63     [SP#24][sp24gxxx.xxx]4139
+
+May 2003 Sangharakshita, Vision and Transformation, Doikas [oramaxxx.xxx]4100C
+[Full title: Sangharakshita, Vision and Transformation
+ translated into Greek by Spiros Doikas
+ Copyright (C) 1999 by Spiros Doikas & Afaton Publications]
+[In Greek, available in these character set encodings:
+     Windows1253:   orama10.txt, orama10.zip
+     Unicode UTF-8: orama10u.txt, orama10u.zip
+     Rich Text:     orama10r.rtf, orama10r.zip]
+May 2003 Angel in the House, by Coventry Patmore[Patmore#2][anghsxxx.xxx]4099
+May 2003 On the Trail of Grant and Lee, Frederick Hill     [xtlglxxx.xxx]4098
+[Author's Full Name:  Frederick Trevor Hill]
+[7-bit version with non-accented characters in 7tlgl10.txt and 7tlgl10.zip]
+[8-bit version with accented characters in 8tlgl10.txt and 8tlgl10.zip]
+May 2003 Alice of Old Vincennes, Maurice Thompson          [aovnnxxx.xxx]4097
+May 2003 Verses and Translations, by C. S. Calverley[CSC#1][vrtrnxxx.xxx]4096
+
+May 2003 Plato and Platonism, by Walter Pater    [Pater#12][7plplxxx.xxx]4095
+May 2003 Plato and Platonism, by Walter Pater    [Pater#12][8plplxxx.xxx]4095
+May 2003 Confucian Analects, by James Legge                [cnfnlxxx.xxx]4094
+[Volume I of The Chinese Classics by Legge, in Chinese and English]
+May 2003 Hedda Gabler, by Henrik Ibsen            [Ibsen#9][hddgbxxx.xxx]4093
+May 2003 The Monikins, by J. Fenimore Cooper        [JFC#8][mnknsxxx.xxx]4092
+May 2003 The French Twins, Lucy Fitch Perkins      [LFP #6][frtwnxxx.xxx]4091
+
+May 2003 From Ritual to Romance, Jessie L. Weston          [7rtrmxxx.xxx]4090
+May 2003 From Ritual to Romance, Jessie L. Weston          [8rtrmxxx.xxx]4090
+May 2003 European Background Of American History,by Cheyney[ebgahxxx.xxx]4089
+[Vol. I of The American Nation: A History, by Edward Potts Cheyney]
+May 2003 Sir Walter Scott/Border Minstrelsy, Lang[Lang #34][wsbmsxxx.xxx]4088
+[Full title: Sir Walter Scott and the Border Minstrelsy, by Andrew Lang]
+May 2003 An Essay on Projects, by Daniel Defoe   [Defoe #9][esprjxxx.xxx]4087
+May 2003 The Scotch Twins, by Lucy Fitch Perkins   [LFP #6][sctwnxxx.xxx]4086
+
+May 2003 The Adventures of Roderick Random, Smollett   [#4][7rranxxx.xxx]4085
+[Author's Full Name:  Tobias Smollett]
+[The 7 bit version is in 7rran10.txt and 7rran10.zip]
+[The 8 bit version is in 8rran10.txt and 8rran10.zip]
+May 2003 The Adventures of Peregrine Pickle, Smollett  [#3][thdvnxxx.xxx]4084
+[Author's Full Name:  Tobias Smollett]
+May 2003 Mutter und Kind, by Friedrich Hebbel          [#3][7muttxxx.xxx]4083
+May 2003 Mutter und Kind, by Friedrich Hebbel          [#3][8muttxxx.xxx]4083
+May 2003 The Barrier, by Rex Beach                         [brrerxxx.xxx]4082
+May 2003 The Alchemist, by Ben Jonson           [Jonson #6][lchmsxxx.xxx]4081
+
+May 2003 Gyges und sein Ring, by Friedrich Hebbel      [#2][7gygexxx.xxx]4080
+May 2003 Gyges und sein Ring, by Friedrich Hebbel      [#2][8gygexxx.xxx]4080
+May 2003 Agnes Bernauer, by Friedrich Hebbel           [#1][7bernxxx.xxx]4079
+May 2003 Agnes Bernauer, by Friedrich Hebbel           [#1][8bernxxx.xxx]4079
+May 2003 The Picture of Dorian Gray, by Oscar Wilde   [#23][7dgryxxx.xxx]4078
+May 2003 The Picture of Dorian Gray, by Oscar Wilde   [#23][8dgryxxx.xxx]4078
+[These are 7-bit and 8-bit versions of the early 13-chapter version.]
+[See also our previous release, based on a separate edition:
+Oct 1994 The Picture of Dorian Gray, by Oscar Wilde    [#1][dgrayxxx.xxx] 174
+May 2003 The Mariner of St Malo, by S. Leacock   [#6][Ca#1][cca02xxx.xxx]4077
+[This is Volume Two in the 32-volume Chronicles of Canada,
+[Edited by George M. Wrong and H. H. Langton]
+May 2003 The Discovery of Muscovy, by Richard Hakluyt  [#3][dsmswxxx.xxx]4076
+
+May 2003 The Intrusion of Jimmy, by P.G. Wodehouse     [#7][ntrjmxxx.xxx]4075
+May 2003 Swallow, by H. Rider Haggard          [Haggard#35][swllwxxx.xxx]4074
+May 2003 Ex Voto, by Samuel Butler              [Butler#10][exvotxxx.xxx]4073
+May 2003 Songs before Sunrise, by Swinburne   [Swinburne#5][sbsunxxx.xxx]4072
+May 2003 Monsieur Lecoq, by Emile Gaboriau    [Gaboriau#12][mslcqxxx.xxx]4071
+
+May 2003 The Master Builder, by Henrik Ibsen   [Ibsen#8]   [mbldrxxx.xxx]4070
+May 2003 The Dawn of Canadian History, by Leacock[#5][Ca#1][cca01xxx.xxx]4069
+[This is Volume One in the 32-volume Chronicles of Canada,
+Edited by George M. Wrong and H. H. Langton]
+May 2003 Froudacity, by J. J. Thomas                       [xfrdcxxx.xxx]4068
+[8frdc10.* is with accents, 7frdc10.* is plain ASCII]
+May 2003 Frederick the Great and His Court, L. Muhlbach    [frdrcxxx.xxx]4067
+May 2003 Wild Apples, Henry David Thoreau          [HDT #5][wldppxxx.xxx]4066
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,161 eTexts online as of December 04, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.40 from each book,
+for Project Gutenberg to have given away $1,000,000,000,000 [One
+Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.46 when we had 4059 Etexts on November 1.
+This "cost" is down from $2.53 when we had 3951 Etexts on October 3.
+This "cost" is down from $2.61 when we had 3828 Etexts on September 5.
+This "cost" is down from $2.70 when we had 3709 Etexts on August 1.
+This "cost" is down from $2.76 when we had 3620 Etexts on July 4.
+This "cost" is down from $2.83 when we had 3534 Etexts on June 6.
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2.
+This "cost" is down from $2.97 when we had 3367 Etexts on April 4.
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on April 4
+This "cost" is down from $3.10 when we had 3225 Etexts on March 7
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on December 6, 2000
+
+
+Weekly Yearly
+Newsdate Etexts Avg/wk
+
+12/05/01 20 22.98
+
+11/28/01 22 23.06
+11/21/01 13 23.09
+11/14/01 20 23.31
+11/07/01 14 23.25
+November total 78
+
+10/31/01 23 23.47
+10/24/01 31 23.09
+10/17/01 31 22.90
+10/10/01 22 22.70
+10/03/01 29 22.74
+October total 136
+
+09/26/01 27 22.59
+09/19/01 31 22.47
+09/12/01 31 22.3
+09/05/01 27 22.2
+September total 116
+
+08/29/01 25 22
+08/22/01 21 22
+08/15/01 30 22
+08/08/01 20 22
+08/01/01 22 22
+August total 117
+
+07/25/01 24 22
+07/18/01 22 22
+07/11/01 21 23
+07/04/01 29 23
+July Total 96
+
+06/27/01 22 23
+06/20/01 18 23
+06/13/01 17 23
+06/06/01 20 23
+June Total 77
+
+05/31/01 18 24
+05/23/01 16 24
+05/16/01 18 24
+05/09/01 18 25
+05/02/01 39 25
+May Total 109
+
+04/25/01 15 24
+04/18/01 11 25
+04/11/01 12 26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks 326 25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282 21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326 20.38
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+  gmonthly (for monthly newsletters)
+  gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+        subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+        subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+        unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgmonthly_2001_12_05.txt" target="_blank" rel="nofollow">pgmonthly_2001_12_05.txt</a>

@@ -1,0 +1,435 @@
+The Project Gutenberg Weekly Newsletter December 24, 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+  - Current procedures for accessing Project Gutenberg eBooks
+  - Updates/corrections to previously posted eBooks
+  - 49 New Public Domain eBooks posted under U.S. Copyright
+  - 1 New From PG Australia (Australian Copyright)
+  - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.net/find.shtml
+
+which allows searching by title and author; there is also an Advanced
+Search page which allows for additional search criteria (note that our
+newer postings may not yet be indexed for all additional criteria).
+
+And please note:  you can now obtain a listing by language at the above
+link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+  http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories. Over
+time, the "release year" advanced, so that by November 2003 the release year
+was 2006.  Starting with eBook #10001, they are filed by their official eBook
+number, with a unique subdirectory based on that eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+  http://gutenberg.net/1/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+. . .navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site (or
+a mirror) if you know the filename and year you want.  For example:
+
+  http://gutenberg.net/etext06/
+    - or -
+  ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+                              = = = = = = = = = =
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 24 Dec 2003:  10,800 (incl. 307 Aus.).
+
+Last week the Total Count was 10,750, including 306 at PG of Australia.
+This week we added 50 new.(incl. 1 at PG of Australia).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+.:Please note the following changes, corrections and improvements:
+
+The following have been re-posted in new HTML formats as indicated:
+
+The following entry in the GUTINDEX is being revised to include the
+publisher and edition information:
+Feb 2006 France and England in North America, by F. Parkman[?fen3xxx.xxx] 9997
+  [Title: France and England in North America, a Series of Historical
+   Narratives, Part Third]
+  [Subtitle: The Discovery of the Great West]
+  [Author: Francis Parkman]
+  (Note: this is the Little, Brown and Co. 1870 edition)
+
+The original text files of the following ebook were never indexed, and
+are being added to this posting (the HTML files were posted previously):
+Jan 2005 The Gift of the Magi, by O Henry [Christmas story][magixxxx.xxx] 7256
+  [Files added: magi10.txt; magi10.zip]
+
+
+-=-=-=-=[ 49 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Audio: Ride Railroad Bill, by Roger McGuinn                              10530C
+  [Recorded in September 2002.]
+  [Link: http://www.gutenberg.net/1/0/5/3/10530 ]
+  [Files: 10530-m-readme.txt; 10530-m-001.mp3; 10530.txt; 10530.zip; ]
+
+Audio: I am a Pilgrim, by Roger McGuinn                                  10529C
+  [Recorded in November 2002.]
+  [Link: http://www.gutenberg.net/1/0/5/2/10529 ]
+  [Files: 10529-m-readme.txt; 10529-m-001.mp3; 10529.txt; 10529.zip; ]
+
+Audio: I Heard the Bells on Christmas Day, by Roger McGuinn              10528C
+  [Author: Henry Wadsworth Longfellow (lyrics)]
+  [Author: John Baptiste Calkin (composer)]
+  [Recorded in December 2001]
+  [Note: Original title was "Christmas Bells"]
+  [Link: http://www.gutenberg.net/1/0/5/2/10528 ]
+  [Files: 10528-m-readme.txt; 10528-m-001.mp3; 10528.txt; 10528.zip; ]
+
+Audio: On the Banks of the Ohio, by Roger McGuinn                        10527C
+  [Recorded in October 2003.]
+  [Link: http://www.gutenberg.net/1/0/5/2/10527 ]
+  [Files: 10527-m-readme.txt; 10527-m-001.mp3; 10527.txt; 10527.zip; ]
+
+Audio: Nancy Whiskey, by Roger McGuinn                                   10526C
+  [Recorded in July 2001]
+  [Link: http://www.gutenberg.net/1/0/5/2/10526 ]
+  [Files: 10526-m-readme.txt; 10526-m-001.mp3; 10526.txt; 10526.zip; ]
+
+Audio: Michael Row the Boat Ashore, by Roger McGuinn                     10525C
+  [Recorded in May 2002.]
+  [Link: http://www.gutenberg.net/1/0/5/2/10525 ]
+  [Files: 10525-m-readme.txt; 10525-m-001.mp3; 10525.txt; 10525.zip; ]
+
+Audio: We Wish You a Merry Christmas, by Roger McGuinn                   10524C
+  [Link: http://www.gutenberg.net/1/0/5/2/10524 ]
+  [Files: 10524-m-readme.txt; 10524-m-001.mp3; 10524.txt; 10524.zip; ]
+
+Alcestis, by Euripides                                                   10523
+  [Link: http://www.gutenberg.net/1/0/5/2/10523 ]
+  [Files: 10523.txt; 10523-8.txt]
+
+Beacon Lights of History, Volume IV, by John Lord                        10522
+  [Subtitle: Imperial Antiquity]
+  [Link: http://www.gutenberg.net/1/0/5/2/10522 ]
+  [Files: 10522.txt; 10522.zip; 10522-8.txt; 10522-8.zip; 10522-h.htm;
+   10522-h.zip; ]
+
+The Primadonna, by F. Marion Crawford                                    10521
+  [Subtitle: A Sequel to "Fair Margaret"]
+  [Zip files include one image.]
+  [Link: http://www.gutenberg.net/1/0/5/2/10521 ]
+  [Files: 10521.txt; 10521.zip; 10521-8.txt; 10521-8.zip; ]
+
+The Compleat Cook, by Nath. Brook                                        10520
+  [Subtitle: Expertly Prescribing The Most Ready Wayes, Whether Italian,
+   Spanish Or French, For Dressing Of Flesh And Fish, Ordering Of Sauces
+   Or Making Of Pastry]
+  [Link: http://www.gutenberg.net/1/0/5/2/10520 ]
+  [Files: 10520.txt]
+
+Mercy Philbrick's Choice, by Helen Hunt Jackson                          10519
+  [Link: http://www.gutenberg.net/1/0/5/1/10519 ]
+  [Files: 10519.txt; 10519-h.htm]
+
+Poems, by John Hay                                                       10518
+  [Link: http://www.gutenberg.net/1/0/5/1/10518 ]
+  [Files: 10518.txt; 10518-8.txt]
+
+Government and Rebellion, by E. E. Adams                                 10517
+  [Link: http://www.gutenberg.net/1/0/5/1/10517 ]
+  [Files: 10517.txt; 10517-h.htm]
+
+Bits About Home Matters, by Helen Hunt Jackson                           10516
+  [Link: http://www.gutenberg.net/1/0/5/1/10516 ]
+  [Files: 10516.txt; 10516-8.txt; 10516-h.htm]
+
+Rhymes of a Roughneck, by Pat O'Cotter                                   10515
+  [Link: http://www.gutenberg.net/1/0/5/1/10515 ]
+  [Files: 10515.txt; 10515.zip; 10515-8.txt; 10515-8.zip; 10515-h.htm;
+   10515-h.zip; ]
+
+De jongere generatie, by E. D'Oliveira                                   10514
+  [Language: Dutch]
+  [Link: http://www.gutenberg.net/1/0/5/1/10514 ]
+  [Files: 10514.txt; 10514-8.txt]
+
+On the Seashore, by R. Cadwallader Smith                                 10513
+  [Note: This is the Seventh Book of Cassell's "Eyes and No Eyes" Series]
+  [Link: http://www.gutenberg.net/1/0/5/1/10513 ]
+  [Files: 10513.txt; 10513.zip; 10513-h.htm; 10513-h.zip; ]
+
+Het portret van Dorian Gray, by Oscar Wilde                              10512
+  [Translated by Mevr. Louis Couperus]
+  [Language: Dutch]
+  [Link: http://www.gutenberg.net/1/0/5/1/10512 ]
+  [Files: 10512.txt; 10512-8.txt]
+
+A Rogue by Compulsion, by Victor Bridges                                 10511
+  [Subtitle: An Affair of the Secret Service]
+  [Note: zip files include frontispiece illustration as jpg file]
+  [Link: http://www.gutenberg.net/1/0/5/1/10511 ]
+  [Files: 10511.txt; 10511.zip; 10511-8.txt; 10511-8.zip; ]
+
+Inaugural Presidential Address, by William Jefferson Clinton             10510
+  [Files: 10510.txt]
+
+The Bars of Iron, by Ethel May Dell                                      10509
+  [Link: http://www.gutenberg.net/1/0/5/0/10509 ]
+  [Files: 10509.txt; 10509.zip; 10509-8.txt; 10509-8.zip; ]
+
+The Sorrows of a Show Girl, by Kenneth McGaffey                          10508
+  [Subtitle: A Story of the Great "White Way"]
+  [Link: http://www.gutenberg.net/1/0/5/0/10508 ]
+  [Files: 10508.txt; 10508.zip; ]
+
+Mary, Erzaehlung, by Bjornstjerne Bjornson                               10507
+  [Language: German]
+  [Link: http://www.gutenberg.net/1/0/5/0/10507 ]
+  [Files: 10507.txt; 10507-8.txt]
+
+Romance de lobos, comedia barbara, by Ramon del Valle-Inclan             10506
+  [Language: Spanish]
+  [Link: http://www.gutenberg.net/1/0/5/0/10506 ]
+  [Files: 10506.txt; 10506-8.txt]
+
+Audio: Waltzing Matilda, by Roger McGuinn                                10505C
+  [Recorded in January 2002]
+  [Link: http://www.gutenberg.net/1/0/5/0/10505 ]
+  [Files: 10505-m-readme.txt; 10505-m-001.mp3; 10505.txt; 10505.zip; ]
+
+Audio: Liverpool Gals, by Roger McGuinn                                  10504C
+  [Recorded in June 1999]
+  [Link: http://www.gutenberg.net/1/0/5/0/10504 ]
+  [Files: 10504-m-readme.txt; 10504-m-001.mp3; 10504.txt; 10504.zip; ]
+
+Audio: John Henry, by Roger McGuinn                                      10503C
+  [Recorded in 1959, at 57 East Division St. in Chicago, Illinois on a
+   Pentron reel-to-reel recorder at 7-1/2 IPS]
+  [Link: http://www.gutenberg.net/1/0/5/0/10503 ]
+  [Files: 10503-m-readme.txt; 10503.txt; 10503.zip; ]
+
+Vecchie Storie, by Emilio De Marchi                                      10502
+  [Language: Italian]
+  [Link: http://www.gutenberg.net/1/0/5/0/10502 ]
+  [Files: 10502.txt; 10502.zip; 10502-8.txt; 10502-8.zip; ]
+
+Audio: The Whale Catchers, by Roger McGuinn                              10501C
+  [Recorded in March 2001]
+  [Note: The banjo is tuned in open D-minor tuning and a 12-string guitar
+   plays melody]
+  [Link: http://www.gutenberg.net/1/0/5/0/10501 ]
+  [Files: 10501-m-readme.txt; 10501-m-001.mp3; 10501.txt; 10501.zip; ]
+
+Audio: Heave Away, by Roger McGuinn                                      10500C
+  [Link: http://www.gutenberg.net/1/0/5/0/10500 ]
+  [Files: 10500-m-readme.txt; 10500-m-001.mp3; 10500.txt; 10500.zip; ]
+
+Audio: Delia's Gone, by Roger McGuinn                                    10499C
+  [Link: http://www.gutenberg.net/1/0/4/9/10499 ]
+  [Files: 10499-m-readme.txt; 10499-m-001.mp3; 10499.txt; 10499.zip; ]
+
+Audio: Ain' No Mo' Cane on De Brazis, by Roger McGuinn                   10498C
+  [Link: http://www.gutenberg.net/1/0/4/9/10498 ]
+  [Files: 10498-m-readme.txt; 10498-m-001.mp3; 10498.txt; 10498.zip; ]
+
+Audio: Battle Hymn of the Republic, by Roger McGuinn                     10497C
+  [Author: Julia War Howe (lyricist)]
+  [Link: http://www.gutenberg.net/1/0/4/9/10497 ]
+  [Files: 10497-m-readme.txt; 10497-m-001.mp3; 10497.txt; 10497.zip; ]
+
+Red Masquerade, by Louis Joseph Vance                                    10496
+  [Subtitle: Being the Story of the Lone Wolf's Daughter]
+  [Link: http://www.gutenberg.net/1/0/4/9/10496 ]
+  [Files: 10496.txt; 10496.zip; 10496-8.txt; 10496-8.zip; 10496-h.htm;
+   10496-h.zip; ]
+
+Under King Constantine, by Katrina Trask                                 10495
+  [Link: http://www.gutenberg.net/1/0/4/9/10495 ]
+  [Files: 10495.txt; 10495.zip; 10495-8.txt; 10495-8.zip; ]
+
+Henry the Second, by Mrs. J. R. Green                                    10494
+  [Author AKA: Alice Stopford Green (1848-1929)]
+  [Link: http://www.gutenberg.net/1/0/4/9/10494 ]
+  [Files: 10494.txt; 10494.zip; 10494-8.txt; 10494-8.zip; ]
+
+The Old Bush Songs, by A. B. Paterson                                    10493
+  [Link: http://www.gutenberg.net/1/0/4/9/10493 ]
+  [Files: 10493-0.txt; 10493-h.htm]
+
+Agnes, by Minna Canth                                                    10492
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/0/4/9/10492 ]
+  [Files: 10492.txt; 10492-8.txt]
+
+Practice Book, by Leland Powers                                          10491
+  [Link: http://www.gutenberg.net/1/0/4/9/10491 ]
+  [Files: 10491.txt; 10491-8.txt; 10491-h.htm]
+
+The Golden Legend, by Henry Wadsworth Longfellow                         10490
+  [Link: http://www.gutenberg.net/1/0/4/9/10490 ]
+  [Files: 10490.txt; 10490-8.txt; 10490-h.htm]
+
+An English Garner, by Edited by Professor Arber and Thomas Sercombe      10489
+  [Subtitle: Critical Essays & Literary Fragments]
+  [Introduction by J. Churton Collins]
+  [Contents:
+    Extract from Thomas Wilson's _Art of Rhetoric_, 1554
+    Sir Philip Sidney's _Letter to his brother Robert_, 1580
+    Extract from Francis Meres's _Palladis Tamia_, 1598
+    Dryden's _Dedicatory Epistle to the Rival Ladies_, 1664
+    Sir Robert Howard's _Preface to four new Plays_, 1665
+    Dryden's _Essay of Dramatic Poesy_, 1668
+    Extract from Thomas Ellwood's _History of Himself_, describing
+        his relations with Milton, 1713
+    Bishop Copleston's Advice to a Young Reviewer, 1807
+    The Bickerstaff and Partridge Tracts, 1708
+    Gay's _Present State of Wit_, 1711
+    Tickell's Life of Addison, 1721
+    Steele's Dedicatory Epistle to Congreve, 1722
+    Extract from Chamberlayne's Angliae Notitia, 1669
+    Eachard's Grounds and Occasions of the Contempt of the Clergy
+        and of Religion, 1670
+    Bickerstaff's Miseries of the Domestic Chaplain, 1710
+    Franklin's Poor Richard Improved, 1757]
+  [Link: http://www.gutenberg.net/1/0/4/8/10489 ]
+  [Files: 10489.txt; 10489-8.txt]
+
+Audio: Away in a Manger, by Roger McGuinn                                10488C
+  [Author: Anonymous (verses 1 and 2)]
+  [Author: John Thomas McFarland (verse 3)]
+  [Author: James Murray (composer)]
+  [Link: http://www.gutenberg.net/1/0/4/8/10488 ]
+  [Files: 10488-m-readme.txt; 10488-m-001.mp3; 10488.txt; 10488.zip; ]
+
+Audio: Alabama Bound, by Roger McGuinn                                   10487C
+  [Recorded in May 1999, on a 12-string guitar in "drop D" tuning, that is
+   with the low E string tuned down to D]
+  [Link: http://www.gutenberg.net/1/0/4/8/10487 ]
+  [Files: 10487-m-readme.txt; 10487-m-001.mp3; 10487.txt; 10487.zip; ]
+
+Audio: Twelve Gates to the City, by Roger McGuinn                        10486C
+  [Recorded in May 2003]
+  [Link: http://www.gutenberg.net/1/0/4/8/10486 ]
+  [Files: 10486-m-readme.txt; 10486-m-001.mp3; 10486.txt; 10486.zip; ]
+
+Experiments in Government and the Essentials of the Constitution,by Root 10485
+  [Author: Elihu Root]
+  [Link: http://www.gutenberg.net/1/0/4/8/10485 ]
+  [Files: 10485.txt; 10485.zip; 10485-h.htm; 10485-h.zip; ]
+
+Beacon Lights of History, Volume III, by John Lord                       10484
+  [Subtitle: Ancient Achievements]
+  [Link: http://www.gutenberg.net/1/0/4/8/10484 ]
+  [Files: 10484.txt; 10484.zip; 10484-8.txt; 10484-8.zip; 10484-h.htm;
+   10484-h.zip; ]
+
+Short Stories Old and New, Selected and Edited by C. Alphonso Smith      10483
+  [Contents:
+    Esther, From The Old Testament
+    The History Of Ali Baba And The Forty Robbers, From "The Arabian
+      Nights"
+    Rip Van Winkle, By Washington Irving
+    The Gold-Bug, By Edgar Allan Poe
+    A Christmas Carol, By Charles Dickens
+    The Great Stone Face, By Nathaniel Hawthorne
+    Rab And His Friends, By Dr. John Brown
+    The Outcasts Of Poker Flat, By Bret Harte
+    Markheim, By Robert Louis Stevenson]
+  [Link: http://www.gutenberg.net/1/0/4/8/10483 ]
+  [Files: 10483.txt; 10483-8.txt]
+
+The Young Mother, by William A. Alcott                                   10482
+  [Subtitle: Management of Children in Regard to Health]
+  [Link: http://www.gutenberg.net/1/0/4/8/10482 ]
+  [Files: 10482.txt; 10482-8.txt; 10482-h.htm]
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Dec 2003 Cressage, A C Benson                              [030158xx.xxx] 0307A
+  [http://gutenberg.net.au/ebooks03/0301581.txt or .ZIP ]
+  [and http://gutenberg.net.au/ebooks03/0301581h.html ]
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+The best things in life aren't things.
+
+=============================================================================
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberg@listserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.

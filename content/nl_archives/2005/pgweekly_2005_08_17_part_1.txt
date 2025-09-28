@@ -1,0 +1,1155 @@
+From hart at pglaf.org  Wed Aug 17 10:15:40 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Aug 17 10:15:46 2005
+Subject: [gweekly] PT1 Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0508171015130.12016@pglaf.org>
+
+Weekly_August_17.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, Auguest 17, 2005 PT1
+******eBooks Readable By Both Humans And Computers Since July 4, 1971******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+HOT REQUESTS AND ANNOUNCEMENTS
+
+WANTED!
+
+>>>   !!!People to help us collect ALL public domain eBooks!!!  <<<
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+*
+
+              We Have Produced 2000+ eBooks This Year!!!
+
+
+            Next Week The Grand Total Should Be ~17,000!!!
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    1 New From PG Australia [Australian, Canadian Copyright Etc.]
+   32 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+                     16,960 eBooks As Of Today!!!
+
+               13,898 New eBooks Since The Start Of 2001
+
+              That's 250+ eBooks per Month for ~55 Months
+
+                 We Have Produced 2004 eBooks in 2005!!!
+
+                        3,040 to go to 20,000!!!
+
+
+     We have now averaged ~497 eBooks per year since July 4th, 1971
+
+           We Averaged About 339 eBooks Per Month In 2004
+
+        We Are Averaging About 267 books Per Month This Year
+
+         We Are Averaging About 63 eBooks Per Week This Year
+
+                              32 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~1.25 years from Oct. 2003 to Jan. 2005 from 10,000 to 15,000
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+***
+
+
+***Continuing Requests New Sites and Announcements
+
+*
+
+We have been invited to peruse the various eBook collections
+of the Internet Archive for potential Project Gutenberg eBooks.
+
+http://www.archive.org
+
+Don't worry, many of the numbers listed are out of date,
+but you should get all the files when you pass through
+to the original sites.
+
+Click on "texts" to get started, feel free to pick up any
+of the eBooks you would like to work on.
+
+Many Thanks To Brewster Kahle and the Internet Archive!
+
+*
+
+Please visit and test our newest site:
+
+"PROJECT GUTENBERG EUROPE"
+
+http://pge.rastko.net [Project Gutenberg Europe]
+http://dp.rastko.net [Distributed Proofreaders Europe]
+
+*
+
+There is a new experimental online reader available. Start from any
+bibliographic record page, e.g.
+
+    http://www.gutenberg.org/etext/4300
+
+
+Basically this paginates the .txt file and remembers your last position
+in a cookie so you can later resume reading where you left off.
+
+Please test it. It should work with any book that has a text file
+where the encoding is known.
+
+*
+
+MACHINE TRANSLATION
+
+We are seeking as much information as possible on the various
+approaches to Machine Translation. Any brand names or contact
+information would be greatly appreciated.
+
+***
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://www.gutenberg.org/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD and DVD there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+***
+
+Please checkout the various Project Gutenberg FAQs, etc. at:
+
+http://www.gutenberg.org/about
+
+
+*
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://www.gutenberg.org/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+
+So far we have sent out 15 million eBooks via snailmail!!!
+
+We currently have access to a dozen DVD burners.  If you have a DVD burner
+and are interested in lending a hand, please email Aaron Cannon
+
+<cannona@fireantproductions.com>
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them directly
+to readers whose addresses we can send you, or you can
+do a stack of these and send the whole box back for reshipping.
+We can also reimburse you for supplies and postage if you wish.
+
+Please note that we can only use DVDs which are burnt in the dvd-r format,
+as we have had some compatibility issues with the dvd+r format.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.
+We have regular need for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+     In the first 07.50 months of this year, we produced 2004 new eBooks.
+
+It took us from July 1971 to Nov 1999 to produce our first 2004 eBooks!
+
+            That's 32 WEEKS as Compared to ~28 Years!!!
+
+                  33   New eBooks This Week
+                  85   New eBooks Last Week
+                 118   New eBooks This Month [Aug]
+
+                ~267   Average Per Month in 2005
+                 336   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                2004   New eBooks in 2005
+                4049   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               13898   New eBooks Since Start Of 2001
+                         That's Only 55.50 Months!
+                         Over 250 books per month!
+
+              16,960  Total Project Gutenberg eBooks
+              13,538   eBooks This Week Last Year
+                ====
+               3,422   New eBooks In Last 12 Months
+
+                 468   eBooks From Project Gutenberg of Australia
+                       [This does NOT include PGAu eBooks posted
+                       at the U.S. site:  www.gutenberg.org ]
+
+*
+
+PROJECT GUTENBERG DISTRIBUTED PROOFREADERS UPDATE:
+
+Since starting production in October 2000,
+Distributed Proofreaders has contributed
+7,322 eBooks to Project Gutenberg.
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+*
+
+Check out our website at www.gutenberg.org, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+
+http://www.gutenberg.org/howto/subscribe-howto
+or
+http://www.gutenberg.org/subs.shtml
+
+***
+
+*Project Gutenberg Consortia Center Report
+
+Please note the addition of the Internet Archive
+marked with <<< below.
+
+PGCC's current eBook and eDocument Collections listings
+of 18 collections. . .with this week's listing as:
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Internet Archive                  ~30,000 eBook Files [In Progress]  <<<
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,           ~34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      15,035 eBook Files
+PGCC Chinese eBook Collection       ~300 eBook files   <<< Note Name Change
+Renaisscance Editions Collection,     561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files=========~137,142 Total Files=====
+
+Average Size of the Collections     8,067.18 Total Files
+
+
+These eBooks are catalogued as per the instructions of
+their donors:  some are one file per book; some have a
+file for each chapter; and some even have a file for a
+single page or poem. . .or are overcounted for reasons
+I have not mentioned. . .each of which could cause the
+overcounting or duplication of numbers.
+
+If we presume 2 out of 3 of these files are overcounts,
+that leaves a unique book total of
+                                   ~45,714 Unique eBooks
+
+If we presume 3 out of 4 of these files are overcounts,
+that leaves a unique book total of
+                                   ~34,286 Unique eBooks
+
+***
+
+Please also note that over 23,000 eBooks are listed via
+The Online Books Page, of which over 5,300 are from PG.
+http://onlinebooks.library.upenn.edu/
+
+In addition:  The Internet Public Library had a similar
+listing which is now in limbo.  If anyone knows what is
+happening with the IPL, please let us know.  Inquiries,
+made months ago, and again recently, have not turned up
+any current information.
+
+You can try a new IPL service at:
+
+http://www.ipl.org/div/subject/browse/hum60.60.00/
+
+It would appear that The Internet Public Library ended
+its first incarnation with about 22,284 entries, which
+has now been surpassed by the Online Books Page.
+
+Still looking for more Internet Public Library info.
+
+***
+
+Today Is Day #224 of 2005
+This Completes Week #32 and Month #07.50  [364 days this year]
+   147 Days/22 Weeks To Go  [We get 52 Wednesdays this year]
+3,040 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    63   Weekly Average in 2005
+    78   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Permanent Requests For Assistance:
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+
+Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner.
+[Note that the high-speed scanner requires destruction of the book(s) which
+will not be returned.]  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a project you would like to work on.
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+as well as in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.org":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.org&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 33 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.org/donation.html  or email donate@gutenberg.org
+
+
+*Access To The Project Gutenberg Collections
+
+
+*Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://www.gutenberg.org/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.org/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://www.gutenberg.org/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+
+Statistical Review
+
+In the 32 weeks of this year, we have produced 2004 new eBooks.
+It took us from 7/71 to 10/99 to produce our FIRST 2004 eBooks!!!
+
+          That's 32 WEEKS as Compared to ~28 YEARS!!!
+
+
+FLASHBACK!
+
+Here's a sample of what books we were doing around eBook #2004
+
+Mon Year Title and Author                                  [filename.ext] ###
+A "C" Following The eText # Indicates That This eText Is Under Copyright
+
+[Note:  books without month and year entries have been reposted]
+
+Dec 1999 The Library, by Andrew Lang      [Andrew Lang #20][lbrryxxx.xxx] 2018
+Dec 1999 The Dhammapada, Translated by F. Max Muller       [dhmpdxxx.xxx] 2017
+Dec 1999 The 1998 CIA World Factbook[CIA Factbook #8][No#7][world98x.xxx] 2016
+Dec 1999 A Miscellany of Men, by G. K. Chesterton [GKC #13][miscyxxx.xxx] 2015
+
+The Lodger, by Marie Belloc Lowndes                                       2014
+Dec 1999 The Pit Prop Syndicate, by Freeman Wills Croft    [ptprpxxx.xxx] 2013
+The Children, by Alice Meynell                                            2012
+Dec 1999 Rudder Grange, by Frank R. Stockton  [Stockton #4][rgrngxxx.xxx] 2011
+
+Dec 1999 The Autobiography of Charles Darwin    [Darwin #6][adrwnxxx.xxx] 2010
+Dec 1999 Origin of Species, 6th Ed., by Charles Darwin [#5][otoos6xx.xxx] 2009
+Dec 1999 Mazelli, and Other Poems, by George W. Sands[GS#1][mzllixxx.xxx] 2008
+Dec 1999 We Two, by Edna Lyall                             [wetwoxxx.xxx] 2007
+
+Dec 1999 A Fair Penitent, by Wilkie Collins   [Collins #23][frpntxxx.xxx] 2006
+Dec 1999 Piccadilly Jim, by Pelham Grenville Wodehouse [#1][pccjmxxx.xxx] 2005
+Dec 1999 "Pigs is Pigs," by Ellis Parker Butler            [pgpgsxxx.xxx] 2004
+Dec 1999 Spirits in Bondage [Lyrics Cycle], by C. S. Lewis [spbndxxx.xxx] 2003
+[Title:  Spirits In Bondage, A Cycle Of Lyrics]
+[Author Note:  C. S. Lewis writing as Clive Hamilton]
+
+Sonnets from the Portuguese, by Elizabeth Barrett Browning                2002
+Dec 1999 [Reserved for 2001, by Arthur C. Clarke]          [     xxx.xxx] 2001*
+Dec 1999 Don Quijote, by Cervantes in Spanish .txt & .htm  [2donqxxx.xxx] 2000
+   [Language: Spanish]
+Dec 1999 Crome Yellow, by Aldous Huxley [Aldous Huxley #1] [crmylxxx.xxx] 1999
+
+Dec 1999 Thus Spake Zarathustra, by Friedrich Nietzsche #1 [spzarxxx.xxx] 1998
+   [Tr.: Thomas Common]
+Dec 1999 Paradise, Divine Comedy, Dante, Tr. by Norton     [3ddcnxxx.xxx] 1997
+   [Tr.: Charles Eliot Norton]
+Dec 1999 Purgatory, Divine Comedy, Dante, Tr. by Norton    [2ddcnxxx.xxx] 1996
+   [Tr.: Charles Eliot Norton]
+Dec 1999 Hell/Inferno, Divine Comedy, Dante, Tr. by Norton [1ddcnxxx.xxx] 1995
+   [Tr.: Charles Eliot Norton]
+
+Adventures among Books, by Andrew Lang                                    1994
+Dec 1999 Told After Supper, by Jerome K. Jerome  [JKJ #15] [tldspxxx.xxx] 1993
+Dec 1999 Travels in England, and Fragmenta Regalia         [trvfgxxx.xxx] 1992
+[Title: Travels in England during the reign of Queen Elizabeth by Paul
+[Hentzner, AND Fragmenta Regalia by Sir Robert Naunton]
+Dec 1999 Old Friends, Epistolary Parody, by Andrew Lang[18][oldfnxxx.xxx] 1991
+
+Dec 1999 The Bedford-Row Conspiracy, by Thackeray [WMT #11][bdfrcxxx.xxx] 1990
+Dec 1999 The Foolish Dictionary, by Gideon Wurdz           [fldctxxx.xxx] 1989
+Dec 1999 History of Tom Thumb, etc. Edited by Henry Altemus[thumbxxx.xxx] 1988
+(Includes:  The Stories of the Cat and the Mouse; Fire! Fire! Burn Stick!)
+Dec 1999 The Outlet, by Andy Adams                         [outltxxx.xxx] 1987
+
+Dec 1999 Life and Death of Mr. Badman, by John Bunyan[JB#3][badmnxxx.xxx] 1986
+Dec 1999 Men's Wives, by William Makepeace Thackeray[WMT10][mnwvsxxx.xxx] 1985
+Dec 1999 [Reserved: George Orwell's 1984/Did it come true?][o1984xxx.xxx] 1984*
+Dec 1999 Monsieur Beaucaire, by Booth Tarkington   [BT #8] [mbeauxxx.xxx] 1983
+
+Nov 1999 Rashomon, by Akutagawa Ryunosuke [in Japanese]    [rshmnxxx.xxx] 1982
+   [Language: Japanese]
+Nov 1999 The Right to Read, by Richard M. Stallman [of GNU][tychoxxx.xxx] 1981C
+   [Language: French] (French version in:)                  [tychoxxf.xxx]
+
+*
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+If our average eBook has reached just 1% of the world population of
+6,460,779,861 that would be 16,960 x 64,607,796 = ~1.1 Trillion !!!
+6,460,779,861
+64,607,796
+
+With 16,960 eBooks online as of August 17, 2005 it now takes an average
+of ~1% of the world gaining a nominal value of ~$.91 from each book.
+1% of the world population is 64,607,796 x 16,960 x $.91 = ~$1.1 Trillion]
+[Google "world population" "popclock" to get the most current figures.]
+
+With 16,960 eBooks online as of August 17, 2005 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.59 from each book.
+This "cost" is down from about $.74 when we had 13,538 eBooks a year ago.
+100 million readers is only ~1.5% of the world's population!
+
+At 16,960 eBooks in 34 Years and 01.50 Months We Averaged
+      ~497 Per Year
+        41.4 Per Month
+         1.36 Per Day
+
+At 2004 eBooks Done In The 224 Days Of 2005 We Averaged
+     8.9 Per Day
+      63 Per Week
+     267 Per Month
+
+
+If you are interested in the population of the world or of the U.S.
+you might want to know that these numbers, official as they appear,
+are just just estimates, and perhaps not as accurate as we hope.
+
+Recently the U.S. Congress, pertaining to district reapportionment,
+who gets to vote for which Congresspeople, decided that many of the
+districts were undercounted by 5%, perhaps then later deciding that
+all districts had been undercounted by 5% [can't recall details].
+
+However, I just this moment heard a news item that made me wonder a
+bit more about the accuracy of the U.S. Census.  A "Special Census"
+is taking place in Normal, Illinois, that is expected to count more
+people, by a factor of 3,000 or 3,400, depending on which source.
+
+45,386 was the population as per the 2000 Census, so 3,000 added to
+this would be an increase of 6.6%, and 3,400 would be 7.5%, above a
+possibly automatic increase of 5% as per the same terms above but I
+presume this is in addition to previous adjustments.
+
+Of course, we should consider that we would have to double figures,
+perhaps to 15% from those above, if are considering the normal time
+between censuses of 10 years, these are for 5 years' growth.
+
+In previous news I heard about the U.S. Census, no mention was made
+about the annexation of various nearly locations as a cause of this
+normally unexpected growth, but it is mentioned at the site I found
+on the subject of the current Special Census.
+
+If annexation is the primary cause of such increases, country wide,
+then we should not be expecting a huge rise in the 2010 Census, but
+rather should expect something more along the norm.  However, if it
+is not annexation, but more actual people on the average, then this
+might be an indicator that the population of the U.S. may have seen
+300 million go by some time ago.
+
+For more details, see:  www.normal.org/WhatsNew/Census.htm
+
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 5th was
+the first Wednesday of 2005, and thus ended PG's production
+year of 2004 and began the production year of 2005 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+***
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+IBM DONATES ACCESSIBILITY CODE TO FIREFOX
+This week, IBM said it will donate code to the Firefox browser that
+will make the application more usable for people with visual or other
+types of disabilities. According to the World Health Organization, as
+many as one billion people worldwide have a speech, vision, hearing,
+mobility, or cognitive disability, and legislation in at least some
+countries sets requirments for accessibility of information for
+individuals with disabilities. Expected in the 1.5 release of Firefox,
+the code from IBM will allow Firefox users to manipulate and navigate
+Web pages without a mouse or with reduced numbers of keystrokes. The
+code also facilitates "rich Internet applications," which are designed
+for individuals with specific disabilities. Previously, IBM has helped
+the Mozilla Foundation, the maker of Firefox, make the browser
+compatible with Microsoft Active Accessibility, a widely used standard
+for accessibility tools such as screen readers.
+ZDNet, 15 August 2005
+http://news.zdnet.com/2100-9588_22-5833354.html
+
+GOOGLE MODIFIES LIBRARY PROJECT
+Google has announced some changes to its Library Project following
+vocal criticism from a number of publishers. Under the terms of the
+project, Google made arrangements with five major libraries to scan
+some or all of their books, posting at least a portion of each book in
+an online repository for public access. Publishers complained that
+making such electronic copies of copyrighted works--regardless of
+whether they are put online--violates the rights of the copyright
+holder. Google now says it will not scan any book that a publisher
+specifically asks to be exempted, and it will not scan any copyrighted
+books until November, giving publishers time to review titles they
+might want excluded. Publishers appeared unmoved, however, with the
+Association of American Publishers (AAP) saying that Google's new plan
+"places the responsibility for preventing infringement on the copyright
+owner rather than the user." Peter Givler of the Association of
+American University Presses echoed the AAP's dissatisfaction with the
+changes to the project. He was glad that Google is trying to address
+publishers' concerns but said of the new policy that it "doesn't seem
+to me that it gets us very far."
+Chronicle of Higher Education, 12 August 2005
+http://chronicle.com/free/2005/08/2005081201t.htm
+
+LINUX GOES TO FRENCH SCHOOLS
+A Linux group in the Auvergne region of France, working with the local
+government, will distribute CDs with free and open source software to
+students in the region. In September, every student in Auvergne between
+15 and 19 years of age will receive two CDs. One includes
+OpenOffice.org software, as well as the Firefox browser and GIMP image
+software. The other is a Linux Live CD, which will allow the users to
+experiment with a Linux operating system without installing it on their
+computers. Nicolas Spallinger, a member of the local Linux group, said
+the idea is to let students try Linux without committing to a
+particular version. If they are sold on Linux over other operating
+systems, they can then install their preferred variety of Linux.
+Organizers of the program hope it will encourage students and their
+families to consider free and open source applications as an
+alternative to proprietary software.
+CNET, 11 August 2005
+http://news.com.com/2100-7344_3-5828644.html
+
+COLLEGE BOOKSTORES TEST ACCESS TO DIGITAL TEXTBOOKS
+Ten colleges and universities are participating in a pilot project of
+selling electronic texts through the campuses' bookstores. Previously,
+electronic textbooks typically have only been available from individual
+publishers or online. Organizers of the project hope that by making the
+texts available from the campus bookstores, they will be able to
+accurately gauge student demand for the technology. Each participating
+institution will offer 25 to 30 texts electronically, though the books
+will also be available in paper form. Electronic texts will be priced
+at one-third less than hard-copy textbooks. Students who choose the
+electronic option will download a copy of the text to a computer, where
+they can read it, print it, search it for keywords, or listen to an
+audio version of it. The electronic text will have restrictions,
+however. The text cannot be transferred to any other computer, it
+cannot be printed in its entirety at one time, and it will only be
+available for five months, after which point it cannot be sold back to
+the bookstore.
+Chronicle of Higher Education, 9 August 2005 (sub. req'd)
+http://chronicle.com/prm/daily/2005/08/2005080901t.htm
+
+UNIV. RECEIVES FEDERAL SUPPORT FOR VOIP TRACKING TECHNOLOGY
+The National Science Foundation has given researchers at George Mason
+University a grant of more than $300,000 to develop a technology that
+would allow limited eavesdropping on voice over Internet protocol
+(VoIP) phone calls. Xinyuan Wang, assistant professor of software
+engineering at the university and principal investigator, has shown
+that his method can successfully trace VoIP users without their
+knowledge. As VoIP service has become more common, law enforcement
+officials have pointed out that they have no way of tapping such phone
+calls, potentially resulting in a "haven for criminals, terrorists, and
+spies," according to the Federal Communications Commission. The
+technology that Wang and his colleagues are working on does not decrypt
+conversations. It tracks packets as they move from one user to another,
+allowing authorities to see who is talking to whom, but not to see what
+they are saying. Wang conceded that "from a privacy advocate's point
+of view, this is an attack on privacy," but he also noted that "from a
+police point of view, this is a way to trace things."
+CNET, 9 August 2005
+http://news.com.com/2100-7348_3-5825932.html
+
+
+STUDENTS FACE PUNISHMENT FOR COMPUTER TAMPERING
+
+[Legal action for looking the other way through the one-way mirror,
+and, they gave the students the administrators' passwords.  Does the
+term "attractive nuiscance" ring a bell?"  Perhaps law enforcement
+should be looking the other way?]
+
+Thirteen high school students in the Kutztown Area School District in
+Pennsylvania face felony charges of tampering with computers after
+defeating security measures on laptops issued to them by the school
+district. The laptops included Internet filters and an application that
+allowed district administrators to see what students did with the
+computers. The 13 used administrator passwords--which, for unknown
+reasons, were taped to the backs of the computers--to override the
+filters and download software such as iChat that the district policy
+forbids. The students also modified the monitoring program so that they
+could see what the administrators did with their computers. The
+students and their parents argued that the felony charges are
+unwarranted, but, according to the district, students and parents
+signed acceptable use policies that clearly state what activities are
+not allowed and that warn of legal consequences if the policy is
+violated. The students continued to violate district policies for use
+of the computers even after detentions, suspensions, and other
+punishments, according to the district. Only then did school officials
+contact the police.
+
+SPAMMER SETTLES WITH MICROSOFT
+Microsoft has reached a settlement with Scott Richter, a man once
+described as one of the top three spammers in the world. Efforts by
+Microsoft and New York Attorney General Eliot Spitzer in 2003 resulted
+in the collection of 8,000 e-mail messages containing 40,000 fraudulent
+statements sent by Richter's company, OptInRealBig. Richter earlier
+agreed to pay New York State $50,000; under the new settlement, Richter
+will pay Microsoft $7 million. According to Bradford L. Smith, chief
+counsel for the software giant, $5 million would be used to "increase
+our Internet enforcement efforts and expand technical and investigative
+support to help law enforcement address computer-related crimes," while
+another $1 million will be spent on improving computer access for the
+poor in New York State. The settlement also requires Richter to comply
+with state and federal laws governing e-mail and to submit to oversight
+of his company's operations for three years.
+New York Times, 10 August 2005 (registration req'd)
+http://www.nytimes.com/2005/08/10/technology/10spam.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+One more item from alternate sources
+
+[More on DNA, and, of course, this new rice will likely be patented,
+and in the same vein as GMO corn, any DNA that accidentally ends up
+in "normal" rice, will be considered an actionable offense.]
+
+
+SCIENTISTS CRACK DNA CODE OF RICE
+from Associated Press
+
+NEW YORK, (AP) -- An international team of scientists has deciphered the
+genetic code of rice, an advance that should speed improvements in a crop
+that feeds more than half the world's population.
+
+It's the first crop plant to have its genome sequenced, which means
+scientists identified virtually all the 389 million chemical building
+blocks of its DNA. Certain sequences of these building blocks form genes,
+like letters spelling words.
+
+The advance will help breeders produce new rice varieties with traits such
+as higher yield, improved nutritional content and better resistance to
+disease and pests, said one of the project's leaders, W. Richard McCombie
+of Cold Spring Harbor Laboratory in New York.
+http://tinyurl.com/ccor7
+
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+China booted out of Unocal purchase by hostile U.S. Congress,
+but Congress seems to have no idea of the "virtual" deals in
+China's financial portfolio.  Just look at Yahoo! China deals
+and the Ali Baba deals.  "A billion here, a billion there and
+suddenly you're talking about real money."
+
+[The vetoed Unocal deal would have been about $20 billion.]
+
+More on China's Energy Policy
+
+CHINA TO BUILD OFFSHORE WIND POWER COMPLEX
+from Associated Press
+
+SHANGHAI, China -- China plans to construct its first offshore wind power
+complex next year in hopes of easing chronic electricity shortages, the
+official Xinhua News Agency reported Monday.
+
+The complex, to be built in the Bohai Sea off the northern province of
+Hebei, is designed to have a generating capacity of 1 million kilowatts
+when
+completed in 2020, Xinhua said.
+
+An initial phase to begin construction late next year will generate 50,000
+kilowatts, it said, citing Gao Xihai, a vice manager of the Huanghua Port
+Development Zone which is promoting the project.
+http://tinyurl.com/anfu4
+
+*
+
+Remember that $67 million dollar bank robbery in Brasil?
+
+It now appears that the taxpayers will get billed for it!
+
+*
+
+Global Warming Refuters Now Refuted
+
+
+ERRORS CITED IN ASSESSING CLIMATE DATA
+from The New York Times (Registration Required)
+
+Some scientists who question whether human-caused global warming poses a
+threat have long pointed to records that showed the atmosphere's lowest
+layer, the troposphere, had not warmed over the last two decades and had
+cooled in the tropics.
+
+Now two independent studies have found errors in the complicated
+calculations used to generate the old temperature records, which involved
+stitching together data from thousands of weather balloons lofted around
+the world and a series of short-lived weather satellites.
+
+A third study shows that when the errors are taken into account, the
+troposphere actually got warmer. Moreover, that warming trend largely
+agrees with the warmer surface temperatures that have been recorded and
+conforms to predictions in recent computer models.
+http://tinyurl.com/7pmgc
+
+[and, in a separate story]
+
+WARMING HITS 'TIPPING POINT'
+from The Guardian (UK)
+
+A vast expanse of western Sibera is undergoing an unprecedented thaw that
+could dramatically increase the rate of global warming, climate scientists
+warn today.
+
+Researchers who have recently returned from the region found that an area
+of permafrost spanning a million square kilometres - the size of France
+and Germany combined - has started to melt for the first time since it formed
+11,000 years ago at the end of the last ice age.
+
+The area, which covers the entire sub-Arctic region of western Siberia, is
+the world's largest frozen peat bog and scientists fear that as it thaws,
+it will release billions of tonnes of methane, a greenhouse gas 20 times
+more potent than carbon dioxide, into the atmosphere.
+http://tinyurl.com/93equ
+
+
+*STRANGE WORDS OF THE WEEK
+
+"Since December 2000 employment in U.S. manufacturing has fallen 17%,
+but membership in the National Association of Realtors has risen 58%."
+The New York Times
+
+
+
+DOUBLESPEAK OF THE WEEK
+
+What does the above mean?  It means there is a scramble going on to buy
+and/or sell real estate as the rich get richer and the poor get poorer.
+
+A bit more on real estate from Edupage:
+
+RESEARCH CENTER COMING TO NEW YORK
+A real estate company based in California will build a research park in
+New York City with the hope of attracting scientific and biomedical
+companies that are routinely spun off from colleges and universities in
+the city. The city's academic institutions consistently produce
+start-up companies in biotech fields, but few remain in the city,
+instead settling in less expensive areas such as New Jersey and
+California. Despite years of efforts at creating such a research park,
+previous proposals have been abandoned because developers were
+reluctant to commit to such a project without guaranteed tenants.
+Officials from Alexandria Real Estate Equities said projects like this
+one rarely have tenants before the facility is built. Construction is
+expected to begin next year, and companies can start moving into the
+research park in 2008.
+New York Times, 11 August 2005 (registration req'd)
+http://www.nytimes.com/2005/08/11/nyregion/11bio.html
+
+
+
+*PREDICTIONS OF THE WEEK
+
+China will continue bidding for, and buying, more and more
+of the world's infrastructure, to the sad detriment of U.S.
+Congress' inability to veto purchases in other countries.
+
+Even the New York Times appears to know what is going on:
+
+
+August 11, 2005
+America's Summer of Discontent
+
+"Yesterday, Unocal shareholders agreed to be bought by Chevron for about
+$18 billion in the biggest oil acquisition in years. The deal brought to
+a final close a sad hostile takeover fight in which a Chinese
+government-owned company, Cnooc, was effectively blocked from the game
+by a hostile United States Congress.
+
+"When analysts and economic historians look back, this summer may well
+prove to be the turning point in Chinese-American relations, the time
+when America chose short-range paranoia over rational behavior."
+
+
+*QUOTE OF THE WEEK
+
+"Where they burn books, they will, in the end, burn human beings too."
+Heinrich Heine
+
+
+
+*ODD STATISTICS OF THE WEEK
+
+Worldwide, only 1 person in 100 reaches the age of 79,
+but in some countries that is the average lifespan.
+
+The average lifespan for the world is 63, much shorter
+than the duration of the average copyright.
+
+*
+
+CBS was one of those pillars of society who rejected women's
+right to wear pants and required skirts or dresses, but they
+finally gave up forcing women to give the men a chance to do
+some looking up their skirts.  Recently, CBS counted women's
+choices of clothing as they reported to work one morning and
+the result was 90 to 11 in favor of pants.
+
+Source:  60 Minutes, Andy Rooney, August 14, 2005
+
+*
+
+99% of the United States goverment, the President, Senators,
+Congresspersons, etc., required to pass and sign a new law--
+NEVER EVER READ IT!!!
+
+*
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both north and south
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+This is number three of a series of five poems from a volume named:
+
+"Thoughts of My Exiled Self."
+
+The motto for this poetry volume is,
+"Upon this Word I shall build my life."
+
+
+Tonight
+
+Tonight is hard to get in touch with my thoughts
+as my eyelids are heavy with a dreamless sleep
+in which I feel I am floating like a feather
+detached from the wings of a mother swan
+who once knew about a lake,
+and how the vivid waters felt to the touch
+but then she got bored, took off
+and learned about the lightness of air,
+like the angels who sit on my eyelids tonight
+Alas, I must be dreaming of flight
+while I cry myself to sleep under the starry skies
+of your eyes.
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+

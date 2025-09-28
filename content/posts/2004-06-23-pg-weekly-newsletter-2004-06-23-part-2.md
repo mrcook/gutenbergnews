@@ -1,0 +1,696 @@
+---
+params:
+  id: 2153
+title: "PG Weekly Newsletter: Part 2 (2004-06-23)"
+date: 2004-06-23T14:41:28+00:00
+author: Michael Cook
+layout: post
+url: /20040623/pg-weekly-newsletter-2004-06-23-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 23 Jun 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Current procedures for accessing Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 55 New U.S. eBooks this week
+   -  1 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the world,
+and you can select one nearer to your location from the link on the search
+results page.  To see a listing of mirror sites, and locate the one nearest
+to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+EBooks numbered 1 to 10000 are located in "release year" directories.
+Over time, the "release year" advanced, so that by November 2003 the
+release year was 2006.  Starting with eBook #10001, they are filed by
+their official eBook number, with a unique subdirectory based on that
+eBook number.
+
+FOR EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+   http://gutenberg.net/1/
+     - or -
+   ftp://gutenberg.net/pub/docs/books/gutenberg/1/
+
+Then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your usual download procedures.  This system works on mirrors,
+too, and will hold all eBooks starting with the number "1" for
+10,000 and beyond.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site
+(or a mirror) if you know the filename and year you want.  For example,
+navigate to either:
+
+   http://gutenberg.net/etext06/
+     - or -
+   ftp://gutenberg.net/pub/docs/books/gutenberg/etext06/
+
+and then look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+However. . .
+
+The Production Team continues the process of manually re-posting these
+ebooks to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.
+
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 23 Jun 2004:  13,005 (incl. 361 Aus.).
+
+Last week the Total Count was 12,950, including 360 at PG of Australia.
+This week we added 55 new (including 1 new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+During the past week the following eBooks were manually reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+Eve's Diary, Part 3, by Mark Twain (Samuel Clemens)                       8528
+   [Updated edition of: etext05/eve0310h.htm, plus addition of a text version]
+   [Link: http://www.gutenberg.net/8/5/2/8528 ]
+   [Files: 8528.txt; 8528-h.htm]
+
+Eve's Diary, Part 2, by Mark Twain (Samuel Clemens)                       8527
+   [Updated edition of: etext05/eve0210h.htm, plus addition of a text version]
+   [Link: http://www.gutenberg.net/8/5/2/8527 ]
+   [Files: 8527.txt; 8527-h.htm]
+
+Eve's Diary, Part 1, by Mark Twain (Samuel Clemens)                       8526
+   [Updated edition of: etext05/eve0110h.htm, plus addition of a text version]
+   [Link: http://www.gutenberg.net/8/5/2/8526 ]
+   [Files: 8526.txt; 8526-h.htm]
+
+Eve's Diary, Complete, by Mark Twain (Samuel Clemens)                     8525
+   [Updated edition of: etext05/eve0010h.htm plus addition of a text version]
+   [Link: http://www.gutenberg.net/8/5/2/8525 ]
+   [Files: 8525.txt; 8525-h.htm]
+
+The Great Conspiracy, Complete, by John Alexander Logan                   7140
+   [Updated edition of: etext04/jl08w10.txt and jl08w10h.html]
+   [Link: http://www.gutenberg.net/7/1/4/7140 ]
+   [Files: 7140.txt; 7140-h.htm]
+
+The Great Conspiracy, Part 7, by John Alexander Logan                     7139
+   [Updated edition of: etext04/jl07w10.txt and jl07w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7139 ]
+   [Files: 7139.txt; 7139-h.htm]
+
+The Great Conspiracy, Part 6, by John Alexander Logan                     7138
+   [Updated edition of: etext04/jl06w10.txt and jl06w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7138 ]
+   [Files: 7138.txt; 7138-h.htm]
+
+The Great Conspiracy, Part 5, by John Alexander Logan                     7137
+   [Updated edition of: etext04/jl05w10.txt and jl05w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7137 ]
+   [Files: 7137.txt; 7137-h.htm]
+
+The Great Conspiracy, Part 4, by John Alexander Logan                     7136
+   [Updated edition of: etext04/jl04w10.txt and jl04w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7136 ]
+   [Files: 7136.txt; 7136-h.htm]
+
+The Great Conspiracy, Part 3, by John Alexander Logan                     7135
+   [Updated edition of: etext04/jl03w10.txt and jl03w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7135 ]
+   [Files: 7135.txt; 7135-h.htm]
+
+The Great Conspiracy, Part 2, by John Alexander Logan                     7134
+   [Updated edition of: etext04/jl02w10.txt and jl02w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7134 ]
+   [Files: 7134.txt; 7134-h.htm]
+
+The Great Conspiracy, Part 1, by John Alexander Logan                     7133
+   [Updated edition of: etext04/jl01w10.txt and jl01w10h.html]
+   [Link: http://www.gutenberg.net/7/1/3/7133 ]
+   [Files: 7133.txt; 7133-h.htm]
+
+Lineage, Life, and Labors of Jose Rizal, by Austin Craig                  6867
+   [Title: Lineage, Life, and Labors of Jose Rizal, Philippine Patriot]
+   [Updated edition of: etext04/8jsrz10.txt]
+   [Link: http://www.gutenberg.net/6/8/6/6867 ]
+   [Files: 6867.txt; 6867-8.txt]
+
+Memoirs of General Philip H. Sheridan, Vol. II, Part 6, P. H. Sheridan    5859
+   [Updated edition of: etext04/shdw610h.html and shdw610h.dum]
+   [Link: http://www.gutenberg.net/5/8/5/5859 ]
+   [Files: 5859.txt; 5859-h.htm]
+
+Memoirs of General Philip H. Sheridan, Vol. II, Part 5, P. H. Sheridan    5858
+   [Updated edition of: etext04/shdw510h.html and shdw510h.html]
+   [Link: http://www.gutenberg.net/5/8/5/5858 ]
+   [Files: 5858.txt; 5858-h.htm]
+
+Memoirs of General Philip H. Sheridan, Vol. II, Part 4, P. H. Sheridan    5857
+   [Updated edition of: etext04/shdw410h.html and shdw410h.dum]
+   [Link: http://www.gutenberg.net/5/8/5/5857 ]
+   [Files: 5857.txt; 5857-h.htm]
+
+Memoirs of General Philip H. Sheridan, Vol. I, Part 3, P. H. Sheridan     5856
+   [Updated edition of: etext04/shdw310h.html and shdw310h.dum]
+   [Link: http://www.gutenberg.net/5/8/5/5856 ]
+   [Files: 5856.txt; 5856-h.htm]
+
+The Innocents Abroad, Part 6 of 6, by Mark Twain (Samuel Clemens)         5693
+   [Updated edition of: etext04/mt6in10h.html]
+   [Link: http://www.gutenberg.net/5/6/9/5693 ]
+   [Files: 5693.txt; 5693-h.htm]
+
+The Innocents Abroad, Part 5 of 6, by Mark Twain (Samuel Clemens)         5692
+   [Updated edition of: etext04/mt5in10h.html]
+   [Link: http://www.gutenberg.net/5/6/9/5692 ]
+   [Files: 5692.txt; 5692-h.htm]
+
+The Innocents Abroad, Part 4 of 6, by Mark Twain (Samuel Clemens)         5691
+   [Updated edition of: etext04/mt4in10h.html]
+   [Link: http://www.gutenberg.net/5/6/9/5691 ]
+   [Files: 5691.txt; 5691-h.htm]
+
+The Innocents Abroad, Part 3 of 6, by Mark Twain (Samuel Clemens)         5690
+   [Updated edition of: etext04/mt3in10h.html]
+   [Link: http://www.gutenberg.net/5/6/9/5690 ]
+   [Files: 5690.txt; 5690-h.htm]
+
+The Innocents Abroad, Part 2 of 6, by Mark Twain (Samuel Clemens)         5689
+   [Updated edition of: etext04/mt2in10h.html]
+   [Link: http://www.gutenberg.net/5/6/8/5689 ]
+   [Files: 5689.txt; 5689-h.htm]
+
+The Innocents Abroad, Part 1 of 6, by Mark Twain (Samuel Clemens)         5688
+   [Updated edition of: etext04/mt1in10h.html]
+   [Link: http://www.gutenberg.net/5/6/8/5688 ]
+   [Files: 5688.txt; 5688-h.htm]
+
+Memoirs of Three Civil War Generals, Complete, Grant, Sherman, Sheridan   4546
+   [Authors: U. S. Grant, W. T. Sherman, P. H. Sheridan]
+   [Updated edition of: etext03/cwgen11.txt]
+   [Link: http://www.gutenberg.net/4/5/4/4546 ]
+   [Files: 4546.txt; 4546-h.htm]
+
+Memoirs of P. H. Sheridan, Complete, by General Philip Henry Sheridan     4362
+   [Updated Edition of: etext03/3shdn10.txt and 3shdn11h.html]
+   [Link: http://www.gutenberg.net/4/3/6/4362 ]
+   [Files: 4362.txt; 4362-h.htm]
+
+The American Claimant, by Mark Twain (Samuel Clemens)                     3179
+   [Updated edition of: etext02/mtacl12.txt and mtacl12.html]
+   [Link: http://www.gutenberg.net/3/1/7/3179 ]
+   [Files: 3179.txt; 3179-h.htm]
+
+The Innocents Abroad, Complete, by Mark Twain (Samuel Clemens)            3176
+   [Updated edition of: etext02/mtinn11.txt and mtinn11h.html]
+   [Link: http://www.gutenberg.net/3/1/7/3176 ]
+   [Files: 3176.txt; 3176-h.htm]
+
+A Dog's Tale, by Mark Twain (Samuel Clemens)                              3174
+   [Updated edition of: etext02/mtdtl11.txt or mtdtl11h.html]
+   [Link: http://www.gutenberg.net/3/1/7/3174 ]
+   [Files: 3174.txt; 3174-h.htm]
+
+Memoirs of General P. H. Sheridan, Vol. 2, General Philip Henry Sheridan  2652
+   [Updated edition of: etext01/2shdn11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2652 ]
+   [Files: 2652.txt]
+
+Memoirs of General P. H. Sheridan, Vol. 1, General Philip Henry Sheridan  2651
+   [Updated edition of: etext01/1shdn11.txt]
+   [Link: http://www.gutenberg.net/2/6/5/2651 ]
+   [Files: 2651.txt]
+
+The Brotherhood of Consolation, by Honore de Balzac                       1967
+   [Translated by Katharine Prescott Wormeley]
+   [Updated edition of: etext99/brcns10.txt]
+   [Link: http://www.gutenberg.net/1/9/6/1967 ]
+   [Files: 1967.txt]
+
+Beatrix, by Honore de Balzac  [Tr.: Katharine Prescott Wormeley]          1957
+   [Updated edition of: etext99/btrix10.txt and btrix10h.html]
+   [Link: http://www.gutenberg.net/1/9/5/1957 ]
+   [Files: 1957.txt; 1957-h.htm]
+
+
+.:: Please note the following changes, corrections and improvements:
+
+The following are being re-indexed to include supplemental information,
+such as translator, author info, title info, etc.:
+Against The Grain, by Joris-Karl Huysmans                                12341
+   [Tr.: John Howard]
+Dec 1999 Thus Spake Zarathustra, by Friedrich Nietzsche #1 [spzarxxx.xxx] 1998
+   [Tr.: Thomas Common]
+Dec 1999 Paradise, Divine Comedy, Dante, Tr. by Norton     [3ddcnxxx.xxx] 1997
+   [Tr.: Charles Eliot Norton]
+Dec 1999 Purgatory, Divine Comedy, Dante, Tr. by Norton    [2ddcnxxx.xxx] 1996
+   [Tr.: Charles Eliot Norton]
+Dec 1999 Hell/Inferno, Divine Comedy, Dante, Tr. by Norton [1ddcnxxx.xxx] 1995
+   [Tr.: Charles Eliot Norton]
+Nov 1999 Phaedra, by Jean Baptiste Racine [Tr.: RB Boswell][phrdrxxx.xxx] 1977
+   [Tr.: Robert Bruce Boswell]
+Nov 1999 History Of The Britons, by Nennius                [brtnsxxx.xxx] 1972
+   [Tr.: J. A. Giles]
+Nov 1999 The Human Comedy:  Introductions and Appendix[#91][hciaaxxx.xxx] 1968
+   [Introduction: George Saintsbury] [Additional Intro: Honore de Balzac]
+Nov 1999 The Brotherhood of Consolation, by Balzac[HdB #90][brcnsxxx.xxx] 1967
+   [Tr.: Katharine Prescott Wormeley]
+Aug 1999 Gambara, by Honore de Balzac[Honore de Balzac #76][gmbraxxx.xxx] 1873
+   [Tr.: Clara Bell and James Waring]
+Aug 1999 The Deputy of Arcis, by Honore de Balzac[Balzac75][arcisxxx.xxx] 1871
+   [Tr.: Katharine Prescott Wormeley]
+Aug 1999 Hero Tales From American History, Lodge/Roosevelt [htfahxxx.xxx] 1864
+   [Authors: Henry Cabot Lodge and Theodore Roosevelt]
+Aug 1999 From Cornhill to Grand Cairo by Thackeray [WMT #6][crhcrxxx.xxx] 1863
+   [Title:  Notes on a Journey from Cornhill to Grand Cairo]
+   [Author: William Makepeace Thackeray]
+Aug 1999 Cousin Pons, by Honore de Balzac   [de Balzac #74][cspnsxxx.xxx] 1856
+  [Tr.: Ellen Marriage]
+Aug 1999 Catherine de Medici, by Honore de Balzac/Balzac#73[ctdmdxxx.xxx] 1854
+   [Tr.: Katherine Prescott Wormeley]
+Aug 1999 Z. Marcas, by Honore de Balzac     [de Balzac #72][zmrcsxxx.xxx] 1841
+   [Tr.: Clara Bell and others]
+Jul 1999 A Man of Business, by Honore de Balzac[Balzac #70][mnbusxxx.xxx] 1813
+   [Tr.: Clara Bell and others]
+Jul 1999 A Prince of Bohemia, by Honore de Balzac [HdB #69][prbhmxxx.xxx] 1812
+   [Tr.: Clara Bell and others]
+Jul 1999 Massimilla Doni, by Honore de Balzac[de Balzac#68][msmdnxxx.xxx] 1811
+   [Tr.: Clara Bell and James Waring]
+Jul 1999 A Second Home, by Honore de Balzac [de Balzac #67][2ndhmxxx.xxx] 1810
+   [Tr.: Clara Bell]
+Jul 1999 Bucky O'Connor, by William MacLeod Raine[Raine #2][bkcnrxxx.xxx] 1809
+   [Subtitle: A Tale of the Unfenced Border]
+
+
+-=-=-=-=[  55 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The High School Captain of the Team, by H. Irving Hancock                12692
+   [Subtitle: Dick & Co. Leading the Athletic Vanguard]
+   [Link: http://www.gutenberg.net/1/2/6/9/12692 ]
+   [Files: 12692.txt]
+
+The High School Left End, by H. Irving Hancock                           12691
+   [Subtitle: Dick & Co. Grilling on the Football Gridiron]
+   [Link: http://www.gutenberg.net/1/2/6/9/12691 ]
+   [Files: 12691.txt]
+
+The High School Pitcher, by H. Irving Hancock                            12690
+   [Subtitle: Dick & Co. on the Gridley Diamond]
+   [Link: http://www.gutenberg.net/1/2/6/9/12690 ]
+   [Files: 12690.txt]
+
+The High School Freshmen, by H. Irving Hancock                           12689
+   [Subtitle: Dick & Co.'s First Year Pranks and Sports]
+   [Link: http://www.gutenberg.net/1/2/6/8/12689 ]
+   [Files: 12689.txt]
+
+Vanrikki Stoolin tarinat, by J. L. Runeberg                              12688
+   [Translated by Paavo Cajander]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/2/6/8/12688 ]
+   [Files: 12688-8.txt]
+
+The Title, by Arnold Bennett                                             12687
+   [Subtitle: A Comedy in Three Acts]
+   [Link: http://www.gutenberg.net/1/2/6/8/12687 ]
+   [Files: 12687.txt; 12687-8.txt; 12687-h.htm]
+
+Murder in Any Degree, by Owen Johnson                                    12686
+   [Link: http://www.gutenberg.net/1/2/6/8/12686 ]
+   [Files: 12686.txt; 12686-8.txt; 12686-h.htm]
+
+Mirror of Literature, Amusement, & Instruction, Vol. XVI, No. 474        12685
+   [Supplementary Number]
+   [Link: http://www.gutenberg.net/1/2/6/8/12685 ]
+   [Files: 12685.txt; 12685-8.txt; 12685-h.htm]
+
+Dorian, by Nephi Anderson                                                12684
+   [Link: http://www.gutenberg.net/1/2/6/8/12684 ]
+   [Files: 12684.txt]
+
+Christine, by Alice Cholmondeley                                         12683
+   [Link: http://www.gutenberg.net/1/2/6/8/12683 ]
+   [Files: 12683.txt; ]
+
+The Boy Allies in Great Peril, by Clair W. Hayes                         12682
+   [Subtitle: With the Italian Army in the Alps]
+   [Link: http://www.gutenberg.net/1/2/6/8/12682 ]
+   [Files: 12682.txt; ]
+
+Us and the Bottleman, by Edith Ballinger Price                           12681
+   [Link: http://www.gutenberg.net/1/2/6/8/12681 ]
+   [Files: 12681.txt; 12681-h.htm; ]
+
+Children of the Ghetto, by I. Zangwill [AKA: Israel Zangwill]            12680
+   [Subtitle: A Study of a Peculiar People]
+   [Link: http://www.gutenberg.net/1/2/6/8/12680 ]
+   [Files: 12680.txt; 12680-8.txt; ]
+
+A Trip Abroad, by Don Carlos Janes                                       12679
+   [Subtitle: An Account of a Journey to the Earthly Canaan and the Land
+    of the Ancient Pharaohs; To Which Are Appended a Brief Consideration
+    of the Geography and History of Palestine, and a Chapter on Churches
+    of Christ in Great Britain]
+   [Link: http://www.gutenberg.net/1/2/6/7/12679 ]
+   [Files: 12679.txt; 12679-8.txt; ]
+
+The House of Mystery, by William Henry Irwin                             12678
+   [Subtitle: An Episode in the Career of Rosalie Le Grange, Clairvoyant]
+   [Link: http://www.gutenberg.net/1/2/6/7/12678 ]
+   [Files: 12678.txt; 12678-8.txt; 12678-h.htm]
+
+Personality Plus, by Edna Ferber                                         12677
+   [Subtitle: Some Experiences of Emma McChesney and Her Son, Jock]
+   [Link: http://www.gutenberg.net/1/2/6/7/12677 ]
+   [Files: 12677.txt; 12677-8.txt; 12677-h.htm]
+
+The Mirror of Literature, Amusement, & Instruction, Vol. XVII, No. 490   12676
+   [May 21, 1831]
+   [Link: http://www.gutenberg.net/1/2/6/7/12676 ]
+   [Files: 12676.txt; 12676-8.txt; 12676-h.htm]
+
+Life In The Backwoods Of New Brunswick, by Mrs. F. Beavan                12675
+   [Title: Sketches And Tales Illustrative Of Life In The Backwoods
+    Of New Brunswick]
+   [Subtitle: Gleaned From Actual Observation And Experience During
+    A Residence Of Seven Years In That Interesting Colony]
+   [Link: http://www.gutenberg.net/1/2/6/7/12675 ]
+   [Files: 12675.txt; 12675-8.txt; 12675-h.htm]
+
+Cock Lane and Common-Sense, by Andrew Lang                               12674
+   [Link: http://www.gutenberg.net/1/2/6/7/12674 ]
+   [Files: 12674.txt; 12674-h.htm ]
+
+The Pretty Lady , by Arnold E. Bennett                                   12673
+   [Link: http://www.gutenberg.net/1/2/6/7/12673 ]
+   [Files: 12673.txt; 12673-8.txt; 12673-h.htm; ]
+
+A Spinner in the Sun, by Myrtle Reed                                     12672
+   [Link: http://www.gutenberg.net/1/2/6/7/12672 ]
+   [Files: 12672.txt; ]
+
+An Easter Disciple, by Arthur Benton Sanford                             12671
+   [Subtitle: The Chronicle of Quintus, the Roman Knight]
+   [Link: http://www.gutenberg.net/1/2/6/7/12671 ]
+   [Files: 12671.txt; ]
+
+Landmarks in French Literature, by G. Lytton Strachey                    12670
+   [Author AKA: Giles Lytton Strachey]
+   [Link: http://www.gutenberg.net/1/2/6/7/12670 ]
+   [Files: 12670.txt; 12670-8.txt; 12670-h.htm; ]
+
+Marriage, by Susan Edmonstone Ferrier                                    12669
+   [Link: http://www.gutenberg.net/1/2/6/6/12669 ]
+   [Files: 12669.txt; 12669-8.txt]
+
+Account of the English Colony in New South Wales, Vol. 2, David Collins  12668
+   [Subtitle: An Account Of The English Colony In New South Wales, From
+    Its First Settlement In 1788, To August 1801: With Remarks On The
+    Dispositions, Customs, Manners, Etc. Of The Native Inhabitants Of That
+    Country. To Which Are Added, Some Particulars Of New Zealand; Compiled,
+    By Permission, From The Mss. Of Lieutenant-Governor King; And An Account
+    Of The Voyage Performed By Captain Flinders And Mr. Bass; By Which The
+    Existence Of A Strait Separating Van Dieman's Land From The Continent Of
+    New Holland Was Ascertained]
+   [Link: http://www.gutenberg.net/1/2/6/6/12668 ]
+   [Files: 12668.txt; 12668-8.txt; 12668-h.htm]
+
+Lander's Travels, by Robert Huish                                        12667
+   [Subtitle: The Travels of Richard Lander into the Interior of Africa]
+   [Link: http://www.gutenberg.net/1/2/6/6/12667 ]
+   [Files: 12667.txt; 12667-8.txt]
+
+Consuelo, v.1 (1861), by George Sand                                     12666
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/6/6/12666 ]
+   [Files: 12666.txt; 12666-8.txt]
+
+Galipettes, by Felix Galipaux                                            12665
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/6/6/12665 ]
+   [Files: 12665.txt; 12665-8.txt; 12665-h.htm]
+
+Lyrics of Earth, by Archibald Lampman                                    12664
+   [Link: http://www.gutenberg.net/1/2/6/6/12664 ]
+   [Files: 12664.txt; 12664-8.txt]
+
+The Phantom Herd, by B. M. Bower                                         12663
+   [Link: http://www.gutenberg.net/1/2/6/6/12663 ]
+   [Files: 12663.txt; 12663-8.txt; ]
+
+Four Girls at Chautauqua, by Pansy [AKA: Isabella M. Alden]              12662
+   [Link: http://www.gutenberg.net/1/2/6/6/12662 ]
+   [Files: 12662.txt; 12662-8.txt; ]
+
+Canada under British Rule 1760-1900, by John G. Bourinot                 12661
+   [Part of the Cambridge Historical Series, edited by G. W. Prothero]
+   [Link: http://www.gutenberg.net/1/2/6/6/12661 ]
+   [Files: 12661.txt; 12661-8.txt; ]
+
+Soll die plattdeutsche Sprache, by Ludolf Wienbarg                       12660
+   [Title: Soll die plattdeutsche Sprache gepflegt oder ausgerottet werden?]
+   [Subtitle: Gegen Ersteres und fur Letzteres]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/2/6/6/12660 ]
+   [Files: 12660.txt; 12660-8.txt; 12660-0.txt]
+
+Shapes of Clay, by Ambrose Bierce                                        12658
+   [Link: http://www.gutenberg.net/1/2/6/5/12658 ]
+   [Files: 12658.txt; 12658-8.txt]
+
+The Later Works of Titian, by Claude Phillips                            12657
+   [Sequel to #12626]
+   [Link: http://www.gutenberg.net/1/2/6/5/12657 ]
+   [Files: 12657.txt; 12657-8.txt; 12657-h.htm; ]
+
+The boy Allies at Liege, by Clair W. Hayes                               12656
+   [Subtitle: Through Lines of Steel]
+   [Link: http://www.gutenberg.net/1/2/6/5/12656 ]
+   [Files: 12656.txt; 12656-8.txt; ]
+
+The Boy Mechanic: Volume 1, by Popular Mechanics                         12655
+   [Subtitle: 700 Things For Boys To Do]
+   [Link: http://www.gutenberg.net/1/2/6/5/12655 ]
+   [Files: 12655.txt; 12655-8.txt; 12655-r.rtf; 12655-pdf.pdf]
+
+The Roll-Call, by Arnold Bennett                                         12654
+   [Link: http://www.gutenberg.net/1/2/6/5/12654 ]
+   [Files: 12654.txt; 12654-8.txt; 12654-h.htm]
+
+George Washington, Vol. II, by Henry Cabot Lodge                         12653
+   [Link: http://www.gutenberg.net/1/2/6/5/12653 ]
+   [Files: 12653.txt; 12653-8.txt; 12653-h.htm]
+
+George Washington, Vol. I, by Henry Cabot Lodge                          12652
+   [Link: http://www.gutenberg.net/1/2/6/5/12652 ]
+   [Files: 12652.txt; 12652-8.txt; 12652-h.htm]
+
+The Humour of Homer and Other Essays, by Samuel Butler                   12651
+   [Ed.: R. A. Streatfeild]
+   [Link: http://www.gutenberg.net/1/2/6/5/12651 ]
+   [Files: 12651.txt; 12651-h.htm ]
+
+The Mirror of Literature, Amusement, & Instruction, Vol. XVII, No. 488   12650
+   [May 7, 1831]
+   [Link: http://www.gutenberg.net/1/2/6/5/12650 ]
+   [Files: 12650.txt; 12650-8.txt; 12650-h.htm; ]
+
+Analyzing Character, by Katherine M. H. Blackford and Arthur Newcomb     12649
+   [Subtitle: The New Science of Judging Men; Misfits in Business, the
+    Home and Social Life]
+   [Link: http://www.gutenberg.net/1/2/6/4/12649 ]
+   [Files: 12649.txt; 12649-8.txt; 12649-h.htm; ]
+
+The Beautiful Necessity, by Claude Fayette Bragdon                       12648
+   [Subtitle: Seven Essays on Theosophy and Architecture]
+   [Link: http://www.gutenberg.net/1/2/6/4/12648 ]
+   [Files: 12648.txt; 12648-8.txt; ]
+
+J. S. Le Fanu's Ghostly Tales, Volume 4, by Joseph Sheridan Le Fanu      12647
+   Contents:
+     Ghost Stories of Chapelizod
+     The Drunkard's Dream
+     The Ghost and the Bone-setter
+     The Mysterious Lodger]
+   [Link: http://www.gutenberg.net/1/2/6/4/12647 ]
+   [Files: 12647.txt; 12647-8.txt; ]
+
+La Maison, by Henry Bordeaux                                             12646
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/6/4/12646 ]
+   [Files: 12646.txt; 12646-8.txt]
+
+The Mirror of Literature, Amusement, & Instruction, Vol. XVII, No. 483   12645
+   [April 2, 1831]
+   [Link: http://www.gutenberg.net/1/2/6/4/12645 ]
+   [Files: 12645.txt; 12645-8.txt; 12645-h.htm]
+
+Through the Iron Bars, by Emile Cammaerts                                12644
+   [Subtitle: Two Years of German Occupation in Belgium]
+   [Illustrator: Louis Raemaekers]
+   [Link: http://www.gutenberg.net/1/2/6/4/12644 ]
+   [Files: 12644.txt; 12644-8.txt; 12644-h.htm; ]
+
+Twenty, by Stella Benson                                                 12643
+   [Link: http://www.gutenberg.net/1/2/6/4/12643 ]
+   [Files: 12643.txt; 12643-8.txt; 12643-h.htm; ]
+
+The Lady's Album of Fancy Work for 1850, by Unknown                      12642
+   [Subtitle: Consisting of Novel, Elegant, and Useful Designs in Knitting,
+    Netting, Crochet, Braiding, and Embroidery; With Clear and Explicit
+    Directions for Working the Patterns]
+   [Link: http://www.gutenberg.net/1/2/6/4/12642 ]
+   [Files: 12642.txt; 12642-8.txt; 12642-h.htm; ]
+
+The Queen of the Air, by John Ruskin                                     12641
+   [Subtitle: Being a Study of the Greek Myths of Cloud and Storm]
+   [Link: http://www.gutenberg.net/1/2/6/4/12641 ]
+   [Files: 12641.txt; 12641-8.txt; ]
+
+Trial of Mary Blandy, edited by William Roughead                         12640
+   [Link: http://www.gutenberg.net/1/2/6/4/12640 ]
+   [Files: 12640.txt; 12640-8.txt; 12640-h.htm; ]
+
+Spanish Doubloons, by Camilla Kenyon                                     12639
+   [Link: http://www.gutenberg.net/1/2/6/3/12639 ]
+   [Files: 12639.txt]
+
+Public Lands and Agrarian Laws of the Roman Republic, Andrew Stephenson  12638
+   [Link: http://www.gutenberg.net/1/2/6/3/12638 ]
+   [Files: 12638.txt; 12638-8.txt; 12638-h.htm]
+
+
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jun 2004 The Bright Pavillons, by Hugh Walpole             [040053xx.xxx] 0361A
+   [http://gutenberg.net.au/ebooks04/0400531.txt or .zip ]
+   [and http://gutenberg.net.au/ebooks04/0400531h.html ]
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Joe Loewenstein provides the following about #12640, "Trial of Mary Blandy",
+edited by William Roughead:
+Mary Blandy (then 31 years old) was hanged in 1752 for poisoning her
+father. She had made the mistake of advertising for a husband and
+offering a dowry of 10,000 pounds. She fell for one of the scoundrels
+she attracted, and he talked her into poisoning her father. Her trial at
+the Oxford Assizes and her subsequent hanging were public sensations.
+She was said to have been a very modest woman, and her final plea to the
+hangman was, "Don't hang me high."
+
+~ ~ ~
+
+&gt;From David Price, "For those wishing to know. . .":
+
+#12651, The Humour of Homer and Other Essays:  This turns out to be a
+repackaging of Samuel Butler's "Essays on Life, Art and Science" - already
+done and released by Project Gutenberg (EBook #3461 - Ed.).  The additions
+in this book are:
+1.  Introduction by R. A. Streatfeild - Butler's friend and
+     literary executor.
+2.  A Life of Samuel Butler by his friend Henry Festing Jones.
+     Project Gutenberg already has another short work on Butler
+     by Mr. Festing Jones.  (EBook #2993 - Ed.)
+3.  Samuel Butler's talk on "The Humour of Homer".  It was in this
+     talk, to the Working Men's College, Great Ormond Street,
+     London, on 30th January 1892, that Butler first publically
+     announced his discovery - that the Odyssey, traditionally
+     thought to have been written by Homer, was in fact written
+     by a woman.  Needless to say this discovery was greeted with
+     shock and other emotions.
+Those wishing for a full explanation of Butler's discovery will need to wait
+until next week when I should release "The Authoress of the Odyssey" by
+Samuel Butler.
+
+#12674, Cock Lane and Common-Sense, by Andrew Lang
+For those wishing to know: In "Dreams and Ghosts" (previously released by
+Project Gutenberg) Andrew Lang gently hinted at some of his views of the
+matter of ghosts etc.  In this book he explores the subject much more deeply.
+He's doesn't much care for the dismissive way in which ghost stories are treated
+- and feels they should be investigated in a more scientific manner. The "Cock
+Lane" of the title was one of the most famous "discredited" ghosts. Everyone who
+was anyone in London, 1762, was involved in the Cock Lane ghost investigation -
+but as Andrew relates there hasty conclusions and lack of checking it comes
+across as a golden opportunity missed.
+
+~ ~ ~
+
+Jim Tinsley comments on #12655, "The Boy Mechanic: Volume 1", by Popular
+Mechanics:
+. . .I commend the PDF file. . .for people who just want to read the book.
+As a side-note: this one's a gem! There is NO END to the
+trouble I coulda gotten into if I'da had this when I was 12. :-)
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_06_23_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_06_23_part_2.txt</a>

@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*.css$
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.png$
+Disallow: /*.atom
+Disallow: /*.rss
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Nutch
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+
+Sitemap: https://www.gutenbergnews.org/sitemap.xml

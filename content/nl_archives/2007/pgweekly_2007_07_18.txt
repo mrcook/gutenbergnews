@@ -1,0 +1,604 @@
+pgweekly_2007_07_18.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, July 18, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+Visit www.gutenbergnews.org to read these news items.
+
+ * The Connext all-in-one concept device
+
+
+FEATURED NEWS
+-------------
+
+A NOTE FROM THE EDITOR
+
+Just a little note to inform everyone why there has been very little news
+content recently in the newsletter and on the website.
+
+At the end of June I relocated from sunny old England to München, Germany.
+As you can imagine, there has not been much time to spare for the
+newsletter. Unfortunately this is likely continue for another few of weeks.
+
+In the meantime, if you have any news or articles you would like added to
+the newsletter then please email them to editor_@_gutenbergnews.org.
+
+Thank you for your understanding.
+
+-- Michael Cook [Ed]
+
+
+A VERY SMALL ARTICLE ON A BIG PIECE OF NEWS
+
+Project Gutenberg Science Fiction CD has now passed 10,000 downloads!
+
+
+POLL: HOW MANY "PG" E-TEXTS HAVE YOU READ?
+
+36.4% - 200+
+22.7% - 10 - 20
+13.6% - 50 - 100
+ 9.1% - 100 - 200
+ 9.1% - 20 - 50
+ 9.1% - Less than 10
+
+Visit the gutenbergnews.org website and place your vote.
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the 'Volunteers' section at https://www.gutenbergnews.org.
+
+MICHAEL HART WANTS IBM MEMORY KEY'S
+  Michael Hart is looking for one of the original "IBM Memory Keys" that have
+  evolved into our current RAMsticks, USBsticks, etc., or even the UK version
+  that existed before that. It doesn't have to be functional...he just wants
+  it for comparison purposes.
+
+PG EBOOK TRANSLATORS REQUIRED
+  Michael Hart, our founder, is looking for people who are willing to
+  translate Project Gutenberg eBooks in and out of; English, French, Spanish,
+  Dutch, Portuguese, Italian and any other languages you might like to include.
+
+If you have a RAM stick or can help with the translations then please contact
+Michael using his email address; hart@pglaf.org.
+
+
+CURRENT 'WANTED' HEADLINES:
+ * PG eBook Translators Required
+ * Michael Hart wants IBM Memory Key's
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad
+along with most other text reading programs.
+
+You can access them by visiting www.gutenbergnews.org and clicking on the
+'Newsletter Archives' menu item.
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #196/364 | Week: #28/52 | Month: #06.50
+
+GRAND TOTALS
+
+22,046 [+ 44] Project Gutenberg
+ 1,548 [+  3] PG Australia
+    67 [+  0] PG Europe 'Unique' | 453 [+ 2] Total (See NOTES)
+   381 [+  0] PG PrePrints
+-------------
+24,042 [+ 47] GRAND TOTAL
+
+    49 - Reserved/Pending
+
+ 5,958 to go to 30,000 eBooks.
+   ~80% of the way to 30,000
+   ~40% of the way from 20,000 to 30,000
+
+ 1,937 [+1] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+1,832 Project Gutenberg
+   94 PG Australian
+    5 PG Europe 'Unique' | 45 Total (See NOTES)
+    0 PG PrePrints
+=====
+1,931 TOTAL [2007]
+
+   69 eBooks REposted to the new filing system.
+
+    *  56 new eBooks last week
+
+    * 103 new eBooks in July
+    * 319 new eBooks in June
+    * 437 new eBooks in May
+    * 303 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 69 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 299 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a spreadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,667 [+34] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   1 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+Revolution and Other Essays, by Jack London                               4953
+   [Updated edition of etext04/rvlt10h.htm]
+   [Link: http://www.gutenberg.org/4/9/5/4953 ]
+   [Files: 4953.txt; 4953-h.htm]
+
+
+---------[   2 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Correction of errors and the addition of HTML version.
+The American Baron, by James De Mille                                    13257
+  [Illustrator: William Ludwell Sheppard ]
+  [Language: English ]
+  [Link: http://www.gutenberg.org/dirs/1/3/2/5/13257 ]
+  [Files: 13257.txt; 13257-8.txt; 13257-h.htm; ]
+  [Clearance: gbn0404240553 ]
+
+Incorrect 'ebooks' folder should be 'ebooks07'.
+Jul 2007 Lord Bellinger, Harry Graham                      [070092xx.xxx] 1545A
+http://gutenberg.net.au/ebooks07/0700921.txt or .zip
+
+Incorrect 'ebooks' folder should be 'ebooks07'.
+Jul 2007 Sorrow in Sunlight, Ronald Firbank                [070091xx.xxx] 1544A
+[Alternate Title: Prancing Nigger]
+http://gutenberg.net.au/ebooks07/0700911.txt or .zip
+http://gutenberg.net.au/ebooks07/0700911h.html
+
+
+---------[  44 NEW PG EBOOK(S) ]------------------------------------------------
+
+The Red Cross Girls with the Russian Army, by Margaret Vandercook        22095
+   [Link: http://www.gutenberg.org/2/2/0/9/22095 ]
+   [Files: 22095.txt; 22095-8.txt; 22095-h.htm]
+
+Travels in the Great Desert of Sahara, 1845 and 1846, James Richardson   22094
+   [Full title: Travels in the Great Desert of Sahara, in the Years of
+                1845 and 1846]
+   [Link: http://www.gutenberg.org/2/2/0/9/22094 ]
+   [Files: 22094-0.txt; 22094-h.htm]
+
+Sagas of Olaf Tryggvason and of Harald The Tyrant, by Snorri Sturluson   22093
+   [Full title: The Sagas of Olaf Tryggvason and of Harald The Tyrant
+                (Harald Haardraade)]
+   [Illustrator: Halfdan Egedius; Christian Krogh; Gerhard Munthe;
+                 Hjalmar Eilif Emanuel Peterssen; Erik Theodor
+                 Werenskiold; Wilhelm Laurits Wetlesen]
+   [Translator: Ethel Harriet Hearn and Gustav Storm]
+   [Link: http://www.gutenberg.org/2/2/0/9/22093 ]
+   [Files: 22093.txt; 22093-8.txt; 22093-h.htm]
+
+Pasarse de listo, by Juan Valera                                         22092
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/2/2/0/9/22092 ]
+   [Files: 22092-8.txt; 22092-h.htm]
+
+The Best Short Stories of 1920, by Various                               22091
+   [Subtitle: and the Yearbook of the American Short Story]
+   [Editor: Edward J. O'Brien]
+   [Link: http://www.gutenberg.org/2/2/0/9/22091 ]
+   [Files: 22091.txt; 22091-8.txt; 22091-h.htm]
+
+The Task of Social Hygiene, by Havelock Ellis                            22090
+  [Link: http://www.gutenberg.org/2/2/0/9/22090 ]
+  [Files: 22090.txt; 22090-8.txt; 22090-h.htm; ]
+  [Clearance: 20060701154415ellis]
+
+The Liberty Minstrel, by George W. Clark                                 22089
+  [Link: http://www.gutenberg.org/2/2/0/8/22089 ]
+  [Files: 22089.txt; 22089-8.txt; 22089-h.htm]
+
+Apologia Pro Vita Sua, by John Henry Cardinal Newman                     22088
+  [Link: http://www.gutenberg.org/2/2/0/8/22088 ]
+  [Files: 22088.txt; 22088-8.txt; 22088-h.htm]
+
+Hazel Squirrel and Other Stories, by Howard B. Famous                    22087
+   [Link: http://www.gutenberg.org/2/2/0/8/22087 ]
+   [Files: 22087.txt; 22087-h.htm]
+
+The Son of Monte-Cristo, Volume II (of 2), by Alexandre Dumas père       22086
+  [Link: http://www.gutenberg.org/2/2/0/8/22086 ]
+  [Files: 22086.txt; 22086-8.txt; 22086-h.htm; ]
+  [Clearance: 20060914184551dumas]
+
+Sir Jagadis Chunder Bose, by Sir Jagadis Chunder Bose                    22085
+   [Subtitle: His Life and Speeches]
+   [Editor: Anonymous]
+   [Link: http://www.gutenberg.org/2/2/0/8/22085 ]
+   [Files: 22085.txt; 22085-8.txt; 22085-h.htm]
+
+Life and Character of Henry Winter Davis, by John A. J. Creswell         22084
+   [Full title: Oration on the Life and Character of Henry Winter Davis]
+   [Link: http://www.gutenberg.org/2/2/0/8/22084 ]
+   [Files: 22084.txt; 22084-8.txt; 22084-h.htm]
+
+Myths and Legends of the Great Plains, by Unknown                        22083
+   [Editor: Katharine Berry Judson]
+   [Link: http://www.gutenberg.org/2/2/0/8/22083 ]
+   [Files: 22083.txt; 22083-8.txt; 22083-h.htm]
+
+The Emancipation Proclamation, by Abraham Lincoln                        22082
+  [Link: http://www.gutenberg.org/2/2/0/8/22082 ]
+  [Files: 22082.txt; ]
+
+Parodies of Ballad Criticism (1711-1787), by Wagstaffe and Griffin       22081
+  [Full author: William Wagstaffe and Gregory Griffin AKA George Canning]
+  [Subtitle: A Comment Upon the History of Tom Thumb, 1711, by Wm.
+              Wagstaffe; The Knave of Hearts, 1787, by Gregory Griffin
+              AKA George Canning]
+  [Link: http://www.gutenberg.org/2/2/0/8/22081 ]
+  [Files: 22081.txt; 22081-8.txt; 22081-h.htm]
+
+True Stories of Wonderful Deeds, by Anonymous                            22080
+  [Subtitle: Pictures and Stories for Little Folk]
+  [Link: http://www.gutenberg.org/2/2/0/8/22080 ]
+  [Files: 22080.txt; 22080-8.txt; 22080-h.htm]
+
+The Brighton Boys in the Radio Service, by James R. Driscoll             22079
+  [Link: http://www.gutenberg.org/2/2/0/7/22079 ]
+  [Files: 22079.txt; 22079-8.txt; 22079-h.htm; ]
+  [Clearance: 20060715145421driscoll]
+
+Aventures Extraordinaires d'un Savant Russe, by Faure and Graffigny      22078
+  [Full title: Aventures Extraordinaires d'un Savant Russe; III. Les
+        Planètes Géantes et les Comètes]
+  [Full author: Georges Le Faure and Henri de  Graffigny]
+  [Illustrator: J. Cayron et d'Henriot]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/2/0/7/22078 ]
+  [Files: 22078-8.txt; 22078-0.txt; 22078-h.htm]
+
+Les Origines et la Jeunesse de Lamartine 1790-1812,Pierre de Lacretelle  22077
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/2/0/7/22077 ]
+  [Files: 22077-8.txt; 22077-0.txt; 22077-h.htm]
+
+The Second Chance, by Nellie L. McClung                                  22076
+  [Link: http://www.gutenberg.org/2/2/0/7/22076 ]
+  [Files: 22076.txt; ]
+  [Clearance: 20070701143131mcclung]
+
+The Life of Duty, v. 2, by H. J. Wilmot-Buxton                           22075
+  [Subtitle: A year's plain sermons on the Gospels or Epistles]
+  [Link: http://www.gutenberg.net/2/2/0/7/22075 ]
+  [Files: 22075.txt; 22075-8.txt]
+
+The Doings of the Fifteenth Infantry Brigade, by Edward Lord Gleichen    22074
+  [Subtitle: August 1914 to March 1915]
+  [Link: http://www.gutenberg.org/2/2/0/7/22074 ]
+  [Files: 22074.txt; 22074-8.txt; 22074-h.htm; ]
+  [Clearance: 20051006134257gleichen]
+
+The Repairman, by Harry Harrison                                         22073
+   [Illustrator: Kramer]
+   [Link: http://www.gutenberg.org/2/2/0/7/22073 ]
+   [Files: 22073.txt; 22073-h.htm]
+
+Folk-Lore and Legends: North American Indian, by Anonymous               22072
+   [Link: http://www.gutenberg.org/2/2/0/7/22072 ]
+   [Files: 22072.txt; 22072-8.txt; 22072-h.htm]
+
+Marjorie Dean, College Sophomore, by Pauline Lester                      22071
+   [Link: http://www.gutenberg.org/2/2/0/7/22071 ]
+   [Files: 22071.txt; 22071-8.txt; 22071-h.htm]
+
+La Karavano, by Wilhelm Hauff                                            22070
+  [Translator: J. W. Eggleton]
+  [Language: Esperanto]
+  [Link: http://www.gutenberg.net/2/2/0/7/22070 ]
+  [Files: 22070.txt; 22070-8.txt; 22070-0.txt; 22070-h.htm]
+
+The Works of Guy de Maupassant, Volume VIII., by Guy de Maupassant       22069
+  [Link: http://www.gutenberg.org/2/2/0/6/22069 ]
+  [Files: 22069.txt; 22069-8.txt; 22069-h.htm]
+
+Mémoires du duc de Rovigo, by Anne-Jean-Marie-René Savary, duc de Rovigo 22068
+  [Full title: Mémoires du duc de Rovigo, pour servir à l'histoire de
+        l'empereur Napoléon]
+  [Full author: Anne-Jean-Marie-René Savary, duc de Rovigo, 1774-1833]
+  [Subtitle: Tome Sixième]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/2/0/6/22068 ]
+  [Files: 22068-8.txt]
+
+The Story of a Cannoneer Under Stonewall Jackson, by Edward A. Moore     22067
+  [Link: http://www.gutenberg.org/2/2/0/6/22067 ]
+  [Files: 22067.txt; 22067-8.txt; 22067-h.htm]
+
+The Long Roll, by Mary Johnston                                          22066
+  [Link: http://www.gutenberg.org/2/2/0/6/22066 ]
+  [Files: 22066.txt; 22066-h.htm]
+
+Elements of Geometrie of Euclid of Megara, by John Dee                   22062
+  [Full title: The Mathematicall Praeface to Elements of Geometrie
+        of Euclid of Megara]
+  [Link: http://www.gutenberg.org/2/2/0/6/22062 ]
+  [Files: 22062.txt; 22062-0.txt; 22062-h.htm]
+
+An Elementary Spanish Reader, by Earl Stanley Harrison                   22065
+  [Language: Spanish]
+  [Link: http://www.gutenberg.org/2/2/0/6/22065 ]
+  [Files: 22065-8.txt; 22065-h.htm]
+
+Tess of the Storm Country, by Grace Miller White                         22064
+  [Ill.: Howard Chandler Christy]
+  [Link: http://www.gutenberg.org/2/2/0/6/22064 ]
+  [Files: 22064.txt; 22064-8.txt; 22064-h.htm; ]
+  [Clearance: 20060814135807white]
+
+The Trail of '98, by Robert W. Service                                   22063
+  [Subtitle: A Northland Romance]
+  [Ill.: Maynard Dixon]
+  [Link: http://www.gutenberg.org/2/2/0/6/22063 ]
+  [Files: 22063.txt; 22063-8.txt; 22063-h.htm; ]
+  [Clearance: 20060521194933service]
+
+The Young Franc Tireurs, by G. A. Henty                                  22060
+  [Subtitle: And Their Adventures in the Franco-Prussian War]
+  [Illustrator: F. T. Young]
+  [Link: http://www.gutenberg.net/2/2/0/6/22060 ]
+  [Files: 22060.txt; 22060-h.htm]
+
+The Mountain that was 'God', by John H. Williams                         22056
+   [Subtitle: Being a Little Book About the Great Peak Which the Indians
+               Named 'Tacoma' but Which is Officially Called 'Rainier']
+   [Link: http://www.gutenberg.org/2/2/0/5/22056 ]
+   [Files: 22056.txt; 22056-8.txt; 22056-h.htm]
+
+Dame Duck's Lecture, by Unknown                                          22055
+   [Subtitle: Dame Duck's First Lecture on Education]
+   [Link: http://www.gutenberg.org/2/2/0/5/22055 ]
+   [Files: 22055.txt; 22055-h.htm]
+
+Les vivants et les morts, by Anna de Noailles                            22054
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/2/0/5/22054 ]
+   [Files: 22054-8.txt]
+
+Stories of King Arthur and His Knights, by U. Waldo Cutler               22053
+  [Subtitle: Retold from Malory's "Morte dArthur"]
+  [Link: http://www.gutenberg.org/2/2/0/5/22053 ]
+  [Files: 22053.txt; 22053-8.txt; 22053-h.htm; ]
+  [Clearance: 20070601111410cutler]
+
+Standish of Standish, by Jane G. Austin                                  22052
+  [Subtitle: A story of the Pilgrims]
+  [Link: http://www.gutenberg.org/2/2/0/5/22052 ]
+  [Files: 22052.txt; 22052-8.txt; 22052-h.htm; ]
+  [Clearance: 20051022212048austin]
+
+Punch, or the London Charivari, Vol. 98, February 1, 1890, by Various    22051
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.org/2/2/0/5/22051 ]
+  [Files: 22051.txt; 22051-8.txt; 22051-h.htm; ]
+  [Clearance: OK  20050323112602various   Punch prior to 1923 Various
+   Various   1920:p   This is a blanket clearance for the entire run
+   of the magazine through 1922--Juliet ]
+
+Life and Conduct, by J. Cameron Lees                                     22050
+  [Link: http://www.gutenberg.org/2/2/0/5/22050 ]
+  [Files: 22050.txt; 22050-8.txt; ]
+  [Clearance: 20070627150018lees]
+
+The Love Affairs of an Old Maid, by Lilian Bell                          22047
+  [Link: http://www.gutenberg.net/2/2/0/4/22047 ]
+  [Files: 22047.txt; 22047-8.txt; 22047-h.htm]
+
+Kaksi laukausta, by Holger Drachmann                                     22006
+  [Translator: Elisabeth Löfgren]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/2/2/0/0/22006 ]
+  [Files: 22006.txt; 22006-8.txt]
+
+
+---------[   3 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Jul 2007 The Yellow Snake, Edgar Wallace                   [070095xx.xxx] 1548A
+http://gutenberg.net.au/ebooks07/0700951.txt or .zip
+http://gutenberg.net.au/ebooks07/0700951h.html
+
+Jul 2007 Trails Plowed Under, Charles M Russell            [070094xx.xxx] 1547A
+http://gutenberg.net.au/ebooks07/0700941.txt or .zip
+http://gutenberg.net.au/ebooks07/0700941h.html
+
+Jul 2007 Home Ranch, Will James                            [070093xx.xxx] 1546A
+http://gutenberg.net.au/ebooks07/0700931.txt or .zip
+http://gutenberg.net.au/ebooks07/0700931h.html
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================

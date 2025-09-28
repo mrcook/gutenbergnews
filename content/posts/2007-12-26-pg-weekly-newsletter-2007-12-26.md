@@ -1,0 +1,54 @@
+---
+params:
+  id: 2527
+title: PG Weekly Newsletter (2007-12-26)
+date: 2007-12-26T21:36:15+00:00
+author: Michael Cook
+layout: post
+url: /20071226/pg-weekly-newsletter-2007-12-26/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>pgweekly_2007_12_26.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, December 26, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+
+Our little automated daily report didn't come in today, that would have
+reflected PG prodution thru Wednesday-- our official production years,
+months, weeks, run from noon the first Wedneaday per year and month, so it
+may be TWO weeks before we get the final numbers of 2007.
+
+Right now my personal estimate for 2007 is 4250. . . .
+
+For this past week, something like 90.
+
+And, PG Australia is coming up on their 1600th, maybe by the end of January.
+
+In addition, the new PG of Chinese has taken off with a bang, having moved
+through our 50+ languages with a last week's total in the Top 10, and now
+moving quite rapidly into the Top 5.
+
+We have about 400 chinese works cleared, and they are going online at record
+rates, having passed Italian-- just between last Friday and this Wednesday
+noon.
+
+It would also appear we passed 26,000 PG originals as of this past week.
+
+LOTS of things to look forward to in 2008!!!
+
+
+Michael
+</pre>
+
+<a href="/nl_archives/2007/pgweekly_2007_12_26.txt" target="_blank" rel="nofollow">pgweekly_2007_12_26.txt</a>

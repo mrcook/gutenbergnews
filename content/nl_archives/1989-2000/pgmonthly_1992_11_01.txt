@@ -1,0 +1,372 @@
+Date:         Sun, 1 Nov 1992 08:01:43 CST
+ <GUTNBERG%UIUCVMD.BitNet@pucc.PRINCETON.EDU>
+Sender: Project Gutenberg Email List
+ <GUTNBERG%UIUCVMD.BitNet@pucc.PRINCETON.EDU>
+From: "Michael S. Hart" <HART@vmd.cso.uiuc.edu>
+Subject:      October Newsletter
+
+*This is the Project Gutenberg Newsletter for October 31, 1992*
+Our Goal, To Give Away One Trillion Etexts By December 31, 2001
+
+*[10,000 titles to 100,000,000 people equals 1,000,000,000,000]
+
+If each book goes to 100 million people by the end of 2001 then
+we should be at about 3.5 billion with release of the following
+not counting pre-1991 releases:  which are still in the process
+of being dug out of our archives, new headers attached, and new
+placement in new directories on our new 600M fileserver.  Thank
+you NeXT, for your support!  Thanks also to Apple, Calera, CTA,
+and Caere.
+
+Save the instruction below, as some locations have changed!
+
+The October 1992 Project Gutenberg Etexts are:
+
+Oct 1992 The Legend of Sleepy Hollow (sleep10x.xxx)
+Oct 1992 Dr. Jekyll and Mr. Hyde #1  (hyde10xx.xxx)
+Oct 1992 Dr. Jekyll and Mr. Hyde #2  (hydea10x.xxx)
+
+This choice was made by popular demand for this date.
+
+The remainder of our responses to your letters will be contained
+in the mid-month Newsletter2.
+
+*This file is about 400 lines in length, and is about 10Kbytes*
+Keep this newsletter, it is your "readme" file for the location
+of all material currently posted at the University of Illinois,
+[mrcnext.cso.uiuc.edu . . . see below details and instructions]
+and also contains information on how to retrieve our books from
+East Coast, Central and West Coast locations and email and BBS.
+       [Try The Bitter Butter Better BBS, (503)-620-0307]
+[Try the Land of Garg BBS 1-408-378-5108 in Silicon Valley CA]
+        [also via Internet at garg.campbell.ca.us]
+  Some of our etexts are available via the Cleveland Freenet.
+      You can also call via modem at 1-216-368-3888.
+***
+
+[Articles are available in> cd/etext/articles
+and so is this current newsletter GUTAUG2.2]
+The article SUGGEST.GUT tells how to get going.
+***
+These current releases are on
+mrcnext:  cd etext/etext92
+quake.think.com:  cd pub then cd etext91 or cd etext92
+simtel20.army.mil:  cd pd1:<msdos.books>
+nptn.org:  cd /pub/e.texts/gutenberg then cd etext91 or etext92
+
+You may subscribe to the paper edition of this newsletter:
+mail stamps and mailing labels, and/or donations to:
+
+David Turner, O.S.B.
+Illinois Benedictine
+5700   College  Road
+Lisle, IL 60532-0900
+
+Your donations are needed and appreciated. . .our
+work is entirely funded by donations.
+
+(Books from earlier years will available in 1992)
+(but not yet:  to be announced, don't ask yet!!!)
+
+    1971 Declaration-Independence  (whenxxxx.xxx)
+    1972 Bill of Rights            (billxxxx.xxx)
+    1973 U.S. Constitution         (constxxx.xxx)
+    1974-1982 The Bible            (biblexxx.xxx)
+    1983-1990 Complete Shakespeare (shakesxx.xxx)
+
+(Watch for these entries to be moved below later.
+The Bible mentioned above is a different edition
+from the one we just posted for Easter, 1992)
+
+INDEX OF PROJECT GUTENBERG ETEXTS (1991 and 1992)
+
+[Articles are available in> cd/etext/articles.]
+The article SUGGEST.GUT tells how to get going.
+gutxxxxx.xxx files are the Newsletters, and the
+Newsletter2 files are gut2xxxx.xxx
+
+Questions about Project Gutenberg should go to:
+dircompg@ux1.cso.uiuc.edu Director/Communications
+
+(These 1992 etext releases in> cd /etext/etext92)
+ftp mrcnext.cso.uiuc.edu (not from 10 AM to 5 PM)
+(Do a dir *.zip or dir *.txt to see exact names.)
+
+Relayed to simtel20, quake.think.com and nptn.org
+and other sites described in the Newsletter.
+
+Jan 1992 Frederick Douglass        (duglas10.xxx)
+Jan 1992 O Pioneers!  Willa Cather (opion10x.xxx)
+Feb 1992 1991 CIA World Factbook   (world91a.xxx)
+Feb 1992 Paradise Lost (Raben)     (plrabn11.xxx)
+Mar 1992 Far From the Madding Crowd(crowd13x.xxx)
+Mar 1992 Aesop's Fables (Advantage)(aesopa10.xxx)
+Apr 1992 Data From the 1990 Census (uscen901.xxx)
+Apr 1992 New Etext of Bible (KJV)  (bible10x.xxx)
+May 1992 Sophocles' Oedipus Trilogy(oedip10x.xxx)
+May 1992 Herland (for Mother's Day)(hrlnd10x.xxx)
+Jun 1992 The Scarlet Letter        (scrlt10x.xxx)
+Jun 1992 Zen & the Art of Internet)(zen10xxx.xxx)
+Jul 1992 The Time Machine-HG Wells)(timem10x.xxx)
+Jul 1992 The War of the Worlds-HGW)(warw10xx.xxx)
+Aug 1992 The 1990 US Census (2nd)  (uscen902.xxx)
+Aug 1992 The Hackers' Dictionary   (jargn10x.xxx)
+Sep 1992 Hitchhiker's Guide to the Internet (hhgi10xx.xxx)
+Sep 1992 NorthWestNet NUSIRG Internet Guide (nusirg10.xxx)
+Oct 1992 The Legend of Sleepy Hollow (sleep10x.xxx)
+Oct 1992 Dr. Jekyll and Mr. Hyde #1  (hyde10xx.xxx)
+Oct 1992 Dr. Jekyll and Mr. Hyde #2  (hydea10x.xxx)
+
+
+(These 1991 etexts are now in> cd /etext/etext91)
+(Do a dir *.zip or dir *.txt to see exact names.)
+
+Jan 1991 Alice in Wonderland       (alice29x.xxx)
+Feb 1991 Through the Looking Glass (lglass16.xxx)
+Mar 1991 The Hunting of the Snark  (snark12x.xxx)
+Apr 1991 1990 CIA World Factbook   (world12x.xxx)
+May 1991 Moby Dick (From OBI)*     (mobyxxxx.xxx)
+Jun 1991 Peter Pan (for US only)** (peter14a.xxx)
+Jul 1991 The Book of Mormon        (mormon13.xxx)
+Aug 1991 The Federalist Papers     (feder12x.xxx)
+Sep 1991 The Song of Hiawatha      (hisong11.xxx)
+Oct 1991 Paradise Lost             (plboss11.xxx)
+Nov 1991 Aesop's Fables            (aesop11x.xxx)
+Dec 1991 Roget's Thesaurus         (roget11x.xxx)
+Dec 1991 Roget's Thesaurus         (roget12x.xxx)
+
+
+(These two Roget's are not exactly the same)
+
+*Moby Dick is missing Chapter 72
+
+**Please do not download Peter Pan outside the US
+
+
+End of Paper Edition of September 1992 Project Gutenberg
+Newsletter.
+*Please attach signature block(====)from end of email edition
+here.*
+
+Here are the latest updates for FTP downloading of Project
+Gutenberg
+etexts and others.  These updates will be posted on several
+listserv
+locations once a month.  We hope we have answered most questions,
+as
+new files, new locations, and new users arrive each month.  We
+can't
+answer queries about nameservers or how your local system runs
+FTP!!
+
+Please try to help people get text files as we are not well
+prepared
+to deal with sending items through the mail.
+
+Brief instructions are followed by more detailed instructions.
+
+Here are places you can pick up the Project Gutenberg Etexts
+
+East to West (details below)
+quake.think.com is in Massachusetts
+Cleveland Freenet and NPTN are in Ohio
+mrcnext is in Illinois
+The Almanac server is in Oregon
+simtel20 is in New Mexico
+The MSDOS portions of simtel are echoed on:
+Oakland, Michigan
+Oakland at oak.oakland.edu (141.210.10.117)
+St. Louis at Washington University
+wuarchive.wustl.edu (128.252.135.4)
+and many other sites.
+
+You can ftp and get at least some files at ftp.cwru.edu
+(anonymous).
+Also a new Gutenberg ftp site located at:  nptn.org
+(192.55.234.52).
+Do an anonymous ftp into nptn.org.  cd /pub/e.texts/gutenberg
+Then cd etext91 or etext92 to get to the books listed above.
+
+Freenet and NPTN (National Public Telecomputing Network) are not
+the
+same organization, though Tom Grundner is involved with both.
+****
+Please do not access the mrcnext machine from 10:00 AM to 6:00 PM
+
+Central Standard Time (Daylight in summer) as this is peak usage,
+& mrcnext is always the first machine to get the newest editions.
+
+Current releases are now listed in each newsletter.
+Others texts are also available at the various sites.
+
+For further information or to retrieve electronic books:
+
+FTP directly to the Project Gutenberg archives:
+
+ftp mrcnext.cso.uiuc.edu
+or
+ftp 128.174.201.12
+
+login:  anonymous
+
+password:  name@login  [your email address]
+
+cd etext/etext91 [for 1991 releases]
+cd etext/articles [for Project Gutenberg articles and
+newsletters]
+cd etext92 [for 1992 releases] if /etext/etext92 is down
+
+dir [to see files]
+
+get or mget [to get files. . .set bin for zip files]
+
+GET INDEX
+for a list of books
+and
+GET NEW GUT
+for general information
+and
+MGET GUT*
+for newsletters.
+
+MORE DETAILS
+ls -a or dir (This will give you a directory listing, case
+sensitive)
+get filename.filetype
+(examples . . . )
+dir     (to see current editions available) (RETURN to see next
+page)
+get alice29.txt
+get lglass16.txt
+get snark12.txt
+quit
+*****
+
+You may have to get local instructions for linking to FTP,
+and/or setting memory for FTP.  These files also available
+via disk on request in several formats.  Some Bitnet sites
+have FTP emulators, check with your local guru.
+
+The current FTP sites are:
+
+mrcnext.cso.uiuc.edu or (128.174.201.12)  cd /etext (details
+above)
+(Please do NOT use the mrcnext between 10AM and 6PM weekdays)
+
+Named the Almanac information server, located at the Extension
+Service
+at Oregon State University, allows text retrieval both through
+ftp and
+email (for Bitnet users).  Works from To retrieve a file via ftp:
+
+ftp oes.orst.edu           (128.193.124.2)
+Log in as `anonymous' and your login name as a password.
+cd /pub/almanac/etext
+ls                         (to get a list of files)
+bin                        (to switch to binary mode)
+get filename               (where `filename' was one of the files
+listed)
+bye                        (when done)
+
+To retrieve a file via e-mail, first send the following line by
+itself to almanac@oes.orst.edu
+
+     send gutenberg catalog
+
+This will instruct you how to send further requests, and will
+list
+the available files.  For example, to retrieve _Alice's
+Adventures
+in Wonderland_, send to almanac@oes.orst.edu
+
+     send gutenberg alice
+======
+
+quake.think.com (192.31.181.1)
+cd pub
+cd etext91 or cd etext92
+Our thanks to Brewster Kahle!
+
+(Our thanks to Thinking Machines Corporation)
+(Located in Cambridge, MA near Boston)
+*********
+
+simtel20.army.mil or (192.88.110.20)
+cd pd1:<msdos.books>
+Also known as WSMR-SIMTEL20.ARMY.MIL
+(This computer has great archives and is used a lot, takes time)
+=========
+The MSDOS portions of simtel are echoed on:
+wuarchive.wustl.edu
+Name:    wuarchive.wustl.edu
+Address:  128.252.135.4
+(Please report your efforts on wuarchive, we need a guru for it)
+
+(wuarchive also echoed on mrcnext.cso.uiuc.edu in the mirrors
+dir.
+
+
+The real name for simtel20 is:
+WSMR-SIMTEL20.ARMY.MIL
+
+NOTE; Type B is Binary: Type A is ASCII
+
+Directory PD1:<MSDOS.BOOKS>
+ Filename   Type Length   Date    Description
+==============================================
+ALICE11.ZIP   B   61702  901218  Lewis Carroll-ALICE'S ADVENTURES
+IN WONDERLAND
+
+LGLASS10.ZIP  B   70039  901217  THROUGH THE LOOKING GLASS by
+Lewis Carroll
+
+SIMTEL20 allows standard ANONYMOUS ftp with password GUEST.
+
+cd pd1:<msdos.books>
+type tenex
+get alice11.zip
+get lglass11.zip
+bye
+
+If your FTP does not have TENEX mode, use BINARY mode.  If the
+files
+are not readable after transferring in BINARY mode, try again
+with
+these two commands to set the mode:
+
+type binary
+
+quote "TYPE L 8"
+
+The double quotes are required.
+=====================================================
+|       The trend of library policy is clearly toward
+|       the ideal of making all information available
+|       without delay to all people.
+|
+|The Software Toolworks Illustrated Encyclopedia (TM)
+|(c) 1990 Grolier Electronic Publishing, Inc.
+
+Thank you for your interest,
+
+Michael S. Hart, Project Gutenberg Executive Director
+National Clearinghouse for Machine Readable Texts
+
+The views expressed herein do not necessarily reflect
+the views of any person or institution.  Neither Prof
+Hart nor Project Gutenberg have any official contacts
+with the University of Illinois.
+
+Mail will be considered for release in our newsletter
+and notes unless otherwise requested.
+
+Email addresses:
+General Questions:
+dircompg@ux1.cso.uiuc.edu     dircompg@uiucux1.bitnet
+Personal Notes to:
+BITNET> HART@UIUCVMD  INTERNET> HART@VMD.CSO.UIUC.EDU
+Also as the Usenet group bit.listserv.gutnberg
+CompuServe:  >INTERNET:hart@vmd.cso.uiuc.edu
+Attmail:  internet!vmd.cso.uiuc.edu!HART
+
+

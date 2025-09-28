@@ -1,0 +1,511 @@
+From news at pglaf.org  Wed Sep  6 18:27:25 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Sep  6 18:27:28 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0609061826300.17779@pglaf.org>
+
+GWeekly_September_06_part2.txt
+
+The Project Gutenberg Weekly Newsletter 21 Jun 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 44 New U.S. eBooks this week
+    - 34 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+-.- HOW TO GET EBOOKS FROM PROJECT GUTENBERG -.-
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+For more information about Project Gutenberg, and to see what's new,
+please visit the website at http://www.gutenberg.org.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 06 Sep 2006:
+     19,147 PG U.S.A.
+      1,236 PG of Australia
+
+RESERVED/PENDING count: 42
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Reginald, by Saki (H. H. Munro)                                           2830
+   [Updated edition of: etext01/rgnld10.txt ]
+   [Link: http://www.gutenberg.org/2/8/3/2830 ]
+   [Files: 2830.txt; 2830-h.htm]
+
+Romantic Ballads, by George Borrow                                        2430
+   [Subtitle: Translated from the Danish; and Miscellaneous Pieces]
+   [Updated edition of: etext00/rmbdd10.txt]
+   [Link: http://www.gutenberg.org/2/4/3/2430 ]
+   [Files: 2430.txt; 2430-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+
+
+-=-=-=-=[  44 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+A virtude laureada, by Manoel Maria de Barbosa du Bocage                 19189
+   [Subtitle: Drama Recitado no Theatro do Salitre]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/9/1/8/19189 ]
+   [Files: 19189-8.txt]
+
+Poems, by Christina G. Rossetti                                          19188
+   [Link: http://www.gutenberg.org/1/9/1/8/19188 ]
+   [Files: 19188.txt; 19188-8.txt; 19188-h.htm]
+
+Chevalier de Mornac, by Joseph Marmette                                  19187
+   [Subtitle: Chronique de la Nouvelle-France (1664)]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/1/8/19187 ]
+   [Files: 19187-8.txt]
+
+Les contemporains, premiere serie, by Jules Lemaitre                     19186
+   [Subtitle: Etudes et portraits litteraires]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/1/8/19186 ]
+   [Files: 19186-8.txt]
+
+Santa Teresa, by Alexander Whyte                                         19185
+   [Subtitle: an Appreciation: with some of the best passages of the
+    Saint's Writings]
+   [Link: http://www.gutenberg.org/1/9/1/8/19185 ]
+   [Files: 19185.txt; 19185-h.htm]
+
+La carrosse aux deux lezards verts, by Rene Boylesve                     19184
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/1/8/19184 ]
+   [Files: 19184-8.txt; 19184-0.txt]
+
+Hedda Gabler, by Henrik Ibsen                                            19183
+   [Subtitle: Dramo en kvar aktoj]
+   [Translator: Odd Tangerud]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/1/9/1/8/19183 ]
+   [Files: 19183.txt; 19183-0.txt; 19183-h.htm]
+
+La Sinjorino el la Maro, by Henrik Ibsen                                 19182
+   [Translator: Odd Tangerud]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/1/9/1/8/19182 ]
+   [Files: 19182.txt; 19182-0.txt; 19182-h.htm]
+
+Chambers's Edinburgh Journal, Vol. 17 New Series, No. 439, May 29, 1852  19181
+   [Editor: Robert Chambers and William Chambers]
+   [Link: http://www.gutenberg.org/1/9/1/8/19181 ]
+   [Files: 19181.txt; 19181-8.txt; 19181-h.htm]
+
+Scientific  American, Volume 24, No. 12,  March 18, 1871, by Various     19180
+   [Subtitle: A Weekly Journal of Practical Information, Art, Science,
+    Mechanics, Chemistry, and Manufactures.]
+   [Link: http://www.gutenberg.org/1/9/1/8/19180 ]
+   [Files: 19180.txt; 19180-8.txt; 19180-h.htm]
+
+Kelly Miller's History of the World War for Human Rights, Kelly Miller   19179
+   [Link: http://www.gutenberg.org/1/9/1/7/19179 ]
+   [Files: 19179.txt; 19179-8.txt; 19179-h.htm]
+
+Kylakertomuksia, by Arne Garborg                                         19178
+   [Translator: Minna Canth]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/1/7/19178 ]
+   [Files: 19178-8.txt]
+
+Hey Diddle Diddle and Baby Bunting, by Randolph Caldecott                19177
+   [Subtitle: R. Caldecott's Picture Books]
+   [Link: http://www.gutenberg.org/1/9/1/7/19177 ]
+   [Files: 19177.txt; 19177-h.htm]
+
+Kuvauksia metsaelamasta sivistyksen aarimmaisella rajalla, by Cooper     19176
+   [Subtitle: eli Natty Bumpon elamanvaiheet]
+   [Author: James Fenimore Cooper]
+   [Translator: K. E. S.]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/1/7/19176 ]
+   [Files: 19176-8.txt]
+
+A Little Rebel, by Margaret Wolfe Hungerford                             19175
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/9/1/7/19175 ]
+   [Files: 19175.txt; 19175-8.txt; 19175-h.htm]
+
+The Man Who Rocked the Earth, by Arthur Train and Robert Williams Wood   19174
+  [Link: http://www.gutenberg.org/1/9/1/7/19174 ]
+  [Files: 19174.txt; 19174-8.txt; 19174-h.htm]
+
+The Cow Puncher, by Robert J. C. Stead                                   19173
+   [Link: http://www.gutenberg.org/1/9/1/7/19173 ]
+   [Files: 19173.txt; 19173-8.txt; 19173-h.htm]
+
+An Australian in China, by George Ernest Morrison                        19172
+   [Subtitle: Being the Narrative of a Quiet Journey Across China to Burma]
+   [Link: http://www.gutenberg.org/1/9/1/7/19172 ]
+   [Files: 19172.txt; 19172-8.txt; 19172-h.htm]
+
+The Moving Picture Girls, by Laura Lee Hope                              19171
+   [Subtitle: First Appearances in Photo Dramas]
+   [Link: http://www.gutenberg.org/1/9/1/7/19171 ]
+   [Files: 19171.txt; 19171-8.txt; 19171-h.htm]
+
+Primavera, by Phillips, Binyon, Ghose, and Cripps                        19170
+   [Subtitle: Poems by Four Authors]
+   [Author: Stephen Phillips, Laurence Binyon, Manmohan Ghose, and
+    Arthur Shearly Cripps]
+   [Link: http://www.gutenberg.org/1/9/1/7/19170 ]
+   [Files: 19170.txt; 19170-8.txt; 19170-h.htm]
+
+Baseball ABC, by McLoughlin Bros                                         19169
+   [Link: http://www.gutenberg.org/1/9/1/6/19169 ]
+   [Files: 19169.txt; 19169-8.txt; 19169-h.htm]
+
+Studies in Forensic Psychiatry, by Bernard Glueck                        19168
+   [Link: http://www.gutenberg.org/1/9/1/6/19168 ]
+   [Files: 19168.txt; 19168-8.txt; 19168-0.txt; 19168-h.htm]
+
+Billy Whiskers, by Francis Trego Montgomery                              19167
+   [Subtitle: The Autobiography of a Goat]
+   [Illustrator: W. H. Fry]
+   [Link: http://www.gutenberg.org/1/9/1/6/19167 ]
+   [Files: 19167.txt; 19167-h.htm]
+
+The Quirt, by B.M. Bower                                                 19166
+   [Illustrator: Anton Otto Fischer]
+   [Link: http://www.gutenberg.org/1/9/1/6/19166 ]
+   [Files: 19166.txt; 19166-8.txt; 19166-h.htm]
+
+Eulogy on Chief-Justice Chase, by William M. Evarts                      19165
+   [Subtitle: Delivered by William M. Evarts before the Alumni of
+    Dartmouth College, at Hanover]
+   [Link: http://www.gutenberg.org/1/9/1/6/19165 ]
+   [Files: 19165.txt; 19165-8.txt; 19165-h.htm]
+
+Lectures on Art, by John Ruskin                                          19164
+   [Subtitle: Delivered before the University of Oxford in Hilary term, 1870]
+   [Link: http://www.gutenberg.org/1/9/1/6/19164 ]
+   [Files: 19164.txt; 19164-8.txt; 19164-h.htm]
+
+Marchen fur Kinder, by Hans Christian Andersen                           19163
+   [Illustrator: Nikolai Karasin, A. Zick, P. Schnorr, F. Reis, E. Klimsch,
+    E. Kepler, M. Flashar, H. Effenberger]
+   [Translator: Paul Arndt]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/1/6/19163 ]
+   [Files: 19163-8.txt; 19163-0.txt; 19163-h.htm]
+
+The Lost Valley, by J. M. Walsh                                          19162
+   [Link: http://www.gutenberg.org/1/9/1/6/19162 ]
+   [Files: 19162.txt; 19162-8.txt; 19162-h.htm]
+
+De Roos van Dekama, by J. van Lennep                                     19161
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/1/6/19161 ]
+   [Files: 19161-8.txt; 19161-h.htm]
+
+Disturbed Ireland, by Bernard H. Becker                                  19160
+   [Subtitle: Being the Letters Written During the Winter of 1880-81]
+   [Link: http://www.gutenberg.org/1/9/1/6/19160 ]
+   [Files: 19160.txt; 19160-8.txt; 19160-h.htm]
+
+Project Gutenberg DVD: July 2006 Special                                 19159C
+   [Link: http://www.gutenberg.org/1/9/1/5/19159 ]
+   [Files: 19159-readme.txt; pgdvd072006.iso; pgdvd072006.md5 ]
+
+The Return, by H. Beam Piper and John J. McGuire                         19158
+   [Link: http://www.gutenberg.org/1/9/1/5/19158 ]
+   [Files: 19158.txt; 19158-h.htm]
+
+A Mother's List of Books for Children, by Gertrude Weld Arnold           19157
+   [Link: http://www.gutenberg.org/1/9/1/5/19157 ]
+   [Files: 19157.txt; 19157-8.txt; 19157-h.htm]
+
+The Continental Monthly, Vol III, Issue VI, June, 1863, by Various       19156
+   [Subtitle: Devoted to Literature and National Policy]
+   [Link: http://www.gutenberg.org/1/9/1/5/19156 ]
+   [Files: 19156.txt; 19156-8.txt; 19156-h.htm]
+
+The Seminole Indians of Florida, by Clay MacCauley                       19155
+   [Subtitle: Fifth Annual Report of the Bureau of Ethnology to the
+    Secretary of the Smithsonian Institution, 1883-84, Government
+    Printing Office, Washington, 1887, pages 469-532]
+   [Link: http://www.gutenberg.org/1/9/1/5/19155 ]
+   [Files: 19155.txt; 19155-8.txt; 19155-0.txt; 19155-h.htm]
+
+With Lee in Virginia, by G. A. Henty                                     19154
+   [Subtitle: A Story of the American Civil War]
+   (See also #2805)
+   [Link: http://www.gutenberg.org/1/9/1/5/19154 ]
+   [Files: 19154.txt; 19154-h.htm]
+
+New System; or, an Analysis of Antient Mythology, Volume I, by Bryant    19153
+   [Author: Jacob Bryant]
+   [Link: http://www.gutenberg.org/1/9/1/5/19153 ]
+   [Files: 19153.txt; 19153-8.txt; 19153-0.txt; 19153-h.htm]
+
+Le journal d'une pensionnaire en vacances, by Noemie Dondel Du Faouedic  19152
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/1/5/19152 ]
+   [Files: 19152-8.txt; 19152-0.txt]
+
+Punch, Vol. 159, August 11, 1920, ed. by Sir Owen Seaman                 19151
+   [Link: http://www.gutenberg.org/1/9/1/5/19151 ]
+   [Files: 19151.txt; 19151-8.txt; 19151-h.htm]
+
+The Red Conspiracy, by Joseph J. Mereto                                  19150
+   [Link: http://www.gutenberg.org/1/9/1/5/19150 ]
+   [Files: 19150.txt; 19150-8.txt; 19150-h.htm]
+
+Locus Solus, by Raymond Roussel                                          19149
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/1/4/19149 ]
+   [Files: 19149-8.txt; 19149-h.htm]
+
+The Henchman, by Mark Lee Luther                                         19148
+   [Link: http://www.gutenberg.org/1/9/1/4/19148 ]
+   [Files: 19148.txt; 19148-8.txt]
+
+The House in the Mist, by Anna Katharine Green                           19147
+   [Link: http://www.gutenberg.org/1/9/1/4/19147 ]
+   [Files: 19147.txt; 19147-8.txt; 19147-h.htm]
+
+The Entailed Hat, by George Alfred Townsend                              19146
+   [Subtitle: Or, Patty Cannon's Times]
+   [Link: http://www.gutenberg.org/1/9/1/4/19146 ]
+   [Files: 19146.txt; 19146-8.txt; 19146-h.htm]
+
+
+
+-=-=-=-=[ 34 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Sep 2006 The Slayer of Souls, by Robert W Chambers         [060718xx.xxx] 1236A
+[http://gutenberg.net.au/ebooks06/0607181.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607181h.html ]
+
+Sep 2006 The Bushranger of Van Diemen's Land, by C Rowcroft[060717xx.xxx] 1235A
+   [Author: Charles Rowcroft]
+[http://gutenberg.net.au/ebooks06/0607171.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607171h.html ]
+
+Sep 2006 The Australian Crisis, by C H Kirmess             [060716xx.xxx] 1234A
+[http://gutenberg.net.au/ebooks06/0607161.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607161h.html ]
+
+Sep 2006 Five-Skull Island, by Alexander Montgomery        [060715xx.xxx] 1233A
+   [Title: Five-Skull Island And Other Tales of the Malay Archipelago]
+[http://gutenberg.net.au/ebooks06/0607151.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607151h.html ]
+
+Sep 2006 Australian Legends, by C W Peck                   [060714xx.xxx] 1232A
+[http://gutenberg.net.au/ebooks06/0607141.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607141h.html ]
+
+Sep 2006 A Romance of Canvas Town, by Rolf Boldrewood      [060713xx.xxx] 1231A
+   [Title: A Romance of Canvas Town and Other Stories]
+[http://gutenberg.net.au/ebooks06/0607131.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607131h.html ]
+
+Sep 2006 My Army, O, My Army! & Other Songs,by Henry Lawson[060712xx.xxx] 1230A
+[http://gutenberg.net.au/ebooks06/0607121.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607121h.html ]
+
+Sep 2006 The Race of Life, by Guy Boothby                  [060711xx.xxx] 1229A
+[http://gutenberg.net.au/ebooks06/0607111.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607111h.html ]
+
+Sep 2006 The Perversity of Human Nature, by Ada Cambridge  [060710xx.xxx] 1228A
+[http://gutenberg.net.au/ebooks06/0607101.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607101h.html ]
+
+Sep 2006 The Miner's Right, by Rolf Boldrewood             [060709xx.xxx] 1227A
+[http://gutenberg.net.au/ebooks06/0607091.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607091h.html ]
+
+Sep 2006 The House of Invisible Bondage, by Giesy and Smith[060708xx.xxx] 1226A
+   [Authors: J U Giesy and Junius B Smith]
+[http://gutenberg.net.au/ebooks06/0607081.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607081h.html ]
+
+Sep 2006 The Moccasins of Silence, by Ernest Favenc        [060707xx.xxx] 1225A
+[http://gutenberg.net.au/ebooks06/0607071.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607071h.html ]
+
+Sep 2006 The Aborigines of Western Australia, by Calvert   [060706xx.xxx] 1224A
+   [Author: Albert F. Calvert]
+[http://gutenberg.net.au/ebooks06/0607061.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607061h.html ]
+
+Sep 2006 In Strange Company, by Guy Boothby                [060705xx.xxx] 1223A
+[http://gutenberg.net.au/ebooks06/0607051.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607051h.html ]
+
+Sep 2006 The Troubles Of Australian Federation, by Barton  [060704xx.xxx] 1222A
+   [Author: George Burnett Barton]
+[http://gutenberg.net.au/ebooks06/0607041.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607041h.html ]
+
+Sep 2006 The Generous Gambler, by Charles Pierre Baudelaire[060703xx.xxx] 1221A
+[http://gutenberg.net.au/ebooks06/0607031.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607031h.html ]
+
+Sep 2006 Behind The Curtain, by Francis Stevens            [060702xx.xxx] 1220A
+[http://gutenberg.net.au/ebooks06/0607021.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607021h.html ]
+
+Sep 2006 Customs & Traditions Aboriginal Natives, Withnell [060701xx.xxx] 1219A
+   [Title:The Customs and Traditions of the Aboriginal Natives of
+    North W Australia
+   [Author: John G Withnell]
+[http://gutenberg.net.au/ebooks06/0607011.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607011h.html ]
+
+Sep 2006 Triangles of Life and Other Stories, Henry Lawson [060700xx.xxx] 1218A
+[http://gutenberg.net.au/ebooks06/0607001.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607001h.html ]
+
+Sep 2006 Here and Beyond, by Edith Wharton                 [060699xx.xxx] 1217A
+[http://gutenberg.net.au/ebooks06/0606991.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606991h.html ]
+
+Sep 2006 The Novel of the White Powder, by Arthur Machen   [060698xx.xxx] 1216A
+[http://gutenberg.net.au/ebooks06/0606981.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606981h.html ]
+
+Sep 2006 The Shining Pyramid, by Arthur Machen             [060697xx.xxx] 1215A
+[http://gutenberg.net.au/ebooks06/0606971.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606971h.html ]
+
+Sep 2006 Children of the Pool, by Arthur Machen            [060696xx.xxx] 1214A
+[http://gutenberg.net.au/ebooks06/0606961.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606961h.html ]
+
+Sep 2006 The New Sun, by J S Fletcher                      [060695xx.xxx] 1213A
+[http://gutenberg.net.au/ebooks06/0606951.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606951h.html ]
+
+Sep 2006 The Doctor's Drive, by Mary Gaunt                 [0606941x.xxx] 1212A
+[http://gutenberg.net.au/ebooks06/0606941.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606941h.html ]
+
+Sep 2006 The Airlords of Han, by Philip Francis Nowlan     [0606931x.xxx] 1211A
+[http://gutenberg.net.au/ebooks06/0606931.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606931h.html ]
+
+Sep 2006 Black Wind Blowing, by Robert E Howard            [0606921x.xxx] 1210A
+[http://gutenberg.net.au/ebooks06/0606921.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606921h.html ]
+
+Sep 2006 The Mutineer, by Louis Becke and Walter Jeffery   [0606911x.xxx] 1209A
+   [Title: The Mutineer: A Romance of Pitcairn Island]
+[http://gutenberg.net.au/ebooks06/0606911.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606911h.html ]
+
+Sep 2006 Collected stories, by Edward Page Mitchell        [0606901x.xxx] 1208A
+[http://gutenberg.net.au/ebooks06/0606901.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606901h.html ]
+
+Sep 2006 Selected Lead Articles from The Dawn,Louisa Lawson[0606891x.xxx] 1207A
+[http://gutenberg.net.au/ebooks06/0606891.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606891h.html ]
+
+Sep 2006 Broad Arrow, by Caroline Leakey                   [0606881x.xxx] 1206A
+[http://gutenberg.net.au/ebooks06/0606881.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606881h.html ]
+
+Sep 2006 Adventures of a Colonist, by Thomas McCombie      [0606871x.xxx] 1205A
+[http://gutenberg.net.au/ebooks06/0606871.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606871h.html ]
+
+Sep 2006 A Box of Dead Roses, by Ethel Mills               [0606861x.xxx] 1204A
+[http://gutenberg.net.au/ebooks06/0606861.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606861h.html ]
+
+Aug 2006 The Convict Laundress, by Mary Theresa Vidal      [0606851x.xxx] 1203A
+[http://gutenberg.net.au/ebooks06/0606851.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0606851h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access
+these ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

@@ -1,0 +1,534 @@
+---
+params:
+  id: 2333
+title: "PG Weekly Newsletter: Part 1a (2005-12-14)"
+date: 2005-12-14T20:53:04+00:00
+author: Michael Cook
+layout: post
+url: /20051214/pg-weekly-newsletter-2005-12-14-part-1a/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Dec 14 09:37:06 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Dec 14 09:37:17 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0512140936320.29634@pglaf.org&gt;
+
+pt1a1.d05
+pt1b1.d05
+
+Weekly_December_14.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 14, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+***
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+&gt;&gt;&gt;   !!!People who can help with PR for our 35th Anniversary!!!  &lt;&lt;&lt;
+
+&gt;&gt;&gt;   !!!People to help us collect ALL public domain eBooks!!!  &lt;&lt;&lt;
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    3 New From PG Australia [Australian, Canadian Copyright Etc.]
+   58 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+          ***516 eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,775 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~88% of the Way to 20,000!!!
+
+               14,713 New eBooks Since The Start Of 2001
+
+              That's ~250 eBooks per Month for ~59 Months
+
+                 We Have Produced 2819 eBooks in 2005!!!
+
+                        2,225 to go to 20,000!!!
+
+                  7,806 from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+
+                 514 from Project Gutenberg of Australia
+
+                 131 from Project Gutenberg of Europe
+                [We will start including these in 2006]
+
+               We Averaged ~339 eBooks Per Month In 2004
+
+             We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~58 eBooks Per Week This Year
+
+                             61 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,500
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+HARPERCOLLINS TO DIGITIZE BOOKS
+HarperCollins has announced plans to digitize its own books and make
+those files available through search services, marking the latest
+development in the rapidly changing landscape of electronic access to
+books. Google is working on its hotly contested service to scan vast
+numbers of texts and make them available online, while other companies
+have begun their own programs to digitize books. The move by
+HarperCollins is that company's attempt to be a part of new
+technologies while retaining control over its content. The company will
+pay to have an estimated 20,000 backlisted books digitized, as well as
+about 3,500 new titles each year. Those electronic files will be open
+to search engines to make indexes but not to download images of the
+pages. According to Brian Murray, group president of HarperCollins,
+"We'll own the file, and we'll control the terms of any sale." Jane
+Friedman, chief executive of the publisher, said, "We want to be the
+best collaborator, but we also want to take charge of our future." The
+company said the effort would also allow it to keep certain titles
+available long after they are out of print.
+Wall Street Journal, 12 December 2005 (sub. req'd)
+http://online.wsj.com/article/SB113435527609919890.html
+
+GEORGE MASON DEVELOPS ACADEMIC BROWSER ADD-ON
+Researchers at George Mason University are developing a plug-in for the
+Firefox browser that will help academics organize sources and properly
+cite them. The tool is designed to harvest bibliographic information
+from online sources and organize it for someone doing research on the
+Web. Assuming the bibliographic elements are formatted in a way the
+software can recognize, the application will parse title, author, and
+other information and correlate it with the source. Daniel J. Cohen,
+assistant professor of history and one of the developers, said it can
+be thought of as "incredibly smart bookmarking.... You're not just
+bookmarking the page, but you're automatically [capturing]...all that
+info that scholars want to save." Unlike commercial products that
+organize sources, the new application will tie directly into the
+browser, eliminating the step of manually collecting citation details.
+The open source application is expected to be completed next year and
+will be available for no charge from George Mason's Web site. Cohen
+said he believes the application will make unintentional plagiarism
+less likely than if a researcher were keeping sources organized manually.
+Chronicle of Higher Education, 6 December 2005 (sub. req'd)
+http://chronicle.com/daily/2005/12/2005120602t.htm
+
+EU DOMAIN OPENS FOR BUSINESS
+A new domain has been launched that supporters believe will help create
+a sense of identity and strength among the nations of the European
+Union (EU). The .eu domain is initially open to organizations that hold
+trademarks or have offices in any of the 25 nations in the EU. The
+domain will later be opened to other groups and eventually to
+individuals. More than 400 registrars have been approved to handle
+applications for the domain. Jean Pire, a senior partner in a Belgian
+intellectual property law firm, said he expects the .eu domain to grow
+to be second only to .com in the number of Web sites that use it.
+Currently, .com is the domain for more than half of the world's Web
+sites; Pire predicts .eu eventually to represent about 25 percent of
+Web sites. The .eu extension will not replace existing country-specific
+extensions, such as .de for Germany and .fr for France.
+Wall Street Journal, 7 December 2005 (sub. req'd)
+http://online.wsj.com/article/SB113391801658415733.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.
+Remember, the subject is not the article's subject,
+the subject is the manipulation of the world news,
+credibility gaps, ploys, mis- and dis-information.]
+
+[Didn't believe the previous reports here?  Try these.
+And start getting used to the idea that China and India
+are going to be driving the world's economy for decades]
+
+
+China Is Now World's #1 Information Technology Producer
+
+Laptops, cellphones, digital cameras, etc.
+
+Not only is China the largest, but it is growing by nearly
+50% per year in techno-sales, nearly 4 times faster than
+US sales are growing, so the gap widens faster and faster.
+
+Source:
+Organization for Economic Cooperation and Development (OECD).
+
+See:
+
+China overtakes US as biggest supplier of tech goods
+Indian Express
+
+China Overtakes US as Supplier of Information Technology Goods New
+York Times
+
+China overtakes the United States as the world's biggest supplier ...
+FinFacts Ireland
+
+*
+
+EU Parliament to Investigate CIA Prisoner Transport
+
+The European Parliament is meeting today to question
+the actions of the U.S. Central Intelligence Agency,
+the CIA, in secretly removing 400 prisoners from U.S.
+soil to former Iron Curtain countries Poland, Romania
+and possibly others.
+
+Following several more reports, including those of the
+Council of Europe, that have created "credible reports"
+concerning "inquiry into alleged American secret detention
+centres and clandestine prison transport."
+
+Franco Frattini, EU vice-commissioner, has requested
+satellite images and flight logs from Eurocontrol to
+confirm these reports, and has advised EU Parliament
+of these proceedings.
+
+The newly popularlized terms for such prisoner transfer
+are "rendition", "black sites," and "torture flights."
+
+Here follows the concluding paragraph of:
+
+Times Online December 14, 2005 article
+by Sam Knight and Philip Webster
+
+"Growing unease about the CIA's rendition programme,
+which is believed to have transported 3,000 terrorist
+suspects for interrogation around the world since 2001,
+has prompted investigations in Finland, Hungary, Iceland,
+Italy, Norway, Poland, Portugal, Romania, Spain and Sweden."
+
+
+Sources:
+Times Online, UK
+EUobserver.com
+CNN International
+NPR
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+"This careful research has been unable to identify any occasion since
+September 11, 2001. . .or earlier in the Bush Administration when we
+received a request for permission by the United States for a rendition
+through United Kingdom territory or airspace."
+
+As per "very detailed searches of all our records"
+by the UK Home Office and Foreign and Commonwealth Office.
+
+However, this was followed by:
+
+full circumstances of CIA flights in and out of the country.
+"Military flights by other countries are not subject to
+checking local authorities."
+
+
+Quotes from Jack Straw
+Britich Secretary of State for Foreign and Commonwealth Affairs
+
+
+*PREDICTIONS OF THE WEEK
+
+There will be a million eBooks online in two years, with or
+without efforts by Google, Yahoo, Amazon, Library of Congress,
+and now HarperCollins has thrown their hat into the ring.
+[Story above in Edupage section]
+
+*
+
+By this time Chinese will be the most popular Internet language,
+but, given the Chinese government's opinions on free information,
+free as in free speech, I don't think they will be a major force
+in building the world eBook libraries until/unless a significant
+social or political change has taken place.
+
+*
+
+*STRANGE QUOTES OF THE WEEK
+
+[Referring to investigating the CIA rendition flights]
+
+"We don't know yet if this has become an EU issue,
+but we cannot be the last ones to discover if
+something serious happened. We are here to seek the
+truth and not to wait for someone to provide it for us."
+
+Jean-Marie Cavada
+Chair of European Parliament's Civil Liberties Committee
+
+*
+
+"Legal proceedings in progress in certain countries seemed to indicate
+that individuals had been abducted and transferred to other countries
+without respect for any legal standards."
+
+Dick Marty
+Swiss Senator
+In a written summary of his investigation on "extraordinary rendition"
+
+
+
+*ODD STATISTICS OF THE WEEK
+
+A Full Time Minimum Wage Worker Cannot Afford One Bedroom
+
+According to the current Low Income Housing Coalition report
+there is not a single county in the United States today where
+full time minimum wage workers can afford one bedroom apartments.
+
+This is the final straw, down from their report of December 20
+of last year when only 4 of the 3066 U.S. counties could afford
+the average one bedroom apartment.
+
+The figures cannot fall any further, they have reached zero.
+
+
+Source:  CBS News, NPR News, Low Income Housing Coalition
+
+
+*
+
+[Commentary]
+
+
+[Remember the recently publicized events in which Social Security
+recipients were told:
+
+
+"Social Security was never intended to meet all retirement needs."
+
+"Social Security was never intended to do the whole job."
+
+"Social Security was never intended or designed to be an
+investment vehicle."
+
+"Social Security was never intended to be a person's sole source
+of income during retirement."
+
+
+Now that there isn't a single county in the United States where
+a full time minimum wage worker can rent a one bedroom apartment,
+I wonder how long it is going to be before the official line is:
+
+"Minimum wage was never intended to support a full time worker."
+
+
+*
+
+$2.4 million will buy you a 30 second ad in the Super Bowl.
+
+*
+
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+[REprint. . .apparently this one got a bit mangled
+in the process of getting it prepared, my apologies.]
+
+
+a moment with you
+
+laid back time's a blue octopus
+embracing my ankles, my feet like birds
+cut through airy waves of memory
+polyphonic castles erected in the realm of newspeak
+sounds upon sounds describe majestic towers
+sweet melody of understanding playing over and over again
+  the abyssal voice: lonesome mariners befriending oysters
+  their old secrets revealed through long voyages initiation
+  a dialogue of alikeness opening up door after or after door
+    above a seagull: caresses came to resemble its dance
+    touch of feathers spreading wide in horizons of color
+    ethereal sensations, hear mermaids singing beloved songs
+      the rhythm of utter belonging
+       joyfully
+        contained in
+         a moment with you
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_12_14_part_1a.txt" target="_blank" rel="nofollow">pgweekly_2005_12_14_part_1a.txt</a>

@@ -1,0 +1,507 @@
+PGWeekly_March_26.txt
+
+The Project Gutenberg Weekly Newsletter For Wednesday, March 26, 2003**
+eBooks Readable By Both Humans and Computers Since 1971
+
+We have now completed 7462 eBooks!!!
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+    Updates/corrections
+    New U.S. eBooks
+    New books From PG Australia
+    Obtaining new postings
+3) News
+4) Headline News from around the world
+5) Mailing list information
+
+----------------------------------------------------------------------
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+EDITORIAL (?):
+
+Due to unknown technical difficulties, and the fact that Michael Hart
+is still on vaction in Hawaii, this week's Project Gutenberg Newsletter
+wasn't sent out.  This edition of the newsletter is being sent out to
+provide the listing of new eBooks posted thus past week, as well as
+corrections, updates and new formats of previous postings. Also, to
+update everyone on the progress of Project Gutenberg as we add to our
+ever-growning collection.
+
+Due to these circumstances, this week's edition will be relatively
+brief compared to what you usually receive.  If there are any
+announcements or requests that are missing and absolutely should have
+gone out with this newsletter, please let us know, and we can send out
+a brief update.
+
+The collection is fast approaching 7,500 postings.  A couple of this
+week's highlights include more Illustrated works of Mark Twain from
+David Widger, and he also continues his postings of the works of
+Edward Bulwer-Lytton.
+
+One of the many things I was taught many years ago in journalism class
+was that something should be included for all readers.  So, for those of
+you who like to find errors, be certain that we have scattered at least
+a few in this week's edition.  Enjoy!
+
+I'm pretty certain this is the only edition of the newsletter you'll
+be receiving this week.  But you never know! <g>
+
+[<G>eorge]
+This week's guest (ghost?) editor.
+
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+RESERVED count:   39
+
+Last week the Total Count was 7,407, including 186 at PG of Australia.
+This week we added 55 new (incl. 4 Aus.).
+TOTAL COUNT as of today, Wed 03/26/03:   7,462 (incl. 190 Aus.).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+Last week we announced the posting of Illustrated HTML versions of
+The Adventures of Huckleberry Finn, eBooks #7100 - #7107; it should
+be noted that each of those files are approximately 2.2MB in size.
+
+
+Last week, the following series was announced with erroneous filenames;
+the corrected listing is as follows:
+Dec 2004 The Prince and The Pauper, v9, by Mark Twain[#104][ppau9xxx.xxx]7162
+[Chapters 32 - Conclusion]
+Dec 2004 The Prince and The Pauper, v8, by Mark Twain[#103][ppau8xxx.xxx]7161
+[Chapters 27 - 31]
+Dec 2004 The Prince and The Pauper, v7, by Mark Twain[#102][ppau7xxx.xxx]7160
+[Chapters 22 - 26]
+Dec 2004 The Prince and The Pauper, v6, by Mark Twain[#101][ppau6xxx.xxx]7159
+[Chapters 18 - 21]
+Dec 2004 The Prince and The Pauper, v5, by Mark Twain[#100][ppau5xxx.xxx]7158
+[Chapters 15 - 17]
+Dec 2004 The Prince and The Pauper, v4, by Mark Twain [#99][ppau4xxx.xxx]7157
+[Chapters 12 - 14]
+Dec 2004 The Prince and The Pauper, v3, by Mark Twain [#98][ppau3xxx.xxx]7156
+[Chapters 8 - 11]
+Dec 2004 The Prince and The Pauper, v2, by Mark Twain [#97][ppau2xxx.xxx]7155
+[Chapters 5 - 7]
+Dec 2004 The Prince and The Pauper, v1, by Mark Twain [#96][ppau1xxx.xxx]7154
+[Chapters 1 - 4]
+
+The following eight previously posted files were incorrectly labled Dec 2005:
+Dec 2004 The Great Conspiracy, by J. Logan, Complete [JL#8][jl08wxxx.xxx]7140
+Dec 2004 The Great Conspiracy, by John A. Logan, V7  [JL#7][jl07wxxx.xxx]7139
+Dec 2004 The Great Conspiracy, by John A. Logan, V6  [JL#6][jl06wxxx.xxx]7138
+Dec 2004 The Great Conspiracy, by John A. Logan, V5  [JL#5][jl05wxxx.xxx]7137
+Dec 2004 The Great Conspiracy, by John A. Logan, V4  [JL#4][jl04wxxx.xxx]7136
+Dec 2004 The Great Conspiracy, by John A. Logan, V3  [JL#3][jl03wxxx.xxx]7135
+Dec 2004 The Great Conspiracy, by John A. Logan, V2  [JL#2][jl02wxxx.xxx]7134
+Dec 2004 The Great Conspiracy, by John A. Logan, V1  [JL#1][jl01wxxx.xxx]7133
+
+
+The following have been posted in new formats as indicated:
+Nov 2004 The Gold Bat, by P. G. Wodehouse             [#15][gldbtxxx.xxx]6879
+[HTML in gldbt10h.htm/.zip]
+Dec 2003 Political Ideals, Bertrand Russell    [Russell #3][pideaxxx.xxx]4776
+[HTML version in pidea10h.htm/.zip]
+Jan 2000 Stories by Modern English Authors:  Scribners Ed. [sbmeaxxx.xxx]2038
+[HTML in sbmea10h.htm/.zip]
+Mar 1999 Crito, by Plato  [AKA"The Death of Socrates 2"]#16[critoxxx.xxx]1657
+[HTML in crito10h.htm/.zip]
+
+
+The following have been posted in an updated 11th Edition, plus new
+formats as indicated:
+Jan 2003 The Golden Bough, by Sir James George Frazer      [boughxxx.xxx]3623
+[HTML in bough11h.htm/.zip]
+Feb 1994 Franklin Delano Roosevelt's 1st Inaugural ["Fear"][fdrxxxxx.xxx] 104
+[HTM version in fdr11h.htm/.zip]
+Jul 1993 Adventures of Tom Sawyer, by Mark Twain    [MT#02][sawyrxxx.xxx]  74
+[Illustrated HTML zip only in sawyr11h.zip]
+
+We have posted an improved 11th edition of the following:
+Aug 1999 Initials Only, by Anna Katharine Green        [#3][ionlyxxx.xxx]1857
+
+
+=-=-=-=[ ?? NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Complete [BL#86][b086wxxx.xxx]7658
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7650-7657]
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 8   [BL#85][b085wxxx.xxx]7657
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 7   [BL#84][b084wxxx.xxx]7656
+
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 6   [BL#83][b083wxxx.xxx]7655
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 5   [BL#82][b082wxxx.xxx]7654
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 4   [BL#81][b081wxxx.xxx]7653
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 3   [BL#80][b080wxxx.xxx]7652
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 2   [BL#79][b079wxxx.xxx]7651
+
+Mar 2005 Kenelm Chillingly,  E. B. Lytton, Book 1   [BL#78][b078wxxx.xxx]7650
+
+
+Feb 2005 Images from Bourget's Cosmopolis, by David Widger [dw54wxxh.zip]7570
+Feb 2005 Images from Bernard's Gerfaut, by David Widger    [dw53wxxh.zip]7569
+Feb 2005 Images from Bentzon's Jacqueline, by David Widger [dw52wxxh.zip]7568
+Feb 2005 Images from Bazin's Ink Stain, by David Widger    [dw51wxxh.zip]7567
+Feb 2005 Images from Memoirs Marguerite de Valois, Widger  [dw50wxxh.zip]7566
+[Above five files posted in Illustrated HTML zip only in dw??w10h.zip]
+
+
+Jan 2005 Gotzen-Dammerung, by Friedrich Wilhelm Nietzsche  [?gtznxxx.xxx]7203
+[Plain text in 7gtzn10.txt/.zip; 8-bit version in 8gtzn10.txt/.zip]
+[Language: German]
+Jan 2005 Ecce Homo, by Friedrich Wilhelm Nietzsche         [?eccexxx.xxx]7202
+[Plain text in 7ecce10.txt/.zip, 8-bit version in 8ecce10.txt/.zip]
+[Language: German]
+Jan 2005 A History of English Literature, by R. H. Fletcher[?histxxx.xxx]7201
+[Full author: Robert Huntington Fletcher]
+
+Jan 2005 The Adventures of Tom Sawyer, v8, by Twain  [#112][saw8xxxx.zip]7200
+[Chapters 32 - End]
+[Author: Mark Twain (Samuel Clemens)]
+Dec 2004 The Adventures of Tom Sawyer, v7, by Twain  [#111][saw7xxxx.zip]7199
+[Chapters 28 - 31]
+Dec 2004 The Adventures of Tom Sawyer, v6, by Twain  [#110][saw6xxxx.zip]7198
+[Chapters 23 - 27]
+Dec 2004 The Adventures of Tom Sawyer, v5, by Twain  [#109][saw5xxxx.zip]7197
+[Chapters 18 - 22]
+Dec 2004 The Adventures of Tom Sawyer, v4, by Twain  [#108][saw4xxxx.zip]7196
+[Chapters 13 - 17]
+Dec 2004 The Adventures of Tom Sawyer, v3, by Twain  [#107][saw3xxxx.zip]7195
+[Chapters 8 - 12]
+Dec 2004 The Adventures of Tom Sawyer, v2, by Twain  [#106][saw2xxxx.zip]7194
+[Chapters 4 - 7]
+Dec 2004 The Adventures of Tom Sawyer, v1, by Twain  [#105][saw1xxxx.zip]7193
+[Chapters 1 - 3]
+[The above eight files are Illustrated HTML files, zip only, in saw?10h.zip]
+[The files average 2.5mb each]
+
+Dec 2004 Charles Philip Yorke, by Lady Biddulph of Ledbury [?yorkxxx.xxx]7192
+[Full title: Charles Philip Yorke, Fourth Earl of Hardwicke, Vice-Admiral
+  R.N., A Memoir]
+Dec 2004 Modern Broods, by Charlotte Mary Yonge            [mdbrxxxx.xxx]7191
+[Plain text in mdbr10.txt/.zip, XHTML in mdbr10h.htm/.zip]
+
+Dec 2004 The Biography of a Rabbit, by Roy Benson, Jr.     [rabbtxxx.xxx]7190C
+[HTML version in rabbt10h.htm and rabbt10h.zip]
+Dec 2004 A Short History of the Great War, A.F. Pollard [2][shogwxxx.xxx]7189
+[Plain text in shogw10.txt/.zip; HTML zip only in shogw10h.zip]
+[Note: the HTML includes multiple files with images]
+Dec 2004 Higher Lessons in English, A. Reed and B. Kellogg [hilesxxx.xxx]7188
+[Full author: Alonzo Reed and Braiderd Kellogg]
+Dec 2004 Seven English Cities, by W. D. Howells       [#58][?sevnxxx.xxx]7187
+Dec 2004 Was ihr wollt, by Shakespeare                     [?gs28xxx.xxx]7186
+[Language: German][English Title: Twelfth Night]
+
+Dec 2004 Othello, by William Shakespeare                   [?gs32xxx.xxx]7185
+[Language: German]
+Dec 2004 A Heart-Song of To-day, by Annie Gregg Savigny    [?hartxxx.xxx]7184
+Dec 2004 Doctor Grimshawe's Secret,Nathaniel Hawthorne[#10][?grimxxx.xxx]7183
+[Full title: Doctor Grimshawe's Secret, A Romance]
+Dec 2004 Principal Navigations, by Richard Hakluyt     [#4][?hk01xxx.xxx]7182
+[Full title: The Principal Navigations, Voyages, Traffiques and Discoveries
+  of the English Nation, v. 1, Northern Europe]
+Dec 2004 The Bushman, by Edward Wilson Landor              [bshmnxxx.xxx]7181
+
+Dec 2004 Handy Andy, Vol. 2, by Samuel Lover               [?hnd2xxx.xxx]7180
+Dec 2004 Beside the Bonnie Brier Bush, by Ian Maclaren [#2][?bushxxx.xxx]7179
+Dec 2004 Swann's Way, by Marcel Proust                 [#5][?swnnxxx.xxx]7178
+[Full title: Swann's Way (vol. 1 of Remembrance of Things Past)]
+Dec 2004 My Tropic Isle, by E J Banfield               [#2][?tropxxx.xxx]7177
+Dec 2004 A Letter to a Hindu, by Leo Tolstoy          [#17][hinduxxx.xxx]7176
+
+Dec 2004 The Tattva-Muktavali, by Purnananda Chakravartin  [?ttvaxxx.xxx]7175
+Dec 2004 The Marquis of Lossie, by George MacDonald   [#27][mlossxxx.xxx]7174
+[HTML also posted in mloss10h.htm/.zip]
+Dec 2004 Sur la pierre blanche, by Anatole France          [srlprxxx.xxx]7173
+[Author AKA: Jacques Anatole Francois Thibault]  [Language: French]
+Dec 2004 Early Plays, by Henrik Ibsen                 [#11][?projxxx.xxx]7172
+[Full title: Early Plays Catiline, The Warrior's Barrow, Olaf Liljekrans]
+Dec 2004 Linda Condon, by Joseph Hergesheimer          [#2][?condxxx.xxx]7171
+
+Dec 2004 Life and Genius of Hawthorne,Frank Preston Stearns[?lgnhxxx.xxx]7170
+[Full title: The Life and Genius of Nathaniel Hawthorne]
+Dec 2004 Mfrkandeya Purfna, by Rev. B. H. Wortham          [?markxxx.xxx]7169
+[Title: M_rkandeya Pur_na, Books VII. VIII] [Author: Rev. B. Hale Wortham]
+Dec 2004 Introduction to the Old Testament,John E. McFadyen[?otmtxxx.xxx]7168
+[Author: John Edgar McFadyen]
+
+
+=-=-=-=[ ? NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Mar 2003 Buoyant Billions, by George Bernard Shaw          [030042xx.xxx]0191A
+[http://gutenberg.net.au/ebooks03/0300421.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300421h.html]
+
+Mar 2003 The Guermantes Way, by Marcel Proust              [030041xx.xxx]0190A
+[http://gutenberg.net.au/ebooks03/0300411.txt or .ZIP]
+
+Mar 2003 Within a Budding Grove, by Marcel Proust          [030040xx.xxx]0189A
+[http://gutenberg.net.au/ebooks03/0300401.txt or .ZIP]
+Mar 2003 Shoot, by Luigi Pirandello                        [030039xx.xxx]0188A
+[http://gutenberg.net.au/ebooks03/0300391.txt or .ZIP]
+Mar 2003 The Late Mattia Pascal, by Luigi Pirandello       [030038xx.xxx]0187A
+[http://gutenberg.net.au/ebooks03/0300381.txt or .ZIP]
+
+--Please note the following updates of previously posted eBooks:
+
+The following has been reposted in new format as indicated:
+Mar 2003 The Millionairess, by George Bernard Shaw         [030012xx.xxx]0161A
+[http://gutenberg.net.au/ebooks03/0300121h.html ]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+================ [ OBTAINING NEWLY POSTED EBOOKS ]==================
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+These sites and indices are not updated instantly, as additional research
+usually needs to be done by our professional Chief Cataloguer.  So for
+those who wish to obtain these new ebooks immediately, please refer to the
+following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list: http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to: http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+===========================================================================
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby.unc.edu
+
+
+======================== [ NEWS HEADLINES ] ==========================
+
+4) Brief news reports which may be of general interest to those in the
+    eBook community.
+
+ From Newsscan:
+
+ONLINE ADVERTISING STAGING COMEBACK
+Market research firm Nielsen/NetRatings has reported that the top 100
+traditional advertisers of such products as household good and automobiles
+bought more than 30% of all banner-type online ads in 2002, twice as much as
+they bought in 2002. The three greatest beneficiaries of this surge were the
+Yahoo, AOL, and MSN portals. Charles Buchwalter of Nielsen/NetRatings says:
+"The lion's share of the cautious optimism that's being felt through the
+online space is due largely to the traditional advertisers who are learning
+to reach critical segments who spend their time online. That's the future of
+this industry." (Wall Street Journal 19 Mar 2003)
+http://online.wsj.com/article/0,,SB104813366834560700,00.html?mod=technology
+_main_whats_news (sub req'd)
+
+SUPER DIGITAL WATERMARK IN THE WORKS
+SunnComm Technologies is working with Stealth MediaLabs to develop a kind
+of super-watermark that could be embedded inside digital music files and
+would be robust enough to withstand digital compression, or being recorded
+off the radio or rerecorded through an analog connection. The technology,
+originally developed at the University of Miami, could also be used to
+embed other information. "The intention was for protecting the security of
+intellectual property. Adding pictures and liner notes inside a song is
+kind of a byproduct," says SunnComm COO Bill Whitmore. The technology works
+by encoding binary data inside the stereo audio signal itself, taking
+advantage of acoustical properties and human hearing characteristics to
+make it imperceptible to the listener. Because the signal is embedded in
+the sound itself, the data is hard to remove without significantly changing
+the sound of the song. SunnComm plans initially to market the
+super-watermark technology to record labels, which could use it to detect
+which recipients of advance discs are putting songs online before the
+albums' official release dates. "With that anonymity gone, people will be
+less willing to put advance songs on file-sharing networks," says Whitmore.
+(CNet News.com 20 Mar 2003)
+http://news.com.com/2100-1027-993588.html?tag=fd_top
+
+ONE CHARGER FITS ALL
+A UK startup called SplashPower has developed a technology that can
+wirelessly charge any handheld gadget, including mobile phones, MP3 players
+and PDAs, simply by placing them on a small flat mat that's plugged into
+the wall. "You pick up your phone, drop it on the pad and it charges. The
+pad does all the thinking for you," says SplashPower VP David Whitewood.
+The system is based on the principle of magnetic inductive power transfer
+and works by generating a magnetic field which transfers energy into any
+gadget equipped with a special SplashPower module. That in turn transforms
+the energy into the direct current that the battery uses to recharge. The
+company says the cost of adding SplashPower technology to a handheld device
+will cost only about 25 cents each, and points out that the benefits for
+manufacturers could be considerable. "You don't have to put a charger in
+every box if you implement SplashPower in your products," says Whitewood,
+"and there's a green pay-off in that. Every time you change your mobile
+phone, you perhaps keep your charger in a drawer or throw it away. With
+SplashPower you wouldn't have to do that." (BBC News 21 Mar 2003)
+http://news.bbc.co.uk/2/hi/technology/2861987.stm
+
+NEW ICANN CHIEF TO CONTINUE POLICY FOCUS
+Succeeding Stuart Lynn as CEO of the often-controversial Internet
+Corporation for Assigned Names and Numbers (ICANN), in-coming chief Paul
+Twomey says that in addition to focusing on technical coordination, the
+organization will also have to continue its efforts to deal with the policy
+issues such as intellectual property, privacy, and law enforcement: "The
+consequences of those technical issues flow into other arenas, like
+intellectual property, consumer protection, and privacy, potentially even
+into commercial relationships between infrastructure providers. The law
+enforcement issues are potentially issues like identification for Whois
+databases (which list information on domain name owners), identification of
+those people who are committing computer crimes, (and) ensuring that
+financial scams don't take place on the Internet." Twomey, an Australian,
+has been a consultant and government bureaucrat. (CNet News.com 19 Mar 2003)
+http://news.com.com/2100-1028-993390.html
+
+NEW ANTI-SPAM SYSTEM BEING DEVELOPED
+A California start-up company created by well-known software designer Phil
+Goldman (formerly of Apple, General Magic, WebTV and Microsoft) has
+designed an e-mail service that takes a "challenge-response" approach to
+blocking spam. When a user receives a bulkmail message from an unknown
+source the system intercepts the message and requires the sender to give
+indication (by filling out a form) that the message is not an instance of
+spam. The service will cost $9.95 a year, so Forrester Research analyst Jim
+Nail note skeptically: "It's a really nice product, and it's pretty easy to
+use. The question is how big a market. Do people want to pay anybody
+anything for these features?" (New York Times 24 Mar 2003)
+http://partners.nytimes.com/2003/03/24/technology/24PHIL.html
+
+***
+
+ From Edupage:
+
+REPORT SHOWS SHRINKING DIGITAL DIVIDE
+A report released March 19 indicates that the digital divide in the
+United States is shrinking as children from all ethnic groups and
+income levels increasingly use the Internet. The Corporation for Public
+Broadcasting reported that children under 17 spend nearly as much time
+using computers as watching television, with Internet use among
+minority and low-income children surging over the past two years. More
+than two-thirds of low-income households have a computer at home,
+compared to fewer than half two years ago. Gaps persist, however,
+particularly with respect to high-speed Internet access at home.
+Washington Post, 19 March 2003
+http://www.washingtonpost.com/wp-dyn/articles/A53259-2003Mar19.html
+
+----------------------------------------------------------------------
+
+5) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://listserv.unc.edu/help
+
+----------------------------------------------------------------------
+
+

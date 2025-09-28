@@ -1,0 +1,650 @@
+From news at pglaf.org  Wed Sep 20 13:58:03 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Sep 20 13:58:05 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0609201357270.18582@pglaf.org>
+
+GWeekly_September_20_part2.txt
+
+The Project Gutenberg Weekly Newsletter 21 Jun 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 89 New U.S. eBooks this week
+    - 10 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+-.- HOW TO GET EBOOKS FROM PROJECT GUTENBERG -.-
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+For more information about Project Gutenberg, and to see what's new,
+please visit the website at http://www.gutenberg.org.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 20 Sep 2006:
+     19,298 PG U.S.A.
+      1,287 PG of Australia
+
+RESERVED/PENDING count: 42
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+   None this week.
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+   None this week.
+
+
+-=-=-=-=[  89 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Story of the Big Front Door, by Mary Finley Leonard                  19340
+   [Link: http://www.gutenberg.org/1/9/3/4/19340 ]
+   [Files: 19340.txt; 19340-8.txt; 19340-h.htm]
+
+With The Immortal Seventh Division, by E. J. Kennedy                     19339
+   [Author: E. J. Kennedy and the Lord Bishop of Winchester]
+   [Link: http://www.gutenberg.org/1/9/3/3/19339 ]
+   [Files: 19339.txt; 19339-8.txt; 19339-h.htm]
+
+The Keeper, by Henry Beam Piper                                          19338
+   [Link: http://www.gutenberg.org/1/9/3/3/19338 ]
+   [Files: 19338.txt; 19338-h.htm]
+
+A Christmas Carol, by Charles Dickens                                    19337
+   [Illustrator: George Alfred Williams]
+   [Link: http://www.gutenberg.org/1/9/3/3/19337 ]
+   [Files: 19337.txt; 19337-8.txt; 19337-h.htm]
+   [See also: #46, a different edition]
+
+The Tangled Threads, by Eleanor H. Porter                                19336
+   [Contents: A Delayed Heritage]
+   [          The Folly of Wisdom]
+   [          Crumbs]
+   [          A Four-Footed Faith and a Two]
+   [          A Matter of System]
+   [          Angelus]
+   [          The Apple of Her Eye]
+   [          A Mushroom Of Collingsville]
+   [          That Angel Boy]
+   [          The Lady in Black]
+   [          The Saving of Dad]
+   [          Millionaire Mike's Thanksgiving]
+   [          When Mother Fell Ill]
+   [          The Glory and the Sacrifice]
+   [          The Daltons and the Legacy]
+   [          The Letter]
+   [          The Indivisible Five]
+   [          The Elephant's Board and Keep]
+   [          A Patron of Art]
+   [          When Polly Ann Played Santa Claus]
+   [Link: http://www.gutenberg.org/1/9/3/3/19332 ]
+   [Files: 19332.txt; 19332-8.txt; ]
+
+Oscar the Detective, by Harlan Page Halsey                               19335
+   [Subtitle: Or, Dudie Dunne, The Exquisite Detective]
+   [Link: http://www.gutenberg.org/1/9/3/3/19335 ]
+   [Files: 19335.txt; 19335-h.htm]
+
+Punch, Vol. 152, December 15, 1920, ed. by Sir owen Seaman               19334
+   [Link: http://www.gutenberg.org/1/9/3/3/19334 ]
+   [Files: 19334.txt; 19334-8.txt; 19334-h.htm; ]
+
+The Story of a China Cat, by Laura Lee Hope                              19333
+   [Illus.: Harry L. Smith]
+   [Link: http://www.gutenberg.org/1/9/3/3/19333 ]
+   [Files: 19333.txt; 19333-h.htm; ]
+
+Michael Angelo Buonarroti, by Charles Holroyd                            19332
+   [Subtitle: With Translations Of The Life Of The Master By His Scholar,
+    Ascanio Condivi, And Three Dialogues From The Portugese By Francisco]
+  [Link: http://www.gutenberg.org/1/9/3/3/19332 ]
+  [Files: 19332.txt; 19332-8.txt; 19332-0.txt; 19332-tei.tei;
+          19332-h.htm; 19332-pdf.pdf ]
+
+Mythical Sand Painting of the Navajo Indians, by James Stevenson         19331
+   [Title: Ceremonial of Hasjelti Dailjis and Mythical Sand Painting of
+    the Navajo Indians]
+  [Link: http://www.gutenberg.org/1/9/3/3/19331 ]
+  [Files: 19331.txt; 19331-8.txt; 19331-0.txt; 19331-tei.tei;
+          19331-h.htm; 19331-pdf.pdf; 19331-page-images]
+
+An Apache Princess, by Charles King                                      19330
+   [Subtitle: A Tale of the Indian Frontier]
+   [Illustrator: Frederic Remington and Edwin Willard Deming]
+   [Link: http://www.gutenberg.org/1/9/3/3/19330 ]
+   [Files: 19330.txt; 19330-8.txt; 19330-h.htm]
+
+The Sunny Side of Ireland, by John O'Mahony and R. Lloyd Praeger         19329
+   [Subtitle: How to see it by the Great Southern and Western Railway]
+   [Link: http://www.gutenberg.org/1/9/3/2/19329 ]
+   [Files: 19329.txt; 19329-8.txt; 19329-h.htm]
+
+The Sea-Kings of Crete, by James Baikie                                  19328
+   [Link: http://www.gutenberg.org/1/9/3/2/19328 ]
+   [Files: 19328.txt; 19328-8.txt; 19328-h.htm]
+
+Reize in Taka (Opper-Nubie), by Anonymous                                19327
+   [Subtitle: De Aarde en haar Volken, 1873]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/3/2/19327 ]
+   [Files: 19327-8.txt; 19327-h.htm]
+
+Van Orenburg naar Samarkand, by Anonymous                                19326
+   [Subtitle: De Aarde en haar Volken, 1873]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/3/2/19326 ]
+   [Files: 19326-8.txt; 19326-h.htm]
+
+The Wit and Humor of America, Volume VII (of X), by Various              19325
+   [Editor: Marshall P. Wilder]
+   [Link: http://www.gutenberg.org/1/9/3/2/19325 ]
+   [Files: 19325.txt; 19325-8.txt; 19325-h.htm]
+
+The Wit and Humor of America, Volume VI (of X), by Various               19324
+   [Editor: Marshall P. Wilder]
+   [Link: http://www.gutenberg.org/1/9/3/2/19324 ]
+   [Files: 19324.txt; 19324-8.txt; 19324-h.htm]
+
+The Wit and Humor of America, Volume V (of X), by Various                19323
+   [Editor: Marshall P. Wilder]
+   [Link: http://www.gutenberg.org/1/9/3/2/19323 ]
+   [Files: 19323.txt; 19323-8.txt; 19323-h.htm]
+
+The Antichrist, by F. W. Nietzsche                                       19322
+   [Translator: H. L. Mencken]
+   [Link: http://www.gutenberg.org/1/9/3/2/19322 ]
+   [Files: 19322.txt; 19322-8.txt; 19322-h.htm]
+
+Evolution, by Theodore Graebner                                          19321
+   [Subtitle: An Investigation and a Critique]
+   [Link: http://www.gutenberg.org/1/9/3/2/19321 ]
+   [Files: 19321.txt; ]
+
+Jaakko Cook'in matkat Tyynella merella, by Antti Fredrik Hassell         19320
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/3/2/19320 ]
+   [Files: 19320-8.txt]
+
+A Description of the Bar-and-Frame-Hive, by W. Augustus Munn             19319
+   [Subtitle: With an Abstract of Wildman's Complete Guide for the
+    Management of Bees Throughout the Year]
+   [Link: http://www.gutenberg.org/1/9/3/1/19319 ]
+   [Files: 19319.txt; 19319-8.txt; 19319-h.htm; ]
+
+The Outdoor Girls in the Saddle, by Laura Lee Hope                       19318
+   [Subtitle: Or, The Girl Miner of Gold Run]
+   [Link: http://www.gutenberg.org/1/9/3/1/19318 ]
+   [Files: 19318.txt; 19318-8.txt; 19318-h.htm; ]
+
+Gallipoli Diary, Volume I, by Ian Hamilton                               19317
+   [Link: http://www.gutenberg.org/1/9/3/1/19317 ]
+   [Files: 19317.txt; 19317-8.txt; 19317-h.htm]
+
+Lyra Heroica, by Various                                                 19316
+   [Subtitle: A Book of Verse for Boys]
+   [Link: http://www.gutenberg.org/1/9/3/1/19316 ]
+   [Files: 19316.txt; 19316-8.txt; 19316-h.htm]
+
+The Poems of Giacomo Leopardi, by Giacomo Leopardi                       19315
+   [Translator: Frederick Townsend]
+   [Link: http://www.gutenberg.org/1/9/3/1/19315 ]
+   [Files: 19315.txt; 19315-8.txt; 19315-h.htm]
+
+Raphael, by Estelle M. Hurll                                             19314
+   [Subtitle: A Collection Of Fifteen Pictures And A Portrait Of The
+    Painter With Introduction And Interpretation]
+   [Editor: Estelle M. Hurll]
+   [Link: http://www.gutenberg.org/1/9/3/1/19314 ]
+   [Files: 19314.txt; 19314-8.txt; 19314-0.txt; 19314-h.htm]
+
+The Silk-Hat Soldier, by Richard le Gallienne                            19313
+   [Subtitle: And Other Poems in War Time]
+   [Link: http://www.gutenberg.org/1/9/3/1/19313 ]
+   [Files: 19313.txt; 19313-h.htm]
+
+Tablets of 'Abdu'l-Baha, by 'Abdu'l-Baha                                 19312C
+  [Link: http://www.gutenberg.org/1/9/2/9/19312 ]
+  [Files: 19312.txt; 19312-8.txt; 19312-0.txt; 19312-tei.tei;
+          19312-h.htm; 19312-pdf.pdf]
+
+The Outdoor Girls in Florida, by Laura Lee Hope                          19311
+   [Subtitle: Or, Wintering in the Sunny South]
+   [Link: http://www.gutenberg.org/1/9/3/1/19311 ]
+   [Files: 19311.txt; 19311-h.htm; ]
+
+Happy Pollyooly, by Edgar Jepson                                         19310
+   [Subtitle: The Rich Little Poor Girl]
+   [Illus.: Reginald Birch]
+   [Link: http://www.gutenberg.org/1/9/3/1/19310 ]
+   [Files: 19310.txt; 19310-8.txt; 19310-h.htm; ]
+
+The Reminiscences of an Astronomer, by Simon Newcomb                     19309
+   [Link: http://www.gutenberg.org/1/9/3/0/19309 ]
+   [Files: 19309.txt; 19309-8.txt; ]
+
+Pioneers and Founders, by Charlotte Mary Yonge                           19308
+   [Subtitle: or, Recent Workers in the Mission field]
+   [Link: http://www.gutenberg.org/1/9/3/0/19308 ]
+   [Files: 19308.txt; 19308-h.htm]
+
+The Lion of Petra, by Talbot Mundy                                       19307
+   [Link: http://www.gutenberg.org/1/9/3/0/19307 ]
+   [Files: 19307.txt]
+
+Wat er te zien valt in Armenie, by Noel Dolens                           19306
+   [Subtitle: De Aarde en haar Volken, 1907-1908]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/3/0/19306 ]
+   [Files: 19306-8.txt; 19306-h.htm]
+
+Van Toledo naar Granada, deel 2, by Jane Dieulafoy                       19305
+   [Subtitle: De Aarde en haar Volken, 1907]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/3/0/19305 ]
+   [Files: 19305-8.txt; 19305-h.htm]
+
+Secret History Revealed By Lady Peggy O'Malley, C.N. and A.M. Williamson 19304
+   [Author: C. N. Williamson and A. M. Williamson]
+   [Illustrator: Clarence Rowe]
+   [Link: http://www.gutenberg.org/1/9/3/0/19304 ]
+   [Files: 19304.txt; 19304-8.txt; 19304-h.htm]
+
+Raftmates, by Kirk Munroe                                                19303
+   [Subtitle: A Story of the Great River]
+   [Link: http://www.gutenberg.org/1/9/3/0/19303 ]
+   [Files: 19303.txt; 19303-h.htm; ]
+
+Dinosaurs, by William Diller Matthew                                     19302
+   [Subtitle: With Special Reference to the American Museum Collections]
+   [Link: http://www.gutenberg.org/1/9/3/0/19302 ]
+   [Files: 19302.txt; 19302-8.txt; 19302-h.htm; ]
+
+Extracts from a Journal of a Voyage of Visitation in the "Hawk," 1859    19301
+   [Author: Edward Feild]
+   [Link: http://www.gutenberg.org/1/9/3/0/19301 ]
+   [Files: 19301.txt; 19301-8.txt; 19301-h.htm; ]
+
+A Traveler's Narrative, by 'Abdu'l-Baha                                  19300C
+  [Link: http://www.gutenberg.org/1/9/3/0/19300 ]
+  [Files: 19300.txt; 19300-8.txt; 19300-0.txt; 19300-tei.tei;
+          19300-h.htm; 19300-pdf.pdf]
+
+The Will and Testament of 'Abdu'l-Baha, by 'Abdu'l-Baha                  19299C
+  [Link: http://www.gutenberg.org/1/9/2/9/19299 ]
+  [Files: 19299.txt; 19299-8.txt; 19299-0.txt; 19299-tei.tei;
+          19299-h.htm; 19299-pdf.pdf]
+
+The World Order of Baha'u'llah, by Shoghi Effendi                        19298C
+   [Link: http://www.gutenberg.org/1/9/2/9/19298 ]
+   [Files: 19298.txt; 19298-8.txt; 19298-0.txt; 19298-tei.tei;
+           19298-h.htm; 19298-pdf.pdf]
+
+Unfolding Destiny, by Shoghi Effendi                                     19297C
+  [Link: http://www.gutenberg.org/1/9/2/9/19297 ]
+  [Files: 19297.txt; 19297-8.txt; 19297-0.txt; 19297-tei.tei;
+          19297-h.htm; 19297-pdf.pdf]
+
+Tablets of the Divine Plan, by 'Abdu'l-Baha                              19296C
+  [Link: http://www.gutenberg.org/1/9/2/9/19296 ]
+  [Files: 19296.txt; 19296-8.txt; 19296-0.txt; 19296-tei.tei;
+          19296-h.htm; 19296-pdf.pdf]
+
+The Outdoor Girls at Ocean View, by Laura Lee Hope                       19295
+   [Subtitle: Or, The Box That Was Found in the Sand]
+   [Link: http://www.gutenberg.org/1/9/2/9/19295 ]
+   [Files: 19295.txt; 19295-h.htm]
+
+The Outdoor Girls on Pine Island, by Laura Lee Hope                      19294
+   [Subtitle: Or, A Cave and What It Contained]
+   [Link: http://www.gutenberg.org/1/9/2/9/19294 ]
+   [Files: 19294.txt; 19294-8.txt; 19294-h.htm]
+
+La Legendo de Dorm-Valeto, by Washington Irving                          19293
+   [Translator: Edwin Grobe]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/1/9/2/9/19293 ]
+   [Files: 19293.txt; 19293-0.txt; 19293-h.htm]
+
+Tablet to August Forel, by `Abdu'l-Bah                                  19292C
+  [Link: http://www.gutenberg.org/1/9/2/9/19292 ]
+  [Files: 19292.txt; 19292-8.txt; 19292-0.txt; 19292-tei.tei;
+          19292-h.htm; 19292-pdf.pdf]
+
+Compilation on Scholarship, by The Universal House of Justice            19291C
+   [Author: Research Department of the Universal House of Justice]
+  [Link: http://www.gutenberg.org/1/9/2/9/19291 ]
+  [Files: 19291.txt; 19291-8.txt; 19291-0.txt; 19291-tei.tei;
+          19291-h.htm; 19291-pdf.pdf]
+
+Statement on Bah'u'llh, by Bah' International Community              19290C
+  [Link: http://www.gutenberg.org/1/9/2/9/19290 ]
+  [Files: 19290.txt; 19290-8.txt; 19290-0.txt; 19290-tei.tei;
+          19290-h.htm; 19290-pdf.pdf]
+
+Some Answered Questions, by `Abdu'l-Bah                                 19289C
+   [Link: http://www.gutenberg.org/1/9/2/8/19289 ]
+   [Files: 19289.txt; 19289-8.txt; 19289-0.txt; 19289-tei.tei;
+           19289-h.htm; 19289-pdf.pdf]
+
+Bohemian Days, by Geo. Alfred Townsend                                   19288
+   [Subtitle: Three American Tales]
+   [Link: http://www.gutenberg.org/1/9/2/8/19288 ]
+   [Files: 19288.txt; 19288-8.txt; 19288-h.htm]
+
+Selections from the Writings of `Abdu'l-Bah, by `Abdu'l-Bah            19287C
+  [Link: http://www.gutenberg.org/1/9/2/8/19287 ]
+  [Files: 19287.txt; 19287-8.txt; 19287-0.txt; 19287-tei.tei;
+          19287-h.htm; 19287-pdf.pdf]
+
+The Promise of World Peace, by The Universal House of Justice            19286C
+  [Link: http://www.gutenberg.org/1/9/2/8/19286 ]
+  [Files: 19286.txt; 19286-8.txt; 19286-0.txt; 19286-tei.tei;
+          19286-h.htm; 19286-pdf.pdf]
+
+The Promulgation of Universal Peace, by `Abdu'l-Bah                     19285C
+  [Link: http://www.gutenberg.org/1/9/2/8/19285 ]
+  [Files: 19285.txt; 19285-8.txt; 19285-0.txt; 19285-tei.tei;
+          19285-h.htm; 19285-pdf.pdf]
+
+Paris Talks, by `Abdu'l-Bah                                             19284C
+  [Link: http://www.gutenberg.org/1/9/2/8/19284 ]
+  [Files: 19284.txt; 19284-8.txt; 19284-0.txt; 19284-tei.tei;
+          19284-h.htm; 19284-pdf.pdf]
+
+The Prosperity of Humankind, by Bah' International Community           19283C
+  [Link: http://www.gutenberg.org/1/9/2/8/19283 ]
+  [Files: 19283.txt; 19283-8.txt; 19283-0.txt; 19283-tei.tei;
+          19283-h.htm; 19283-pdf.pdf]
+
+The Promised Day is Come, by Shoghi Effendi                              19282C
+  [Link: http://www.gutenberg.org/1/9/2/8/19282 ]
+  [Files: 19282.txt; 19282-8.txt; 19282-0.txt; 19282-tei.tei;
+          19282-h.htm; 19282-pdf.pdf]
+
+One Common Faith, by Baha'i International Community                      19281C
+  [Link: http://www.gutenberg.org/1/9/2/8/19281 ]
+  [Files: 19281.txt; 19281-8.txt; 19281-0.txt; 19281-tei.tei;
+          19281-h.htm; 19281-pdf.pdf]
+
+Messages to the Baha'i World: 1950-1957, by Shoghi Effendi               19280C
+  [Link: http://www.gutenberg.org/1/9/2/8/19280 ]
+  [Files: 19280.txt; 19280-8.txt; 19280-0.txt; 19280-tei.tei;
+          19280-h.htm; 19280-pdf.pdf]
+
+Memorials of the Faithful, by 'Abdu'l-Baha                               19279C
+  [Link: http://www.gutenberg.org/1/9/2/7/19279 ]
+  [Files: 19279.txt; 19279-8.txt; 19279-0.txt; 19279-tei.tei;
+          19279-h.htm; 19279-pdf.pdf]
+
+Messages to Canada, by Shoghi Effendi                                    19278C
+  [Link: http://www.gutenberg.org/1/9/2/7/19278 ]
+  [Files: 19278.txt; 19278-8.txt; 19278-0.txt; 19278-tei.tei;
+          19278-h.htm; 19278-pdf.pdf]
+
+Messages to America, by Shoghi Effendi                                   19277C
+  [Link: http://www.gutenberg.org/1/9/2/7/19277 ]
+  [Files: 19277.txt; 19277-8.txt; 19277-0.txt; 19277-tei.tei;
+          19277-h.htm; 19277-pdf.pdf]
+
+High Endeavours: Messages to Alaska, by Shoghi Effendi                   19276C
+  [Link: http://www.gutenberg.org/1/9/2/7/19276 ]
+  [Files: 19276.txt; 19276-8.txt; 19276-0.txt; 19276-tei.tei;
+          19276-h.htm; 19276-pdf.pdf]
+
+God Passes By, by Shoghi Effendi                                         19275C
+  [Link: http://www.gutenberg.org/1/9/2/7/19275 ]
+  [Files: 19275.txt; 19275-8.txt; 19275-0.txt; 19275-tei.tei;
+          19275-h.htm; 19275-pdf.pdf]
+
+Letters from the Guardian to Australia and New Zealand, Shoghi Effendi   19274C
+  [Link: http://www.gutenberg.org/1/9/2/7/19274 ]
+  [Files: 19274.txt; 19274-8.txt; 19274-0.txt; 19274-tei.tei;
+          19274-h.htm; 19274-pdf.pdf]
+
+The Dead Men's Song, by Champion Ingraham Hitchcock                      19273
+   [Subtitle: Being the Story of a Poem and a Reminiscent Sketch of its
+    Author Young Ewing Allison]
+   [Link: http://www.gutenberg.org/1/9/2/7/19273 ]
+   [Files: 19273.txt; 19273-h.htm]
+
+The Early Bird, by George Randolph Chester                               19272
+   [Subtitle: A Business Man's Love Story]
+   [Illustrator: Arthur William Brown]
+   [Link: http://www.gutenberg.org/1/9/2/7/19272 ]
+   [Files: 19272.txt; 19272-8.txt; 19272-h.htm]
+
+Dawn of a New Day, by Shoghi Effendi                                     19271C
+  [Link: http://www.gutenberg.org/1/9/2/7/19271 ]
+  [Files: 19271.txt; 19271-8.txt; 19271-0.txt; 19271-tei.tei;
+          19271-h.htm; 19271-pdf.pdf]
+
+Directives from the Guardian, by Shoghi Effendi                          19270C
+  [Link: http://www.gutenberg.org/1/9/2/7/19270 ]
+  [Files: 19270.txt; 19270-8.txt; 19270-0.txt; 19270-tei.tei;
+          19270-h.htm; 19270-pdf.pdf]
+
+Compilation on Women by, Universal House of Justice                      19269C
+   [Author: Research Deparment of the Universal House of Justice]
+  [Link: http://www.gutenberg.org/1/9/2/6/19269 ]
+  [Files: 19269.txt; 19269-8.txt; 19269-0.txt; 19269-tei.tei;
+          19269-h.htm; 19269-pdf.pdf]
+
+Compilation on Peace by, Universal House of Justice                      19268C
+   [Author: Research Deparment of the Universal House of Justice]
+  [Link: http://www.gutenberg.org/1/9/2/6/19268 ]
+  [Files: 19268.txt; 19268-8.txt; 19268-0.txt; 19268-tei.tei;
+          19268-h.htm; 19268-pdf.pdf]
+
+Century of Light, by Baha'i International Community                      19267C
+  [Link: http://www.gutenberg.org/1/9/2/6/19267 ]
+  [Files: 19267.txt; 19267-8.txt; 19267-0.txt; 19267-tei.tei;
+          19267-h.htm; 19267-pdf.pdf]
+
+Etudes sur Aristophane, by Emile Deschanel                               19266
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/2/6/19266 ]
+   [Files: 19266-0.txt]
+
+Red Saunders' Pets and Other Critters, by Henry Wallace Phillips         19265
+   [Link: http://www.gutenberg.org/1/9/2/6/19265 ]
+   [Files: 19265.txt; 19265-8.txt; 19265-h.htm]
+
+Japanese Literature, by Various                                          19264
+   [Subtitle: Including Selections from Genji Monogatari and Classical
+    Poetry and Drama of Japan]
+   [Editor: Epiphanius Wilson]
+   [Link: http://www.gutenberg.org/1/9/2/6/19264 ]
+   [Files: 19264.txt; 19264-8.txt; 19264-h.htm]
+
+Diary of the Besieged Resident in Paris, by Henry Labouchere             19263
+   [Link: http://www.gutenberg.org/1/9/2/6/19263 ]
+   [Files: 19263.txt; 19263-8.txt; 19263-h.htm]
+
+Architectural Illustration, Vol. 1, No. 4, April 1895                    19262
+   [Title: The Brochure Series of Architectural Illustration]
+   [Subtitle: Byzantine-Romanesque Windows in Southern Italy]
+   [Link: http://www.gutenberg.org/1/9/2/6/19262 ]
+   [Files: 19262.txt; 19262-8.txt; 19262-h.htm]
+
+
+
+Citadel of Faith, by Shoghi Effendi                                      19254C
+  [Link: http://www.gutenberg.org/1/9/2/5/19254 ]
+  [Files: 19254.txt; 19254-8.txt; 19254-0.txt; 19254-tei.tei;
+          19254-h.htm; 19254-pdf.pdf]
+
+Compilation on Baha'i Education,  by The Universal House of Justice      19253C
+   [Author: Research Department of the Universal House of Justice]
+  [Link: http://www.gutenberg.org/1/9/2/5/19253 ]
+  [Files: 19253.txt; 19253-8.txt; 19253-0.txt; 19253-tei.tei;
+          19253-h.htm; 19253-pdf.pdf]
+
+Baha'i Administration, by Shoghi Effendi                                 19252C
+  [Link: http://www.gutenberg.org/1/9/2/5/19251 ]
+  [Files: 19252.txt; 19252-8.txt; 19252-0.txt; 19252-tei.tei;
+          19252-h.htm; 19252-pdf.pdf]
+
+Arohanui: Letters to New Zealand, by Shoghi Effendi                      19251C
+  [Link: http://www.gutenberg.org/1/9/2/5/19251 ]
+  [Files: 19251.txt; 19251-8.txt; 19251-0.txt; 19251-tei.tei;
+          19251-h.htm; 19251-pdf.pdf]
+
+'Abdu'l-Baha in London, by 'Abdu'l-Baha                                  19250C
+  [Link: http://www.gutenberg.org/1/9/2/5/19250 ]
+  [Files: 19250.txt; 19250-8.txt; 19250-0.txt; 19250-tei.tei;
+          19250-h.htm; 19250-pdf.pdf]
+
+
+
+The Light of Divine Guidance (Volume 2), by Shoghi Effendi               19245C
+  [Link: http://www.gutenberg.org/1/9/2/4/19245 ]
+  [Files: 19245.txt; 19245-8.txt; 19245-0.txt; 19245-tei.tei;
+          19245-h.htm; 19245-pdf.pdf]
+
+The Light of Divine Guidance (Volume 1), by Shoghi Effendi               19244C
+  [Link: http://www.gutenberg.org/1/9/2/4/19244 ]
+  [Files: 19244.txt; 19244-8.txt; 19244-0.txt; 19244-tei.tei;
+          19244-h.htm; 19244-pdf.pdf]
+
+The Advent of Divine Justice, by Shogi Effendi                           19243C
+  [Link: http://www.gutenberg.org/1/9/2/4/19243 ]
+  [Files: 19243.txt; 19243-8.txt; 19243-0.txt; 19243-tei.tei;
+          19243-h.htm; 19243-pdf.pdf]
+
+Bahiyyih Khanum, by Baha'i World Centre                                  19242C
+  [Link: http://www.gutenberg.org/1/9/2/4/19242 ]
+  [Files: 19242.txt; 19242-8.txt; 19242-0.txt; 19242-tei.tei;
+          19242-h.htm; 19242-pdf.pdf]
+
+Baha'u'llah and the New Era, by the Universal House of Justice           19241C
+  [Link: http://www.gutenberg.org/1/9/2/4/19241 ]
+  [Files: 19241.txt; 19241-8.txt; 19241-0.txt; 19241-tei.tei;
+          19241-h.htm; 19241-pdf.pdf]
+
+
+-=-=-=-=[ 10 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Sep 2006 Doctor Dolittle in the Moon, by Hugh Lofting      [060769xx.xxx] 1287A
+[http://gutenberg.net.au/ebooks06/0607691.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607691h.html ]
+
+Sep 2006 Holy Terrors, by Arthur Machen                    [060768xx.xxx] 1286A
+[http://gutenberg.net.au/ebooks06/0607681.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607681h.html ]
+
+Sep 2006 Red Ace, by Edgar Wallace                         [060767xx.xxx] 1285A
+[http://gutenberg.net.au/ebooks06/0607671.txt or zip ]
+
+Sep 2006 Uncle Piper of Piper's Hill, by Tasma             [060766xx.xxx] 1284A
+[http://gutenberg.net.au/ebooks06/0607661.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607661h.html ]
+
+Sep 2006 The Penance of Portia James, by Tasma             [060765xx.xxx] 1283A
+[http://gutenberg.net.au/ebooks06/0607651.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607651h.html ]
+
+Sep 2006 Bengala, by Mary Theresa Vidal                    [060764xx.xxx] 1282A
+[http://gutenberg.net.au/ebooks06/0607641.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607641h.html ]
+
+Sep 2006 Tales for the Bush, by Mary Theresa Vidal         [060763xx.xxx] 1281A
+[http://gutenberg.net.au/ebooks06/0607631.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607631h.html ]
+
+Sep 2006 A Sydney Sovereign And Other Tales, by Tasma      [060762xx.xxx] 1280A
+[http://gutenberg.net.au/ebooks06/0607621.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607621h.html ]
+
+Sep 2006 When I was King and Other Verses, by Henry Lawson [060761xx.xxx] 1279A
+[http://gutenberg.net.au/ebooks06/0607611.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607611h.html ]
+
+Sep 2006 Verses Popular and Humorous, by Henry Lawson      [060760xx.xxx] 1278A
+[http://gutenberg.net.au/ebooks06/0607601.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607601h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access
+these ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

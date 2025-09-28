@@ -1,0 +1,901 @@
+---
+params:
+  id: 2196
+title: "PG Weekly Newsletter: Part 1 (2004-11-24)"
+date: 2004-11-24T21:00:22+00:00
+author: Michael Cook
+layout: post
+url: /20041124/pg-weekly-newsletter-2004-11-24-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter For Wednesday, November 24, 2004 PT1
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   72 New Public Domain eBooks Under US Copyright
+*Headline News from NewsScan and Edupage
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones
+
+
+                  Project Gutenberg is 400 Months Old!
+
+                      14,484 eBooks As Of Today!!!
+
+               11,219 New eBooks Since The Start Of 2001
+
+            We Have Now Produced about 3,577 eBooks In 2004
+
+          We Are Already ~1/2 of the Way from 14,000 to 15,000
+
+
+                        516 to go to 15,000!!!
+
+
+
+We have now averaged ~434 eBooks per year since July 4th, 1971!!!
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2001 to 2004 for our last 10,000 eBooks
+
+*
+
+HOT REQUEST FOR UNIX "GREP" EXPERT
+Please email hart@pglaf.org
+
+
+HOT REQUEST FOR RUSSIAN TRANSLATOR
+
+We are trying to start up a Project Gutenberg Russian Team,
+and we need someone to translate simple email messages from
+members of Project Gutenberg who want to provide a service
+to the Russian Team, but who do not know Russian. . .these
+people will be helping with scanning, finding books, etc.
+The messages will be in MS Word's .doc format in cyrillic,
+we need them translated into English, also in a .doc file.
+Thanks!!!     Contact Jared Buck  &lt;JBuck814366460@aol.com&gt;
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 33 20/52 Year History, We Have Now Averaged About ~434 eBooks/Yr
+And This Year We Are Averaging 3/4 of That New eBook Level. . .PER MONTH!
+
+
+         We Are Averaging About 333 eBooks Per Month This Year
+
+                           About 78 Per Week
+
+***
+
+
+
+***Hot Requests New Sites and Announcements
+
+
+Please visit and test our newest site:
+
+www.pgcc.net
+[also available as  www.gutenberg.us and www.gutenberg.cc]
+
+
+The Project Gutenberg Consortia Center [PGCC]
+
+Please let us know of any eBook collections that
+would be suitable for inclusion:  public domain
+or copyrighted, for which we ask permission.
+or copyrighted with permission]
+
+You should see some signifcant changes this week.
+
+
+*
+
+There is a new experimental online reader available. Start from any
+bibliographic record page, eg.
+
+    http://www.gutenberg.org/etext/4300
+
+
+Basically this paginates the txt file and remembers your last position
+in a cookie so you can later resume reading where you left off.
+
+Please test it. It should work with any book that has a text file
+where the encoding is known.
+
+*
+
+MACHINE TRANSLATION
+
+We are seeking as much information as possible on the various
+approaches to Machine Translation. Any brand names or contact
+information would be greatly appreciated.
+
+***
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://www.gutenberg.org/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD and DVD there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+***
+
+We are in the process of rewriting some of the general FAQs and
+would appreciate help proofreading them over the next few months.
+
+We've added some new FAQs and generally updated information
+about Project Gutenberg.  Take a look, and email Michael or
+Greg with any suggestions or corrections.  We'll have these
+updated from time to time, now that we've passed #10,000.
+A new set of these will be in the works when we pass #20,000.
+
+http://www.gutenberg.org/about
+
+
+***Continuing Requests and Announcements
+
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://www.gutenberg.org/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+
+So far we have sent out 14 million eBooks via snailmail!!!
+
+We currently have access to a dozen DVD burners.  If you have a DVD burner
+and are interested in lending a hand, please email Aaron Cannon
+
+&lt;cannona@fireantproductions.com&gt;
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them directly
+to readers whose addresses we can send you, or you can
+do a stack of these and send the whole box back for reshipping.
+We can also reimburse you for supplies and postage if you wish.
+
+Please note that we can only use DVDs which are burnt in the dvd-r format,
+as we have had some compatibility issues with the dvd+r format.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+     In the first 10.75 months of this year, we produced 3577 new eBooks.
+
+It took us from July 1971 to December 2002 to produce our first 3,577 eBooks!
+
+               That's 46 WEEKS as Compared to ~31.5 Years!
+
+                  72   New eBooks This Week
+                  74   New eBooks Last Week
+                 203   New eBooks This Month [Nov]
+
+                 334   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                3577   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               11422   New eBooks Since Start Of 2001
+                         That's Only 46.75 Months!
+
+              14,484  Total Project Gutenberg eBooks
+              10,396   eBooks This Week Last Year
+                ====
+               4,088   New eBooks In Last 12 Months
+
+                 386   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage =  67%
+
+Moore's Law 18 month percentage = 115%
+
+[100% of Moore's Law = doubling every 18 months]
+
+
+*Distributed Proofreaders Collection Report
+
+Since completing its first eBook (#3320) on March 13th, 2001, the
+Distributed Proofreaders team has now produced its 5,771st eBook (#14136).
+Of that total, there are 5,424 unique, brand-new titles.
+
+Projects completed since the beginning of the year:
+   Jan 2004 -  267
+   Feb 2004 -  421
+   Mar 2004 -  365
+   Apr 2004 -  276
+   May 2004 -  235
+   Jun 2004 -  232
+   Jul 2004 -  231
+   Aug 2004 -  220
+   Sep 2004 -  182
+   Oct 2004 -  263
+   Nov 2004 -  207 (as of 24 Nov 04)
+
+*
+
+Check out our website at www.gutenberg.org, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+
+http://www.gutenberg.org/howto/subscribe-howto
+or
+http://www.gutenberg.org/subs.shtml
+
+***
+
+*Project Gutenberg Consortia Center Report
+
+[John is getting married around now, we we're giving
+him a few weeks off. . . .  Congratulations!!!!!!!]
+
+PGCC's current eBook and eDocument Collections holdings
+of 15 collections. . .with this week's listing as:
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,            34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      14,300 eBook Files
+Renaisscance Editions Collection,     561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files==========106,107 Total Files=====
+
+These eBooks are catalogued as per the instructions of
+their donors:  some are one file per book, some have a
+file for each chapter, and some even have a file for a
+single page or poem. . .or are overcounted for reasons
+I have not mentioned. . .each of which could cause the
+overcounting or duplication of numbers.
+
+If we presume 2 out of 3 of these files are overcounts,
+that leaves a unique book total of
+                                    35,360 Unique eBooks
+
+If we presume 3 out of 4 of these files are overcounts,
+that leaves a unique book total of
+                                    26,527 Unique eBooks
+
+***
+
+Today Is Day #328 of 2004
+This Completes Week #46 and Month #10.75
+    42 Days/10 Weeks To Go  [We get 52 Wednesdays this year]
+   516 Books To Go To #15,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    78   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Permanent Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned).  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a project you would like to work on.
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.org":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.org&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 33 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.org/donation.html  or email donate@gutenberg.org
+
+
+*Access To The Project Gutenberg Collections
+
+
+*Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://www.gutenberg.org/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.org/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://www.gutenberg.org/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 44 weeks of this year, we have produced 3577 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 3577 eBooks!!!
+
+          That's 44 WEEKS as Compared to ~31.5 YEARS!!!
+
+
+Here's a sample of what books we were doing around eBook #3577
+
+Dec 2002 Private Life of Napoleon, V1, by Constant  [NB#18][nc01vxxx.xxx] 3568
+Memoirs of Napoleon Bonaparte, Complete, by Bourrienne                    3567
+Dec 2002 Memoirs of Napoleon, V16, by Bourrienne    [NB#16][nb16vxxx.xxx] 3566
+[Two multivolume sets of Napoleon.]
+
+
+With 14,484 eBooks online as of November 24, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.69 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100 million readers is only ~1.5% of the world's population!
+
+This "cost" is down from about $.96 when we had 10,069 eBooks a year ago
+
+Can you imagine ~14,484 books each costing ~$.27 less a year later???
+Or. . .would this say it better?
+Can you imagine ~14,484 books each costing 1/3 less a year later???
+
+At 14,484 eBooks in 33 Years and 04.75 Months We Averaged
+       434 Per Year   [We do about 3/4 that much per month these days!]
+        36.1 Per Month
+         1.19 Per Day
+
+At 3577 eBooks Done In The 335 Days Of 2004 We Averaged
+      11 Per Day
+      78 Per Week
+     334 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+                            *Flashback!!!
+
+                   3334 New eBooks So Far in 2004
+
+               It took us ~31 years for the first 3324 !
+
+       That's the 9.75 months of 2004 as Compared to ~31 years!!!
+
+
+
+*Headline News from NewsScan and Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+BROADBAND USE UP, BUT U.S. STILL LAGS FAR BEHIND
+
+[In a related story, AOL has indicated it will cease providing broadband
+service in in the entire southeastern United States in January.]
+
+A Bush administration report, titled "A Nation Online: Entering the
+Broadband Age," notes that the number of Americans using broadband Internet
+connections doubled between 2001 and late 2003, but the country as a whole
+still lags far behind many other nations, including South Korea, Taiwan and
+Canada. The report also points to a widening gap between the digital haves
+and have-nots. Only 25% of rural households have a broadband connection,
+compared with 40% for urban areas, and only one-in-seven blacks and fewer
+than one-in-eight Hispanics lives in a household with high-speed Internet
+service. "It shows we continue to have a significant divide between urban
+and rural America in the infrastructure of the 21st century," says Gregory
+L. Rohde, a top telecom advisor during the Clinton administration.
+Significant numbers of rural Americans complained there were no broadband
+services available where they live. "This is lousy," says Harris Miller,
+head of the Information Technology Association of America. "We're just not
+keeping up with our competitors. We're not even keeping up with countries
+we don't consider competitors. It's not acceptable." (AP 23 Nov 2004)
+&lt;http://apnews.excite.com/article/20041123/D86HL5SG0.html&gt;
+
+[Here's the original AOL story from 12 days ago.]
+
+AOL WINDS DOWN BROADBAND SERVICE
+Earlier this year America Online stopped signing up new
+broadband customers -- and now it's telling existing broadband
+subscribers in nine Southern states that they'll need to find a new
+broadband carrier by mid-January, or face being moved to dial-up
+service. Broadband customers affected by this decision are residents
+of Florida, Kentucky, Georgia, Louisiana, Alabama, Mississippi,
+Tennessee, North Carolina and South Carolina.
+(AP/Los Angeles Times 12 Nov 2004)
+&lt;http://www.latimes.com/technology/ats-ap_technology10nov11,1,1067276.story?
+coll=sns-ap-toptechnology&gt;
+
+[and in a related story]
+
+TELCOS THREATENED BY MUNICIPAL WIFI
+
+[Telcos fight back with army of well-paid lobbyists]
+
+Dozens of municipalities around the country are installing WiFi
+networks in order to provide citizens with low- or no-cost wireless
+Internet access -- a phenomenon that has raised the ire of large telephone
+and cable companies, who see their lucrative broadband businesses eroding.
+In response, telcos and cable companies are pushing states to pass
+legislation that could make such municipal networks illegal. Last week,
+after intensive lobbying by Verizon, the Pennsylvania General Assembly
+passed a bill with a deeply buried provision that would make it illegal for
+any "political subdivision" to provide to the public "for any compensation
+any telecommunications services, including advanced and broadband services
+within the service territory of a local exchange telecommunications company
+operating under a network-modernization plan." Verizon is the local
+exchange operator for most of Pennsylvania and is planning a major
+fiber-optic cable rollout. Similar bills have passed in Utah, Louisiana and
+Florida. Critics say the telco giants' clout is stifling broadband
+expansion in the U.S., but the telcos argue it's unfair for them to have to
+compete against local governments, which have easy access to capital and
+pay no taxes. (Wall Street Journal 23 Nov 2004)
+&lt;http://online.wsj.com/article/0,,SB110116864041881375,00.html&gt; (sub req'd)
+
+[and even greater threats by VOIP]
+
+KAZAA OFFERS FREE VOIP CALLS
+The latest version of Kazaa software, distributed by Sharman Networks,
+incorporates Internet telephony software from Skype Technologies,
+which is also owned by Kazaa founders Niklas Zennstrom and Janus Friis.
+That means while people are downloading their music they can also make free
+online calls anywhere in the world. (Reuters/CNet.com 22 Nov 2004)
+&lt;http://news.com.com/Kazaa+offers+unlimited+free+Internet+phone+calls/2110-7
+352_3-5463440.html&gt;
+
+
+MAKE INCISION HERE: RFID TAG USED IN SURGERY
+
+[Tired of hearing they cut off the wrong leg?]
+
+The U.S. Food and Drug Administration has approved use of radio
+frequency ID (RFID) tags to ensure that physicians perform the right surgery
+on the right patient. Manufactured by SurgiChip Inc., the radio tag is
+encoded with the patient's name and the site, type, and date of the surgery;
+the patient helps stick the adhesive-backed tag near the site of the surgery
+and workers in the hospital's operating room scan the tag to compare that
+information with the patient's chart. (AP/San Jose Merury News 19 Nov 2004)
+&lt;http://www.siliconvalley.com/mld/siliconvalley/10226986.htm&gt;
+
+[more on RFIDs]
+
+TRACKING SCHOOLCHILDREN WITH COMPUTER TAGS
+A number of school districts around the country are implementing
+systems that use radio frequency identification (RFID) tags to track
+the whereabouts of schoolchildren. In Spring, Texas, the district's
+28,000 students will be given ID cards with RFID chips in them. Card
+readers on the district's school busses track where and when students
+get on and off the busses and send that information to police and
+school administrators. In the event that a child is reported missing,
+authorities would use the system's data to help locate the child,
+whether the student was kidnapped or simply went to another student's
+home after school. A school district in Buffalo, New York, uses a
+similar system at the doors of the school to track attendance. Despite
+teething problems of the systems, not to mention concerns over cards
+that are lost or traded by mischievous students, supporters said they
+offer unique capacities to track students and reassure worried parents.
+Critics of the systems, including the American Civil Liberties Union
+and the Electronic Frontier Foundation, said they elevate security
+concerns to the level of paranoia and represent an invasion of privacy.
+New York Times, 17 November 2004 (registration req'd)
+http://www.nytimes.com/2004/11/17/technology/17tag.html
+
+THE COMING BATTLE: GOOGLE VERSUS MICROSOFT
+Already competing against one other in Web search, free e-mail, and
+techniques for searching individual computers, Google and Microsoft are
+drifting into a war over control of the user experience now dominated by
+Microsoft's Windows operating system. Industry-watchers say that Google
+could make people less dependent on storing information on their
+Microsoft-powered PCs and more dependent on free Web-based e-mail and search
+functions accessible anywhere from any device regardless of operating
+system, and analyst David Garrity says the real question is whether computer
+buyers may one day simply decide that they no longer even need a Microsoft
+operating system. (AP/Los Angeles Times 22 Nov 2004)
+&lt;http://www.latimes.com/technology/ats-ap_technology11nov22,1,1657103.story?
+coll=sns-ap-toptechnology&gt;
+
+
+You have been reading excerpts from NewsScan: NewsScan Daily
+is underwritten by RLG, a world-class organization making
+significant and sustained contributions to the effective
+management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+*
+
+&gt;From Edupage
+
+BRITISH LIBRARY GOES WIRELESS
+Responding to reports showing strong demand for Internet access,
+officials at the British Library have announced the implementation of a
+wireless network in the library's reading rooms, auditorium,
+restaurants, and outdoor area. A study recently showed that 86 percent
+of library patrons carry laptops and that 16 percent came to the
+library to use it as a business center. Many visitors routinely leave
+the library to check their e-mail at a local cafe, and surveys showed
+that many people would like to check their e-mail, as well as access
+the library catalog, while in the library. The service will cost users
+4.50 British pounds per hour or 35 pounds per month. A pilot program
+has been available in the library since May, and usage logs indicate
+that in that time, the network has seen 1,200 sessions per week, making
+it the busiest hot spot in London.   BBC, 18 November 2004
+http://news.bbc.co.uk/2/hi/technology/4020241.stm
+
+[Anyone with even the slightest knowledge of statistics will realize
+that 86% of any population is not likely to be carrying laptops. . .
+this very strange looking statistic is due to the fact that this is
+not a library in the sense most of use.  It is not open to the public,
+other than a few rooms that look more like a museum, which is what it
+really is, by most definitions.  One actually has to pass a test to
+gain entrance. . .to be a "reader."  Not only do 86% of the "readers"
+bring laptops, but they are incredibly "well-heeled" even by London
+standards, as I observed myself when visiting there last month.]
+
+COLLEGE BLOCKS HOTMAIL AND YAHOO TO FIGHT SPAM
+Frustrated with the problem of spam and unable to afford antispam
+software packages, officials at Guam Community College have implemented
+a policy that blocks all mail from Hotmail or Yahoo--favorites with
+spammers--from being delivered to college e-mail accounts. Exceptions
+are made for return addresses that are on the institution's list of
+legitimate addresses. Currently, the college only provides e-mail
+accounts to faculty and staff, and many students rely on Hotmail or
+Yahoo accounts to keep in touch with faculty or to turn in assignments,
+prompting many complaints about the policy. The policy has resulted in
+significantly less spam, and the college's technical staff are
+spending much less time dealing with the spam that does get through.
+Still, many members of the faculty do not support the policy, saying
+that whatever benefits it provides do not outweigh the problems it
+causes. Joe St. Sauver of the University of Oregon Computing Center and
+an expert on spam issues said the tactic of blocking Hotmail and Yahoo
+has been tried before but that most institutions dropped it because
+they were not happy with the results.
+Chronicle of Higher Education, 19 November 2004 (sub. req'd)
+http://chronicle.com/prm/weekly/v51/i13/13a03101.htm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+
+*Headline News Avoided By Most Of The Major U.S. Media
+
+Sir Mark Thatcher, son of "The Iron Lady," British Prime
+Minister Margaret Thatcher, is finally being forced to
+answer questions in open court concerning charges that
+he was planning a coup to take over Equatorial Guinea,
+a country rich in oil.
+
+The Cape High Court ruled today that he must face court
+tomorrow [or the next day, depending on sources], and he
+may be extradited later from South Africa to face more
+direct charges in Equatorial Guinea.  This ruling has
+finally come after months of legal wrangling since his
+arrest last August in his suburban Cape Town home.
+
+Dozens of mercenaries and planners have been arrested
+in Equatorial Guinea and in Zimbabwe, where one of Sir
+Mark's friends has already been convicted.
+
+In earlier arrests on March 7, about 70 men were taken
+at the Harare airport, mostly South Africans led by
+former SAS officer Simon Mann, a graduate of Eton.
+
+Most of these have been charged with violations of
+South Africa's foreign military assistance act and
+other charges are pending in other countries.
+
+It would appear all involved deny any participation
+in the failed coup attempt, including Severo Moto,
+who mysteriously appeared in nearby Mali just before
+the coup attempt, apparently ready to be the new leader
+if the right-wing network of businessmen had been
+successful in taking over the country.  Mr. Moto has
+been reported to have been involved in several previous
+such failed coup attempts, including one in which he
+was arrested aboard a boat containing military supplies
+for one of the previous events in 1997.  Government
+sources in Spain confirm Mr. Moto's involvement in
+these events over the years.
+
+Apparently one of Thatcher's friends has already been
+convicted in Zimbabwe.
+
+
+"Clockwork Orange" Medical Plan Finally Outlawed By Chinese
+
+The Chinese announced that they will no longer be supporting
+medical testing on hundreds of human beings in which they
+remove or disable the portions of the brain receptive to
+certain drugs.  This technology was inherited from Russia,
+where no such annoucement has been heard.
+
+
+*STRANGE QUOTE OF THE WEEK
+
+&gt;From Jim Carrey:
+
+"Prozac is like a low level of despair."
+
+"Everything is just OK."
+
+"You're not getting any answers."
+
+"People need motivation to do anything.
+I don't think human beings learn anything without desperation."
+
+
+*PREDICTION OF THE WEEK
+
+We will find that Russia only signed the Kyoto accords
+to make Bush look bad for not signing, and to gain an
+earlier membership in the World Trade Organization [WTO].
+
+
+*ODD STATISTICS OF THE WEEK
+
+Martha Stewart made $10-$20 million this week, even in jail,
+due to her ownership of millions of shares of K-Mart, which
+jumped in price when the Sears merger was announced.
+
+
+Camden, NJ, named "US Most Dangerous City."
+[Camden is just across from Phildephia, PA]
+Newton, MA, Boston suburb, named the safest.
+Murder rate is 0 in Newton, highest in Camden.
+
+
+$1 of each $7 in the U.S. is spent on health care.  14%
+Housing for those above the povertey level equals   20%
+Housing for those around the poverty level equals   30%
+Housing for those below the poverty level equals    40%
+Transportation costs for those above poverty lines  20%
+Transportation costs for those below poverty lines  40%
+
+Obviously these studies aren't all from the same year
+using the same information base or we would run 100%+
+without much effort; however, it should be duly noted
+that for those under the poverty line, the sum of all
+food, housing, and transportation leaves little room.
+Clothing, education, etc., add up to very little.
+
+
+Back to health care, it all started during the Reagan years:
+
+What Americans spend on health care increased 117% between 1980-1988.
+
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_11_24_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_11_24_part_1.txt</a>

@@ -1,0 +1,964 @@
+---
+params:
+  id: 2166
+title: "PG Weekly Newsletter: Part 1 (2004-08-11)"
+date: 2004-08-11T21:43:04+00:00
+author: Michael Cook
+layout: post
+url: /20040811/pg-weekly-newsletter-2004-08-11-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter For Wednesday, August 11, 2004 PT1
+*****eBooks Readable By Both Humans And Computers Since July 4, 1971******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report, including Distributed Proofreaders
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   47 New Public Domain eBooks Under US Copyright
+*Headline News from NewsScan and Edupage
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+                          *eBook Milestones
+
+
+                We Are Over 90% of the Way to 15,000!!!
+
+
+                     13,484 eBooks As Of Today!!!
+
+
+                         6,516 to go to 20,000
+
+
+    We have now averaged 400 eBooks per year since July 4th, 1971!!!
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2001 to 2004 for our last 10,000 eBooks
+
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET new Newsletter editors who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 33 05/52 Year History, We Have Now Averaged About 400 eBooks/Yr
+And This Year We Are Averaging that Same New eBook Level. . .PER MONTH!
+
+
+         We Are Averaging About 368 eBooks Per Month This Year
+
+                           About 83 per Week
+
+***
+
+
+
+***Hot Requests New Sites and Announcements
+
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://gutenberg.net/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD on there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+Just click on the hash to download the torrent file for the CD.
+It's the only one on there.  He will be changing it to show the name
+later today, but for now it's just the hash.  Anyway it works fine.
+
+***
+
+Please visit our newest mirror sites:
+
+http://www.knowledgerush.com/gutenberg/
+[This one does not have our .mp3 files]
+
+and
+
+ftp://ftp.cise.ufl.edu/pub/mirrors/gutenberg
+Contact:  mirrors@cise.ufl.edu
+
+***
+
+We are in the process of rewriting some of the general FAQs and
+would appreciate help proofreading them over the next few months.
+
+We've added some new FAQs and generally updated information
+about Project Gutenberg.  Take a look, and email Michael or
+Greg with any suggestions or corrections.  We'll have these
+updated from time to time, now that we've passed #10,000.
+A new set of these will be in the works when we pass #20,000.
+
+http://gutenberg.net/about
+
+
+***Continuing Requests and Announcements
+
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+and *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+***
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+     In the first 7.25 months of this year, we produced 2577 new eBooks.
+
+  It took us from July 1971 to July 2000 to produce our first 2,577 eBooks!
+
+               That's 31 WEEKS as Compared to ~30 Years!
+
+                  46   New eBooks This Week
+                  74   New eBooks Last Week
+                  46   New eBooks This Month [Aug]
+
+                 368   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                2577   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               10422   New eBooks Since Start Of 2001
+                         That's Only 43.25 Months!
+
+              13,484  Total Project Gutenberg eBooks
+               8,961   eBooks This Week Last Year
+                ====
+               4,523   New eBooks In Last 12 Months
+
+                 370   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage =  86%
+
+Moore's Law 18 month percentage = 100%
+
+[100% of Moore's Law = doubling every 18 months]
+
+***
+
+Since completing its first eBook (#3320) on Mar 13th, 2001, the Distributed
+Proofreaders team has now produced its 4,966th eBook (#13157).
+
+Projects completed since the beginning of the year:
+   Jan 2004 -  267
+   Feb 2004 -  421
+   Mar 2004 -  365
+   Apr 2004 -  276
+   May 2004 -  235
+   Jun 2004 -  232
+   Jul 2004 -  231
+   Aug 2004 -   67 (As of Aug 11)
+
+[Numbers below from last week, revising our count now]
+Two years ago they completed their 381st eBook (#5655)
+One year ago they completed their 1,761st eBook (#8729)
+This week they are well past their 4,900th eBook!!!!!!!
+
+*
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+***
+
+Today Is Day #223 of 2004
+This Completes Week #31 and Month #7.25
+   148 Days/24 Weeks To Go  [We get 52 Wednesdays this year]
+  6516 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    83   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Permanent Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned).  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+     or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://gutenberg.net/donation.html  or email donate@gutenberg.net
+
+
+*Access To The Project Gutenberg Collections
+
+
+  *Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://gutenberg.net/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.net/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://gutenberg.net/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 31 weeks of this year, we have produced 2577 new eBooks.
+It took us from 1971 to 1999 to produce our FIRST 2577 eBooks!!!
+
+          That's 31 WEEKS as Compared to ~30 YEARS!!!
+
+
+With 13,484 eBooks online as of August 11, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.74 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.12 when we had 8861 eBooks a year Ago
+
+Can you imagine ~13,484 books each costing ~$.38 less a year later???
+Or. . .would this say it better?
+Can you imagine ~13,484 books each costing 1/3 less a year later???
+
+At 13,484 eBooks in 33 Years and 01.25 Months We Averaged
+       407 Per Year   [We do nearly that much a month these days!]
+        34.0 Per Month
+         1.12 Per Day
+
+At 2577 eBooks Done In The 223 Days Of 2004 We Averaged
+      12 Per Day
+      83 Per Week
+     369 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+                            *Flashback!!!
+
+                   2602 New eBooks So Far in 2004
+
+               It took us ~30 years for the first 2578 !
+
+       That's the 7.25 months of 2004 as Compared to ~30 years!!!
+
+      Here Is A Sample Of What Books Were Being Done Around #2478
+
+Feb 2001 Siddhartha, by Herman Hesse [Our English Edition] [siddhxxx.xxx] 2500
+Feb 2001 Siddhartha, by Herman Hesse [In 8-bit German]     [?siddxxx.xxx] 2499
+
+Feb 2001 Addresses, by Henry Drummond                      [addrexxx.xxx] 2498
+Feb 2001 Put Yourself in His Place, by Charles Reade   [#4][phyipxxx.xxx] 2497
+Feb 2001 Our Village, by Mary Russell Mitford              [vllgxxxx.xxx] 2496
+Feb 2001 Susy, A Story of the Plains, by Bret Harte   [#12][susyxxxx.xxx] 2495
+
+Feb 2001 The story of Saint Stanislaus Kostka, by W.T. Kane[stanixxx.xxx] 2494
+Feb 2001 Adventures of Paddy the Beaver, Thornton W.Burgess[paddyxxx.xxx] 2493
+Feb 2001 Orpheus in Mayfair & Other Stories, Maurice Baring[orphexxx.xxx] 2492
+Feb 2001 Love or Fame; et. al., by Fannie Isabelle Sherrick[lvrfmxxx.xxx] 2491
+
+Jan 2001 Lamia, by John Keats [Poetry/Poem] [John Keats #1][lamiaxxx.xxx] 2490
+Jan 2001 Moby Dick, by Herman Melville              [HM #3][mobyxxxx.xxx] 2489
+   (moby11.* is the complete text.)  (See also #2701)
+Jan 2001 Moby Dick, by Herman Melville              [HM #3][mobyxxxa.xxx] 2489
+   (moby10a.* is only Chap. 72, missing from prior eBook #15)
+Jan 2001 20,000 Leagues Under the Seas, by Jules Verne[#13][2000010a.xxx] 2488
+Jan 2001 Cross Roads, by Margaret E. Sangster              [crsrdxxx.xxx] 2487
+
+Jan 2001 Queer Little Folks, by Harriet Beecher Stowe[HBS2][qltfkxxx.xxx] 2486
+Jan 2001 Movements and Habits of Climbing Plants, by Darwin[cplntxxx.xxx] 2485
+Jan 2001 The Boys' and Girls' Plutarch's "Lives", by White [tbagpxxx.xxx] 2484
+Jan 2001 Janice Day, Young Homemaker, by Helen Beecher Long[jncdyxxx.xxx] 2483
+
+Jan 2001 New York, by James Fenimore Cooper[J.F. Cooper #6][nwyrkxxx.xxx] 2482
+Jan 2001 The Civilization of Illiteracy (C)Mihai Nadin 1997[cviltxxx.xxx] 2481C
+Jan 2001 Under Western Eyes, Joseph Conrad[Joseph Conrad25][wstysxxx.xxx] 2480
+Jan 2001 The Friendly Road, by David Grayson               [frnrdxxx.xxx] 2479
+   [Note:  David Grayson is a pseudonym for Ray Stannard Baker]
+
+[The following are from "The Circus Boys" series:
+[Each title starts with "The Circus Boys" = TCB here
+
+Jan 2001 TCB On The Plains, by Edgar B.P. Darlington [CB#5][05tcbxxx.xxx] 2478
+Jan 2001 TCB On The Mississippi, by Edgar Darlington [CB#4][04tcbxxx.xxx] 2477
+Jan 2001 TCB in Dixie Land, by Edgar B.P. Darlington [CB#3][03tcbxxx.xxx] 2476
+Jan 2001 TCB Across The Continent, by Edg. Darlington[CB#2][02tcbxxx.xxx] 2475
+
+
+*Headline News from NewsScan and Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+[In two somewhat related stories this week, the U.S. goverment
+refuses to give equal protection on wired and wireless phones.]
+
+
+FCC SUPPORTS CALEA FOR INTERNET PHONE CARRIERS
+
+[They don't want to stop tapping your wireless phones without warrants.]
+
+The U.S. Federal Communications Commission (FCC) responded to
+law-enforcement concerns by suggesting that Internet-based telephone
+services should be subject to laws that permit the government to
+monitor landline telephone conversations. Discussion of the proposed
+rule was the first formal step by the FCC to hold Internet phone
+carriers to the same requirements as traditional phone companies, as
+specified in the Communications Assistance for Law Enforcement Act
+(CALEA). Industry executives who have supported law-enforcement efforts
+nonetheless fear the new rules could be too expensive and too difficult
+to apply to Internet phone services without impeding technological progress.
+New York Times, 5 August 2004 (registration req'd)
+http://www.nytimes.com/2004/08/05/technology/05phone.html
+
+and
+
+
+FCC MOVES TO PROTECT WIRELESS DEVICES FROM SPAM
+
+[So Why Can't They Do This For The Internet???]
+
+The Federal Communications Commission (FCC) is issuing new rules
+prohibiting marketers from sending commercial electronic messages to
+wireless technology users who haven't given them explicit permission to do
+so. The agency is also urging the industry to develop technologies to
+prevent spam from overwhelming wireless devices the way it now bedevils the
+Internet. FCC chairman Michael K. Powell says, "By prohibiting all
+commercial messages to wireless phones and PDAs absent affirmative consent
+from the consumer, Americans can now use their wireless devices freely,
+without being bothered by unwanted and annoying messages."
+(Washington Post 4 Aug 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A41009-2004Aug4.html
+
+more
+
+FCC RULES TO STOP SPAM ON CELL PHONES, PDAS
+The U.S. Federal Communications Commission (FCC) issued rules requiring
+marketers to obtain explicit permission from wireless-device users
+before sending commercial e-mail. The rule is an attempt to prevent
+cell phones and personal digital assistants (PDAs) from becoming
+subject to massive e-mail spam. The FCC also urged the industry to
+develop technologies to prevent spam. The rule does not apply to services
+that forward existing computer e-mail messages to wireless devices or
+permit the devices to connect to a computer-based mail account.
+Washington Post, 5 August 2004 (registration req'd)
+http://www.washingtonpost.com/wp-dyn/articles/A41009-2004Aug4.html
+
+
+[More on the RFID et al front]
+
+U.S. TO IMPLANT ID TAGS IN PASSPORTS
+The U.S. State Department plans to implant electronic ID chips in U.S.
+passports to allow computer face-recognition systems to match facial
+characteristics of the digital passport photo on the chip against a
+photo taken at the passport control station and against photos on
+government watch lists. The change is planned despite warnings that
+face-recognition technology has a high error rate. Critics suggest
+using fingerprint identification instead, as a more reliable
+technology. The new passports are scheduled to enter use in 2005.
+Washington Post, 6 August 2004
+http://www.washingtonpost.com/wp-dyn/articles/A43944-2004Aug5.html
+
+[and yet more on this stuff]
+
+U.K. PROHIBITS SMILING FACES ON PASSPORTS
+The U.K. Home Office ruled that all new passport photos must show an
+unsmiling face with closed mouth because open mouths can confuse facial
+recognition systems. The new guidelines require good contrast between
+the face and background; the full face looking straight at the camera;
+no shadows; and a neutral facial expression. The rules will apply
+immediately to new and replacement passports.
+The Register, 6 August 2004
+http://www.theregister.co.uk/2004/08/06/passport_scanners/
+
+DECLINING NUMBERS OF COMPUTER SCIENCE MAJORS
+The Computing Research Association says that the number of newly declared
+computer science and computer engineering majors in the U.S. and Canada
+fell last year 23% from the year before. The explanation is fairly straight-
+forward: since the dot-com bust a computer science degree no longer
+seems the key to instant riches. But Peter Lee, an associate dean of
+computer science at Carnegie Mellon University, is unworried by the falloff
+in applications: he thinks today's students are often of higher quality,
+because they're motivated not by money but by love of technology.
+(USA Today 8 Aug 2004)
+http://www.usatoday.com/tech/news/2004-08-08-computer-science_x.htm
+
+[More details in Edupage report below]
+
+
+THE UTILITY OF HIGH-SPEED ACCESS
+In some U.S. public housing developments residents can tap into shared
+broadband networks for less than $15 a month -- much less than the cost of
+individual high-speed accounts. According to Rey Ramsey, CEO of the
+nonprofit One Economy Corp. in Philadelphia, "the real issue was trying to
+get access in the home where it's convenient. If the library or learning
+center closes at 6 and you don't get off work until 8, that's not real
+access." Robert Wendel, a former Cisco engineer working to provide access to
+housing complexes, points out: "In the early days, a lot of low-income
+housing didn't have washer-dryer hookups, either"; he predicts: "Eventually,
+all new houses will be wired this way." (Washington Post 8 Aug 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A50706-2004Aug8.html
+
+
+APPLE ACCUSED IN FRANCE OF UNFAIR PLAY
+Online music retailer Virgin Mega has lodged a complaint with the
+French Competition Council charging that Apple Computer has "wrongfully
+refused" to license its Fairplay copy-protection technology and open up the
+iPod portable music player to rivals. Apple uses to the Fairplay technology
+to prevent unlimited copying of songs and to restrict other online music
+providers from making their secure song files transferrable to the iPod.
+(AP/San Jose Mercury News 6 Aug 2004)
+http://www.siliconvalley.com/mld/siliconvalley/9339367.htm
+
+and in a related story
+
+SONY VS. APPLE, TRA-LA, TRA-LA
+Sony, the electronics giant that developed the legendary Walkman
+personal stereo, is launching a new version meant to capture the Apple's
+iPod's current position as today's leading digital music player. Called the
+Network Walkman NW-HD1, the device uses a proprietary file format, works
+only on a Windows PC, and will cost $100 more than an iPod when it's
+released later this month. Technology analyst Matthew Fordahl of the
+Associated Press says the Sony's software doesn't rise to the level of the
+hardware and adds, "Sony's format does produce good sound quality while
+taking up less space, but users aren't given a choice. What happens if the
+unique ATRAC format is abandoned? Just ask anyone who bought a technically
+superior Betamax VCR instead of a VHS model." (AP/USA Today 5 Aug 2004)
+http://www.usatoday.com/tech/techreviews/products/2004-08-05-sony-walkthing_
+x.htm  [And will Sony's gizmo support eBooks???]
+
+WINDOWS ON A BUDGET
+
+[The quote at the bottom of this one is a riot!]
+
+Microsoft has created less-expensive versions of its Windows XP
+operating system to Thailand, Malaysia and Indonesia, and is developing
+similar programs in two other countries. The widespread interest in the
+Linux operating system has helped focus Microsoft's attention on the need
+for seriously competitive pricing strategies throughout the world. Deepak
+Phatak, a professor at the Indian Institute of Technology, says that India
+is exploring programs to distribute low-cost PCs using Linux but that it
+could be tempted by lower new prices from Microsoft:
+"People in the government will never play a technology-favorites game.
+They want to see value for money." (Wall Street Journal 11 Aug 2004)
+http://www.wsj.com (sub. req'd)
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+*
+
+&gt;From Edupage
+
+IBM DONATES SOFTWARE TO OPEN-SOURCE GROUP
+IBM will provide more than half a million lines of its software code
+for the Cloudscape database to open-source software group the Apache
+Software Foundation. The company's goal reportedly is to make it
+easier for software developers to write applications in the Java
+programming language. IBM is a leading supporter of Java, originally
+developed by Sun Microsystems. The IBM software platform WebSphere runs
+and manages such Java-based applications, competing with Microsoft's
+Net platform, written in C++.
+New York Times, 3 August 2004 (registration req'd)
+http://www.nytimes.com/2004/08/03/technology/03java.html
+
+NUMBER OF COMPUTER SCIENCE MAJORS FALLS
+Despite the improving outlook for the high-tech sector of the economy,
+enrollment in most computer science programs at U.S. institutions
+continues to decline, causing some to worry about the possibility of a
+high-tech workforce shortage in coming years. Schools such as San Jose
+State University, the University of Texas at Austin, and Ohio State
+University have seen lower computer science enrollments, and according
+to the Computing Research Association, enrollment is down by 23 percent
+in the United States and Canada. Peter Lee of Carnegie Mellon pointed
+out, however, that far fewer applications were received this year
+versus last for his institution's computer science program but that
+they were generally from more qualified applicants. No longer are
+students applying, said Lee, because they are simply lured by the
+prospect of high-paying jobs and stock options. Others noted that
+enrollments in graduate computer science programs, which remain strong,
+may soon begin to suffer due to increased restrictions on foreign
+students, who represent 43 percent of students in graduate computer
+science programs in the United States and Canada.
+USA Today, 8 August 2004
+http://www.usatoday.com/tech/news/2004-08-08-computer-science_x.htm
+
+STEALTH WALLPAPER PROTECTS WI-FI NETWORKS
+British firm BAE Systems has developed a type of wallpaper that
+prevents stealth users from connecting to a company's unprotected
+Wi-Fi network while still allowing cell phones and other desirable
+signals to pass through. Wi-Fi networks are a boon to companies that
+want to set up inexpensive wireless access within their buildings, but
+many such networks are installed without adequate security to prevent
+roaming hackers from easily connecting to networks and gaining access
+behind a company's firewall. BAE's wallpaper is made from a sheet of
+kapton plastic with copper on both sides in patterns of crosses. The
+particular placement of the copper crosses determines which frequencies
+are able to pass through and which are blocked. The company is working
+on a transparent version of the technology to be used on windows.
+New Scientist, 8 August 2004
+http://www.newscientist.com/news/news.jsp?id=ns99996240
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Avoided By Most Of The Major U.S. Media
+
+ODD GOVERNMENTAL REGULATIONS OF THE WEEK
+
+
+ALA WELCOMES DEPARTMENT OF JUSTICE DECISION TO RESCIND DESTRUCTION REQUEST
+
+WASHINGTON, DC - The American Library Association (ALA) today welcomed the
+Department of Justice's decision to rescind its request that the Government
+Printing Office Superintendent of Documents instruct depository libraries to
+destroy all copies of five Department of Justice publications addressing
+forfeiture.   The Justice Department claimed that the documents are
+"training materials and other materials that the Department of Justice staff
+did not feel were appropriate for external use." ALA disagreed with this
+categorization of the public documents, two of which are texts of federal
+statutes, and with the instruction to destroy them. ALA trusts that there
+will be no repetition of such unjustified instructions to destroy government
+information...as below:
+
+"The office's one-paragraph directive listed the five pamphlets, with
+titles such as "Civil and Criminal Forfeiture Procedure" and "Select
+Federal Assets Forfeiture Statutes," and instructed librarians to
+"withdraw these materials immediately and destroy all copies by any means
+to prevent disclosure of their content," according to a copy of the e-mail
+sent to the Boston Public Library and all other depository libraries.
+[Which would have limited access to this information to lawyers.
+Apparently they didn't want the public to know just what rights did and
+did not exist during federal forfeiture cases.]
+
+"Calls to the Government Printing Office seeking comment were not returned."
+
+http://www.boston.com/news/nation/articles/2004/07/24/libraries_ordered_to_d
+estroy_us_pamphlets/
+
+*
+
+On a more local note, our county just instituted a tax on cats,
+which requires registration, shots, etc., and limits household
+animals to three [some of this is word of mouth, and I'm not
+sure if it counts animals that live in cages, such as birds,
+gerbils, hamsters, etc.]
+
+*
+
+And with national ramifications:
+
+"The Republicans will have to go to a federal judge and get a
+declaratory judgment to get Bush on the ballot," said Kris Kray,
+the official legislative liaison for the Illinois election board,
+answering questions about the Republican policy of having their
+convention unusually late to allow for more fundraising time.
+When the Democrats announced they were also considering having
+their convention late the Republicans complained furiously,
+stating it was simply for political fundraising purposes.
+
+There were similar problems in several states.
+
+*
+
+Not quite on the level of odd govermental regulations,
+but the Washington Press Corps, in a city that is has
+twice as many blacks as whites, is perhaps the most
+segregated major institution in the country.  Hardly
+any black or Latino reporters get to interview candidates.
+
+District of Columbia statistics:
+
+Black: 343,312 (60.0%)
+White: 176,101 (30.8%)
+
+2000 Census population: 572,059
+
+[Prompted by several mentions of this outside our major
+media covering the U.S. national political conventions.]
+
+
+SIMPLE SOLUTION OF THE WEEK
+
+Convicted criminals must repay for the their own crimes, along with
+those of all the unconvicted criminals, thus making the convicted
+pay for the unconvicted and saving all government judicial expense,
+since they have to pay for court costs, as well.  Perhaps even make
+them pay for the salaries of the police.
+
+Thus crime will become a "zero sum game" for the criminals, as well
+as for everyone else.
+
+***
+
+ODD STATISTICS OF THE WEEK
+
+The current head of OPEC [the Organization of Petroleum EXPORTing
+Countries] is Indonesia, which is a net oil IMPORTing country now.
+
+*
+
+It costs $67 per day to keep a person in jail.
+
+The U.S. has the highest percentage of it's population in jail,
+or on parole or probation.
+
+The U.S. and nearly every one of the individual states, spend
+more money on prisons than on education, and the prison budget
+continues to increase while educations budgets fall behind.
+
+It costs only about 10% as much to keep them on an "RFID" leash
+working from a GPS that keeps track of where they are and warns
+if they enter "forbidden zones."
+
+*
+
+According to 60 Minutes, 80% of all counterfeit products are made
+in China, where perhap 15-20% of brand name products are knockoffs.
+[When I lived near China, you couldn't buy ANY products I know of
+that were not copies, and there was no effort to disguise copying.
+This also happens in other Third World countries, but not to the
+same extent, or so rapidly.  Around the Pacific Rim products are
+usually available as counterfeits within a week of release.  The
+prices are usually $1 for music [price hasn't changed in decades,
+it's just a nominal price] and sometimes under 10% of the face
+value of the real products.]
+
+*
+
+Another note on China:  Local residents say that when everyone
+was poor, nearly everyone was honest, but the addition of money
+has created an ethical situation of "Man eat man."
+[Warning:  After keeping notes on China's industrial revolution
+for quite some time, I found it odd to find several reports of
+this sort of negativity release at the same time.]
+
+*
+
+A note on statistics in general:  I have noticed, even in years
+without major elections, that a huge amount of the "information"
+we received from Dan Rather, Peter Jennings and Tom Brokaw is a
+direct quotation from press releases, much of which are provided
+by politicians to support their own positions.
+
+*
+
+One more note, I have spent a great deal of time studying how to
+see through this kind of statistical manipulation.
+
+***
+
+ODD QUOTATION OF THE WEEK
+
+Hummer vs. Hybrid debate
+[Relayed from the BBC]
+
+"The government credits you up to $100,000 in taxes for vehicles
+weighing over 6000 lbs?  Versus $1,500 for hybrids?"
+
+[BTW, many of these news stories come to us from overseas,
+as our local media mostly refuses to deal with them at all.]
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+About the Project Gutenberg Weekly Newsletter:
+Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+and
+
+About the Project Gutenberg Monthly Newsletter:
+Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+help@pglaf.org
+
+to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_08_11_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_08_11_part_1.txt</a>

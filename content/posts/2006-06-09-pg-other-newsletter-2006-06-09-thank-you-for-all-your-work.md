@@ -1,0 +1,76 @@
+---
+params:
+  id: 2347
+title: "PG Other Newsletter: Thank You For All Your Work (2006-06-09)"
+date: 2006-06-09T19:21:31+00:00
+author: Michael Cook
+layout: post
+url: /20060609/pg-other-newsletter-2006-06-09-thank-you-for-all-your-work/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Thu Jun  8 09:36:06 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Fri Jun  9 02:03:49 2006
+Subject: [gweekly] Thank You for all of your work (fwd)
+Message-ID: &lt;Pine.LNX.4.60.0606080934190.26117@pglaf.org&gt;
+
+
+As usual at this time of the year, I will be sending you some
+"Thank You Notes" from our Project Gutenberg readers.
+
+Here is one message, in it's entirety, that I hope you enjoy!
+
+
+Thanks!!!
+
+Give the world eBooks in 2006!!!
+
+Michael S. Hart
+Founder
+Project Gutenberg
+
+Blog at http://hart.pglaf.org
+
+
+---------- Forwarded message ----------
+Date: Sat, 03 Jun 2006 17:48:23 +0100
+From: Amy &lt;amy.e.pedersen@gmail.com&gt;
+To: hart@pobox.com
+Subject: Thank You for all of your work
+
+Dear Project Gutenberg,
+
+I don?t know if many people take the time to thank you, but I just wanted to
+express my gratitude for the services you provide. Thank you all for your work
+and dedication. Your work is profoundly appreciated. I am a Peace Corps
+Volunteer working deep in rural Namibia. I had always admired Project Gutenberg
+(even donating some time through Distributed Proofreaders) but I have only
+begun to realize how truly important it is since I have been here. When I was
+in America it was nice to have access to books whenever I felt like it, without
+having to go to the trouble of going to a library or bookshop, but here it is
+vital. Bookshops are rare in Namibia (the nearest one to my village is over 250
+kilometres away) and the books they sell are often very very expensive
+(especially considering my limited financial resources.) Also, the books they
+sell are often only in Afrikaans or German, neither of which I understand
+(Peace Corps taught me the tribal language in my village?KhoeKhoe?instead.)
+Libraries are even rarer and often badly under stocked. I am trying to build up
+a school library, but we are dependent on donations and it is much more
+important to get easy to read picture books to help the children with their
+English than to get classics for my own consumption. Project Gutenberg has
+become my library. I didn?t realize the importance of plain vanilla texts until
+I got here and realized how slow and expensive internet is. The zipped plain
+vanilla texts often take less than 5 or 10 minutes to download and provide
+hours of reading enjoyment. Thank you for being an equalizing force in
+literacy, allowing books to reach those who would otherwise have a hard time
+getting them. Your work is thoroughly appreciated. I have shared your site with
+other volunteers who also enjoy it. Thank you so much. I am immensely grateful.
+
+Sincerely,
+
+Amy Elizabeth Pedersen
+</pre>
+
+<a href="/nl_archives/2006/other_2006_06_09_thank_you_for_all_your_work.txt" target="_blank" rel="nofollow">other_2006_06_09_thank_you_for_all_your_work.txt</a>

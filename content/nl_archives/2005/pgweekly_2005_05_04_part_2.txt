@@ -1,0 +1,416 @@
+This apparently did not go out automatically, resending by hand.  mh
+
+The Project Gutenberg Weekly Newsletter 04 May 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 51 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 04 May 2005: 16159 (incl. 436 Aus.).
+
+Last week the Total Count was 16107, including 435 at PG of Australia.
+This week we added 52 new.
+
+RESERVED/PENDING count: 297
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  51 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Claverings, by Anthony Trollope                                      15766
+   [Link: http://www.gutenberg.org/1/5/7/6/15766 ]
+   [Files: 15766.txt; 15766-h.htm; ]
+
+Kaukonakija, by Jonas Lie                                                15765
+   [Subtitle: eli kuvauksia Ruijasta]
+   [Translator: Tekla Lampén]
+   [Note: Translated from the Norwegian (Den fremsynde eller billeder fra Nordland). An]
+   [English translation is already in PG (13922).]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/5/7/6/15765 ]
+   [Files: 15765-8.txt]
+
+Kullankaivajat ja indiaanit, by Mayne Reid                               15764
+   [Subtitle: Kertomus Pohjois-Meksikosta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/5/7/6/15764 ]
+   [Files: 15764-8.txt; 15764-h.htm]
+
+Count Hannibal, by Stanley J. Weyman                                     15763
+   [Subtitle: A Romance of the Court of France]
+   [Link: http://www.gutenberg.org/1/5/7/6/15763 ]
+   [Files: 15763.txt; 15763-h.htm]
+
+Side Lights, by James Runciman                                           15762
+   [Link: http://www.gutenberg.net/1/5/7/6/15762 ]
+   [Files: 15762.txt; 15762-8.txt; 15762-h.htm]
+
+Om utvandringen, dess betydelse och orsaker, by Knut Wicksell            15761
+   [Subtitle: Föredrag, hållet i Stockholm den 25 och den 28 November samt i Upsala den 3]
+   [December 1881]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/5/7/6/15761 ]
+   [Files: 15761-8.txt]
+
+The Forest of Swords, by Joseph A. Altsheler                             15760
+   [Subtitle: A Story of Paris and the Marne]
+   [Link: http://www.gutenberg.net/1/5/7/6/15760 ]
+   [Files: 15760.txt; 15760-8.txt; 15760-h.htm]
+
+Crowds, by Gerald Stanley Lee                                            15759
+   [Subtitle: A Moving-Picture of Democracy]
+   [Link: http://www.gutenberg.net/1/5/7/5/15759 ]
+   [Files: 15759.txt; 15759-8.txt; 15759-h.htm]
+
+"Same old Bill, eh Mable!", by Edward Streeter                           15758
+   [Illustrator: G. William Breck]
+   [Link: http://www.gutenberg.net/1/5/7/5/15758 ]
+   [Files: 15758.txt; 15758-h.htm]
+
+Consideraciones, by T. H. Pardo de Tavera                                15757
+   [Full title: Consideraciones Sobre el Origen del Nombre de los Numeros en Tagalog]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/5/7/5/15757 ]
+   [Files: 15757-8.txt; 15757-h.htm]
+
+Der Kalendermann vom Veitsberg, by O. Glaubrecht                         15756
+   [Subtitle: Eine Erzählung für das Volk]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/5/7/5/15756 ]
+   [Files: 15756-8.txt; 15756-h.htm]
+
+English Dialects From the Eighth Century, by Walter W. Skeat             15755
+   [Full title: English Dialects From the Eighth Century to the Present Day]
+   [Link: http://www.gutenberg.org/1/5/7/5/15755 ]
+   [Files: 15755.txt; 15755-8.txt; 15755-h.htm]
+
+Ihmekos tuo, by Matti Kurikka                                            15754
+   [Subtitle: Huvinäytelmä 1:ssä näytöksessä]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/5/7/5/15754 ]
+   [Files: 15754-8.txt]
+
+Svensk diktning II, by Various                                           15753
+   [Subtitle: Selections from Swedish Poets with Brief Monographies]
+   [Editor: Jules Mauritzson]
+   [Notes and Vocabulary by Ernst W. Olson]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/5/7/5/15753 ]
+   [Files: 15753-8.txt]
+
+Personal Reminiscences, by Stephen Field; George C. Gorham               15752
+   [Full title: Personal Reminiscences of Early Days in California with Other Sketches;]
+   [To Which Is Added the Story of His Attempted Assassination by a Former Associate on the]
+   [Supreme Bench of the State]
+   [Link: http://www.gutenberg.net/1/5/7/5/15752 ]
+   [Files: 15752.txt; 15752-8.txt]
+
+Selection of Books Published by Methuen, October 1910, by Methuen & Co.  15751
+   [Link: http://www.gutenberg.net/1/5/7/5/15751 ]
+   [Files: 15751.txt; 15751-8.txt]
+
+Pee-Wee Harris on the Trail, by Percy Keese Fitzhugh                     15750
+   [Illustrator: H. S. Barbour]
+   [Link: http://www.gutenberg.net/1/5/7/5/15750 ]
+   [Files: 15750.txt; 15750-h.htm]
+
+Interest of America in Sea Power, Present and Future, by A. T. Mahan     15749
+   [Link: http://www.gutenberg.net/1/5/7/4/15749 ]
+   [Files: 15749.txt; 15749-8.txt; 15749-h.htm]
+
+Kaerlighedens Komedie, by Henrik Ibsen                                   15748
+   [Language: Norwegian]
+   [Link: http://www.gutenberg.net/1/5/7/4/15748 ]
+   [Files: 15748-8.txt; 15748-h.htm]
+
+Reading Made Easy for Foreigners - Third Reader, by John L. Huelshof     15747
+   [Link: http://www.gutenberg.net/1/5/7/4/15747 ]
+   [Files: 15747.txt; 15747-8.txt]
+
+The Flamingo Feather, by Kirk Munroe                                     15746
+   [Link: http://www.gutenberg.net/1/5/7/4/15746 ]
+   [Files: 15746.txt; 15746-8.txt; 15746-h.htm]
+
+The Man-Wolf and Other Tales, by Emile Erckmann and Alexandre Chatrian   15745
+   [Link: http://www.gutenberg.net/1/5/7/4/15745 ]
+   [Files: 15745.txt; 15745-8.txt; 15745-h.htm]
+
+The Gay Lord Quex, by Arthur W. Pinero                                   15744
+   [Subtitle: A Comedy in Four Acts]
+   [Link: http://www.gutenberg.net/1/5/7/4/15744 ]
+   [Files: 15744.txt; 15744-8.txt; 15744-h.htm]
+
+Bunker Bean, by Harry Leon Wilson                                        15743
+   [Ill.: F. R. Gruger]
+   [Link: http://www.gutenberg.org/1/5/7/4/15743 ]
+   [Files: 15743.txt; 15743-8.txt; 15743-h.htm; ]
+
+Punch, or the London Charivari, Vol. 103, November 12, 1892, by Various  15742
+   [Editor: F. C. Burnand]
+   [Link: http://www.gutenberg.org/1/5/7/4/15742 ]
+   [Files: 15742.txt; 15742-8.txt; 15742-h.htm; ]
+
+The Little Colonel's House Party, by Annie Fellows Johnston              15741
+   [Ill.: Louis Meynell]
+   [Link: http://www.gutenberg.org/1/5/7/4/15741 ]
+   [Files: 15741.txt; 15741-8.txt; 15741-h.htm; ]
+
+The Great Round World, Vol. 1, No. 33, by Various                        15740
+   [Full title: The Great Round World and What Is Going On In It, Vol. 1,]
+   [No. 33, June 24, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/7/4/15740 ]
+   [Files: 15740.txt; 15740-8.txt; 15740-h.htm]
+
+Traité de la Vérité de la Religion Chrétienne, by Hugo Grotius           15739
+   [Translator: P le Jeune]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/5/7/3/15739 ]
+   [Files: 15739-0.txt; 15739-0.txt; 15739-h.htm]
+
+Married Life, by May Edginton                                            15738
+   [Author AKA: Helen Marion Edginton Bailey]
+   [Subtitle: The True Romance]
+   [Link: http://www.gutenberg.org/1/5/7/3/15738 ]
+   [Files: 15738.txt; 15738-8.txt; 15738-h.htm; ]
+
+The Torch and Other Tales, by Eden Phillpotts                            15737
+   [Contents: "Santa Claus"]]
+   [          The Returned Native]
+   [          John and Jane]
+   [          The Old Soldier]
+   [          When Fox Was Ferryman]
+   [          Mother's Misfortune]
+   [          Steadfast Samuel]
+   [          The Hound's Pool]
+   [          The Price of Milly Bassett]
+   [          The Amber Heart]
+   [          The Wise Woman of Walna]
+   [          The Torch]
+   [          "Spider"]
+   [          The Woodstock]
+   [          The Night-Hawk]
+   [Link: http://www.gutenberg.org/1/5/7/3/15737 ]
+   [Files: 15737.txt; 15737-h.htm; ]
+
+Der Mann von vierzig Jahren, by Jakob Wassermann                         15736
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/5/7/3/15736 ]
+   [Files: 15736-8.txt; 15736-0.txt; 15736-h.htm]
+
+History of the Negro Race, Vol 1, by George W. Williams                  15735
+   [Full title: History of the Negro Race in America From 1619 to 1880.]
+   [Vol 1]
+   [Subtitle: Negroes as Slaves, as Soldiers, and as Citizens]
+   [Link: http://www.gutenberg.org/1/5/7/3/15735 ]
+   [Files: 15735.txt; 15735-8.txt; 15735-h.htm]
+
+Aus Kroatien, by Arthur Achleitner                                       15734
+   [Subtitle: Skizzen und Erzahlungen]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/5/7/3/15734 ]
+   [Files: 15734-8.txt; 15734-0.txt]
+
+Grey Roses, by Henry Harland                                             15733
+   [Link: http://www.gutenberg.org/1/5/7/3/15733 ]
+   [Files: 15733.txt; 15733-8.txt; 15733-h.htm; ]
+
+Contes de bord, by Edouard Corbiere                                      15732
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/7/3/15732 ]
+   [Files: 15732-8.txt; 15732-h.htm]
+
+Allvarsord om allting och ingenting, by Waldemar Bulow                   15731
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/5/7/3/15731 ]
+   [Files: 15731-8.txt]
+
+A Short History of a Long Travel from Babylon to Bethel,by Stephen Crisp 15730
+   [Ill.: Flo-Ann Goerke]
+   [Link: http://www.gutenberg.org/1/5/7/3/15730 ]
+   [Files: 15730.txt; 15730-h.htm; ]
+
+History of the Jews in Russia and Poland. Volume II, by S.M. Dubnow      15729
+   [Subtitle: From the death of Alexander I. until the death of Alexander]
+   [III. (1825-1894)]
+   [Translator: I. Friedlaender]
+   [Link: http://www.gutenberg.org/1/5/7/2/15729 ]
+   [Files: 15729.txt; 15729-8.txt]
+
+The Indiscreet Letter, by Eleanor Hallowell Abbott                       15728
+   [Link: http://www.gutenberg.org/1/5/7/2/15728 ]
+   [Files: 15728.txt; 15728-h.htm; ]
+
+Gritli's Children, by Johanna Spyri                                      15727
+   [Tr.: Louise Brooks]
+   [Link: http://www.gutenberg.org/1/5/7/2/15727 ]
+   [Files: 15727.txt; 15727-8.txt; 15727-h.htm; ]
+
+The Camp Fire Girls on the Farm, by Jane L. Stewart                      15726
+   [Subtitle: Or, Bessie King's New Chum]
+   [Link: http://www.gutenberg.net/1/5/7/2/15726 ]
+   [Files: 15726.txt; 15726-h.htm]
+
+Dona Perfecta, by Benito Perez Galdos                                    15725
+   [Link: http://www.gutenberg.net/1/5/7/2/15725 ]
+   [Files: 15725.txt; 15725-8.txt; 15725-h.htm]
+
+Vi Bookar, Krokar och Rothar, by Hjalmar Bergman                         15724
+   [Subtitle: Ur en stadskrönika]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/5/7/2/15724 ]
+   [Files: 15724-8.txt]
+
+The Rover Boys on Treasure Isle, by Edward Stratemeyer                   15723
+   [Subtitle: The Strange Cruise of the Steam Yacht]
+   [Link: http://www.gutenberg.org/1/5/7/2/15723 ]
+   [Files: 15723.txt; ]
+
+The Tysons, by May Sinclair                                              15722
+   [Author AKA: Mary Amelia St. Clair Sinclair]
+   [Subtitle: (Mr. and Mrs. Nevill Tyson)]
+   [Link: http://www.gutenberg.org/1/5/7/2/15722 ]
+   [Files: 15722.txt; 15722-8.txt; 15722-h.htm; ]
+
+The Hawk of Egypt, by Joan Conquest                                      15721
+   [Link: http://www.gutenberg.net/1/5/7/2/15721 ]
+   [Files: 15721.txt; 15721-8.txt]
+
+Ruth Fielding in the Great Northwest, by Alice B. Emerson                15720
+   [Subtitle: Or, The Indian Girl Star of the Movies]
+   [Link: http://www.gutenberg.net/1/5/7/2/15720 ]
+   [Files: 15720.txt; 15720-8.txt; 15720-h.htm]
+
+What Philately Teaches, by John N. Luff                                  15713
+   [Subtitle: A Lecture Delivered before the Section on Philately of the]
+   [Brooklyn Institute of Arts and Sciences, February 24, 1899]
+   [Link: http://www.gutenberg.org/1/5/7/1/15713 ]
+   [Files: 15713.txt; 15713-8.txt; 15713-h.htm; ]
+
+Hugo, by Arnold Bennett                                                  15712
+   [Subtitle: A Fantasia on Modern Themes]
+   [Link: http://www.gutenberg.org/1/5/7/1/15712 ]
+   [Files: 15712.txt; 15712-8.txt; 15712-h.htm]
+
+Scientific American Supplement, No. 601, July 9, 1887, by Various        15678
+   [Link: http://www.gutenberg.org/1/5/6/7/15678 ]
+   [Files: 15678.txt; 15678-h.htm]
+
+The House that Jill Built, by E. C. Gardner                              15678
+   [Subtitle: after Jack's had proved a failure]
+   [Link: http://www.gutenberg.org/1/5/6/7/15678 ]
+   [Files: 15678.txt; 15678-8.txt; 15678-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2005 Morning Journey, by James Hilton                  [050040xx.xxx] 0435A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+
+~ ~ ~
+
+Get your facts first, and then you can distort them as much as you please.
+- Mark Twain
+
+=============================================================================

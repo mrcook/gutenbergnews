@@ -1,0 +1,47 @@
+---
+params:
+  id: 838
+title: "PG Monthly Newsletter 1989-12-10 – Machine Readable Texts Breakfast at ALA Midwinter"
+date: 1989-12-10T23:24:04+00:00
+author: Michael Cook
+layout: post
+url: /19891210/pg-monthly-newsletter-1989-12-10/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>Here is the announcement of Project Gutenberg first national
+public exposure, at the Chicago Mid-Winter ALA Meeting, 1990:
+
+Date:         Sun, 10 Dec 89 11:24:26 CST
+From:         "Michael S. Hart"
+Subject:      Machine Readable Texts Breakfast at ALA Midwinter
+
+The Project Gutenberg breakfast has been scheduled for 8:00
+to 10:00 A.M. on Saturday, January 6th at the Vie de France
+restaurant, located at the foot of the escalator descending
+from the East Tower Atrium Plaza; one may see the escalator
+directly from the Registration and Concierge's desks, which
+have both escalator and elevator service adjoining them.  A
+second escalator connects the desk to the lower level where
+a neon sign on a door to Catch a Rising Star is just to the
+right of the escalator to the Vie de France (the sign above
+this escalator reads "Grand Ballroom, Columbus Hall, Retail
+Shopping")  Should you require directions, the Concierge is
+Sarah and she or one of her staff will gladly assist.  This
+desk can be reached at (312) 565-1234:  ask for Concierge's
+Desk, please.  Assistance for anyone who requires elevators
+is immediately available.  The walk across the Atrium Plaza
+is a bit circuitous, but entertaining.  Please feel free to
+contact me if you require special dietary consideration.  I
+just returned from our preliminary visits to the sites, and
+to the ALA office and I am quite impressed and pleased.  We
+should all look forward to having a wonderful time.
+
+Michael S. Hart, Director, Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+
+P.S.  The food is light, wonderful, inexpensive (not free).</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1989_12_10.txt" target="new">pgmonthly_1989_12_10.txt</a>

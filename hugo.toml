@@ -1,0 +1,46 @@
+baseURL = 'https://www.gutenbergnews.org'
+languageCode = 'en-us'
+title = 'Gutenberg News'
+theme = 'gutenbergnews'
+copyright = 'Michael R. Cook'
+
+[params]
+  description = 'News on the latest ebook releases from Project Gutenberg and other information about digital publishing.'
+  keywords = 'gutenberg, news, blog, newsletters'
+  favicon = 'favicon.ico'
+  [params.contact]
+    email = 'info@gutenbergnews.org'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[pagination]
+  pagerSize = 4
+
+[taxonomies]
+  category = 'categories'
+  tags = 'tags'
+
+[permalinks]
+  categories = "/category/:slug/"
+
+[[menu.main]]
+name = 'About'
+url = '/about'
+weight = 1
+[[menu.main]]
+name = 'Donations'
+url = '/donations'
+weight = 2
+[[menu.main]]
+name = 'Contact'
+url = '/contact'
+weight = 3
+[[menu.main]]
+name = 'Archives'
+url = '/category/newsletters'
+weight = 4
+[[menu.main]]
+name = 'Volunteers'
+url = '/category/volunteers'
+weight = 5

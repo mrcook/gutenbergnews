@@ -1,0 +1,47 @@
+---
+params:
+  id: 2523
+title: PG Weekly Newsletter (2007-11-28)
+date: 2007-11-28T16:28:17+00:00
+author: Michael Cook
+layout: post
+url: /20071128/pg-weekly-newsletter-2007-11-28/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>pgweekly_2007_11_28.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, November 28, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+
+An unofficial count of the week's progress via the "GutVol"
+listserver's "posted" notes"
+
+       day       | cnt
+----------------+-----
+  Thu 2007-11-22 |  13
+  Fri 2007-11-23 |   7
+  Sat 2007-11-24 |  12
+  Sun 2007-11-25 |  10
+  Mon 2007-11-26 |  15
+  Tue 2007-11-27 |   6
+  Wed 2007-11-28 |  12
+
+
+This shows 75 eBooks for the week, but rarely agrees with what Michael Cook's
+more exhaustive research comes up with-- even NOT counting PG of Australian,
+Europe and Canada, so I would take this with a grain of salt and wait until
+the REAL editor of our Newsletter returns....
+</pre>
+
+<a href="/nl_archives/2007/pgweekly_2007_11_28.txt" target="_blank" rel="nofollow">pgweekly_2007_11_28.txt</a>

@@ -1,0 +1,405 @@
+From news at pglaf.org  Thu May  4 09:31:03 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu May  4 09:31:05 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0605040929410.9632@pglaf.org>
+
+GWeekly_May_03_part2.txt
+
+The Project Gutenberg Weekly Newsletter 03 May 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 44 New U.S. eBooks this week
+    - 2 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 03 May 2006: 18821 (incl. 566 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Dream, by Emile Zola                                                  9499
+   [Translator: Eliza E. Chase]
+   [Updated edition of: etext05/zdrem10.txt]
+   [Link: http://www.gutenberg.org/9/4/9/9499 ]
+   [Files: 9499.txt; 9499-h.htm]
+
+Cetywayo and his White Neighbours, by H. Rider Haggard                    8667
+   [Subtitle: Remarks on Recent Events in Zululand, Natal, and the Transvaal]
+   [Updated edition of: etext05/cetwy10.txt]
+   [Link: http://www.gutenberg.org/8/6/6/8667 ]
+   [Files: 8667.txt; 8667-h.htm]
+
+L'Assommoir, by Emile Zola                                                8600
+   [Updated edition of: etext05/lasmr10.txt]
+   [Link: http://www.gutenberg.org/8/6/0/8600 ]
+   [Files: 8600.txt; 8600-h.htm]
+
+Endymion, by Benjamin Disraeli                                            7926
+   [Updated edition of: etext05/ndymn10.txt]
+   [Link: http://www.gutenberg.org/7/9/2/7926 ]
+   [Files: 7926.txt; 7926-h.htm]
+
+The Oregon Trail, by Francis Parkman, Jr                                  1015
+   [Updated edition of: etext97/ortrl10.txt]
+   [Link: http://www.gutenberg.org/1/0/1/1015 ]
+   [Files: 1015.txt; 1015-h.htm]
+
+Life And Adventures Of Martin Chuzzlewit, by Charles Dickens               968
+   [Updated edition of: etext97/chuzz10.txt]
+   [Link: http://www.gutenberg.org/9/6/968 ]
+   [Files: 968.txt; 968-h.htm]
+
+The Life And Adventures Of Nicholas Nickleby, by Charles Dickens           967
+   [Updated edition of: etext97/ncklb10.txt]
+   [Link: http://www.gutenberg.org/9/6/967 ]
+   [Files: 967.txt; 967-h.htm]
+
+Barnaby Rudge, by Charles Dickens                                          917
+   [Updated edition of: etext97/rudge10.txt]
+   [Link: http://www.gutenberg.org/9/1/917 ]
+   [Files: 917.txt; 917-h.htm]
+
+Our Mutual Friend, by Charles Dickens                                      883
+   [Updated edition of: etext97/mfrnd10.txt]
+   [Link: http://www.gutenberg.org/8/8/883 ]
+   [Files: 883.txt; 883-h.htm]
+
+Lorna Doone, A Romance of Exmoor, by R. D. Blackmore                       840
+   [Updated edition of: etext97/lorna10.txt]
+   [Link: http://www.gutenberg.org/8/4/840 ]
+   [Files: 840.txt; 840-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  44 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+American Adventures, by Julian Street                                    18304
+   [Subtitle: A Second Trip 'Abroad at home']
+   [Illustrator: Wallace Morgan]
+   [Link: http://www.gutenberg.org/1/8/3/0/18304 ]
+   [Files: 18304.txt; 18304-8.txt; 18304-h.htm]
+
+Dityrambeja, by Aarni Kouta and Friedrich Nietzsche                      18303
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/3/0/18303 ]
+   [Files: 18303-8.txt; 18303-h.htm]
+
+L'argent des autres, by mile Gaboriau                                   18302
+   [Subtitle: II. La pche en eau trouble]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/3/0/18302 ]
+   [Files: 18302-8.txt; 18302-h.htm]
+
+Kootut teokset II: Runoelmia 1886-1906, by J. H. Erkko                   18301
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/3/0/18301 ]
+   [Files: 18301-8.txt]
+
+History of English Humour, Vol. 1 (of 2),by Alfred Guy Kingan L'Estrange 18300
+   [Subtitle: With an Introduction upon Ancient Humour]
+   [Link: http://www.gutenberg.org/1/8/3/0/18300 ]
+   [Files: 18300.txt; 18300-8.txt; 18300-h.htm; ]
+
+Haco's expedition against Scotland, by Sturla Thordarson                 18299
+   [Title: The Norwegian account of Haco's expedition against Scotland,
+    A.D. MCCLXIII]
+   [Translator: James Johnstone]
+   [Link: http://www.gutenberg.org/1/8/2/9/18299 ]
+   [Files: 18299.txt; 18299-8.txt; 18299-h.htm]
+
+Essays in Natural History and Agriculture, by Thomas Garnett             18298
+   [Link: http://www.gutenberg.org/1/8/2/9/18298 ]
+   [Files: 18298.txt]
+
+The Story of a Summer, by Cecilia Cleveland                              18297
+   [Subtitle: Or, Journal Leaves from Chappaqua]
+   [Link: http://www.gutenberg.org/1/8/2/9/18297 ]
+   [Files: 18297.txt; 18297-8.txt; 18297-h.htm]
+
+Scenes de mer, Tome II, by Edouard Corbiere                              18296
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/9/18296 ]
+   [Files: 18296-8.txt; 18296-h.htm]
+
+Memoires, Tome 7, by Francois Pierre Guillaume Guizot                    18295
+   [Title: Memoires pour servir a l'Histoire de mon temps (Tome 7)]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/9/18295 ]
+   [Files: 18295-8.txt]
+
+Memoires, Tome 5, by Francois Pierre Guillaume Guizot                    18294
+   [Title: Memoires pour servir a l'Histoire de mon temps (Tome 5)]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/9/18294 ]
+   [Files: 18294-8.txt]
+
+The Girl's Own Paper, Vol. VIII, No. 354, October 9, 1886, by Various    18293
+   [Editor: Charles Peters]
+   [Link: http://www.gutenberg.org/1/8/2/9/18293 ]
+   [Files: 18293.txt; 18293-8.txt; 18293-h.htm]
+
+S.O.S. Stand to!, by Reginald Grant                                      18292
+   [Link: http://www.gutenberg.org/1/8/2/9/18292 ]
+   [Files: 18292.txt; 18292-8.txt; 18292-h.htm]
+
+Hunger, Book One, by Knut Hamsun                                         18291
+   [Translator: Elhanan Segal]
+   [Language: Hebrew]
+   [Link: http://www.gutenberg.org/1/8/2/9/18291 ]
+   [Files: ; 18291-0.txt; 18291-h.htm]
+
+Great Indian Chief of the West, by Benjamin Drake                        18290
+   [Subtitle: Or, Life and Adventures of Black Hawk]
+   [Link: http://www.gutenberg.org/1/8/2/9/18290 ]
+   [Files: 18290.txt; 18290-8.txt; 18290-h.htm]
+
+Diario de un viage a la costa de la mar Magallanica, by P. Pedro Lozano  18289
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/8/2/8/18289 ]
+   [Files: 18289-8.txt; 18289-h.htm]
+
+Northern Nut Growers Association Annual Report 1915, by Various          18288
+   [Subtitle: Report of the Proceedings at the Sixth Annual Meeting 1915]
+   [Editor: Northern Nut Growers Association]
+   [Link: http://www.gutenberg.org/1/8/2/8/18288 ]
+   [Files: 18288.txt; 18288-8.txt; 18288-h.htm]
+
+Songs of the Springtides and Birthday Ode, by Algernon Charles Swinburne 18287
+   [Subtitle: Taken from The Collected Poetical Works of Algernon Charles
+    Swinburne--Vol. III]
+   [Link: http://www.gutenberg.org/1/8/2/8/18287 ]
+   [Files: 18287.txt; 18287-8.txt; 18287-h.htm]
+
+The Miller Of Old Church, by Ellen Glasgow                               18286
+   [Link: http://www.gutenberg.org/1/8/2/8/18286 ]
+   [Files: 18286.txt]
+
+Tales from the Hindu Dramatists, by R. N. Dutta                          18285
+   [Editor: J. S. Zemin]
+   [Link: http://www.gutenberg.org/1/8/2/8/18285 ]
+   [Files: 18285.txt; 18285-8.txt; 18285-h.htm]
+
+For Every Music Lover, by Aubertine Woodward Moore                       18284
+   [Subtitle: A Series of Practical Essays on Music]
+   [Link: http://www.gutenberg.org/1/8/2/8/18284 ]
+   [Files: 18284.txt; 18284-8.txt; 18284-h.htm]
+
+Life of Father Hecker, by Walter Elliott                                 18283
+   [Link: http://www.gutenberg.org/1/8/2/8/18283 ]
+   [Files: 18283.txt; 18283-8.txt]
+
+Buhay at Mga Ginawa ni Dr. Jose Rizal, by Pascual H. Poblete             18282
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/1/8/2/8/18282 ]
+   [Files: 18282-8.txt; 18282-h.htm]
+
+Account of the Proceedings on the Trial of Susan B. Anthony, Anonymous   18281
+   [Link: http://www.gutenberg.org/1/8/2/8/18281 ]
+   [Files: 18281.txt; 18281-8.txt; 18281-h.htm]
+
+Enter Bridget, by Thomas Cobb                                            18280
+   [Link: http://www.gutenberg.org/1/8/2/8/18280 ]
+   [Files: 18280.txt; 18280-8.txt]
+
+The Composition of Indian Geographical Names, by J. Hammond Trumbull     18279
+   [Subtitle: Illustrated from the Algonkin Languages]
+   [Link: http://www.gutenberg.org/1/8/2/7/18279 ]
+   [Files: 18279.txt; 18279-8.txt; 18279-h.htm]
+
+Blackwood's Edinburgh Magazine, No. 376, February 1847, Vol. 61          18278
+   [Link: http://www.gutenberg.org/1/8/2/7/18278 ]
+   [Files: 18278.txt; 18278-8.txt; 18278-h.htm]
+
+The Training of a Public Speaker, by Kleiser Grenville                   18277
+   [Link: http://www.gutenberg.org/1/8/2/7/18277 ]
+   [Files: 18277.txt; 18277-8.txt; 18277-h.htm]
+
+Froude's Essays in Literature and History, by James Froude               18276
+   [Introduction: Hilaire Belloc]
+   [Link: http://www.gutenberg.org/1/8/2/7/18276 ]
+   [Files: 18276.txt]
+
+The Rectory Children, by Mrs Molesworth                                  18275
+   [Illustrator: Walter Crane]
+   [Link: http://www.gutenberg.org/1/8/2/7/18275 ]
+   [Files: 18275.txt; 18275-8.txt; 18275-h.htm]
+
+A Book of Natural History, by Various                                    18274
+   [Subtitle: Young Folks' Library Volume XIV.]
+   [Editor: David Starr Jordan]
+   [Link: http://www.gutenberg.org/1/8/2/7/18274 ]
+   [Files: 18274.txt; 18274-8.txt; 18274-0.txt; 18274-h.htm]
+
+The Wild Tribes of Davao District, Mindanao, by Fay-Cooper Cole          18273
+   [Subtitle: The R. F. Cummings Philippine Expedition]
+   [Link: http://www.gutenberg.org/1/8/2/7/18273 ]
+   [Files: 18273.txt; 18273-h.htm; ]
+
+Valikoima runoelmia, by Karl August Tavaststjerna                        18272
+   [Translator: Valter Juva]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/2/7/18272 ]
+   [Files: 18272-8.txt]
+
+Georges, by Alexandre Dumas                                              18271
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/7/18271 ]
+   [Files: 18271-8.txt; 18271-h.htm]
+
+Confession and Absolution, by Thomas John Capel                          18270
+   [Link: http://www.gutenberg.org/1/8/2/7/18270 ]
+   [Files: 18270.txt; 18270-8.txt; 18270-h.htm]
+
+Pascal's Pensees, by Blaise Pascal                                       18269
+   [Link: http://www.gutenberg.org/1/8/2/6/18269 ]
+   [Files: 18269.txt; 18269-8.txt; 18269-0.txt; 18269-h.htm]
+
+Ballads of Lost Haven, by Bliss Carman                                   18268
+   [Subtitle: A Book of the Sea]
+   [Link: http://www.gutenberg.org/1/8/2/6/18268 ]
+   [Files: 18268.txt; 18268-8.txt; 18268-h.htm]
+
+We Philologists, Volume 8 (of 18), by Friedrich Nietzsche                18267
+   [Editor: Oscar Levy]
+   [Translator: J. M. Kennedy]
+   [Link: http://www.gutenberg.org/1/8/2/6/18267 ]
+   [Files: 18267.txt; 18267-8.txt; 18267-h.htm]
+
+Death--and After?, by Annie Besant                                       18266
+   [Link: http://www.gutenberg.org/1/8/2/6/18266 ]
+   [Files: 18266.txt; 18266-8.txt; 18266-h.htm]
+
+Scientific American Supplement, No. 1178, June 25, 1898, by Various      18265
+   [Link: http://www.gutenberg.org/1/8/2/6/18265 ]
+   [Files: 18265.txt; 18265-8.txt; 18265-h.htm]
+
+The Life of George Washington, Vol. 3 (of 5), by John Marshall           18264
+   [Subtitle: Commander in Chief of the American Forces During the War
+    which Established the Independence of his Country and First
+    President of the United States]
+   [Link: http://www.gutenberg.org/1/8/2/6/18264 ]
+   [Files: 18264.txt; 18264-8.txt; 18264-h.htm]
+
+La fille des indiens rouges, by Emile Chevalier                          18263
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/6/18263 ]
+   [Files: 18263-8.txt]
+
+Contes humoristiques - Tome I, by Alphonse Allais                        18262
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/6/18262 ]
+   [Files: 18262-8.txt; 18262-h.htm]
+
+Operation R.S.V.P., by Henry Beam Piper                                  18261
+   [Link: http://www.gutenberg.org/1/8/2/6/18261 ]
+   [Files: 18261.txt; 18261-h.htm]
+
+
+-=-=-=-=[ 2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+May 2006 The Discovery of Tasmania, by C T Burfitt         [060054xx.xxx] 0572A
+   [http://gutenberg.net.au/ebooks06/0600541.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0600541h.html ]
+   [Title: The Discovery of Tasmania (Van Diemen's Land.), New Zealand,
+    and Bass' Straits.]
+
+May 2006 Abel Janszoon Tasman: His Life and Voyages,Walker [060053xx.xxx] 0571A
+   [http://gutenberg.net.au/ebooks06/0600531h.html ]
+   [Author: James Backhouse walker]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

@@ -1,0 +1,418 @@
+---
+params:
+  id: 1819
+title: "PG Monthly Newsletter: Part 2 (2001-04-04)"
+date: 2001-04-04T17:02:41+00:00
+author: Michael Cook
+layout: post
+url: /20010404/pg-monthly-newsletter-2001-04-04-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: Part 2 of April Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg mailing list" &lt;gutnberg@listserv.unc.edu&gt;
+Date: Wed, 4 Apr 2001 12:09:18 -0500 (CDT)
+
+
+Part Two:  The Project Gutenberg Newsletter:  Wednesday, April 4, 2001
+
+Here are the listings for 69 more Etexts past #3333
+
+A truly remarkable effort by the Project Gutenberg volunteers!!!
+
+
+Part One included new listings of:
+
+30 Etexts for Jun, 2002. . .in addition to the 20 listed last month.
+32 Etexts for Jul, 2002. . .Darwin [#3332]is still reserved. . . .
+ 2 Etexts for Sep, 2001. . .completing the set of 4 reserved before.
+ 2 Etexts for Feb, 2002. . .one replaces a faulty earlier listing.
+-----------------------
+68 Etexts for Part One of today's Newsletter in total
+
+and Part Two lists:
+69 Etexts for Part Two of today's Newsletter in total
+-----------------------
+137 Total New Project Gutenberg Etexts Announced Today!!!
+
+
+!!!No words of congratulations can express my gratitude to our volunteers!!!
+
+So, without further ado:
+
+Here are the new listings:
+
+
+Mon Year    Title              Author        # by Author   [filename.ext]####
+[A "C" following the Etext #### indicated that one is still under copyright.]
+
+Sep 2002 1001 Nights[Arabian Nights], V2, by Richard Burton[21001xxx.xxx]3436
+Sep 2002 1001 Nights[Arabian Nights], V1, by Richard Burton[11001xxx.xxx]3435
+[These are in 7 and 8 bit unaccented and accented versions]
+[Filenames are x1001xx7.txt and .zip and x1001xx8.txt and .zip]
+[X will be 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f and g]
+[Full Title:  The Book of The Thousand Nights And A Night, Volumes 1 - 16]
+[Also listed under: The Arabian Nights A Thousand and One Nights. . .
+and. . .A Thousand and One Arabian Nights]
+
+Sep 2002 Ragged Lady, by William Dean Howells Vol 2 [WH#52][wh2rlxxx.xxx]3406
+5
+Sep 2002 Ragged Lady, by William Dean Howells Vol 1 [WH#51][wh1rlxxx.xxx]3405
+Sep 2002 April Hopes, by William Dean Howells ????? [WH#50][whahpxxx.xxx]3404
+Sep 2002 The Register, by William Dean Howells      [WH#49][whregxxx.xxx]3403
+Sep 2002 The Parlor Car, by William Dean Howells    [WH#48][whplrxxx.xxx]3402
+Sep 2002 The Elevator, by William Dean Howells      [WH#47][whelvxxx.xxx]3401
+
+
+Here are the 50 Project Gutenberg Etexts for August, 2002
+
+50
+Aug 2002 Entire PG Edition of William Dean Howells  [WH#47][whewkxxx.xxx]3400
+[This file contains all those we have done, and will do, will be updated....]
+Aug 2002 Of Literature--Entire, by W. D. Howells    [WH#46][whlfrxxx.xxx]3399
+This file contains:
+Literary Friends And Acquaintance
+Literature And Life [Studies]
+My Literary Passions/Criticism & Fiction
+Aug 2002 First Visit to New England, by W. Howells  [WH#45][whvnexxx.xxx]3398
+Aug 2002 Roundabout to Boston, by W. D. Howells     [WH#44][whrtbxxx.xxx]3397
+Aug 2002 Literary Boston, by William Dean Howells   [WH#43][whbosxxx.xxx]3396
+45
+Aug 2002 Oliver Wendell Holmes, by W. D. Howells    [WH#42][whowhxxx.xxx]3395
+Aug 2002 The White Mr. Longfellow, by W. Howells    [WH#41][whlngxxx.xxx]3394
+Aug 2002 Studies of Lowell, by William Dean Howells [WH#40][whlowxxx.xxx]3393
+Aug 2002 Cambridge Neighbors, by W. D. Howells      [WH#39][whcbnxxx.xxx]3392
+Aug 2002 A Belated Guest, by Willam Dean Howells    [WH#38][whabgxxx.xxx]3391
+40
+Aug 2002 My Mark Twain, by Willam Dean Howells      [WH#37][whmmtxxx.xxx]3390
+Aug 2002 Literature and Life, by W. D. Howells      [WH#36][whlalxxx.xxx]3389
+[This has been subdivided below for easier access]
+Aug 2002 Man of Letters in Business, by W. Howells  [WH#35][whmlbxxx.xxx]3388
+Aug 2002 Confessions of Summer Colonist, by Howells [WH#34][whcscxxx.xxx]3387
+Aug 2002 The Young Contributor, by W. D. Howells    [WH#33][whtycxxx.xxx]3386
+35
+Aug 2002 Last Days in a Dutch Hotel, by W. Howells  [WH#32][whldhxxx.xxx]3385
+Aug 2002 Anomalies of the Short Story, by Howells   [WH#31][whassxxx.xxx]3384
+Aug 2002 Spanish Prisoners of War, by W. Howells    [WH#30][whspwxxx.xxx]3383
+Aug 2002 American Literary Centers, by W. Howells   [WH#29][whalcxxx.xxx]3382
+Aug 2002 Standard Household Effect Co., by Howells  [WH#28][whshexxx.xxx]3381
+30
+Aug 2002 Notes of a Vanished Summer, by W. Howells  [WH#27][whvanxxx.xxx]3380
+Aug 2002 Short Stories and Essays, by W. Howells    [WH#26][whssexxx.xxx]3379
+Aug 2002 My Literary Passions, by W. D. Howells     [WH#25][whmlpxxx.xxx]3378
+Aug 2002 Criticism and Fiction, by W. D. Howells    [WH#24][whcafxxx.xxx]3377
+Aug 2002 The Landlord at Lions Head V2, by Howells  [WH#23][wh2lhxxx.xxx]3376
+25
+Aug 2002 The Landlord at Lions Head V1, by Howells  [WH#22][wh1lhxxx.xxx]3375
+Aug 2002 The Entire March Family Trilogy, by Howells[WH#21][whemfxxx.xxx]3374
+[Includes all volumes of "Wedding Journeys," and "A Hazard of New Fortunes"]
+Aug 2002 Silver Wedding Journey V3, by W. D. Howells[WH#20][wh3swxxx.xxx]3373
+Aug 2002 Silver Wedding Journey V2, by W. D. Howells[WH#19][wh2swxxx.xxx]3372
+Aug 2002 Silver Wedding Journey V1, by W. D. Howells[WH#18][wh1swxxx.xxx]3371
+20
+Aug 2002 A Hazard of New Fortunes V5, by W. Howells [WH#17][wh5nfxxx.xxx]3370
+Aug 2002 A Hazard of New Fortunes V4, by W. Howells [WH#16][wh4nfxxx.xxx]3369
+Aug 2002 A Hazard of New Fortunes V3, by W. Howells [WH#15][wh3nfxxx.xxx]3368
+Aug 2002 A Hazard of New Fortunes V2, by W. Howells [WH#14][wh2nfxxx.xxx]3367
+Aug 2002 A Hazard of New Fortunes V1, by W. Howells [WH#13][wh1nfxxx.xxx]3366
+15
+Aug 2002 Their Wedding Journey, by W. D. Howells    [WH#12][whtwjxxx.xxx]3365
+Aug 2002 Dr. Breen's Practice, by W. D. Howells     [WH#11][whdbpxxx.xxx]3364
+Aug 2002 Fennel and Rue, by William Dean Howells    [WH#10][whfarxxx.xxx]3363
+Aug 2002 The Kentons, by William Dean Howells       [WH#09][whkenxxx.xxx]3362
+Aug 2002 The Entire PG Edition of Chesterfield      [LC#11][lcewkxxx.xxx]3361
+10
+Aug 2002 Letters to His Son 1766-71, by Chesterfield[LC#10][lc10sxxx.xxx]3360
+Aug 2002 Letters to His Son 1759-65, by Chesterfield[LC#09][lc09sxxx.xxx]3359
+Aug 2002 Letters to His Son 1756-58, by Chesterfield[LC#08][lc08sxxx.xxx]3358
+Aug 2002 Letters to His Son 1753-54, by Chesterfield[LC#07][lc07sxxx.xxx]3357
+Aug 2002 Letters to His Son 1752, by Chesterfield   [LC#06][lc06sxxx.xxx]3356
+5
+Aug 2002 Letters to His Son 1751, by Chesterfield   [LC#05][lc05sxxx.xxx]3355
+Aug 2002 Letters to His Son 1750, by Chesterfield   [LC#04][lc04sxxx.xxx]3354
+Aug 2002 Letters to His Son 1749, by Chesterfield   [LC#03][lc03sxxx.xxx]3353
+Aug 2002 Letters to His Son 1748, by Chesterfield   [LC#02][lc02sxxx.xxx]3352
+Aug 2002 Letters to His Son 1746-47, by Chesterfield[LC#01][lc01sxxx.xxx]3351
+[Full Name:  The Earl of Chesterfield]
+
+Here are 12 more of the Project Gutenberg Etexts for July, 2002
+
+
+50
+Jul 2002 The Complete Wandering Jew, by Eugene Sue  [ES#12][es12vxxx.xxx]3350
+Jul 2002 The Wandering Jew, Vol. 11, by Eugene Sue  [ES#11][es11vxxx.xxx]3349
+Jul 2002 The Wandering Jew, Vol. 10, by Eugene Sue  [ES#10][es10vxxx.xxx]3348
+Jul 2002 The Wandering Jew, Vol.  9, by Eugene Sue  [ES#09][es09vxxx.xxx]3347
+Jul 2002 The Wandering Jew, Vol.  8, by Eugene Sue  [ES#08][es08vxxx.xxx]3346
+45
+Jul 2002 The Wandering Jew, Vol.  7, by Eugene Sue  [ES#07][es07vxxx.xxx]3345
+Jul 2002 The Wandering Jew, Vol.  6, by Eugene Sue  [ES#06][es06vxxx.xxx]3344
+Jul 2002 The Wandering Jew, Vol.  5, by Eugene Sue  [ES#05][es05vxxx.xxx]3343
+Jul 2002 The Wandering Jew, Vol.  4, by Eugene Sue  [ES#04][es04vxxx.xxx]3342
+Jul 2002 The Wandering Jew, Vol.  3, by Eugene Sue  [ES#03][es03vxxx.xxx]3341
+40
+Jul 2002 The Wandering Jew, Vol.  2, by Eugene Sue  [ES#02][es02vxxx.xxx]3340
+Jul 2002 The Wandering Jew, Vol.  1, by Eugene Sue  [ES#01][es01vxxx.xxx]3339
+
+
+***
+
+Notes from News Scan and Edupage
+
+
+SHORT MESSAGING MAKES A DENT IN E-MAIL USE
+E-mail use has fallen by 5% this year in the U.K., due to the popularity of
+short text messaging via mobile phones. According to a report for Barclays
+bank, the drop was even more dramatic -- 10% -- among 18- to 24-year-olds.
+"Young people aren't giving up on the Internet," says Barclays e-commerce
+chief Simon Newman. "They take what they want out of it and move on to
+other high-tech media for convenience and leisure." (Ananova 30 Mar 2001)
+http://www.ananova.com/news/story/sm_259919.html
+
+REALNETWORKS IN TALKS WITH 3 MAJOR RECORD LABELS
+RealNetworks is negotiating license rights with three major record
+companies -- Warner Music Group, BMG Entertainment and EMI Group -- to use
+their music in its planned subscription service, tentatively called
+MusicNet. As part of the deal, RealNetworks is offering the companies the
+option of an ownership interest in MusicNet. Other possibilities include
+making MusicNet available to other online services, and giving Napster an
+opportunity to license the service. If RealNetworks can sign a deal with
+Warner, BMG and EMI, the resulting service would present a strong challenge
+to the Duet subscription music service now being developed by Sony and
+Universal Music Group. (Wall Street Journal 30 Mar 2001)
+http://interactive.wsj.com/articles/SB985905203900372337.htm (sub req'd)
+
+
+ONLINE SPENDING ON THE UPSWING
+U.S. consumers spent $3.4 billion online in February -- up 13.3% from the
+$3 billion spent in January -- according to numbers released by the
+National Research Federation and Forrester Research. "In light of the
+economic slowdown, we are pleased to see that the Internet continues to
+thrive as a consumer shopping channel," says a Forrester research director.
+In addition to the overall spending increase, the number of households
+shopping online grew from 13.3 million in January to 13.5 million in
+February, and per person spending increased from $228 to $308 over the same
+time period. Top items purchased over the Net were appliances, jewelry and
+flowers (credit Valentine's Day), furniture, consumer electronics and
+travel-related purchases. (E-Commerce Times 29 Mar 2001)
+http://www.ecommercetimes.com/perl/story/8550.html
+
+
+SPECIAL CHARGE FOR CONSOLIDATED PHONE BILLS
+AT&T, MCI and Sprint are now charging an extra $1.50 a month to customers
+who want to have their local and long-distance phone bills appears on a
+single statement. A Sprint spokesman explained the charge by saying that it
+is an attempt to recoup the expenses resulting from increased fees assessed
+by local phone companies: "Historically we were willing to absorb those
+costs, but when they raise prices by 30% ... we have no option but to pass
+those costs through to the consumer." Noting that the new charge was easy
+to overlook because the companies included it among routine monthly
+charges, Gene Kimmelman of the Consumer Union said: "How can this be a
+responsible business practice to blindside consumers by adding new fees
+without even notifying them?" (Washington Post 29 Mar 2001)
+http://washingtonpost.com/wp-dyn/articles/A8796-2001Mar28.html
+
+
+FREELANCE WRITERS VS. PUBLISHERS
+The U.S. Supreme Court heard oral arguments yesterday in a case that will
+decide what rights freelance writers have when their work is incorporated
+into electronic databases. Representing the publishers, Laurence H. Tribe
+insisted that an article is not made into something new just by being
+incorporated into a database, it is a mere "revision" of the original
+article that the publisher has already paid for and shouldn't have to pay
+for again. Representing the freelance writers, Laurence Gold argued that
+when publishers put articles into the "undifferentiated mass" of an
+electronic database they "are creating a quite different work." (New York
+Times 29 Mar 2001)
+http://partners.nytimes.com/2001/03/29/technology/29WRIT.html
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+ICANN WARNS AGAINST NEW DOMAIN PREREGISTRATIONS
+Preregistration offers for ICANN's yet-to-be introduced top-level
+domains continue to generate controversy. Because the deals
+between ICANN and the registries that will control the new TLDs
+have not been finalized, it is impossible for companies to
+guarantee domain name preregistrations, according to ICANN
+spokesman Brett LaGrande. Finalizing the new TLDs will likely
+take until the fall, and this includes .biz, .aero, .pro, and
+.info, said LaGrande. However, a number of registrars are
+offering preregistration services. OnlineNIC, which has ICANN
+accreditation, provides new TLD preregistration services.
+Although ICANN has warned users about preregistration, it has
+not prohibited registrars from offering preregistration services,
+said OnlineNIC marketing director Marvin McCarthy. OnlineNIC has
+to offer preregistration in order to stay competitive, as other
+registrars are also offering advance registrations, said
+McCarthy. On its Web site, OnlineNIC warns potential customers
+that there are no guarantees that preregistered domain names
+will be obtained.
+(Computerworld Online, 28 March 2001)
+
+
+PLAYING THE DOMAIN GAME: SENATOR QUESTIONS ICANN'S LEGALITY
+Sen. Conrad Burns (R-Mont.) questions ICANN's authority. "I urge
+you to refrain from taking any major steps to further empower or
+delegate authority to ICANN," wrote Burns to the Department of
+Commerce. The Internet became a stable environment under the
+Department of Commerce's tenure, but current policymaking processes
+could hurt that stability, said Burns. An assessment to determine
+whether ICANN's actions have been legal based on federal
+statutes, including the U.S. Constitution's non-delegation
+doctrine and the Administrative Procedures Act (APA) should
+complement the General Accounting Office's July report on ICANN's
+legality, according to Burns. Although there are those who
+believe that Burns' letters will destroy ICANN, it is more likely
+that Burns' writings will assist in clarifying the legal issues
+pertaining to ICANN's existence. It is unknown whether Burns'
+actions will postpone the Commerce Department's approval of
+ICANN's new TLD agreements. More hearings will be held to examine
+ICANN and its mandates, said Burns.
+(Internet World Online, 28 March 2001)
+
+
+MEMORY MAY NEVER BE CHEAPER
+Computer memory is now at its lowest price ever, partly due to
+excess inventory and partly because of the advent of double data
+rate (DDR) technology. Last October, $66 bought 64 MB of SDRAM,
+but today the same amount can purchase 256 MB. Because low
+consumer demand has slowed the production of PCs, memory chips
+are stockpiling and selling at bargain prices. At the same time,
+SDRAM, the most common type of memory used in desktop computers,
+is about to be superceded by new DDR-equipped modules that will
+move memory twice as fast. DDR is available now but has yet to
+gain stability in the market. As production facilities switch
+over, SDRAM will become scarcer and hence go up in price.
+(Washington Post, 30 March 2001)
+
+
+ELECTRONIC PAPER TURNS THE PAGE
+Researchers suggest that electronic paper may be the most
+important step in fundamentally changing the way people read. In
+its most ideal form, electronic paper would let readers enjoy the
+benefits of paper books--turning to and marking an important
+passage, for example--but would also let readers enjoy the
+advantages of the digital age--the ability to link to other texts
+or download updates of older texts. Such paper would also be
+easier to read than the display screens of today's PDAs and
+e-book readers and would be less expensive than the flat-screen
+displays used in most laptops. The widely acknowledged leader in
+the fledgling electronic-paper industry, E Ink, two years ago
+produced a prototype of electronic paper. While work on electronic
+paper continues, scientists already wonder what the technology's
+implications will be, speculating that libraries as people now
+understand them will cease to exist.
+(Technology Review, March 2001)
+
+
+SEARCH ENGINES FAIL TO KEEP UP WITH GROWING WEB
+Experts say search engines are having a difficult time keeping up
+with the amount of content on the Internet as well as the rapidly
+changing technology used to make that content available. There
+may be as many as 550 billion Web pages, experts estimate, but
+the most comprehensive search engines can process only a fraction
+of them. While it is still relatively easy to find content on a
+popular subject, experts say the vast catalog of business,
+scientific, and legal content falls under the radar of search
+engines. Experts call this buried content the "deep" or
+"invisible" Web. The problem is not simply that search engines
+cannot keep up with the amount of content added to the Web each
+day. Many sites actively work to keep search-engine software from
+accessing some or all of their content in order to protect their
+proprietary interests. Experts add that the growing amount of
+multimedia content available online is also problematic for
+search engines, which are largely geared toward text.
+(Reuters, 26 March 2001)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+Mac users can download our .txt files in binary mode
+to avoid the double spacing cr/lf line ends creates.
+Or download the .zip files, which unzip properly for
+nearly any operating system they are unzipped for...
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+***
+
+Subject: Get Project Gutenberg on the Oprah Winfrey Show, etc.
+
+http://www.oprah.com/email/reach/email_reach_suggest.html
+
+This is the url for show suggestions. There is a form that can be filled
+online that requires only the mail and email address, phone number and age.
+
+and
+
+http://www.studiosusa.com/sally/dearsally.html for the Sally Jessy
+Raphael show suggestions.
+
+For Rosie O'Donnell there's a phone number to make requests:
+1-212-506-3288
+
+Please note, our entries for THIS Newsletter have mostly been indexed!
+Thanks to Alev Akman.
+
+
+
+"David J. Cole" &lt;david_j_cole@yahoo.com&gt; has a scanner and would like
+to scan books for Project Gutenberg volunteers.  If you want to ship
+him books, that would be fine. . .he is in Massachusetts. . . .
+
+
+
+
+hart@pobox.com is usually the best address to email me at, rather than
+just hitting the "reply" key. . .the reason is that right now I divide
+my day between hart@prairienet.org for doing most of my email, and for
+posting the books I tend to use hart@beryl.ils.unc.edu and then send a
+few emails from there while I am directly working on the Etexts. . .it
+is ok to send to BOTH hart@pobox.com these other addresses, I will get
+two copies.
+
+and
+
+We have copyright clearances for a few people who didn't include their
+email addresses with their title page xeroxes. . . .
+
+This month these include, but are not limited for:
+
+Benedict Arnold
+
+Please include your email address when you send us snailmail. . .!
+
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgmonthly_2001_04_04_part_2.txt" target="_blank" rel="nofollow">pgmonthly_2001_04_04_part_2.txt</a>

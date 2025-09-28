@@ -1,0 +1,1027 @@
+---
+params:
+  id: 2247
+title: "PG Weekly Newsletter: Part 1 (2005-04-13)"
+date: 2005-04-13T22:05:00+00:00
+author: Michael Cook
+layout: post
+url: /20050413/pg-weekly-newsletter-2005-04-13-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, April 13, 2005  PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971******
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+Please note that PT2 of this Newsletter is currently in flux, as we shift
+from to an automated PT2 sender.  The situation with Monthly Newsletters
+is in flux to an even greater degree.  Our apologies as me make changes.
+
+*
+
+HOT REQUESTS
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+and eBooks are already available on it in several more formats.
+
+
+Darwin!!!
+
+Would anyone like to work on reproofing our Darwin collection
+and creating a compilation file as requested by our readers.
+
+*
+
+Project Gutenberg of Canada needs your help!
+
+Please email:
+
+pgcanada@lists.pglaf.org
+
+To subscribe to the pgcanada list, please visit:
+http://lists.pglaf.org/listinfo.cgi/pgcanada
+
+*
+
+v0.2 version of PodReader is out, and it interfaces to PG.  This allows
+users to browse the catalog on their Desktop, pick a book, and have it
+downloaded to their iPod in the correct format...this is a good plus for
+PG users since it makes it a lot easier to get to PG documents.
+
+http://homepage.mac.com/ptwobrussell/podreader.html
+
+*
+
+We have been invited to peruse the various eBook collections
+of the Internet Archive for potential Project Gutenberg eBooks.
+
+http://www.archive.org
+
+Don't worry, many of the numbers listed are out of date,
+but you should get all the files when you pass through
+to the original sites.
+
+Click on "texts" to get started, feel free to pick up any
+of the eBooks you would like to work on.
+
+Many Thanks To Brewster Kahle and the Internet Archive!
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    2 New From PG Australia [Australian, Canadian Copyright Etc.]
+   28 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones
+
+                     15,997 eBooks As Of Today!!!
+
+               12,760 New eBooks Since The Start Of 2001
+
+                  We Have Produced 1041 eBooks in 2005
+
+              We Are ~60% of the Way from 10,000 to 20,000
+
+              We are ~20% of the Way from 15,000 to 20,000
+
+                         4,003 to go to 20,000!!!
+
+
+     We have now averaged ~474 eBooks per year since July 4th, 1971
+
+           We Averaged About 339 eBooks Per Month In 2004
+
+        We Are Averaging About 321 books Per Month This Year
+
+         We Are Averaging About 74 eBooks Per Week This Year
+
+                              50 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~1.25 years from Oct. 2003 to Jan. 2005 from 10,000 to 15,000
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+***
+
+
+***Continuing Requests New Sites and Announcements
+
+
+REQUEST FOR RUSSIAN TRANSLATOR
+
+We are trying to start up a Project Gutenberg Russian Team,
+and we need someone to translate simple email messages from
+members of Project Gutenberg who want to provide a service
+to the Russian Team, but who do not know Russian. . .these
+people will be helping with scanning, finding books, etc.
+The messages will be in MS Word's .doc format in Cyrillic,
+we need them translated into English, also in a .doc file.
+Thanks!!!     Contact Jared Buck  &lt;JBuck814366460@aol.com&gt;
+
+*
+
+Please visit and test our newest site:
+
+www.pgcc.net
+[also available as  www.gutenberg.us and www.gutenberg.cc]
+
+
+The Project Gutenberg Consortia Center [PGCC]
+
+Please let us know of any eBook collections that
+would be suitable for inclusion:  public domain
+or copyrighted, for which we must ask permission.
+[or listed as copyrighted with permission]
+
+You should see some significant changes this week.
+
+
+*
+
+There is a new experimental online reader available. Start from any
+bibliographic record page, e.g.
+
+    http://www.gutenberg.org/etext/4300
+
+
+Basically this paginates the .txt file and remembers your last position
+in a cookie so you can later resume reading where you left off.
+
+Please test it. It should work with any book that has a text file
+where the encoding is known.
+
+*
+
+MACHINE TRANSLATION
+
+We are seeking as much information as possible on the various
+approaches to Machine Translation. Any brand names or contact
+information would be greatly appreciated.
+
+***
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://www.gutenberg.org/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD and DVD there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+***
+
+Please checkout the various Project Gutenberg FAQs, etc. at:
+
+http://www.gutenberg.org/about
+
+
+*
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://www.gutenberg.org/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+
+So far we have sent out 15 million eBooks via snailmail!!!
+
+We currently have access to a dozen DVD burners.  If you have a DVD burner
+and are interested in lending a hand, please email Aaron Cannon
+
+&lt;cannona@fireantproductions.com&gt;
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them directly
+to readers whose addresses we can send you, or you can
+do a stack of these and send the whole box back for reshipping.
+We can also reimburse you for supplies and postage if you wish.
+
+Please note that we can only use DVDs which are burnt in the dvd-r format,
+as we have had some compatibility issues with the dvd+r format.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.
+We have regular need for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+     In the first 03.25 months of this year, we produced 1041 new eBooks.
+
+It took us from July 1971 to May 1997 to produce our first 1041 eBooks!
+
+               That's 14 WEEKS as Compared to ~25 Years!
+
+                  60   New eBooks This Week
+                  50   New eBooks Last Week
+                  60   New eBooks This Month [Apr]
+
+                 321   Average Per Month in 2005
+                 336   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                1041   New eBooks in 2005
+                4049   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               12935   New eBooks Since Start Of 2001
+                         That's Only 51.25 Months!
+                         About 250 books per month
+
+              15,997  Total Project Gutenberg eBooks
+              12,326   eBooks This Week Last Year
+                ====
+               3,671   New eBooks In Last 12 Months
+
+                 429   eBooks From Project Gutenberg of Australia
+
+*
+
+PROJECT GUTENBERG DISTRIBUTED PROOFREADERS UPDATE:
+
+Since starting production in October 2000,
+Distributed Proofreaders has contributed
+6,627 eBooks to Project Gutenberg.
+
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+*
+
+Check out our website at www.gutenberg.org, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+
+http://www.gutenberg.org/howto/subscribe-howto
+or
+http://www.gutenberg.org/subs.shtml
+
+***
+
+*Project Gutenberg Consortia Center Report
+
+Please note the addition of the Internet Archive
+marked with &lt;&lt;&lt; below.
+
+PGCC's current eBook and eDocument Collections listings
+of 18 collections. . .with this week's listing as:
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Internet Archive                  ~30,000 eBook Files [In Progress]  &lt;&lt;&lt;
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,           ~34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      15,035 eBook Files
+PGCC Chinese eBook Collection       ~300 eBook files   &lt;&lt;&lt; Note Name Change
+Renaisscance Editions Collection,     561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files=========~137,142 Total Files=====
+
+Average Size of the Collections     8,067.18 Total Files
+
+
+These eBooks are catalogued as per the instructions of
+their donors:  some are one file per book; some have a
+file for each chapter; and some even have a file for a
+single page or poem. . .or are overcounted for reasons
+I have not mentioned. . .each of which could cause the
+overcounting or duplication of numbers.
+
+If we presume 2 out of 3 of these files are overcounts,
+that leaves a unique book total of
+                                   ~45,714 Unique eBooks
+
+If we presume 3 out of 4 of these files are overcounts,
+that leaves a unique book total of
+                                   ~34,286 Unique eBooks
+
+***
+
+Please also note that over 23,000 eBooks are listed via
+The Online Books Page, of which over 5,300 are from PG.
+http://onlinebooks.library.upenn.edu/
+
+In addition:  The Internet Public Library had a similar
+listing which is now in limbo.  If anyone knows what is
+happening with the IPL, please let us know.  Inquiries,
+made months ago, and again recently, have not turned up
+any current information.
+
+You can try a new IPL service at:
+
+http://www.ipl.org/div/subject/browse/hum60.60.00/
+
+It would appear that The Internet Public Library ended
+its first incarnation with about 22,284 entries, which
+has now been surpassed by the Online Books Page.
+
+Still looking for more Internet Public Library info.
+
+***
+
+Today Is Day #98 of 2005
+This Completes Week #14 and Month #03.00  [364 days this year]
+   266 Days/40 Weeks To Go  [We get 52 Wednesdays this year]
+4,003 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    74   Weekly Average in 2005
+    78   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Permanent Requests For Assistance:
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+
+Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner.
+[Note that the high-speed scanner requires destruction of the book(s) which
+will not be returned.]  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a project you would like to work on.
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+as well as in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.org":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.org&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 33 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.org/donation.html  or email donate@gutenberg.org
+
+
+*Access To The Project Gutenberg Collections
+
+
+*Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://www.gutenberg.org/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.org/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://www.gutenberg.org/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+
+Statistical Review
+
+In the 14 weeks of this year, we have produced 1041 new eBooks.
+It took us from 7/71 to 7/97 to produce our FIRST 1041 eBooks!!!
+
+          That's 14 WEEKS as Compared to ~26 YEARS!!!
+
+
+FLASHBACK!
+
+Here's a sample of what books we were doing around eBook #1041
+
+Mon Year Title and Author                                  [filename.ext] ###
+A "C" Following The eText # Indicates That This eText Is Under Copyright
+
+Sep 1997 Dark Lady of the Sonnets by George Bernard Shaw[3][dlotsxxx.xxx] 1050
+Sep 1997 Vanished Arizona, by Martha Summerhayes           [varizxxx.xxx] 1049
+
+Sep 1997 The Ruling Passion, by Henry van Dyke [van Dyke#2][rlpsnxxx.xxx] 1048
+Sep 1997 The New Machiavelli, by H. G. Wells  [Wells #11]  [nmchvxxx.xxx] 1047
+Sep 1997 God The Invisible King, by H. G. Wells [Wells#10] [godikxxx.xxx] 1046
+Sep 1997 Venus and Adonis, by William Shakespeare[Shakes#3][wsvnsxxx.xxx] 1045
+
+Sep 1997 Captain Stormfield's Visit, by Mark Twain  [MT#11][cptsfxxx.xxx] 1044
+Sep 1997 The Story of Evolution, by Joseph McCabe          [tsoevxxx.xxx] 1043
+Sep 1997 A Reading of Life, Other Poems, by George Meredith[rdlifxxx.xxx] 1042
+Sep 1997 Shakespeare's Sonnets, by William Shakespeare [#2][wssntxxx.xxx] 1041
+
+Sep 1997 The Three Taverns, by Edwin Arlington Robinson[#3][3tavsxxx.xxx] 1040
+Sep 1997 Missionary Travels in South Africa, by Livingstone[mtravxxx.xxx] 1039
+Sep 1997 Style, by Walter Raleigh [Walter Raleigh eBook #2][stylexxx.xxx] 1038
+Sep 1997 The Life of John Bunyan, by Edmund Venables       [lfbynxxx.xxx] 1037
+
+Sep 1997 Joe Wilson and His Mates, by Henry Lawson  [HL#2] [jwahmxxx.xxx] 1036
+Sep 1997 The Man against the Sky, by Edwin A. Robinson [#2][tmatsxxx.xxx] 1035
+Sep 1997 Poems, by Wilfred Owen                            [wowenxxx.xxx] 1034
+Sep 1997 Rose O' the River, by Kate Douglas Wiggin [KDW#4] [rorvrxxx.xxx] 1033
+
+Sep 1997 The Pupil, by Henry James                                        1032
+Sep 1997 Charmides and Other Poems by Oscar Wilde[Wilde#15][crmdsxxx.xxx] 1031
+Sep 1997 Cavalier Songs & Ballads of England, MacKay/Editor[csboexxx.xxx] 1030
+Sep 1997 The Night-Born, by Jack London  [Jack London #9   [ntbrnxxx.xxx] 1029
+
+Aug 1997 The Professor, by Charlotte Bronte [#6 by Brontes][tprofxxx.xxx] 1028
+Aug 1997 The Lone Star Ranger by Zane Grey[#3 by Zane Grey][lrngrxxx.xxx] 1027
+Aug 1997 Diary of a Nobody, by George and Weedon Grossmith [dnbdyxxx.xxx] 1026
+Aug 1997 Essays, by Benjamin Rumford  [Volume 1, BR#1]     [essbrxxx.xxx] 1025
+
+Aug 1997 The Wrecker, by Stevenson and Osbourne [RLS #39]  [wrckrxxx.xxx] 1024
+Aug 1997 Bleak House, by Charles Dickens  [Dickens #33]    [blkhsxxx.xxx] 1023
+Aug 1997 Walking, by Henry David Thoreau   [Thoreau #3]    [wlkngxxx.xxx] 1022
+Aug 1997 The Congo and Other Poems, by Vachel Lindsay[VL#3][cngopxxx.xxx] 1021
+
+Aug 1997 Sword Blades and Poppy Seed, by Amy Lowell [AL #3][sbapsxxx.xxx] 1020
+Aug 1997 Poems by the Bronte Sisters [as Bell Brothers] B#5[brntpxxx.xxx] 1019
+Aug 1997 The Water-Babies by Charles Kingsley [Kingsley #3][wtrbsxxx.xxx] 1018
+Aug 1997 The Soul of Man, by Oscar Wilde        [Wilde #14][slmanxxx.xxx] 1017
+
+*
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+With 15,997 eBooks online as of April 13, 2005 it now takes an average
+of ~1% of the world gaining a nominal value of ~$.97 from each book.
+1% of the world population is 64,303,400 [x 15,997 x $.97 = ~$1 trillion]
+[Google "world population" "popclock" to get the most current figures.]
+
+With 15,997 eBooks online as of April 13, 2005 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.63 from each book,
+This "cost" is down from about $.81 when we had 12,326 eBooks a year ago.
+100 million readers is only ~1.5% of the world's population!
+
+At 15,997 eBooks in 33 Years and 09.25 Months We Averaged
+      ~474 Per Year
+        39.4 Per Month
+         1.29 Per Day
+
+At 1041 eBooks Done In The 98 Days Of 2005 We Averaged
+      10.62 Per Day
+      74 Per Week
+     321 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 5th was
+the first Wednesday of 2005, and thus ended PG's production
+year of 2004 and began the production year of 2005 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+***
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+POKING HOLES IN MICROSOFT'S GRAMMAR CHECKER
+Sandeep Krishnamurthy, associate professor of marketing and e-commerce
+at the University of Washington, is so incensed with the grammar
+checker in Microsoft Word that he has taken to posting examples of what
+he sees as the checker's failings on his Web site. He has also called
+on Microsoft to improve the checker. Citing egregious grammar mistakes
+that the tool does not question, Krishnamurthy said that although it
+might be helpful for above-average writers, it actually impedes
+below-average writers' efforts to improve their writing skill.
+Krishnamurthy said Microsoft should modify the tool to allow users to
+select the level of help they need, from basic to advanced. For its
+part, Microsoft said in a statement that the tool is not intended to
+find or identify all errors. Instead, it is designed "to catch the
+kinds of errors that ordinary users make in normal writing situations."
+Chronicle of Higher Education, 15 April 2005 (sub. req'd)
+http://chronicle.com/prm/weekly/v51/i32/32a02902.htm
+
+COMPUTER APPLICATION GRADES ESSAYS
+A professor at the University of Missouri has developed a computer
+application that grades papers and offers advice on writing. Ed Brent,
+professor of sociology, created the application, called Qualrus, using
+a $100,000 grant from the National Science Foundation. Qualrus
+evaluates papers based on the structure of sentences and paragraphs and
+on the flow of ideas. Instructors can specify which factors of an
+assignment are most important, and Qualrus incorporates that
+information into the scores it provides. Brent claims the application
+improves students' papers and estimated that it saves him more than
+200 hours of grading per semester. The tool has been approved for use
+across the university, but so far Brent is the only instructor using it.
+Brent is also looking for ways to distribute the tool to other
+universities and to businesses.  [Probably at a large profit]
+CNET, 7 April 2005
+http://news.com.com/2100-1032_3-5659366.html
+
+UC ELECTRONIC RESERVES RANKLE PUBLISHERS
+A system that handles electronic reserves at the University of
+California (UC) in San Diego has prompted complaints from publishers
+that the university has far exceeded the bounds of fair use. With the
+system, materials that faculty put on reserve are made available
+electronically, allowing students to access and even print them from
+outside the university library. The Association of American Publishers
+objected, saying that electronic access substantially changes the
+traditional terms of reserve materials and deprives publishers of
+sales. Publishers have previously won legal challenges to the
+production of coursepacks, which the courts said do not fall under the
+terms of fair use. The publishing group insisted the same applies to
+electronic resources. Representatives of UC disputed the claims, saying
+the reserve system does not infringe on sales of texts. Jonathan
+Franklin, associate law librarian at the University of Washington,
+noted that the fair use law is not clear and commented that if the
+disagreement is ultimately settled by the courts, such a resolution
+might provide needed clarification for all concerned.
+Chronicle of Higher Education, 7 April 2005 (sub. req'd)
+http://chronicle.com/prm/daily/2005/04/2005040701t.htm
+
+CODING CONTEST SHOWS U.S. STUDENTS FALLING BEHIND
+
+[More details below in media avoidance section, Shanhai was winner]
+
+At this year's Association for Computing Machinery International
+Collegiate Programming Contest, the University of Illinois's tie for
+17th place was the best result for any U.S. team, representing the
+worst performance for U.S. institutions in the 29 years of the
+competition. Many observers believe the result is indicative of a
+variety of factors that have resulted in a striking shift in
+technological preeminence away from U.S. schools and companies. As
+recently as 1997, the United States came out on top, when a team from
+Harvey Mudd College won the competition. David Patterson, president of
+the Association for Computing Machinery and a computer science
+professor at the University of California, Berkeley, noted, "The U.S.
+used to dominate these kinds of programming Olympics." Others pointed
+out that applications from outside the United States to computer
+science and other technology programs at U.S. graduate schools have
+dropped lately.
+ZDNet, 7 April 2005
+http://news.zdnet.com/2100-9595_22-5659116.html
+
+E-RATE INDICTMENTS HANDED DOWN
+Six companies and five individuals have been indicted on charges of
+fraud in the federal E-Rate program, which was instituted to provide
+funds to connect public schools and libraries to the Internet. A year
+ago, a subsidiary of NEC admitted defrauding the program and settled
+with prosecutors for $20.7 million. Those indicted this week were
+charged with fraud, collusion, and rigging bids. According to the
+Justice Department, the accused misrepresented financial terms of
+E-Rate projects to school administrators and colluded on pricing and
+terms of government contracts. The violations are said to have taken
+place in seven states, though all but one defendant are based in
+California. The individuals charged face up to five years in prison,
+and the indicted companies could be fined as much as $10 million.
+Wall Street Journal, 8 April 2005 (sub. req'd)
+http://online.wsj.com/article/0,,SB111292755907301701,00.html
+
+DUKE SCALES BACK IPOD PROGRAM
+Officials at Duke University have said they will cut back a program to
+equip incoming students with iPods. Last fall, all 1,600 incoming
+freshmen were given the devices as part of a pilot program to see how
+they might influence learning. Next year, the university will only
+provide iPods to students who enroll in courses that use iPods in the
+curriculum. School officials said they were pleased with what they
+learned from the program in its first year, but they pointed out that
+the larger goal is to incorporate technology into the teaching and
+learning processes. The narrower focus of the iPod initiative was
+characterized as an evolution of the university's efforts toward that
+goal. Lynne O'Brien, who coordinated the iPod program, said some
+faculty embraced the devices in their classes, while other faculty were
+more skeptical, seeing no real purpose for the devices.
+CNET, 6 April 2005
+http://news.com.com/2100-1041_3-5657240.html
+
+
+TECH COMPANIES LINE UP WITH EU
+
+[No mention of the huge MicroSoft payoff to settle with Gateway]
+
+Five leading technology companies have voiced their support of the
+European Union (EU) in its antitrust case against Microsoft. IBM,
+Oracle, Red Hat, RealNetworks, and Nokia have applied to join the case
+in which the European Commission has already fined Microsoft $640
+million and ordered that the company make changes to its operating
+systems to increase competition with other vendors. Aside from
+RealNetworks, which has previously challenged Microsoft in court, the
+other four companies have been reluctant to take a strong public stance
+against Microsoft. Thomas Vinje, an attorney for the EU, said the
+support from these companies undercuts Microsoft's claim that the case
+against it in Europe is not endorsed by others in the technology
+industry. It is not clear whether the court hearing the case will
+accept the companies' application, but, according to Jonathan Todd,
+spokesperson for the EU, their action is not likely to be "relevant or
+determining in terms of the outcome of a particular antitrust case."
+Washington Post, 6 April 2005
+http://www.washingtonpost.com/wp-dyn/articles/A30610-2005Apr6.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+***
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+"There's really just one way to read the following: the USA is falling
+further and further behind in computing. But here's my best spin:
+
+"The ACM International Collegiate Programming Contest (ICPC) sponsored
+by IBM is officially over, and UIUC made a fine showing. The
+contest involves students in computing disciplines at over
+1,300 universities from 68 countries on six continents. 78 teams of
+three students each took part in the world final here in Shanghai.
+
+"The teams had 5 hours to do 10 problems. Shanghai Jiao Tong University, which
+hosted the contest, won the trophy by completing 8 problems successfully.
+(They were so excited--I was very happy for them!)
+
+"The other top places went to universities from Russia, Poland,
+and Canada (7 problems each). Only one U.S. university team managed
+to complete at least 5 problems, and that was our team from UIUC--
+we came in ahead of Cal Tech, Duke, MIT, IIT, CMU, Georgia Tech,
+NYU, and more.
+
+"Our performance really improved over last year, and if we
+continue at this rate, we could reach the top 12 places in
+the competition. As it was, we tied for 17th.  Eastern Europe, and
+of course China, certainly dominate the team standings now.
+We are all enriched and wiser after seeing China during these weeks on
+the road. It's been an awesome experience.
+
+"Masochists can download the problem set at
+http://icpc.baylor.edu/icpc/Finals/2005FinalsProblemSet.pdf
+
+"I noticed that the standings have not been updated yet on the official site.
+
+"Photos of the team at the competition and in China:
+http://www.kodakgallery.com/I.jsp?c=12i17lyj.5x8dlwqz&x=0&y=hmt4vg
+
+Marsha Woodbury, proud Coach."
+
+*
+
+This week, 4 1/2 years after the fact, the last three defendants
+charged with assault of the Philadelphia Police Chief and others,
+were acquitted of all charges, based on videotapes made at the
+Republican National Convention, August 1, 2000.
+
+The police chief finally recanted his earlier testimony, admitting
+that he could not identify anyone responsible for alleged assaults,
+as various stories told by the police became inconsistent.
+
+These charges were very serious and could have yielded 30-40 years
+in prison if the judge had not ruled as he did, after only two days
+of proceedings.
+
+There is now a possibility the same videotape could now be used to
+indict the police for beating up those they accused, and perhaps
+even of perjury.
+
+Apparently at least 90% of all the protestors arrested at the last
+two Republican National Conventions have either won their cases or
+had them summarily dismissed, expunged, etc.
+
+[This story was mentioned on NPR]
+
+
+
+*STRANGE QUOTE OF THE WEEK
+
+"What if an entire generation of Americans just gave up on golf?"
+
+Phil Mickelson [2004 Masters Champion]
+
+
+
+DOUBLESPEAK OF THE DAY
+
+The term "Depression" was invented by the spin doctors of the day,
+because they were afraid the term "Recession" was too inflamatory.
+
+"It's ONLY a depression, not a recession," is what they would say.
+
+Today they have once again reversed themselves yet again, and will
+say, "It's ONLY a recession."
+
+[Some research by a friend indicates that the term "recession" may
+be even older than I thought, but perhaps not in general useage, at
+least not enough for anyone to want to avoid it when naming The
+Great Depression in 1929.  I'm still not sure what really happened.
+This was something I learned way back in Political Science, and if
+anyone has any additional info, we'd be glad to hear it.]
+
+
+
+*PREDICTIONS OF THE WEEK
+
+Fewer Chinese and Indian students will come to the U.S.
+for their educations, more will graduate at home, as an
+educational revolution takes place.
+
+
+*ODD STATISTICS OF THE WEEK
+
+Printing was once the seventh largest industry in America
+and was the second largest industry in New York City.
+
+*
+
+Texas has the lowest percentage of high school graduates.
+
+*
+
+Indiana Teen Smoking Falls To National Average
+
+&gt;From 2000 to 2004 the percentage of teens smoking fell by nearly 33%
+and those in grades 6-8 fell by nearly 20%, as Indiana spent a large
+portion of their $65 million tobacco settlement cash on teen smoking.
+
+In addition, the cigarette tax went up by $.40 during that period.
+
+Only 5% of Indiana 6th graders smoke, while 25% of 12th graders do,
+which remains steady through the rest of their lives.
+
+More recent drops continue to be encouraging, as teen smoking rates
+fell by 18.5% from 2002 to 2004.
+
+*
+
+Upper-class stores such as Neimann-Marcus had a very profitable
+holiday as the upper-class had plenty of money to spend on gift
+exchanges for friends, co-workers, and family.
+
+Lower-class stores such as Wal-Mart did NOT have good profits
+for the holiday season.
+
+Even the major media managed to say that this was because
+"The rich are getting richer, the poor are getting poorer."
+
+
+*
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both north and south
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_04_13_part_1.txt" target="_blank" rel="nofollow">pgweekly_2005_04_13_part_1.txt</a>

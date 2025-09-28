@@ -1,0 +1,487 @@
+---
+params:
+  id: 2565
+title: "PG Monthly Newsletter: In Prose (2009-11-05)"
+date: 2009-11-05T19:13:17+00:00
+author: Michael Cook
+layout: post
+url: /20091105/pg-monthly-newsletter-2009-11-05-in-prose/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>New Project Gutenberg Newsletter Format
+
+Project Gutenberg Prose Newsletter
+
+November 5th, 2009
+
+
+Please allow me to introduce our new Newsletter Editor, Andrea Kobeszko:
+
+Andrea Crisp &lt;andreamcrisp at yahoo.com&gt;
+
+and also to introduce our new Newsletter format, which, as requested is
+going to be shorter due to being bi-weekly, the 5th and 21st of months.
+The 5th will be dedicated mostly to articles, the 21st to statistics.
+
+Please send replies directly to both Andrea and hart at pglaf.org.
+
+
+Now for the new Newsletter.
+
+
+
+"Through literacy you can begin to see the universe."
+
+Grace Slick
+
+
+
+In this Issue:
+
+
+-An interview with Michael Hart
+
+-Libraries check out the eBook - by Andrea Kobeszko
+
+-The Net has gone mobile - Guest writer Michael Hart shares his thoughts
+
+-What does the future hold? - by Andrea Kobeszko
+
+-Zoe Blade's new Gutenberg site needs volunteers
+
+-More calls for volunteers
+
+-eBook News Bytes
+
+-What's new at PG?
+
+
+
+AN INTERVIEW WITH MICHAEL HART
+
+-Andrea Kobeskzo & Michael Hart
+
+
+
+I recently had the privilege of interviewing Michael Hart, former editor and founder of Project
+Gutenberg. In our interview, Michael discusses the future of PG, and looks back on how it has
+evolved through changing times.
+
+
+
+-So why are you passing the editor torch?
+
+This isn't the first time. It's mostly to get PG used to not depending on
+me so much. I have tried as hard as I dare, not to be a central figure by
+voicing my own opinions other than to balance others. I don't really mind
+doing the Newsletter, but I like to see more other points of view, styles,
+perspectives, interest, etc.
+
+
+-Project Gutenberg has had a long and tumultuous road. How do you feel the
+face of PG has changed or evolved through the years?
+
+Believe it or not, I never thought of it as tumultuous. Yes, there were a
+few years of hard times, but that's my life's story, but since I never let
+us get addicted to money it never made a difference when there wasn't any.
+
+
+How has PG evolved?
+
+Well, from 1971 to 1988-89 no one paid any attention so it was just me with
+tilting at windmills, but I knew eBooks and eLibraries should be two of the
+great wonders of an entirely new world, so I was never tempted to give up--
+never. I just had to wait for the world to catch up.
+
+Believe it or not people were still saying eBooks were never going to make
+it just a few years ago. Look for a quote in the Wall St. Journal: "Ebooks
+are never going to make it." Before that the NY Times: look for: "twitchy"
+screen. However now that it's obvious they are moving eBooks on their own,
+but I can't tell how serious they are. They may just be following the rule
+of simple reporting: "Follow The Money." If eBooks fall flat will they all
+just move on and pretend there was never any interest?
+
+The first goal of PG was just to prove eBooks feasible.  My own estimations
+were that it would take about 10,000, and that seems to have proved correct
+as Google called me in to advise them ASAP after we hit 10,000, and we went
+to do just that on December 14, 2003:  and they announced they had invented
+eBooks and eLibraries December 14, 2004. However, they did the opposite, or
+rather exact opposite of what I said they should do and look what happened.
+Most of the big legal fray is because they were more money oriented, and as
+such may have intentionally played the copyright cards that got them in the
+big legal hassles. If they had started out by emphasizing the public domain
+it probably would have worked out a lot better for them in the press as the
+good will they would have built up would have gone a long way.
+
+Personally, I am OK with nearly any eBook format that is compact and search
+quote friendly.
+
+
+-You've achieved a lot toward the cause of digitizing public works. Do you
+feel that one achievement stands out above the rest?
+
+One thing was just keeping such a vastly different bunch of diverse persons
+working more or less together for so long. . . .  This was pretty much that
+first example of what is now so popular, international virtual cooperation.
+
+One of my personal favorites was doing our 100th eBook:  The Complete Works
+of Shakespeare. . . .  I will probably always remember that all nighter, as
+we finished up months of very intense work to do it on time.
+
+Another favorite was doing our own translation of Siddhartha, then fighting
+off Hermann Hesse's copyright lawyers!!!
+
+
+-Where do you see Project Gutenberg in ten years? In twenty?
+
+By 2020 we will be buying petabyte drives, not terabytes.
+We'll have enough space to hold a billion eBooks of a million characters.
+Yes, they will pass more laws against it. In fact we are working
+on publicizing the next one already. The biggest tragedy was Larry Lessig at
+The Supreme Court. Look that one up, find out who he represented before Eldred.
+
+By 2030 a billion eBooks. . . .here is how it would/could/should happen:
+
+10 million public domain eBooks free on the Net. . .that's 40% of them.
+[Just ask any information professional. . .there are ~25 million]
+
+100 languages. . .that's 40% of those with over a million speakers.
+[Just ask any languages professional]
+
+10 million eBooks translated into 100 different languages equals:
+
+ONE BILLION eBOOKS.
+
+Common people will be able to buy a petabyte drive to put it on in 2020,
+just as we now buy terabyte drives that hold a million eBooks.
+
+The laws will be tested as it becomes more and more obvious that there is no
+longer any copyright expiration. . .ever. . .permanent copyright!
+
+It will cost more than Iraq, more than Wall St. Each 20 years of copyright
+extension removes a million public domain books, not to mention newspapers,
+magazines, music, movies, etc., etc., etc. If you count a lifetime of access
+to one of those million books worth $.01, then think how much it costs 300
+million people to lose a million books each, as public domain, for their
+entire lifetimes.
+
+The powers that be don't want a very literate well educated public. Did you
+ever watch Roots? Remember the slave who went to Harvard Law School??
+
+
+I'm afraid that the following catch phrase will take on ever more meaning:
+
+"The Information Age:  For Whom?  Only Those Who Can Pay For It?"
+
+
+The goal of Project Gutenberg has always been to create "An Information Age"
+not as something on the order of "The Digital Divide," but something greater
+in terms of bringing literacy and education to the masses free of all charge
+and in a way the vast majority can access instantly.
+
+To this end my current goals are ever increasing cellphone accessibility and
+translation into more languages. WARNING: Get a phone with Wi-Fi or else the
+cost factor will enter into the equation, and use free Wi-Fi, of course.
+
+There are already ~4.5 billion active cellphones, with about 1.2 billion new
+ones being sold every year.  Soon nearly everyone who wants one will have it
+and more and more of them will be suitable for eBooks. . .just go to bottoms
+of the pages when you locate books at http://www.gutenber.org and you should
+see the last sections is all eBook formats.  The last is the newest and it's
+quite a hit:  try QiOO and let me know how you like it.  Don't forget to try
+the white on black reading feature, easy on the eyes.
+
+
+
+
+LIBRARIES CHECK OUT THE EBOOK
+
+By: Andrea Kobeszko
+
+
+Across the U.S., thousands of libraries are embracing eBooks.  No longer the
+familiar home of tomes and periodicals only, these foundations are now using
+new technology for more than just computerizing their catalogues.  Libraries,
+like so many other businesses of the book, are eager to attract the digitally
+savvy new generation.  This downloadable wave has been a gradual transition
+for the library, and the books of yesterday are not yet extinct. The New York
+Public library currently offers over 17,000 eBook titles, just a fraction of
+their 800,000 circulating print titles. Comparing these numbers, it's obvious
+that eBook acquisitions still represent a small percentage of their budget.
+
+[But this budgetary expense will never need another copy.  mh]
+
+
+Why the seeming reticence to stock up on eBooks?  It's not only because the
+library still clings to the spine (pardon the pun) of its institution, which
+lies in the not so modern, good old fashioned pages of yester-year. The road
+to eBook downloads, as history has proven (i.e. Google) is often a bumpy one.
+One obstacle libraries face is the inability to keep up with new devices now
+dominating the industry.  Although most libraries offer eBooks that are
+compatible with computers, Sony Reader and a handful of other digital
+devices, many of their downloadable offerings cannot be read on Amazon's
+Kindle or the Apple's iphone, both very popular e-readers.  Another issue
+slowing down eBook acquisitions for libraries is the publishers themselves.
+Many publishers are thus far loath to permit eBook versions of their print
+copies to be allowed in libraries, due to concerns it will decrease sales of
+their print editions.  This decision comes despite the fact that checking out
+a downloadable eBook greatly mirrors a checkout of a print copy.  Instead of
+physically walking out of a library with book copy in hand, all is done at
+home, or anywhere else, with a digital device.  The differences, in the
+instance of library patronage, seem more academic than financial.
+
+
+Yet even in the wake of these problems, eBook circulation is expanding at an
+amazing rate.  eBook checkouts have increased to more than one million in
+2009, up from 600,000 in 2007, according to OverDrive.  eBooks are quickly
+proving an unstoppable force, and opening the floodgates have given libraries
+the chance to increase readership and cater to a new age of information
+seekers.  Downloading a book in the comfort of home is no longer just a
+concept for most.  It's a daily reality.  For libraries, it is still a
+relatively new venture, riddled with many obstacles, but even more
+opportunities.
+
+
+
+
+THE NET HAS GONE MOBILE
+by Michael S. Hart
+Founder
+Project Gutenberg,
+Inventor of eBooks
+
+Those on the leading edge witnessed a watershed breakthrough milestone
+this week as the first reports came in indicating that the greater new
+mobile access to the Internet. . .great. . .greater. . .greatest.
+
+The most obvious bell they heard ringing was the sound of iPhone apps,
+with a first time ever report that there are now more eBooks apps than
+game apps for the iPhone and related hardware.
+
+This only a half year after Steve Jobs, one of my heroes, said that it
+was not in Apple's interest to support eBooks because no one reads.
+
+"The Time's They Are A'Changin'."
+
+With ~4.5 billion active cell/mobile phones in the world plus the fact
+that laptop computer sales surpassed desktop computer sales years ago,
+it should have been obvious that the majority of Internet access would
+be from mobile devices. . .right?
+
+The pundits seem to have missed this one.  Sometimes even Steve Jobs.
+
+People are reading eBooks, and doing everything else on the Net from a
+majority of devices that are now mobile.
+
+If you have a web site and haven't yet figured out that you need to do
+a mobile version of that website, you are probably losing traffic.
+
+1.2 billion cell/mobile phones were sold in the last four quarters and
+that was even in the middle of this huge recession.
+
+Netbooks have taken off as the next big thing.
+
+University library employees tell me that every other student there is
+on a laptop computer. . .50%, in a building filled with books and that
+so much traffic is going through that it slows the huge bandwidth of a
+major university location down to slower that what you get at home.
+
+The research center where our weekly Geek Lunches take place recently,
+very recently, upgrade their wifi so I got 2 megabytes per second, and
+it took only a couple weeks before everyone else realized this and set
+up their wifi connections to the point where it is a quarter as fast.
+
+Let's face it. . .mobile computing has taken over the world while most
+of us weren't paying enough attention to notice.
+
+What Are The Results?
+
+The first result is that the major sites have had to address a devices
+rush that makes The Gold Rush and rush hour look like a standstill.
+
+Believe it or not there are already sites that are prepared to receive
+people connecting from over ONE THOUSAND DIFFERENT MOBILE DEVICES!
+
+Why?
+
+Because these people want the traffic.
+
+As many of you know, I have been pushing cellphone/mobile eBooks for a
+number of years and I test more phones on http://www.gutenberg.org, at
+every opportunity.
+
+Why?
+
+Because it is obvious that we are going to get more eBook readers from
+cell/mobile phones than from computers.
+
+If we do not present a site that looks and acts decent to their phone,
+such people will simply head off to the next eBook site, lost forever,
+or close enough to forever, in a world moving so quickly.
+
+Therefore, I am asking YOU to test how YOUR PHONE works on our site in
+the near future and to write me about how it works, how it will better
+work in YOUR OPINION if we make certain adjustments, etc.  This is BIG
+in terms of the fact that the site may look and act differently to the
+device YOU use than any other, and even acts totally differently via a
+different piece of browsing software on the very same hardware.  Thus,
+I suggest/ask that you try various browsers, as well.
+
+In the last 24 hours I tried two different browsers on the same phone,
+and the one that came with the phone made Project Gutenberg Home Pages
+look totally empty until you scrolled down countless times, while that
+one we downloaded and installed ourselves worked just dandy.
+
+Go figure.
+
+Why?
+
+Because each device sends a line to the web site called a "User Agent"
+to tell the site what kind of device it is and how to talk to it, only
+some send such a poor set of instructions that we have to rewrite some
+or all of the page just for that one single device.
+
+That's the project I have set out for Project Gutenberg right now.
+
+Given that there are over ONE THOUSAND such devices, we need help.
+
+WILL YOU PLEASE HELP US GIVE YOU EBOOKS IN A BETTER WAY???
+
+Thank You!!!
+
+Michael S. Hart
+
+
+
+
+WHAT DOES THE FUTURE HOLD?
+
+A commentary by: Andrea Kobeszko
+
+
+Never was it so apparent to me how drastically our culture has changed then on
+one early afternoon at my local hair salon.  I had arrived early, sat and
+immediately scanned the table for the most topical magazine.  I found one,
+opened it and glanced fleetingly at my seatmates.  There were four.
+One talked on her cell-phone, one text-messaged on her cell-phone, one stared
+off into space and the last well-kept lady tapped furiously on her blackberry,
+then stared at it as if she had discovered a long lost Rosetta stone.
+
+It dawned on me then how much had changed.  I flashed back to another era,
+little more than a decade prior, when I would sit at the salon and sift
+through magazines.  The women around me did likewise, back then.  We had
+flipped pages in solidarity, making the most of our time in limbo by perusing
+whatever was available, be it recent news or even, for some, simple
+entertaining gossip.  But that was last decade, and the years leading up to
+this one had brought a steady decline in my witness of people casually
+perusing at the salon, in my physician's waiting room, at the line in the
+market, or even in the bookstores I frequented.  My generation, hedging
+insidiously over middle-age, had witnessed perhaps most closely the dawning of
+the digital takeover.  We had found ourselves immersed in new technologies we
+could enjoy and grasp for the most part, although our children probably
+understood it better.  So much speed and convenience and entertainment,
+
+but what of the aftermath?  Reading and writing skills continue to decline in
+he United States. Could this new era come at the cost of literacy? Books may
+not be dead.  They're just gathering dust on library shelves. Alarmists would
+claim that our society is crumbling.  Perhaps this is not the case, but what
+does the future hold when leading universities begin clearing out books to
+make room for computer workstations?  Times have changed, irrevocably, inevitably.
+The cold, hard truth is that the future lies less in the written page,
+and more on the screens of computer monitors and handheld digital devices.
+I will play the role of the idealist, and say that this evolution of
+technology has paved the way for an evolution of literacy, or in simpler
+terms, an evolution of the genre of literature.  Can a conduit designed to
+bring the printed page to a computer screen, or even a cell phone, become
+literature's saving grace?  Our children can still learn of Shakespeare,
+and still be enriched by Jules Verne, if in a way vastly different then we as
+children discovered them.  In light of this, the future looks bright indeed.
+Literacy will not go the way of the dinosaur.  Classic works of literature
+can, and have, taken a contemporary form, in an era of technology capable of
+delivering the wonderful stuff of books to nearly anyone on the globe in the
+blink of an eye, or the push of a button.
+
+
+
+ZOE BLADE'S PROJECT NEEDS VOLUNTEERS
+
+
+Hi! My name is Zoe Blade and I'm working on a project to format Gutenberg's eBooks.
+By taking Gutenberg's e-books, applying Wikipedia-style formatting to them, then
+saving them on this new website, we'll make it possible for computers to
+automatically convert these eBooks into a variety of other formats.  This
+should make them much easier for the general public to find and read.
+
+I'd be very grateful if anyone would join me in copying existing Gutenberg
+eBooks into this new site.
+
+The site's address is: http://pg.writerpilot.com/
+
+There's step-by-step documentation on the site.  All you will need is an account,
+which I'll be happy to set up for you.
+
+Please let me know if you'd like to help out with this new project, and I'll
+set up your account right away. You can e-mail me at:
+
+zoe at bytenoise.co.uk
+
+Thank you very much,
+
+Zoe Blade
+
+
+
+
+CALL FOR VOLUNTEERS
+
+
+In addition to Zoe Blade's project, PG is looking for volunteers in a number of fields.
+
+If you're interested in submitting an article for our newsletter, or would
+like to donate your time in some other way, please contact editor at gutenbergnews.org.
+
+
+
+
+EBOOK NEWS BYTES:
+
+The latest eBook news tidbits.  Click the links to find out more!
+
+
+The Google Books saga continues:
+
+Judge requests Google, authors and publishers to submit a negotiated settlement by November 9th.
+Read the article for more details:
+
+http://au.news.yahoo.com/a/-/technology/6177558/google-authors-to-submit-revised-book-deal-nov-9/
+
+
+Barnes & Noble launches eReader: The Nook.
+
+[Well, almost.  I go every week to see it, but they've never had one yet.]
+
+
+It's a lot like the Kindle, but with a touchscreen.  Read the article here:
+
+http://www.readwriteweb.com/archives/barnes_and_noble_nook_launch_details_specs.php
+
+
+
+iphone makes its presence known:
+
+See how it's stacking up against tough competitors like Kindle,
+and how it's impacted Nintendo DS!
+
+http://gigaom.com/2009/11/01/iphone-e-book-reader/
+
+
+
+PG NEWS
+
+Looking for the latest news and stats from Project Gutenberg?
+You;ll find them in our next newsletter, scheduled for publication on November 21st.</pre>
+
+<a href="/nl_archives/2009/pgmonthly_2009_11_05-in-prose.txt" target="_blank" rel="nofollow">pgmonthly_2009_11_05-in-prose.txt</a>

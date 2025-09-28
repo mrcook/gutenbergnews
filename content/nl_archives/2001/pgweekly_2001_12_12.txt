@@ -1,0 +1,663 @@
+========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg Weekly Newsletter" <gweekly@listserv.unc.edu>
+Date: Wed, 12 Dec 2001 12:35:13 -0500 (EST)
+
+
+PROJECT GUTENBERG WEEKLY NEWSLETTER FOR DECEMBER 12, 2001
+
+***4,201 Tree-Friendly Titles Online***   ***40 New Ones This Week***
+
+If we continue at this rate, we will have 5,000 on our 31st Birthday,
+July 4th, 2002. . . !
+
+***
+
+I have heard that LOTS of people print out our Etexts in Braille,
+but haven't been able to actually FIND one to include in speeches.
+If anyone can print out just one short one for me, would be great!
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+    - The need for donations
+    - Copyright research contact info
+    - Online proofreading team
+    - Making Donations, States list
+    - Access to the collection
+    - Non-English Texts
+    - Information about Mirrors
+    - Project Gutenberg of Australia new web address
+    - "Life + 50" Copyright Countries Listing
+    - 3 new etexts at Project Gutenberg of Australia
+    - 93 updated etexts
+    - 37 new U.S. etexts, including PG's first Greek etext (#4100)
+    - Statistics
+    - Newsscan news
+    - Information about mailing lists
+
+***
+
+Please put Project Gutenberg on your Holiday Gift Giving list
+I've been advised we have just enough to get to month's end.
+
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com <mailto:hart@pobox.com>
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+Copyright research: Michael Hart is back in town.  If you sent
+him postal mail for copyright clearance, please email him to check
+on its status, all snailmail copyrights are done.  hart@pobox.com
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+
+The Online Distributed Proofreading team proudly announces that October
+was their new record high month with 10831 pages proofed in the month!!
+We have set our goal at 12,000 pages for the month of November, stop on by
+and help us set a new record!
+
+Please note the NEW FASTER ADDRESS for distributed proofreading:
+      http://charlz.dns2go.com/gutenberg
+
+The Online Distributed Proofreading Team proudly announces another record
+high month; in November we completed 11,898 pages!! November also included
+_two_ record high days!  First was 853 pages on the 10th but we blew that
+away with 1,108 pages on the 28th. Already this month we have blown away
+November's high day with 1,195 pages completed on the 5th of December!!!!!
+How high can we go?! Stop on by and give us a hand to find out!
+
+
+***
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+and Wyoming. . .the new one is New Hampshire.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+Please email Greg Newby, director of the Project Gutenberg
+Literary Archive Foundation, to inquire about wire transfer
+or EFT.
+
+Coming soon:  PayPal donations!
+
+Also coming soon: Donations via Network For Good,
+http://www.networkforgood.org
+
+THANKS to everyone who has sent a donation.  Please think of
+us for your holiday and end-of-year giving.
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03>
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search"
+feature at:
+
+http://promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+23 French PG texts and 10 in Italian, not to mention many
+books from our German Team.
+
+And now, there is 1 in Greek!
+
+Let's do more languages!
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby <gbnewby@ils.unc.edu>
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 12/12/01**:  4,201
+(This number includes the 30 etexts posted at the PG Australia web site.)
+
+Thru 12/12/01:  49 Weeks & 2 Days (345 days)
+                 1,142 total new etexts, yr-to-date.
+                 Weekly avg.:  23.31
+                 Daily avg:     3.31
+
+The above translates to the following;
+Our Total For The Year Is About 1,142 For 345 days,
+this is 3.30 per day or 99.30 Per 30 day month. . . .
+This Would Yield About 1,208 For The Year. . . .
+We are about 49 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+Five years ago, in  Dec 1996, we announced etext #768.
+In this issue, we're announcing #4228
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+--=={ PROJECT GUTENBERG OF AUSTRALIA:  NEW POSTS }==--
+
+Dec 2001 Here's Another, by Lennie Lower            [LL#02][010030xx.xxx]0030A
+Dec 2001 The Casebook of Sherlock Holmes, by A Doyle[AD#02][010029xx.xxx]0029A
+[Author's full name: Sir Arthur Conan Doyle]
+Dec 2001 Anne of Ingleside, by L M Montgomery       [LM#02][010028xx.xxx]0028A
+
+
+***
+
+--=={ REVISIONS, CORRECTIONS AND NEW FORMATS }==--
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt.
+
+We have posted significantly improved and/or corrected 11th editions
+of the following:
+
+May 2003 Agnes Bernauer, by Friedrich Hebbel           [#1][7bernxxx.xxx]4079
+May 2003 Agnes Bernauer, by Friedrich Hebbel           [#1][8bernxxx.xxx]4079
+
+Jun 2002 Entire PG Galsworthy Files, by Galsworthy  [GL#34][glentxxx.xxx]3254
+[The .txt file is approximately 9 mb]
+Jun 2002 The Entire Gutenberg Abraham Lincoln files  [AL#8][lnentxxx.xxx]3253
+Jun 2002 The Entire Gutenberg Holmes, by Holmes,Sr.[OWH#10][ohentxxx.xxx]3252
+
+Dec 2001 The Complete Memoirs of Jacques Casanova   [JC#31][csnvaxxx.xxx]2981
+
+Dec 2001 Old Age and Death, by Jaqques Casanova     [JC#30][jcagdxxx.xxx]2980
+Dec 2001 Florence to Trieste, by Jacques Casanova   [JC#29][jcfltxxx.xxx]2979
+Dec 2001 Rome, by Jacques Casanova de Seingalt      [JC#28][jcromxxx.xxx]2978
+Dec 2001 Expelled from Spain, by Jacques Casanova   [JC#27][jcexpxxx.xxx]2977
+Dec 2001 Spain, by Jacques Casanova de Seingalt     [JC#26][jcspnxxx.xxx]2976
+
+Dec 2001 Russia and Poland, by Jacques Casanova     [JC#25][jcrplxxx.xxx]2975
+Dec 2001 London to Berlin, by Jacques Casanova      [JC#24][jclbrxxx.xxx]2974
+Dec 2001 The English, by Jacques Casanova           [JC#23][jcengxxx.xxx]2973
+Dec 2001 To London, by Jacques Casanova             [JC#22][jclonxxx.xxx]2972
+Dec 2001 South of France, by Jacgues Casanova       [JC#21][jcsfrxxx.xxx]2971
+
+Dec 2001 Milan, by Jacques Casanova de Seingalt     [JC#20][jcmilxxx.xxx]2970
+Dec 2001 Back Again to Paris, by Jacques Casanova   [JC#19][jcbprxxx.xxx]2969
+Dec 2001 Return to Naples, by Jacques Casanova      [JC#18][jcrnpxxx.xxx]2968
+Dec 2001 Return to Italy, by Jacques Casanova       [JC#17][jcritxxx.xxx]2967
+Dec 2001 Depart Switzerland, by Jacques Casanova    [JC#16][jcdswxxx.xxx]2966
+
+Dec 2001 With Voltaire,  by Jacques Casanova        [JC#15][jcvltxxx.xxx]2965
+Dec 2001 Switzerland, by Jacques Casanova           [JC#14][jcswtxxx.xxx]2964
+Dec 2001 Holland and Germany, by Jacques Casanova   [JC#13][jchgrxxx.xxx]2963
+Dec 2001 Return to Paris, by Jacques Casanova       [JC#12][jcrprxxx.xxx]2962
+Dec 2001 Return to Holland, by Jacques Casanova     [JC#11][jcphlxxx.xxx]2961
+
+Dec 2001 Under the Leads, by Jacques Casanova       [JC#10][jculdxxx.xxx]2960
+Dec 2001 The False Nun, by Jacques Casanova          [JC#9][jcflnxxx.xxx]2959
+Dec 2001 Convent Affairs, by Jacques Casanova        [JC#8][jcconxxx.xxx]2958
+Dec 2001 Venice, by Jacques Casanova de Seingalt     [JC#7][jcvenxxx.xxx]2957
+Dec 2001 Paris, by Jacques Casanova de Seingalt      [JC#6][jcparxxx.xxx]2956
+
+Dec 2001 Milan and Mantua, by Jacques Casanova       [JC#5][jcmmnxxx.xxx]2955
+Dec 2001 Return to Venice, by Jacques Casanova       [JC#4][jcrvnxxx.xxx]2954
+Dec 2001 Military Career, by Jacques Casanova        [JC#3][jcmcrxxx.xxx]2953
+Dec 2001 A Cleric in Naples, by Jacques Casanova     [JC#2][jcclnxxx.xxx]2952
+Dec 2001 Childhood, by Jacques Casanova de Seingalt  [JC#1][jccldxxx.xxx]2951
+
+Nov 2001 Four Short Plays, by John Galsworthy      [JG #33][shplyxxx.xxx]2920
+Nov 2001 The Little Man, by John Galsworthy        [JG #32][ltmanxxx.xxx]2919
+Nov 2001 The First and Last, by John Galsworthy    [JG #31][flastxxx.xxx]2918
+Nov 2001 The Skin Game , by John Galsworthy[Galsworthy #30][skgamxxx.xxx]2917
+Nov 2001 The Foundations, by John Galsworthy       [JG #29][fndatxxx.xxx]2916
+
+Nov 2001 A Bit O' Love, by John Galsworthy [Galsworthy #28][bolovxxx.xxx]2915
+Nov 2001 The Mob , by John Galsworthy [John Galsworthy #27][glmobxxx.xxx]2914
+Nov 2001 The Pigeon, by John Galsworthy    [Galsworthy #26][pigonxxx.xxx]2913
+Nov 2001 The Fugitive, by John Galsworthy  [Galsworthy #25][fugtvxxx.xxx]2912
+Nov 2001 Justice, by John Galsworthy  [John Galsworthy #24][justcxxx.xxx]2911
+
+Nov 2001 The Little Dream, by John Galsworthy      [JG #23][ldremxxx.xxx]2910
+Nov 2001 The Eldest Son, by John Galsworthy[Galsworthy #22][eldsnxxx.xxx]2909
+Nov 2001 Strife, by John Galsworthy   [John Galsworthy #21][strifxxx.xxx]2908
+Nov 2001 Joy, by John Galsworthy      [John Galsworthy #20][gljoyxxx.xxx]2907
+Nov 2001 The Silver Box , by John Galsworthy       [JG #19][silbxxxx.xxx]2906
+
+Nov 2001 The Burning Spear, by John Galsworthy     [JG #18][bsperxxx.xxx]2905
+Nov 2001 Quality and Others, by John Galsworthy    [JG #17][qualtxxx.xxx]2904
+Nov 2001 Inn of Tranquility et al, by John Galsworthy [#16][inntrxxx.xxx]2903
+Nov 2001 Concerning Letters, by John Galsworthy    [JG #15][cnlet10x.xxx]2902
+Nov 2001 Censorship and Art, by John Galsworthy    [JG #14][cnart10x.xxx]2901
+
+Aug 2001 The Patrician, by John Galsworthy [Galsworthy #13][ptrcn10x.xxx]2774
+Aug 2001 Fraternity, by John Galsworthy[John Galsworthy#12][frtrn10x.xxx]2773
+Aug 2001 The Country House, by John Galsworthy [John G #11][chousxxx.xxx]2772
+Aug 2001 The Island Pharisees, by John Galsworthy[J.G. #10][ipharxxx.xxx]2771
+
+Aug 2001 Complete Celebrated Crimes, by A. Dumas, Pere  #29[dcrimxxx.xxx]2760
+Aug 2001 Marquise de Ganges, by Alexander Dumas, Pere[# 27][gangexxx.xxx]2758
+Aug 2001 Vanika, by Alexander Dumas, Pere  [Dumas, Pere 26][vaninxxx.xxx]2757
+Aug 2001 Marquise Brinvillier, by Alexander[Dumas, Pere 25][brinvxxx.xxx]2756
+
+Aug 2001 Murat, by Alexander Dumas, Pere  [Dumas, Pere #24][muratxxx.xxx]2755
+Aug 2001 Countess St. Geran, by Alexander Dumas, Pere [#23][geranxxx.xxx]2754
+Aug 2001 Ali Pacha, by Alexander Dumas, Pere[Dumas Pere 22][alpacxxx.xxx]2753
+Aug 2001 Martin Guerre, by Alexander Dumas, Pere [Dumas 21][mguerxxx.xxx]2752
+Aug 2001 Man in the Iron Mask, by Alexander Dumas, Pere 20 [emaskxxx.xxx]2751
+
+Aug 2001 Joan of Naples, by Alexander Dumas, Pere     [#19][jonapxxx.xxx]2750
+Aug 2001 La Constantin, by Alexander Dumas, Pere      [#18][cnstnxxx.xxx]2749
+Aug 2001 Derues, by Alexander Dumas, Pere             [#17][derusxxx.xxx]2748
+Aug 2001 Nisida, by Alexander Dumas                   [#16][nisidxxx.xxx]2747
+Aug 2001 Urbain Grandier, by Alexander Dumas, Pere    [#15][ugranxxx.xxx]2746
+
+Aug 2001 Karl Ludwig Sand, by Alexander Dumas, Pere   [#14][ksandxxx.xxx]2745
+Aug 2001 Mary Stuart, by Alexander Dumas, Pere[Dumas/P #13][marysxxx.xxx]2744
+Aug 2001 Massacres of the South, by Alex. Dumas, Pere [#12][mssthxxx.xxx]2743
+Aug 2001 The Cenci, by Alexander Dumas, Pere/Dumas, Pere 11[cencixxx.xxx]2742
+Aug 2001 Borgias, by Alexander Dumas, Pere[Dumas, Pere #10][borgsxxx.xxx]2741
+
+Jul 2001 Medical Essays, by Oliver Wendell Holmes [OWH #9] [medicxxx.xxx]2700
+Jul 2001 Pages From and Old Volume of Life, by OW Holmes #8[pagesxxx.xxx]2699
+Jul 2001 A Mortal Antipathy, by Oliver Wendell Holmes[OWH7][antipxxx.xxx]2698
+Jul 2001 The Guardian Angel, by Oliver Wendell Holmes[OWH6][angelxxx.xxx]2697
+Jul 2001 Elsie Venner, by Oliver Wendell Holmes [Holmes #5][elsiexxx.xxx]2696
+
+Jun 2001 Over the Teacups, by Oliver W. Holmes [OWH Sr. #4][teacpxxx.xxx]2689
+
+Jun 2001 Five Tales, by John Galsworthy[John Galsworthy #9][5talexxx.xxx]2684
+Jun 2001 Saint's Progress, by John Galsworthy  [John G. #8][saintxxx.xxx]2683
+
+Jun 2001 The Poet at the Breakfast Table by O.W. Holmes #3][ptabtxxx.xxx]2666
+Jun 2001 The Professor at the Breakfast Table, by OW Holmes[prabtxxx.xxx]2665
+
+May 2001 Villa Rubein et al, by John Galsworthy [JG#7/FS#4][vlrbnxxx.xxx]2639
+
+Apr 2001 Awakening & To Let, John Galsworthy[Forsyte#3JG#6][toletxxx.xxx]2596
+
+Apr 2001 Indian Summer of a Forsyte, by John Galsworthy[#5][isoafxxx.xxx]2594
+
+Mar 2001 Man of Property, by John Galsworthy[Forsyte#1JG#4][mnprpxxx.xxx]2559
+
+
+--=={ 37 NEW U.S. POSTS }==--
+
+Jul 2003 A Week on the Concord and Merrimack Rivers [#HDT6][7cncdxxx.xxx]4232
+Jul 2003 A Week on the Concord and Merrimack Rivers [#HDT6][8cncdxxx.xxx]4232
+[Note 7 and 8 bit/accents versions][Author's Name:  Henry David Thoreau][HDT]
+Jul 2003 The Malady of the Century, Max Nordau             [maldyxxx.xxx]4231
+Jul 2003 Tom Swift and His Motor-Cycle, Victor Appleton    [27tomxxx.xxx]4230
+[Alternate Title: Fun and Adventures on the Road][Do we want these included?]
+
+Jul 2003 The South Pole, Vols 1 and 2, Roald Amundsen  [#3][7tsp12xx.xxx]4229
+Jul 2003 The South Pole, Vols 1 and 2, Roald Amundsen  [#3][8tsp12xx.xxx]4229
+Jul 2003 Giordano Bruno, by Walter Pater         [Pater#14][gdbrnxxx.xxx]4228
+Jul 2003 Tom Swift And His Wireless Message, by V. Appleton[26tomxxx.xxx]4227
+Jul 2003 The Empress Josephine, by Louise Muhlbach  [LM#13][mprjsxxx.xxx]4226
+
+Jul 2003 First and Last Things, by H. G. Wells   [Wells#22][frslsxxx.xxx]4225
+Jul 2003 Mr. Hogarth's Will, by Catherine Helen Spence [#2][hgrwlxxx.xxx]4224
+Jul 2003 The Mystery of a Hansom Cab, by Fergus Hume [FH#2][mhnscxxx.xxx]4223
+Jul 2003 Laperouse, by Ernest Scott                        [lprsexxx.xxx]4222
+Jul 2003 Shearing in the Riverina, by Rold Boldrewood      [shrrvxxx.xxx]4221
+
+Jul 2003 An Autobiography, by Catherine Helen Spence[CHS#1][tbspnxxx.xxx]4220
+Jul 2003 The Art of Living in Australia, by P.E.Muskett    [rtlvsxxx.xxx]4219
+Jul 2003 Sisters, by Ada Cambridge                         [ssterxxx.xxx]4218
+Jul 2003 A Portrait of the Artist as a Young Man, Joyce[#3][prtrtxxx.xxx]4217
+Jul 2003 Touch and Go, by D. H. Lawrence            [DHL#2][tchngxxx.xxx]4216
+
+Jul 2003 Oak Openings, by James Fenimore Cooper     [JFC#9][kpnngxxx.xxx]4215
+Jul 2003 The Puritain Widow, Shakespeare Apocrypha         [1ws51xxx.xxx]4214
+Jul 2003 The Founder of New France,by Charles W.Colby[Ca#3][fndnfxxx.xxx]4213
+[Chronicles of Canada 3, Edited by George M. Wrong and H. H. Langton]
+Jul 2003 Culture and Anarchy, by Matthew Arnold            [8cltnxxx.xxx]4212
+Jul 2003 Culture and Anarchy, by Matthew Arnold            [7cltnxxx.xxx]4212
+Jul 2003 The Treasure, by Kathleen Norris       [Norris #2][trsurxxx.xxx]4211
+
+Jul 2003 Our War With Spain For Cuba's Freedom, by T. White[wrspcxxx.xxx]4210
+[Author's full name: Trumbull White]
+Jul 2003 At the Mercy of Tiberius, by Augusta Evans Wilson [mrctbxxx.xxx]4209
+Jul 2003 The Journal to Stella, Jonathan Swift   [Swift #5][stllaxxx.xxx]4208
+
+
+Jun 2003 Diary of Samuel Pepys, 1668 N.S. Complete  [SP#80][sp80gxxx.xxx]4195
+Jun 2003 Diary of Samuel Pepys, December 1668       [SP#79][sp79gxxx.xxx]4194
+Jun 2003 Diary of Samuel Pepys, November 1668       [SP#78][sp78gxxx.xxx]4193
+Jun 2003 Diary of Samuel Pepys, Sep/Oct 1668        [SP#77][sp77gxxx.xxx]4192
+Jun 2003 Diary of Samuel Pepys, August 1668         [SP#76][sp76gxxx.xxx]4191
+
+Jun 2003 Diary of Samuel Pepys, Jun/Jul 1668        [SP#75][sp75gxxx.xxx]4190
+Jun 2003 Diary of Samuel Pepys, May 1668            [SP#74][sp74gxxx.xxx]4189
+Jun 2003 Diary of Samuel Pepys, April 1668          [SP#73][sp73gxxx.xxx]4188
+Jun 2003 Diary of Samuel Pepys, March 1667/68       [SP#72][sp72gxxx.xxx]4187
+Jun 2003 Diary of Samuel Pepys, February 1667/68    [SP#71][sp71gxxx.xxx]4186
+
+Jun 2003 Diary of Samuel Pepys, January 1667/68     [SP#70][sp70gxxx.xxx]4185
+
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,201 eTexts online as of December 12, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.38 from each book,
+for Project Gutenberg to have given away $1,000,000,000,000 [One
+Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.46 when we had 4059 Etexts on November 1.
+This "cost" is down from $2.53 when we had 3951 Etexts on October 3.
+This "cost" is down from $2.61 when we had 3828 Etexts on September 5.
+This "cost" is down from $2.70 when we had 3709 Etexts on August 1.
+This "cost" is down from $2.76 when we had 3620 Etexts on July 4.
+This "cost" is down from $2.83 when we had 3534 Etexts on June 6.
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2.
+This "cost" is down from $2.97 when we had 3367 Etexts on April 4.
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on April 4
+This "cost" is down from $3.10 when we had 3225 Etexts on March 7
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on December 6, 2000
+
+As you can see, we have added about 1200 new eBooks in the last year,
+and even more, as we cut the number of *reserved* numbers in half.
+
+Weekly Yearly
+Newsdate Etexts Avg/wk
+
+12/12/01 40 23.31
+12/05/01 19 22.98
+December total 59
+
+11/28/01 22 23.06
+11/21/01 13 23.09
+11/14/01 20 23.31
+11/07/01 14 23.25
+November total 78
+
+10/31/01 23 23.47
+10/24/01 31 23.09
+10/17/01 31 22.90
+10/10/01 22 22.70
+10/03/01 29 22.74
+October total 136
+
+09/26/01 27 22.59
+09/19/01 31 22.47
+09/12/01 31 22.3
+09/05/01 27 22.2
+September total 116
+
+08/29/01 25 22
+08/22/01 21 22
+08/15/01 30 22
+08/08/01 20 22
+08/01/01 22 22
+August total 117
+
+07/25/01 24 22
+07/18/01 22 22
+07/11/01 21 23
+07/04/01 29 23
+July Total 96
+
+06/27/01 22 23
+06/20/01 18 23
+06/13/01 17 23
+06/06/01 20 23
+June Total 77
+
+05/31/01 18 24
+05/23/01 16 24
+05/16/01 18 24
+05/09/01 18 25
+05/02/01 39 25
+May Total 109
+
+04/25/01 15 24
+04/18/01 11 25
+04/11/01 12 26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks 326 25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282 21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326 20.38
+
+***
+
+FIELD TRIPS TO THE LOUVRE, MINUS THE BUS
+The Louvre museum, Pages Jaunes (the French Yellow Pages), and the
+French Ministry of Education have collaborated on louvre.edu, a Web
+site that allows students to take a virtual tour of the museum from
+their classroom computers. Over 3,000 works of art and 350 exhibit
+halls have been brought online. With louvre.edu, students can learn
+not only about artwork, but also how to use the Internet. This is
+especially important in a country where only 20 percent of
+households have online access. The Web site was created in response
+to a mandate from Prime Minister Lionel Jospin to make the Web
+accessible to French schools and administrative offices. The site
+features a cyberdesk where students can store artwork for easy
+reference. The site's appeal is not restricted to art classes:
+Teachers of ancient civilizations and languages are supplementing
+their material with connections to louvre.edu
+(New York Times, 6 December 2001)
+
+GUT CHANGE: E-BOOK RETREAT AT AOL TIME WARNER
+This past August, AOL Time Warner books division chairman Laurence
+Kirschbaum acknowledged that demand for e-books was a little slow but that
+his gut told him things would be all right: "It is taking longer than
+expected, but everything in my gut says now is the time to push harder
+rather than slow down." But now the company is laying off almost all of the
+29 employees in the e-book division. Mr. Kirschbaum says: "At some point
+reality sets in and one has to be realistic about how much of an uphill
+climb this is going to be. I have been wrong so far -- I have been
+overoptimistic from the beginning, so at a certain point you have to
+question whether your logic is sound." (New York Times 5 Dec 2001)
+http://partners.nytimes.com/2001/12/05/technology/05BOOK.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+   gmonthly (for monthly newsletters)
+   gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+         subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+         subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+         unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+
+
+
+
+

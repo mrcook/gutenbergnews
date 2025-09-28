@@ -1,0 +1,715 @@
+---
+params:
+  id: 1982
+title: "PG Weekly Newsletter: Part 1 (2003-04-23)"
+date: 2003-04-23T15:02:44+00:00
+author: Michael Cook
+layout: post
+url: /20030423/pg-weekly-newsletter-2003-04-23-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_April_23.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, April 23, 2003***
+*****eBooks Readable By Both Humans and Computers For Nearly 32 Years******
+
+                       1,000 eBooks in 2003!!!
+
+
+  Today is World Book Day and in the US it is National Library Week!!!
+
+           Help celebrate these events by giving eBooks!!!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+1 Year 13 Days Ago, Thursday, April 10th, 2002 PG Reached 5,000 eBooks!
+
+                     Today we passed 7,700!!!
+
+               That's ~2,624 New eBooks In 12 Months!!!
+
+     That's 100 Over 1/4 of the 10,000 eBook Goal We Started On!
+
+                      Only 2,257 to #10,000!!!
+
+       That means the part of the 10,000 we have already done
+         is over 3 1/3 TIMES AS BIG as what is left to do!!!
+
+
+Over Our 31 3/4 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+            So far this year we are averaging ~280!!!
+
+                               ***
+
+    Please Note The Startup of Project Gutenberg--Canada [Below]
+and Project Gutenberg of Mexico &gt;&gt; Gabriela Valencia &lt;zane@axtel.net&gt;
+
+                               ***
+
+   In the first 3 3/4 months of this year, we produced 1000 new eBooks.
+
+     It took us from 1971 to 1997 to produce our first 1,000 eBooks!
+
+                 That's 15 WEEKS as Compared to 26 Years!
+
+                   71   New eBooks This Week
+                   55   New eBooks Last Week
+                  195   New eBooks This Month [Apr]
+
+                  280   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 1000   New eBooks in 2003  &lt;&lt;&lt;
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                7,743   Total Project Gutenberg eBooks
+                5,113   eBooks This Week Last Year
+                2,624   New eBooks In The Last 12 Months
+
+                  223   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 40 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1000 New eBooks So Far in 2003
+
+              It took us 26 years for the first 1000!
+
+        That's the 16 WEEKS of 2003 as Compared to 26 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1000
+
+
+Aug 1997 H. F. Cary's Translation of Dante, Entire Comedy  [0ddccxxx.xxx]1008
+Aug 1997 H. F. Cary's Translation of Dante, Paradise       [3ddccxxx.xxx]1007
+Aug 1997 H. F. Cary's Translation of Dante, Puragorty      [2ddccxxx.xxx]1006
+Aug 1997 H. F. Cary's Translation of Dante, Hell           [1ddccxxx.xxx]1005
+
+Aug 1997 Longfellow's Translation of Dante, Entire Comedy  [0ddclxxx.xxx]1004
+Aug 1997 Longfellow's Translation of Dante  Paradise       [3ddclxxx.xxx]1003
+Aug 1997 Longfellow's Translation of Dante, Purgatory      [2ddclxxx.xxx]1002
+Aug 1997 Longfellow's Translation of Dante, Inferno        [1ddclxxx.xxx]1001   Aug 1997 Longfellow's Translation of Dante, Inferno        [1ddclxxx.xxx]1001
+
+Aug 1997 La Divina Commedia di Dante in Italian, 7-bit text[0ddcdxxx.xxx]1000
+Aug 1997 Divina Commedia di Dante: Paradiso, 7-bit Italian [3ddcdxxx.xxx] 999
+Aug 1997 Divina Commedia di Dante: Purgatorio 7-bit Italian[2ddcdxxx.xxx] 998
+Aug 1997 Divina Commedia di Dante: Inferno, 7-bit Italian  [1ddcdxxx.xxx] 997
+
+Jul 1997 Don Quixote, by Migeul de Cervantes [Saavedra][#1][1donqxxx.xxx] 996
+Jul 1997 Ballads of a Bohemian, by Robert W. Service[RWS#5][blbhmxxx.xxx] 995
+Jul 1997 Riders to the Sea, J. M. Synge                    [rdrsexxx.xxx] 994
+Jul 1997 Malbone: An Oldport Romance by Thomas W. Higginson[malbnxxx.xxx] 993
+
+Jul 1997 Theologico-Political Treatise P4, by Spinoza [S#9][4spntxxx.xxx] 992
+Jul 1997 Theologico-Political Treatise P3, by Spinoza [S#8][3spntxxx.xxx] 991
+Jul 1997 Theologico-Political Treatise P2, by Spinoza [S#7][2spntxxx.xxx] 990
+Jul 1997 Theologico-Political Treatise P1, by Spinoza [S#6][1spntxxx.xxx] 989
+
+Jul 1997 The Education of the Child, by Ellen Key          [edkidxxx.xxx] 988
+Jul 1997 Popular Science Monthly, Oct, Nov, Dec, 1915 V.86 [86psmxxx.xxx] 987
+Jul 1997 Master and Man, by Leo Tolstoy, Trans. L & A Maude[mramnxxx.xxx] 986
+Jul 1997 Father Sergius, by Leo Tolstoy, Trans. L & A Maude[fsrgsxxx.xxx] 985
+
+Jul 1997 Who Was Who: 5000 BC - 1914, Irwin L. Gordon, Ed. [wwaswxxx.xxx] 984
+Jul 1997 Eastern Counties of England by Daniel Defoe [DD#5][ttecexxx.xxx] 983
+Jul 1997 The Book of Nonsense, by Edward Lear              [nnsnsxxx.xxx] 982
+Jul 1997 Beowulf, Anonymous, Translated by Gummere         [bwulfxxx.xxx] 981
+
+Jul 1997 Alice Adams, by Booth Tarkington [Tarkington #4]  [aladmxxx.xxx] 980
+Jul 1997 Heroes of the Telegraph, by J. Munro              [htgrfxxx.xxx] 979
+Jul 1997 The Yates Pride, by Mary E. Wilkins Freeman       [ytsprxxx.xxx] 978
+Jul 1997 American Notes, by Rudyard Kipling  [Kipling #5]  [amrntxxx.xxx] 977
+
+Jul 1997 Tanglewood Tales, by Nathaniel Hawthorne [NH #6]  [tnglwxxx.xxx] 976
+Jul 1997 Ethics, by Benedict de Spinoza/Elwes Part 5 [#5]  [5spnexxx.xxx] 975
+Jul 1997 The Secret Agent, by Joseph Conrad  [Conrad #13]  [agentxxx.xxx] 974
+Jul 1997 Howard Pyle's Book of Pirates   [Howard Pyle #2]  [hpprtxxx.xxx] 973
+
+Jul 1997 The Devil's Dictionary, by Ambrose Bierce[Bierce3][dvldcxxx.xxx] 972
+Jul 1997 Ethics, by Benedict de Spinoza/Elwes Part 4 [#4]  [4spnexxx.xxx] 971
+Jul 1997 Uncle Josh's Punkin Centre Stories, by Cal Stewart[ncjshxxx.xxx] 970
+Jul 1997 The Tenant of Wildfell Hall, by Anne Bronte [B#4] [wldflxxx.xxx] 969
+.(Note:  the filename wldflxxx.xxx is also used for a totally different
+.(eBook, #3003 in etext02)
+
+Jul 1997 Martin Chuzzlewit, by Charles Dickens[Dickens #32][chuzzxxx.xxx] 968
+Jul 1997 Nicholas Nickleby, by Charles Dickens[Dickens #31][ncklbxxx.xxx] 967
+
+***
+
+Today Is Day #112 of 2003
+This Completes Week #16
+258 Days/37 Weeks To Go
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #53 Of Our SECOND 5,000 eBooks
+
+Perhaps Our 10,000th eBook By The End of 2003!
+
+   63   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections in separate section
+     1 New From PG Australia
+    54 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Requests For Assistance:
+
+For me, we'd like to have one of these, will pay for it plus shipping:
+
+For value for money you can't beat the Franklin eBookMan, out of
+production but currently on sale in the US for $30 at Fry's. The eBM is
+quirky but lovable and has gradually accumulated a reasonable collection
+of software in addition to the standard PDA bits and pieces, including
+the MobiPocket Reader. Top-end models have a backlit screen. Ideal for
+beginners. The main drawback is the daft protection system which
+requires each individual eBM to be separately registered with Franklin
+before it can be used - so no in-store demos, and if you lose the
+operating system you've got to go online on your own PC to download it
+again. It supports MMC cards but not Sdata.
+
+***
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+We need a volunteer near Chicago to help feed books to our newest
+super-scanner. . .we have a stack of 200 waiting, and just cannot
+stay away to feed them in 24/7.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+Newest Project Gutenberg Mirror!
+by Northshore Computer Solutions
+http://www.northshorecomputer.net/pg
+My name is Jeff Williamson, operating a Linux Server in New Orleans, LA.
+Happy to help to spread literacy through the Internet.
+
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Statistical Review
+
+In the 16 weeks of this year, we have produced 1000 new eBooks.
+It took us from 1971 to 1997 to produce our FIRST 1000 eBooks!!!
+
+         That's 16 WEEKS as Compared to 26 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003.
+
+With 7,743 eBooks online as of April 16, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.29 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $1.96 when we had 5113 eBooks A Year Ago
+
+Can you imagine 7,000 books each costing $.67 less a year later???
+Or. . .would this say it better?
+Can you imagine 7,000 books each costing 1/3 less a year later???
+
+At 7743 eBooks in 31 3/4 Years We Averaged
+    244 Per Year   [About how many we do per month these days!]
+     20 Per Month
+     .7 Per Day
+
+At 1000 eBooks Done In 2003 We Averaged
+      9 Per Day
+     63 Per Week
+    278 Per Month
+
+
+***Headline News***
+
+MICROSOFT SETTLES FLORIDA CLASS ACTION SUIT
+Microsoft has settled a class action lawsuit that claimed that the company
+violated a Florida state law against unfair trade practices in the manner
+it sold operating system and applications software. Under the terms of the
+agreement, Microsoft will provide vouchers worth up to $202 million for
+people to buy computers and related products from any manufacturer.
+Vouchers will be available to class action participants who purchased a
+Microsoft operating system, productivity suite, spreadsheet or
+wordprocessing software between Nov. 16, 1995 and Dec. 31, 2002. Half of
+the total value of any unclaimed vouchers will be donated to Florida's most
+needy public schools and the other half will revert to Microsoft.
+(AP 16 Apr 2003)
+http://apnews.excite.com/article/20030416/D7QELFCG0.html
+
+CNN DEFENDS ITSELF AGAINST NEWS-FILTERING CHARGES
+In a memo to his staff, CNN top news executive Eason Jordan has denied that
+his motive for failing over a 12-year period to report horrors of the
+Saddam Hussein regime was to keep the CNN Baghdad bureau open. "A number of
+people have told me CNN should have closed its Baghdad bureau, helped
+everyone who told me the horror stories flee Iraq, with me thereafter
+telling those stories publicly long before now. While that is a noble
+thought, doing so was not a viable option." He says that such victims would
+not have left their country simply to be able to share their stories with
+the world. "So we reported on Iraq's human rights record from outside Iraq
+and featured many interviews with Iraqi defectors who described the
+regime's brutality in graphic detail. When an Iraqi official, Abbas
+al-Janabi, defected after his teeth were yanked out with pliers by Uday
+Hussein's henchmen, I worked to ensure the defector gave his first TV
+interview to CNN. He did." (Atlanta Journal-Constitution 16 Apr 2003)
+http://www.accessatlanta.com/ajc/opinion/0403/16jordan.html
+
+COMPUTER MAKERS TARGET RECYCLING-FRIENDLY DESIGN
+Computer makers such as Hewlett-Packard and Dell, which recently have
+started getting involved in the recycling of their obsolete machines, are
+beginning to change the way they build their products, making it easier to
+dispose of them in an environmentally friendly way. "The more they become
+familiar with these end-of-life concerns, the more likely it is they close
+the loop," says Ted Smith, executive director of Silicon Valley Toxics
+Coalition, which is part of a group that advocates all electronics makers
+taking responsibility for their products' disposal. The biggest challenge,
+says Smith, is redesigning the products so they don't use so many toxic
+compounds to begin with. Right now, Japanese companies are ahead of the
+game, with many manufacturers already establishing goals and timetables for
+removing lead and the bromine currently used in plastics as a
+fire-retardant. "They are being driven, as everyone else is, by European
+regulations," says Smith. For instance, NEC introduced a PC last year that
+has a completely recyclable case and whose circuit boards are entirely
+lead-free. Meanwhile, HP has a working prototype of an inkjet printer that
+features a biodegradable plastic shell made from corn rather than
+petroleum. And Dell has revamped its assembly process to make it easier to
+take the machines apart at the end. The average desktop can now be
+disassembled in two minutes; more complicated workstations take about twice
+that long. (CNet News.com 22 Apr 2003)
+http://news.com.com/2100-1041-997755.html?tag=fd_lede2_hed
+
+ASK JEEVES GETS A MAKEOVER
+In a bid to stay in the game in the fiercely competitive search engine
+market, Ask Jeeves has revamped its consumer search engine tool, following
+the lead of Yahoo and Google. Ask Jeeves Web properties president Steve
+Berkowitz calls the upgrade "the beginning of a new direction for Ask
+Jeeves" and a significant improvement on search in general. "Search is
+imperfect because we are asking technology to respond to human input, which
+is based on the way people think. We believe great search is a combination
+of science and art." Although the new search engine relies heavily on
+technology, query results will also include suggestions from Ask Jeeves'
+editorial team, blending hand-selected content and answers with automated
+responses. The company says its new service will make it easier to find
+pictures and news headlines, and will include its popular clarification
+tools (for refining a search) and automated spell checker feature. "The
+battle right now is focused on the user experience," says a Forrester
+Research analyst, who notes that while the top five companies are sparring
+over the consumer market, the enterprise market is still wide open and is
+slated to become an important part of the overall search business.
+(E-Commerce Times 21 Apr 2003)
+
+BIGGER ONLINE ADS SQUEEZE WEB CONTENT
+Several top online publishers, including New York Times Digital, Forbes.com
+and CBSMarketwatch.com, have adopted new online ad formats that give
+marketers a full half-page to tout their products and services. Others,
+such as USAToday.com, are expected to follow suit. "The goal is to make it
+easier on the traditional advertiser and to speak their language -- a
+half-page ad is something they're used to in print," says Dan Silmore,
+director of marketing for CBSMarketwatch.com. The new format is part of the
+industry's shift away from banner ads and Web publishers hope the new
+dimensions will be approved as a standard size by the Interactive
+Advertising Bureau. Michael Zimbalist, executive director of the Online
+Publishers Association, says that the industry hasn't "nailed a final set
+of online ad units," but is still experimenting to see which formats
+advertisers find most attractive. "The banner wasn't a great medium for
+either creative or information-rich advertising. This is part of an
+increasing trend to have fewer but bigger ad units." But Web design expert
+Jakob Nielsen says the half-page units are a move in the wrong direction.
+"Ironically, the one type of ads that really work on the Web are the small,
+text-only ads on search engines. I would advise other sites to take what works
+and make it better rather than take what doesn't work and make it bigger."
+(CNet News.com 21 Apr 2003)
+http://news.com.com/2100-1024-997687.html?tag=lh
+
+AT&T TRIES TO COLLECT FROM VICTIMS OF PHONE VANDALS
+AT&T has been trying to get reimbursement for long-distance phone calls
+made by fraudulently hacking into the voicemail systems of the victims and
+re-routing international collect calls placed as part of the scheme. The
+calls were typically placed when the businesses were closed, and were
+received by voicemail systems reprogrammed by the vandals to respond with
+the answer "yes" to the automated AT&T query about whether the customer
+agrees to accept charges for the call. Linda Sherry of Consumer Action
+calls AT&T's demand that the victims of the fraud pay for the fraudulently
+placed calls "outrageous." (New York Times 21 Apr 2003)
+http://partners.nytimes.com/2003/04/21/technology/21SCAM.html
+
+CNN GLITCH REVEALS PREMATURE OBITS
+A glitch on the CNN.com Web site accidentally made available draft
+obituaries written in advance for Dick Cheney, Ronald Reagan, Fidel Castro,
+Pope John Paul II and Nelson Mandela. "The design mockups were on a
+development site intended for internal review only," says a CNN
+spokeswoman. "The development site was temporarily publicly available
+because of human error." The pages were yanked about 20 minutes after being
+exposed. (CNet News.com 17 Apr 2003)
+http://news.com.com/2100-1025-997367.html?tag=fd_top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+DARPA REPORTEDLY REVOKES OPENBSD FUNDING
+Funding from the U.S. military for the OpenBSD project has reportedly
+been cancelled after the leader of the project made anti-war comments,
+which were printed in a Canadian newspaper. Theo de Raadt, who is a
+resident of Canada, expressed his opposition to the U.S. war in Iraq
+and said he feels uneasy taking money from the U.S. military. He said
+he tries to convince himself, however, that "our grant means a half of
+a cruise missile doesn't get built." The funding comes from the U.S.
+Defense Advanced Research Projects Agency (DARPA), and the project is
+handled through the University of Pennsylvania. According to de Raadt,
+Jonathan Smith, a computer science professor at the university and head
+of the project there, called last week to say that DARPA had pulled the
+funding. A spokeswoman from DARPA denied that funding had been cut off.
+She said the agency is simply conducting a review of the project and
+will announce results when the review is complete.
+IDG, 18 April 2003
+http://www.idg.net/ic_1308816_9677_1-5043.html
+
+FTC CRACKS DOWN ON PORN SPAMMER
+The Federal Trade Commission asked the U.S. District Court for the
+Northern District of Illinois, Eastern Division, to bar Ballwin (a
+suburb of St. Louis) resident Brian Westby from sending e-mail
+containing deceptive subject lines, false reply information, and
+pornographic material designed to steer recipients to an adult Web
+site. The FTC claimed that the pornographic spam operation has grossed
+more than $1 million in commissions and prompted almost 50,000 consumer
+complaints in response to a recent bulk e-mail campaign. The suit is
+the first to target deceptive subject lines and the second on
+"spoofing," which is e-mail that uses false reply-to or from
+information that leads recipients to assume an innocent third party
+sent the message.
+ZDNet, 17 April 2003
+http://zdnet.com.com/2100-1105-997329.html
+
+SURVEY FINDS ONE-QUARTER OF AMERICANS ARE OFFLINE
+A study by the Pew Internet and American Life Project found that almost
+25 percent of Americans do not use the Internet. The number of people
+dropping offline equals the number of new users, leading the
+researchers to conclude that the 60 percent use of the Internet
+measured in October 2001 is likely to persist. About 42 percent of
+Americans say they do not use the Internet, but half have either used
+it in the past or access it through other family members. Only 17
+percent are classified as actual net dropouts, but this is an increase
+from the 13 percent identified in a similar 2000 survey.
+BBC, 17 April 2003
+http://news.bbc.co.uk/2/hi/technology/2956315.stm
+
+AOL GOES AFTER SPAMMERS
+As part of a multilayered approach to fighting spam, America Online
+(AOL) has filed five lawsuits in Virginia against several companies and
+individuals for violations of the Virginia Computer Crimes Act, the
+Federal Computer Fraud and Abuse Act, and the Washington Commercial
+Electronic Mail Act. AOL is seeking at least $10 million in damages
+from the defendants for sending approximately one billion unsolicited
+e-mails to its customers, more than eight million of whom have filed
+complaints with AOL. AOL is also fighting spam by supporting federal
+anti-spam legislation, including the recently introduced CAN-SPAM Act,
+and by taking technological steps to limit spam. According to an AOL
+spokesman, the company has been blocking mail servers associated with
+certain residential IP addresses that have been identified as sending spam.
+IDG, 15 April 2003
+http://www.idg.net/ic_1306559_9677_1-5041.html
+
+MICROSOFT SETTLES FLORIDA SUIT
+Microsoft has settled a class-action lawsuit with residents of Florida.
+According to the suit, Microsoft violated trade practices in the way it
+sold software, and consumers who purchased certain of the company's
+products between late 1995 and the end of 2002 will be eligible for
+vouchers totaling $202 million. The vouchers will be good for hardware
+and software from any manufacturer. Details were not released about
+when the vouchers will expire, but the settlement stipulates that half
+of unclaimed vouchers will be donated to public schools. One public
+school official called that part of the settlement "great news for
+schools all across Florida," saying that "the timing is particularly
+helpful" in the current budgetary situation.
+Nando Times, 15 April 2003
+http://www.nandotimes.com/technology/story/855791p-5993194c.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_04_23_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_04_23_part_1.txt</a>

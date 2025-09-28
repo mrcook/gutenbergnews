@@ -1,0 +1,242 @@
+========
+Subject: Project Gutenberg's 26th Anniversary Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: Michael Hart <hart@pobox.com>
+Date: Wed, 2 Jul 1997 13:32:05 -0500 (CDT)
+
+Our email is back up, but our FTP is still iffy. . .see below.
+
+
+26th Anniversary Edition of the Project Gutenberg Newsletter
+
+July 4th 1971 to July 4th 1997:  nearly 1,000 Etexts online.
+
+We have chosen Howard Pyle's "Merry Adventures of Robin Hood"
+as our 26th Anniversary edition, and are still working madly
+on Dante's Divine Comedy in Italian and several English text
+translations for our 1,000th Etext, which should be released
+officially on September 1st.
+
+This is going to be quite an effort, anyone who has not been
+in touch with me lately about it, please contact me again.
+
+
+WIRED magazine's July issue listed Project Gutenberg as part
+of their 40 year timeline of the most important events in an
+extensive "informed projection" of the causes and effects of
+the events of the 40 years surrounding the year 2000 in four
+pages of foldout between pages 122 and 127.  The listing for
+Project Gutenberg is near the top center of the four pages--
+this is a very impressive list to be included in.  **Blush**
+[I don't blush that often, but this is impressive! company.]
+
+
+LOST EMAIL!  If you haven't heard from me, see below.
+
+As announced two weeks ago, Prairienet was down last week to
+make upgrades, and I have replied to all of the over 1400 of
+your emails that I received over that period, but I know the
+fact is that a lot of email is in the bit bucket in the sky,
+as our sysadmins put it, so if you have not heard from me, a
+resend will be necessary. . .sorry for the hassle.
+
+Our email is now functioning normally but our Prairienet FTP
+sites are still not working, none of them, so you would have
+to get the files from alternate sites, listed below.
+
+If you are SENDING us files, please use mrcnext right now or
+trixie, if mrcnext is down.
+
+We still need more people with SCANNERS. . .please email our
+Director of Production, Dianne Bean <beand@pr.erau.edu> if a
+scanner is available to you.
+
+We need to find a copy of:
+Sir D'arcy Thompson's "On Growth and Form"
+1917 Cambridge University, or reprint.
+"Geoffrey F. Pawlicki" <geof@netcom.com>
+
+
+Here is a list of a dozen new releases since the last Newsletter:
+
+
+Mon Year    Title and Author  [# of PG books by the author][filename.ext] ###
+
+Jul 1997 Uncle Josh's Punkin Centre Stories, by Cal Stewart[ncjshxxx.xxx] 970
+Jul 1997 The Tenant of Wildfell Hall, by Anne Bronte [B#4] [wldflxxx.xxx] 969
+
+Jul 1997 Martin Chuzzlewit, by Charles Dickens[Dickens #32][chuzzxxx.xxx] 968
+Jul 1997 Nicholas Nickleby, by Charles Dickens[Dickens #31][ncklbxxx.xxx] 967
+Jul 1997 Maid Marian, by Thomas Love Peacock               [maidmxxx.xxx] 966
+Jul 1997 The Black Tulip, by Alexandre Dumas[Pere][Dumas#1][tbtlpxxx.xxx] 965
+
+Jul 1997 The Adventures of Robin Hood, by Howard Pyle[HP#1][2rbnhxxx.xxx] 964
+Jul 1997 Little Dorrit, by Charles Dickens  [Dickens #30]  [ldortxxx.xxx] 963
+Jul 1997 The Poems of Henry Kendall, by Henry Kendall      [phkndxxx.xxx] 962
+Jul 1997 Glinda of Oz, by L. Frank Baum  [LFB#17] [Oz#14]  [12wozxxx.xxx] 961 
+
+
+***
+
+You can get the Project Gutenberg books via FTP and the Web:
+
+[This site is in Urbana, Illinois, and is quite fast]
+ftp uiarchive.cso.uiuc.edu or ftp 128.174.5.14
+login:  anonymous
+password:  yourname@your.machine
+cd pub
+cd etext
+cd gutenberg
+[or just cd /pub/etext/gutenberg/etext97] 
+cd etext97  [96, 95,94, 93, 92, 91 or 90.  70's and 80's are in /etext90]
+get filename  (be sure to set bin, if you get the .zip files)
+get more files
+quit
+ 
+get GUTINDEX.96 to see all Project Gutenberg Etexts to date.
+get GUTINDEX.97 to see current releases.
+New files in etext97, of course.
+
+ftp prairienet.org
+*** [This is usually the first site they appear in, but is slow]
+[This site is in Champaign, Illinois]
+ftp ftp.prairienet.org or ftp 192.17.3.4
+username:  anonymous
+password:  yourlogin@your.machine.domain
+[this is your email address where you are]
+
+cd pub/providers/gutenberg/etext97  [etc, as above]
+
+ls or dir for a listing of files
+
+get filename.txt (ascii files)
+get filename.zip (binary zipped files)
+
+be sure to type "binary" before retrieving the .zip files!
+
+***
+
+New major site for Eastern United States!
+
+For those on the East Coast of the United States we have
+sailor.gutenberg.org or 198.76.201.198 in Baltimore, MD.
+This site should provide very fast service for both WWW
+and FTP service.
+
+***
+
+In Europe, please try our site at:
+Bucharest High School of Computer Science
+Serving Central and Eastern Europe
+ftp://ftp.lbi.ro/pub/Books/Gutenberg
+
+and a new site up at:
+
+http://www.informika.ru -- official server of the
+Ministry of Education of Russia (the Russian part
+of the server not equivalent to the English one).
+
+http://www.informika.ru/windows/books/gutenb/list.html
+
+This is only available on the Russian language side of
+their system, but is pretty easy to see.  Click on the
+WINDOWS icon at the bottom of the main menu.  Then, on
+the lower left selection [the web names will pop up in
+English] which is /books.  The first one of that list,
+The Palms Russian Public Library, is Project Gutenberg
+Etexts in .zip format as mirrored from uiarchive.
+
+
+and our newest:
+
+ftp://ftp.pinknet.cz/pub/etext/gutenberg/  in the Czech Republic.
+
+***
+
+http://www.mirrors.org.sg/pg
+in Singapore
+
+The Gutenberg archive can also be accessed from Singapore at
+http://www.sol.com.sg/pg
+
+These two addresses reflect the same database in Singapore.
+and others are starting soon in Japan and Taiwan.
+
+***
+
+Project Gutenberg Web Sites can now be reached at: 
+[This site is in Nevada]
+http://promo.net/pg/   [This is the definitive site for now]
+ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/pg_home.html
+http://www.prairienet.org/pg
+
+and from Silicon Valley at   
+ftp://cdrom.com/pub/gutenberg
+and
+ftp://archive.org/pub/gutenberg/etext/etext97
+and etext96/95/94/93/92/91 and etext90, of course.
+
+and from Dallas, Texas at
+ftp://viemeister.com/pub/gutenberg
+
+And for you Gopher types:
+
+gopher://spinaltap.micro.umn.edu:70/11/Gutenberg 
+
+**
+And our newest sites:
+ftp://ftp.ihug.co.nz/pub/mirror/gutenberg 
+Adam Moore <sickboy@ihug.co.nz> and Sydney, AU
+
+Our Newest Site Is In Taiwan                     
+ftp transend.com.tw/mirrors/gutenberg/etext      
+or, with your browser, the URL is:               
+ftp://ftp.transend.com.tw/mirrors/gutenberg/etext
+
+Please let me know if you need more information.
+
+Michael S. Hart
+Project Gutenberg
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL 61825-2782
+[Check should be made out to "Project Gutenberg/CMU"]
+
+Thanks!
+
+Michael
+
+
+
+To subscribe or unsubscribe to or from the Project Gutenberg Newsletter
+or change your subscription address to Project Gutenberg's Newsletter:
+
+send email to:
+listproc@prairienet.org
+say:
+unsub gutnberg
+unsub gutvol-l
+Message MUST be sent from the address you subbed from, of course.
+
+To sub from a new address, send message from there:
+sub gutnberg [yourfirstname] [yourlastname]
+If you want the volunteers' list           
+sub gutvol-l [yourfirstname] [yourlastname]
+[That is "gutvol-L" NOT "gutvol-1"]
+
+Thanks!!
+
+Michael S. Hart
+<hart@pobox.com>
+Project Gutenberg
+Executive Director
+
+
+
+
+
+
+

@@ -1,0 +1,568 @@
+The Project Gutenberg Weekly Newsletter 01 Jun 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 68 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 01 Jun 2005: 16364 (incl. 442 Aus.).
+
+Last week the Total Count was 16295, including 441 at PG of Australia.
+This week we added 69 new.
+
+RESERVED/PENDING count: 45
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Pamela Giraud, by Honore de Balzac                                        8079
+  [Updated edition of: etext05/pamel10.txt]
+  [Link: http://www.gutenberg.org/8/0/7/8079 ]
+  [Files: 8079.txt]
+
+Chapters of Opera, by Henry Edward Krehbiel                               5995
+  [Updated edition of etext04/chppr10.txt]
+  [Link: http://www.gutenberg.net/5/9/9/5995 ]
+  [Files: 5995-8.txt]
+
+A Passion in the Desert, by Honore de Balzac                              1555
+  [Translator: Ernest Dowson]
+  [Updated edition of: etext98/apitd10.txt]
+  [Link: http://www.gutenberg.org/1/5/5/1555 ]
+  [Files: 1555.txt]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+A new HTML version of the following text has been added:
+
+May 2005 Four Faultless Felons, by G K Chesterton           [030078xx.xxx]0227A
+   [http://gutenberg.net.au/ebooks03/0300781h.html ]
+
+.:: GUTINDEX.ALL is being corrected as follows:
+
+Clarify title and contents:
+Three Years in Europe, by W. Wells Brown                                 15830
+   [Subtitle: Places I Have Seen and People I Have Met]
+   [Includes: A Memoir of the Author, by William Farmer]
+
+Correct title:
+Victorian Short Stories: Stories of Courtship, by Various                15381
+
+A Short History of a Long Travel from Babylon to Bethel,by Stephen Crisp 15730
+   [Ed. & Intro.: Anna Cox Brinton]
+   [Illus.: Flo-Ann Goerke]
+
+Correct volume number (158, not 152):
+Punch, Vol. 158, March 17, 1920, Ed. by Sir Owen Seaman                  15615
+
+Correct title, add subtitle and contributor:
+Mar 2005 Notes to Shakespeare, Vol. I, by Samuel Johnson   [josh1xxx.xxx] 7780
+   [Subtitle: Comedies]
+   [Ed. & Intro.: Arthur Sherbo]
+
+Correct the title ("Inaugural", not "Inagural")(finally! <g>):
+Jan 2004 U.S. Presidential Inaugural Addresses, by Various [inaguxxx.xxx] 4938
+
+Add copyright indicator:
+Jun 1991 Peter Pan, by James M. Barrie   (for U.S. only}   [peterxxx.xxx]
+16C
+   (NOTE:  Please do not download Peter Pan outside the US; refer to the
+    etext for information on the copyright status)
+
+-=-=-=-=[  68 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+A Voyage of Consolation, by Sara Jeannette Duncan                        15966
+   [Subtitle: (being in the nature of a sequel to the experiences of]
+   ['An American girl in London')]
+   [Link: http://www.gutenberg.org/1/5/9/6/15966 ]
+   [Files: 15966.txt; 15966-8.txt; 15966-h.htm]
+   Dagdrör, by Gustaf Hellströ                                        15959
+   [Subtitle: En man utan humor I]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.org/1/5/9/5/15959 ]
+   [Files: 15959-8.txt]
+
+In Friendship's Guise, by Wm. Murray Graydon                             15965
+   [Link: http://www.gutenberg.org/1/5/9/6/15965 ]
+   [Files: 15965.txt; 15965-8.txt; 15965-h.htm]
+
+The Child of the Dawn, by Arthur Christopher Benson                      15964
+   [Link: http://www.gutenberg.org/1/5/9/6/15964 ]
+   [Files: 15964.txt; 15964-8.txt]
+
+May-Day, by Ralph Waldo Emerson                                          15963
+   [Subtitle: and Other Pieces]
+   [Link: http://www.gutenberg.org/1/5/9/6/15963 ]
+   [Files: 15963.txt; 15963-h.htm]
+
+Essays on Political Economy, by Frederic Bastiat                         15962
+   [Link: http://www.gutenberg.org/1/5/9/6/15962 ]
+   [Files: 15962.txt; 15962-8.txt; 15962-0.txt; 15962-h.htm]
+
+Turns of Fortune, by Mrs. S. C.  Hall                                    15961
+   [Subtitle: And Other Tales]
+   [Link: http://www.gutenberg.org/1/5/9/6/15961 ]
+   [Files: 15961.txt; 15961-8.txt; 15961-h.htm]
+
+Literary Character of Men of Genius, by Isaac Disraeli                   15960
+   [Editor: Benjamin Disraeli]
+   [Subtitle: Drawn from Their Own Feelings and Confessions]
+   [The author, Isaac Disraeli, was the father of Benjamin Disraeli (Lord]
+   [Beaconsfield)]
+   [Link: http://www.gutenberg.org/1/5/9/6/15960 ]
+   [Files: 15960.txt; 15960-8.txt; ]
+
+French and English, by Evelyn Everett-Green                              15958
+   [Subtitle: A Story of the Struggle in America]
+   [Link: http://www.gutenberg.org/1/5/9/5/15958 ]
+   [Files: 15958.txt; 15958-h.htm]
+
+Punch, Or The London Charivari, Vol. 103, November 19, 1892, by Various  15957
+   [Editor: Francis Burnand]
+   [Link: http://www.gutenberg.org/1/5/9/5/15957 ]
+   [Files: 15957.txt; 15957-8.txt; 15957-h.htm]
+
+Vellenaux, by Edmund William Forrest                                     15956
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/5/9/5/15956 ]
+   [Files: 15956.txt; 15956-8.txt]
+
+A Short History of Scotland, by Andrew Lang                              15955
+   [Link: http://www.gutenberg.org/1/5/9/5/15955 ]
+   [Files: 15955.txt; 15955-h.htm]
+
+Mary Jane--Her Visit, by Clara Ingram Judson                             15954
+   [Ill.: Frances White]
+   [Link: http://www.gutenberg.org/1/5/9/5/15954 ]
+   [Files: 15954.txt; 15954-h.htm; ]
+
+The City of Delight, by Elizabeth Miller                                 15953
+   [Subtitle: A Love Drama of the Siege and Fall of Jerusalem]
+   [Illustrator: F. X. Leyendecker]
+   [Link: http://www.gutenberg.org/1/5/9/5/15953 ]
+   [Files: 15953.txt; 15953-8.txt; 15953-h.htm]
+
+Die Prinzessin Girnara, by Jakob Wassermann                              15952
+   [Subtitle: Weltspiel und Legende]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/5/9/5/15952 ]
+   [Files: 15952-8.txt; 15952-h.htm]
+
+A Sea Queen's Sailing, by Charles Whistler                               15951
+   [Link: http://www.gutenberg.org/1/5/9/5/15951 ]
+   [Files: 15951.txt; 15951-h.htm]
+
+Wilderness Ways, by William J Long                                       15950
+   [Illustrator: Charles Copeland]
+   [Link: http://www.gutenberg.org/1/5/9/5/15950 ]
+   [Files: 15950.txt; 15950-8.txt; 15950-0.txt; 15950-h.htm]
+
+The Hoor of the Heights, by Arthur Conan Doyle                           15949C
+   [Tr.: Anders Blixt]
+   [Language: Interlingua]
+   [Link: http://www.gutenberg.org/1/5/9/4/15949 ]
+   [Files: 15949.txt; ]
+
+The Hollow Land, by William Morris                                       15948
+   [Link: http://www.gutenberg.org/1/5/9/4/15948 ]
+   [Files: 15948.txt; 15948-h.htm; ]
+
+The Pleasures of England, by John Ruskin                                 15947
+   [Subtitle: Lectures given in Oxford]
+   [Link: http://www.gutenberg.org/1/5/9/4/15947 ]
+   [Files: 15947.txt; 15947-8.txt; 15947-0.txt; 15947-h.htm]
+
+The Original Fables of La Fontaine, by Jean de la Fontaine               15946
+   [Subtitle: Rendered into English Prose by Fredk. Colin Tilney]
+   [Illustrator: Frederick Colin Tilney]
+   [Translator: Frederick Colin Tilney]
+   [Link: http://www.gutenberg.org/1/5/9/4/15946 ]
+   [Files: 15946.txt; 15946-8.txt; 15946-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, by Various         15945
+   [Subtitle: Volume 10, No. 279, October 20, 1827]
+   [Link: http://www.gutenberg.org/1/5/9/4/15945 ]
+   [Files: 15945.txt; 15945-8.txt; 15945-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, by Various         15944
+   [Subtitle: Volume 10, No. 277, October 13, 1827]
+   [Link: http://www.gutenberg.org/1/5/9/4/15944 ]
+   [Files: 15944.txt; 15944-8.txt; 15944-h.htm]
+
+Le conte futur, by Paul Adam                                             15943
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/5/9/4/15943 ]
+   [Files: 15943-8.txt; 15943-h.htm]
+
+Antoine et Cléopâtre, by William Shakespeare                             15942
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/5/9/4/15942 ]
+   [Files: 15942-8.txt; 15942-h.htm]
+
+An Englishwoman's Love-Letters, by Anonymous                             15941
+   [Link: http://www.gutenberg.org/1/5/9/4/15941 ]
+   [Files: 15941.txt; 15941-8.txt; 15941-h.htm]
+
+The Luck of the Mounted, by Ralph S. Kendall                             15940
+   [Subtitle: A Tale of the Royal Northwest Mounted Police]
+   [Link: http://www.gutenberg.org/1/5/9/4/15940 ]
+   [Files: 15940.txt; 15940-8.txt; ]
+
+Definition & Reality in the General Theory of Political Economy          15939C
+   [Author: Thomas Colignatus]
+   [Author AKA: Thomas Cool]
+   [Link: http://www.gutenberg.org/1/5/9/3/15939 ]
+   [Files: 15939-h.htm; ]
+
+The Yankee Tea-party , by Henry C. Watson                                15938
+   [Subtitle: Or, Boston in 1773]
+   [Link: http://www.gutenberg.org/1/5/9/3/15938 ]
+   [Files: 15938.txt; 15938-8.txt; 15938-h.htm; ]
+
+"I was there", by C. LeRoy Baldridge                                     15937
+   [Subtitle: with the Yanks in France.]
+   [Link: http://www.gutenberg.org/1/5/9/3/15937 ]
+   [Files: 15937.txt; 15937-h.htm]
+
+The Sad Shepherd, by Henry Van Dyke                                      15936
+   [Link: http://www.gutenberg.org/1/5/9/3/15936 ]
+   [Files: 15936.txt]
+
+Mirror of Literature, Amusement, and Instruction, No. 276, by Various    15935
+   [Subtitle: Volume 10, No. 276, October 6, 1827]
+   [Link: http://www.gutenberg.org/1/5/9/3/15935 ]
+   [Files: 15935.txt; 15935-8.txt; 15935-h.htm]
+
+His Excellency the Minister, by Jules Claretie                           15934
+   [Translator: Henri Roberts]
+   [Link: http://www.gutenberg.org/1/5/9/3/15934 ]
+   [Files: 15934.txt; 15934-8.txt; 15934-h.htm]
+
+Stories of Childhood, by Various                                         15933
+   [Editor: Rossiter Johnson]
+   [Contents:     ]
+   [A Dog Of Flanders by Louisa De La Rame (Ouida)]
+   [The King Of The Golden River by John Ruskin]
+   [The Lady Of Shalott by Elizabeth Stuart Phelps]
+   [Marjorie Fleming by John Brown, M.D.]
+   [Little Jakey by Mrs S.H. Dekroyft]
+   [The Lost Child by Henry Kingsley]
+   [Goody Gracious! And The Forget-Me-Not by John Neal]
+   [A Faded Leaf Of History by Rebecca Harding Davis]
+   [A Child's Dream Of A Star by Charles Dickens]
+   [Link: http://www.gutenberg.org/1/5/9/3/15933 ]
+   [Files: 15933.txt]
+
+The Literature of the Ancient Egyptians, by E. A. Wallis Budge           15932
+   [Link: http://www.gutenberg.org/1/5/9/3/15932 ]
+   [Files: 15932.txt; 15932-8.txt; 15932-0.txt; 15932-h.htm]
+
+A History of English Romanticism in the Nineteenth Century, by Beers     15931
+   [Author: Henry A. Beers]
+   [Link: http://www.gutenberg.org/1/5/9/3/15931 ]
+   [Files: 15931.txt; 15931-8.txt; ]
+
+A Dutch Boy Fifty Years After, by Edward Bok                             15930
+   [Editor: John Louis Haney]
+   [Adapted from The Americanization of Edward Bok]
+   [Link: http://www.gutenberg.org/1/5/9/3/15930 ]
+   [Files: 15930.txt; 15930-8.txt; 15930-h.htm; ]
+
+Mother Stories, by Maud Lindsay                                          15929
+   [Illustrator: Sarah Noble-Ives]
+   [Link: http://www.gutenberg.org/1/5/9/2/15929 ]
+   [Files: 15929.txt; 15929-8.txt; 15929-h.htm]
+
+The Nursery, Number 164, by Various                                      15928
+   [Subtitle: A Monthly Magazine for Youngest Readers]
+   [Link: http://www.gutenberg.org/1/5/9/2/15928 ]
+   [Files: 15928.txt; 15928-h.htm]
+
+The Vehement Flame, by Margaret Wade Campbell Deland                     15927
+   [Link: http://www.gutenberg.org/1/5/9/2/15927 ]
+   [Files: 15927.txt; 15927-8.txt; 15927-h.htm]
+
+Bay State Monthly, Vol. II, No. 1, October, 1884, by Various             15926
+   [Subtitle: A Massachusetts Magazine]
+   [Link: http://www.gutenberg.org/1/5/9/2/15926 ]
+   [Files: 15926.txt; 15926-8.txt; 15926-h.htm]
+
+Bay State Monthly, Vol. I, No. 3, March, 1884, by Various                15925
+   [Subtitle: A Massachusetts Magazine]
+   [Link: http://www.gutenberg.org/1/5/9/2/15925 ]
+   [Files: 15925.txt; 15925-8.txt; 15925-h.htm]
+
+Bay State Monthly, Volume I, No. 2, February, 1884, by Various           15924
+   [Subtitle: A Massachusetts Magazine]
+   [Link: http://www.gutenberg.org/1/5/9/2/15924 ]
+   [Files: 15924.txt; 15924-8.txt; 15924-h.htm]
+
+The Boy and the Sunday School, by John L. Alexander                      15923
+   [Subtitle: A Manual of Principle and Method for the Work of the Sunday]
+   [School with Teen Age Boys]
+   [Introduction By Marion Lawrance]
+   [Link: http://www.gutenberg.org/1/5/9/2/15923 ]
+   [Files: 15923.txt; 15923-h.htm]
+
+A Loose End and Other Stories, by S. Elizabeth Hall                      15922
+   [Contents: A Loose End]]
+   [          In a Breton Village]
+   [          Twice a Child]
+   [          The Road by the Sea]
+   [          The Halting Step]
+   [          Tabitha's Aunt]
+   [Link: http://www.gutenberg.org/1/5/9/2/15922 ]
+   [Files: 15922.txt; 15922-8.txt; 15922-h.htm; ]
+
+The Haskalah Movement in Russia, by Jacob S. Raisin                      15921
+   [Language: En]
+   [Link: http://www.gutenberg.org/1/5/9/2/15921 ]
+   [Files: 15921.txt; 15921-8.txt; 15921-h.htm; ]
+
+Outward Bound, by Oliver Optic                                           15920
+   [Subtitle: Or, Young America Afloat]
+   [Link: http://www.gutenberg.org/1/5/9/2/15920 ]
+   [Files: 15920.txt; 15920-8.txt; 15920-h.htm]
+
+The Great Round World, Vol. 1, No. 42, by Various                        15919
+   [Full title: The Great Round World and What Is Going On In It, Vol.]
+   [1, No. 42, August 26, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/9/1/15919 ]
+   [Files: 15919.txt; 15919-8.txt; 15919-h.htm]
+
+The Great Round World, Vol. 1, No. 41, by Various                        15918
+   [Full title: The Great Round World and What Is Going On In It, Vol.]
+   [1, No. 41, August 19, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/9/1/15918 ]
+   [Files: 15918.txt; 15918-8.txt; 15918-h.htm]
+
+The Great Round World, Vol. 1, No. 40, by Various                        15917
+   [Full title: The Great Round World and What Is Going On In It, Vol.]
+   [1, No. 40, August 12, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/9/1/15917 ]
+   [Files: 15917.txt; 15917-8.txt; 15917-h.htm]
+
+The Great Round World, Vol. 1, No. 39, by Various                        15916
+   [Full title: The Great Round World and What Is Going On In It, Vol.]
+   [1, No. 39, August 5, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/9/1/15916 ]
+   [Files: 15916.txt; 15916-8.txt; 15916-h.htm]
+
+The Tales of Hoffmann, Book By Jules Barbier; Music By J. Offenbach      15915
+   [Subtitle: Les contes d'Hoffmann]
+   [Translator: Charles Alfred Byrne]
+   [Link: http://www.gutenberg.org/1/5/9/1/15915 ]
+   [Files: 15915-8.txt]
+
+The American Missionary, Volume 43, No. 11, November, 1889, by Various   15914
+   [Link: http://www.gutenberg.org/1/5/9/1/15914 ]
+   [Files: 15914.txt; 15914-h.htm]
+
+The Atlantic Monthly, Vol. 12, No. 74, December, 1863, by Various        15913
+   [Link: http://www.gutenberg.org/1/5/9/1/15913 ]
+   [Files: 15913.txt; 15913-8.txt; 15913-h.htm]
+
+Punch or the London Charivari, Vol. 158, March 24, 1920, by Various      15912
+   [Link: http://www.gutenberg.org/1/5/9/1/15912 ]
+   [Files: 15912.txt; 15912-8.txt; 15912-h.htm]
+
+Voyage to the Northwest Coast of America, by Gabriel Franchere           15911
+   [Full title: Narrative of a Voyage to the Northwest Coast of America]
+   [in the years 1811, 1812, 1813, and 1814 or the]
+   [First American Settlement on the Pacific]
+   [Link: http://www.gutenberg.org/1/5/9/1/15911 ]
+   [Files: 15911.txt; 15911-8.txt; 15911-h.htm]
+
+Frauds and Abuses Committed by Apothecaries, by Christopher Merrett      15910
+   [Full title: A Short View of the Frauds and Abuses Committed by]
+   [Apothecaries]
+   [Subtitle: As well in Relation to Patients, as Physicians: And Of the]
+   [only Remedy thereof by Physicians making their own]
+   [Medicines.]
+   [Link: http://www.gutenberg.org/1/5/9/1/15910 ]
+   [Files: 15910.txt; 15910-8.txt; 15910-h.htm]
+
+American Missionary, Volume 44, No. 1, January, 1890, by Various         15909
+   [Link: http://www.gutenberg.org/1/5/9/0/15909 ]
+   [Files: 15909.txt; 15909-h.htm]
+
+Johdanto Suomen kirjallishistoriaan, by Rietrik Polén                    15908
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/5/9/0/15908 ]
+   [Files: 15908-8.txt; 15908-0.txt; 15908-h.htm]
+
+De la litterature des negres, by Henri Grégoire                          15907
+   [Full title: De la littérature des nègres, ou Recherches sur leurs]
+   [facultés intellectuelles, leurs qualités morales]
+   [et leur littérature]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/5/9/0/15907 ]
+   [Files: 15907-8.txt; 15907-h.htm]
+
+A Good Samaritan, by Mary Raymond Shipman Andrews                        15906
+   [Ill.: Charlotte Harding]
+   [Link: http://www.gutenberg.org/1/5/9/0/15906 ]
+   [Files: 15906.txt; 15906-h.htm; ]
+
+Collected Essays, Volume V, by T. H. Huxley                              15905
+   [Subtitle: Science and Christian Tradition: Essays]
+   [Link: http://www.gutenberg.org/1/5/9/0/15905 ]
+   [Files: 15905.txt; 15905-8.txt; 15905-h.htm]
+
+The Rover Boys on the River, by Arthur Winfield                          15904
+   [Subtitle: The Search for the Missing Houseboat]
+   [Link: http://www.gutenberg.org/1/5/9/0/15904 ]
+   [Files: 15904.txt]
+
+Bart Stirling's Road to Success, by Allen Chapman                        15903
+   [Subtitle: Or; The Young Express Agent]
+   [Link: http://www.gutenberg.org/1/5/9/0/15903 ]
+   [Files: 15903.txt; 15903-8.txt; 15903-h.htm]
+
+Poker!, by Zora Hurston                                                  15902
+   [Link: http://www.gutenberg.org/1/5/9/0/15902 ]
+   [Files: 15902.txt]
+
+Ristiaallokossa, by Kasimir Leino                                        15897
+   [Subtitle: Kokoelma runoelmia]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/5/8/9/15897 ]
+   [Files: 15897-8.txt]
+
+Scientific American Supplement, No. 613, October 1, 1887, by Various     15889
+   [Link: http://www.gutenberg.org/1/5/8/8/15889 ]
+   [Files: 15889.txt; 15889-8.txt; 15889-h.htm]
+
+Thoughts of Marcus Aurelius Antoninus, by Marcus Aurelius Antoninus      15877
+   [Editor: George Long]
+   [Link: http://www.gutenberg.org/1/5/8/7/15877 ]
+   [Files: 15877.txt; 15877-8.txt; 15877-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+May 2005 A New Voyage Round the World, by William Dampier  [050046xx.xxx] 0441A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+A note from Jim Tinsley on "I Was There" #15937:
+
+This is an art book. The text contains only a few verses and
+comments interspersed between the original illustrations, as well as
+a list of the illustrations. The meat of the book is in the sketches
+themselves, which are available in the HTML.
+
+A note from David Widger on "A Short History of Scotland" #15955:
+
+For those wishing to know: it's a shorter version of Andrew Lang's 4 volume
+History of Scotland.  As a general overview of Scottish History it's fine and
+Lang doesn't assume you know all of the details.
+
+~ ~ ~
+
+Humor is the great thing, the saving thing. The minute it crops up, all
+our irritations and resentments slip away and a sunny spirit takes their
+place. - Mark Twain
+
+=============================================================================

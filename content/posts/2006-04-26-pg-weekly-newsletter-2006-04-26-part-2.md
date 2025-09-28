@@ -1,0 +1,559 @@
+---
+params:
+  id: 2391
+title: "PG Weekly Newsletter: Part 2 (2006-04-26)"
+date: 2006-04-26T11:11:24+00:00
+author: Michael Cook
+layout: post
+url: /20060426/pg-weekly-newsletter-2006-04-26-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Wed Apr 26 17:32:47 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Apr 26 17:32:50 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0604261729580.10630@pglaf.org&gt;
+
+GWeekly_April_26_part2.txt
+
+The Project Gutenberg Weekly Newsletter 26 Apr 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 55 New U.S. eBooks this week
+    - 6 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 26 Apr 2006: 18788 (incl. 570 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The People Of The Mist, by H. Rider Haggard                               6769
+   [Updated edition of: etext04/plmst10.txt]
+   [Link: http://www.gutenberg.org/6/7/6/6769 ]
+   [Files: 6769.txt; 6769-h.htm]
+
+The Story of a Child, by Pierre Loti                                      6664
+   [Translator: Caroline F. Smith]
+   [Updated edition of: etext04/fchld10.txt]
+   [Link: http://www.gutenberg.org/6/6/6/6664 ]
+   [Files: 6664.txt; 6664-h.htm]
+
+Therese Raquin, by Emile Zola                                             6626
+   [Translator: Edward Vizetelly]
+   [Updated edition of: etext04/thrqn10.txt]
+   [Link: http://www.gutenberg.org/6/6/2/6626 ]
+   [Files: 6626.txt; 6626-h.htm]
+
+December Love, by Robert Hichens                                          6616
+   [Updated edition of: etext04/dcmbr10.txt]
+   [Link: http://www.gutenberg.org/6/6/1/6616 ]
+   [Files: 6616.txt; 6616-h.htm]
+
+Letters to His Children, by Theodore Roosevelt                            6467
+   [Editor: Joseph Bucklin Bishop]
+   [Updated edition of: etext04/ltchl10.txt]
+   [Link: http://www.gutenberg.org/6/4/6/6467 ]
+   [Files: 6467.txt; 6467-h.htm]
+
+Smith and the Pharaohs, and Other Tales, by H. Rider Haggard              6073
+   Contents:
+     Smith And The Pharaohs
+     Magepa The Buck
+     The Blue Curtains
+     Little Flower
+     Only A Dream
+     Barbara Who Came Back
+   [Updated edition of: etext04/smthn10.txt]
+   [Link: http://www.gutenberg.org/6/0/7/6073 ]
+   [Files: 6073.txt; 6073-h.htm]
+
+Stella Fregelius, by H. Rider Haggard                                     6051
+   [Updated edition of: etext04/stlfg10.txt]
+   [Link: http://www.gutenberg.org/6/0/5/6051 ]
+   [Files: 6051.txt; 6051-h.htm]
+
+Jess, by H. Rider Haggard                                                 5898
+   [Updated edition of: etext04/jessh10.txt]
+   [Link: http://www.gutenberg.org/5/8/9/5898 ]
+   [Files: 5898.txt; 5898-h.htm]
+
+The Great Impersonation, by E. Phillips Oppenheim                         5815
+   [Updated edition of: etext04/grmpr10.txt]
+   [Link: http://www.gutenberg.org/5/8/1/5815 ]
+   [Files: 5815.txt; 5815-h.htm]
+
+Doctor Therne, by H. Rider Haggard                                        5764
+   [Updated edition of: etext04/drthr10.txt]
+   [Link: http://www.gutenberg.org/5/7/6/5764 ]
+   [Files: 5764.txt; 5764-h.htm]
+
+Lysbeth, by H. Rider Haggard                                              5754
+   [Subtitle: A Tale Of The Dutch]
+   [Updated edition of: etext04/lsbth10.txt]
+   [Link: http://www.gutenberg.org/5/7/5/5754 ]
+   [Files: 5754.txt; 5754-h.htm]
+
+She and Allan, by H. Rider Haggard                                        5745
+   [Updated edition of: etext04/shlln10.txt]
+   [Link: http://www.gutenberg.org/5/7/4/5745 ]
+   [Files: 5745.txt; 5745-8.txt; 5745-h.htm]
+
+The Fat and the Thin, by Emile Zola                                       5744
+   [Translator: Ernest Alfred Vizetelly]
+   [Updated edition of: etext04/ftthn10.txt]
+   [Link: http://www.gutenberg.org/5/7/4/5744 ]
+   [Files: 5744.txt; 5744-8.txt; 5744-h.htm]
+
+Ayesha, by H. Rider Haggard                                               5228
+   [Subtitle: The Further History of She-Who-Must-Be-Obeyed]
+   [Updated edition of: etext04/aysha10.txt]
+   [Link: http://www.gutenberg.org/5/2/2/5228 ]
+   [Files: 5228.txt; 5228-h.htm]
+
+Pearl-Maiden, by H. Rider Haggard                                         5175
+   [Updated edition of: etext04/prlma10.txt]
+   [Link: http://www.gutenberg.org/5/1/7/5175 ]
+   [Files: 5175.txt; 5175-8.txt; 5175-h.htm]
+
+The Fortune of the Rougons, by Emile Zola                                 5135
+   [Editor: Ernest Alfred Vizetelly]
+   [Updated edition of: etext04/froug10.txt]
+   [Link: http://www.gutenberg.org/5/1/3/5135 ]
+   [Files: 5135.txt; 5135-8.txt; 5135-h.htm]
+
+A Zola Dictionary, by J. G. Patterson                                     5103
+   [Updated edition of: etext04/zladc10.txt]
+   [Link: http://www.gutenberg.org/5/1/0/5103 ]
+   [Files: 5103.txt; 5103-h.htm]
+
+Bar-20 Days, by Clarence E. Mulford                                       4922
+   [Updated edition of: etext04/br20d10.txt]
+   [Link: http://www.gutenberg.org/4/9/2/4922 ]
+   [Files: 4922.txt; 4922-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+
+-=-=-=-=[  55 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Printcrime, by Cory Doctorow                                             19000C
+   [Link: http://www.gutenberg.org/1/9/0/0/19000 ]
+   [Files: 19000.txt; ]
+
+
+More Tales of the Ridings, by Frederic Moorman                           18260
+   [Contents]
+   [Melsh Dick]
+   [Two Letters]
+   [A Miracle]
+   [Tales of a grandmother]
+   [I.  The Tree of Knowledge]
+   [II. Janet's Cove]
+   [The Potato and the Pig]
+   [Coals of Fire]
+   [Link: http://www.gutenberg.org/1/8/2/6/18260 ]
+   [Files: 18260.txt]
+
+Gentle Julia, by Booth Tarkington                                        18259
+   [Illustrator: C. Allan Gilbert and Worth Brehm]
+   [Link: http://www.gutenberg.org/1/8/2/5/18259 ]
+   [Files: 18259.txt; 18259-8.txt; 18259-h.htm]
+
+Deutsche Charaktere und Begebenheiten, by Jakob Wassermann               18258
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/2/5/18258 ]
+   [Files: 18258-8.txt; 18258-0.txt; 18258-h.htm]
+
+The Universe -- or Nothing, by Meyer Moldeven                            18257C
+   [Link: http://www.gutenberg.org/1/8/2/5/18257 ]
+   [Files: 18257.txt; ]
+
+Woodside, by Caroline Hadley                                             18256
+   [Subtitle: or, Look, Listen, and Learn.]
+   [Link: http://www.gutenberg.org/1/8/2/5/18256 ]
+   [Files: 18256.txt; 18256-h.htm]
+
+Versuch einer Kritik aller Offenbarung, by Johann Gottlieb Fichte        18255
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/2/5/18255 ]
+   [Files: 18255-8.txt; 18255-0.txt; 18255-h.htm]
+
+Claverhouse, by Mowbray Morris                                           18254
+   [Link: http://www.gutenberg.org/1/8/2/5/18254 ]
+   [Files: 18254.txt; 18254-8.txt; 18254-h.htm; ]
+
+Discovery of Witches, by Thomas Potts                                    18253
+   [Editor: James Crossley]
+   [Subtitle: The Wonderfull Discoverie of Witches in the Countie of]
+   [Lancaster]
+   [Link: http://www.gutenberg.org/1/8/2/5/18253 ]
+   [Files: 18253.txt; 18253-8.txt; 18253-h.htm; ]
+
+Hertfordshire, by Herbert W Tompkins                                     18252
+   [Illustrator: Edmund H. New]
+   [Link: http://www.gutenberg.org/1/8/2/5/18252 ]
+   [Files: 18252.txt; 18252-8.txt; 18252-h.htm]
+
+Latin for Beginners, by Benjamin Leonard D'Ooge                          18251
+   [Link: http://www.gutenberg.org/1/8/2/5/18251 ]
+   [Files: 18251.txt; 18251-8.txt; 18251-mac.txt; 18251-0.txt; 18251-h.htm]
+
+The Prose Works of Jonathan Swift, D.D., Vol. VII, by Jonathan Swift     18250
+   [Subtitle: Historical and Political Tracts--Irish]
+   [Editor: Temple Scott]
+   [Link: http://www.gutenberg.org/1/8/2/5/18250 ]
+   [Files: 18250.txt; 18250-8.txt; 18250-h.htm]
+
+Some Summer Days in Iowa, by Frederick John Lazell                       18249
+   [Link: http://www.gutenberg.org/1/8/2/4/18249 ]
+   [Files: 18249.txt; 18249-h.htm]
+
+Lucy Raymond, by Agnes Maule Machar                                      18248
+   [Subtitle: Or, The Children's Watchword]
+   [Link: http://www.gutenberg.org/1/8/2/4/18248 ]
+   [Files: 18248.txt; 18248-8.txt; 18248-h.htm]
+
+The Last Man, by Mary Shelley                                            18247
+   [Link: http://www.gutenberg.org/1/8/2/4/18247 ]
+   [Files: 18247.txt]
+
+Kuninkaan-alut, by Henrik Ibsen                                          18246
+   [Subtitle: Historiallinen nytelm viidess nytksess]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/2/4/18246 ]
+   [Files: 18246-8.txt]
+
+Contes merveilleux, Tome II, by Hans Christian Andersen                  18245
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/4/18245 ]
+   [Files: 18245-8.txt; 18245-h.htm]
+
+Contes merveilleux, Tome I, by Hans Christian Andersen                   18244
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/4/18244 ]
+   [Files: 18244-8.txt; 18244-h.htm]
+
+Bezoek aan den berg Athos, by Anonymous                                  18243
+   [Subtitle: De Aarde en haar Volken, 1873]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/2/4/18243 ]
+   [Files: 18243-8.txt; 18243-h.htm]
+
+Behind the Arras, by Bliss Carman                                        18242
+   [Subtitle: A Book of the Unseen]
+   [Illustrator: T. B. Meteyard]
+   [Link: http://www.gutenberg.org/1/8/2/4/18242 ]
+   [Files: 18242.txt; 18242-8.txt; 18242-h.htm]
+
+Tea-Cup Reading, by 'A Highland Seer'                                    18241
+   [Title: Tea-Cup Reading, and the Art of Fortune-Telling by Tea Leaves]
+   [Link: http://www.gutenberg.org/1/8/2/4/18241 ]
+   [Files: 18241.txt; 18241-8.txt; 18241-0.txt; 18241-h.htm]
+
+Roumania Past and Present, by James Samuelson                            18240
+   [Link: http://www.gutenberg.org/1/8/2/4/18240 ]
+   [Files: 18240.txt; 18240-8.txt; 18240-0.txt; 18240-h.htm]
+
+The Road to Mandalay, by B. M. Croker                                    18239
+   [Author AKA: Bithia Mary Croker (1849-1920)]
+   [Subtitle: A Tale of Burma]
+   [Link: http://www.gutenberg.org/1/8/2/3/18239 ]
+   [Files: 18239.txt; 18239-8.txt; ]
+
+Songs from Vagabondia, by Bliss Carman and Richard Hovey                 18238
+   [Link: http://www.gutenberg.org/1/8/2/3/18238 ]
+   [Files: 18238.txt; 18238-8.txt; 18238-h.htm]
+
+A Bird Calendar for Northern India, by Douglas Dewar                     18237
+   [Link: http://www.gutenberg.org/1/8/2/3/18237 ]
+   [Files: 18237.txt; 18237-h.htm]
+
+In de Amsterdamsche Jodenbuurt, by Jan Feith                             18236
+   [Subtitle: De Aarde en haar Volken, 1907]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/2/3/18236 ]
+   [Files: 18236-8.txt; 18236-h.htm]
+
+Het Geuldal, by L. H. J.  Lamberts Hurrelbrinck                          18235
+   [Subtitle: De Aarde en haar Volken, 1907]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/2/3/18235 ]
+   [Files: 18235-8.txt; 18235-h.htm]
+
+A Girl's Student Days and After, by Jeannette Marks                      18234
+   [Commentator: Mary Emma Woolley]
+   [Link: http://www.gutenberg.org/1/8/2/3/18234 ]
+   [Files: 18234.txt; 18234-8.txt; 18234-h.htm]
+
+Animal Ghosts, by Elliott O'Donnell                                      18233
+   [Subtitle: Or, Animal Hauntings and the Hereafter]
+   [Link: http://www.gutenberg.org/1/8/2/3/18233 ]
+   [Files: 18233.txt; 18233-8.txt; 18233-h.htm]
+
+Gedenkrede auf Wolfgang Amade Mozart, by Richard Beer-Hofmann            18232
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/2/3/18232 ]
+   [Files: 18232-8.txt; 18232-0.txt; 18232-h.htm]
+
+Die Last, by Georg Engel                                                 18231
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/2/3/18231 ]
+   [Files: 18231-8.txt; 18231-0.txt; 18231-h.htm]
+
+How to Write a Play, by Various                                          18230
+   [Subtitle: Letters from Augier, Banville, Dennery, Dumas, Gondinet,
+    Labiche, Legouve, Pailleron, Sardou, Zola]
+   [Editor: James Brander Matthews]
+   [Link: http://www.gutenberg.org/1/8/2/3/18230 ]
+   [Files: 18230.txt; 18230-8.txt]
+
+Transactions of the ASCE, Paper 1150, by Charles W. Raymond              18229
+   [Full title: Transactions of the American Society of Civil Engineers,]
+   [Vol. LXVIII, Sept. 1910]
+   [Subtitle: The New York Tunnel Extension of the Pennsylvania Railroad.]
+   [Paper No. 1150]
+   [Link: http://www.gutenberg.org/1/8/2/2/18229 ]
+   [Files: 18229.txt; 18229-h.htm]
+
+El Mandarin, by Eca Queiroz                                              18228
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/8/2/2/18228 ]
+   [Files: 18228-8.txt; 18228-h.htm]
+
+Some Spring Days in Iowa, by Frederick John Lazell                       18227
+   [Link: http://www.gutenberg.org/1/8/2/2/18227 ]
+   [Files: 18227.txt; 18227-8.txt; 18227-h.htm]
+
+My Young Days, by Anonymous                                              18226
+   [Illustrator: Paul Konewka]
+   [Link: http://www.gutenberg.org/1/8/2/2/18226 ]
+   [Files: 18226.txt; 18226-8.txt; 18226-h.htm]
+
+The Shield of Silence, by Harriet T. Comstock                            18225
+   [Illustrator: George Loughridge]
+   [Link: http://www.gutenberg.org/1/8/2/2/18225 ]
+   [Files: 18225.txt; 18225-8.txt; 18225-h.htm]
+
+Someone Comes to Town, Someone Leaves Town, by Cory Doctorow             18224C
+   [Link: http://www.gutenberg.org/1/8/2/2/18224 ]
+   [Files: 18224-8.txt; 18224-h.htm; ]
+
+The Essence of Buddhism, by Various                                      18223
+   [Compiler: E. M. Bowden]
+   [Preface: Edwin Arnold]
+   [Link: http://www.gutenberg.org/1/8/2/2/18223 ]
+   [Files: 18223.txt; 18223-h.htm]
+
+The Religion of Numa, by Jesse Benedict Carter                           18222
+   [Subtitle: And Other Essays on the Religion of Ancient Rome]
+   [Link: http://www.gutenberg.org/1/8/2/2/18222 ]
+   [Files: 18222.txt; 18222-8.txt; 18222-h.htm]
+
+De aardbeving van San Francisco, by Hugo de Vries                        18221
+   [Subtitle: De Aarde en haar Volken, 1907]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/2/2/18221 ]
+   [Files: 18221-8.txt; 18221-h.htm]
+
+A Cidade e as Serras, by Eca de Queiros                                  18220
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/8/2/2/18220 ]
+   [Files: 18220-8.txt]
+
+The Trumpeter Swan, by Temple Bailey                                     18219
+   [Ill.: Alice Barber Stephens]
+   [This is the same book as #17967, but they are different editions by]
+   [different publishers, and there are differences in the text.]
+   [Link: http://www.gutenberg.org/1/8/2/1/18219 ]
+   [Files: 18219.txt; 18219-8.txt; 18219-h.htm; ]
+
+Works, Vol XI, by Edmund Burke                                           18218
+   [Title: The Works of the Right Honourable Edmund Burke, Vol. 11 of 12)
+   [Link: http://www.gutenberg.org/1/8/2/1/18218 ]
+   [Files: 18218.txt; 18218-8.txt; 18218-h.htm]
+
+Chambers's Elementary Science Readers, Book I, by Various                18217
+   [Other: William Chambers]
+   [Robert Chambers]
+   [Link: http://www.gutenberg.org/1/8/2/1/18217 ]
+   [Files: 18217.txt; 18217-8.txt; 18217-h.htm]
+
+Pathfinders of the West, by A. C. Laut                                   18216
+   [Subtitle: Being the Thrilling Story of the Adventures of the Men Who
+    Discovered the Great Northwest: Radisson, La Verendrye, Lewis and Clark]
+   [Link: http://www.gutenberg.org/1/8/2/1/18216 ]
+   [Files: 18216.txt; 18216-8.txt; 18216-h.htm]
+
+Le marquis de Loc-Ronan, by Ernest Capendu                               18215
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/1/18215 ]
+   [Files: 18215-8.txt; 18215-h.htm]
+
+Our Friend the Dog, by Maurice Maeterlinck                               18214
+   [Illustrator: Cecil Alden]
+   [Translator: Alexander Teixeira de Mattos]
+   [Link: http://www.gutenberg.org/1/8/2/1/18214 ]
+   [Files: 18214.txt; 18214-8.txt; 18214-h.htm]
+
+The Story of the Great War, Volume III (of 12), by Miller                18213
+   [Editor: Francis J. Reynolds, Allen L. Churchill, and Francis Trevelyan]
+   [Miller]
+   [Subtitle: The War Begins, Invasion of Belgium, Battle of the Marne]
+   [Link: http://www.gutenberg.org/1/8/2/1/18213 ]
+   [Files: 18213.txt; 18213-8.txt; 18213-h.htm; ]
+
+Arts and Crafts in the Middle Ages, by Julia De Wolf Addison             18212
+   [Subtitle: A Description of Mediaeval Workmanship in Several of the]
+   [Departments of Applied Art, Together with Some Account of Special Artisans]
+   [in the Early Renaissance]
+   [Link: http://www.gutenberg.org/1/8/2/1/18212 ]
+   [Files: 18212.txt; 18212-8.txt; 18212-h.htm; ]
+
+Servitude et grandeur militaires, by Alfred de Vigny                     18211
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/1/18211 ]
+   [Files: 18211-8.txt]
+
+The Heptalogia, by Algernon Charles Swinburne                            18210
+   [Link: http://www.gutenberg.org/1/8/2/1/18210 ]
+   [Files: 18210.txt; 18210-8.txt; 18210-h.htm]
+
+English Seamen in the Sixteenth Century, by James Anthony Froude         18209
+   [Subtitle: Lectures Delivered at Oxford Easter Terms 1893-4]
+   [Link: http://www.gutenberg.org/1/8/2/0/18209 ]
+   [Files: 18209.txt; 18209-8.txt; 18209-h.htm]
+
+L'enfer et le paradis de l'autre monde, by mile Chevalier               18208
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/2/0/18208 ]
+   [Files: 18208-8.txt]
+
+Coffee and Repartee, by John Kendrick Bangs                              18207
+   [Link: http://www.gutenberg.org/1/8/2/0/18207 ]
+   [Files: 18207.txt; 18207-8.txt; 18207-h.htm]
+
+
+-=-=-=-=[ 6 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2006 A Warning in Red, by Victor L. Whitechurch        [060052xx.xxx] 0570A
+   [http://gutenberg.net.au/ebooks06/0600521.txt or .zip]
+
+Apr 2006 The Secret of Emu Plain,by Meade and Eustace      [060051xx.xxx] 0569A
+   [http://gutenberg.net.au/ebooks06/0600511.txt or .zip]
+   [Author: L T Meade and Robert Eustace]
+
+Apr 2006 Followed, by L T Meade and Robert Eustace         [060050xx.xxx] 0568A
+   [http://gutenberg.net.au/ebooks06/0600501.txt or .zip]
+
+Apr 2006 The Tragedy of a Third Smoker, by Cutcliffe Hyne  [060049xx.xxx] 0567A
+   [http://gutenberg.net.au/ebooks06/0600491.txt or .zip]
+
+Apr 2006 The Romance of the Secret Service Fund, F M White [060048xx.xxx] 0566A
+   [http://gutenberg.net.au/ebooks06/0600481.txt or .zip]
+   [Author: Frederick Merrick White]
+
+Apr 2006 The Silkworms of Florence, by Clifford Ashdown    [060047xx.xxx] 0565A
+   [http://gutenberg.net.au/ebooks06/0600471.txt or .zip]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+
+</pre>
+
+<a href="/nl_archives/2006/pgweekly_2006_04_26_part_2.txt" target="_blank" rel="nofollow">pgweekly_2006_04_26_part_2.txt</a>

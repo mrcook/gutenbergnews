@@ -1,0 +1,757 @@
+---
+params:
+  id: 1912
+title: PG Weekly Newsletter (2002-07-24)
+date: 2002-07-24T13:44:18+00:00
+author: Michael Cook
+layout: post
+url: /20020724/pg-weekly-newsletter-2002-07-24/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>**The Project Gutenberg Weekly Newsletter For Wednesday, July 24, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+
+
+
+
+May 1998 Elizabeth and her German Garden, by "Elizabeth"   [lzgdnxxx.xxx]1327
+May 1998 The Crisis in Russia, by Arthur Ransome[Ransome#2][crrusxxx.xxx]1326
+May 1998 Twenty Years At Hull House, by Jane Addams        [20yhhxxx.xxx]1325
+May 1998 Russia in 1919, by Arthur Ransome     [Ransome #1][19rusxxx.xxx]1324
+May 1998 History Of The Conquest Of Peru, by Prescott [New][hcpruxxa.xxx]1323
+May 1998 Leaves of Grass, by Walt Whitman [Walt Whitman #1][lvgrsxxx.xxx]1322
+May 1998 The Waste Land, T. S. Eliot   [T. S. Eliot #1]    [wslndxxx.xxx]1321
+May 1998 Criminal Psychology, by Hans Gross                [crmsyxxx.xxx]1320
+
+May 1998 Increasing Efficiency In Business, by W.D. Scott  [ihdibxxx.xxx]1319
+
+May 1998 The Twin Hells, by John N. Reynolds               [twnhlxxx.xxx]1318
+May 1998 Saltbush Bill J.P., by A. B. "Banjo" Paterson [#4][biljpxxx.xxx]1317
+May 1998 Some Reminiscences, by Joseph Conrad  [conrad #21][rmnisxxx.xxx]1316
+May 1998 Autobiography & Selected Essays, by Thomas Huxley [asethxxx.xxx]1315
+May 1998 The Malefactor, by E. Phillips Oppenheim   [EPE#1][mlfctxxx.xxx]1314
+May 1998 Over The Sliprails, by Henry Lawson    [Lawson #4][oslipxxx.xxx]1313
+May 1998 Selected Stories, by Bret Harte    [Bret Harte #1][hartexxx.xxx]1312
+May 1998 If, by Lord Dunsany   [Edward John Plunkett]  [#1][ifdunxxx.xxx]1311
+May 1998 The Annals of the Parish, John Galt[THE John Galt][anaprxxx.xxx]1310
+May 1998 The Spirit of Place, et. al., by Alice Meynell[#6][sptplxxx.xxx]1309
+May 1998 Oscar Wilde Miscellaneous, Oscar Wilde[Collection][wldmsxxx.xxx]1308
+
+
+Today Is The 205th Day of 2002
+160 Days/23 Weeks Left Until 2003
+
+Ending our 29th Week Of The Year
+
+We did 1240 eBooks in 2001
+We did 1319 So Far in 2002
+
+
+The 15th Week Of Our SECOND 5,000 eBooks
+
+18 Months From Today, Perhaps Our 10,000th eBook!
+
+
+1,922   New eBooks In The Last Year
+3,689   eBooks This Week Last Year
+5,611   Tree-Friendly Titles Now Online
+
+  1319   New This Year
+
+
+***
+
+DO YOU LIVE NEAR A MAJOR LIBRARY?
+
+We frequently need to seek physical books to determine their
+copyright status and compare them to eBooks we have received.
+Usually such books are in English or German, but they are sometimes
+in other languages as well (you don't need to know the language,
+just compare the book to the eBook).
+
+If you are able to visit a major research library to check out books
+(or photograph, photocopy or scan the title & verso pages in the
+library), please email hart@pobox.com and gbnewby@ils.unc.edu
+
+We have found that research universities, very large public libraries
+(such as San Francisco and Chicago) and the Library of Congress work
+best for our needs.  Smaller college and public libraries often don't
+have the pre-1923 printed books we need.  So, if you live near such a
+library, and can visit one occasionally to perform copyright research,
+please do get in touch.
+
+Please join our Research Team by replying to:
+
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Thanks!!!
+
+Michael
+
+***
+
+Gutenberg Music Web Site Launch  [NEW EMAIL ADDRESS] gpawlicki@earthlink.net
+
+Project Gutenberg is proud to inaugurate the Music Website
+http://ibiblio.org/gutenberg/music/ as the principle outlet for the Chamber
+Music Archive. You'll find free scores and parts of public domain music,
+digitized in a variety of printable, playable and editable formats.
+The initial postings are classical chamber music, including quartets by
+Beethoven, Mozart, Haydn and Brahms in Coda Music's Finale (.MUS) format.
+For further information regarding procedures, the files, and the site,
+please see entries in the FAQ.
+&lt;http://ibiblio.org/gutenberg/music/music_helpex.html&gt; and Volunteer
+&lt;http://ibiblio.org/gutenberg/music/music_volunteer.html&gt; pages, or contact
+Geof Pawlicki &lt;MAILTO:geof@ibiblio.net&gt; directly.
+
+***
+
+Requests For Assistance:
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world, and http://promo.net/pg can
+get you to the nearest one.
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Past Week
+
+
+
+[We added one from the previous reserved list, but also reserved a new slot]
+
++50 New this week -- so far:
+
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our Ebooks get a new NUMBER, xxxxx11.txt, and
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+
+--Please note the following changes, corrections and improvements:
+
+We have posted the following eBooks in new formats as indicated:
+Dec 2000 The Naturalist on the River Amazons by Henry Bates[notraxxx.xxx]2440
+[HTML file added:  notra10h.zip]
+Mar 1999 Mystery of the Yellow Room, by Gaston Leroux[GL#2][ylormxxx.xxx]1685
+[HTML files added:  ylorm11h.htm/.zip]
+Jun 1994 Mansfield Park, by Jane Austen  [Austen #3]       [mansfxxx.xxx] 141
+[Files added to etext94:  mansf10p.pdf  mansf10pf.pdf  mansf10t.tex]
+[Note: The pf.pdf file is folio format PDF for printing.]
+
+and
+
+OLD:
+Dec 2003 The Merry Devil, William Shakespeare      [WS#53][mdevixxx.xxx]4774
+Feb 2004 Fair Em, Shakespeare Apocrypha            [ws#54][fairmxxx.xxx]5137
+
+Now renamed:
+
+NEW:
+Dec 2003 The Merry Devil, William Shakespeare      [WS#53][4ws53xxx.xxx]4774
+Feb 2004 Fair Em, Shakespeare Apocrypha            [ws#54][4ws54xxx.xxx]5137
+
+
+We have posted an updated 12th edition of the following eBooks:
+Mar 1998 The Three Musketeers, by Alexandre Dumas [Pere #2][1muskxxx.xxx]1257
+Mar 1994 A Tramp Abroad, by Mark Twain [Twain #8]          [trampxxx.xxx] 119
+
+
+We have posted an improved 11th edition of the following:
+Mar 1999 Mystery of the Yellow Room, by Gaston Leroux[GL#2][ylormxxx.xxx]1685
+
+***
+
+
+***55 New Project Gutenberg eBooks For You This Week***
+
+
+***] 6 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+July 2002 Death Comes for the Archbishop,by W Cather[WC#04][020049xx.xxx]0083A
+[http://gutenberg.net.au/ebooks02/0200491.txt or ZIP][Full name: Willa Cather]
+July 2002 Lucy Gayheart, by Willa Cather            [WC#03][020048xx.xxx]0082A
+[http://gutenberg.net.au/ebooks02/0200481.txt or ZIP]
+July 2002 A Short History of Australia, Ernest Scott[ES#01][020047xx.xxx]0081A
+[http://gutenberg.net.au/ebooks02/0200471.txt or ZIP]
+July 2002 Sapphira and the Slave Girl, Willa Cather [WC#02][020046xx.xxx]0080A
+[http://gutenberg.net.au/ebooks02/0200461.txt or ZIP]
+July 2002 A Lost Lady, by Willa Cather              [WC#01][020045xx.xxx]0079A
+[http://gutenberg.net.au/ebooks02/0200451.txt or ZIP]
+July 2002 A Sherlock Holmes Omnibus, Sir A C Doyle  [AD#03][0200441h.zip]0078A
+[http://gutenberg.net.au/ebooks02/0200441h.zip ZIP only]
+
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+***] 49 NEW U.S. POSTS [***
+
+Jul 2004 [Reserved for our 1st eBook in Polish]            [     xxx.xxx]6000*
+
+May 2004 The Inhumanity of Socialism, by Edward F. Adams   [insocxxx.xxx]5624
+[Subtitle: The Case Against Socialism & A Critique of Socialism]
+May 2004 The Young Explorer, by Horatio Alger    [Alger#13][yexplxxx.xxx]5623
+May 2004 At Last, by Marion Harland                        [alastxxx.xxx]5622
+May 2004 Baron d'Holbach, by Max Pearson Cushing           [?bdhoxxx.xxx]5621
+[Subtitle: A Study of Eighteenth Century Radicalism in France]
+[7-bit version with non-accented characters in 7bdho10.txt and 7bdho10.zip]
+[8-bit version with accented characters in 8bdho10.txt and 8bdho10.zip]
+
+May 2004 Palaces and Courts of the Exposition, Juliet James[palcoxxx.xxx]5620
+[Subtitle: A Handbook of the Architecture Sculpture and Mural Paintings with
+Special Reference to the Symbolism][About the 1915 San Fransciso Exposition.]
+May 2004 Mankind and Political Arithmetic, Sir Wm Petty[#1][mkpaxxxx.xxx]5619
+[Author's Full Name: Sir William Petty]
+[Plain text version in mkpaxxxx.txt/.zip, HTML in mkpaxxh.htm and .zip]
+
+May 2004 Six Plays, by Florence Henrietta Darwin       [#1][sxfdxxxx.xxx]5618
+Plain text version in sxfdxxxx.txt/.zip, HTML in sxfdxxh.htm and .zip]
+[For those wishing to know: Florence was the wife of Sir Francis Darwin,
+who was a famous scientist and the son of a certain Charles Darwin, of
+evolution fame.  The plays are all in English dialect and the last one,
+The New Year, is by far the best.]
+
+May 2004 Bobbsey Twins in Washington, by L. Hope[BTwins#12][tbtiwxxx.xxx]5617
+[Author's Full Name: Laura Lee Hope]
+
+May 2004 The Madman, by Kahlil Gibran                      [thmdmxxx.xxx]5616
+[Subtitle: His Parables and Poems]
+[Plain text version in thmdm10.txt/.zip, HTML in thmdm10h.htm/.zip]
+[XML version in thmdm10x.txt/.zip]
+
+
+May 2004 The Pink Fairy Book, by Andrew Lang, Ed.          [pinkfxxx.xxx]5615
+May 2004 Chess Strategy, by Edward Lasker        [Lasker#2][chsstxxx.xxx]5614
+May 2004 The Arabian Nights Entertainments Volume 2, Anon. [arne2xxx.xxx]5613*
+[Reserved]
+May 2004 The Arabian Nights Entertainments Volume 1, Anon. [arne1xxx.xxx]5612
+May 2004 The Satyricon, by Petronius Arbiter               [?paswxxx.xxx]5611
+[Translated by William Burnaby]
+[7-bit version with non-accented characters in 7pasw10a.txt and 7pasw10a.zip]
+[8-bit version with accented characters in 8pasw10a.txt and 8pasw10a.zip]
+[See also eBook #s 5218-5225]
+
+May 2004 The Cardinal's Snuff-Box, by Henry Harland        [cdsfxxxx.xxx]5610
+May 2004 The Corporation of London, William Ferneley Allen [clrapxxx.xxx]5609
+[Full Title: The Corporation of London: Its Rights and Privileges]
+May 2004 Trial of Witnessses of the Resurrection of Jesus  [trijcxxx.xxx]5608
+[Full Title: The Trial of the Witnessses of the Resurrection of Jesus Christ]
+[Author's Full Name: Thomas Sherlock]
+May 2004 Romanzero, by Heinrich Heine             [Heine#5][?rmnzxxx.xxx]5607
+[AKA: Romancero]
+[7-bit version with non-accented characters in 7rmnz10.txt and 7rmnz10.zip]
+[8-bit version with accented characters in 8rmnz10.txt and 8rmnz10.zip]
+[Language: German]
+May 2004 Guns of the Gods, by Talbot Mundy        [Mundy#6][gungdxxx.xxx]5606
+
+May 2004 The Power Of Movement In Plants, by C. Darwin[#22][pwmvpxxx.xxx]5605
+May 2004 Getting Married, by George Bernard Shaw  [Shaw#32][gtgmdxxx.xxx]5604
+May 2004 Seven Icelandic Short Stories,Various             [svnclxxx.xxx]5603
+[This file is in 8-bit format only to suppport Icelandic characters]
+[Authors:  Anonymous; Kvaran, Einar H.; Fridjonsson, Gudmundur; Trausti,]
+[Jon; Gunnarsson, Gunnar; Hagalin, Gudmundur G.; Laxness, Halldor Kiljan]
+May 2004 The Boy Scouts Patrol, by Ralph Victor            [thbysxxx.xxx]5602
+May 2004 Jan of the Windmill,Juliana Horatia Ewing[Ewing#1][janwxxxx.xxx]5601
+[Plain text version in janw10.txt/.zip, HTML in janw10h.htm/.zip]
+
+
+Apr 2004 A Thorny Path,         by Ebers, Complete [GE#103][g103vxxx.xxx]5542
+[Author: Georg Ebers] [Contains eBooks #5530-5541]
+Apr 2004 A Thorny Path,         by Georg Ebers, v12[GE#102][g102vxxx.xxx]5541
+
+Apr 2004 A Thorny Path,         by Georg Ebers, v11[GE#101][g101vxxx.xxx]5540
+Apr 2004 A Thorny Path,         by Georg Ebers, v10[GE#100][g100vxxx.xxx]5539
+Apr 2004 A Thorny Path,         by Georg Ebers, v9  [GE#99][ge99vxxx.xxx]5538
+Apr 2004 A Thorny Path,         by Georg Ebers, v8  [GE#98][ge98vxxx.xxx]5537
+Apr 2004 A Thorny Path,         by Georg Ebers, v7  [GE#97][ge97vxxx.xxx]5536
+
+Apr 2004 A Thorny Path,         by Georg Ebers, v6  [GE#96][ge96vxxx.xxx]5535
+Apr 2004 A Thorny Path,         by Georg Ebers, v5  [GE#95][ge95vxxx.xxx]5534
+Apr 2004 A Thorny Path,         by Georg Ebers, v4  [GE#94][ge94vxxx.xxx]5533
+Apr 2004 A Thorny Path,         by Georg Ebers, v3  [GE#93][ge93vxxx.xxx]5532
+Apr 2004 A Thorny Path,         by Georg Ebers, v2  [GE#92][ge92vxxx.xxx]5531
+
+Apr 2004 A Thorny Path,         by Georg Ebers, v1  [GE#91][ge91vxxx.xxx]5530
+
+
+Apr 2004 Glenloch Girls, by Grace M. Remick                [glnlcxxx.xxx]5438
+Apr 2004 An Original Belle, by E. P. Roe            [Roe#7][aobllxxx.xxx]5437
+Apr 2004 Hyperion, Henry Wadsworth Longfellow[Longfellow#7][?hyprxxx.xxx]5436
+[7-bit version with non-accented characters in 7hypr10.txt/.zip]
+[8-bit version with accented characters in 8hypr10.txt/.zip]
+
+Apr 2004 The Stillwater Tragedy, by T. Aldrich  [Aldrich#8][?tsllxxx.xxx]5435
+[Author's Full Name: Thomas Bailey Aldrich]
+[7-bit version with non-accented characters in 7tsll10.txt/.zip]
+[8-bit version with accented characters in 8tsll10.txt/.zip]
+Apr 2004 The Physiology of Taste, by Brillat Savarin       [thphyxxx.xxx]5434
+[Subtitle: Or, Transcendental Gastronomy]
+Apr 2004 Without a Home, by E. P. Roe               [Roe#6][wththxxx.xxx]5433
+Apr 2004 Odes and Carmen Saeculare of Horace, Horace       [dsndcxxx.xxx]5432
+[Authors:  Heyse, Paul; Lindau, Rudolph; Von Sacher-Masoch, Leopold;]
+[Baumbach, Rudolph; Hoffman, E.T.; Zschokke, Heinrich]
+
+Apr 2004 Preface to a Dictionary of the English Language[9][penglxxx.xxx]5430
+[Author's Full Name: Samuel Johnson]
+Apr 2004 Preface to Shakespeare,bySamuel Johnson[Johnson#8][prfctxxx.xxx]5429
+Apr 2004 A Defence of Poetry and Other Essays,P. Shelley[8][adpoexxx.xxx]5428
+[Author's Full Name: Percy Bysshe Shelley]
+Apr 2004 Emile, by Jean-Jacques Rousseau            [JJ#14][emilexxx.xxx]5427
+
+
+Previously Reserved:
+Mar 2000 The Original Writings of Samuel Adams, Volume 4   [4sdmsxxx.xxx]2094
+
+***
+
+Statistical Review
+
+(This number includes the 83 etexts posted at the PG Australia web site)
+
+
+In the first 29 weeks of the new year, we have produced 1,319 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,611 eTexts online as of July 24th, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.78 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.75 when we had 3642 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.94 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+
+At 5611 eBooks in 31 Years We Averaged
+  180 Per Year
+
+At 1319 eBooks Done In 2002 We Averaged
+  200 eBooks Per Month!!!
+
+
+***Headline News***
+[My Comments In Brackets]
+
+Headlines From Newsscan
+
+CHINA IS NO. 3 IN INTERNET USERS
+Exceptionally strong growth in Internet use over the past year has vaulted
+China to the No. 3 position in the world in terms of online population
+numbers. A 72% increase since last year translates to 45 million Chinese
+citizens now logging on regularly, even as the government still struggles
+with how to control subversive content. Only the U.S. and Japan have more
+citizens online, according to a report from the China Internet Network
+Information Center, an industry group funded by the Information Industry
+Ministry. The average Chinese user spends eight hours and 20 minutes online
+each week, and while Internet formerly was concentrated among academics,
+68% of current users do not have college degrees. "The Internet is now
+coming closer to common people," says the People's Daily newspaper.
+(AP 23 Jul 2002)  http://apnews.excite.com/article/20020723/D7KUIAUG1.html
+
+[An earlier story had China at #2, back when they had 33 million users,
+I'll try to do some more research, it's probably pretty close to Japan.]
+
+
+FIND A BOOK, MAKE A FRIEND
+An online phenomenon called bookcrossing is making new friends among book
+lovers. The idea is that once you're finished with a good book, you leave
+it in some likely public place, like a grocery store or laundromat, along
+with information on how to log onto the bookcrossing.com Web site to let
+you know how the finder liked it. The Web site, which claims 18,000
+members, says more than 42,000 books have been "released into the wild" in
+45 countries over the past year. Only about 10% to 15% of the books people
+release are "successful," meaning they're picked up by people who log onto
+the site, says BookCrossing's founder Ron Hornbaker. "It's sort of like
+fishing. If you caught a fish every castoff of the line, it would get
+boring. Even the ones you don't hear from, you have to keep the faith that
+maybe they found a good home. It's better than sitting on a bookshelf." The
+concept has sparked a new posse of book hunters, who haunt coffee shops,
+parks and museums looking for "released" books, and an equally enthusiastic
+group of book releasers, who work to come up with imaginative places to
+leave their treasures (i.e., "The Name of the Rose" in a floral shop or
+"Divine Secrets of the Ya-Ya Sisterhood" in a Nordstrom's dressing room).
+"The whole thing is designed to take you on an adventure," says one
+participant."  (Los Angeles Times 23 Jul 2002)
+http://www.latimes.com/technology/la-lv-bookcrossing23jul23.story?coll=la%2D
+headlines%2Dtechnology
+
+REALNETWORKS EMBRACES OPEN-SOURCE PHILOSOPHY
+In an strategy to recover market share from Microsoft, RealNetworks will
+release for open-source development its new code for delivering
+("streaming") audio and video over the Internet. The company invented
+streaming media eight years ago with the Real Audio player, but has been
+losing market share to Microsoft, which integrates its own Media Player
+integrated into the Microsoft's Windows operating system. Called Helix, the
+new software will be offered as "open source" code, allowing companies like
+Sun, Lindows and PalmSource to create applications for the new platform,
+and setting the stage for an extension of that platform to the next
+generation of smart phones, personal digital assistants, and other
+intelligent devices. (San Jose Mercury News 22 Jul 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3715210.htm
+
+[Automating "Nice People". . .?"]
+PLEASANT VOICES ARE A HOT COMMODITY
+The proliferation of speech-automated systems to handle routine tasks in
+financial services, airline companies, and other businesses is generating a
+demand for voice actors, who nowadays include telephone greetings and
+message prompts in their demo tapes. Companies increasingly are looking for
+a friendly, conversational approach to automated systems that represent the
+front line of customer relations, and are striving to find just the right
+tone. After months of market research, Wells Fargo's credit card division
+opted on a young, hip but serious voice that sounds something like a
+30-something male banker. "We thought our customers might like some fun in
+the system, but they told us, 'No.' They just wanted someone professional,"
+says division head Tom LaCentra. According to research by Datamonitor, at
+least 25% of Fortune 500 companies invested in voice-automated systems in
+2001, up from 12% in 2000, and the voice technology market is predicted to
+rise to nearly $3 billion by 2007. (AP/CNN.com 18 Jul 2002)
+http://www.cnn.com/2002/TECH/industry/07/18/voice.automation.ap/index.html
+
+LAWYERS GO TO EBAY TO BID FOR EVIDENCE
+"Wow," said Stanford University law professor Deborah Hensler when told that
+competing lawyers are now competing not just in the courtroom but on eBay
+auctions -- to obtain evidence useful for trial. Personal injury cases
+involving the need for collectible-quality artifacts (such as 30-year-old
+asbestos product manuals or 1950s-era advertisements glorifying cigarettes)
+are especially sought-after now in eBay auctions. After Professor Hensler
+litigation." And personal injury lawyer Al Brayton  sums it up like this:
+"Today, you get not only the plaintiffs' bar bidding, but you have the
+defense bar bidding. The prices have gone up a lot in the last year. A lot."
+(Los Angeles Times/SJMN 21 Jul 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3710149.htm
+
+The New York Times was a very harsh critic of Enron's accounting
+manipulations, and yet the Times company itself had no qualms about
+striking a "newsprint swap agreement" with Enron that involved absolutely
+no exchange of physical assets and was disclosed only in the small print of
+SEC filings. As for the Washington Post, its editorial pages came out
+swinging against rules that "made a mockery of corporate accounting" by
+allowing companies to grant employee stock options "without recording a
+dime of expenses" -- yet The Post Co. was doing exactly the same thing at
+the same time. Asked about these double standards, the Times takes the
+high-minded position that its reporters were completely clueless about the
+relationship more -- had our journalists even been conscious of it -- but
+it's inconceivable that anyone will think our journalism was influenced by
+such a development." At the Post, chairman and chief executive Donald
+Graham has taken a more nuanced position, essentially maintaining that
+knows, the editorial page writes what it thinks is good policy, and if it
+varies with newspaper policy or corporate policy, that's fine."
+(Washington Post 18 Jul 2002)
+http://www.washingtonpost.com/wp-dyn/articles/A22440-2002Jul17.html
+
+[Can You Trust Any Search Engines Tomorrow?]
+ASK JEEVES TEAMS UP WITH GOOGLE
+Search engine Ask Jeeves says it will begin listing the ad-driven results
+provided by its more popular rival, Google, in a deal expected to generate
+sales of at least $100 million over the next three years. The move is
+intended to stem the flow of Jeeves' red ink, with losses totaling $694
+million since its inception. The move comes as a blow to Overture, which
+pioneered the concept of ad-driven search results and has been supplying
+them to Jeeves for the past year. Overture downplayed the loss, with CEO
+Ted Meisel saying, "We are still winning more deals than we are losing and
+I think we are winning the right ones." Earlier this year Google supplanted
+Overture in high-profile contracts with AOL and EarthLink. "We would like
+to have everyone as a customer," said Google CEO Eric Schmidt.
+(AP 19 Jul 2002)
+http://apnews.excite.com/article/20020719/D7KRTOD02.html
+
+AOL PUFFED ITS AD REVENUES; THE POST IS SHOCKED, SHOCKED
+In October of 2000, AOL's then-president Robert W. Pittman and other AOL
+executives were told the company faced the risk of losing more than $140
+million in ad revenue the following year, but two weeks later -- when asked
+it, and I don't buy it." A new Washington Post review of AOL documents now
+shows that the company made a wide variety of questionable deals and
+bookkeeping adjustments to keep their ad revenue figures looking good. An
+AOL executive who is no longer with the company says his former colleagues
+was not of the highest quality. I don't know if they're still in denial, but
+there were some pretty big business issues they were not willing to face.
+For nine months, I tried to get these guys out of denial. I tried to take
+the perfume off the pig."  AOL has issued a statement insisting that all
+their bookkeeping adjustments and deals were completely appropriate.
+(Washington Post 18 Jul 2002)
+http://www.washingtonpost.com/wp-dyn/articles/A21983-2002Jul17.html
+
+
+***
+
+Headlines From Edupage:
+
+SENATE FINALLY UPGRADES E-MAIL APPLICATION
+The U.S. Senate has begun upgrading its offices to Microsoft Outlook,
+replacing its 12-year-old system. The House of Representatives began
+replacing its aging e-mail system in 1996, but the Senate until now
+continued to use "cc:Mail," a program developed in 1985 and in service
+at the Senate office since 1990. According to Senate staffers, the old
+system took at least 15 minutes to transmit a message and sometimes up
+to several days. The old system also did not allow sending Web pages.
+One staffer who asked not to be named said if a message needed to get
+there quickly, he would use his Yahoo account. The Senate conversion is
+expected to be finished by November, though some Senators have said
+they don't want the upgrade until after election day, fearing problems
+with the transition.
+Washington Post, 19 July 2002
+http://www.washingtonpost.com/wp-dyn/articles/A33809-2002Jul19.html
+[When I testified at the Senate in 1995, only ONE of the senators
+present [perhaps 25] had ever even done a single email. . . .]
+
+SENATE COPYRIGHT BILL MOVES THROUGH COMMITTEE
+On Wednesday the House Judiciary Committee unanimously approved the
+Technology, Education, and Copyright Harmonization (TEACH) Act. The
+bill, which is identical to a Senate bill approved last year, would
+expand the copyright exceptions available to schools for using
+protected content in instructional activities. Under the terms of the
+bill, distance educators may transmit nondramatic literary and musical
+works digitally, and show selected portions of dramatic works. F. James
+Sensenbrenner Jr., the chair of the Judiciary Committee, had held up
+the legislation, hoping to create new protections for databases at the
+same time. Under pressure to pass the TEACH Act, and in light of the
+difficulty in passing a database bill, Sensenbrenner allowed the bill
+to pass to the full House of Representatives.
+Chronicle of Higher Education, 18 July 2002
+http://chronicle.com/free/2002/07/2002071801t.htm
+
+ASK JEEVES TO GET SPONSORED LINKS FROM GOOGLE
+Google has won another round in the battle of search engine
+advertising. Ask Jeeves announced it will soon include paid search
+results provided by Google. Overture Services, the company that
+originated the idea of selling real estate on a search engine's
+results pages, had been providing Ask Jeeves with paid results since
+last year. According to a company spokesman, Ask Jeeves hopes to double
+its revenue from paid listings in the second half of the year with the
+new arrangement with Google. An official from Google said his company
+"would like to have everyone as a customer."
+Associated Press, 19 July 2002 (registration req'd)
+http://www.nytimes.com/aponline/technology/AP-Ask-Jeeves-Google.html
+
+PORTABLE CELL PHONE NUMBERS DELAYED, AGAIN
+The Federal Communications Commission gave cell phone companies until
+November 2003 to offer cell phone customers the choice of keeping their
+cell phone numbers after switching from one wireless company to
+another. This is the third extension granted by the FCC. Most wireless
+companies oppose the concept because of cost. Verizon Wireless,
+Cingular Wireless, Sprint PCS, and AT&T Wireless oppose the portable
+number requirement, while others, such as Nextel Communications and
+Leap Wireless, support the option as a way to gain customers.
+Associated Press, 16 July 2002
+http://www.nandotimes.com/technology/story/468145p-3742541c.html
+
+WEBCASTING ROYALTIES CHALLENGED IN APPEALS COURT
+A group of radio stations filed a motion before a federal appeals court
+to set aside the rule that they must pay musicians and recording
+companies when they stream songs over the Internet. Their argument
+relies on the historical practice of not paying royalties for regular
+broadcasts. The motion is in response to a 0.07 cent per listener per
+song rate for Internet radio established by the Copyright Office in
+June. Webcasters did not participate in the appeal of the August 2001
+decision. The appeal was filed by the National Association of
+Broadcasters along with radio companies Bonneville International, Clear
+Channel Communications, Cox Radio, Emmis Communications, Entercom
+Communications, and Susquehanna Radio.
+CNET, 16 July 2002
+http://news.com.com/2100-1023-944209.html
+
+[What did I say about "per-per-everything?]
+APPLE TO START CHARGING FOR WEB SERVICES
+In a move reminiscent of Microsoft's .NET strategy, Apple Computer
+will begin charging for its iTools Web services, which will be renamed
+".Mac." The service will cost $99.95 per year; users of iTools who sign
+up for the new service by September 30 will get an introductory rate of
+$49.95 for the first year. Apple CEO Steve Jobs said at the Macworld
+show in New York that the "world is changing" and Apple needs to
+reflect that change. Apple will reportedly increase the storage
+capacity for users and add anti-virus software and Web-based e-mail.
+Reaction from iTools users was generally positive. Some said they would
+definitely pay for the service, while others said the charge would be
+reasonable if the improvements to the service are made.
+ZDNet, 17 July 2002
+http://zdnet.com.com/2100-1105-944357.html
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_07_24.txt" target="_blank" rel="nofollow">pgweekly_2002_07_24.txt</a>

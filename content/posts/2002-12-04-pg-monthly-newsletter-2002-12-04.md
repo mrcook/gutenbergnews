@@ -1,0 +1,1036 @@
+---
+params:
+  id: 1883
+title: PG Monthly Newsletter (2002-12-04)
+date: 2002-12-04T22:03:55+00:00
+author: Michael Cook
+layout: post
+url: /20021204/pg-monthly-newsletter-2002-12-04/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre># - # - # - # - #   [ NOVEMBER 2002 ]
+
+
+PGMonthly_December_04.txt
+
+*The Project Gutenberg Monthly Newsletter For Wednesday, December 4, 2002*
+******eBooks Readable By Both Humans and Computers For Over 31 Years******
+
+                  "They Said It Couldn't Be Done!"
+
+When Project Gutenberg completed eBook #100, The Complete Shakespeare,
+on December 10th, 1993, all the pundits said we couldn't possibly keep
+pace with Moore's Law, doubling every 18 months!  In fact, they said
+not even huge concerns such as Intel CPUs could keep up, but specifically
+that Project Gutenberg, an any other human based work enterprise,
+could not possibly keep up with Moore's law.
+
+                  Today We Have Proven Them Wrong!
+
+Here are the Moore's Law predictions from Dec. 10, 1993 to Dec. 10, 2002:
+
+9 years, doubling once ever 18 months would be a total of 6 doublings:
+
+Total   Date  Doublings
+
+ 100 Dec 10, 1993   0
+ 200 Jun 10, 1995   1
+ 400 Dec 10, 1996   2
+ 800 Jun 10, 1998   3
+1600 Dec 10, 1999   4
+3200 Jun 10, 2001   5
+6400 Dec 10, 2002   6
+
+or from eBook #100 on Dec. 10, 1993
+
+  100 Dec 10, 1993
+  400 Dec 10, 1996
+ 1600 Dec 10, 1999
+ 6400 Dec 10, 2002
+
+
+As of noon today, we have 6479 titles online.
+
+Over Our 31 1/3 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And This Year Averaged Nearly That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+                   76   New eBooks This Week
+                   53   New eBooks Last Week
+                  212   New eBooks This Month [Nov]
+                 2187   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 6479   Total Project Gutenberg eBooks
+                  137   eBooks From Project Gutenberg of Australia
+
+  ***The 19th Week Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+2,318   New eBooks In The Last 12 Months!!!
+4,161   eBooks This Week Last Year
+6,466   Tree-Friendly Titles Now Online
+
+   48   Weekly Average This Year
+   19   New This Week Last Year
+  199   Monthly Average This Year [11 months]
+  101   This Month Last Year [November, 2001]
+  199   New This Month [11th month of 2002]
+  934   New At This Week of 2001
+ 2187   New eBooks So Far In 2002
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Last Year It Was Well Over 100]
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+    3 New From PG Australia
+    73 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Project Gutenberg and other ebooks are listed in The eBook Catalog
+http://theebookcatalog.com
+
+***
+
+Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Third Request!
+
+We are seeking a physical copy of the book RUR in Czech by Karel
+Capek, published in 1920-1922.  These copies are hard to find, but
+available at the U. Nebraska Lincoln, Texas A&M, U. Texas Austin, NY
+Public Library & Waseda University.  If you are near these and can
+compare the eBook we have against the physical book, please contact
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+From: Miranda van de Heijning &lt;m_vandeheijning@yahoo.com&gt;
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+century books of A'bp Whately     Please contact:  david@whateley.org
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Month
+
+212 total new for the month, 194 US, 18 from PG of Aus.
+
+
+RESERVED count:   39
+
+TOTAL COUNT ***Last Month***:            6,267 (incl. 119 Aus.)
++212 New for the Month
+
+TOTAL COUNT ***as of Wed 12/04/02***:    6,479 (incl. 137 Aus.)
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+We have posted an additional format of the following book:
+
+The following eBook is being re-indexed to reflect the correct Author's
+name ("Langley" not "Langely"):
+Jul 2004 Miss Gibbie Gault, by Kate Langley Bosher         [msgbbxxx.xxx]6075
+
+The following eBook has been re-indexed and re-named to reflect the
+correct Volume number (V1, not V4):
+Aug 2004 Works, V1, by Lucian of Samosata                  [lcns1xxx.xxx]6327
+
+The following eBook has been removed as it is
+essentially a duplicate of an already existing eBook #6069:
+Jul 2004 The Pony Rider Boys in the Ozarks, Patchin [FGP#4][prboz10a.xxx]6071
+Also note that eBook #6071 has already be allocated to another eBook.
+
+We have posted improved 12th editions of the following eBooks from the
+PG Works of Alexandre Dumas:
+Aug 2001 Borgias, by Alexander Dumas, Pere[Dumas, Pere #10][borgsxxx.xxx]2741
+Aug 2001 Man in the Iron Mask, by Alexander Dumas, Pere 20 [emaskxxx.xxx]2751
+Aug 2001 Massacres of the South, by Alex. Dumas, Pere [#12][mssthxxx.xxx]2743
+
+We have posted improved 12th editions of:
+Apr 2002 Curious Republic of Gondour, by Mark Twain [MT#53][mtcrgxxx.xxx]3192
+Apr 2002 Alonzo Fitz and Others, by Mark Twain      [MT#45][mtlafxxx.xxx]3184
+Apr 2002 Rambling Idle Excursion, by Mark Twain     [MT#43][mtridxxx.xxx]3182
+
+Mar 1999 The Adventures of Sherlock Holmes, by Doyle  [#15][advshxxx.xxx]1661
+[New HTML format also posted in advsh12h.htm/.zip]
+Apr 1992 New eBook of Bible [KJV] [From many editions]     [biblexxx.xxx]  30
+
+We have posted an improved 11th edition of:
+Oct 2003 The Small House at Allington, Anthony Trollope[30][tsllhxxx.xxx]4599
+
+Feb 1995 The Wisdom of Father Brown, by G.K. Chesterton #3 [wifrbxxx.xxx] 223
+
+The following has been reposted in new format(s) as indicated:
+Oct 2000 Tea-table Talk, by Jerome K. Jerome   [Jerome #21][ttalkxxx.xxx]2353
+[XHTML in ttalk10h.htm/.zip, text in ttalk10.txt/.zip]
+
+
+***] CORRECTIIONS AND UPDATES AT PROJECT GUTENBERG OF AUSTRALIA [***
+
+The following eBooks have been re-posted with different titles;
+the original postings have been removed pending possible further
+copyright research:
+Oct 2002 Woolf Short Stories, by Virginia Woolf     [VW#05][020078xx.xxx]0112A
+[http://gutenberg.net.au/ebooks02/0200781.txt or .ZIP]
+Oct 2002 Woolf Essays, by Virginia Woolf            [VW#04][020077xx.xxx]0111A
+[http://gutenberg.net.au/ebooks02/0200771.txt or .ZIP]
+
+The following eBook has been reposted with an improved edition:
+Nov 2002 Nineteen eighty-four, by George Orwell     [GO#02][010002xx.xxx]0002A
+[http://gutenberg.net.au/0100021.txt or .ZIP]
+
+
+***] 18 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Nov 2002 Scandal of Father Brown, by G K Chesterton [GC#05][020103xx.xxx]0137A
+[Full Title: The Scandal of Father Brown]
+[http://gutenberg.net.au/ebooks02/0201031.txt or .ZIP]
+Nov 2002 Incredulity of Fthr Brown,by G K Chesterton[GC#04][020102xx.xxx]0136A
+[http://gutenberg.net.au/ebooks02/0201021.txt or .ZIP]
+[Full Title: The Incredulity of Father Brown]
+
+Nov 2002 A Tangled Web, by L M Montgomery           [LM#05][020101xx.xxx]0135A
+[http://gutenberg.net.au/ebooks02/0201011.txt or .ZIP]
+Nov 2002 Australian Discovery, by Ernest Scott      [ES#02][020100xx.xxx]0134A
+[http://gutenberg.net.au/ebooks02/0201001h.zip ZIPPED HTML ONLY]
+Nov 2002 Mrs Dalloway, by Virginia Woolf            [VW#08][020099xx.xxx]0133A
+[http://gutenberg.net.au/ebooks02/0200991.txt or .ZIP]
+Nov 2002 The House with Seven Locks, by E Wallace   [EW#02][020098xx.xxx]0132A
+[Author's full name: Edgar Wallace]
+[http://gutenberg.net.au/ebooks02/0200981.txt or .ZIP]
+Nov 2002 The Prisoner in the Opal, by A E W Mason   [AM#02][020097xx.xxx]0131A
+[http://gutenberg.net.au/ebooks02/0200971.txt or .ZIP]
+
+Nov 2002 The House of the Arrow, by A E W Mason     [AM#01][020096xx.xxx]0130A
+[http://gutenberg.net.au/ebooks02/0200961.txt or .ZIP]
+Nov 2002 The Blue Castle, by L M Montgomery         [LM#04][020095xx.xxx]0129A
+[http://gutenberg.net.au/ebooks02/0200951.txt or .ZIP]
+Nov 2002 Gideon Planish, by Sinclair Lewis          [SL#05][020094xx.xxx]0128A
+[http://gutenberg.net.au/ebooks02/0200941.txt or .ZIP or ZIPPED HTML]
+Nov 2002 Three Guineas, by Virginia Woolf           [VW#07][020093xx.xxx]0127A
+[http://gutenberg.net.au/ebooks02/0200931.txt or .ZIP]
+Nov 2002 Malcolm Sage, Detective, by Herbert Jenkins[HJ#01][020092xx.xxx]0126A
+[http://gutenberg.net.au/ebooks02/0200921.txt or .ZIP]
+
+Nov 2002 Uncle Abner, Master of Mysteries, by Post  [MP#01][020091xx.xxx]0125A
+[http://gutenberg.net.au/ebooks02/0200911.txt or .ZIP]
+[Author's full name: Melville Davisson Post]
+Nov 2002 Max Carrados Mysteries, by Ernest Bramah   [EB#01][020090xx.xxx]0124A
+[http://gutenberg.net.au/ebooks02/0200901.txt or .ZIP]
+[Full title: Max Carrados Mysteries - An Anthology]
+Nov 2002 The Mind of Mr J G Reeder, by Edgar Wallace[EW#01][020089xx.xxx]0123A
+[http://gutenberg.net.au/ebooks02/0200891.txt or .ZIP]
+Nov 2002 Jane of Lantern Hill, by L M Montgomery    [LM#03][020088xx.xxx]0122A
+[http://gutenberg.net.au/ebooks02/0200881.txt or .ZIP]
+Nov 2002 Twenty-four Short Sermons, by John B Dods  [JD#01][020087xx.xxx]0121A
+[Full title: Twenty-four Short Sermons on the Doctrine of Universal
+[Salvation]
+[http://gutenberg.net.au/ebooks02/0200871h.zip] ZIPPED HTML ONLY
+
+Nov 2002 Settlers of the Marsh, by Frederick P Grove[FG#01][020086xx.xxx]0120A
+[http://gutenberg.net.au/ebooks02/0200861.txt or .ZIP]
+
+
+eBooks are held in TXT and/or ZIP formats.  To access these ebooks, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 194 NEW U.S. POSTS [***
+
+Sep 2004 Twelve Caesars,  by Seutonius, Complete     [ST15][st15wxxx.xxx]6400
+[Title: The Lives Of The Twelve Caesars, To Which Are Added,
+[The Lives Of The Grammarians, Rhetoricians, and Poets]
+[Author: C. Suetonius Tranquillus][Contains: eBook #6386-6399]
+Aug 2004 Lives of the Poets, by Seutonius,       V14 [ST14][st14wxxx.xxx]6399
+Aug 2004 Grammarians and Rhetoricians,Seutonius, V13 [ST13][st13wxxx.xxx]6398
+Aug 2004 12 Caesars, Domitian, by Seutonius,     V12 [ST12][st12wxxx.xxx]6397
+Aug 2004 12 Caesars, Titus, by Seutonius,        V11 [ST11][st11wxxx.xxx]6396
+Aug 2004 12 Caesars, Vespasian, by Seutonius,    V10 [ST10][st10wxxx.xxx]6395
+Aug 2004 12 Caesars, Vitellius, by Seutonius,     V9 [ST09][st09wxxx.xxx]6394
+Aug 2004 12 Caesars, Otho, by Seutonius,          V8 [ST08][st08wxxx.xxx]6393
+Aug 2004 12 Caesars, Galba, by Seutonius,         V7 [ST07][st07wxxx.xxx]6392
+Aug 2004 12 Caesars, Nero, by Seutonius,          V6 [ST06][st06wxxx.xxx]6391
+Aug 2004 12 Caesars, Claudius, by Seutonius,      V5 [ST05][st05wxxx.xxx]6390
+Aug 2004 12 Caesars, Caligula, by Seutonius,      V4 [ST04][st04wxxx.xxx]6389
+Aug 2004 12 Caesars, Tiberius, by Seutonius,      V3 [ST03][st03wxxx.xxx]6388
+Aug 2004 12 Caesars, Augustus, by Seutonius,      V2 [ST02][st02wxxx.xxx]6387
+Aug 2004 12 Caesars, Julius Caesar, by Seutonius, V1 [ST01][st01wxxx.xxx]6386
+
+Aug 2004 Two Years in the French West Indies,by L. Hearn[4][tyfwixxx.xxx]6381
+[Author's Full Name: Lafcadio Hearn]
+Aug 2004 Cornelli, by Johanna Spyri                        [crnllxxx.xxx]6380
+Aug 2004 The Net:  A Novel, by Rex Beach          [Beach#9][thenexxx.xxx]6379
+Aug 2004 Victory, by Joseph Conrad              [Conrad#27][vctyxxxx.xxx]6378
+[Subtitle: An Island Tale]
+[XHTML in vcty10h.htm/.zip, text in vcty10.txt/.zip]
+Aug 2004 Thais, by Anatole France                          [?thaixxx.xxx]6377
+[Author's Full Name: Jacques Anatole Thibault][Language: French]
+[7-bit version with non-accented characters in 7thai10.txt and 7thai10.zip]
+[8-bit version with accented characters in 8thai10.txt and 8thai10.zip]
+[UTF-8 version with accented characters in 8thai10u.txt and 8thai10u.zip]
+Aug 2004 Self-Raised, Emma Dorothy Eliza Nevitte Southworth[slfrsxxx.xxx]6376
+[Subtitle: Or, From the Depths]
+
+Aug 2004 Quaint Gleanings from Ancient Poetry, E. Goldsmid [qntglxxx.xxx]6375
+[Author's Full Name: Edmund Goldsmid]
+[Subtitle: A Collection of Curious Poetical Compositions of the XVIth,
+[XVIIth, and XVIIIth Centuries]
+Aug 2004 Princess Maritza, by Percy Brebner                [smrtzxxx.xxx]6374
+Aug 2004 The Luck of Roaring Camp and Other Tales,Harte[51][tlrcoxxx.xxx]6373
+[Author's Full Name: Bret Harte]
+[Subtitle: With Condensed Novels, Spanish and American Legends, and Earlier
+[Papers]
+Aug 2004 The Wonder-Working Magician, by Calderon      [#4][wwmgnxxx.xxx]6372
+[Full author: Pedro Calderon de la Barca]
+Aug 2004 The Purgatory of St. Patrick, by Calderon     [#3][prgspxxx.xxx]6371
+[Full author: Pedro Calderon de la Barca]
+
+Aug 2004 The Story Of The Odyssey, by Alfred J. Church     [sdssyxxx.xxx]6370
+Aug 2004 Medieval Europe, by H. W. C. Davis                [mdvlpxxx.xxx]6369
+Aug 2004 Here, There And Everywhere, by Hamilton       [#2][hrvryxxx.xxx]6368
+[Full author: Lord Frederic Hamilton]
+Aug 2004 Saint Francis of Assisi, by Candide Chalippe      [frnssxxx.xxx]6367
+[Full title: The Life and Legends of Saint Francis of Assisi]
+Aug 2004 The Principles Of Aesthetics, by Dewitt H. Parker [pncstxxx.xxx]6366
+
+Aug 2004 Richard Dare's Venture, by Edward Stratemeyer [#7][rcdvtxxx.xxx]6365
+Aug 2004 Warlock o' Glenwarlock, by George MacDonald  [#26][wrgwkxxx.xxx]6364
+Aug 2004 Life Is A Dream, by Pedro Calderon de la Barca[#2][lfdrmxxa.xxx]6363
+[Translator: Denis Florence MacCarthy]
+(Note: this is a different translation from eBook 2587, which was
+(translated by Edward Fitzgerald.)
+Aug 2004 Three Soldiers, by John Dos Passos                [thsldxxx.xxx]6362
+Aug 2004 Making Good On Private Duty,Harriet Camp Lounsbery[gdpvdxxx.xxx]6361
+
+Aug 2004 Half a Dozen Girls, by Anna Chapin Ray     [Ray#2][hfdzgxxx.xxx]6360
+Aug 2004 The English Mail-Coach & Joan of Arc,de Quincey #9[?mjncxxx.xxx]6359
+[Full author: Thomas de Quincey]
+Aug 2004 The History of England, by A. F. Pollard          [hstngxxx.xxx]6358
+Aug 2004 The Young Fur Traders, by R.M. Ballantyne     [#2][?frtdxxx.xxx]6357
+May 2004 The Gospel of Matthew for Readers, by Lightheart  [gmattxxx.xxx]6356C
+
+Aug 2004 Locusts and Wild Honey, by John Burroughs     [#5][lwhonxxx.xxx]6355
+[A.K.A. The Writings of John Burroughs Volume IV]
+Aug 2004 Italian Hours, by Henry James              [HJ#45][?ihouxxx.xxx]6354
+[7-bit version with non-accented characters in 7ihou10.txt and 7ihou10.zip]
+[8-bit version with accented characters in 8ihou10.txt and 8ihou10.zip]
+Aug 2004 The Prince of Graustark, by G. B. McCutcheon [#17][prgrkxxx.xxx]6353
+Aug 2004 Dora Deane, by Mary J. Holmes           [Holmes#4][dradnxxx.xxx]6352
+Aug 2004 Red Fleece, by Will Levington Comfort             [rdflcxxx.xxx]6351
+
+Aug 2004 Via Crucis, by F. Marion Crawford     [Crawford#4][vcrucxxx.xxx]6350
+Aug 2004 Copyright Renewals 1954, US Copyright Office  [#7][r1954xxx.xxx]6349
+Aug 2004 Copyright Renewals 1953,   US Copyright Office[#6][r1953xxx.xxx]6348
+Aug 2004 Hobson's Choice, by Harold Brighouse              [hbsncxxx.xxx]6347
+Aug 2004 Cecilia Volume 1, by Frances Burney     [Burney#4][ccla1xxx.xxx]6346
+
+Aug 2004 Seven Maids of Far Cathay, by Bing Ding, Ed.      [smcatxxx.xxx]6345
+[Subtitle: Being English Notes From A Chinese Class Book]
+Aug 2004 The 2002 CIA World Factbook                       [world02x.xxx]6344
+(Note that edition numbers are not included in the filenames for this
+(annual publication:  world02.txt & world02.zip)
+Aug 2004 Kritik der reinen Vernunft (2nd Edition), I. Kant [?ikc2xxx.xxx]6343
+Aug 2004 Kritik der reinen Vernunft (1st Edition), I. Kant [?ikc1xxx.xxx]6342
+[English title: Critique of Pure Reason] [Author's Full Name: Immanuel Kant]
+[Language: German]
+[7-bit version with non-accented characters in 7ikc110.txt and 7ikc110.zip]
+[8-bit version with accented characters in 8ikc110.txt and 8ikc110.zip]
+Aug 2004 Nachtstuecke, by E.T.A. Hoffmann                  [?nachxxx.xxx]6341
+[7-bit version with non-accented characters in 7nach10.txt and 7nach10.zip]
+[8-bit version with accented characters in 8nach10.txt and 8nach10.zip]
+[Language: German]
+
+Aug 2004 Literary Lapses, by Stephen Leacock    [Leacock#9][ltlpsxxx.xxx]6340
+Aug 2004 The Boy Scounts on a Submarine,Captain John Blaine[bssubxxx.xxx]6339
+[Note: Not the same as #6108]
+Aug 2004 Boy Scounts in the Coal Caverns, by M. Fletcher   [bscocxxx.xxx]6338
+[Author's Full Name: Major Archibald Lee Fletcher]
+[Subtitle: Or the Light in Tunnel Six]
+Aug 2004 The Boy Allies Under Two Flags, Robert L. Drake   [bautfxxx.xxx]6337
+Aug 2004 The Misuse of Mind, by Karin Stephen              [misumxxx.xxx]6336
+(HTML also posted zipped file only in misum10h.zip)
+
+Aug 2004 The Antiquity of Man, by Charles Lyell   [Lyell#2][ntqtmxxx.xxx]6335
+Aug 2004 Sara, a Princess, by Fannie E. Newberry           [srprnxxx.xxx]6334
+[Subtitle: The Story of a Noble Girl]
+Aug 2004 Public Speaking, by Irvah Lester Winter           [?pspkxxx.xxx]6333
+[Subtitle: Principles and Practice]
+[7-bit version with non-accented characters in 7pspk10.txt and 7pspk10.zip]
+[8-bit version with accented characters in 8pspk10.txt and 8pspk10.zip]
+Aug 2004 Playful Poems, by Henry Morley                     [plpmxxx.xxx]6332
+[XHTML in plpm10h.htm/.zip, text in plpm10.txt/.zip]
+Aug 2004 The Pillars of the House, V1, C. M. Yonge    [#38][plrh1xxx.xxx]6331
+[HTML also posted, zip only]
+
+Aug 2004 Amanda, by Anna Balmer Myers                      [mndmnxxx.xxx]6330
+[HTML version also posted, as zip only]
+Aug 2004 British Columbia Birds, by Francis Kermode        [?cbcbxxx.xxx]6329
+[Full title: Catalogue of British Columbia Birds]
+Aug 2004 Junior Classics, V5, Edited by William Patten [#3][jrcl5xxx.xxx]6328
+   Contents
+     Arabian Nights
+       Ali Baba and the Forty Thieves
+       The Story of Aladdin; or the Wonderful Lamp
+       Sindbad the Sailor
+     Robinson Crusoe
+       Robinson Crusoe is Shipwrecked, by Daniel Defoe
+       Alone on a Desolate Island, by Daniel Defoe
+       The Building of the Boat, by Daniel Defoe
+       Finds the Print of a Man's Foot on the Sand, by Daniel Defoe
+       Friday Rescued from the Cannibals, by Daniel Defoe
+       Robinson Crusoe Rescued, by Daniel Defoe
+     Gulliver's Travels
+       Gulliver is Shipwrecked and Swims for His Life, by Jonathan Swift
+       Gulliver at the Court of Lilliput, by Jonathan Swift
+       Gulliver Captures Fifty of the Enemy's Ships, by Jonathan Swift
+       Gulliver Leaves Lilliput, by Jonathan Swift
+       Gulliver in the Land of the Giants, by Jonathan Swift
+       Some of Gulliver's Adventures, by Jonathan Swift
+       Gulliver Escapes from the Eagle, by Jonathan Swift
+     The Plays Of Shakespeare
+       A Midsummer-Night's Dream, by E. Nesbit
+       The Tempest, by E. Nesbit
+       As You Like It, by E. Nesbit
+       The Merchant of Venice, by E. Nesbit
+     Pilgrim's Progress
+       Christian Starts on His Journey, by John Bunyan
+       The Interpreter Shows Christian Many Excellent Things, by John Bunyan
+       Christian's Fight With the Monster Apollyon, by John Bunyan
+       Christian and Hopeful are Captives in Doubting Castle, by John Bunyan
+       Christian and Hopeful Arrive at the Coelestial City, by John Bunyan
+     Ivanhoe And Guy Mannering, by Sir Walter Scott
+       Ivanhoe, by Sir Edward Sullivan
+       Guy Mannering, by Sir Edward Sullivan
+     The Startling Adventures Of Baron Munchausen
+       An Adventure With a Lion and a Crocodile, by R. E. Raspe
+       Crossing the Thames Without the Aid of Bridge, Boat or Balloon,
+         by R. E. Raspe
+       Two Strange Adventures in Russia, by R. E. Raspe
+       Shooting a Stag With Cherrystones, by R. E. Raspe
+       The Baron's Wonderful Dog, by R. E. Raspe
+Aug 2004 Works, V4, by Lucian of Samosata                  [lcns4xxx.xxx]6327
+Aug 2004 Half-Hours with Great Story-Tellers, by Various   [hhgstxxx.xxx]6326
+   Contents
+     Grey Dolphin, by Richard Harris Barham
+     Moses, The Sassy, by Artemus Ward
+     Mr. Columbus Coriander'S Gorilla
+     The Fate Of Young Chubb, by Max Adeler
+     Boots At The Holly-Tree Inn, by Charles Dickens
+     The Enthusiast In Anatomy, by John Oxenford
+     "The Light Princess", by George Macdonald
+     Legend Of The Little Weaver, by Samuel Lover
+
+Aug 2004 A Fool and His Money, by G.B. McCutcheon  [GBM#16][flmnyxxx.xxx]6325
+Aug 2004 Story of a White Rocking Horse,Laura Lee Hope[#14][whrkhxxx.xxx]6324
+Aug 2004 The Junior Classics, V4, Ed. by Willam Patten [#2][jrcl4xxx.xxx]6323
+Aug 2004 Equinoctial Regions of America V1, A. von Humboldt[qnct1xxx.xxx]6322
+[Full author: Alexander von Humboldt]
+Aug 2004 The Naturalist in Nicaragua, by Thomas Belt       [ntncgxxx.xxx]6321
+
+Aug 2004 English literary criticism, Various, C.K. Vaughn  [nglshxxx.xxx]6320
+[Ed. by C.H. Herford]
+Aug 2004 Bric-_-brac, by Alexandre Dumas         [Dumas#31][?brcbxxx.xxx]6319
+[Language: French]
+[7-bit version with non-accented characters in 7brcb10.txt and 7brcb10.zip]
+[8-bit version with accented characters in 8brcb10.txt and 8brcb10.zip]
+[UTF-8 version with accented characters in 8brcb10u.txt and 8brcb10u.zip]
+Aug 2004 L'Avare, by Jean-Baptiste Poquelin     [Moli_re#9][?avarxxx.xxx]6318
+[Author AKA: Moli_re] [Language: French]
+[7-bit version with non-accented characters in 7avar10.txt and 7avar10.zip]
+[8-bit version with accented characters in 8avar10.txt and 8avar10.zip]
+Aug 2004 Sailing Alone Around The World, by Joshua Slocum  [slglnxxx.xxx]6317
+Aug 2004 Poems of American Patriotism, Ed. Brander Matthews[pmmrpxxx.xxx]6316
+
+Aug 2004 The Awakening of Helena Richie, by M. Deland[MD#3][wknhrxxx.xxx]6315
+[Full author: Margaret Deland]
+Aug 2004 Biographical Essays, by Thomas de Quincey   [TQ#8][bgrsyxxx.xxx]6314
+Aug 2004 American Wit And Humor, Ed. by T. L. Masson       [mrcwhxxx.xxx]6313
+[Full title: Masterpieces Of American Wit And Humor]
+[Full editor: Thomas L. Masson]
+   Contents:
+     Agnes Repplier - A Plea For Humor
+     Marietta Holley - An Unmarried Female
+     Fitzhugh Ludlow - Selections From A Brace Of Boys
+     Robert Jones Burdette - Rheumatism Movement Cure
+     Oliver Wendell Holmes - An Aphorism And A Lecture
+     Joshua S. Morris - The Harp Of A Thousand Strings
+     Seba Smith - My First Visit To Portland
+     William Cullen Bryant - The Mosquito
+     John Carver - Country Burial-Places
+     Danforth Marble - The Hoosier And The Salt-Pile
+     Anne Bache - The Quilting
+     Fitz-Greene Halleck - A Fragment
+                         - Domestic Happiness
+     Charles F. Browne ("Artemus Ward") - One Of Mr. Ward's Business Letters
+                                        - On "Forts"
+     James Russell Lowell - Without And Within
+     Louisa May Alcott - Street Scenes In Washington
+     Albert Bigelow Paine - Mis' Smith
+     James Jeffrey Roohe - A Boston Lullaby
+     Charles Graham Halpine - Irish Astronomy
+     Samuel Minturn Peok - Bessie Brown, M. D.
+     Robert C. Sands - A Monody
+     Carolyn Wells - The Poster Girl
+     James Gardner Sanderson - The Conundrum Of The Golf Links
+     Harriet Beecher Stowe - The Minister's Wooing
+     William Dean Howells - Mrs. Johnson
+     Anonymous - The Trout, The Cat And The Fox The British Matron
+Aug 2004 Representative Men, by Ralph Waldo Emerson [RWE#3][rpsvmxxx.xxx]6312
+Aug 2004 A Knight Of The Nineteenth Century, E. P. Roe[#13][knnthxxx.xxx]6311
+
+
+Aug 2004 The Pastor's Son, by William W. Walter            [pstrsxxx.xxx]6310
+Aug 2004 Ma Cousine Pot-Au-Feu, by Leon de Tinseau         [?cnpfxxx.xxx]6309
+Aug 2004 Hypatia, by Charles Kingsley         [Kingsley#14][hyptaxxx.xxx]6308
+Aug 2004 The Story of a Bold Tin Soldier, by L. L. Hope[13][bldtnxxx.xxx]6307
+[Also HTML posted as Zip only bldtn10h.zip]
+Aug 2004 Homes of Eminent Artists, by Elbert Hubbard [EH#2][hmmnnxxx.xxx]6306
+[Full title: Little Journeys to the Homes of Eminent Artists]
+
+Aug 2004 A Fool There Was, by Porter Emerson Browne        [fltwsxxx.xxx]6305
+Aug 2004 Without Prejudice, by Israel Zangwill             [?prejxxx.xxx]6304
+[7-bit version with non-accented characters in 7prej10.txt and 7prej10.zip]
+[8-bit version with accented characters in 8prej10.txt and 8prej10.zip]
+
+Aug 2004 The Duel Between France and Germany,Charles Sumner[tdbfgxxx.xxx]6303
+Aug 2004 The Junior Classics, Various                      [?jrc7xxx.xxx]6302
+[Subtitle: Stories of Courage and Heroism] [Editor: William Patten]
+[Introduction: Charles W. Eliot] [Reading Guide: William Allen Neilson]
+[7-bit version with non-accented characters in 7jrc710.txt and 7jrc710.zip]
+[8-bit version with accented characters in 8jrc710.txt and 8jrc710.zip]
+   Contains:
+    How Phidias Helped the Image-Maker by Beatrice Harraden
+    The Fight at the Pass of Thermopyle by Charlotte M. Yonge
+    The Bravery of Regulus by Charlotte M. Yonge
+    The Rabbi Who Found the Diadem by Dr. A. S. Isaacs
+    How Livia Won the Brooch by Beatrice Harraden
+    Julius Caesar Crossing the Rubicon by Jacob Abbott
+    Fearless Saint Genevieve, Patron Saint of Paris by Charlotte M. Yonge
+    The Boy Viking--Olaf II of Norway by E. S. Brooks
+    The Boy-Heroes of Crecy and Poitiers by Treadwell Walden
+    The Noble Burghers of Calais by Charlotte M. Yonge
+    The Story of Joan of Arc, the Maid Who Saved France by Anonymous
+    How Joan the Maid Took Largess from the English by Anonymous
+    Death of Joan the Maid by Anonymous
+    How Catherine Douglas Tried to Save King James of Scotland by
+       Charlotte M. Yonge
+    The Brave Queen of Hungary by Charlotte M. Yonge
+    The Story of Christopher Columbus for Little Children by Elizabeth
+       Harrison
+    A Sea-Fight in the Time of Queen Bess by Charles Kingsley
+    A Brave Scottish Chief by Anonymous
+    The Adventure of Grizel Cochrane by Arthur Quiller-Couch
+    The Sunken Treasure by Nathaniel Hawthorne
+    The Lost Exiles of Texas by Arthur Oilman
+    The Boy Conqueror--Charles XII of Sweden by E. S. Brooks
+    The True Story of a Kidnapped Boy as Told by Himself Peter
+       Williamson
+    The Prisoner Who Would Not Stay in Prison by Anonymous
+    A White Boy Among the Indians, as Told by Himself John Tanner
+    Evangeline of Acadia by Henry W. Longfellow
+    Jabez Rockwell's Powder-Horn by Ralph D. Paine
+    A Man Who Coveted Washington's Shoes by Frank R. Stockton
+    A Famous Fight Between an English and a French Frigate by
+       Rev. W. H. Fitchett
+    The Trick of an Indian Spy by Arthur Quiller-Couch
+    The Man in the "Auger Hole" by Frank R. Stockton
+    The Remarkable Voyage of the _Bounty_ by Anonymous
+    The Two Boy Hostages at the Siege of Seringapatam by Anonymous
+    The Man Who Spoiled Napoleon's "Destiny" by Rev. W. H. Fitchett
+    A Fire-Fighter's Rescue from the Flames by Arthur Quiller-Couch
+    How Napoleon Rewarded His Men by Baron de Marbot
+    A Rescue from Shipwreck by Arthur Quiller-Couch
+    Rebecca the Drummer by Charles Barnard
+    The Messenger by M. E. M. Davis
+    Humphry Davy and the Safety-Lamp by George C. Towle
+    Kit Carson's Duel by Emerson Hough
+    The Story of Grace Darling by Anonymous
+    The Struggles of Charles Goodyear by George C. Towle
+    Old Johnny Appleseed by Elizabeth Harrison
+    The Little Post-Boy by Bayard Taylor
+    How June Found Massa Linkum by Elizabeth S. Phelps
+    The Story of a Forest Fire by Raymond S. Spears
+Aug 2004 The Eve of the French Revolution, Edward J. Lowell[?frrvxxx.xxx]6301
+[7-bit version with non-accented characters in 7frrv10.txt and 7frrv10.zip]
+[8-bit version with accented characters in 8frrv10.txt and 8frrv10.zip]
+
+Aug 2004 The Money Master,   by G. Parker, Complete [GP107][gp107xxx.xxx]6280
+[Author: Gilbert Parker][Contains: EBooks #6275-6279]
+Aug 2004 The Money Master,   by G. Parker, Epoch 5  [GP106][gp106xxx.xxx]6279
+Aug 2004 The Money Master,   by G. Parker, Epoch 4  [GP105][gp105xxx.xxx]6278
+Aug 2004 The Money Master,   by G. Parker, Epoch 3  [GP104][gp104xxx.xxx]6277
+Aug 2004 The Money Master,   by G. Parker, Epoch 2  [GP103][gp103xxx.xxx]6276
+Aug 2004 The Money Master,   by G. Parker, Epoch 1  [GP102][gp102xxx.xxx]6275
+
+Aug 2004 Lover's Diary(Poetry), by Parker, Complete [GP101][gp101xxx.xxx]6274
+[Title: A Lover's Diary]
+[Author: Gilbert Parker][Contains: EBooks #6272-6273]
+Aug 2004 A Lover's Diary(Poetry), by G. Parker, v2  [GP100][gp100xxx.xxx]6273
+Aug 2004 A Lover's Diary(Poetry), by G. Parker, v1  [GP#99][gp99wxxx.xxx]6272
+
+Aug 2004 Embers (Poetry),    by G. Parker, Complete [GP#98][gp98wxxx.xxx]6271
+[Author: Gilbert Parker][Contains: EBooks #6268-6270]
+Aug 2004 Embers (Poetry),         by G. Parker, v3  [GP#97][gp97wxxx.xxx]6270
+Aug 2004 Embers (Poetry),         by G. Parker, v2  [GP#96][gp96wxxx.xxx]6269
+Aug 2004 Embers (Poetry),         by G. Parker, v1  [GP#95][gp95wxxx.xxx]6268
+
+Aug 2004 The Weavers,   by Gilbert Parker, Complete [GP#94][gp94wxxx.xxx]6267
+[Subtitle: A Tale of England And Egypt Of Fifty Years Ago]
+[Contains: EBooks #6261-6266]
+Aug 2004 The Weavers,             by G. Parker, v6  [GP#93][gp93wxxx.xxx]6266
+Aug 2004 The Weavers,             by G. Parker, v5  [GP#92][gp92wxxx.xxx]6265
+Aug 2004 The Weavers,             by G. Parker, v4  [GP#91][gp91wxxx.xxx]6264
+Aug 2004 The Weavers,             by G. Parker, v3  [GP#90][gp90wxxx.xxx]6263
+Aug 2004 The Weavers,             by G. Parker, v2  [GP#89][gp89wxxx.xxx]6262
+Aug 2004 The Weavers,             by G. Parker, v1  [GP#88][gp88wxxx.xxx]6261
+
+Aug 2004 Donovan Pasha &c,      by Parker, Complete [GP#87][gp87wxxx.xxx]6260
+[Title: Donovan Pasha And Some People of Egypt][Author: Gilbert Parker]
+[Contains: EBooks #6256-6259]
+Aug 2004 Donovan Pasha &c,        by G. Parker, v4  [GP#86][gp86wxxx.xxx]6259
+Aug 2004 Donovan Pasha &c,        by G. Parker, v3  [GP#85][gp85wxxx.xxx]6258
+Aug 2004 Donovan Pasha &c,        by G. Parker, v2  [GP#84][gp84wxxx.xxx]6257
+Aug 2004 Donovan Pasha &c,        by G. Parker, v1  [GP#83][gp83wxxx.xxx]6256
+
+
+Jul 2004 The Greek View of Life,Goldsworthy Lowes Dickinson[tgeevxxx.xxx]6200
+
+Jul 2004 The Note-Books of Samuel Butler, Samuel Butler #14[nbsbxxxx.xxx]6173
+[XHTML in nbsb10h.htm/.zip, text in nbsb10.txt/.zip]
+Jul 2004 God and my Neighbour, by Robert Blatchford        [gdndmxxx.xxx]6172
+
+Jul 2004 Memorials and Other Papers, by Thomas de Quincey  [?memcxxx.xxx]6171
+[Complete, contains Vols. I & II, eBook #'s 6169-6170]
+[7-bit version with non-accented characters in 7memc10.txt and 7memc10.zip]
+[8-bit version with accented characters in 8memc10.txt and 8memc10.zip]
+Jul 2004 Memorials and Other Papers V2,by Thomas de Quincey[?mem2xxx.xxx]6170
+[7-bit version with non-accented characters in 7mem210.txt and 7mem210.zip]
+[8-bit version with accented characters in 8mem210.txt and 8mem210.zip]
+Jul 2004 Memorials and Other Papers V1,by Thomas de Quincey[?memqxxx.xxx]6169
+[7-bit version with non-accented characters in 7memq10.txt and 7memq10.zip]
+[8-bit version with accented characters in 8memq10.txt and 8memq10.zip]
+
+Jul 2004 Fifty Famous People, by James Baldwin             [fftyfxxx.xxx]6168
+[Subtitle: A Book of Short Stories]
+Jul 2004 Business Hints for Men and Women, by A. Calhoun   [bh4mwxxx.xxx]6167
+[Author's Full Name: Alfred Rochefort Calhoun]
+Jul 2004 Charles Lamb:  A Memoir, by Barry Cornwall        [chrlsxxx.xxx]6166
+
+Jul 2004 Cowboy Dave, by Frank V. Webster                  [cwbydxxx.xxx]6165
+[Subtitle: Or The Round-Up at Rolling River]
+Jul 2004 The Life of the Fields, by Richard Jefferies      [thlffxxx.xxx]6164
+Jul 2004 The Romance and Tragedy, William Ingraham Russell [?romtxxx.xxx]6163
+[Subtitle: of a Widely Known Business Man of New York]
+[7-bit version with non-accented characters in 7romt10.txt and 7romt10.zip]
+[8-bit version with accented characters in 8romt10.txt and 8romt10.zip]
+Jul 2004 Herbert Carter's Legacy, by Horatio Alger  [HA#23][hrbclxxx.xxx]6162
+Jul 2004 Copyright Renewals 1957,US Copyright Office   [#5][r1957xxx.xxx]6161
+
+Jul 2004 Fletcher of Madeley, by Brigadier Margaret Allen  [fltchxxx.xxx]6160
+[Plain text in fltch10.txt/.zip, HTML in fltch10h.htm/.zip]
+Jul 2004 Vicky Van, by Carolyn Wells              [Wells#7][vckvnxxx.xxx]6159
+Jul 2004 The True Citizen, by Warkwick, Smith & Smith      [trctzxxx.xxx]6158
+[Full title: The True Citizen, How To Become One]
+[Full author: W. F. Markwick, D. D. and W. A. Smith, A. B.]
+Jul 2004 What Men Live By and Other Tales, Leo Tolstoy[#16][wmnlbxxx.xxx]6157
+   Contents:
+     What Men Live By
+     Three Questions
+     The Coffee-House of Surat
+     How Much Land Does a Man Need?
+
+Jul 2004 Athens: Rise and Fall, by Lytton, Complete [BL#14][b014wxxx.xxx]6156
+[Title: Athens: Its Rise and Fall]
+[Author: Edward Bulwer-Lytton][Contains: EBooks #6151-6155]
+Jul 2004 Athens: Rise and Fall, by Lytton, Book 5   [BL#13][b013wxxx.xxx]6155
+Jul 2004 Athens: Rise and Fall, by Lytton, Book 4   [BL#12][b012wxxx.xxx]6154
+Jul 2004 Athens: Rise and Fall, by Lytton, Book 3   [BL#11][b011wxxx.xxx]6153
+Jul 2004 Athens: Rise and Fall, by Lytton, Book 2   [BL#10][b010wxxx.xxx]6152
+Jul 2004 Athens: Rise and Fall, by Lytton, Book 1    [BL#9][b009wxxx.xxx]6151
+
+Jul 2004 The Iliad, by Homer, Trans: Derby        [Homer#7][iliadxxb.xxx]6150
+[Full Translator: Edward, Earl of Derby]
+Jul 2004 The Boy Aviators' Treasure Quest,Cpt Wilbur Lawton[tbvtqxxx.xxx]6149
+[Pseudonym of John Henry Goldfrap]
+Jul 2004 Miscellaneous Papers, by Thomas De Quincey    [#4][?qnccxxx.xxx]6148
+Jul 2004 Miscellaneous Papers V2, by Thomas De Quincey [#3][?qnc2xxx.xxx]6147
+Jul 2004 Miscellaneous Papers V1, by Thomas De Quincey [#2][?qnc1xxx.xxx]6146
+[Full title: Narrative And Miscellaneous Papers]
+
+Jul 2004 Tales Of The Punjab, by Flora Annie Steel         [?pnjbxxx.xxx]6145
+[Also posted in Unicode UTF-8 as 8pnjb10u]
+Jul 2004 Commemorative Services, by Diocese Of Connecticut [cmmsvxxx.xxx]6144
+[Full title: Report Of Commemorative Services With The Sermons And
+[Addresses At The Seabury Centenary, 1883-1885.]
+Jul 2004 Essays On Work And Culture, Hamilton W. Mabie [#2][ssywcxxx.xxx]6143
+[Full author: Hamilton Wright Mabie]
+Jul 2004 A Girl of the People, by L. T. Meade     [Meade#2][grlplxxx.xxx]6142
+Jul 2004 Peck's Bad Boy With the Cowboys, Hon. Geo. W. Peck[pckbbxxx.xxx]6141
+
+Jul 2004 Army Boys on German Soil, by Homer Randall        [rmbgmxxx.xxx]6140
+Jul 2004 Marvels of Modern Science, by Paul Severing       [mrvmsxxx.xxx]6139
+Jul 2004 Life and Habit, by Samuel Butler        [Butler#13][lfhbxxx.xxx]6138
+[XHTML in lfhb10h.htm/.zip, text in lfhb10.txt/.zip]
+Jul 2004 The Home of the Blizzard, by Sir Douglas Mawson   [blizzxxx.xxx]6137
+[Subtitle: Being the Story of the Australasian Antarctic Expedition,
+[1911-1914]
+[Note: the .zip includes 35 images from the text]
+Jul 2004 Bars and Shadows, by Ralph Chaplin                [brssdxxx.xxx]6136
+
+Jul 2004 When the Holy Ghost is Come, by Col. S. L. Brengle[whlghxxx.xxx]6135
+Jul 2004 The Evolution of an Empire, by Mary Parmele       [vlmprxxx.xxx]6134
+Jul 2004 Extraordinary Adventures of Arsene Lupin,Gentleman[?arslxxx.xxx]6133
+[Full Title: The Extraordinary Adventures of Arsene Lupin, Gentleman-Burglar]
+[Author's Full Name: Maurice Leblanc]
+[7-bit version with non-accented characters in 7arsl10.txt/.zip]
+[8-bit version with accented characters in 8arsl10.txt/.zip]
+Jul 2004 A Man of Samples, by Wm. H. Maher                 [mnsmpxxx.xxx]6132
+Jul 2004 Wonders of Creation, by Anonymous                 [wndntxxx.xxx]6131
+[Plain text in wndnt10.txt/.zip, Unicode UTF-8 in wndnt10u.txt/.zip]
+
+Jul 2004 The Iliad, by Homer, Trans: Pope         [Homer#7][iliadxxa.xxx]6130
+Jul 2004 Healthful Sports for Boys, by Alfred Rochefort    [hfsfbxxx.xxx]6129
+Jul 2004 His Sombre Rivals, by E. P. Roe           [Roe#12][hsbrvxxx.xxx]6128
+Jul 2004 The Great Stone of Sardis, by Frank R. Stockton[5][gstsrxxx.xxx]6127
+Jul 2004 Quotations From Georg Ebers, by David Widger [#20][dwqgexxx.xxx]6126
+[Quotations from the PG Collected Works of Georg Ebers]
+
+Jul 2004 The Making of an American, by Jacob A. Riis       [thmknxxx.xxx]6125
+Jul 2004 Pamela, by Samuel Richardson                [SR#1][pam1wxxx.xxx]6124
+Jul 2004 Theological Essays and Other Papers v1,de Quincey [teop1xxx.xxx]6123
+[Author's Full Name: Thomas de Quincey]
+Jul 2004 Tobogganing On Parnassus, by Franklin P. Adams    [tggopxxx.xxx]6122
+Jul 2004 Jack Winters' Gridiron Chums, by Mark Overton     [jckwnxxx.xxx]6121
+
+Jul 2004 Soldiers Three, by Rudyard Kipling    [Kipling#22][sldtrxxx.xxx]6120
+   Contents
+     The God From The Machine
+     Of Those Called
+     Private Learoyd'S Story
+     The Big Drunk Draf'
+     The Wreck Of The Visigoth
+     The Solid Muldoon
+     With The Main Guard
+     In The Matter Of A Private
+     Black Jack
+     Poor Dear Mamma
+     The World Without
+     The Tents Of Kedar
+     With Any Amazement
+     The Garden Of Eden
+     Fatima
+     The Valley Of The Shadow
+     The Swelling Of Jordan
+     Dray Wara Yow Dee
+     The Judgment Of Dungara
+     At Howli Thana
+     Gemini
+     At Twenty-Two
+     In Flood Time
+     The Sending Of Dana Da
+     On The City Wall
+     The Story Of The Gadsbys
+     In Black And White
+Jul 2004 An Outback Marriage, by Andrew Barton Paterson    [?aomrxxx.xxx]6119
+[Subtitle: A Story of Australian Life]
+[7-bit version with non-accented characters in 7aomr10.txt and .zip]
+[8-bit version with accented characters in 8aomr10.txt and .zip]
+[HTML format available in 8aomr10h.txt and .zip]
+Jul 2004 The Rose in the Ring, by George Barr McCutcheon   [thrsnxxx.xxx]6118
+Jul 2004 Success With Small Fruits, by E. P. Roe   [Roe#11][scsfrxxx.xxx]6117
+Jul 2004 Out of the Primitive, by Robert Ames Bennet       [tprtvxxx.xxx]6116
+
+Jul 2004 The Long Chance, by Peter B. Kyne         [Kyne#4][lnchcxxx.xxx]6115
+Jul 2004 The Young Firemen of Lakeville, by Frank V Webster[ngfrlxxx.xxx]6114
+Jul 2004 A Day Of Fate, by E. P. Roe               [Roe#10][dyfftxxx.xxx]6113
+Jul 2004 Nature and Human Nature, by T. Haliburton  [TCH#2][naturxxx.xxx]6112
+[Author's Full Name: Thomas Chandler Haliburton]
+[Plain text in natur10.txt/.zip, HTML in natur10h.htm/natur10h.zip]
+Jul 2004 Over Prairie Trails, by Frederick Philip Grove    [vrprtxxx.xxx]6111
+
+
+Jul 2004 Das hohe Ziel der Erkenntnis, Omar Al Raschid Bey [?dznnxxx.xxx]6110
+[Subtitle: Aranada Upanishad]
+[Language: German]
+[7-bit version with non-accented characters in 7dznn10.txT/.zip]
+[8-bit version with accented characters in 8dznn10.txt/.zip]
+Jul 2004 How To Study and Teaching How To Study, F. McMurry[htsthxxx.xxx]6109
+[Author's Full Name: F. M. McMurry]
+Jul 2004 Boy Scouts in a Submarine, by G. Harvey Ralphson  [bysctxxx.xxx]6108
+[Subtitle: Or, Searching an Ocean Floor]
+Jul 2004 The Truth About Jesus Is He a Myth?,M. Mangasarian[ttajixxx.xxx]6107
+[Author's Full Name: Mangasar Magurditch Mangasarian]
+Jul 2004 Essays in Contemporay Criticism, Harry S. Canby   [dfntnxxx.xxx]6106
+[Full title: Definitions: Essays in Contemporary Criticism]
+[Author's full name: Harry Seidel Canby]
+
+Jul 2004 Their Yesterdays, by Harold Bell Wright           [thrysxxx.xxx]6105
+
+
+Jul 2004 The Rover Boys out West, Arthur M. Winfield [ES#6][rbwesxxx.xxx]6071
+
+***
+
+
+***
+
+Statistical Review
+
+In the first 48 weeks of this year, we have produced 2,187 new eBooks.
+Note: it took us from 1971 to 1999 to produce our *FIRST* 2,187 eBooks!!!
+
+             That's 48 WEEKS as Compared to 29 YEARS!!!
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year of 2001 and began the production year of 2002.
+
+With 6,479 eBooks online as of December 4, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.54 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $2.40 when we had 4161 eBooks A Year Ago
+
+Can you imagine 6,000 books each costing $.81 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6479 eBooks in 31 1/3 Years We Averaged
+    200 Per Year   [This is how many we do per month these days!]
+     17 Per Month
+     .5 Per Day
+
+At 2187 eBooks Done In 2002 We Averaged
+      7 eBooks Per Day
+     48 eBooks Per Week
+    199 eBooks Per Month !!!
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+</pre>
+
+<a href="/nl_archives/2002/pgmonthly_2002_12_04.txt" target="_blank" rel="nofollow">pgmonthly_2002_12_04.txt</a>

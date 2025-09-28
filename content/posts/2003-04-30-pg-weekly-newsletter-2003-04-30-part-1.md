@@ -1,0 +1,682 @@
+---
+params:
+  id: 1985
+title: "PG Weekly Newsletter: Part 1 (2003-04-30)"
+date: 2003-04-30T21:43:40+00:00
+author: Michael Cook
+layout: post
+url: /20030430/pg-weekly-newsletter-2003-04-30-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_April_30.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, April 30, 2003***
+*****eBooks Readable By Both Humans and Computers For Nearly 32 Years******
+
+We need a volunteer to receive an edition of The Faerie Queene from Ireland
+to work on.  Please contact: me and Donal O'danachair &lt;odanachd@indigo.ie&gt;
+
+
+                        Last Week We Reached
+
+                      1,000 eBooks for 2003!!!
+
+                        This Week We Reached
+                       A Grand Total of 7803!
+
+          Will a book from you get us to the 7900 mark!?!?!?
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+  1 Year Ago, This Month, Thursday, April 10, 2002 PG Reached 5,000 eBooks!
+
+                     Today we passed 7,800!!!
+
+               That's ~2,800 New eBooks In ~12 Months!!!
+
+     That's 100 Over 1/4 of the 10,000 eBook Goal We Started On!
+
+                    Less Than 2,200 to #10,000!!!
+
+       That means the part of the 10,000 we have already done
+         is over 3 1/2 TIMES AS BIG as what is left to do!!!
+
+
+Over Our 31 3/4 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+             So far this year we are averaging ~280!!!
+
+ This month, if we are lucky, we will do 300 for the first time!!!
+
+***
+
+    Here's a quick picture of where we are in our pursuit of #10,000
+
+Imagine the 10,000 books have been separated into 9 stacks of 1,111 each,
+we have just now completed 7 stacks leaving just two stacks to go:
+
+GRAND TOTAL LEAVING
+One Left To #10,000
+
+   ****_                     BOOKS DONE!!!
+  (**9**(  9,999
+   ****_
+  (**8**(  8,888
+   ****_                     ****_                      BOOKS TO GO!!!
+  (**7**(  7,777            (**7**(   7,802
+   ****_                     ******
+  (**6**(  6,666            (**6**(   6,666
+   ****_                     ****_
+  (**5**(  5,555            (**5**(   5,555
+   ****_                     ****_
+  (**4**(  4,444            (**4**(   4,444
+   ****_                     ****_
+  (**3**(  3,333            (**3**(   3,333
+   ****_                     ****_                      ****_
+  (**2**(  2,222            (**2**(   2,222            (**2**(   2,198
+   ****_                     ****_                      ****_
+  (**1**(  1,111            (**1**(   1,111            (**1**(   1,111
+
+GRAND TOTAL LEAVING
+One Left To #10,000          BOOKS DONE!!!              BOOKS TO GO!!!
+
+                               ***
+
+    Please Note The Startup of Project Gutenberg--Canada [Below]
+and Project Gutenberg of Mexico &gt;&gt; Gabriela Valencia &lt;zane@axtel.net&gt;
+
+                               ***
+
+   In the first 3 3/4 months of this year, we produced 1059 new eBooks.
+
+     It took us from 1971 to 1997 to produce our first 1,059 eBooks!
+
+                 That's 17 WEEKS as Compared to 26 Years!
+
+                   59   New eBooks This Week
+                   77   New eBooks Last Week
+                  254   New eBooks This Month [Apr]
+
+                  278   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 1059   New eBooks in 2003  &lt;&lt;&lt;
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                7,802   Total Project Gutenberg eBooks
+                5,150   eBooks This Week Last Year
+                2,652   New eBooks In The Last 12 Months
+
+                  223   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 42 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1059 New eBooks So Far in 2003
+
+              It took us 26 years for the first 1059!
+
+        That's the 17 WEEKS of 2003 as Compared to 26 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1059
+
+Oct 1997 Life of Tristram Shandy, by Laurence Sterne       [shndyxxx.xxx]1079
+Oct 1997 The Scouts of the Valley, by Joseph A. Altsheler  [sctvlxxx.xxx]1078
+Oct 1997 The Mirror of Kong Ho, by Ernest Bramah [Bramah#2][konghxxx.xxx]1077
+Oct 1997 The Wallet of Kai Lung, by Ernest Bramah[Bramah#1][wklngxxx.xxx]1076
+Oct 1997 Samuel, by Jack London         [Jack London #18]  [sstrgxxx.xxx]1075
+  Also Contains:
+    The Sea-Farmer, by Jack London [Jack London #17]
+    The Dream of Debs, by Jack London   [London #16]
+    The Enemy of All the World, by Jack London [#15]
+    The Unparalleled Invasion, by Jack London  [#14]
+    South of the Slot, by Jack London   [London #13]
+    The Strength of the Strong, by Jack London [#12]
+
+Oct 1997 The Sea Wolf, by Jack London   [Jack London #11]  [cwolfxxx.xxx]1074
+Oct 1997 The Death of Olivier Becaille, by Emile Zola [#4] [1zolaxxx.xxx]1073
+Oct 1997 The Miller's Daughter, by Emile Zola  [Zola #3]   [1zolaxxx.xxx]1072
+Oct 1997 Captain Burle, by Emile Zola  [Emile Zola #2]     [1zolaxxx.xxx]1071
+Oct 1997 Nana, by Emile Zola   [Emile Zola #1] [See note]  [1zolaxxx.xxx]1070
+
+Oct 1997 1st PG Collection of Emile Zola  [Emile Zola #1]  [1zolaxxx.xxx]1069
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V2 [2musgxxx.xxx]1068
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V1 [1musgxxx.xxx]1067
+Oct 1997 William the Conqueror by E.A. Freeman[Saved #1066][wlmcnxxx.xxx]1066
+Oct 1997 The Cask of Amontillado, by Edgar Allan Poe[Poe#5][1epoexxx.xxx]1065
+
+Oct 1997 The Masque of the Red Death by Edgar Allan Poe[#4][1epoexxx.xxx]1064
+Oct 1997 The Raven, by Edgar Allan Poe  [E. A. Poe #3]     [1epoexxx.xxx]1063
+Oct 1997 1st PG Collection of Edgar Allan Poe[E. A. Poe #2][1epoexxx.xxx]1062
+Oct 1997 Myths and Myth-Makers, by John Fiske              [mythmxxx.xxx]1061
+Oct 1997 Grass of Parnassus, by Andrew Lang  [Lang #7]     [grprnxxx.xxx]1060
+
+Oct 1997 The World Set Free, by H.G. Wells [H.G. Wells #12][twsfrxxx.xxx]1059
+Oct 1997 The Mirror of the Sea, by Joseph Conrad[Conrad#16][tmotsxxx.xxx]1058
+Oct 1997 Poems, by Oscar Wilde [eBook #16 by Oscar Wilde]  [pmwldxxx.xxx]1057
+[AKA:  Ballad of Reading Gaol]
+Sep 1997 Martin Eden, by Jack London   [Jack London #10]   [medenxxx.xxx]1056
+Sep 1997 'Twixt Land & Sea, by Joseph Conrad  [Conrad #15] [twxlsxxx.xxx]1055
+
+Sep 1997 A Collection of Ballads, by Andrew Lang [Lang #6] [cbladxxx.xxx]1054
+Sep 1997 Within The Tides, by Joseph Conrad  [Conrad #14]  [wthntxxx.xxx]1053
+Sep 1997 Step by Step; or Tidy's Way to Freedom [?Tract #2][tidysxxx.xxx]1052
+Sep 1997 Sartor Resartus, by Thomas Carlyle  [Carlyle #1]  [srtrsxxx.xxx]1051
+Sep 1997 Dark Lady of the Sonnets by George Bernard Shaw[3][dlotsxxx.xxx]1050
+
+Sep 1997 Vanished Arizona, by Martha Summerhayes           [varizxxx.xxx]1049
+Sep 1997 The Ruling Passion, by Henry van Dyke [van Dyke#2][rlpsnxxx.xxx]1048
+Sep 1997 The New Machiavelli, by H. G. Wells  [Wells #11]  [nmchvxxx.xxx]1047
+Sep 1997 God The Invisible King, by H. G. Wells [Wells#10] [godikxxx.xxx]1046
+Sep 1997 Venus and Adonis, by William Shakespeare[Shakes#3][wsvnsxxx.xxx]1045
+
+Sep 1997 Captain Stormfield's Visit, by Mark Twain  [MT#11][cptsfxxx.xxx]1044
+[Title:  Captain Stormfield's Visit to Heaven by Mark Twain]
+Sep 1997 The Story of Evolution, by Joseph McCabe          [tsoevxxx.xxx]1043
+Sep 1997 A Reading of Life, Other Poems, by George Meredith[rdlifxxx.xxx]1042
+Sep 1997 Shakespeare's Sonnets, by William Shakespeare [#2][wssntxxx.xxx]1041
+Sep 1997 The Three Taverns, by Edwin Arlington Robinson[#3][3tavsxxx.xxx]1040
+
+Sep 1997 Missionary Travels in South Africa, by Livingstone[mtravxxx.xxx]1039
+Sep 1997 Style, by Walter Raleigh [Walter Raleigh eBook #2][stylexxx.xxx]1038
+Sep 1997 The Life of John Bunyan, by Edmund Venables       [lfbynxxx.xxx]1037
+
+***
+
+Today Is Day #119 of 2003
+This Completes Week #17
+251 Days/36 Weeks To Go
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #54 Of Our SECOND 5,000 eBooks
+
+Perhaps Our 10,000th eBook By The End of 2003!
+
+   62   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections in separate section
+     5 New From PG Australia
+    53 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Requests For Assistance:
+
+Please test. . .
+The latest Project Gutenberg Mirror
+Northshore Computer Solutions
+http://www.northshorecomputer.net
+New Orleans, Louisiana, USA
+
+***
+
+[For me, we'd like to have one of these, will pay for it plus shipping:]
+
+For value for money you can't beat the Franklin eBookMan, out of
+production but currently on sale in the US for $30 at Fry's. The eBM is
+quirky but lovable and has gradually accumulated a reasonable collection
+of software in addition to the standard PDA bits and pieces, including
+the MobiPocket Reader. Top-end models have a backlit screen. Ideal for
+beginners. The main drawback is the daft protection system which
+requires each individual eBM to be separately registered with Franklin
+before it can be used - so no in-store demos, and if you lose the
+operating system you've got to go online on your own PC to download it
+again. It supports MMC cards but not Sdata.
+
+***
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+Contact Debbie Dvornik
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+We need a volunteer near Chicago to help feed books to our newest
+super-scanner. . .we have a stack of 200 waiting, and just cannot
+stay away to feed them in 24/7.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+From: Miranda van de Heijning &lt;m_vandeheijning@yahoo.com&gt;
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+century books of A'bp Whately     Please contact:  david@whateley.org
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+Newest Project Gutenberg Mirror!
+by Northshore Computer Solutions
+http://www.northshorecomputer.net/pg
+My name is Jeff Williamson, operating a Linux Server in New Orleans, LA.
+Happy to help to spread literacy through the Internet.
+
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Statistical Review
+
+In the 17 weeks of this year, we have produced 1059 new eBooks.
+It took us from 1971 to 1997 to produce our FIRST 1000 eBooks!!!
+
+         That's 17 WEEKS as Compared to 26 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003.
+
+With 7,800 eBooks online as of April 30, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.28 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $1.94 when we had 5150 eBooks A Year Ago
+
+Can you imagine 7,000 books each costing $.65 less a year later???
+Or. . .would this say it better?
+Can you imagine 7,000 books each costing 1/3 less a year later???
+
+At 7802 eBooks in 31.8 Years We Averaged Approximately
+    245 Per Year   [About how many we do per month these days!]
+     20 Per Month
+     .7 Per Day
+
+At 1059 eBooks Done In 2003 We Averaged
+      9 Per Day
+     62 Per Week
+    278 Per Month
+
+
+***Headline News***
+
+From Newsscan
+
+JOBS: 'WE BELIEVE IN THE FUTURE OF MUSIC'
+Apple Computer launched its iTunes Music Store on Monday in a move that CEO
+Steve Jobs called "a major milestone in the evolution of the real digital
+music age. We believe in the future of music." iTunes offers 200,000
+downloadable songs for 99 cents apiece and is the first industry-endorsed
+online music service to forgo subscription fees in favor of a
+"pay-per-download" business model. Jobs said the real draw for music fans
+will be the easy-to-use interface and high-quality files available at the
+iTunes Music Store. "Using current piracy services is very frustrating. It
+takes you 15 minutes to find and download a song of reasonable quality that
+doesn't have the last four seconds cut off or a break in the middle. We
+offer super-fast, high-quality downloads with pristine encoding. You
+certainly can't get that on any other service -- pirate or legal." (Los
+Angeles Times 29 Apr 2003)
+http://www.latimes.com/technology/la-fi-apple29apr29,1,6913408.story?coll=la%2Dh
+eadlines%2Dtechnology
+
+A BOUNTY ON THE HEADS OF SPAMMERS
+Congresswoman Zoe Lofgren plans to introduce legislation drafted by
+Stanford law professor Larry Lessig that would require unsolicited
+commercial e-mails ("spam") to be identified as advertising and would put
+a bounty on anyone who breaks that law, by offering rewards of thousands of
+dollars or more to the person who is first to provide the government with
+proof and the identity of offending spammers. Lessig is so confident his
+war on spam will be effective that he's promising to quit his Stanford job
+if the bill becomes law and "does not substantially reduce the level of spam."
+(San Jose Mercury News 26 Apr 2003)
+http://www.siliconvalley.com/mld/siliconvalley/5725404.htm
+
+ISP HEAVYWEIGHTS TACKLE SPAM
+America Online, Microsoft and Yahoo are joining together in an effort to
+vanquish spam, and are calling for technical changes in the way that e-mail
+is routed through cyberspace to make it easier to identify the true sender
+and content of messages. "We are talking about working on ways to change
+the dynamics of the e-mail system to make it easier to determine what is
+fraudulent," says MSN VP Brian Arbogast. The companies say they haven't yet
+discussed exactly what the standards should be, but have agreed they want
+to include other competitors in their discussions. "Working together, we
+will have better information about who are the kingpins that are sending
+the largest volume of spam to our users," says an AOL spokesman. (New York
+Times 28 Apr 2003)
+http://partners.nytimes.com/2003/04/28/technology/28AOL.html
+
+
+[GROKSTER AND STREAMCAST: THEY DIDN'T DO IT]
+
+GROKSTER AND STREAMCAST: WE DIDN'T DO IT
+A federal judge has ruled that two Internet music services that offer
+peer-to-peer software used by millions of people to share copyrighted music
+illegally are not themselves guilty of copyright infringement. The judge's
+reasoning was that, since the technology is also used for many perfectly
+legal purposes, the two services should not be held responsible in those
+cases when it happens to be used for illegal purposes. The ruling will be
+appealed. The music industry insists that the two services, Grokster and
+StreamCast, are overwhelmingly used by people to exchange copyrighted
+material, and that legal uses are insignificant. Many industry analysts
+predict that the industry will soon have to change fundamentally and begin
+providing inexpensive, easy-to-access music over the Internet. (New York
+Times 26 Apr 2003)
+http://partners.nytimes.com/2003/04/26/technology/26MUSI.html
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+[I heard similar news about the U of Illinois on their AM PBS station,
+which included news that while funding was being cut to universities,
+money was being set aside to give to returning veterans from Iraq.]
+
+WASHINGTON STATE BUDGET CUTS AFFECT IT PROGRAMS
+As in many other states, institutions of higher education in Washington
+State are facing severe cuts in state funding. Some higher education
+officials have expressed concern that, because technology programs are
+among the most costly, they will be some of the most significantly
+affected by proposed budget cuts. Some administrators and business
+leaders in the state argue that such cuts are likely to exacerbate the
+economic problems that have led to the cuts in the first place.
+Washington State, they said, lacks adequate numbers of graduates with
+high-tech training, and restricting the capacity of technology programs
+will hamper efforts to fill the high-tech jobs in the state. Ken Myer,
+president of the Technology Alliance, a consortium of state businesses
+and institutions, said what the state needs is to expand, not contract,
+those programs, which will ultimately benefit the state's economy.
+Chronicle of Higher Education, 24 April 2003
+http://chronicle.com/free/2003/04/2003042401t.htm
+
+SALES OF HANDHELD DEVICES DROP SHARPLY
+A report from International Data Corp. shows a sharp decline in the
+numbers of handheld computing devices shipped in the first quarter of
+the year. Shipments were down 21 percent from the same quarter last
+year and 27 percent from the fourth quarter of 2002. According to the
+data, Palm held the largest portion of the handheld market, with 36
+percent, followed by Hewlett-Packard and Sony. Dell moved into fourth
+place with 6.5 percent of the market. Kevin Burden of IDC said, "The
+handheld market is a victim of its own early success." He said the
+target audience has not changed much, and large numbers are choosing
+not to upgrade to newer devices. The data do not include devices that
+combine handheld computing with cellular phones.
+Wall Street Journal, 23 April 2003 (sub. req'd)
+http://online.wsj.com/article/0,,SB10511221451575700,00.html
+
+FEARING PROSECUTION, STUDENT MOVES RESEARCH TO NETHERLANDS
+Fearing prosecution under a new Michigan law, a graduate student at the
+University of Michigan at Ann Arbor has relocated his research to a Web
+server in the Netherlands. Niels Provos, a German citizen, is
+conducting doctoral research in steganography, which involves
+developing software that can find concealed messages in image files and
+prevent messages from being detected. The law, which Provos says is
+extremely broad, prohibits technology that can "conceal the existence
+or place of origin or destination of any telecommunications service."
+Visitors to Provos's site are now asked if they are residents of the
+United States. Unless they answer No, they are not admitted. Provos
+said the law should be changed to allow researchers to work without
+risking prosecution. In the meantime, he said, he will do what is
+necessary to comply with the law.
+Chronicle of Higher Education, 23 April 2003
+http://chronicle.com/free/2003/04/2003042301t.htm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_04_30_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_04_30_part_1.txt</a>

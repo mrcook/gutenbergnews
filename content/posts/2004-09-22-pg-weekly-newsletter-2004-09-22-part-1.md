@@ -1,0 +1,1042 @@
+---
+params:
+  id: 2178
+title: "PG Weekly Newsletter: Part 1 (2004-09-22)"
+date: 2004-09-22T17:58:44+00:00
+author: Michael Cook
+layout: post
+url: /20040922/pg-weekly-newsletter-2004-09-22-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter For Wednesday, September 22, 2004 PT1
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971*******
+
+This newsletter is being sent in the last few minutes of summer,
+the autumnal equinox is at 12:30 PM CDT.
+
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report, including Distributed Proofreaders
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   4 New From PG Australia [Australian, Canadian Copyright Etc.]
+   43 New Public Domain eBooks Under US Copyright
+*Headline News from NewsScan and Edupage
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+    This week we have many new additions, from Tesla to Beethoven,
+          see PT2 of the Newsletter for a complete listing
+
+
+
+                          *eBook Milestones
+
+
+                We Are Over 92% of the Way to 15,000!!!
+
+                     13,848 eBooks As Of Today!!!
+
+                       1,152 to go to 15,000!!!
+
+
+
+We have now averaged about 418 eBooks per year since July 4th, 1971!!!
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2001 to 2004 for our last 10,000 eBooks
+
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET new Newsletter editors who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 33 09/52 Year History, We Have Now Averaged About 417 eBooks/Yr
+And This Year We Are Averaging Nearly That New eBook Level. . .PER MONTH!
+
+
+         We Are Averaging About 350 eBooks Per Month This Year
+
+                           About 80 Per Week
+
+***
+
+
+
+***Hot Requests New Sites and Announcements
+
+
+There is a new experimental online reader available. Start from any
+bibliographic record page, eg.
+
+    http://www.gutenberg.net/etext/4300
+
+
+Basically this paginates the txt file and remembers your last position
+in a cookie so you can later resume reading where you left off.
+
+Please test it. It should work with any book that has a text file
+where the encoding is known.
+
+
+
+MACHINE TRANSLATION
+
+We are seeking as much information as possible on the various
+approaches to Machine Translation. Any brand names or contact
+information would be greatly appreciated.
+
+***
+
+Please use our new site for downloading DVD and CD images, etc.
+
+http://gutenberg.net/cdproject
+
+and
+
+The PG bittorrent tracker is up and running.
+Aaron Cannon has placed the CD on there if anyone wants to test.
+You can access it by visiting
+http://snowy.arsc.alaska.edu:6969
+
+Just click on the hash to download the torrent file for the CD.
+It's the only one on there.  He will be changing it to show the name
+later today, but for now it's just the hash.  Anyway it works fine.
+
+***
+
+Please visit our newest mirror sites:
+
+http://www.knowledgerush.com/gutenberg/
+[This one does not have our .mp3 files]
+
+and
+
+ftp://ftp.cise.ufl.edu/pub/mirrors/gutenberg
+Contact:  mirrors@cise.ufl.edu
+
+***
+
+We are in the process of rewriting some of the general FAQs and
+would appreciate help proofreading them over the next few months.
+
+We've added some new FAQs and generally updated information
+about Project Gutenberg.  Take a look, and email Michael or
+Greg with any suggestions or corrections.  We'll have these
+updated from time to time, now that we've passed #10,000.
+A new set of these will be in the works when we pass #20,000.
+
+http://gutenberg.net/about
+
+
+***Continuing Requests and Announcements
+
+
+We're building a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+
+So far we have sent out 7.5 million eBooks via snailmail!!!
+
+We currently have access to a dozen DVD burners.  If you have a DVD burner
+and are interested in lending a hand, please email Aaron Cannon
+
+&lt;cannona@fireantproductions.com&gt;
+
+We can set you up with images, or snail you these DVDs
+for you to copy.  You can either snail them directly
+to readers whose addresses we can send you, or you can
+do a stack of these and send the whole box back for reshipping.
+We can also reimburse you for supplies and postage if you wish.
+
+Please note that we can only use DVDs which are burnt in the dvd-r format,
+as we have had some compatibility issues with the dvd+r format.
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+***
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+***Progress Report, including Distributed Proofreaders
+
+
+     In the first 8.00 months of this year, we produced 2820 new eBooks.
+
+  It took us from July 1971 to July 2001 to produce our first 2,820 eBooks!
+
+               That's 35 WEEKS as Compared to ~30 Years!
+
+                  47   New eBooks This Week
+                  70   New eBooks Last Week
+                 171   New eBooks This Month [Sep]
+
+                 350   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                2941   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               10786   New eBooks Since Start Of 2001
+                         That's Only 44.60 Months!
+
+              13,848  Total Project Gutenberg eBooks
+               9,505   eBooks This Week Last Year
+                ====
+               4,343   New eBooks In Last 12 Months
+
+                 380   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage =  78%
+
+Moore's Law 18 month percentage = 105%
+
+[100% of Moore's Law = doubling every 18 months]
+
+***
+
+Since completing its first eBook (#3320) on Mar 13th, 2001, the Distributed
+Proofreaders team has now produced its 5,257th eBook (#13510).
+
+Projects completed since the beginning of the year:
+   Jan 2004 -  267
+   Feb 2004 -  421
+   Mar 2004 -  365
+   Apr 2004 -  276
+   May 2004 -  235
+   Jun 2004 -  232
+   Jul 2004 -  231
+   Aug 2004 -  220
+   Sep 2004 -  138 (As of Sep 21)
+
+Two years ago they completed their 455th eBook (#5902).
+One year ago they completed their 2,041st eBook (#9322).
+
+*
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+***
+
+Today Is Day #265 of 2004
+This Completes Week #37 and Month #8.60
+   106 Days/15 Weeks To Go  [We get 52 Wednesdays this year]
+  1152 Books To Go To #15,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    79   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Permanent Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned).  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a project you would like to work on.
+
+***
+
+We also need help proofreading the various FAQ pages at:
+
+gutenberg.net/about
+[New materials added since July 22]
+
+and
+
+gutenberg.us
+[also available as]
+pgcc.net
+[Project Gutenberg Consortia Center]
+[Under construction until November 4]
+
+["Raiders Of The Lost Art" please let us know of any
+eBook collections that could be included from the
+public domain or with permission]
+
+
+***Donation Information
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://gutenberg.net/donation.html  or email donate@gutenberg.net
+
+
+*Access To The Project Gutenberg Collections
+
+
+  *Mirror Site Information
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://gutenberg.net/MIRRORS.ALL
+
+
+*Instant Access To Our Latest eBooks
+http://www.gutenberg.net/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://gutenberg.net/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+***
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 37 weeks of this year, we have produced 2941 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 2941 eBooks!!!
+
+          That's 37 WEEKS as Compared to ~30 YEARS!!!
+
+
+With 13,848 eBooks online as of September 22, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.72 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100 million readers is only ~1.5% of the world's population!
+
+This "cost" is down from about $1.05 when we had 9505 eBooks a year ago
+
+Can you imagine ~13,848 books each costing ~$.33 less a year later???
+Or. . .would this say it better?
+Can you imagine ~13,848 books each costing 1/3 less a year later???
+
+At 13,848 eBooks in 33 Years and 02.60 Months We Averaged
+       417 Per Year   [We do nearly that much a month these days!]
+        34.8 Per Month
+         1.14 Per Day
+
+At 2941 eBooks Done In The 265 Days Of 2004 We Averaged
+      11.1 Per Day
+      79.5 Per Week
+     342.0 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+                            *Flashback!!!
+
+                   2754 New eBooks So Far in 2004
+
+               It took us ~30 years for the first 2654 !
+
+       That's the 7.75 months of 2004 as Compared to ~30 years!!!
+
+      Here Is A Sample Of What Books Were Being Done Around #2754
+
+
+
+*Headline News from NewsScan and Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+MUSIC INDUSTRY SHOULD CHARGE LESS, SELL MORE
+The music industry is fighting a losing battle, says Newsweek
+columnist Steven Levy, who says the RIAA's legal tactics make about as much
+sense as trying to sue a hurricane: "Technology generates its own form of
+nature, a set of conditions that enforce an artificial, yet equally
+unstoppable, reality~E For the longest time, the labels viewed digital music
+as something that could hurt them with hurricane force but made no efforts
+to adjust to this new reality, let alone exploit it." Levy notes that Real
+Networks' experiment with sharply cutting prices for digital music -- to 49
+cents per song -- was a losing proposition because they still owed 70 cents
+in royalties for each song sold. But what's impressive is that Real sold
+six times as much music and took in three times as much money as when they
+had prices pegged at the industry's 99-cent standard. Levy says that if
+labels and artists would agree to smaller royalties, everyone could get
+richer quicker: "Behind Door One is the money you can make by selling a
+million copies of a tune. Behind the other door is the money to be reaped
+by selling 6 million copies at half the price. Do the math, guys!" Not only
+that, but lowering prices significantly might just stamp out the scourge of
+pirated music -- and that's what the labels say they want, right?
+(Newsweek 27 Sep 2004)
+&lt;http://www.msnbc.msn.com/id/6037780/site/newsweek/&gt;
+
+STEAL THIS MUSIC
+The editors of Wired magazine have compiled a CD whose contents are
+meant to be shared, copied, remixed and sampled in an experiment aimed at
+supporting the Creative Commons concept of intellectual property licensing.
+About 750,000 copies of "The Wired CD: Rip. Sample. Mash. Share" will be
+mailed along with Wired's November issue and the disc will also be
+distributed to audience members at a benefit concert headlined by David
+Byrne, whose "My Fair Lady" appears on the CD. Other artists include the
+Beastie Boys, Zap Mama and Gilberto Gil. "The artists were relatively easy
+to get on board," says Wired editor-in-chief Chris Anderson. "The labels
+have different priorities. Some of them, once briefed, got it, and some of
+them never really saw the advantages." Anderson says he approached 50-60
+artists in order to come up with the 16 featured on the CD.
+(Wall Street Journal 20 Sep 2004)
+&lt;http://online.wsj.com/article/0,,SB109563044896921709,00.html&gt; (sub req'd)
+
+PATCH DEALS FAVOR BIG BUSINESS
+Microsoft has quietly begun giving some of its largest customers
+early warning of what types of security patches it will be releasing.
+Under the free program, some customers are receiving three business days'
+notice as to how many security fixes Microsoft plans to release in its
+regular monthly bulletins, and which Microsoft products are affected.
+Customers also can learn how severe a threat the flaws pose several days
+before the general public gets that information. Microsoft began testing
+the program last year, and expanded it in April. It has not been widely
+publicized, and Microsoft has been offering the service to some customers
+individually through sales representatives.
+(The Australian 17 Sep 2004) Rec'd from John Lamp, Deakin U.
+australianit.news.com.au/articles/0,7204,10792467%5E15306%5E%5Enbv%5E,00.html
+
+FTC OKAYS CASH BOUNTIES FOR SPAMMERS
+The Federal Trade Commission has given limited endorsement to the
+idea of offering cash rewards to people who help identify spammers, noting
+that although technology buffs can often pierce the technical camouflage
+used to disguise spam's origins, it's far more difficult to gather the kind
+of information that would lead to successful prosecutions. The idea of
+offering cash for outing spam-mongers has been around for awhile, but
+gained credence last year when Stanford University professor and cyberlaw
+expert Lawrence Lessig told Congress he was so confident that such a system
+would produce results, he would quit his job if it failed to do so. The FTC
+noted in its report that in order to be effective, such a law would need to
+concentrate on rewarding whistleblowers and others close to the operation,
+and that cash amounts would likely have to be in the $100,000 to $250,000
+range -- an amount that Congress would need to fund because it exceeds any
+damages likely to be won in court. Meanwhile, the FTC warned against taking
+any steps that would divert resources from enforcement efforts. "A poorly
+designed reward system would not only fail to achieve its purpose," but also
+result in significant costs to the commission." (Washington Post 17 Sep 2004)
+&lt;http://www.washingtonpost.com/wp-dyn/articles/A27220-2004Sep16.html&gt;
+
+INTERNET ATTACKS JUMP SIGNIFICANTLY THIS YEAR
+The semiannual Internet Security Threat Report, which is based on
+monitoring by computer security firm Symantec, indicates that in the first
+six months of 2004 there were at least 1,237 newly discovered software
+vulnerabilities and almost 5,000 new Windows viruses and worms capable of
+compromising computer security. The numbers represent a dramatic increase
+over the same period in 2003. Even more troubling was the sharp rise in the
+number of "bot," or robot, networks, which comprise a large number of
+infected PCs that can then be used to distribute viruses, worms, spyware
+and spam to other computers. The survey notes that in the first half of
+2004, the number of monitored botnets rose from fewer than 2,000 to more
+than 30,000. The botnets, which range in size from 2,000 to 400,000
+"zombie" machines, are often "rented out" to commercial spammers who use
+them to distribute junk e-mail while concealing their identities.
+E-commerce was the industry most frequently targeted for attacks,
+accounting for 16% of the total, and report authors note that phishing
+scams are responsible for pushing up the numbers in that category. "We're
+seeing a professional hand in development that was pretty startling in
+terms of malicious code," says Alfred Huger, senior director of engineering
+for security response at Symantec. The report's findings mirror those of
+recent government-supported research. (New York Times 20 Sep 2004)
+&lt;http://www.nytimes.com/2004/09/20/technology/20secure.html&gt;
+
+SASSER CREATOR HIRED BY SECURITY FIRM
+A German teenager accused of creating the Sasser worm that infected
+millions of computers around the world is being trained as a security
+software programmer, the company that hired him said on Friday.
+Eighteen-year-old Sven Jaschan has been taken on by the Securepoint
+computer firm based in L|neburg, in northern Germany, and is being trained
+to make firewalls to stop suspect files from entering computer systems.
+"He has a certain know-how in this field," a company spokesman said.
+Jaschan has been charged with computer sabotage, data manipulation and
+disruption of public systems for allegedly hatching the Sasser worm.
+(The Age 20 Sep 2004) Rec'd from John Lamp, Deakin U.
+&lt;http://theage.com.au/articles/2004/09/20/1095532209897.html&gt;
+
+HACKERS SEEK TO SAVE AMERICA
+Jason Larsen types in a few lines of computer code to hack into the
+controls of a nearby chemical plant. Then he finds an online video camera
+inside and confirms that he has pumped up a pressure value. "It's the
+challenge. It's you finding the flaws," he says when asked about his
+motivation. "It's you against the defenders. It comes from a deep-seated
+need to find out how things work." Larsen, 31, says his goal is not to
+wreak havoc, but to boost security for America's pipelines, railways,
+utilities and other infrastructure, part of a project backed by the Idaho
+National Engineering and Environmental Laboratory. Sponsored by the U.S.
+Department of Energy, the Idaho lab launched a new cyber security center
+last month where expert hackers such as Larsen test computing
+vulnerabilities. Spread across 890 square miles (2305 square km) in a
+remote area of eastern Idaho, INEEL gives experts access to an entire
+isolated infrastructure such as the one Larsen hacked into. "I don't think
+people have an understanding of what could be the impact of cyber attacks,"
+says INEEL director Paul Kearns. "They don't understand the threat." In
+recent months, U.S. security officials have warned that the nation is not
+prepared against cyber terrorism. (The Age, 17 Sep 2004) rec'd from John
+Lamp, Deakin U.
+&lt;http://theage.com.au/articles/2004/09/16/1095221724884.html&gt;
+
+AOL OFFERS SECOND LEVEL OF SECURITY
+AOL has become the first major U.S. online business to offer customers
+a second layer of security, which it will make available to subscribers for
+$1.95 a month in addition to a one-time $9.95 fee. The system uses a
+matchbook-size device displaying a six-digit log-on code that changes every
+minute; it requires that the second password be entered in order to check
+e-mail or access such services as calendars, stock portfolios and AOL's Bill
+Pay. Gartner analyst Avivah Litan estimates that no more than 5-15% of AOL
+subscribers will sign up initially but says that "you have to start
+somewhere." (AP/Washington Post 21 Sep 2004)
+&lt;http://www.washingtonpost.com/wp-dyn/articles/A37700-2004Sep21.html&gt;
+
+CELL PHONES TRACK DOWN WI-FI HOTSPOTS
+If you're in the U.K. and you're looking for a Wi-Fi hotspot to
+download e-mail, you're in luck. A Web site called Totalhotspots.com,
+which offers a list of global hotspots, has teamed up with Mobile Commerce,
+a phone services company, to enable users to consult the Totalhotspots
+directory via cell phone while on the go. The user simply sends a text
+message consisting of the word "hotspot" to the 84140 SMS short code number,
+and the name, address and telephone number of the nearest Wi-Fi location
+will pop up on the screen. "It's like making a directory enquiries call,"
+says Mobile Commerce exec Dan Jelfs. Currently, the system works only
+with the UK's GSM networks (Vodafone, Orange, O2 and T-Mobile) but
+compatibility with future third-generation networks is planned also.
+(BBC News 17 Sep 2004)
+&lt;http://news.bbc.co.uk/1/hi/technology/3665382.stm&gt;
+
+THUMBS UP ON 'THUMB DRIVES'
+Thumb drives -- those tiny gizmos also known as USB flash drives,
+jump drives or keychain drives -- have been the "must-have" gadget among
+techies for the past couple of years, but now they're gaining popularity
+among students and business people who are replacing their recordable CDs
+used for transferring data from one computer to another. The thumb drives
+come in several guises -- Victorinox, maker of Swiss army knives, offers
+one squeezed in next to the nail file on its Swissmemory model -- and
+memory capacity has risen from an average of 64 megabytes in 2001 to 256
+megabytes today. Meanwhile, during the same period prices have dropped from
+about $100 to about $40 and a Gartner analyst predicts the stand-alone
+versions are getting so cheap they'll soon replace coffee mugs as giveaways
+at corporate events. "It's a great low-tech solution. I used to have to
+carry a bunch of disks around. I don't have to do that anymore," says one
+banking executive. (Wall Street Journal 17 Sep 2004)
+&lt;http://online.wsj.com/article/0,,SB109537053772020139,00.html&gt; (sub req'd)
+
+CHICAGO'S NEW SURVEILLANCE SYSTEM
+Chicago is installing a network of surveillance cameras that Mayor
+Richard M. Daley has said will make Chicago citizens much safer. Chicago
+official Ron Huberman says, "What we're doing is a totally new concept. This
+is a very innovative way to harness the power of cameras." Emergency center
+dispatchers will be able to tilt or zoom the cameras to watch suspicious
+people and follow them from one camera's range to another's. But ACLU
+spokesman Edwin C. Yohnka worries: "With the aggressive way these types of
+surveillance equipment are being marketed and implemented, it really does
+raise questions about what kind of society do we ultimately want, and how
+intrusive we want law enforcement officials to be in all of our lives."
+Huberman's response: "The value we gain in public safety far outweighs any
+perception by the community that this is Big Brother who's watching. The
+feedback we're getting is that people welcome this. It makes them feel
+safer." And Mayor Daley notes: "We're not inside your home or your business.
+The city owns the sidewalks. We own the streets and we own the alleys."
+(New York Times 21 Sep 2004)
+&lt;http://www.nytimes.com/2004/09/21/national/21cameras.html&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+*
+
+&gt;From Edupage
+
+ATTACKS ON WINDOWS MACHINES ON THE RISE
+Computer security firm Symantec said that the number of viruses and
+worms that target Microsoft's Windows operating system jumped 400
+percent in the first six months of the year compared to the same period
+last year. In all, nearly 5,000 new Windows viruses and worms were
+identified between January and June. Symantec's report echoed a
+warning from MessageLabs in August that spammers and computer hackers
+were working together to take advantage of weaknesses in the Windows
+operating system. According to Alfred Huger, a senior director at
+Symantec's Security Response team, hackers are increasingly selling
+illicit access to computers to spammers, who are having greater
+difficulty getting their messages past e-mail filters.
+Reuters, 20 September 2004
+http://www.reuters.com/newsArticle.jhtml?storyID=6281135
+
+
+[A little more about China]
+
+CHINESE ACADEMIC CALLS FOR SITE REOPENING
+A law professor at Peking University, He Weifang, has written an open
+letter calling on the government to reverse a decision to shut down the
+Yita Hutu bulletin board, commonly referred to as YTHT, its Web
+address. Last week, government officials ordered that the site be
+permanently shut down and quickly afterwards prohibited discussion
+about the closure in other online groups. YTHT was created in 1999 by a
+graduate student and reportedly grew to comprise more than 700
+discussion groups with more than 300,000 registered users. Many of the
+topics covered on the YTHT site were banned from state-run media
+coverage, including human rights issues and questions about Taiwan. In
+his letter, He said the site was "an important source of information
+and a channel for discussion for tens of thousands of netizens around
+the world, including the teachers and students of our university." Xiao
+Qiang, the head of the China Digital News project at the University of
+California at Berkeley's Graduate School of Journalism, supported the
+importance of the YTHT site, calling it "the most politically
+provocative online community in Chinese cyberspace."
+Chronicle of Higher Education, 20 September 2004 (sub. req'd)
+http://chronicle.com/prm/daily/2004/09/2004092004n.htm
+
+PHISHING RIFE ON INTERNET
+Phishing scams are proliferating on the Internet, and some are
+sophisticated enough to fool even seasoned Web users. Phishing scams
+use bogus e-mails and Web sites designed to look like those of
+legitimate companies to trick users into revealing personal
+information, such as credit card numbers, that can then be used in any
+number of other crimes. According to the Anti-Phishing Working Group,
+Citibank has become the most popular ruse, with nearly 500 separate
+scams designed to fool Citibank customers into divulging sensitive
+information. Scams directed at Ebay users totaled 285, according to the
+group. Lawrence Hefler, vice president of e-business and strategic
+alliances at Hilton Grand Vacations and the chairman of the Direct
+Marketing Association's Internet committee, was fooled by one of the
+fake Citibank messages. As Hefler noted, most of the more deft phishing
+scams, including the one he fell for, make a point of talking about
+security issues and the potential for identity theft.
+New York Times, 20 September 2004 (registration req'd)
+http://www.nytimes.com/2004/09/20/technology/20phish.html
+
+ATTACKS ON WINDOWS MACHINES ON THE RISE
+Computer security firm Symantec said that the number of viruses and
+worms that target Microsoft's Windows operating system jumped 400
+percent in the first six months of the year compared to the same period
+last year. In all, nearly 5,000 new Windows viruses and worms were
+identified between January and June. Symantec's report echoed a
+warning from MessageLabs in August that spammers and computer hackers
+were working together to take advantage of weaknesses in the Windows
+operating system. According to Alfred Huger, a senior director at
+Symantec's Security Response team, hackers are increasingly selling
+illicit access to computers to spammers, who are having greater
+difficulty getting their messages past e-mail filters.
+Reuters, 20 September 2004
+http://www.reuters.com/newsArticle.jhtml?storyID=6281135
+
+
+UT DALLAS CONCEDES STUDENT ACCESS POINTS
+
+[This article doesn't mention that the student's network was working
+better than the university network, and at no direct cost to either
+the university or to users.  More details available on request.]
+
+Administrators at the University of Texas at Dallas have withdrawn a
+policy that banned students from setting up Wi-Fi access points on
+campus. The policy was implemented to help deal with interference from
+802.11b and 802.11g access points (802.11a access points were not
+banned) that some students had set up that were causing interference
+with the university's own wireless network. Students who disagreed
+with the policy noted that the Federal Communications Commission in
+June had issued a statement that supported individuals' right to
+operate access points using the Wi-Fi spectrum. University administrators
+conducted a review and decided to withdraw the policy because it was
+not clear that the university had the authority to enforce it.
+According to Steve McGregor, a spokesman for the university,
+the growing number of access points is causing interference in some
+areas of the campus, but the university will not try to regulate
+the access points. "Folks will have to figure it out individually,"
+McGregor said.
+CNET, 16 September 2004
+http://news.com.com/2100-7351_3-5369921.html
+
+AOL DROPS MICROSOFT'S ANTISPAM TECHNOLOGY
+Following a new rift between Microsoft and the open-source community
+over a standard to fight spam, America Online (AOL) decided it will not
+adopt Microsoft's Sender ID tool. Sender ID is designed to identify
+spoofed return addresses in e-mail, allowing ISPs to reject those
+messages. Although Microsoft has said it will not charge royalties on
+Sender ID, the software company does hold patents for some of the
+technology on which the tool is built. Those patents have led to the
+recent dispute between Microsoft and advocates of an open-source
+approach to an antispam standard. The Internet Engineering Task Force
+(IETF) rejected the Sender ID standard, and a statement from AOL
+released shortly after that decision said that the company "will now
+not be moving forward with full deployment of the Sender ID protocol."
+A spokesperson from Microsoft said that despite the IETF's decision,
+"It's still going to be one standard, there's just going to be two flavors."
+Reuters, 16 September 2004
+http://www.reuters.com/newsArticle.jhtml?storyID=6258496
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Avoided By Most Of The Major U.S. Media
+
+
+60 Minutes Not Aired In Major Metropolitan Markets In Swing States
+
+The last two Wednesdays, the CBS show 60 Minutes was not aired to many
+who would normally be in the audience, and perhaps even more who might
+have been tuning in for the latest on President Bush's National Guard
+service record.
+
+Various reasons were given by stations from Wilkes-Barre, Pennsylvania
+to Nashville, Tennesee, to Ft. Pierce, Florida, according to searches
+using "60 Minutes," "pre-empted," and "not aired."  These reasons were
+listed as being from saying they thought 60 Minutes was going to be a
+rerun, to power outages that seemed to last only the hour 60 Minutes
+was scheduled to be on the air.  More than one station ran a Billy
+Graham sponsored movie in place of 60 Minutes, at least one of which
+stated that this movie had originally been scheduled weeks ago.
+
+Most or all of the stations said they aired the 60 Minutes program
+later around 1AM or 2AM.  Many calls and emails to the news media
+suggested that these stations did not want to run 60 Minutes until
+after they knew what was going to be said in advance, even though
+it is strict policy of the news media never to allow anyone to know
+this information or the questions that will be raised before the
+interviews take place or are aired.
+
+The locations named above were not the only ones missing 60 Minutes.
+If you find any others, please advise.
+
+*
+
+At least one of these stations aired Dan Rather's apology three times,
+in just over one hour, before, during, and again after the program,
+once even before it even aired directly on the CBS Evening News
+to their viewers.
+
+*
+
+Further research on the reported scheduling of the Billy Graham movie
+reveled that schedules provided to the local media television listings
+indicated that 60 Minutes was scheduled to air at its normal time,
+even though a station spokesperson indicated the Billy Graham movie
+had been on the schedule for several weeks.
+
+It would appear there is still more to this story than is apparent,
+but it seems unlikely that we will ever find out the ultimate source[s]
+of the information presented by 60 Minutes, and there have been rumors
+that Dan Rather may end up stepping down as a result.
+
+
+*ODD STATISTICS OF THE WEEK
+
+90 Million More Africans In Poverty Now Than In 1950
+
+A highly placed African source has reported that Africa
+is worse off now than it was in the last colonial days,
+citing that the colonial powers at least invested in an
+assortment of fundamental African projects, whereas the
+current rulers have taken all the capital OUT of Africa
+and invested it with the major world banks or companies
+and thus destroyed the African economy by displacing it
+from the Third World to the First World.
+
+Additional sources also cite the clear-cutting of their
+traditional rain-forest sources of water as causing the
+permanent drought in Ethiopia and other countries.
+
+*
+
+Antarctic Glaciers Now Moving To The Sea 8 Times Faster
+
+World scientists studying satellite photographs of very
+new data from areas surrounding the South Pole reported
+that the Antarctic ice pack is falling into the ocean a
+record 8 times faster than it was just two years ago in
+response to the destruction of major ice shelves due to
+global warming.
+
+The effects are not only a massive proliferation of the
+navigational difficulties due to 8 times as many of the
+traditional icebergs, but as far away as Hawaii reports
+indicate their world-class beaches are shrinking due to
+increased sea-levels and related beach degradation.
+
+[See:  ICE COLLAPSE SPEEDS UP GLACIERS]
+from BBC News Online, http://snipurl.com/992f
+
+*
+
+Zhores Alferov, who won the Nobel Prize in physics in 2000 for his
+work on fast transistors, laser LEDs, and integrated circuits, was
+supposed to be addressing a major symposium in Berkeley today, but
+is stuck in Russia, after a U.S. consular official could not get a
+grasp on Prof. Alferov's work when he asked, and the Vice-President
+of the Russian Academy of Science apparently gave an answer that
+was beyond the comprehension of the average junior diplomat level,
+and couldn't come up with a simple enough description to get his
+visa stamped to get on the plane to the United States.
+http://snipurl.com/990c
+
+
+*STRANGE QUOTE OF THE WEEK
+
+Chicago Mayor Daley said, "We're not inside your home or your business.
+The city owns the sidewalks. We own the streets and we own the alleys."
+[Referring to citywide surveillance project.  See story further above.]
+
+
+*Information About the Project Gutenberg Mailing Lists
+
+About the Project Gutenberg Weekly Newsletter:
+Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+and
+
+About the Project Gutenberg Monthly Newsletter:
+Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+help@pglaf.org
+
+to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_09_22_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_09_22_part_1.txt</a>

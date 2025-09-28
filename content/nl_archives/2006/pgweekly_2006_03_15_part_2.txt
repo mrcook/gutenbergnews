@@ -1,0 +1,570 @@
+From news at pglaf.org  Wed Mar 15 21:33:43 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Mar 15 21:33:45 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0603152131500.5337@pglaf.org>
+
+The Project Gutenberg Weekly Newsletter 15 Mar 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 44 New U.S. eBooks this week
+    - 4 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 15 Mar 2006: 18484 (incl. 541 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Catharine Furze, by Mark Rutherford                                       6023
+   [Updated edition of: etext04/crfz10.txt]
+   [Link: http://www.gutenberg.org/6/0/2/6023 ]
+   [Files: 6023.txt; 6023-h.htm]
+
+The Errand Boy; or, How Phil Brent Won Success, by Horation Alger          462
+   [Also Contains: Fred Sargent's Revenge; The Smuggler's Trap]
+   [Updated edition of: etext96/rndby10.txt]
+   [Link: http://www.gutenberg.org/4/6/462 ]
+   [Files: 462.txt; 462-h.htm]
+
+The White People, by Frances Hodgson Burnett                               459
+   [Updated edition of: etext96/twpop10.txt]
+   [Link: http://www.gutenberg.org/4/5/459 ]
+   [Files: 459.txt; 459-h.htm]
+
+Penrod, by Booth Tarkington                                                402
+   [Updated edition of: etext96/pnrod10.txt]
+   [Link: http://www.gutenberg.org/4/0/402 ]
+   [Files: 402.txt; 402-h.htm]
+
+Bab: A Sub-Deb, by Mary Roberts Rinehart                                   366
+   [Updated edition of: etext95/babsu10.txt]
+   [Link: http://www.gutenberg.org/3/6/366 ]
+   [Files: 366.txt; 366-h.htm]
+
+Where There's A Will, by Mary Roberts Rinehart                             330
+   [Updated edition of: etext95/awill10.txt]
+   [Link: http://www.gutenberg.org/3/3/330 ]
+   [Files: 330.txt; 330-h.htm]
+
+The Cash Boy, by Horatio Alger Jr                                          296
+   [Updated edition of: etext95/cashb10.txt]
+   [Link: http://www.gutenberg.org/2/9/296 ]
+   [Files: 296.txt; 296-h.htm]
+
+Paul Prescott's Charge, by Horatio Alger                                   293
+   [Updated edition of: etext95/presc10.txt]
+   [Link: http://www.gutenberg.org/2/9/293 ]
+   [Files: 293.txt; 293-h.htm]
+
+The Forged Coupon and Other Stories, by Leo Tolstoy                        243
+   [Contents:
+      The Forged Coupon
+      After The Dance
+      Alyosha The Pot
+      My Dream
+      There Are No Guilty People
+      The Young Tsar]
+   [Updated edition of: etext95/forgd10.txt]
+   [Link: http://www.gutenberg.org/2/4/243 ]
+   [Files: 243.txt; 243-h.htm]
+
+The Europeans, by Henry James                                              179
+   [Updated edition of: etext94/theeu10.txt]
+   [Link: http://www.gutenberg.org/1/7/179 ]
+   [Files: 179.txt; 179-h.htm]
+
+Confidence, by Henry James                                                 178
+   [Updated edition of: etext94/confi10.txt]
+   [Link: http://www.gutenberg.org/1/7/178 ]
+   [Files: 178.txt; 178-h.htm]
+
+The American, by Henry James                                               177
+   [Updated edition of: etext94/theam11.txt]
+   [Link: http://www.gutenberg.org/1/7/177 ]
+   [Files: 177.txt; 177-h.htm]
+
+Roderick Hudson, by Henry James                                            176
+   [Updated edition of: etext94/rhuds10.txt]
+   [Link: http://www.gutenberg.org/1/7/176 ]
+   [Files: 176.txt; 176-h.htm]
+
+Charlotte Temple, by Susanna Rowson                                        171
+   [Updated edition of: etext94/chtem10.txt]
+   [Link: http://www.gutenberg.org/1/7/171 ]
+   [Files: 171.txt; 171-h.htm]
+
+Summer, by Edith Wharton                                                   166
+   [Updated edition of: etext94/summr10.txt]
+   [Link: http://www.gutenberg.org/1/6/166 ]
+   [Files: 166.txt; 166-h.htm]
+
+McTeague, by Frank Norris                                                  165
+   [Updated edition of: etext94/mcteg10.txt]
+   [Link: http://www.gutenberg.org/1/6/165 ]
+   [Files: 165.txt; 165-8.txt; 165-h.htm]
+
+The Awakening and Selected Short Stories, by Kate Chopin                   160
+   Contents:
+     The Awakening
+     Beyond The Bayou
+     Ma'ame Pelagie
+     Desiree's Baby
+     A Respectable Woman
+     The Kiss
+     A Pair Of Silk Stockings
+     The Locket
+     A Reflection
+   [Updated edition of: etext94/awakn10.txt]
+   [Link: http://www.gutenberg.org/1/6/160 ]
+   [Files: 160.txt; 160-h.htm]
+
+The Rime of the Ancient Mariner, by Samuel Taylor Coleridge                151
+   [Updated edition of: etext94/rime10.txt]
+   [Link: http://www.gutenberg.org/1/5/151 ]
+   [Files: 151.txt; 151-h.htm]
+
+The Mayor of Casterbridge, by Thomas Hardy                                 143
+   [Updated edition of: etext94/mayrc10.txt]
+   [Link: http://www.gutenberg.org/1/4/143 ]
+   [Files: 143.txt; 143-h.htm]
+
+The Jungle, by Upton Sinclair                                              140
+   [Updated edition of: etext94/jungl10.txt]
+   [Link: http://www.gutenberg.org/1/4/140 ]
+   [Files: 140.txt; 140-h.htm]
+
+George Sand, Some Aspects of Her Life and Writings, by Rene Doumic         138
+   [Translator: Alys Hallard]
+   [Updated edition of: etext94/sandb10.txt]
+   [Link: http://www.gutenberg.org/1/3/138 ]
+   [Files: 138.txt; 138-h.htm]
+
+Sara Crewe, by Frances Hodgson Burnett                                     137
+   [Updated edition of: etext94/sara10.txt]
+   [Link: http://www.gutenberg.org/1/3/137 ]
+   [Files: 137.txt; 137-h.htm]
+
+Maria, by Mary Wollstonecraft                                              134
+   [Subtitle: The Wrongs of Woman]
+   [Updated edition of: etext94/maria10.txt]
+   [Link: http://www.gutenberg.org/1/3/134 ]
+   [Files: 134.txt; 134-h.htm]
+
+The Damnation of Theron Ware, by Harold Frederic                           133
+   [Updated edition of: etext94/dware10.txt]
+   [Link: http://www.gutenberg.org/1/3/133 ]
+   [Files: 133.txt; 133-h.htm]
+
+A Girl Of The Limberlost, by Gene Stratton-Porter                          125
+   [Updated edition of: etext94/limbr10.txt]
+   [Link: http://www.gutenberg.org/1/2/125 ]
+   [Files: 125.txt; 125-h.htm]
+
+Return of the Native, by Thomas Hardy                                      122
+   [Updated edition of: etext94/nativ10.txt]
+   [Link: http://www.gutenberg.org/1/2/122 ]
+   [Files: 122.txt; 122-h.htm]
+
+Freckles, by Gene Stratton-Porter                                          111
+   [Updated edition of: etext94/freck10.txt]
+   [Link: http://www.gutenberg.org/1/1/111 ]
+   [Files: 111.txt; 111-h.htm]
+
+The Return of Sherlock Holmes, by Arthur Conan Doyle                       108
+   Contents:
+     The Adventure Of The Empty House
+     The Adventure Of The Norwood Builder
+     The Adventure Of The Dancing Men
+     The Adventure Of The Solitary Cyclist
+     The Adventure Of The Priory School
+     The Adventure Of Black Peter
+     The Adventure Of Charles Augustus Milverton
+     The Adventure Of The Six Napoleons
+     The Adventure Of The Three Students
+     The Adventure Of The Golden Pince-Nez
+     The Adventure Of The Missing Three-Quarter
+     The Adventure Of The Abbey Grange
+     The Adventure Of The Second Stain
+   [Updated edition of: etext94/rholm10.txt]
+   [Link: http://www.gutenberg.org/1/0/108 ]
+   [Files: 108.txt; 108-h.htm]
+
+Alexander's Bridge and The Barrel Organ, Willa Cather and Alfred Noyes      94
+   Contents:
+     Alexander's Bridge by Willa Cather
+     The Barrel Organ by Alfred Noyes
+   [Updated edition of: etext94/alexb10.txt]
+   [Link: http://www.gutenberg.org/9/94 ]
+   [Files: 94.txt; 94-h.htm]
+
+The Scarlet Pimpernel, by Baroness Orczy                                    60
+   [Updated edition of: etext93/scarp10.txt]
+   [Link: http://www.gutenberg.org/6/60 ]
+   [Files: 60.txt; 60-h.htm]
+
+Anne Of The Island, by Lucy Maud Montgomery                                 51
+   [Updated edition of: etext93/iland10.txt]
+   [Link: http://www.gutenberg.org/5/51 ]
+   [Files: 51.txt; 51-h.htm]
+
+Anne Of Avonlea, by Lucy Maud Montgomery                                    47
+   [Updated edition of: etext92/avon10.txt]
+   [Link: http://www.gutenberg.org/4/47 ]
+   [Files: 47.txt; 47-h.htm]
+
+The Oedipus Trilogy, by Sophocles                                           31
+   [Translator: F. Storr]
+   (Note:  from the Loeb Library Edition)
+   Contents:
+     Oedipus The King
+     Oedipus At Colonus
+     Antigone
+   [Updated edition of: etext93/oedp10.txt]
+   [Link: http://www.gutenberg.org/3/31 ]
+   [Files: 31.txt; 31-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct author's name ("George", not "Georges"):
+Legendes rustiques, by George Sand                                       17911
+
+HTML format added:
+Yorkshire Ditties, Second Series, by John Hartley                        17799
+
+
+-=-=-=-=[  44 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Dialogo, by Camillo Agrippa                                              17986
+   [Title: Dialogo sopra la generatione de venti, baleni, tuoni, fulgori,
+    fiumi, laghi, valli et montagne]
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/7/9/8/17986 ]
+   [Files: 17986-8.txt]
+
+Tom Swift and The Visitor from Planet X, by Victor Appleton              17985
+   [Link: http://www.gutenberg.org/1/7/9/8/17985 ]
+   [Files: 17985.txt; 17985-h.htm]
+
+L'illustre comedien, ou Le martyre de Sainct Genest, by Nicolas Mary     17984
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/8/17984 ]
+   [Files: 17984-8.txt]
+
+Manon Lescaut, by Abbe Prevost                                           17983
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/8/17983 ]
+   [Files: 17983-8.txt; 17983-h.htm]
+
+Judy, by Temple Bailey                                                   17982
+   [Link: http://www.gutenberg.org/1/7/9/8/17982 ]
+   [Files: 17982.txt; 17982-8.txt]
+
+Under Handicap, by Jackson Gregory                                       17981
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/7/9/8/17981 ]
+   [Files: 17981.txt; 17981-8.txt; 17981-h.htm]
+
+Les caracteres, by Jean de la Bruyere                                    17980
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/8/17980 ]
+   [Files: 17980-8.txt; 17980-h.htm]
+
+The Botanical Magazine, Vol. 4, by William Curtis                        17979
+   [Subtitle: Or, Flower-Garden Displayed]
+   [Link: http://www.gutenberg.org/1/7/9/7/17979 ]
+   [Files: 17979.txt; 17979-8.txt; 17979-h.htm]
+
+Leaves from a Field Note-Book, by J. H. Morgan                           17978
+   [Link: http://www.gutenberg.org/1/7/9/7/17978 ]
+   [Files: 17978.txt; 17978-8.txt; 17978-h.htm]
+
+Charles Lamb, by Walter Jerrold                                          17977
+   [Link: http://www.gutenberg.org/1/7/9/7/17977 ]
+   [Files: 17977.txt; 17977-8.txt; 17977-h.htm]
+
+Autobiography of Andrew Carnegie, by Andrew Carnegie                     17976
+   [Editor: John C. Van Dyke]
+   [Link: http://www.gutenberg.org/1/7/9/7/17976 ]
+   [Files: 17976.txt; 17976-8.txt; 17976-h.htm]
+
+Kuningas Lear arolla, by Ivan Turgenev                                   17975
+   [Translator: Samuli Suomalainen]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/7/9/7/17975 ]
+   [Files: 17975-8.txt]
+
+Filosofia Fundamental, Volumen III, by Jaime Balmes                      17974
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/7/9/7/17974 ]
+   [Files: 17974-8.txt; 17974-h.htm]
+
+The World of Romance, by William Morris                                  17973
+   [Subtitle: Being Contributions to The Oxford and Cambridge Magazine 1856]
+   [Link: http://www.gutenberg.org/1/7/9/7/17973 ]
+   [Files: 17973.txt; 17973-h.htm]
+
+Round About the Carpathians, by Andrew F. Crosse                         17972
+   [Link: http://www.gutenberg.org/1/7/9/7/17972 ]
+   [Files: 17972.txt; 17972-8.txt; 17972-0.txt; 17972-h.htm]
+
+The Abolition of Slavery, by Various                                     17971
+   [Title: The Abolition Of Slavery The Right Of The Government Under The
+    War Power]
+   [Editor: William Lloyd Garrison]
+   [Link: http://www.gutenberg.org/1/7/9/7/17971 ]
+   [Files: 17971.txt]
+
+The Olden Time Series, Vol. 1, by Henry M. Brooks                        17970
+   [Title: The Olden Time Series, Vol. 1: Curiosities of the Old Lottery]
+   [Subtitle: Gleanings Chiefly from Old Newspapers of Boston and Salem,
+    Massachusetts]
+   [Link: http://www.gutenberg.org/1/7/9/7/17970 ]
+   [Files: 17970.txt; 17970-8.txt; 17970-h.htm]
+
+Mound-Builders, by William J. Smyth                                      17969
+   [Link: http://www.gutenberg.org/1/7/9/6/17969 ]
+   [Files: 17969.txt; 17969-8.txt; 17969-h.htm]
+
+Boer Politics, by Yves Guyot                                             17968
+   [Link: http://www.gutenberg.org/1/7/9/6/17968 ]
+   [Files: 17968.txt; 17968-8.txt; 17968-h.htm]
+
+Navy Boys Behind the Big Guns, by Halsey Davidson                        17967
+   [Subtitle: Sinking the German U-Boats]
+   [Illus.: R. Emmett Owen]
+   [Link: http://www.gutenberg.org/1/7/9/6/17967 ]
+   [Files: 17967.txt; 17967-8.txt; 17967-h.htm; ]
+
+Life History of the Kangaroo Rat, by Charles T. Vorhies                  17966
+   [Full author: Charles T. Vorhies]
+   [Walter P. Taylor]
+   [Link: http://www.gutenberg.org/1/7/9/6/17966 ]
+   [Files: 17966.txt; 17966-8.txt; 17966-h.htm]
+
+Boy Woodburn, by Alfred Ollivant                                         17965
+   [Subtitle: A Story of the Sussex Downs]
+   [Link: http://www.gutenberg.org/1/7/9/6/17965 ]
+   [Files: 17965.txt; 17965-8.txt; 17965-h.htm]
+
+Olympian Nights, by John Kendrick Bangs                                  17964
+   [Link: http://www.gutenberg.org/1/7/9/6/17964 ]
+   [Files: 17964.txt; 17964-8.txt; 17964-h.htm]
+
+Le chasseur noir, by Emile Chevalier                                     17963
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/6/17963 ]
+   [Files: 17963-8.txt]
+
+Luar de Janeiro, by Augusto Gil                                          17962
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/7/9/6/17962 ]
+   [Files: 17962-8.txt]
+
+Kindness to Animals, by Charlotte Elizabeth                              17961
+   [Subtitle: Or, The Sin of Cruelty Exposed and Rebuked]
+   [Link: http://www.gutenberg.org/1/7/9/6/17961 ]
+   [Files: 17961.txt; 17961-h.htm]
+
+Giles Corey, Yeoman, by Mary E. Wilkins Freeman                          17960
+   [Subtitle: A Play]
+   [Link: http://www.gutenberg.org/1/7/9/6/17960 ]
+   [Files: 17960.txt; 17960-h.htm]
+
+The Hand Of Fu-Manchu, by Sax Rohmer                                     17959
+   [Subtitle: Being a New Phase in the Activities of Fu-Manchu, the Devil]
+   [Doctor]
+   [Link: http://www.gutenberg.org/1/7/9/5/17959 ]
+   [Files: 17959.txt; 17959-8.txt; ]
+
+Warlord of Kor, by Terry Gene Carr                                       17958
+   [Link: http://www.gutenberg.org/1/7/9/5/17958 ]
+   [Files: 17958.txt; 17958-8.txt; 17958-h.htm; ]
+
+On the Sublime, by Longinus                                              17957
+   [Commentator: Andrew Lang]
+   [Translator: H. L. Havell]
+   [Link: http://www.gutenberg.org/1/7/9/5/17957 ]
+   [Files: 17957.txt; 17957-8.txt; 17957-0.txt; 17957-h.htm]
+
+Recreation, by Edward Grey                                               17956
+   [Link: http://www.gutenberg.org/1/7/9/5/17956 ]
+   [Files: 17956.txt; 17956-h.htm]
+
+The Trials of the Soldier's Wife, by Alex St. Clair Abrams               17955
+   [Subtitle: A Tale of the Second American Revolution]
+   [Link: http://www.gutenberg.org/1/7/9/5/17955 ]
+   [Files: 17955.txt; 17955-8.txt; 17955-h.htm]
+
+Critical Miscellanies (Vol 3 of 3), by John Morley                       17954
+   [Subtitle: The Life of George Eliot]
+   [Link: http://www.gutenberg.org/1/7/9/5/17954 ]
+   [Files: 17954.txt; 17954-8.txt; 17954-h.htm]
+
+The Haunters & The Haunted, ed. by Ernest Rhys                           17953
+   [Subtitle: Ghost Stories And Tales Of The Supernatural]
+   [Link: http://www.gutenberg.org/1/7/9/5/17953 ]
+   [Files: 17953.txt; 17953-8.txt; 17953-h.htm]
+
+Great Possessions, by Mrs. Wilfrid Ward                                  17952
+   [Link: http://www.gutenberg.org/1/7/9/5/17952 ]
+   [Files: 17952.txt; 17952-8.txt; 17952-h.htm; ]
+
+La guerre et la paix, Tome III, by Lon Tolstoi                          17951
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/5/17951 ]
+   [Files: 17951-8.txt; 17951-h.htm]
+
+La guerre et la paix, Tome II, by Lon Tolstoi                           17950
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/5/17950 ]
+   [Files: 17950-8.txt; 17950-h.htm]
+
+La guerre et la paix, Tome I, by Lon Tolstoi                            17949
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/4/17949 ]
+   [Files: 17949-8.txt; 17949-h.htm]
+
+The Vision of Sir Launfal, by James Russell Lowell                       17948
+   [Subtitle: And Other Poems]
+   [Link: http://www.gutenberg.org/1/7/9/4/17948 ]
+   [Files: 17948.txt; 17948-8.txt; 17948-h.htm]
+
+Journal des Goncourt (Troisieme serie, deuxieme volume), by Goncourt     17947
+   [Subtitle: Memoires de la vie litteraire]
+   [Author: Edmond de Goncourt]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/4/17947 ]
+   [Files: 17947-8.txt; 17947-0.txt]
+
+Eirik the Red's Saga, by Anonymous                                       17946
+   [Translator: John Sephton]
+   [Link: http://www.gutenberg.org/1/7/9/4/17946 ]
+   [Files: 17946.txt; 17946-8.txt; 17946-0.txt; 17946-h.htm]
+
+Mark Twain: Tri Noveloj, by Mark Twain                                   17945
+   [Translator: Edwin Grobe]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/1/7/9/4/17945 ]
+   [Files: 17945.txt; 17945-0.txt; 17945-h.htm]
+
+The House of Rimmon, by Henry Van Dyke                                   17944
+   [Subtitle: A Drama in Four Acts]
+   [Link: http://www.gutenberg.org/1/7/9/4/17944 ]
+   [Files: 17944.txt; 17944-8.txt; 17944-h.htm; ]
+
+
+Fians, Fairies and Picts, by David MacRitchie                            17926
+   [Link: http://www.gutenberg.org/1/7/9/2/17926 ]
+   [Files: 17926.txt; 17926-8.txt; 17926-0.txt; 17926-h.htm]
+
+
+-=-=-=-=[ 4 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Mar 2006 Beau Geste, by Percival Christopher Wren          [060023xx.xxx] 0541A
+   [http://gutenberg.net.au/ebooks06/0600231h.html ]
+
+Mar 2006 Since Yesterday, by Frederick Lewis Allen         [060022xx.xxx] 0540A
+   [http://gutenberg.net.au/ebooks06/0600221.txt or .zip
+    and http://gutenberg.net.au/ebooks06/0600221h.html ]
+
+Mar 2006 Tragedy at Beechcroft, by A Fielding              [060021xx.xxx] 0539A
+   [http://gutenberg.net.au/ebooks06/0600211.txt or .zip]
+
+Mar 2006 The House in Lordship Lane, by A E W Mason        [060020xx.xxx] 0538A
+   [http://gutenberg.net.au/ebooks06/0600201.txt or .zip]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

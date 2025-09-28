@@ -1,0 +1,878 @@
+---
+params:
+  id: 2077
+title: "PG Weekly Newsletter: Part 1 (2003-12-03)"
+date: 2003-12-03T16:33:09+00:00
+author: Michael Cook
+layout: post
+url: /20031203/pg-weekly-newsletter-2003-12-03-part-1/
+enclosure:
+  - |
+    |
+        http://www.bcast.co.jp/cgi-bin/yahoo/news.asx?cid=20031125-00000019-jn
+        0
+        video/asf
+
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_December_03.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 03, 2003*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+
+
+                          eBook Milestones
+
+
+             We're ~6.4% Of The Way From 10,000 To 20,000!!!
+
+
+                      10638 eBooks As Of Today!!!
+
+
+      We're Already 1/16th Of The Way From 10,000 to 20,000!!!
+
+
+It took 32.25 years from July, 1971 to October, 2003 to do our 1st 10,000
+
+It took 7.17 years--September, 1996 to November, 2003 for our last 10,000
+
+[From 638 to 10,638]
+
+We hope to reach 20,000 eBooks in 2005. . . .
+
+
+***
+
+We have the first copy of our "10K Special" DVD nearly ready, more below.
+Let me know you the URL to download, or need us to snail a copy to burn.
+Sending out another copy today, but next week will be the last before I
+hit the road to our conference in San Francisco.
+
+***
+
+Catalog Updates:  Thanks to the work of Marcello Perathoner,
+there is no longer a delay getting new eBooks into our
+searchable database at http://www.gutenberg.net.  Author and
+title information, as well as links directly to the eBook's
+files (in all available formats) are updated nightly.
+
+and. . . .
+
+A new page with eBooks posted (or changed) the day before:
+
+http://www.gutenberg.net/gutenberg/browse/RECENT.HTM
+
+***    gutenberg.net moving to ibiblio.org/gutenberg   ***
+
+After many happy years at http://promo.net/pg, we have moved
+gutenberg.net to a different server over the upcoming days.
+
+Many Thanks To Promo.net!!!!!!!
+
+There have been a few days of transition, as the Internet name servers
+got their updates.  When the transfer is complete,   gutenberg.net
+(including www.gutenberg.net)   will still work correctly, but will
+point to our NEW Web pages at     http://ibiblio.org/gutenberg
+
+Hopefully 99% of the bumps in the road caused by this are now over.
+
+
+***
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 20/53 Year History, We Have Now Averaged About 319 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+           We Are Averaging About 348 Per Month This Year!!!
+
+
+***  HOT Requests!!!
+
+For those of you who are trying to get some PR for Project Gutenberg,
+the UPI said this week:
+
+"These are momentous times in the digital content industry. . . .
+
+"Project Gutenberg - the pioneering and largest depository of free,
+mostly "plain-vanilla" (text only) e-books - added the 10,000-th
+title to its unsurpassed collection.  In the meantime, e-book
+aggregators, such as blackmask.com, now proffer tens of thousands
+of free titles for download in up to 8 file formats. Even Microsoft
+has spent the last few months offering a free weekly selection of 3
+commercial titles each, exclusively readable on its MS-Reader application."
+
+***
+
+Try our newest mirror site:
+
+http://www.sakoman.net/gutenberg
+Located in San Jose, California.
+Thanks to Steve Sakoman!!!
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+Volunteers Needed For Some Harder Reformatting Than Usual
+
+Please look at this URL, and see what we can use.  We have permission
+for all of them.  Reformatting to plain text may be a challenge.
+
+ http://www.gallup.unm.edu/~smarandache/eBooks-otherformats.htm
+ http://www.gallup.unm.edu/~smarandache/eBooksLiterature.htm
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    1 New From PG Australia [Australian, Canadian Copyright Etc.]
+    72 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby &lt;gbnewby AT pglaf.org&gt; if you would like
+more information.
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test 10K Special DVD here right now!!!
+Nearly all of our first 10,000 eBooks, and multiple formats!
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+
+*** Progress Report
+
+[Disclaimer:  We have several people and programs who count
+up the Project Gutenberg eBooks and help create the statistics
+we provide.  Every once in a while these don't agree, and we
+have numbers that slightly disagree, even as to the number of
+weeks in a given year. . .for example, 2003 has 53 Wednesdays,
+so we will have 53 Newsletters, and thus will count 53 weeks,
+at least some of us will. . . .   ;-)   This week is unusual,
+because we are in the process of reestablishing our databases
+after reaching eBook #10,000 a few weeks ago, and the programs
+are not yet back to running at full capacity.  Thus, we have
+had several mere mortals counting up the books and disagreeing
+on how many there are.  I counted 87, George counted 84, and
+one day we didn't get any reports at all, so we could both be
+somewhat off.  Hopefully next week we will get back to normal.]
+
+
+    In the first 11.00 months of this year, we produced 3,907 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 3,907 eBooks!
+
+                That's 48 WEEKS as Compared to ~31 Years!
+
+                   73   New eBooks This Week
+                  169   New eBooks Last Week
+                  412   New eBooks This Month [November]
+
+                  354   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                3,895   New eBooks in 2003
+                2,441   New eBooks in 2002
+                1,240   New eBooks in 2001
+                =====
+                7,576   New eBooks Since Start Of 2001
+                           That's Only 35 Months!
+
+               10,638   Total Project Gutenberg eBooks
+                6,479   eBooks This Week Last Year
+                 ====
+                4,159   New eBooks In Last 12 Months
+
+                  299   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below&lt;&lt;&lt;
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  3895 New eBooks So Far in 2003
+
+              It took us 31 years for the first 3895 !
+
+       That's the 48 WEEKS of 2003 as Compared to ~31 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #3895
+
+
+Apr 2003 The Entire M, Mme and Bebe, by Gustave Droz[IM#13][im13bxxx.xxx] 3926
+Apr 2003 Monsieur, Mme, and Bebe, by Gustave Droz v3[IM#12][im12bxxx.xxx] 3925
+Apr 2003 Monsieur, Mme, and Bebe, by Gustave Droz v2[IM#11][im11bxxx.xxx] 3924
+Apr 2003 Monsieur, Mme, and Bebe, by Gustave Droz v1[IM#10][im10bxxx.xxx] 3923
+[Title of the above:  Monsieur, Madame, and Bebe]
+
+Apr 2003 Entire The Red Lily, by Anatole France     [IM#09][im09bxxx.xxx] 3922
+Apr 2003 The Red Lily, by Anatole France, v3        [IM#08][im08bxxx.xxx] 3921
+Apr 2003 The Red Lily, by Anatole France, v2        [IM#07][im07bxxx.xxx] 3920
+Apr 2003 The Red Lily, by Anatole France, v1        [IM#06][im06bxxx.xxx] 3919
+
+Apr 2003 The Entire Serge Panine, by Georges Ohnet  [IM#05][im05bxxx.xxx] 3918
+Apr 2003 Serge Panine, by Georges Ohnet, v4         [IM#04][im04bxxx.xxx] 3917
+Apr 2003 Serge Panine, by Georges Ohnet, v3         [IM#03][im03bxxx.xxx] 3916
+Apr 2003 Serge Panine, by Georges Ohnet, v2         [IM#02][im02bxxx.xxx] 3915
+Apr 2003 Serge Panine, by Georges Ohnet, v1         [IM#01][im01bxxx.xxx] 3914
+
+Apr 2003 Entire Confessions of J.J.Rousseau/Book 13 [JJ#13][jj13bxxx.xxx] 3913
+. . .
+Apr 2003 The Confessions of J. J. Rousseau, Book 1  [JJ#01][jj01bxxx.xxx] 3901
+[Author:  Jean Jacques Rousseau]
+
+Mar 2003 The Entire Court Memoirs of France Series  [CM#63][cm63bxxx.xxx] 3900
+Mar 2003 The Entire Memoirs of Court of St. Cloud   [CM#62][cm62bxxx.xxx] 3899
+Mar 2003 Memoirs of the Court of St. Cloud, v7      [CM#61][cm61bxxx.xxx] 3898
+. . .
+Mar 2003 Memoirs of the Court of St. Cloud, v1      [CM#55][cm55bxxx.xxx] 3892
+
+Mar 2003 The Entire Marie Antoinette, by Campan     [CM#54][cm54bxxx.xxx] 3891
+Mar 2003 Memoirs of Marie Antoinette, by Campan, v7 [CM#53][cm53bxxx.xxx] 3890
+. . .
+Mar 2003 Memoirs of Marie Antoinette, by Campan, v1 [CM#47][cm47bxxx.xxx] 3884
+
+Mar 2003 The Entire Louis XV/XVI, by Hausset        [CM#46][cm46bxxx.xxx] 3883
+Mar 2003 Memoirs of Louis XV/XVI, by Hausset, v7    [CM#45][cm45bxxx.xxx] 3882
+. . .
+Mar 2003 Memoirs of Louis XV/XVI, by Hausset, v1    [CM#39][cm39bxxx.xxx] 3876
+
+Mar 2003 Entire Memoirs of Louis XIV, by Saint-Simon[CM#38][cm38bxxx.xxx] 3875
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v15  [CM#37][cm37bxxx.xxx] 3874
+. . .
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v1   [CM#23][cm23bxxx.xxx] 3860
+
+Mar 2003 Entire Memoirs Louis XIV, by Duch d'Orleans[CM#22][cm22bxxx.xxx] 3859
+Mar 2003 Memoirs of Louis XIV, by Duch d'Orleans, v4[CM#21][cm21bxxx.xxx] 3858
+Mar 2003 Memoirs of Louis XIV, by Duch d'Orleans, v3[CM#20][cm20bxxx.xxx] 3857
+
+Mar 2003 The Entire Memoirs of Madame de Montespan  [CM#17][cm17bxxx.xxx] 3854
+Mar 2003 The Memoirs of Madame de Montespan, v7     [CM#16][cm16bxxx.xxx] 3853
+. . .
+Mar 2003 The Memoirs of Madame de Montespan, v1     [CM#10][cm10bxxx.xxx] 3847
+
+Mar 2003 The Entire Memoirs of Cardinal de Retz     [CM#09][cm09bxxx.xxx] 3846
+Mar 2003 The Memoirs of Cardinal de Retz, v4        [CM#08][cm08bxxx.xxx] 3845
+. . .
+Mar 2003 The Memoirs of Cardinal de Retz, v1        [CM#05][cm05bxxx.xxx] 3842
+
+Mar 2003 The Entire Memoirs of Marguerite de Valois [CM#04][cm04bxxx.xxx] 3841
+Mar 2003 The Memoirs of Marguerite de Valois, v3    [CM#03][cm03bxxx.xxx] 3840
+Mar 2003 The Memoirs of Marguerite de Valois, v2    [CM#02][cm02bxxx.xxx] 3839
+Mar 2003 The Memoirs of Marguerite de Valois, v1    [CM#01][cm01bxxx.xxx] 3838
+[From:  The Entire Court Memoirs of France Series]
+
+
+***
+
+Today Is Day #336 of 2003
+This Completes Week #48
+   35 Days/07 Weeks To Go  [We get 53 Wednesdays this year]
+ 9362 Books To Go To #20,000 [18 months from 4 weeks ago]
+      We're hoping to do this in 80 to 100 weeks
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #6 Of Our *SECOND* 10,000 eBooks
+
+   81   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS--  Several Options In Progress!!!
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+EBOOKS NUMBERED GREATER THAN 10000
+
+To get to a directory listing you can use either:
+
+http://ibiblio.org/gutenberg/1/
+- or -
+ftp://ibiblio.org/pub/docs/books/gutenberg/1/
+
+. . .navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download,
+using your normal download procedures.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename and year you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+
+Statistical Review
+
+In the 48 weeks of this year, we have produced 3895 new eBooks.
+It took us from 1971 to 2002 to produce our FIRST 3895 eBooks!!!
+
+         That's 48 WEEKS as Compared to ~31 YEARS!!!
+
+
+With 10,638 eBooks online as of December 03, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.94 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.54 when we had 6479 eBooks A Year Ago
+
+Can you imagine 10,000 books each costing $.60 less a year later???
+Or. . .would this say it better?
+Can you imagine 10,000 books each costing 1/3 less a year later???
+
+At 10,638 eBooks in 32 Years and 5.00 Months We Averaged
+      329 Per Year   [We do more per than that month these days!]
+       27 Per Month
+      .88 Per Day
+
+At 3,895 eBooks Done In The 336 Days Of 2003 We Averaged
+     11.6 Per Day
+     81.1 Per Week
+    354.1 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+TALKING NEWSPAPERS SOUND ALMOST HUMAN
+The British Royal National Institute of the Blind (RNIB) is teaming up with
+Rhetorical Systems to provide partially sighted and blind people with
+timely access to newspapers and magazines, using technology that "reads"
+the stories in a very human-sounding voice. Rhetorical's rVoice
+text-to-speech software is based on the voice files of real people and
+sounds, and produces much more natural speech than traditional speech
+synthesizers. Subscribers to the new service will receive a portable
+AudioRead device that they can use to retrieve information from wherever
+they happen to be. Unlike audiotapes used to deliver newspapers to the
+visually impaired, AudioRead users can navigate the sections, skipping
+between articles and sections as they choose. "We'll be able to produce 400
+hours of audio in one hour," says RNIB technology expert Steve Tyler.
+"The mainstay of our users who listen to books have never liked the idea of
+synthetic speech, they've always wanted a real reader."
+(BBC News 25 Nov 2003)
+http://news.bbc.co.uk/2/hi/technology/3233340.stm
+
+THIS NUMBER'S READY FOR PRIME TIME
+Michigan State University grad student Michael Shafer has succeeded in
+identifying the largest known prime number to date, using a distributed
+computer network of more than 200,000 computers located around the world.
+The new number is 6,320,430 digits long and is only the 40th Mersenne prime
+to have ever been discovered (Mersenne primes are an especially rare breed
+that take the form of 2-to-the-power-of-P, where P is also a prime number).
+Shafer was taking part in the Great Internet Mersenne Prime Search (GIMPS)
+project, when the new number popped up. "I had just finished meeting with
+my advisor when I saw the computer had found a new prime. After a short
+victory dance, I called up my wife and friends involved with GIMPS to share
+the great news," said Shafer. (New Scientist 2 Dec 2003)
+http://www.newscientist.com/news/news.jsp?id=ns99994438
+
+
+[We All Just Know Inside That RFIDs Are Going To Be Inserted In Our Pets,
+Put In Our Vehicles, And Even In All Of Our Shoes:  No Shoes, No Service]
+[Of Course, They Won't Be Put In THEIR Shoes. . . .  Heaven Forbid That
+Anyone Could Find A Rogue Government Agent. . .There Are Too Darn Many]
+[Lifted from an anonymous source and paraphrased]
+
+Sun Microsystems is opening a new center in Scotland to test
+radio-frequency identification (RFID) tags, in a move that signals the
+company's desire to expand beyond the back office. Up until now, Sun has
+best been known as a maker of servers used to power corporate networks and
+Web sites. Now the company is branching out, selling software designed for
+office desktops, for tracking retail sales in stores, and for downloading
+games and tunes to mobile phones. "This allows Sun to sell the whole
+ecosystem whereas previously we played into only one portion,"
+says John Loiacono, VP of Sun's operating platforms group.
+(International Herald Tribune 3 Dec 20030
+http://www.iht.com/articles/120022.html
+
+
+[Napster Is Dead!  Long Live The New Napsters!]
+
+HP JOINS INTERNET MUSIC FRENZY
+Hewlett-Packard is diving into the online music fray with a branded
+Internet music store and a portable digital music player that will compete
+with similar offerings from Apple and Dell. HP, which ranks No. 2 in PC
+sales and No. 1 in printers, is the latest computer maker to aggressively
+expand their consumer electronics business in the face of stagnant PC sales
+and weakened corporate spending. In addition to the music venture, HP
+recently indicated it would soon start selling flat screen TVs, following
+in the footsteps of Gateway and Dell. (Financial Times 3 Dec 2003)
+http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=Sto
+ryFT&cid=1069493676868
+
+SPAMMERS TARGET ANTI-SPAM GROUPS WITH E-MAIL WORM
+Virus experts say a new worm, dubbed W32/Mimail-L, has been unleashed by a
+vengeful spammonger intent on paralyzing anti-spam groups via a crippling
+barrage of data -- a so-called denial of service attack. "It's the third
+Mimail variation to come after us, except this one is trying to do more,"
+says Steve Linford, founder of the Spamhaus Project. The nasty worm comes
+as an attachment to an e-mail from "Wendy" who describes an erotic
+encounter and then offers photos. Clicking on the attachment launches the
+worm. In a new twist, a follow-up e-mail is sent to the infected user
+announcing that an order for a CD containing child pornography images will
+be sent to their mailing address. Virus experts say the impact of this
+latest worm has been minimal, compared with the problems caused by last
+summer's plague of viruses, "but what this shows is that there is more
+evidence that virus writers and spammers are now colluding," says Sophos
+senior technology consultant Graham Cluley. (Reuters 2 Dec 2003)
+http://www.reuters.com/newsArticle.jhtml;jsessionid=AK2C1KNGSFTWSCRBAEZSFFA?type
+=technologyNews&storyID=3925183
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+Headline News Mostly Avoided By The Major U.S. Media
+
+Those of you who watch the evening news undoubtedly saw
+a video tape made by some rebels in Iraq shooting a DHL
+cargo plane with a shoulder fired SAM [Surface to Air Missle].
+A U.S. helicopter can be seen cruising nearby in the tape.
+
+The moment of the hit was edited out of all the American
+media and they were sure to say that there was no evidence
+that THIS missle was the cause of the damage to THAT plane.
+
+The tape was received by a French journalist and then
+relayed to the rest of the media.  The entire length is
+some 6 minutes, and even the BBC didn't show all of it,
+but it didn't appear as if they edited it internally,
+as did their U.S. counterparts.
+
+[For those of you unfamiliar with DHL shipping, think of
+"Airborne" in the U.S., a competitor to Fed-X, UPS, etc.
+DHL is larger than any of them, and even owns Airborne.
+
+There is a date stamp on the videtape, but not a time stamp,
+so we can't easily tell over how many minutes it was taken.
+I'm sure someone will analyze the sun's position and should
+be able to say over how many minutes the video was taken.
+[Apparently someone already thought of this, and confirmed
+that the sun's angle is consistent with the time of day:
+
+"At approximately 6:30 GMT this morning, a DHL aircraft,
+an Airbus A300 freighter, departing from Baghdad to Bahrain,
+had to return to Baghdad and effect an emergency landing,"
+company spokeswoman Patricia Thomson said in Brussels."
+
+I saw what appeared to be the entire segment of tape on the
+BBC World News including the moment when the missle hit.
+
+You can find copies of this online:
+
+KEYWORDS: ATTACK; BAGHDAD; DHL; FRANCE; JAPAN; SAM; SHOULDER;
+MISSILE; TERROR; TERRORISTS; VIDEO
+
+I just used "dhl, missle, videotape"
+
+Here are some URLs:
+
+56k Stream:
+http://www.bcast.co.jp/cgi-bin/yahoo/news.asx?cid=20031125-00000019-jn
+n-int-movie-001&media=wm300k
+
+300k Stream:
+http://www.bcast.co.jp/cgi-bin/yahoo/news.asx?cid=20031125-00000019-jn
+n-int-movie-001&media=wm56k
+
+***
+
+ANTI-FREE TRADE AND GLOBALIZATION. . .ECONOMIC HOME FRONT WARFARE!!!
+
+In a "Think Globally, Act Locally" sort of response to Globalization,
+some counties started advertising campaigns to encourage residents to
+"Think Locally, Buy Locally," to keep revenues inside their counties.
+
+This was a response to the building of large "Mega-Malls" that traded
+in the retail arena with residents of multiple surrounding counties.
+
+Since then, the "Mega-Mall" counties have retorted with the very same
+campaign ads, encouraging their own resident to shop at home, rather
+than supporting the non-local economies, and tax bases, of any of the
+nearby counties.
+
+If this trend continues, perhaps neighborhood stores will return, and
+put the malls out of business, eh?
+
+***
+
+MORE ECONOMIC WARFARE, ON AN EVEN MORE LOCAL FRONT
+
+Recent reports show that 60% of American workers are
+planning to quit their jobs and go elsewhere to work
+in the next two years. [Source NPR]
+
+Indeed, other reports show that when employers snoop
+on employees' email, most of their spying effort is
+searching for keywords such as:  resume, job-search,
+and other items that would indicate workers are not
+satisfied with their current positions.
+
+The reason for this may be that while only 25% are
+willing to say they are dissatisfied with the job,
+60% are searching for something else.
+
+With this kind of transitional labor force, the U.S.
+worker could easily become labeled as "part time,"
+or "migrant". . .with most workers planning on the
+move to a new job in two years. . . .
+
+But isn't this exactly what U.S. businesses WANTED
+to create?. . .a totally mobile workforce that will
+move to a new location at the drop of a hat?
+
+Of course, they ONLY wanted those workers to move
+when and where they were told to, within the same
+multi-national corporations, such as IBM, but it
+was only a matter of time before such mobility
+went outside the corporate walls with the advent
+of a cannibalistic "headhunter" mentality. . . .
+
+Just out:
+
+(San Jose Mercury News 2 Dec, 2002)
+
+About half the workers would switch jobs just to
+get a signing bonus of $1,000 in stock!  Or even
+just a better chance at earning a yearly bonus.
+Apparently employees are also now willing to
+consider that having their company get to know them
+is of increasing importance, as companies are now
+being bought and sold left and right. . . .
+
+An engineer who quit when his company was bought out
+confirmed this was a growing issue:
+
+"You've got to know your employees. If you don't have a
+personal relationship with them, somebody else will."
+
+***
+
+
+CORRECTION:
+
+Only 40 minutes of TV programming per hour?
+
+I mentioned that TV shows have 6 commercial breaks per hour,
+but a recent show I logged showed 7 commercial breaks:
+at 8, 15, 23, 33, 43, 52 and 58 minutes.  This seems opposite
+to what I recall, as all 4 middle ones had about 10 minutes
+between them, with only the first 2 and last 2 being shorter.
+I recall that they used to get more often as the show went on,
+with the first segment being the longest. . .I'll do more testing.
+During the 7 breaks there were some 25 full length commericals,
+3 or 4 to a break, along with about half as many promotional ads
+for upcoming shows [some are as long as full length commericals].
+The last break was an exception, as it contained only 2 full length
+commercials, 2 promos, and the credits.  My old statistics probably
+need to be updated, as it appears commercials are now taking nearly
+20 minutes out of each hour, leaving only 40 for programming.  The
+networks like to say that the shows have 45 minutes per hour, but I
+think that may have changed recently, that's why I was checking.
+
+By the way, the study that said we were generating half a million
+Libraries of Congress worth of information yearly also said that:
+
+Only 31 television hours out of every 123 are original, and thus
+92 hours are reruns of something that has been seen before, either
+on television or some other medium [including movies, I presume].
+
+That's about 3/4 of everything on television has been shown before,
+and only about 1/4 is actually something prepared for current showing.
+
+***
+
+And, from one of our readers:
+
+Have you seen this report:
+"MPAA, RIAA seek permanent antitrust exemption"
+http://www.theregister.co.uk/content/6/34191.html
+
+Their latest solution to all those pesky antitrust suits:
+buy a law which makes them exempt!
+
+***
+
+NPR'S PRESIDENTIAL DEBATE BLUNDER
+
+
+It seems that in a recent debate in which college students were
+supposed to be asking the candidates questions, that some of the
+questions were actually being fed to the students against their will.
+It was basically a case of "Ask this question, or you don't get to
+ask anything," at least in the case of the now infamous "Mac or PC"
+question asked of the candidates.  Only one used a Mac, but that
+was higher than the national average of some 1 out of 20.
+
+So far it would appear that NPR is keeping the name of the producer
+who did this a secret.
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_12_03_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_12_03_part_1.txt</a>

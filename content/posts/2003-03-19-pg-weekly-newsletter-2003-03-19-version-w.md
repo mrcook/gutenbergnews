@@ -1,0 +1,807 @@
+---
+params:
+  id: 1973
+title: "PG Weekly Newsletter: Version W (2003-03-19)"
+date: 2003-03-19T16:14:46+00:00
+author: Michael Cook
+layout: post
+url: /20030319/pg-weekly-newsletter-2003-03-19-version-w/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 19th March 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7407 ebooks!!!
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New books From PG Australia
+   New U.S. eBooks
+3) News
+4) Readers letters
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+Things are tense here at PG, if I were nearer to my colleagues I would hear fingernails being bitten down as we reach the 7500 milestone. Only 93 to go, so get your appropriate tipple on ice, and lets get those books proofread and get ready to celebrate next week.
+
+Happy and peaceful reading,
+
+Alice (newsletter@schiffwood.demon.co.uk)
+
+We welcome feedback, critisism (of any kind), ebook reviews, featured author suggestions and writings and  awkward questions at the address above. Please feel free to send our general ramblings to a friend.
+
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+==========================================================================
+=         [ Here Are The Updated Listings For This Past Week ]           =
+==========================================================================
+
+RESERVED count:   39
+
+Last week the Total Count was 7,345, including 177 at PG of Australia.
+This week we added 62 new (incl. 9 Aus.).
+TOTAL COUNT as of today, Wed 03/12/03:   7,407 (incl. 186 Aus.).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+Last week we announced the posting of Illustrated HTML versions of
+The Adventures of Huckleberry Finn, eBooks #7100 - #7107; it should
+be noted that each of those files are approximately 2.2MB in size.
+
+One more time:  the following was corrected last week for the
+author's last name; this week we're correcting the author's
+first name ("Benjamin", not "Benjamim":
+Feb 2003 Sybil, or the Two Nations, by Benjamin Disraeli   [sybilxxx.xxx]3760
+
+{Please no more on this!!!}
+
+The following is being re-indexed to correct author's last
+name ("Henty", not "Henry"):
+Nov 2004 By Pike and Dyke, Dutch Republic, by Henty   [#11][bpikexxx.xxx]6952
+
+The following has be re-posted in new formats as indicated:
+Oct 1999 Penguin Island, by Anatole France                 [pngwnxxx.xxx]1930
+[HTM in pngwn10h.htm/.zip]
+Feb 2004 When a Man Comes to Himself, by Woodrow Wilson[#3][mnhslxxx.xxx]5078
+[HTM in mnhsl10h.htm/.zip]
+Feb 2004 On Being Human, by Woodrow Wilson       [Wilson#2][nbhmnxxx.xxx]5068
+[HTM in nbhmn10h.htm/.zip]
+
+The following have been posted in an updated edition 11, and new
+format as indicated:
+Feb 2004 State of the Union, John F. Kennedy               [sukenxxx.xxx]5041
+[HTM in suken11h.htm/.zip]
+Jul 1997 Beowulf, Anonymous, Translated by Gummere         [bwulfxxx.xxx] 981
+[XHTML in bwulf11h.txt/.zip]
+
+The following has also been posted in an updated edition 11, and also
+a new format as indicated:
+Jul 1999 The Prince and the Pauper, by Mark Twain   [MT#14][prpprxxx.xxx]1837
+[Illustrated HTM in prppr11h.zip]
+(Note:  The illustrated HTML file, zipped only, is 20mb in size.  It
+  includes all of the 192 original drawings from a first edition of "The
+  Prince and The Pauper".  This file has also been split into nine parts
+  in today's new postings of #7154-7162 for easier downloading.)
+
+
+=-=-=-=[ ?? NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Feb 2005 Images from Saint Simon's Louis XIV, by D. Widger [dw49wxxh.zip]7565
+Feb 2005 Images from Memoirs Cardinal de Retz, by D. Widger[dw48wxxh.zip]7564
+Feb 2005 Images from Duch. d'Orleans' Louis XIV, by Widger [dw47wxxh.zip]7563
+Feb 2005 Images from Memoirs Madame de Montespan, by Widger[dw46wxxh.zip]7562
+Feb 2005 Images from Hausset's Louis XIV and XV, by Widger [dw45wxxh.zip]7561
+[Author: David Widger][Illustrated HTML files in zipped format only]
+
+
+Dec 2004 Guide to Reading, by Abbott and Dickenson         [?readxxx.xxx]7167
+[Full title: The Guide to Reading The Pocket University Volume XXIII]
+[Full author: Edited by Dr. Lyman Abbott, Asa Don Dickenson, and Others]
+Dec 2004 Home and the World, by Rabindranath Tagore [RT#12][?wrldxxx.xxx]7166
+
+Dec 2004 The Legends of Saint Patrick, by Aubrey de Vere    [lgspxxx.xxx]7165
+[Plain text in lgsp10.txt/.zip, XHTML in lgsp10h.htm/.zip]
+Dec 2004 Gitanjali, by Rabindranath Tagore            [#11][gitnjxxx.xxx]7164
+Dec 2004 History of Australian Exploration,by Ernest Favenc[?hstrxxx.xxx]7163
+[Full title: The History of Australian Exploration from 1788 to 1888]
+
+Dec 2004 The Prince and The Pauper, v9, by Mark Twain[#104][hfin9xxx.xxx]7162
+[Chapters 32 - Conclusion]
+Dec 2004 The Prince and The Pauper, v8, by Mark Twain[#103][hfin8xxx.xxx]7161
+[Chapters 27 - 31]
+Dec 2004 The Prince and The Pauper, v7, by Mark Twain[#102][hfin7xxx.xxx]7160
+[Chapters 22 - 26]
+Dec 2004 The Prince and The Pauper, v6, by Mark Twain[#101][hfin6xxx.xxx]7159
+[Chapters 18 - 21]
+Dec 2004 The Prince and The Pauper, v5, by Mark Twain[#100][hfin5xxx.xxx]7158
+[Chapters 15 - 17]
+Dec 2004 The Prince and The Pauper, v4, by Mark Twain [#99][hfin4xxx.xxx]7157
+[Chapters 12 - 14]
+Dec 2004 The Prince and The Pauper, v3, by Mark Twain [#98][hfin3xxx.xxx]7156
+[Chapters 8 - 11]
+Dec 2004 The Prince and The Pauper, v2, by Mark Twain [#97][hfin2xxx.xxx]7155
+[Chapters 5 - 7]
+Dec 2004 The Prince and The Pauper, v1, by Mark Twain [#96][hfin1xxx.xxx]7154
+[Chapters 1 - 4]
+[The above nine files are Illustrated HTML, zipped only, in hfin?10h.zip]
+[Note:  The files average 2.5mb each]
+{See note above for updated eBook #1837)
+
+Dec 2004 Elder Conklin and Other Stories, by Frank Harris  [?conkxxx.xxx]7153
+Dec 2004 Cecilia Vol. 3, by Frances Burney                 [?cec3xxx.xxx]7152
+[Full title: Cecilia vol. 3 Memoirs of an Heiress]
+[Full author: Frances (Fanny) Burney (Madame d'Arblay)]
+Dec 2004 Clelia, by Giuseppe Garibaldi                     [?clelxxx.xxx]7151
+[Subtitle: Il governo dei preti - Romanzo storico politico]
+[Language: Italian]
+[Plain text in 7clel10.txt/.zip; 8-bit version in 8clel10.txt/.zip]
+
+Dec 2004 Science & Education, by Thomas H. Huxley          [?scedxxx.xxx]7150
+[Subtitle: Collected Essays Volume III]
+[Plain text in 7sced10.txt/.zip, 8-bit version in 8sced10.txt/.zip]
+[HTML version in 8sced10h.htm/.zip]
+Dec 2004 Poetical Works, by Henry Kirk White               [?pwhwxxx.xxx]7149
+[Full title: The Poetical Works of Henry Kirk White With a Memoir
+  by Sir Harris Nicolas]
+[Also posted HTM version in 8pwhw10h.htm/.zip]
+Dec 2004 Lectures on Dramatic Art, by A. W. Schlegel       [?ldalxxx.xxx]7148
+[Full title: Lectures on Dramatic Art and Literature]
+[Full author: August Wilhelm Schlegel, trans: John Black]
+Dec 2004 The French in the Heart of America, by John Finley[?fhamxxx.xxx]7147
+Dec 2004 Memoirs of an Heiress, by Frances Burney          [?ceclxxx.xxx]7146
+[Full title: Cecilia vol. 2 Memoirs of an Heiress]
+[Full author: Frances (Fanny) Burney (Madame d'Arblay)]
+
+Dec 2004 The Book of the Dead, by E. A. Wallis Budge   [#2][?bkddxxx.xxx]7145
+[Also posted:  HTML in 8bkdd10h.htm/.zip; XML in 8bkdd10x.zip only]
+Dec 2004 While the Billy Boils, by Henry Lawson        [#5][wtblbxxx.xxx]7144
+Dec 2004 Cabin on Catamount Island, Lawrence J. Leslie [#2][stcabxxx.xxx]7143
+[Full title: The Strange Cabin on Catamount Island]
+[Plain text in stcab10.txt/.zip; Illustrated HTML in stcab10h.htm/.zip]
+Dec 2004 History of the Peloponnesian War, by Thucydides   [plpwrxxx.xxx]7142
+Dec 2004 Suburban Sketches, by W.D. Howells           [#58][?sbrbxxx.xxx]7141
+[Plain text in 7sbrb10.txt/.zip; 8-bit version in 8sbrb10.txt/.zip]
+
+Dec 2005 The Great Conspiracy, by J. Logan, Complete [JL#8][jl08wxxx.xxx]7140
+[Author: John A. Logan]  (Note: Illustrated HTML jl08w10h.zip is 3.5mb)
+Dec 2005 The Great Conspiracy, by John A. Logan, V7  [JL#7][jl07wxxx.xxx]7139
+Dec 2005 The Great Conspiracy, by John A. Logan, V6  [JL#6][jl06wxxx.xxx]7138
+Dec 2005 The Great Conspiracy, by John A. Logan, V5  [JL#5][jl05wxxx.xxx]7137
+Dec 2005 The Great Conspiracy, by John A. Logan, V4  [JL#4][jl04wxxx.xxx]7136
+Dec 2005 The Great Conspiracy, by John A. Logan, V3  [JL#3][jl03wxxx.xxx]7135
+Dec 2005 The Great Conspiracy, by John A. Logan, V2  [JL#2][jl02wxxx.xxx]7134
+Dec 2005 The Great Conspiracy, by John A. Logan, V1  [JL#1][jl01wxxx.xxx]7133
+[Above eight plain text files in j1??w10.txt/.zip]
+(Note:  above eight eBooks in HTML only, with images, zip format.)
+
+Dec 2004 The Purple Land, by W. H. Hudson              [#5][?purpxxx.xxx]7132
+[Plain text in 7purp10.txt/.zip; 8-bit version in 8purp10.txt/.zip]
+Dec 2004 U.S. History, V1, by Julian Hawthorne         [#5][?ushxxxx.xxx]7131
+[Full Title: The History of the United States from 1492 to 1910, Volume 1]
+[Subtitle: From Discovery of America October 12, 1492 to Battle of
+  Lexington April 19, 1775]
+[Plain text in 7ushx10.txt/.zip; 8-bit version in 8ushx10.txt/.zip]
+
+Dec 2004 London Films, by W.D. Howells                [#58][?lonfxxx.xxx]7130
+[7-bit version with non-accented characters in 7lonf10.txt and 7lonf10.zip]
+[8-bit version with accented characters in 8lonf10.txt and 8lonf10.zip]
+Dec 2004 The Prospective Mother, by J. Morris Slemons      [pmothxxx.xxx]7129
+[Subtitle: A Handbook for Women During Pregnancy]
+Dec 2004 Indian Fairy Tales, by Collected by Joseph Jacobs [?iftlxxx.xxx]7128
+[7-bit version with non-accented characters in 7iftl10.txt and 7iftl10.zip]
+[8-bit version with accented characters in 8iftl10.txt and 8iftl10.zip]
+Dec 2004 Malcolm, by George MacDonald                 [#27][malcmxxx.xxx]7127
+[Plain text in malcm10.txt/.zip; HTM in  malcm10h.htm/.zip]
+Dec 2004 Treaties of Canada with Indians, Alexander Morris [tcnndxxx.xxx]7126
+[Full title: The Treaties of Canada with The Indians of Manitoba and the
+  North-West Territories]
+[Also posted HTML in tcnnd10h.zip and tcnnd10h.htm]
+
+Dec 2004 Catherine Booth, by Colonel Mildred Duff          [?cbthxxx.xxx]7125
+[Plain text in 7cbth10.txt/.zip, 8-bit version in 8cbth10.txt/.zip]
+[XHTM version with accented characters in 8cbth10h.htm and 8cbth10h.zip]
+Dec 2004 The Coral Island, by R. M. Ballantyne         [#3][corilxxa.xxx]7124
+[Subtitle: A Tale Of The Pacific Ocean]     [See also #0646]
+Dec 2004 Home Vegetable Gardening, by F. P. Rockwell       [?hmvgxxx.xxx]7123
+Dec 2004 The Emigrant Mechanic and Other Verse, by Cowherd [emgrtxxx.xxx]7122
+[Full Title: The Emigrant Mechanic and Other Tales In Verse]
+[Full Author: Thomas Cowherd]
+Dec 2004 Da Firenze a Digione, by Ettore Socci             [dfrnzxxx.xxx]7121
+[Subtitle: Impressioni di un reduce Garidaldino]
+[Language: Italian]
+
+Dec 2004 Knock, Knock and Others, by Ivan Turgenev         [7knckxxx.xxx]7120
+[Full title: Knock, Knock, Knock and Other Stories]
+[Plain text in 7knck10.txt/.zip, 8-bit version in 8knck10.txt/.zip]
+[HTML version with accented characters in 8knck10h.htm and 8knck10h.zip]
+
+
+=-=-=-=[ 9 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Mar 2003 The Old Maid, by Edith Wharton             [EW#09][030037xx.xxx]0186A
+[http://gutenberg.net.au/ebooks03/0300371.txt or .ZIP]
+
+Mar 2003 The Abbess of Castro, by Stendahl          [ST#04][030036xx.xxx]0185A
+[http://gutenberg.net.au/ebooks03/0300361.txt or .ZIP]
+[Full title: The Abbess of Castro and Other Shorter Novels]
+[Author's real name: Henri Beyle]
+Mar 2003 Armance, by Stendahl                       [ST#03][030035xx.xxx]0184A
+[http://gutenberg.net.au/ebooks03/0300351.txt or .ZIP]
+[Author's real name: Henri Beyle]
+Mar 2003 Descent into Hell, by Charles Williams     [CW#01][030034xx.xxx]0183A
+[http://gutenberg.net.au/ebooks03/0300341.txt or .ZIP]
+Mar 2003 Jimgrim, by Talbot Mundy                   [TM#01][030033xx.xxx]0182A
+[http://gutenberg.net.au/ebooks03/0300331.txt or .ZIP]
+Mar 2003 The Old and the Young, by L Pirandello     [LP#01][030032xx.xxx]0181A
+[http://gutenberg.net.au/ebooks03/0300321.txt or .ZIP]
+[Author's full name: Luigi Pirandello]
+
+Mar 2003 Experiments, by Norman Douglas             [ND#03][030031xx.xxx]0180A
+[http://gutenberg.net.au/ebooks03/0300311.txt or .ZIP]
+Mar 2003 The Charterhouse of Parma, by Stendahl     [ST#02][030030xx.xxx]0179A
+[http://gutenberg.net.au/ebooks03/0300301.txt or .ZIP]
+[Author's real name: Henri Beyle]
+Mar 2003 Good-bye to Western Culture, by N Douglas  [ND#02][030029xx.xxx]0178A
+[http://gutenberg.net.au/ebooks03/0300291.txt or .ZIP]
+[Author's full name: Norman Douglas]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+186
+
+That's how close it is to the great 200 for life +50 etext countries this week. So send in those contributions please, and let's get them through 200 by next week.
+
+A huge THANK YOU to all those contributing and WELL DONE.
+
+                    -------------------
+
+HOOKHTM.ZIP Help please
+
+If you were responsible for hookhtm.zip being uploaded this week, please get in touch with us at the address above. No info file or email address was received and the zip file was empty.
+
+Thank you
+
+                    -------------------
+
+Coming to our attention this week, with thanks to Alev Akman.
+
+Author Uzanne predicted "The End Of Books" back in '94...
+
+1894, that is. A scholar at the University of Iowa's Obermann Center for Advanced Studies has digitized an article from the July-December 1894 issue of Scribner's Magazine Illustrated. It's actually a broad set of predictions of what life will be like in the 21st Century, but the author's predictions about books and reading are of most interest to us: "My friend James Whittemore interrupted me. "And what will become of the libraries, dear friend, and of the books?" "Librarieswill be transformed into phonographotecks, or rather, phonostereoteks; they will contain the works of human genius on properly labelled cylinders, methodically arranged in little cases, rows upon rows, on shelves.
+
+This is a fascinating site, beautifully put together, and the ideas are fabulous, a must read for any PGer. You can find out more at http://www.uiowa.edu/~obermann
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Readers letters
+
+Favourite Book
+
+From: Tonya Allen
+
+The Haunted Bookshop, a book-lover's book
+
+I love discovering books and authors in a serendipitous and random way. If a book I'm reading mentions another book, you can be sure I'll try to track it down. A book about the Titanic led me to Project Gutenberg, mentioning that among the passengers of that ill-fated ship was John Jacob Astor IV, the builder of New York's Astoria hotel, and also the author of a science fiction novel, A Journey In Other Worlds. I started off on the trail of this 1894 book, and my search led me to PG and the world of etexts.
+
+One of my favorite PG etexts is Christopher Morley's The Haunted Bookshop. Steeped in the immediate post-World War I mood of uncertainty and intrigue, the plot revolves around a copy of Carlyle's Oliver Cromwell which appears and disappears mysteriously from its place on the shelf. By the time the mystery is resolved, the bookshop's proprietor has strolled among many yards of shelves and pointed out many of his favorite books, which he regards more as living forces than inanimate objects:
+
+"Did you ever notice how books track you down and hunt you out?
+They follow you like the hound in Francis Thompson's poem.
+They know their quarry!  Look at that book The Education of Henry Adams!
+Just watch the way it's hounding out thinking people this winter.
+And The Four Horsemen--you can see it racing in the veins
+of the reading people.  It's one of the uncanniest things I know
+to watch a real book on its career--it follows you and follows
+you and drives you into a corner and MAKES you read it.
+There's a queer old book that's been chasing me for years:
+The Life and Opinions of John Buncle, Esq., it's called.
+I've tried to escape it, but every now and then it sticks up
+its head somewhere.  It'll get me some day, and I'll be compelled
+to read it.  Ten Thousand a Year trailed me the same way until
+I surrendered.  Words can't describe the cunning of some books.
+You'll think you've shaken them off your trail, and then one day
+some innocent-looking customer will pop in and begin to talk,
+and you'll know he's an unconscious agent of book-destiny."
+
+The list of books mentioned in The Haunted Bookshop is wonderfully random and includes many genres and topics--mysteries, romances, social history, a study of tea. Many have intriguing titles ("Confessions of a Thug", "Whispers about Women", "Somebody's Luggage", "The Story of My Heart"). The power of the written word in shaping history is expressed in a dramatic catalog of World War I writing:
+
+"In regard to the War, think what books have accomplished.
+What was the first thing all the governments started to do--
+publish books!  Blue Books, Yellow Books, White Books, Red Books--
+everything but Black Books, which would have been appropriate in Berlin.
+They knew that guns and troops were helpless unless they could get the books
+on their side, too.  Books did as much as anything else
+to bring America into the war.  Some German books helped to wipe
+the Kaiser off his throne--_I_ Accuse, and Dr. Muehlon's magnificent
+outburst The Vandal of Europe, and Lichnowsky's private memorandum,
+that shook Germany to her foundations, simply because he told the truth.
+Here's that book Men in War, written I believe by a Hungarian officer, with
+its noble dedication "To Friend and Foe."  Here are some of
+the French books--books in which the clear, passionate intellect
+of that race, with its savage irony, burns like a flame.
+Romain Rolland's Au-Dessus de la Melee, written in exile in Switzerland;
+Barbusse's terrible Le Feu; Duhamel's bitter Civilization;
+Bourget's strangely fascinating novel The Meaning of Death.
+And the noble books that have come out of England:  A Student in Arms;
+The Tree of Heaven; Why Men Fight, by Bertrand Russell--I'm hoping
+he'll write one on Why Men Are Imprisoned:  you know he was locked
+up for his sentiments!  And here's one of the most moving of all--
+The Letters of Arthur Heath, a gentle, sensitive young Oxford tutor
+who was killed on the Western front.  You ought to read that book.
+It shows the entire lack of hatred on the part of the English.
+Heath and his friends, the night before they enlisted, sat up singing
+the German music they had loved, as a kind of farewell to the old,
+friendly joyous life.  Yes, that's the kind of thing War does--
+wipes out spirits like Arthur Heath.  Please read it.
+Then you'll have to read Philip Gibbs, and Lowes Dickinson
+and all the young poets.  Of course you've read Wells already.
+Everybody has."
+
+This was the perfect book for me, and for any book-lover. I followed the example of the bookshop's proprietor, who during one journey along the shelves "took out a memorandum book and began jotting down the books that intrigued him." I opened a computer file and made my own list. I've been following it up ever since, and have found many of the titles at PG. All of the books mentioned qualify for PG at least as far as publication date goes, so anyone looking for ideas for new etexts might drop by.... The Haunted Bookshop.
+
+Tonya Allen
+
+{Thank you to Tonya for a wonderful piece. If you have a favourite you would like people to know about please get in touch with us at the address above.}
+
+
+
+                    -------------------
+
+The first in our 'Please explain this...' series.
+We start with everyone's favourite question.
+
+Hey, Alice,
+Just to let you know I like the letters section -- it's always nice to hear about books...
+This may sound stupid, but maybe someone, sometime, could explain how the numbering system works, and why books being processed now have dates two years heance, what reserved numbers are, etc.
+I've only been doing this for about a year, so maybe I've overlooked some info somewhere...
+Regards from "wrong snow" UK
+Delphine
+
+So, thanks to Brett for the following:
+
+Why do books have numbers 2 years hence?
+
+Simple answer:  We didn't expect to do so well.  At some point or other, Michael set up 100 books/month as the standard PG production month {We have to start somewhere}.  Well, production picked up and soon we were over a year ahead, then two years. The theory was that there was a delay between posting and release to allow the readers of the newsletter to read these new books and find any mistakes. The practice is that so few people offer corrections it doesn't matter. As time went on, we were soon rushing ahead and anticipated being three years ahead. It was proposed that we increase the number per month to 150 with the thinking that we would soon catch up. I think that we are now within a year and in about two more years should catch these numbers.
+
+What are reserved numbers?
+
+Simple answer: Reserved numbers are book numbers grabbed in advance. We have some "special numbers" usually the numbers ending in "000" that are "reserved" for special books. In addition, we have some volunteers who do tens of books a month. They do this consistently and usually work on a group of books by the same author. Thus, we offer them a block of numbers which are reserved for their use. There are also some numbers reserved for books Michael anticipated getting but hasn't gotten yet.
+
+
+I hope this helps, Alice
+                    -------------------
+
+And yet more in 'How to read your etext', an email that may be of interest to our readers.
+
+To: ebook-community@yahoogroups.com
+Cc: xml-ebook@yahoogroups.com
+Subject: [ebook-community] Web based eBook Reading interface
+
+For those whom are interested:
+
+    I have recently completed a web-based eBook reading GUI using CSS and
+XHTML. Naturally, how well it works will depend on your particular browser,
+but I have gotten workable results using the following browsers:
+
+    Microsoft Internet Explorer 6.0
+    Opera 7.0
+    Mozilla 1.0
+    Netscape 7.0
+
+    This interface is the type of thing can could be easily implemented on a
+floppy or CD for distribution, providing the user with a nice workable
+reading environment, without the need for an application install (assuming
+they have the appropriate browser).
+
+    Feel free to try the GUI out at http://www.raptorbook.org/.
+
+    When you view a book, you will see a link labeled "Read using the
+RaptorBook Reader web interface". Click that, and you are off. :-)
+
+    Quick examples:
+        The Adventures Of Huckleberry Finn -&gt;
+http://www.raptorbook.org/book.php?r=89
+        Gettysburg Address -&gt; http://www.raptorbook.org/book.php?r=90
+        The Wisdom Of Father Brown -&gt;
+http://www.raptorbook.org/book.php?r=103
+
+    If you try it, and find that it works in other browsers, feel free to
+let me know -- any other comments are appreciated as well.
+
+Sincerely,
+    James Linden
+
+
+
+                    -------------------
+
+Another related to our series of 'Reading ebooks' with a development from Literature Emporter.
+
+Dear Alice
+
+In my last email I told you that I wanted to buy a Palm m130 computer and to
+add ebooks to my site. This is now true, I upload ebooks every days :
+
+    - the Sherlock Holmes adventures will soon be finished
+    - 18 of the 20 books of Emile Zola Les Rougon-Marquart are done (the 2
+last will soon be done)
+    - other titles from various authors are also readable in the PDB format
+
+The Ebooks in the PDB format requires Palm Reader, this program is available
+on
+
+    - on Palm computers : Palm Reader v1.2.2 (freeware)
+    - on Pocket PC        : Palm Reader v1.2.3 (freeware)
+    - on Windows           : Palm Reader for Windows v1.2.2 (freeware)
+    - on MAC                : Palm Reader for MAC v 1.2.2 (freeware)
+
+    These programs can be found at this address :
+http://www.palmdigitalmedia.com/
+
+Best wishes from Fred
+
+{If you haven't taken a look yet, go on over to http://litteratureaemporter.free.fr}
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research may need to be done by our professional Chief Cataloguer, so for those who wish to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+19th Minna Canth, Aksel Sandemose, J.J. Wecksell, Philip Roth
+20th Ovidius, Friedrich Holderlin, Henrik Ibsen ("Put it on the radio"), Vera Panova
+21st Gustaf von Numers, Nizar Quabbani
+22nd Louis L'Amour
+23rd Ama Ata Aidoo, Roger Martin du Gard, Akira Kurosawa
+24th Dario Fo, William Morris, Donald Hamilton
+25th Anne Bronte, Flannery O'Connor, Paul Scott
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+BEWARE THE SPELLCHECKER
+A study at the University of Pittsburgh reveals that the ubiquitous
+spellchecker software may be doing as much harm as good, when it comes to
+writing. In the study, 33 undergraduate students were asked to proofread a
+one-page business letter -- half of them using Microsoft Word, with its
+spell- and grammar-checking features and the other half using only their
+brains. Without the software, students with higher SAT verbal scores made,
+on average, five errors, compared with 12.3 errors made by students with
+lower scores. However, using the software, the two groups made about the
+same number of errors -- 16 vs. 17. Dennis Galletta, a professor of
+information systems at the Katz Business School, says people have come to
+rely on spellchecking software too completely. "It's not a software
+problem, it's a behavior problem." (AP 14 Mar 2003)
+http://apnews.excite.com/article/20030314/D7POQ7R80.html
+
+                    -------------------
+
+RECORD LABELS WARN COMPANIES OF 'SIGNIFICANT LEGAL DAMAGES'
+The Recording Industry Association of America has sent letters to about 300
+companies, informing them that their computers were being used by workers
+for illegal file-swapping and threatening "significant legal damages" for
+employers and employees alike. The new tactic is the RIAA's first
+systematic effort to tackle digital music piracy that occurs using
+corporate networks, following a similar effort to enlist universities in
+the fight against illegal file-sharing. Copyright law experts said
+companies might be liable for piracy on their networks if they know about
+it and don't intervene, but it's unclear whether companies have an
+obligation to police their networks and remove unauthorized copies of songs
+without being asked to. "I think what they're trying to do is get people
+thinking 'Gee, I'm in this gray area, and I don't want to be the guy who
+gets fingered for the test case,'" says one intellectual property attorney.
+"As a corporation, do you really want to be in the news defending the right
+of your employees to have pirated music on your network?" About 35% of the
+letters went to information technology companies, 20% to healthcare firms,
+20% to manufacturers, and the rest to miscellaneous industries. (Los
+Angeles Times 18 Mar 2003)
+http://www.latimes.com/technology/la-fi-riaa18mar18001438,1,4897793.story?co
+ll=la%2Dheadlines%2Dtechnology
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+NEW TARGET FOR COPYRIGHT ENFORCEMENT: ORGANIZED CRIME
+Representatives from the Motion Picture Association of America and
+Microsoft testified before Congress that organized gangs operating in
+countries like Russia and Malaysia are stealing intellectual property
+and profiting from making counterfeit software and DVDs. In addition to
+counterfeit labels and discs covered under current federal
+anticounterfeiting laws, Microsoft supports a change to the law to
+cover fake holograms and other packaging material. Recent versions of
+Microsoft Office have an edge-to-edge hologram etched into an entire
+side of a CD-ROM. Counterfeiters can't replicate the technology, so
+they deceive consumers with high-quality holographic stickers instead.
+The importance of prosecuting such criminal activity was argued by a
+Justice Department official who sees a link between copyright piracy
+and terrorism.
+CNET, 13 March 2003
+http://news.com.com/2100-1028-992468.html
+
+                    -------------------
+
+SPELLING AND GRAMMAR CHECKERS ADD ERRORS
+In a study conducted at the University of Pittsburgh, computer spelling
+and grammar checkers actually increased the number of errors for most
+students. The study looked at the performance of two groups of
+students: one with relatively high SAT verbal scores and one with
+relatively lower scores. The group with lower SAT scores made an
+average of 12.3 mistakes without the spelling and grammar tools turned
+on and 17 mistakes with the tools. The students with higher SAT scores
+made an average of 5 mistakes without the tools and an average of 16
+errors with the tools. According to Dennis Galletta, a professor of
+information systems at the Katz Business School, the problem is one of
+behavior rather than of technology. Some students, he said, trust the
+software too much. Richard Stern, a speech-recognition technology
+researcher at Carnegie Mellon University, said that when computers
+attempt to identify proper grammar, the computer has to make some
+guesses. It becomes "a percentage game," he said.
+Wired News, 14 March 2003
+http://www.wired.com/news/business/0,1367,58058,00.html
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the booklists and the number crunching, Mark and Larry Wall. Greg and Michael are still on holiday (I'm still digging my garden).
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_03_19_version_w.txt" target="_blank" rel="nofollow">pgweekly_2003_03_19_version_w.txt</a>

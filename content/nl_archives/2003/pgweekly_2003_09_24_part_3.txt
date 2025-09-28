@@ -1,0 +1,282 @@
+The Project Gutenberg Weekly Newsletter 24th September 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+----------------------------------------------------------------------
+
+NOTE, if you are considering adding a new eBook to the Project
+Gutenberg collection:
+
+Please make sure that any books you want to work on are _not_ already
+in the collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL  (a text file), since the
+online database doesn't reflect recent additions.  Also, please be sure
+to check David Price's "In Progress" list at:
+http://www.dprice48.freeserve.co.uk/GutIP.html
+to ensure no one is currently working on your selection.  It would also
+be helpful if you obtain copyright clearance before mailing the books.
+More information on this can be found in Parts 1 and/or 2 of the
+newsletter.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 24 Sep 2003:   9,583 (incl. 276 Aus.).
+
+Last week the Total Count was 9,505, including 273 at PG of Australia.
+This week we added 78 new (incl. 3 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being reindexed to add the full title and correct
+the author's name (Logan Marshall, not Logal Marhsall); also note that
+Marshall is the editor, not the author:
+Jan 1997 Sinking of the Titanic, etc, Ed. by Logan Marshall[ttnicxxx.xxx]  781
+[Full Title: The Sinking of the Titanic and Great Sea Disasters]
+
+The following is being re-indexed to correct the title (Wellesley, not
+Wellesly):
+Oct 2000 The Story of Wellesley, by Florence Converse      [wlslyxxx.xxx] 2362
+
+The following is being re-indexed to correct the title (add the hyphen):
+Feb 1991 Through the Looking-Glass, Lewis Carroll[Carroll2][lglassxx.xxx]   12
+
+We have posted an improved 11th edition of:
+May 1998 Enemies of Books, by William Blades               [nmybkxxx.xxx] 1302
+
+
+=-=-=-=[ 75 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+[The following (#9336-#9361) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Nov 2005 Audio: Youth, Joseph Conrad                       [youthxxx.mp3] 9361C
+Nov 2005 Audio: Within the Tides, Joseph Conrad            [wthntxxx.mp3] 9360C
+Nov 2005 Audio: Under Western Eyes, Joseph Conrad          [wstysxxx.mp3] 9359C
+Nov 2005 Audio: Victory, Joseph Conrad                     [vcty1xxx.mp3] 9358C
+Nov 2005 Audio: Typhoon, Joseph Conrad                     [typhnxxx.mp3] 9357C
+Nov 2005 Audio: 'Twixt Land & Sea, Joseph Conrad           [twxlsxxx.mp3] 9356C
+Nov 2005 Audio: The Rescue, Joseph Conrad                  [trscuxxx.mp3] 9355C
+Nov 2005 Audio: Tales of Unrest, Joseph Conrad             [tnrstxxx.mp3] 9354C
+Nov 2005 Audio: The Mirror of the Sea, Joseph Conrad       [tmotsxxx.mp3] 9353C
+Nov 2005 Audio: End of the Tether, Joseph Conrad           [tethrxxx.mp3] 9352C
+Nov 2005 Audio: The Secret Sharer, Joseph Conrad           [ssharxxx.mp3] 9351C
+Nov 2005 Audio: The Shadow Line, Joseph Conrad             [shlinxxx.mp3] 9350C
+Nov 2005 Audio: A Set of Six, Joseph Conrad                [seto6xxx.mp3] 9349C
+Nov 2005 Audio: Some Reminiscences, Joseph Conrad          [rmnisxxx.mp3] 9348C
+Nov 2005 Audio: An Outcast of the Islands, Joseph Conrad   [outcixxx.mp3] 9347C
+Nov 2005 Audio: Notes on Life and Letters, Joseph Conrad   [ntlflxxx.mp3] 9346C
+Nov 2005 Audio: Nostromo, Joseph Conrad                    [nstrmxxx.mp3] 9345C
+Nov 2005 Audio: Almayer's Folly, Joseph Conrad             [lmyerxxx.mp3] 9344C
+Nov 2005 Audio: Heart of Darkness, Joseph Conrad           [hdarkxxx.mp3] 9343C
+Nov 2005 Audio: Falk, Joseph Conrad                        [falk1xxx.mp3] 9342C
+Nov 2005 Audio: Chance, Joseph Conrad                      [chancxxx.mp3] 9341C
+Nov 2005 Audio: The Arrow of Gold, Joseph Conrad           [argldxxx.mp3] 9340C
+Nov 2005 Audio: A Personal Record, Joseph Conrad           [aprjcxxx.mp3] 9339C
+Nov 2005 Audio: The Secret Agent, Joseph Conrad            [agentxxx.mp3] 9338C
+Nov 2005 Audio: Amy Foster, Joseph Conrad                  [afostxxx.mp3] 9337C
+Nov 2005 Audio: To-morrow, Joseph Conrad                   [2mrowxxx.mp3] 9336C
+
+Nov 2005 Fabeln und Erzaehlungen, by Christian F. Gellert  [?fablxxx.xxx] 9335
+[Full author: Christian Fuerchtegott Gellert]
+[Language: German]
+Nov 2005 The Spectator, Volume 1, by Addison and Steele    [?spt1xxx.xxx] 9334
+[Full author: Joseph Addison and Richard Steele]
+[Volume 1 of 3, includes issues 1-202]
+[Also posted: HTML in 8spt110h.htm; illustrated HTML in 8spt110h.zip]
+Nov 2005 Johnny Bear, by E. T. Seton                       [?jbarxxx.xxx] 9333
+[Subtitle:And Other Stories From Lives of the Hunted]
+  Contents:
+    Johnny Bear
+    Tito: The Story Of The Coyote That Learned How
+    Why The Chickadee Goes Crazy Once A Year
+Nov 2005 Georgie's Present, by Miss Brightwell             [gprstxxx.xxx] 9332
+[Subtitle: Tales of Newfoundland]
+Nov 2005 The Hunted Outlaw, by Anonymous                   [?houtxxx.xxx] 9331
+[Subtitle: Donald Morrison, The Canadian Rob Roy]
+
+Nov 2005 Biography of a Grizzly, by Ernest Seton-Thompson  [?grizxxx.xxx] 9330
+Nov 2005 The Widow O'Callaghan's Boys,byGulielma Zollinger [twocbxxx.xxx] 9329
+[HTML version in twocb10h.htm and twocb10h.zip]
+[HTML zip file includes 21 excellent images]
+Nov 2005 Cleveland Past and Present, by Maurice Joblin     [?clevxxx.xxx] 9328
+[Subtitle: Its Representative Men Comprising Biographical Sketches of
+ Pioneer Settlers and Prominent Citizens]
+[Also posted HTML - 8clev10h.zip and 8clev10h.htm]
+Nov 2005 Die zaertlichen Schwestern,by Christian F. Gellert[?zschxxx.xxx] 9327
+[Full author: Christian Fuerchtegott Gellert] [Language: German]
+Nov 2005 Gespraeche fuer Freimaurer, by Gotthold E. Lessing[?gespxxx.xxx] 9326
+[Full author: Gotthold Ephraim Lessing] [Language: German]
+
+Nov 2005 Der Freigeist, by Gotthold Ephraim Lessing        [?frigxxx.xxx] 9325
+[Language: German]
+Nov 2005 Roden's Corner, by Henry Seton Merriman      [#10][?rodnxxx.xxx] 9324
+Nov 2005 Foliage:  Various Poems, by William H. Davies     [folgexxx.xxx] 9323
+Nov 2005 Nation in a Nutshell, by George Makepeace Towle   [?nnutxxx.xxx] 9322
+Nov 2005 Tales And Novels, Vol. 8, by Maria Edgeworth [#11][?tal8xxx.xxx] 9321
+  Contents:
+    Patronage (concluded)
+    Comic Dramas: Love and Law
+    Leonora
+    Letters of Julia and Caroline
+
+Nov 2005 Doctor of the Old School, Complete, by Ian Mclaren[drmc6xxx.xxx] 9320
+Nov 2005 A Doctor of the Old School, Vol. 5, by Ian Mclaren[drmc5xxx.xxx] 9319
+Nov 2005 A Doctor of the Old School, Vol. 4, by Ian Mclaren[drmc4xxx.xxx] 9318
+Nov 2005 A Doctor of the Old School, Vol. 3, by Ian Mclaren[drmc3xxx.xxx] 9317
+Nov 2005 A Doctor of the Old School, Vol. 2, by Ian Mclaren[drmc2xxx.xxx] 9316
+Nov 2005 A Doctor of the Old School, Vol. 1, by Ian Mclaren[drmc1xxx.xxx] 9315
+[Illustrated by Frederick C. Gordon]
+[Also posted illustrated HTML - drmc?10h.zip only]
+[Complete html file 8mb; the split files about 2mb each]
+
+Nov 2005 The Calling Of Dan Matthews, by Harold Bell Wright[clgdmxxx.xxx] 9314
+Nov 2005 Old Greek Folk Stories Told Anew, by J. Peabody   [?ogrkxxx.xxx] 9313
+[Author's Full Name: Josephine Preston Peabody]
+Nov 2005 From Whose Bourne, by Robert Barr                 [?fwbrxxx.xxx] 9312
+Nov 2005 Hetty's Strange History, by Anonymous             [?hetyxxx.xxx] 9311
+
+Nov 2005 Casanova's Homecoming, by Arthur Schnitzler       [?cshmxxx.xxx] 9310
+[Tr.: Eden and Cedar Paul]
+Nov 2005 In a Steamer Chair And Other Stories, Robert Barr [?stchxxx.xxx] 9309
+  Contents:
+    In A Steamer Chair
+    Mrs Tremain
+    Share And Share Alike
+    An International Bow
+    A Ladies' Man
+    A Society For The Reformation Of Poker Players
+    The Man Who Was Not On The Passenger List
+    The Terrible Experience Of Plodkins
+    A Case Of Fever
+    How The Captain Got His Steamer Out
+    My Stowaway
+    The Purser's Story
+    Miss Mcmillan
+Nov 2005 NY at Louisiana Purch. Expo, by DeLancey M. Ellis [?nylexxx.xxx] 9308
+[Full title: New York at the Louisiana Purchase Exposition, St. Louis 1904]
+[Subtitle: Report of the New York State Commission]
+Nov 2005 Life: Its True Genesis, by R. W. Wright           [?litgxxx.xxx] 9307
+[7-bit version in 7litg10.txt/.zip; Unicode version in 8litg10u.txt/.zip]
+[HTML version in 8litg10h.htm and 8litg10h.zip]
+Nov 2005 Aesthetic as Science of Expression,Benedetto Croce[?asthxxx.xxx] 9306
+[Full title: Aesthetic as Science of Expression and General Linguistic]
+[Translated from the Italian by Douglas Ainslie]
+
+Nov 2005 One Day's Courtship, by Robert Barr               [?dcrtxxx.xxx] 9305
+Nov 2005 Initiation into Philosophy, by Emile Faguet   [#2][?inphxxx.xxx] 9304
+[Translated from the French by Sir Homer Gordon]
+Nov 2005 Post-Augustan Poetry, by H.E. Butler              [?pagpxxx.xxx] 9303
+[Subtitle: From Seneca to Juvenal]
+Nov 2005 Nana a Milano, by Cletto Arrighi                  [?nnmlxxx.xxx] 9302
+[Author AKA: Carlo Righetti]
+[Language: Italian]
+Nov 2005 Ranald Bannerman's Boyhood, by George MacDonald   [?bboyxxx.xxx] 9301
+[Also posted illustrated HTML - 8bboy10h.zip; and 8bboy10h.htm]
+
+Nov 2005 Jennie Baxter, Journalist, by Robert Barr         [?bxtrxxx.xxx] 9300
+Nov 2005 Italian Letters, Vols. I and II,William Godwin[#3][?itltxxx.xxx] 9299
+[Subtitle: The History of the Count de St. Julian]
+Nov 2005 Life and Death of Harriett Frean, by May Sinclair [?frenxxx.xxx] 9298
+Nov 2005 The Orange-Yellow Diamond, by J. S. Fletcher  [#2][?orngxxx.xxx] 9297
+Nov 2005 Clarissa, Volume 1 of 9, by Samuel Richardson [#3][clar1xxx.xxx] 9296
+[Subtitle: History of a Young Lady]
+
+
+Nov 2005 Little Daffydowndilly, by N. Hawthorne       [#71][haw71xxx.xxx] 9244
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 The Wives of the Dead,  by N. Hawthorne      [#70][haw70xxx.xxx] 9243
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Old Ticonderoga, by Nathaniel Hawthorne      [#69][haw69xxx.xxx] 9242
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 John Inglefield's Thanksgiving by Hawthorne  [#68][haw68xxx.xxx] 9241
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+
+Nov 2005 The Man of Adamant, by Nathaniel Hawthorne   [#67][haw67xxx.xxx] 9240
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Old News, by Nathaniel Hawthorne             [#66][haw66xxx.xxx] 9239
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Sylph Etherege, by Nathaniel Hawthorne       [#65][haw65xxx.xxx] 9238
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 A Bell's Biography, by Nathaniel Hawthorne   [#64][haw64xxx.xxx] 9237
+[From "The Snow Image and other Twice Told Tales", by Nathaniel Hawthorne]
+Nov 2005 Main Street, by Nathaniel Hawthorne          [#63][haw63xxx.xxx] 9236
+[From "The Snow Image And Other Twice Told Tales", by Nathaniel Hawthorne]
+
+
+=-=-=-=[ 3 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Sep 2003 Inheritors, by Brian Penton                       [030127xx.xxx] 0276A
+[http://gutenberg.net.au/ebooks03/0301271.txt or .ZIP
+Sep 2003 Tender is the Night, by F Scott Fitzgerald        [030126xx.xxx] 0275A
+[http://gutenberg.net.au/ebooks03/0301261.txt or .ZIP
+[and http://gutenberg.net.au/ebooks03/0301261h.html ]
+Sep 2003 The Common Reader Second Series, by Virginia Woolf[030125xx.xxx] 0274A
+[http://gutenberg.net.au/ebooks03/0301251.txt or .ZIP
+[and http://gutenberg.net.au/ebooks03/0301251h.html ]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+Never be afraid to try something new.  Remember, amateurs built the ark,
+professionals built the Titanic.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Thierry, Gali, Greg, Michael, and Larry Wall. Entertainment
+for the workers provided by the local council public meeting about
+climate change.

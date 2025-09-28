@@ -1,0 +1,630 @@
+The Project Gutenberg Weekly Newsletter 1st October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News
+   Distributed Proofreaders Update
+   Radio Gutenberg Update
+3) Notes and Queries, Reviews and Features
+   Quiz
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+October. It's October already! Only not quite enough shopping days to
+go until the world explodes, or something like that. This seems to be
+all I've heard this week. What happened to the slow passing of the
+year? the enjoyment of the seasons? the peace and tranquility?
+
+Some of you have written to ask about the newsletter website. You will
+notice that it hasn't been updated for a while. Well, I have been
+trying to have a bit of a break back here at newsletter towers and so
+the website slipped to somewhere a little lower on my priority
+list, just above the floor to be exact. Expect updates and new
+features from this week as I get back into gear.
+
+Small note, Happy Hannuka to Gali, thank you.
+
+Happy reading,
+
+Alice
+
+send email to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://ibiblio.org/gutenberg/
+Project Gutenberg Newsletter website: http://ibiblio.org/gutenberg/newsletter
+Radio Gutenberg: http://www.radio-gutenberg.com
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://ibiblio.org/gutenberg/subs.html
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News and Comment
+
+Distributed Proofreaders Update
+
+This week's newsletter goes to press right at the start of a new
+month. As October already promises to be an active and exciting month
+at DP, we are going to focus on some of what's in store for the weeks
+ahead of us.
+
+First, a look back the month behind us. September started off in a
+quiet manner, which was set in sharp contrast following the page
+proofing marathon run to meet the monthly page objective within the
+final hours of August. After that party we all needed a little Siesta,
+maybe the server too. September did not finish anywhere near as quiet
+as it began. Pulling together, the widely dispersed community of
+proofreaders worked in a steady, dedicated fashion over the following
+weeks. September saw a level of consistent high production which gave
+the impression of a home-grown SlashDot event. The goal of proofed
+pages for the month was met, and met well, and some impressive records
+were set for DP history.
+
+We come away from the successes of August and September with a
+deepened sense of who we are and what we are capable of as a
+distributed, but united community. What we each came to DP to work
+upon we find empowered and increased upon itself by the strength and
+support of this committed alliance. As we explore this distributed
+Human network together, we are learning new things about the process
+everyday, and more, we are learning about ourselves.
+
+The name Distributed Proofreaders points up a significant aspect of
+the project. DP is a network of allied individual people. The greater
+share of on-line distributed projects utilize the combined power of
+computer processors to take on large scale tasks. The results at DP,
+while dependent upon the technology, are produced by the time, talent
+and dedication of flesh and blood individuals. It is a rare
+distinction among distributed projects, and worth making note of when
+recognizing the accomplishments of the project.
+
+There is no disputing the fact that the quality and output levels of
+DP are on the rise. This is not a recent phenomenon, but the
+cumulative result of craft and innovation that has been invested into
+the endeavor from the very beginning. If I hold in mind a primary
+objective for this weekly column it is to reveal and explore the
+diverse craft-cultures which work to make up the finished product at
+DP. Nothing happens independently within this process, the final texts
+are the direct result of several stages of development. Some of these
+stages have nothing directly to do with the text itself, such as the
+creation of the code which runs DP and the building of the tools which
+enhance and expedite the labor intensive text work. Every stage is
+essential, all are interdependent. DP functions at it's best when
+these diverse craft-cultures hold a unified vision and set their
+intentions shoulder to shoulder. Glimpses of this dynamic force have
+been shining through over the past few months with increasing regularity.
+
+I will go on the line here and say that I believe October is going to
+reveal just how unique and productive this unified creative force has become.
+
+
+Within the next few days a major upgrade to the DP site will be
+released. As always, this has developed and extensively tested in a
+manner consistent with all work at DP. Broad participation in 'kicking
+the tires,' so to speak, is not only encouraged but has long been an
+essential component in the code development process. As expected,
+there's still a little nervousness that we have set everything in the
+correct place and squashed all the bugs we can possibly find. But
+overall, we're ready for the rollout. However, there are still 48
+hours or so within which you could prove to be the genius who finds
+something the rest of us have missed. Checking is still underway, and
+if you have not tried the testsite as yet, please do, and offer the
+coding crew the benefit of 'fresh eyes.' Look for the New Release
+thread at the top of the General forum.
+
+Among the many new features, I will begin with one that is sure to be
+a hit within the Project Gutenberg community:
+
+MARC Record Search & Enhanced Project Creation Interface. Project Managers
+will now be able to search the Library of Congress catalogs for MARC record 
+data on their projects. From within the Project Panel, managers can create both a 
+MARC record and a Dublin Core XML file for their project.
+
+I think I can hear the PG librarians sighing already!
+
+For the legions of proofers, Joseph Gruber has cooked up something Very Tasty:
+
+Detailed Statistics. - DP member stat's with a history of pages
+proofed, best days, neighborhood views with some info on friends and
+neighbors and your own personal stat chart. The Team statistics have
+been upgraded as well. There are now displays of who is on the team,
+history of page count totals, best days, and more. An added search feature has also been added to both Member and Team statistics.
+
+Other enhancements, in no certain order, include:
+
+Project Queue Upgrades. - The project queues have been enhanced so as
+to keep more of a variety of projects available at any given
+time. Site Administrators will also have more flexibility in tweaking
+project status for special needs or timely events.
+
+Inclusion of XML Icons. - There is now an enhanced visibility of our
+XML/RSS feeds with icons guiding managers to their locations. (The
+start of something really big here!)
+
+Zip File Uploading of Projects.- No longer do you have to FTP over a whole 
+directory of images and a whole directory of text files. Just zip the
+project elements into one file, and upload directly from a hard drive.
+
+LOCALISATION!! - (That's right, all caps.) Potentially, this is our most 
+important New feature. Members will now be able to get the site in
+their native language. From the initial upgrade, languages available
+are German, French, Finnish & Portuguese. There is also a translation
+center available for those languages not as yet represented. Please
+Note... If you are willing to translate portions of DP, you will find
+enthusiastic support. Just post a note in the Future Features forum
+with your intention and someone will promptly reply.
+
+Time and space does not allow to list all the many features, but I
+think you get the sense of how much work the coding team has put into
+this major upgrade. On the whole, many small aspects to the site have
+fixed which were noted over the summer. There should be noticeably
+fewer bugs and errors throughout all the stages of development. Did I
+hear someone mention 'site speed?' Oh yeah! They didn't forget ya'!
+
+Did I say October was going to be exciting?
+
+Two other events to watch for beginning today are Post Production
+objectives and Authors' Birthday celebrations. Bill Keir, DP's Site
+Admin', has studied the present status of projects which are within
+the final stages of post processing and verification. Bill has set for
+October a Goal for completing a certain number of projects by the end
+of the month. I have seen the blueprints, and I would agree that
+with a well structured and cooperative effort this figure of 300 texts
+posted to PG, while higher than any previous month, is a realistic
+objective. To reach it though, we are going to need to draw strongly
+upon that 'unified creative force' we have been tapping into recently.
+
+Finally, on the fun side of the month, we are beginning a completely
+new feature at DP. A few weeks back, Tim Bonham, the author and
+maintainer of DP's Proofing Guidelines came up with an idea for
+increasing interest in, and thus PG content of, authors who are either
+marginally represented in Project Gutenberg or not at all. Well he
+clearly hit on to something big here, because the idea has gained
+strong support, and will become a regular monthly feature from October forward.
+
+In brief, as they are now waving at me from behind the curtain (who? me?
+- Ed), Authors who have a birthday within a present month will receive
+'special attention' from all levels of DP. This endeavor is growing
+and expanding with each day, so I will keep a small space for current
+updates within each column. The limits on obscure authors seems to
+have already been lifted, although underdogs will always get highest
+priority. If you want to learn more, suggest ideas or become actively
+involved, look for the Author Birthday threads in both General and
+Content Providing forums.
+
+One little follow up note to the Banned Books week initiative. We have
+located and prepared one of the banned books not yet in PG; Gustave
+Flaubert's 'The Temptation of Saint Antony.' Hint: If I were you, I'd
+get to the First Round soon, it's due in at any moment now! (Okay,
+I'll see what I can do to hold it back a few hours!)
+
+
+That's all for now! (Well, not really, but they're already sweeping
+the stage.[It's amazing what you can get horses to do these days -
+Ed]) Next week we'll return to our regularly scheduled broadcast and
+pick up where we left off in our explorations of the DP process:  Pre
+Production and the Tools that buzz text preparation along.
+For now...
+
+All the best to everyone, and enjoy October!
+
+Thierry Alberto
+                    -------------------
+
+Other news items this week
+
+Project Gutenberg Website Update
+
+Thanks to Marcello Perathoner, we now have a new browse by author
+and title online. The listing is regenerated at 6:50 am (US Eastern time)
+to regenerate the listing daily. Our browsing tools are used quite a bit so a
+more functional and prettier one is great to have. Any suggestions or
+feedback about the new search facility are most welcome.
+
+------------------------------
+
+Lessons in ebooks
+
+Occasionally, I get mails asking how to go about downloading texts
+from Project Gutenberg. Thanks to a new set of lessons from Candida
+Martinelli, all mystery is now lifted. 
+
+Candida has put together six lessons to explain just about everything
+you might need to know to get started with finding a text,
+downloading, use and management, well worth a look. You can find the
+lessons at:
+
+http://home.wanadoo.nl/cecilia.mccabe/instructions.htm
+
+------------------------------
+
+Call to arms - The Gutenberg Bible
+
+Guess what? My wife thinks PG has the Gutenberg Bible
+online. We don't.
+
+This _LARGE_ project will require an army of
+volunteers (including me) who are willing to surf to
+http://prodigi.bl.uk/gutenbg/default.asp and save the
+images onto their hard-drives manually, then another
+army to convert the color files to B&W so that another
+army (of one) can train Abbyy Finereader to recognize
+it so that we don't have to type it in (although we
+_WILL_ if we have to). Then it will hit DP and go
+through proofing.
+
+An immense project but one well worth doing. They said
+we couldn't/shouldn't/wouldn't, but we will.  
+
+Won't we?
+
+Contact garvint@yahoo.com to enlist. There are no 4Fs
+in _this_ army.
+
+Ted Garvin
+                    -------------------
+
+Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+Radio Gutenberg is currently off the air.
+
+
+If you are interested in creating a slide-show with a soundtrack
+from your favourite book, or piece of literature please mail us here
+at news@pglaf.org and we will pass your message on.
+
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. An example of
+the changed listing is given below. If you would like either a daily
+or weekly version of this list please email news@pglaf.org, and state
+which version you require. 
+
+{Note to the unwary: this is an example.}
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries, Reviews and Features
+
+"RALPH RASHLEIGH" BY JAMES TUCKER (1803-1866)
+
+Geoffrey Dutton, in "The Australian Collection--Australia's Greatest
+Books", remarks that "The definition of "classic" should be relevant to
+both time and place. There are many books in each country's literature
+that are cherished as classics in their homeland but little known
+elsewhere." Hence the inclusion of "Ralph Rashleigh" in Dutton's list of
+Australia's Greatest Books.
+
+The book is a "classic" for a number of reasons: its literary merit; its
+depiction of the life of a convict; the circumstances of its composition;
+and the occasion of the discovery of the manuscript and subsequent
+publication.
+
+The novel relates the story of a well-educated Londoner who drifts into
+petty crimes, for one of which he is tried, imprisoned, and sentenced to
+death. He escapes from prison, only to be recaptured. However his
+sentence is commuted and he is transported to New South Wales. During his
+life in the colony he is flogged, placed in solitary confinement and
+forced to endure both heat and cold without the benefit of shoes.
+
+Still, this is not a story of hopelessness and the convicts manage to get
+up a theatre and Rashleigh is later assigned as a labourer to a settler.
+The adventures continue unabated, to such an extent that Dutton remarks,
+"Interest in the breathless series of adventures that make up "Ralph
+Rashleigh" might flag if most of them were not so clearly authentic." As
+it was, the author of this work was himself a convict. Colin Roderick,
+academic and writer on Australian literature, noted in a foreword to the
+1952 edition of the book, that "'Ralph Rashleigh' is the "only novel of
+abiding stature to have been written by a man who during all his
+Australian life was never anything but a convict."
+
+Like Rashleigh, Tucker himself was sentenced to be transported to New
+South Wales for the term of his natural life, for the crime of sending a
+letter threatening to (falsely) accuse his cousin, James Stanyford
+Tucker, with indecently assaulting him, James Rosenberg Tucker (our
+author). Tucker spent much of his time in the colony as a messenger and
+clerk. On several occasions he was granted a ticket of leave only to have
+it revoked each time, save the last. He died in Liverpool (N.S.W.) asylum
+in 1866.
+
+In fact, we are not absolutely certain that James Tucker is the author of
+"Ralph Rashleigh", as the following story will admit. In 1920, at an
+exhibition of rare books and manuscripts held by the Royal Australian
+Historical Society, an elderly man "turned up" with a manuscript titled
+"Ralph Rashleigh or The Life of an Exile", by Giacomo di Rosenberg" and
+handed it to the president of the Society, Mr C. H. Bertie. The elderly
+man, Robert Baxter, could only say that some 50 years earlier it had been
+left to his wife by her father, who had it of the author 30 years before
+that. Three other manuscripts were also presented at the same time. The
+date written by the author, on the verso of the first page of "Ralph
+Rashleigh", was 31st December, 1845.
+
+The paper on which the manuscript was written was watermarked 1840. Other
+paper in the bundle was ascertained to have come from the register of
+assignment of convicts at Port Macquarie (N.S.W.), the latest dates on
+those sheets being 1838. These facts, together with other evidence,
+suggested that the manuscripts were genuine work from the 1840s. On the
+assumption that "Ralph Rashleigh" was a disguised book of memoirs, in
+1929 a re-written version of the manuscript was published in London. The
+reasons for the re-writing were outlined in the publishers' note at the
+beginning of the publication: "We recognized its value and interest, but
+the archaic literary style of the writer made us doubt whether the book
+would be acceptable to modern readers. So the manuscript was rewritten,
+but with absolute fidelity to the original story."
+
+The identity of the author of "Ralph Rashleigh" remained a mystery. Then,
+in 1949, Mr Bertie "put me in possession", as Colin Roderick put it in
+the foreword to the 1952 edition of "Ralph Rashleigh", "of all he knew
+about the manuscript. Intrigued by its obvious authenticity and moved by
+the obscure fate of its author, I was persuaded not to let the pursuit of
+that worthy (sic) stop until I had established his identity."
+
+Unfortunately, for copyright reasons, we cannot include in the ebook of
+"Ralph Rashleigh" the complete foreword, by Colin Roderick, to the 1952
+edition. However, Roderick goes on to detail how he was able to ascertain
+that James Tucker was almost certainly the author. After two years,
+building upon the knowledge that the paper upon which the manuscript was
+written came from the penal settlement at Port Macquarie, Roderick
+recounts:
+
+"On the evening of 26 July 1951 I was looking through the 1846 inward
+correspondence of William Nairn Gray to the Colonial Secretary. A file of
+letters dealt with several complaints against Gray, one of which was that
+he had misappropriated convict labour to build a race-course and to
+enlarge his own garden for profit. To refute the charges he enclosed a
+plan of the trifling alterations to his garden, and another of the mighty
+public works he had performed.
+
+"These plans really gave the solution to the problem. Not only were they
+in the same calligraphy as the title pages of the Rashleigh manuscripts,
+but they were signed with the amateur architect's name, James Tucker.
+Several pages attached to them were in the same handwriting as the
+manuscript of 'Ralph Rashleigh.'"
+
+Roderick provides other evidence to corroborate his contention that
+Tucker was the author of "Ralph Rashleigh". For example Tucker, in a
+postscript to his threatening letter to his cousin, mentioned earlier,
+directed the cousin to "address to me Mr Rosenberg, the Bell, Exeter
+Street, Strand." Further, Tucker's criminal charge was directed to "James
+Rosenberg Tucker", and at Port Jackson, Tucker's name was entered as
+"James Tucker, or Rosenberg." Rosenberg was, as mentioned earlier, the
+name entered on the "Ralph Rashleigh" manuscript.Some commentators,
+however, have argued that Tucker merely copied the manuscript. In an
+exchange in the "Bulletin" December 1952 to February 1953, M. H. Ellis
+argued that Tucker was a copyist whose known writing, for example a
+letter written in 1826, does not reveal the qualities required of the
+author of "Ralph Rashleigh". Roderick, though, seems to have the weight
+of evidence.
+
+In the foreword to the 1952 edition of "Ralph Rashleigh", Colin Roderick
+goes on further to note the "unfortunate introduction [to the 1929
+edition] by the late Earl of Birkenhead. Like the editor of that text,
+Birkenhead was misled into believing the book was a memoir entirely and
+the text was mangled and falsified to fit this preconceived theory."
+Birkenhead set forth a diatribe in favour of maintaining the death
+penalty, using as evidence to support his claim, the "memoir" of
+Rashleigh, a person who "had the advantage of a decent upbringing, but,
+out of weakness of character, adopted what seemed the easier life of
+crime at an early age." It was fortunate for Birkenhead that, by 1952
+when the verbatim edition of what turned out to be a novel was published,
+he was "late" as it may have saved him from acute embarrassment.
+
+At Project Gutenberg of Australia will be found both the "first authentic
+popular edition" created from the original manuscript, first published in
+1952, together with the heavily edited 1929 edition (including the
+publishers' note and introduction by Birkenhead). The 1929 edition is
+now, of course, just a curiosity.
+
+I trust that you will agree that this is a "classic" little story about a
+classic work of Australian literature--"Ralph Rashleigh, The Life of an
+Exile" by James Tucker. Both ebooks are located at
+(http://gutenberg.net.au/plusfifty.html.
+
+Col Choat
+                    -------------------
+
+This Issue's Quiz: Science Fiction Classics!
+
+Match the titles with the first lines (you can always
+cheat by visiting the URL).
+
+[We have two newsletter smarty-pants awards waiting for your correct answers-Ed]
+
+===Titles===
+
+1. Looking Backward / Edward Bellamy
+http://www.ibiblio.org/gutenberg/etext96/lkbak10.txt
+
+2. The Poison Belt / Arthur Conan Coyle
+http://www.ibiblio.org/gutenberg/etext94/poisn10.txt
+
+3. The War of the Worlds / H.G. Wells
+http://www.ibiblio.org/gutenberg/etext92/warw11.txt
+
+4. The Land That Time Forgot / Edgar Rice Burroughs
+http://www.ibiblio.org/gutenberg/etext96/tlttf11.txt
+
+5. From the Earth to the Moon / Jules Verne
+http://www.ibiblio.org/gutenberg/etext93/moon10.txt
+
+6. A Princess of Mars / Edgar Rice Burroughs
+http://www.ibiblio.org/gutenberg/etext93/pmars10.txt
+
+7. The Time Machine / H.G. Wells
+http://www.ibiblio.org/gutenberg/etext92/timem11.txt
+
+8. Lost Continent / C. J. Cutcliffe Hyne
+http://www.ibiblio.org/gutenberg/etext95/lostc10.txt
+
+9. The Lost World / Arthur Conan Doyle
+http://www.ibiblio.org/gutenberg/etext94/lostw10.txt
+
+10. 20000 Leagues Under the Seas / Jules Verne
+http://www.ibiblio.org/gutenberg/etext01/2000010a.txt
+
+===First Lines===
+
+a. It is imperative that now at once, while these stupendous events
+are still clear in my mind, I should set them down with that
+exactness of detail which time may blur.
+
+b. It must have been a little after three o'clock in the afternoon
+that it happened--the afternoon of June 3rd, 1916.
+
+c. I am a very old man; how old I do not know.  Possibly I am
+a hundred, possibly more; but I cannot tell because I have
+never aged as other men, nor do I remember any childhood.
+
+d. Mr. Hungerton, her father, really was the most tactless person
+upon earth,--a fluffy, feathery, untidy cockatoo of a man,
+perfectly good-natured, but absolutely centered upon his own
+silly self.
+
+e. The Time Traveller (for so it will be convenient to speak of
+him) was expounding a recondite matter to us.
+
+f. The year 1866 was marked by a bizarre development, an unexplained
+and downright inexplicable phenomenon that surely no one has forgotten.
+
+g. I first saw the light in the city of Boston in the year 1857.
+
+h. No one would have believed in the last years of the
+nineteenth century that this world was being watched keenly
+and closely by intelligences greater than man's and yet as
+mortal as his own; that as men busied themselves about their
+various concerns they were scrutinised and studied, perhaps
+almost as narrowly as a man with a microscope might scru-
+tinise the transient creatures that swarm and multiply in a
+drop of water.
+
+i. During the War of the Rebellion, a new and influential club was
+established in the city of Baltimore in the State of Maryland.
+
+j. We were both of us not a little stiff as the result of
+sleeping out in the open all that night, for even in Grand Canary
+the dew-fall and the comparative chill of darkness are not to be
+trifled with.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Tonya, Thierry, Gali, Col, Greg for the news updates,
+Michael, and Larry Wall. Entertainment for the workers provided by the
+Chicago Bears and the Green Bay Packers.

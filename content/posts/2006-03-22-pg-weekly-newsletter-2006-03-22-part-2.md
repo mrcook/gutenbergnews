@@ -1,0 +1,539 @@
+---
+params:
+  id: 2378
+title: "PG Weekly Newsletter: Part 2 (2006-03-22)"
+date: 2006-03-22T20:39:36+00:00
+author: Michael Cook
+layout: post
+url: /20060322/pg-weekly-newsletter-2006-03-22-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Wed Mar 22 20:59:40 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Mar 22 20:59:42 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0603222058060.18568@pglaf.org&gt;
+
+GWeekly_March_22_part2.txt
+
+The Project Gutenberg Weekly Newsletter 22 Mar 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 48 New U.S. eBooks this week
+    - 9 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 22 Mar 2006: 18541 (incl. 550 Aus.).
+
+RESERVED/PENDING count: 44
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Man And Superman, by George Bernard Shaw                                  3328
+   [Updated edition of: etext02/mands10.txt]
+   [Link: http://www.gutenberg.org/3/3/2/3328 ]
+   [Files: 3328.txt; 3328-h.htm]
+
+Ramsey Milholland, by Booth Tarkington                                    2595
+   [Updated edition of: etext01/rmsym10.txt]
+   [Link: http://www.gutenberg.org/2/5/9/2595 ]
+   [Files: 2595.txt; 2595-h.htm]
+
+Boyhood, by Leo Tolstoy                                                   2450
+   [Translator: C.J. Hogarth]
+   [Updated edition of: etext00/boyhd10.txt]
+   [Link: http://www.gutenberg.org/2/4/5/2450 ]
+   [Files: 2450.txt; 2450-h.htm]
+
+Tartarin de Tarascon, by Alphonse Daudet                                  2375
+   [Translator: Oliver C. Colt]
+   [Updated edition of: etext00/trtra11.txt]
+   [Link: http://www.gutenberg.org/2/3/7/2375 ]
+   [Files: 2375.txt; 2375-8.txt; 2375-h.htm]
+
+Childhood, by Leo Tolstoy                                                 2142
+   [Updated edition of: etext00/chldh10.txt]
+   [Link: http://www.gutenberg.org/2/1/4/2142 ]
+   [Files: 2142.txt; 2142-h.htm]
+
+Thais, by Anatole France                                                  2078
+   [Translator: Robert B. Douglas]
+   [Updated edition of: etext00/thais10.txt]
+   [Link: http://www.gutenberg.org/2/0/7/2078 ]
+   [Files: 2078.txt; 2078-h.htm]
+
+The Nabob, by Alphonse Daudet                                             2077
+   [Updated edition of: etext00/nabob10.txt]
+   [Translator: W. Blaydes]
+   [Link: http://www.gutenberg.org/2/0/7/2077 ]
+   [Files: 2077.txt; 2077-h.htm]
+
+An Old Town By The Sea, by Thomas Bailey Aldrich                          1861
+   [Updated edition of: etext99/ldtwn10.txt]
+   [Link: http://www.gutenberg.org/1/8/6/1861 ]
+   [Files: 1861.txt; 1861-8.txt; 1861-h.htm]
+
+War and the Future, by H. G. Wells                                        1804
+   [Updated edition of: etext99/wrftr10.txt]
+   [Link: http://www.gutenberg.org/1/8/0/1804 ]
+   [Files: 1804.txt; 1804-h.htm]
+
+My Lady's Money, by Wilkie Collins                                        1628
+   [Updated edition of: etext99/mlmny10.txt]
+   [Link: http://www.gutenberg.org/1/6/2/1628 ]
+   [Files: 1628.txt; 1628-h.htm]
+
+Miss or Mrs.?, by Wilkie Collins                                          1621
+   [Updated edition of: etext99/mioms10.txt]
+   [Link: http://www.gutenberg.org/1/6/2/1621 ]
+   [Files: 1621.txt; 1621-h.htm]
+
+The Absentee, by Maria Edgeworth                                          1473
+   [Updated edition of: etext98/bsnte10.txt]
+   [Link: http://www.gutenberg.org/1/4/7/1473 ]
+   [Files: 1473.txt; 1473-h.htm]
+
+No Name, by Wilkie Collins                                                1438
+   [Updated edition of: etext98/nname10.txt]
+   [Link: http://www.gutenberg.org/1/4/3/1438 ]
+   [Files: 1438.txt; 1438-h.htm]
+
+A Treatise on Parents and Children, by George Bernard Shaw                 908
+   [Updated edition of: etext97/topac10.txt]
+   [Link: http://www.gutenberg.org/9/0/908 ]
+   [Files: 908.txt; 908-h.htm]
+
+Tono Bungay, by H. G. Wells                                                718
+   [Updated edition of: etext96/tonob10.txt]
+   [Link: http://www.gutenberg.org/7/1/718 ]
+   [Files: 718.txt; 718-h.htm]
+
+The Kreutzer Sonata and Other Stories, by Leo Tolstoi                      689
+   Contents:
+     Kreutzer Sonata
+     Ivan The Fool
+     A Lost Opportunity
+     Polikushka
+     The Candle
+   [Updated edition of: etext96/krson10.txt]
+   [Link: http://www.gutenberg.org/6/8/689 ]
+   [Files: 689.txt; 689-h.htm]
+
+Phil the Fiddler, by Horatio Alger, Jr                                     671
+   [Updated edition of: etext96/phidl10.txt]
+   [Link: http://www.gutenberg.org/6/7/671 ]
+   [Files: 671.txt; 671-h.htm]
+
+Paul the Peddler, by Horatio Alger, Jr                                     659
+   [Updated edition of: etext96/ptped10.txt]
+   [Subtitle: The Fortunes of a Young Street Merchant]
+   [Link: http://www.gutenberg.org/6/5/659 ]
+   [Files: 659.txt; 659-h.htm]
+
+Ponkapog Papers, by Thomas Bailey Aldrich                                  625
+   [Updated edition of: etext96/pnkpg10.txt]
+   [Link: http://www.gutenberg.org/6/2/625 ]
+   [Files: 625.txt; 625-h.htm]
+
+Joe The Hotel Boy, by Horatio Alger Jr                                     528
+   [Updated edition of: etext96/jothb10.txt]
+   [Link: http://www.gutenberg.org/5/2/528 ]
+   [Files: 528.txt; 528-h.htm]
+
+Ann Veronica, by H. G. Wells                                               524
+   [Updated edition of: etext96/anver10.txt]
+   [Link: http://www.gutenberg.org/5/2/524 ]
+   [Files: 524.txt; 524-h.htm]
+
+The Shuttle, by Frances Hodgson Burnett                                    506
+   [Updated edition of: etext96/tshutl10.txt]
+   [Link: http://www.gutenberg.org/5/0/506 ]
+   [Files: 506.txt; 506-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct Illustrator's name (Geldorp, not Geldrop):
+De Muis, by Wilhelm Busch                                                17637
+   [Subtitle: of de gestoorde nachtrust]
+   [Illustrator: P van Geldorp]
+   [Translator: Braga Jr.]
+   [Language: Dutch]
+
+
+-=-=-=-=[  48 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Marjorie at Seacote, by Carolyn Wells                                    18035
+   [Link: http://www.gutenberg.org/1/8/0/3/18035 ]
+   [Files: 18035.txt; 18035-8.txt; 18035-h.htm; ]
+
+Les loups de Paris, by Jules Lermina                                     18034
+   [Subtitle: II. Les assises rouges]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/3/18034 ]
+   [Files: 18034-8.txt; 18034-h.htm]
+
+The Boston Terrier and All About It, by Edward A. Axtell                 18033
+   [Subtitle: A Practical, Scientific, and Up to Date Guide to the Breeding]
+   [of the American Dog]
+   [Link: http://www.gutenberg.org/1/8/0/3/18033 ]
+   [Files: 18033.txt; 18033-h.htm; ]
+
+The Canadian Commonwealth, by Agnes C. Laut                              18032
+   [Link: http://www.gutenberg.org/1/8/0/3/18032 ]
+   [Files: 18032.txt; 18032-8.txt; ]
+
+A Dweller in Mesopotamia, by Donald Maxwell                              18031
+   [Subtitle: Being the Adventures of an Official Artist in the Garden of
+    Eden]
+   [Link: http://www.gutenberg.org/1/8/0/3/18031 ]
+   [Files: 18031.txt; 18031-8.txt; 18031-h.htm; ]
+
+Tintta Jaakko, by Pietari Paivarinta                                     18030
+   [Subtitle: Kuvaelma kansan elamasta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/0/3/18030 ]
+   [Files: 18030-8.txt]
+
+Les derniers Iroquois, by Emile Chevalier                                18029
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/2/18029 ]
+   [Files: 18029-8.txt; 18029-h.htm]
+
+Le chevalier d'Harmental, by Alexandre Dumas                             18028
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/2/18028 ]
+   [Files: 18028-8.txt; 18028-h.htm]
+
+Les cotillons celebres, by Emile Gaboriau                                18027
+   [Subtitle: Deuxieme Serie]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/2/18027 ]
+   [Files: 18027-8.txt; 18027-h.htm]
+
+Chronica de el-rei D. Affonso Henriques, by Duarte Galvao                18026
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/8/0/2/18026 ]
+   [Files: 18026-8.txt]
+
+The Story of Isaac Brock, by Walter R. Nursey                            18025
+   [Subtitle: Hero, Defender and Saviour of Upper Canada, 1812]
+   [Link: http://www.gutenberg.org/1/8/0/2/18025 ]
+   [Files: 18025.txt; 18025-8.txt; 18025-h.htm]
+
+Dictionnaire Argot-Franais, by Napoleon Hayard                          18024
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/2/18024 ]
+   [Files: 18024-8.txt; 18024-h.htm]
+
+In het Oerwoud en bij de Kannibalen op de Nieuwe Hebriden, Felix Speiser 18023
+   [Subtitle: De Aarde en haar Volken, 1918]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/0/2/18023 ]
+   [Files: 18023-8.txt; 18023-h.htm]
+
+Betty at Fort Blizzard, by Molly Elliot Seawell                          18022
+   [Illus.: Edmund Frederick]
+   [Link: http://www.gutenberg.org/1/8/0/2/18022 ]
+   [Files: 18022.txt; 18022-8.txt; 18022-h.htm; ]
+
+China and the Chinese, by Herbert Allen Giles                            18021
+   [Link: http://www.gutenberg.org/1/8/0/2/18021 ]
+   [Files: 18021.txt; 18021-8.txt; 18021-0.txt; 18021-h.htm]
+
+The Wits and Beaux of Society, by Grace Wharton and Philip Wharton       18020
+   [Subtitle: Volume 1]
+   [Link: http://www.gutenberg.org/1/8/0/2/18020 ]
+   [Files: 18020.txt; 18020-8.txt; 18020-h.htm]
+
+The Luckiest Girl in the School, by Angela Brazil                        18019
+   [Illus.: Balliol Salmon]
+   [Link: http://www.gutenberg.org/1/8/0/1/18019 ]
+   [Files: 18019.txt; 18019-8.txt; 18019-h.htm; ]
+
+The Free Press, by Hilaire Belloc                                        18018
+   [Link: http://www.gutenberg.org/1/8/0/1/18018 ]
+   [Files: 18018.txt; 18018-8.txt; 18018-h.htm; ]
+
+Om viljans frihet, by Frans von Scheele                                  18017
+   [Subtitle: Ett foredrag]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.org/1/8/0/1/18017 ]
+   [Files: 18017-8.txt; 18017-h.htm]
+
+In Het Rijk van Vulcaan, by R. A. van Sandick                            18016
+   [Subtitle: de Uitbarsting van Krakatau en Hare Gevolgen]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/0/1/18016 ]
+   [Files: 18016-8.txt; 18016-h.htm]
+
+Jean-nu-pieds, Vol. I, by Albert Delpit                                  18015
+   [Subtitle: chronique de 1832]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/1/18015 ]
+   [Files: 18015-8.txt; 18015-0.txt]
+
+Pile et face, by Lucien Biart                                            18014
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/1/18014 ]
+   [Files: 18014-8.txt; 18014-0.txt]
+
+Representation of Deities of the Maya Manuscripts, by Paul Schellhas     18013
+   [Subtitle: Papers of the Peabody Museum of American Archaeology and
+    Ethnology, Harvard University, Vol. 4, No. 1]
+   [Tr.: Selma Wesselhoeft and A. M. Parker]
+   [Link: http://www.gutenberg.org/1/8/0/1/18013 ]
+   [Files: 18013.txt; 18013-8.txt; 18013-h.htm; ]
+
+A.S.C.E. Transactions, Paper No. 1153, by E.B. Temple                    18012
+   [Title: Transactions of the American Society of Civil Engineers,
+    Vol. LXVIII, Sept. 1910]
+   [Subtitle: Paper No. 1153, The New York Tunnel Extension of the
+    Pennsylvania Railroad Meadows Division and Harrison Transfer Yard]
+   [Link: http://www.gutenberg.org/1/8/0/1/18012 ]
+   [Files: 18012.txt; 18012-8.txt; 18012-h.htm]
+
+The Portion of Labor, by Mary E. Wilkins Freeman                         18011
+   [Link: http://www.gutenberg.org/1/8/0/1/18011 ]
+   [Files: 18011.txt; 18011-8.txt; 18011-h.htm]
+
+Marie Gourdon, by Maud Ogilvy                                            18010
+   [Subtitle: A Romance of the Lower St. Lawrence]
+   [Link: http://www.gutenberg.org/1/8/0/1/18010 ]
+   [Files: 18010.txt; 18010-8.txt; 18010-h.htm; ]
+
+Sagittulae, Random Verses, by E. W. Bowling                              18009
+   [Link: http://www.gutenberg.org/1/8/0/0/18009 ]
+   [Files: 18009.txt; 18009-8.txt]
+
+L'Amuleto, by Neera                                                      18008
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/8/0/0/18008 ]
+   [Files: 18008-8.txt]
+
+More Songs From Vagabondia, by Bliss Carman and Richard Hovey            18007
+   [Link: http://www.gutenberg.org/1/8/0/0/18007 ]
+   [Files: 18007.txt; 18007-8.txt; 18007-h.htm]
+
+Le Chevalier de Maison-Rouge, by Alexandre Dumas                         18006
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/0/18006 ]
+   [Files: 18006-8.txt; 18006-h.htm]
+
+Los pazos de Ulloa, by Emilia Pardo Bazan                                18005
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/8/0/0/18005 ]
+   [Files: 18005-8.txt; 18005-h.htm]
+
+Told in a French Garden, by Mildred Aldrich                              18004
+   [Subtitle: August, 1914]
+   [Link: http://www.gutenberg.org/1/8/0/0/18004 ]
+   [Files: 18004.txt; 18004-8.txt; 18004-h.htm]
+
+La femme au collier de velours, by Alexandre Dumas                       18003
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/0/18003 ]
+   [Files: 18003-8.txt; 18003-h.htm]
+
+A Canadian Heroine, Volume 1, by Mrs. Harry Coghill                      18002
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/8/0/0/18002 ]
+   [Files: 18002.txt; 18002-8.txt; 18002-h.htm]
+
+The American Missionary, Volume 49, No. 4, April, 1895, by Various       18001
+   [Link: http://www.gutenberg.org/1/8/0/0/18001 ]
+   [Files: 18001.txt; 18001-h.htm]
+
+
+The Chief Legatee, by Anna Katherine Green                               17999
+   [Illus.: Frank T. Merrill]
+   [Link: http://www.gutenberg.org/1/7/9/9/17999 ]
+   [Files: 17999.txt; 17999-8.txt; 17999-h.htm; ]
+
+Before the War, by Viscount Richard Burton Haldane                       17998
+   [Link: http://www.gutenberg.org/1/7/9/9/17998 ]
+   [Files: 17998.txt; 17998-8.txt; 17998-h.htm; ]
+
+Contribution to Passamaquoddy Folk-Lore, by J. Walter Fewkes             17997
+   [Link: http://www.gutenberg.org/1/7/9/9/17997 ]
+   [Files: 17997.txt; 17997-8.txt; 17997-h.htm; ]
+
+Seven Against Thebes, by Aeschylus                                       17996
+   [Translator: Ioannis Gryparis]
+   [Language: Greek]
+   [Link: http://www.gutenberg.org/1/7/9/9/17996 ]
+   [Files: 17996-8.txt; 17996-0.txt; 17996-h.htm; 17996-pdf.pdf;
+    17996-rtf.rtf]
+   (Note: Charset of 17996-8: windows-1253)
+
+Electra, by Euripides                                                    17995
+   [Translator: Angelos Tanagras]
+   [Language: Greek]
+   [Link: http://www.gutenberg.org/1/7/9/9/17995 ]
+   [Files: 17995-8.txt; 17995-0.txt; 17995-h.htm; 17995-pdf.pdf]
+   (Note: Charset of 17995-8.txt: windows-1253)
+
+Punch, Vol. 159, November 3, 1920, ed. by Sir Owen Seaman                17994
+   [Link: http://www.gutenberg.org/1/7/9/9/17994 ]
+   [Files: 17994.txt; 17994-8.txt; 17994-h.htm]
+
+Young Peoples' History of the War with Spain, by Prescott Holmes         17993
+   [Link: http://www.gutenberg.org/1/7/9/9/17993 ]
+   [Files: 17993.txt; 17993-8.txt; 17993-h.htm]
+
+Le comte de Monte-Cristo, Tome IV, by Alexandre Dumas                    17992
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/9/17992 ]
+   [Files: 17992-8.txt; 17992-h.htm]
+
+Le comte de Monte-Cristo, Tome III, by Alexandre Dumas                   17991
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/9/17991 ]
+   [Files: 17991-8.txt; 17991-h.htm]
+
+Le comte de Monte-Cristo, Tome II, by Alexandre Dumas                    17990
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/9/17990 ]
+   [Files: 17990-8.txt; 17990-h.htm]
+
+Le comte de Monte-Cristo, Tome I, by Alexandre Dumas                     17989
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/9/8/17989 ]
+   [Files: 17989-8.txt; 17989-h.htm]
+
+Grace Harlowe's First Year at Overton College, by Jessie Graham Flower   17988
+   [Link: http://www.gutenberg.org/1/7/9/8/17988 ]
+   [Files: 17988.txt; 17988-h.htm; ]
+
+The Mound Builders, by George Bryce                                      17987
+   [Link: http://www.gutenberg.org/1/7/9/8/17987 ]
+   [Files: 17987.txt; 17987-h.htm; ]
+
+
+-=-=-=-=[ 9 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Mar 2006 Rain in the Doorway, by Thorne Smith              [060032xx.xxx] 0550A
+   [http://gutenberg.net.au/ebooks06/0600321.txt or .zip]
+
+Mar 2006 Skin and Bones, by Thorne Smith                   [060031xx.xxx] 0549A
+   [http://gutenberg.net.au/ebooks06/0600311.txt or .zip]
+
+Mar 2006 The Glorious Pool, by Thorne Smith                [060030xx.xxx] 0548A
+   [http://gutenberg.net.au/ebooks06/0600301.txt or .zip]
+
+Mar 2006 Turnabout, by Thorne Smith                        [060029xx.xxx] 0547A
+   [http://gutenberg.net.au/ebooks06/0600291.txt or .zip]
+
+Mar 2006 Topper Takes a Trip, by Thorne Smith              [060028xx.xxx] 0546A
+   [http://gutenberg.net.au/ebooks06/0600281.txt or .zip]
+
+Mar 2006 The Night Life of the Gods, by Thorne Smith       [060027xx.xxx] 0545A
+   [http://gutenberg.net.au/ebooks06/0600271.txt or .zip]
+
+Mar 2006 The Bishop's Jaegers, by Thorne Smith             [060026xx.xxx] 0544A
+   [http://gutenberg.net.au/ebooks06/0600261.txt or .zip]
+
+Mar 2006 The Stray Lamb, by Thorne Smith                   [060025xx.xxx] 0543A
+   [http://gutenberg.net.au/ebooks06/0600251.txt or .zip]
+
+Mar 2006 Topper, by Thorne Smith                           [060024xx.xxx] 0542A
+   [Title: The Jovial Ghosts: The Misadventures of Topper]
+   [http://gutenberg.net.au/ebooks06/0600241.txt or .zip
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2006/pgweekly_2006_03_22_part_2.txt" target="_blank" rel="nofollow">pgweekly_2006_03_22_part_2.txt</a>

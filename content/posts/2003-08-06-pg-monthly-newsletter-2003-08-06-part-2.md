@@ -1,0 +1,554 @@
+---
+params:
+  id: 1946
+title: "PG Monthly Newsletter: Part 2 (2003-08-06)"
+date: 2003-08-06T13:11:21+00:00
+author: Michael Cook
+layout: post
+url: /20030806/pg-monthly-newsletter-2003-08-06-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter 6th August 2003 Part 2
+eBooks Readable By Both Humans and Computers For Since 1971
+
+In this issue of the Project Gutenberg Monthly newsletter:
+
+1) Editorial
+2) News
+3) Radio Gutenberg update
+4) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.gutenberg.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+See below to learn how you can get INSTANT access to our eBooks via
+FTP servers even before the new eBooks listed below appear in our
+catalogue. The eBooks are posted throughout the week. You can even get
+daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+A small change this month, as the PG Newsletter goes to two parts. I
+have done this (executive decision) as one long one was just too
+long, knowing that ISPs tend to drop huge mails in the trash this
+seems to be the best solution.
+
+Happy reading,
+
+Alice
+
+(news@pglaf.org - Please note new address, although if you hit reply, the mail you
+send does not reach me and disappears into the ether.)
+
+We welcome feedback, critisism (of any kind), ebook reviews, featured
+author suggestions, writings and awkward questions at the address above.
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+2) News
+
+"The Future Of Project Gutenberg After Our 10,000th eBook"
+
+People have been asking me about the future of Project Gutenberg
+this week of our 32nd anniversary:  how long we could keep up in
+our efforts to continue at Moore's Law growth rates; grand total
+of books we could expect to do if nothing after the Mickey Mouse
+birthday in 1926 has a copyright expiration date, and our effort
+to do books in more and more languages and cultures, etc., etc.
+
+As for Moore's Law, this is a very difficult growth rate to keep
+up with these days, requiring that we continue to keep up with a
+growth rate approximately doubling every 18 months.  I make that
+"approximately" because since 1990, we are somewhat ahead of the
+Moore's Law growth curve, but just barely keeping up since 1993,
+when we ended with 100 eBooks in December.  The "official" date,
+given that we were a month ahead of schedule, was January, but I
+recall that eBook #100, the Complete Works of Shakespeare, would
+have been online overnight from December 10th to 11th, depending
+on what time zone you were in.  [Some people worked on it from a
+location in Hawaii, so we got a few extra hours.]
+
+Given that we were on a monthly production rate back then, exact
+dates weren't relevant, we only reported production on the first
+Wednesday of each month, so comparisons from today to then would
+not be terribly exact, other than on a monthly basis.
+
+However, _I_ still try to keep up with that December 10th date--
+it is an anniversary of my father's death--and he was an English
+professor who specialized in Shakespeare.
+
+My recollection is that Moore's Law would require something like
+10,700 and something by December 10, 2003, so I announced 10,000
+as our goal for that date, and figured we might get that 700 and
+some by the end of the year, but it's going to be close, on both
+counts, if you'll pardon the pun.
+
+The real questions for the future are about getting to a million
+by December 10, 2013, which is what it would take to keep up the
+growth rate for the next decade at the same rate as for the last
+decade of 1993 to 2003. . .100 times as many books each decade.
+
+Personally, I am hoping we could get enough funding and exposure
+after we get to 10,000 that we could actually DO 1,000,000 books
+in the next decade, but obviously another decade would mean that
+we would have to do 100,000,000 books, and that is probably more
+books than will exist 20 years from now.
+
+The solution is to tackle translating the one million books that
+are already done into one hundred languages. . .something I fear
+will put the Babelfish and Golden Bow projects to severe testing
+to see if they can provide anything as useful as scanners became
+10 years ago.  I should add here, that the first scanner I used,
+huge and expensive as it was, was NOT worth the time it took and
+I ended up coming back down here to my basement and typing books
+in from scratch.  Translation is MUCH harder!!!  I would HOPE it
+will be made a LOT easier by then!!!
+
+So, in a nutshell, there it is. . .my plans for two more decades
+of Project Gutenberg growing at Moore's Law growth rates.  Don't
+expect a simple crossover between doing new books and languages,
+I expect we will continue to encourage translations, to and from
+all 100 languages we eventually hope to work in, and that public
+domain legal standing may not quite suffer the complete disaster
+planned for it by the copyright authorities of today, and, thus,
+we might get to do some, or even most, of the publications after
+1923, including music, various kinds of artwork and perhaps even
+things we have not yet even considered for Project Gutenberg.
+
+Hollywood, RIAA, and Network Television notwithstanding, and not
+to leave out the paper tigers.
+
+***
+
+Here it is in numbers:
+
+December 10, 1990           10  Ten
+December 10, 1993          100  One Hundred
+December 10, 2003*      10,000  Ten Thousand
+December 10, 2013*   1,000,000  One Million
+December 10, 2023* 100,000,000  One Hundred Million
+
+*estimated
+
+
+The 100,000,000 for December 10, 2023 could be any mixtures made
+up of the following examples, or even include more options:
+
+1,000,000 eBooks, each in 100 languages
+2,000,000 eBooks, each in 50 languages
+4,000,000 eBooks, each in 25 languages
+5,000,000 eBooks, each in 20 languages
+
+I would like to see the core of our collection translated into 5
+languages in the next decade to gain some experience, perhaps:
+
+[Alphabetically]
+
+Chinese
+French
+German
+Spanish
+etc. . .
+
+Doesn't have to be the same 5 languages for each book we try.
+
+***
+
+When considering the future of Project Gutenberg, one should not
+only consider the number of books in our collection, but also an
+approximation of how many people we expect to get them.
+
+The original goal of Project Gutenberg was a multiple one:
+
+1.  To Encourage The Creation And Distribution Of eBooks.
+
+2.  To Create A Collection of 10,000 Project Gutenberg eBooks.
+
+3.  To Get Those 10,000 eBooks To 100,000,000 Readers On The Average,
+    TO GIVE AWAY A TOTAL OF ONE TRILLION = 1,000,000,000,000 eBooks.
+    [100,000,000 readers is about 1.5% of the world population today]
+
+When we accomplish this goal in about 5 months our goal will shift to
+creating a collection totalling 1,000,000 and getting them to readers
+totalling 1,000,000,000 = ONE BILLION READERS to give away a total of
+1,000,000,000,000,000 = ONE QUADRILLION eBOOKS TO BE GIVEN AWAY. . .!
+
+***
+
+We also have to consider movies, television, music, photography,
+etc., and we must therefore fine experts in the copyrights these
+have as they are NOT the same as for written texts.
+
+In addition, we will be moving into the area of doing more books
+from before 1923, and thus doing research on copyright renewals.
+
+***
+
+In addition, I have been asked to address the question of formats:
+
+Project Gutenberg always has promoted plain text eBooks to make books
+available in the widest possible combinations of hardware & software,
+and we will continue to do so.  We ARE considering various formats in
+addition to plain text, and also considering doing something XMLish--
+that may allow the creation of a wide variety of formats "on the fly"
+if we can manage it.  Yes, we do have ONE eBooks that we posted ONLY!
+in 8 bit format, as the volunteer did not want the French without the
+proper accents.  Eventually that book will probably also appear in an
+ordinary plain text format, but I promised it would have to come from
+an outside source, as we promised we would abide by his wishes.  This
+is just one mark of dedication to the Project Gutenberg volunteers, I
+try not to be very bossy, as I think our volunteer should enjoy eBook
+creation and distribution from start to finish.
+
+!!!!!!!My HUGE Thanks To ALL Our Volunteers!!!!!!!
+
+Michael
+
+                    -------------------
+
+Amazon Says They Want To "Partner" With Project Gutenberg
+
+Amazon Has Asked For Our Help With This, What Do YOU Think We Should Do?
+
+AMAZON TO ADD TEXT-SEARCHING FEATURE
+Amazon.com is working on a new program to offer users the ability to
+search thousands of nonfiction books. In the Look Inside the Book II
+program, users would not be able to view the entirety of any text but
+could search for words or phrases across many thousands of texts. The
+results would show the sentence where the term appears, and users could
+expand that sentence to see several pages before and after the term.
+Amazon is currently negotiating with many large publishing houses to
+make content available in the program, which Amazon argues will be an
+incentive for customers to buy more books. Most of the publishers
+Amazon has talked to have reportedly been interested in the program,
+though they are concerned about exposing too much of their material.
+Users who were able to see just a few pages of reference books and
+cookbooks, for example, might see all they need to see and not buy the
+book.
+New York Times, 21 July 2003 (registration req'd)
+http://www.nytimes.com/2003/07/21/technology/21AMAZ.html
+
+
+This is an article run in Edupage. Project Gutenberg has
+been invited to join in with this project, and we would like to know
+what YOU think. You can mail us either here at the newsletter
+news@pglaf.org, or you can mail Michael Hart directly at
+hart@beryl.ils.unc.edu with the subject Amazon (this makes sorting the
+mail simpler, thanks)
+
+
+                    -------------------
+
+Innovations for PG Newsletter
+
+So you missed last months newsletter, it is holiday season after
+all. Your inbox is full to overflowing and due to it's huge size your
+ISP drops the PG newsletter straight in the trashcan. Whaaa!!!
+
+Help is at hand, with the all new Project Gutenberg Newsletter
+Website. Yes finally! Check out that review you missed three weeks
+ago, find out what's on at RG and get last months booklist along with
+the latest news from PG. All available at
+
+http://ibiblio.org/gutenberg/newsletter/index.html
+
+
+Snappy eh?
+
+
+Also, (and this is nothing to do with me, but it really looks
+interesting), if you have a PDA you may be interested in
+
+http://www.xecu.net/bcollins/PGEZINE.HTM
+
+
+                    -------------------
+
+The Beagle has landed
+
+
+"Fancy a trip to Milton Keynes*?"
+
+"Why?"
+
+"To go and see a man about a log"
+
+"Plenty of trees in the park, don't need to go there"
+
+"Wrong sort of log"
+
+"What other sort is there?"
+
+
+Well, how about a ships log, in this case, the spacecraft type. Thanks
+to Radio Gutenberg, the team at Milton Keynes has granted the use and
+broadcast of the log of the Beagle Lander. Beagle is just part of the
+Mars Express mission to Mars that took off from Kazakstan in
+June. Beagle is due to land on Mars on December 25th, so hopefully,
+shortly afterwards we will be off to collect the first instalment.
+
+
+
+* After many surveys, we believe this to be the equivalent of taking a
+  trip to any one of the following places:
+
+Adelaide, Australia
+Etal, Germany (summer only)
+Hanover, Germany
+Northampton, UK
+Waterloo, Ontario
+Sackville, New Brunswick
+St. Johns, Newfoundland
+Enid, Oklahoma
+Boring, Oregon
+Rockford, Illinois
+Newark, New Jersey (the UK version also counts)
+Springflake, New Jersey
+Akron, Ohio (although we disagree with this one, but we've never been
+there)
+Oracle, Arizona
+Des Moines (possibly)
+New York City
+Hawaii (Yes, really)
+
+and the entire state of Pennsylvannia
+
+Our advice - take a book.
+
+
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://www.gutenberg.net allows searching by title, author, language
+and subject. Mirrors (copies) of the complete collection are available
+around the world.
+
+
+These sites and indices are not updated instantly, as additional
+research may need to be done by our professional Chief Cataloguer, so
+for those who wish to obtain these new ebooks, please refer to the
+following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+3) Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+Radio Gutenberg has moved!
+
+This week RG is running AEsop's Fables on channel 1 and The Lion, the
+Witch and the Wardrobe on channel 2.
+
+If you are interested in creating a slide-show with a soundtrack
+from your favourite book, or piece of literature please mail us here
+at news@pglaf.org and we will pass your message on.
+
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. An example of
+the changed listing is given below. If you would like either a daily
+or weekly version of this list please email news@pglaf.org, and state
+which version you require.
+
+{Note to the unwary: this is an example.}
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Please visit the site:
+http://www.pgdp.net for more information about how you can
+help, by proofreading just a few pages per day.
+
+ If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+ Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned)." Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+********
+
+Do you like to work on an entire book at once but don't have the time or
+technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution! Send email to
+dphelp@pgdp.net saying that you are interested in post-processing and we
+will help you find a project to work on.
+
+----------------------------------------------------------------------
+
+4) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Mark for the beer, no computers this week - too 'ot, Greg,
+Michael, and Larry Wall. Entertainment for the workers provided by BBC 6music.
+</pre>
+
+<a href="/nl_archives/2003/pgmonthly_2003_08_06_part_2.txt" target="_blank" rel="nofollow">pgmonthly_2003_08_06_part_2.txt</a>

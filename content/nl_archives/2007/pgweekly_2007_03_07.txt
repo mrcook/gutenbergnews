@@ -1,0 +1,759 @@
+pgweekly_2007_03_07.txt
+The Project Gutenberg Weekly Newsletter for Wednesday, March 7, 2007
+****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, i.e. Courier New.
+      Windows NotePad is a good a program to use for viewing.
+
+
+THIS WEEKS NEWS
+---------------
+
+MANY HAPPY RETURNS to Michael Hart on his 60th birthday! (8-March 2007)
+
+
+DAYLIGHT SAVING TIME - Changes for U.S.A. from 2007
+
+Beginning in 2007, Daylight Saving Time is brought forward by 3 or 4 weeks in
+Spring and extended by one week in the Fall.  The schedule for the states of
+the United States that adopt daylight saving time will be: 2 a.m. on the
+second Sunday of March. Time will revert to standard time at 2 a.m. on the
+first Sunday in November.
+
+Daylight Saving Time, for the U.S. and its territories, is NOT observed in
+Hawaii, American Samoa, Guam, Puerto Rico, the Virgin Islands and the state
+of Arizona (not the Navajo Indian Reservation, which does observe). Navajo
+Nation participates in the Daylight Saving Time policy, due to its large size
+and location in three states.
+
+Daylight Saving Time Schedule USA 2007:
+
+ * Start: Second Sunday in March
+ *   End: First Sunday in November
+ *  Time: 2 a.m. local time
+
+
+POLL: SHOULD PG 'OFFICIALLY' ADOPT A XML, TEI OR SIMILAR MASTER FILE?
+
+On the PG-News website I've been running a POLL to find out if people think
+PG should 'officially' adopt a XML, TEI or similar Master File format for
+their eBooks. Here are the results so far;
+
+YES, this is a must!
+  5 (83.3%)
+
+NO, we should stick with Plain-Vanilla ASCII files.
+  1 (16.7%)
+
+It's really not that important.
+  0 (0%)
+
+I haven't a clue what you're talking about.
+  0 (0%)
+
+Although there are not many votes in yet, there is an 83% vote in favour of
+adopting a Master File format.
+
+I will be running the POLL for a couple of more weeks, if you wish to vote
+please visit the PG-News homepage: https://www.gutenbergnews.org
+
+
+NEWS HEADLINES -- Visit www.gutenbergnews.org to read the following news items.
+
+* Daylight Saving Time changes for U.S.A. from 2007
+* University of Illinois joins the Open Content Alliance
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the Volunteers Wanted! Section at:
+
+https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+  * Our Distributed Proof Readers Need...
+  * Project Gutenberg Is Seeking Legal Beagles
+  * Graphics needed for PG website and publicity materials
+  * Turn eBooks into MP3
+  * Project Gutenberg Needs DVD Burners
+  * "SF" for PG Australia
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #063/364 | Week: #09 | Month: #02.25
+301 days / 43 weeks of the year remaining.
+
+GRAND TOTALS
+
+20,719 [+ 76] PG U.S.
+ 1,487 [+  5] PG Australia
+    67 [+  1] PG Europe 'Unique' | 424 [+ 1] Total (See NOTES)
+   381 [+  0] PG PrePrints
+============
+22,654 [+ 82] GRAND TOTAL
+
+    44 - Reserved/Pending
+
+ 7,346 to go to 30,000 eBooks.
+
+  ~76% of the way to 30,000
+  ~27% of the way from 20,000 to 30,000
+
+ 1,884 [+ 3] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+  504 PG U.S.
+   33 PG Australian
+    4 PG Europe 'Unique' | 16 Total (See NOTES)
+    0 PG PrePrints
+=====
+  541 TOTAL [2007]
+
+   16 eBooks REposted to the new filing system.
+
+    * 55 new eBooks last week
+
+    * 82 new eBooks in March
+    *199 new eBooks in February
+    *260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+   * 60 per week in 2007
+   * 80 per week in 2006
+   * 58 per week in 2005
+   * 78 per week in 2004
+   * 79 per week in 2003
+   * 47 per week in 2002
+   * 24 per week in 2001
+
+Monthly Averages:
+
+   * 241 per month in 2007
+   * 346 per month in 2006
+   * 251 per month in 2005
+   * 338 per month in 2004
+   * 348 per month in 2003
+   * 203 per month in 2002
+   * 104 per month in 2001
+
+Yearly Totals:
+
+   * 4146 new eBooks in 2006
+   * 3017 new eBooks in 2005
+   * 4058 new eBooks in 2004
+   * 4176 new eBooks in 2003
+   * 2432 new eBooks in 2002
+   * 1244 new eBooks in 2001
+
+   * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a speadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non
+U.S. clearable books posted to PG-EU only. Please note that only the
+non-clearable ('Unique') eBooks are counted toward the Grand Total and not
+the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may
+move later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+9,990 [+40] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and currently
+has over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and
+currently has over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process
+of manually re-posting those eBooks originally posted prior to Nov 2003 to the
+new filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+---------[   3 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been manually updated and reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+The Merry Men, by Robert Louis Stevenson                                   344
+   [Subtitle: and Other Tales and Fables]
+   [Updated edition of: etext95/mrmen10.txt]
+   [Link: http://www.gutenberg.org/3/4/344 ]
+   [Files: 344.txt; 344-h.htm]
+
+Fables, by Robert Louis Stevenson                                          343
+   [Link: http://www.gutenberg.org/3/4/343 ]
+   [Updated edition of: etext95/fbrls10.txt]
+   [Files: 343.txt; 343-h.htm]
+
+Father Damien, by Robert Louis Stevenson                                   281
+   [Subtitle: an Open Letter to the Reverend Dr. Hyde of Honolulu]
+   [Link: http://www.gutenberg.org/2/8/281 ]
+   [Files: 281.txt; 281-h.htm]
+
+---------[   2 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Copyright information corrected.
+Alice's Abenteuer im Wonderland, by Lewis Carroll                        19778
+  [Illustrator: John Tenniel]
+  [Translator: Antonie Zimmerman]
+  [Language: German]
+  [Link: http://www.gutenberg.org/1/9/7/7/19778 ]
+  [Updated edition of: 19778-8.txt, and 19778-h.htm]
+  [Files: 19778-8.txt; 19778-h.htm]
+
+PG-AUS - Added illustrated html file.
+Mar 2007 Seven Pillars of Wisdom, by T. E. Lawrence        [010011xx.xxx] 0011A
+http://gutenberg.net.au/ebooks01/0100111h.html
+
+
+---------[  76 NEW PG EBOOK(S) ]------------------------------------------------
+
+Carpentry for Boys, by J. S. Zerbe                                       20763
+  [Subtitle: In a Simple Language, Including Chapters on Drawing, Laying
+             Out Work, Designing and Architecture With 250 Original
+             Illustrations]
+  [Link: http://www.gutenberg.org/2/0/7/6/20763 ]
+  [Files: 20763.txt; 20763-8.txt; 20763-h.htm]
+
+Chancellorsville and Gettysburg, by Abner Doubleday                      20762
+  [Subtitle: Campaigns of the Civil War - VI]
+  [Link: http://www.gutenberg.org/2/0/7/6/20762 ]
+  [Files: 20762.txt; 20762-8.txt]
+
+Histoires extraordinaires, by Edgar Allan Poe                            20761
+  [Translator: Charles Baudelaire]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/7/6/20761 ]
+  [Files: 20761-8.txt; 20761-0.txt; 20761-h.htm]
+
+Iloisia juttuja II, by Kaapro Jääskeläinen                               20760
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/0/7/6/20760 ]
+  [Files: 20760-8.txt]
+
+Punch, or the London Charivari, Volume 103, December 10, 1892, Various   20759
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.org/2/0/7/5/20759 ]
+  [Files: 20759.txt; 20759-8.txt; 20759-h.htm]
+
+The Religion of Babylonia and Assyria, by Morris Jastrow                 20758
+   [Link: http://www.gutenberg.org/2/0/7/5/20758 ]
+   [Files: 20758.txt; 20758-8.txt; 20758-h.htm]
+
+Rabbi and Priest, by Milton Goldsmith                                    20756
+  [Subtitle: A Story]
+  [Link: http://www.gutenberg.org/2/0/7/5/20756 ]
+  [Files: 20756.txt; 20756-8.txt; 20756-h.htm; ]
+  [Clearance: 20060929230749goldsmith]
+
+Short Studies on Great Subjects, by James Anthony Froude                 20755
+  [Link: http://www.gutenberg.org/2/0/7/5/20755 ]
+  [Files: 20755.txt; 20755-8.txt; 20755-h.htm]
+
+The Blunders of a Bashful Man, by Metta Victoria Full Victor             20754
+  [Link: http://www.gutenberg.org/2/0/7/5/20754 ]
+  [Files: 20754.txt; 20754-8.txt; 20754-h.htm]
+
+The Wonder Island Boys:  The Tribesmen, by Roger Finlay                  20753
+  [Link: http://www.gutenberg.org/2/0/7/5/20753 ]
+  [Files: 20753.txt; 20753-h.htm]
+
+The Journal of Negro History, Volume 2, 1917, by Various                 20752
+  [Link: http://www.gutenberg.org/2/0/7/5/20752 ]
+  [Files: 20752.txt; 20752-8.txt; 20752-h.htm]
+
+Priestley in America, by Edgar F. Smith                                  20751
+  [Subtitle: 1794-1804]
+  [Link: http://www.gutenberg.org/2/0/7/5/20751 ]
+  [Files: 20751.txt; 20751-8.txt; 20751-h.htm]
+
+Journal of the Proceedings of the Linnean Society - Vol. 3, by Various   20750
+  [Subtitle: Zoology]
+  [Link: http://www.gutenberg.org/2/0/7/5/20750 ]
+  [Files: 20750.txt; 20750-8.txt; 20750-h.htm]
+
+St. Ronan's Well, by Sir Walter Scott                                    20749
+  [Link: http://www.gutenberg.org/2/0/7/4/20749 ]
+  [Files: 20749.txt; 20749-8.txt; 20749-h.htm]
+
+Favorite Fairy Tales, by Logan Marshall                                  20748
+   [Link: http://www.gutenberg.org/2/0/7/4/20748 ]
+   [Files: 20748.txt; 20748-h.htm]
+
+Deaconesses in Europe, by Jane M. Bancroft                               20747
+  [Subtitle: and their Lessons for America]
+  [Link: http://www.gutenberg.org/2/0/7/4/20747 ]
+  [Files: 20747.txt; 20747-8.txt; 20747-h.htm]
+
+The Home, by Fredrika Bremer                                             20746
+  [Translator: Mary Howitt]
+  [Link: http://www.gutenberg.org/2/0/7/4/20746 ]
+  [Files: 20746.txt; 20746-8.txt; 20746-h.htm]
+
+An Outcast, by F. Colburn Adams                                          20745
+  [Subtitle: or, Virtue and Faith]
+  [Link: http://www.gutenberg.org/2/0/7/4/20745 ]
+  [Files: 20745.txt; 20745-8.txt; 20745-h.htm]
+
+Mary S. Peake, by Lewis C. Lockwood                                      20744
+  [Subtitle: The Colored Teacher at Fortress Monroe]
+  [Link: http://www.gutenberg.org/2/0/7/4/20744 ]
+  [Files: 20744.txt; 20744-8.txt; 20744-h.htm]
+
+The Marx He Knew, by John Spargo                                         20743
+  [Link: http://www.gutenberg.org/2/0/7/4/20743 ]
+  [Files: 20743.txt; 20743-h.htm]
+
+O May I Join the Choir Invisible!, by George Eliot                       20742
+   [Subtitle: and Other Favorite Poems]
+   [Link: http://www.gutenberg.org/2/0/7/4/20742 ]
+   [Files: 20742.txt; 20742-h.htm]
+
+The Adventures of a Dog, and a Good Dog Too, by Alfred Elwes             20741
+  [Link: http://www.gutenberg.org/2/0/7/4/20741 ]
+  [Files: 20741.txt; 20741-8.txt; 20741-h.htm]
+
+Myths and Legends of All Nations, by Various                             20740
+  [Subtitle: Famous Stories from the Greek, German, English, Spanish,
+       Scandinavian, Danish, French, Russian, Bohemian, Italian
+       and other sources]
+  [Editor: Logan Marshall]
+  [Translator: Logan Marshall]
+  [Link: http://www.gutenberg.org/2/0/7/4/20740 ]
+  [Files: 20740.txt; 20740-8.txt; 20740-0.txt; 20740-h.htm]
+
+Rebels of the Red Planet, by Charles Louis Fontenay                      20739
+  [Link: http://www.gutenberg.org/2/0/7/3/20739 ]
+  [Files: 20739.txt; 20739-8.txt; 20739-h.htm]
+
+Diccionario Ingles-Español-Tagalog, by Sofronio G. Calderon              20738
+  [Subtitle: Con partes de la oracion y pronuciacion figurada]
+  [Language: Spanish, English and Tagalog]
+  [Link: http://www.gutenberg.org/2/0/7/3/20738 ]
+  [Files: 20738-8.txt; 20738-h.htm]
+
+Madge Morton's Secret, by Amy D. V. Chalmers                             20737
+  [Link: http://www.gutenberg.org/2/0/7/3/20737 ]
+  [Files: 20737.txt; 20737-h.htm; ]
+  [Clearance: 20060109185601chalmers]
+
+The Girl Scouts at Home, by Katherine Keene Galt                         20736
+  [Subtitle: or Rosanna's Beautiful Day]
+  [Link: http://www.gutenberg.org/2/0/7/3/20736 ]
+  [Files: 20736.txt; 20736-h.htm; ]
+  [Clearance: 20060310212042galt]
+
+Mrs. Mary Eales's receipts. (1733), by Mary Eales                        20735
+  [Link: http://www.gutenberg.org/2/0/7/3/20735 ]
+  [Files: 20735.txt; 20735-h.htm]
+
+Roman Antiquities, and Ancient Mythology, by Charles K. Dillaway         20734
+  [Subtitle: For Classical Schools (2nd ed)]
+  [Link: http://www.gutenberg.org/2/0/7/3/20734 ]
+  [Files: 20734.txt; 20734-8.txt; 20734-0.txt; 20734-h.htm]
+
+Critical Miscellanies (Vol. 1 of 3), by John Morley                      20733
+  [Subtitle: Essay 1: Robespierre]
+  [Link: http://www.gutenberg.org/2/0/7/3/20733 ]
+  [Files: 20733.txt; 20733-8.txt; 20733-h.htm]
+
+The Carmina of Caius Valerius Catullus, by Caius Valerius Catullus       20732
+  [Translator: Richard  Burton
+              Leonard  Smithers]
+  [Link: http://www.gutenberg.org/2/0/7/3/20732 ]
+  [Files: 20732.txt; 20732-8.txt; 20732-h.htm]
+
+Quiet Talks on Power, by S.D. Gordon                                     20731
+  [Link: http://www.gutenberg.org/2/0/7/3/20731 ]
+  [Files: 20731.txt; 20731-8.txt; 20731-h.htm]
+
+For the Sake of the School, by Angela Brazil                             20730
+  [Link: http://www.gutenberg.org/2/0/7/3/20730 ]
+  [Files: 20730.txt; 20730-8.txt; 20730-h.htm; ]
+  [Clearance: 20060819210111brazil]
+
+At the Point of the Bayonet, by G. A. Henty                              20729
+  [Subtitle: A Tale of the Mahratta War]
+  [Ill.: Wal Page]
+  [Link: http://www.gutenberg.org/2/0/7/2/20729 ]
+  [Files: 20729.txt; 20729-h.htm; ]
+  [Clearance: 20070228125858henty]
+
+Space Viking, by Henry Beam Piper                                        20728
+   [Link: http://www.gutenberg.org/2/0/7/2/20728 ]
+   [Files: 20728.txt; 20728-8.txt; 20728-h.htm]
+
+The Cosmic Computer, by Henry Beam Piper                                 20727
+   [Link: http://www.gutenberg.org/2/0/7/2/20727 ]
+   [Files: 20727.txt; 20727-h.htm]
+
+A Slave is a Slave, by Henry Beam Piper                                  20726
+   [Link: http://www.gutenberg.org/2/0/7/2/20726 ]
+   [Files: 20726.txt; 20726-h.htm]
+
+Os Primeiros Amores de Bocage, by José da Silva Mendes Leal              20725
+   [Subtitle: Comedia em Cinco Actos]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/0/7/2/20725 ]
+   [Files: 20725-8.txt]
+
+The Man With The Broken Ear, by Edmond About                             20724
+   [Translator: Henry Holt]
+   [Link: http://www.gutenberg.org/2/0/7/2/20724 ]
+   [Files: 20724.txt; 20724-8.txt; 20724-h.htm]
+
+Little Cinderella, by Anonymous                                          20723
+   [Link: http://www.gutenberg.org/2/0/7/2/20723 ]
+   [Files: 20723.txt; 20723-h.htm]
+
+A Little Girl in Old Salem, by Amanda Minnie Douglas                     20722
+  [Link: http://www.gutenberg.org/2/9/7/2/29722 ]
+  [Files: 20722.txt; 20722-8.txt; 20722-h.htm; ]
+  [Clearance: 20051021203654douglas]
+
+A Little Girl in Old Detroit, by Amanda Minnie Douglas                   20721
+  [Link: http://www.gutenberg.org/2/0/7/2/20721 ]
+  [Files: 20721.txt; 20721-8.txt; 20721-h.htm; ]
+  [Clearance: 20050722124812douglas]
+
+Les joyeuses Bourgeoises de Windsor, by William Shakespeare              20720
+  [Translator: François Pierre Guillaume Guizot]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/7/2/20720 ]
+  [Files: 20720-8.txt; 20720-h.htm]
+
+Under the Country Sky, by Grace S. Richmond                              20719
+  [Illustrator: Frances Rogers]
+  [Link: http://www.gutenberg.org/2/0/7/1/20719 ]
+  [Files: 20719.txt; 20719-8.txt; 20719-h.htm]
+
+The Damsel and the Sage, by Elinor Glyn                                  20718
+  [Subtitle: A Woman's Whimsies]
+  [Link: http://www.gutenberg.org/2/0/7/1/20718 ]
+  [Files: 20718.txt; 20718-8.txt; 20718-h.htm]
+
+The Girl on the Boat, by Pelham Grenville Wodehouse                      20717
+  [Link: http://www.gutenberg.org/2/0/7/1/20717 ]
+  [Files: 20717.txt; 20717-8.txt; 20717-h.htm]
+
+The Tale of Timothy Turtle, by Arthur Bailey                             20716
+  [Illustrator: Harry Smith]
+  [Link: http://www.gutenberg.org/2/0/7/1/20716 ]
+  [Files: 20716.txt; 20716-h.htm]
+
+Marriage and Love, by Emma Goldman                                       20715
+   [Link: http://www.gutenberg.org/2/0/7/1/20715 ]
+   [Files: 20715.txt; 20715-8.txt; 20715-h.htm]
+
+Other Main-Travelled Roads, by Hamlin Garland                            20714
+   [Link: http://www.gutenberg.org/2/0/7/1/20714 ]
+   [Files: 20714.txt; 20714-8.txt; 20714-h.htm]
+
+A Campfire Girl's First Council Fire, by Jane L. Stewart                 20713
+   [Subtitle: The Camp Fire Girls In the Woods]
+   [Link: http://www.gutenberg.org/2/0/7/1/20713 ]
+   [Files: 20713.txt; 20713-h.htm]
+
+Trail's End, by George W. Ogden                                          20712
+  [Author AKA: George Washington Ogden (1871-1966)]
+  [Ill.: P. V. E. Ivory]
+  [Link: http://www.gutenberg.org/2/0/7/1/20712 ]
+  [Files: 20712.txt; 20712-8.txt; 20712-h.htm; ]
+  [Clearance: 20060310131539ogden]
+
+Daily Thoughts, by Charles Kingsley                                      20711
+   [Editor: Fanny Kingsley]
+   [Subtitle: selected from the writings of Charles Kingsley by his wife]
+   [Link: http://www.gutenberg.org/2/0/7/1/20711 ]
+   [Files: 20711.txt; 20711-h.htm]
+
+Pluck on the Long Trail, by Edwin L. Sabin                               20710
+  [Author AKA: Edwin Legrand Sabin (1870-1952)]
+  [Subtitle: Boy Scouts in the Rockies]
+  [Ill.: Clarence H. Rowe]
+  [Link: http://www.gutenberg.org/2/0/7/1/20710 ]
+  [Files: 20710.txt; 20710-8.txt; 20710-h.htm; ]
+  [Clearance: 20060521194523sabin]
+
+From Pole to Pole, by Sven Anders Hedin                                  20709
+  [Subtitle: A Book for Young People]
+  [Link: http://www.gutenberg.org/2/0/7/0/20709 ]
+  [Files: 20709.txt; 20709-8.txt; 20709-h.htm; ]
+  [Clearance: 20060321011744hedin]
+
+A Son of the City, by Herman Gastrell Seely                              20708
+  [Subtitle: A Story of Boy Life]
+  [Ill.: Fred J. Arting]
+  [Link: http://www.gutenberg.org/2/0/7/0/20708 ]
+  [Files: 20708.txt; 20708-8.txt; 20708-h.htm; ]
+  [Clearance: 20060616062335seely]
+
+Audio: Sarrasine by Honoré de Balzac                                     20691
+    [Audio reading by Chip ]
+    [Link: http://www.gutenberg.org/2/0/6/9/20691 ]
+  [Files: 20691.txt; 20691-mp3.mp3; 20691-ogg.ogg; 20691-m4b.m4b; 20691-spx.spx]
+
+Audio: Livre de Ruth by Unknown                                          20690
+    [Language: French ]
+    [Audio reading by Ezwa ]
+    [Link: http://www.gutenberg.org/2/0/6/9/20690 ]
+  [Files: 20690.txt; 20690-mp3.mp3; 20690-ogg.ogg; 20690-m4b.m4b; 20690-spx.spx]
+
+Audio: Ragged Dick by Horatio Alger, Jr.                                 20689
+    [Audio reading by Alys Attewater ]
+    [Link: http://www.gutenberg.org/2/0/6/8/20689 ]
+  [Files: 20689.txt; 20689-mp3.mp3; 20689-ogg.ogg; 20689-m4b.m4b; 20689-spx.spx]
+
+Audio: Psalms - Selections from the World English Bible Translation      20688
+    by Unknown
+    [Audio reading by Mark F. Smith, Martin Clifton, Stefan Schmelz,
+          Kelly Kilgore, Laura Fox, Catharine Eastman, Brett Shand,
+          Jennfier Ghosh, Annie Coleman ]
+    [Link: http://www.gutenberg.org/2/0/6/8/20688 ]
+  [Files: 20688.txt; 20688-mp3.mp3; 20688-ogg.ogg; 20688-m4b.m4b; 20688-spx.spx]
+
+Audio: Pride and Prejudice by Jane Austen                                20687
+    [Audio reading by Chris Goringe, Kara Shallenberg, Kristen McQuillin,
+          suburbanbanshee, Gord Mackenzie, Sureka Goringe, Mark Bradford,
+          Annie Coleman, Elisabeth Shields, Sherry Crowther,
+          PenelopePitstop, Gesine, Eileen aka e, ajikan81 ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20687 ]
+  [Files: 20687.txt; 20687-mp3.mp3; 20687-ogg.ogg; 20687-m4b.m4b; 20687-spx.spx]
+
+Audio: Pride and Prejudice by Jane Austen                                20686
+    [Audio reading by Annie Coleman ]
+    [Link: http://www.gutenberg.org/2/0/6/8/20686 ]
+  [Files: 20686.txt; 20686-mp3.mp3; 20686-ogg.ogg; 20686-m4b.m4b; 20686-spx.spx]
+
+Audio: Poetics by Aristotle                                              20685
+    [Audio reading by Robert Foster ]
+    [Link: http://www.gutenberg.org/2/0/6/8/20685 ]
+  [Files: 20685.txt; 20685-mp3.mp3; 20685-ogg.ogg; 20685-m4b.m4b; 20685-spx.spx]
+
+Audio: Peterchens Mondfahrt by Gerdt von Bassewitz                       20684
+    [Audio reading by Franziska Nelson ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20684 ]
+  [Files: 20684.txt; 20684-mp3.mp3; 20684-ogg.ogg; 20684-m4b.m4b; 20684-spx.spx]
+
+Audio: Oku no Hosomichi by Matsuo Bash?                                  20683
+    [Audio reading by kaseumin ]
+    [Language: Japanese ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20683 ]
+  [Files: 20683.txt; 20683-mp3.mp3; 20683-ogg.ogg; 20683-m4b.m4b; 20683-spx.spx]
+
+Audio: Northanger Abbey by Jane Austen                                   20682
+    [Audio reading by Kara Shallenberg, Patricia Oakley, Vlooi,
+          travelbratd, Inka, Cori Samuel, Gesine, Sage, Kristin Luoma,
+          Heather Barnett, Acrobatty, wolvrin, Nocturna, Asaf Bartov,
+          Kristen McQuillin, Vicki Barbour, Beth Dudek, Leo Vegoda ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20682 ]
+  [Files: 20682.txt; 20682-mp3.mp3; 20682-ogg.ogg; 20682-m4b.m4b; 20682-spx.spx]
+
+Audio: Matthew by Matthew the Evangelist                                 20681
+    [Audio reading by Maria Elmvang ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20681 ]
+  [Files: 20681.txt; 20681-mp3.mp3; 20681-ogg.ogg; 20681-m4b.m4b; 20681-spx.spx]
+
+Audio: The Key of Gold: 23 Czech Folk Tales                              20680
+    translated by Joseph Bandis
+    [Audio reading by Maria Celano, Brian Knapp, Jessica Orlando,
+          Peter Yearsley, Christiane Levesque, Maddie, Alys Attewater,
+          Kelley Bescherer, Elizabeth Palmer ]
+  [Link: http://www.gutenberg.org/2/0/6/8/20680 ]
+  [Files: 20680.txt; 20680-mp3.mp3; 20680-ogg.ogg; 20680-m4b.m4b; 20680-spx.spx]
+
+Audio: The Heavenly Life by James Allen                                  20679
+    [Audio reading by Gabriel ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20679 ]
+  [Files: 20679.txt; 20679-mp3.mp3; 20679-ogg.ogg; 20679-m4b.m4b; 20679-spx.spx]
+
+Audio: God and the State by Mikhail Bakunin                              20677
+    [Audio reading by CarlManchester ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20677 ]
+  [Files: 20677.txt; 20677-mp3.mp3; 20677-ogg.ogg; 20677-m4b.m4b; 20677-spx.spx]
+
+Audio: Genesis by Moses                                                  20676
+    [Audio reading by Israel Radvinsky ]
+    [Language: Hebrew ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20676 ]
+  [Files: 20676.txt; 20676-mp3.mp3; 20676-ogg.ogg; 20676-m4b.m4b; 20676-spx.spx]
+
+Audio: Galatians by Paul                                                 20675
+    [Audio reading by Michael Nelson ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20675 ]
+  [Files: 20675.txt; 20675-mp3.mp3; 20675-ogg.ogg; 20675-m4b.m4b; 20675-spx.spx]
+
+Audio: The Triumphs of Eugene Valmont by Robert Barr                     20674
+    [Audio reading by Czechchris ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20674 ]
+  [Files: 20674.txt; 20674-mp3.mp3; 20674-ogg.ogg; 20674-m4b.m4b; 20674-spx.spx]
+
+Audio: Emma by Jane Austen                                               20673
+    [Audio reading by Sherry Crowther ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20673 ]
+  [Files: 20673.txt; 20673-mp3.mp3; 20673-ogg.ogg; 20673-m4b.m4b; 20673-spx.spx]
+
+Audio: The Saga of Eirik the Red by Anonymous                            20672
+    [Audio reading by Julian Jamison ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20672 ]
+  [Files: 20672.txt; 20672-mp3.mp3; 20672-ogg.ogg; 20672-m4b.m4b; 20672-spx.spx]
+
+Audio: The Copyright Question by George Morang                           20671
+    [Audio reading by Esther ]
+  [Link: http://www.gutenberg.org/2/0/6/7/20671 ]
+  [Files: 20671.txt; 20671-mp3.mp3; 20671-ogg.ogg; 20671-m4b.m4b; 20671-spx.spx]
+
+Audio: The Founder of New France - A Chronicle of Champlain              20670
+        by Charles W. Colby
+    [Audio reading by Kevin McAsh ]
+  [Link: http://www.gutenberg.org/2/0/6/0/20670 ]
+  [Files: 20670.txt; 20670-mp3.mp3; 20670-ogg.ogg; 20670-m4b.m4b; 20670-spx.spx]
+
+---------[   5 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Mar 2007 Stories of the Foreign Legion, P C Wren           [070034xx.xxx] 1487A
+http://gutenberg.net.au/ebooks07/0700341h.html
+
+Mar 2007 The Affair of the Corridor Express, V Whitechurch [070033xx.xxx] 1486A
+[Author: Victor L Whitechurch]
+http://gutenberg.net.au/ebooks07/0700331.txt or .zip
+http://gutenberg.net.au/ebooks07/0700331h.html
+
+Mar 2007 The Hard-boiled Egg, Ellis Parker Butler          [070032xx.xxx] 1485A
+http://gutenberg.net.au/ebooks07/0700321.txt or .zip
+http://gutenberg.net.au/ebooks07/0700321h.html
+
+Mar 2007 Philo Gubb's Greatest Case, Ellis Parker Butler   [070031xx.xxx] 1484A
+http://gutenberg.net.au/ebooks07/0700311.txt or .zip
+http://gutenberg.net.au/ebooks07/0700311h.html
+
+Mar 2007 Auntie Robbo, Ann Scott-Moncrieff                 [070030xx.xxx] 1483A
+http://gutenberg.net.au/ebooks07/0700301.txt or .zip
+http://gutenberg.net.au/ebooks07/0700301h.html
+
+
+For more information about Project Gutenberg of Australia, including
+accessing those eBooks from outside of Australia, please visit:
+http://gutenberg.net.au
+
+
+---------[   1 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+Études sur la littérature française au XIXe siècle, Alexandre Vinet
+  [Language: French]
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+================================================================================

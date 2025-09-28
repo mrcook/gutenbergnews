@@ -1,0 +1,541 @@
+﻿pgweekly_2007_02_07.txt
+The Project Gutenberg Weekly Newsletter for Wednesday, February 7, 2007
+****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+NOTE: Best viewed with a fixed-width font, i.e. Courier New.
+      Windows NotePad is a good a program to use for viewing.
+
+This Weeks News
+---------------
+
+"BEST OF PROJECT GUTENBERG" COLLECTION
+We are looking for suggestions for a "Best of Project Gutenberg" collection.
+Please send your suggestions to: hart@pglafff.org OR hart@pobox.com
+
+
+
+NEWS HEADLINES -- Visit www.gutenbergnews.org to read these news items.
+
+* Library of Congress Gets Digitization Grant
+* Teachers split over Shakespeare
+* Molly Ivins, Columnist, Dies at 62
+* Rowling unveils last Potter date
+* Author Sidney Sheldon dies at 89
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+Project Gutenberg News Website
+------------------------------
+For more information, PG related news and statistics please visit the
+Project Gutenberg Newsletter website:
+
+https://www.gutenbergnews.org
+
+If you have any questions or thoughts please email: editor_AT_gutenbergnews.org
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit our Volunteers Wanted! Section at:
+
+https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+  * Our Distributed Proof Readers Need...
+  * Project Gutenberg Is Seeking Legal Beagles
+  * Graphics needed for PG website and publicity materials
+  * Turn eBooks into MP3
+  * Project Gutenberg Needs DVD Burners
+  * "SF" for PG Australia
+
+
+How to Access (Download) PG eBooks
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of our master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #035/364 | Week: #05 | Month: #01.25
+329 days / 47 weeks of the year remaining.
+
+GRAND TOTALS
+
+20,146 [+ 43] PG U.S. [Adjusted by -350 for PG-EU duplicates]
+ 1,472 [+  0] PG Australia
+   422 [+  2] PG Europe
+   381 [+  0] PG PrePrints
+============
+22,421 [+ 45] GRAND TOTAL
+
+    43 - Reserved/Pending
+
+ 7,578 to go to 30,000 eBooks.
+
+  ~75% of the way to 30,000
+  ~24% of the way from 20,000 to 30,000
+
+ 1,882 [+ 2] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+  282 PG U.S.
+   18 PG Australian
+   14 PG Europe
+    0 PG PrePrints
+=====
+  314 TOTAL [2007]
+
+   14 eBooks REposted to the new filing system.
+
+    * 45 new eBooks this week
+    * 73 new eBooks last week
+    * 45 new eBooks this month [Feb]
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+REMEMBER: Appears lower than last year due to PG-EU duplicates.
+
+Weekly Averages:
+
+   * 61 per week in 2007
+   * 83 per week in 2006
+   * 61 per week in 2005
+   * 78 per week in 2004
+   * 79 per week in 2003
+   * 47 per week in 2002
+   * 24 per week in 2001
+
+Monthly Averages:
+
+   * 241 per month in 2007
+   * 360 per month in 2006
+   * 266 per month in 2005
+   * 336 per month in 2004
+   * 355 per month in 2003
+   * 203 per month in 2002
+   * 103 per month in 2001
+
+Yearly Totals:
+
+   *  314 new eBooks in 2007
+   * 4314 new eBooks in 2006
+   * 3186 new eBooks in 2005
+   * 4049 new eBooks in 2004
+   * 4164 new eBooks in 2003
+   * 2441 new eBooks in 2002
+   * 1240 new eBooks in 2001
+
+19,322 new eBooks since the start of 2001. ~264 eBooks p/m for ~73.25 months.
+
+
+NOTES:
+
+At the start of 2007, the PG-US total was adjusted by -350 to take into
+consideration the duplications from PG-EU. Please remember that other totals
+may also reflect this change.
+This figure of -350 is only approximate, we will update once we have received
+the exact number of duplications from PG-EU.
+
+We have several counting methods that often differ by several books. There
+is also some duplication between the various collections. Volunteers will
+need to take these duplications into account.
+
+The PG Australia total does NOT include PG-AU eBooks posted at the U.S.
+website; www.gutenberg.org.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that sometimes it takes a few weeks for entire collections to fully
+appear in the PrePrints Section, thus the count sometimes jumps by a large
+number when the files are eventually completed and added in. Also note that the
+PrePrint files are just that, PrePrints, and thus may move later to other
+locations, including the main collection or The Project Gutenberg Consortia
+Center, etc. For example, on June 14, 200 WAP compatible cell phone eBooks
+appeared, and will likely be moved to other collection points later.
+The entire process of working out the details just to send them to the
+PrePrints Section took well over a month.
+Even with the speeded up process of the PrePrints Section, it still takes a
+certain amount of time to collect and put such a large collection online in a
+proper manner.
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (PG-DP)
+9,848 [+33] at Distributed Proofreaders.
+
+The Distributed Proofreaders started production in October 2000 and currently
+has over 36,000 volunteers.
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+NOTE: PG-DP mostly included in U.S. eBooks
+NOTE: PG-EU has its own Distributed Proofreaders whose total closely matches
+      their grand total.
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+Unofficial totals for the 19 collections held at PGCC:
+
+Alex Catalogue of Electronic Texts             2,700  HTML eBook
+Blackmask Online                              15,000  HTML eBooks
+Books@Adelaide Collection                      1,098  eBook Files
+CIA's Electronic Reading Room                  2,019  Reference Files
+PGCC Classic Chinese Literature                  199  eBooks
+The Coradella Bookshelf Collection               207  eBooks
+DjVu Collection                                  132  PDF/DjVu eBooks
+eBooks Libres & Gratuits                       1,219  eBooks
+Himalayan Academy                                 33  eBooks
+Internet Archive (eMovies)                     2,577  Movie files
+Literal Systems                                   56  Audio Books
+Logos Group Collection                        34,210  TXT eBooks
+Poets' Collection                                121  Poems
+Project Gutenberg Collection                  22,196  eBooks
+PSU's Electronic Classics Series                 148  PDF eBooks
+Renascence Editions Collection                   182  HTML eBooks
+The Rosetta Project                              180  eBooks
+Swami Center                                      83  PDF eBooks
+Dr Widger Library                              2,600  eBook Files
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+NOTES:
+The Project Gutenberg Consortia Center & The Online Books Page eBook were and
+are the responsibility of the donating eLibraries. We would be happy to
+forward any suggestions for correction to those eLibraries.
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process
+of manually re-posting those eBooks originally posted prior to Nov 2003 to the
+new filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+---------[   2 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been manually updated and reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+Os Lusíadas, by Luís Vaz de Camões                                        3333
+  [Language: Portuguese]
+  [Updated edition of: etext02/lusia10.txt, lusia10.doc ]
+  [Link: http://www.gutenberg.org/3/3/3/3333 ]
+  [Files: 3333-8.txt; 3333-doc.doc; 3333-h.htm]
+
+
+The following file was found to have been reposted but no reposting note was
+ever made. Date of repost unknown so will be counted this week.
+
+Last Chronicle of Barset, Anthony Trollope                                3045
+  [Updated edition of: etext02/lacob11.txt ]
+  [Link: http://www.gutenberg.org/3/0/4/3045 ]
+  [Files: 3045-8.txt; 3045-h.htm ]
+
+
+---------[   1 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Missing illustrations have been provided, and references added to files.
+Quincy Adams Sawyer and Mason's Corner Folks, by Charles Felton Pidgin   16414
+   [Subtitle: A Picture of New England Home Life]
+   [Link: http://www.gutenberg.org/1/6/4/1/16414 ]
+   [Updated edition of: 16414.txt and 16414-h.htm]
+   [Files: 16414.txt; 16414-h.htm]
+
+
+---------[  43 NEW U.S. EBOOK(S) ]----------------------------------------------
+
+My Man Sandy, by J. B. Salmond                                           20540
+  [Link: http://www.gutenberg.org/2/0/5/4/20540 ]
+  [Files: 20540.txt; 20540-h.htm]
+
+Letters of Edward FitzGerald in Two Volumes, by Edward FitzGerald        20539
+   [Editor: William Aldis Wright]
+   [Subtitle: Vol. II]
+   [Link: http://www.gutenberg.org/2/0/5/3/20539 ]
+   [Files: 20539.txt; 20539-h.htm]
+
+Punch, or the London Charivari, Volume 104, February 4, 1893, by Various 20538
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.org/2/0/5/3/20538 ]
+  [Files: 20538.txt; 20538-8.txt; 20538-h.htm]
+
+The  Argonauts, by Eliza Orzeszko (AKA Orzeszkowa                        20537
+  [Translator: Jeremiah Curtin]
+  [Link: http://www.gutenberg.org/2/0/5/3/20537 ]
+  [Files: 20537.txt]
+
+De Ziekte der Verbeelding, by Hendrik Conscience                         20536
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/2/0/5/3/20536 ]
+   [Files: 20536-8.txt; 20536-h.htm]
+
+Merry-Thought: or the Glass-Window and Bog-House Miscellany, H. Thrumbo  20535
+  [Full author: Hurlo Thrumbo (pseudonym)]
+  [Subtitle: Parts 2, 3 and 4]
+  [Commentator: Maximillian E. Novak]
+  [Contributor: James Roberts]
+  [Link: http://www.gutenberg.org/2/0/5/3/20535 ]
+  [Files: 20535.txt; 20535-8.txt; 20535-0.txt; 20535-h.htm]
+
+A Quaker Sermon 1694, by William Penn                                    20534
+  [Full title: A Sermon Preached at the Quaker's Meeting House, in
+                Gracechurch-Street, London, Eighth Month 12th, 1694.]
+  [Link: http://www.gutenberg.org/2/0/5/3/20534 ]
+  [Files: 20534.txt; 20534-h.htm]
+
+Jill the Reckless, by P. G. (Pelham Grenville) Wodehouse                 20533
+  [Link: http://www.gutenberg.org/2/0/5/3/20533 ]
+  [Files: 20533.txt; 20533-8.txt; 20533-h.htm]
+  [See also #6837 "The Little Warrior"]
+
+Love Among the Chickens, by P. G. Wodehouse                              20532
+  [Subtitle: A Story of the Haps and Mishaps on an English Chicken Farm]
+  [Illustrator: Armand Both]
+  [Link: http://www.gutenberg.org/2/0/5/3/20532 ]
+  [Files: 20532.txt; 20532-8.txt; 20532-h.htm]
+
+Up To Date Business, by Various                                          20531
+  [Subtitle: Home Study Circle Library Series (Volume II.)]
+  [Editor: Seymour Eaton]
+  [Link: http://www.gutenberg.org/2/0/5/3/20531 ]
+  [Files: 20531.txt; 20531-8.txt; 20531-h.htm]
+
+Het Leven der Dieren, by A. E. Brehm                                     20530
+  [Subtitle: Hoofdstuk 7: De Knaagdieren]
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/2/0/5/3/20530 ]
+  [Files: 20530-8.txt; 20530-h.htm]
+
+Belles and Ringers, by Hawley Smart                                      20529
+  [Link: http://www.gutenberg.org/2/0/5/2/20529 ]
+  [Files: 20529.txt; 20529-8.txt]
+
+Round About a Great Estate, by Richard Jefferies                         20528
+  [Link: http://www.gutenberg.org/2/0/5/2/20528 ]
+  [Files: 20528.txt; 20528-8.txt; 20528-h.htm]
+
+The Sherwood Foresters in the Great War 1914 - 1919, by W.C.C. Weetman   20527
+  [Subtitle: History of the 1/8th Battalion]
+  [Link: http://www.gutenberg.org/2/0/5/2/20527 ]
+  [Files: 20527.txt; 20527-8.txt; 20527-h.htm]
+
+Short Story Writing, by Charles Raymond Barrett                          20526
+  [Subtitle: A Practical Treatise on the Art of The Short Story]
+  [Link: http://www.gutenberg.org/2/0/5/2/20526 ]
+  [Files: 20526.txt; 20526-8.txt; 20526-h.htm]
+
+Isabel Leicester, by Clotilda Jennings                                   20525
+  [Subtitle: A Romance]
+  [Link: http://www.gutenberg.org/2/0/5/2/20525 ]
+  [Files: 20525.txt; 20525-h.htm]
+
+Culm Rock, by Glance Gaylord                                             20524
+  [Subtitle: The Story of a Year: What it Brought and What it Taught]
+  [Link: http://www.gutenberg.org/2/0/5/2/20524 ]
+  [Files: 20524.txt; 20524-h.htm]
+
+Religion and Art in Ancient Greece, by Ernest Arthur Gardner             20523
+  [Link: http://www.gutenberg.org/2/0/5/2/20523 ]
+  [Files: 20523.txt; 20523-h.htm]
+
+The Story of the Mind, by James Mark Baldwin                             20522
+  [Link: http://www.gutenberg.org/2/0/5/2/20522 ]
+  [Files: 20522.txt; 20522-8.txt; 20522-h.htm]
+
+Current History, A Monthly Magazine, by New York Times                   20521
+  [Subtitle: The European War, March 1915]
+  [Link: http://www.gutenberg.org/2/0/5/2/20521 ]
+  [Files: 20521.txt; 20521-8.txt; 20521-h.htm]
+
+The Hero of the Humber, by Henry Woodcock                                20520
+   [Subtitle: or the History of the Late Mr. John Ellerthorpe]
+   [Link: http://www.gutenberg.org/2/0/5/2/20520 ]
+   [Files: 20520.txt; 20520-8.txt; 20520-h.htm]
+
+Highways in Hiding, by George Oliver Smith                               20519
+   [Link: http://www.gutenberg.org/2/0/5/1/20519 ]
+   [Files: 20519.txt; 20519-8.txt; 20519-h.htm]
+
+Lifsbilder från finska hem 1, by Minna Canth                             20518
+   [Subtitle: Bland fattigt folk]
+   [Translator: Rafaël Hertzberg]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.org/2/0/5/1/20518 ]
+   [Files: 20518-8.txt]
+
+Iloisia juttuja I, by Kaapro Jääskeläinen                                20517
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/2/0/5/1/20517 ]
+   [Files: 20517-8.txt]
+
+Christmas, by Zona Gale                                                  20516
+   [Subtitle: A Story]
+   [Illustrator: Leon V. Solon]
+   [Link: http://www.gutenberg.org/2/0/5/1/20516 ]
+   [Files: 20516.txt; 20516-8.txt; 20516-h.htm]
+
+The Eagle of the Empire, by Cyrus Townsend Brady                         20515
+   [Subtitle: A Story of Waterloo]
+   [Link: http://www.gutenberg.org/2/0/5/1/20515 ]
+   [Files: 20515.txt; 20515-8.txt; 20515-h.htm]
+
+Ensitaistelujen ajoilta, by Otto Tiuppa                                  20514
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/0/5/1/20514 ]
+  [Files: 20514-8.txt]
+
+How to Succeed, by Orison Swett Marden                                   20513
+   [Subtitle: or, Stepping-Stones to Fame and Fortune]
+   [Link: http://www.gutenberg.org/2/0/5/1/20513 ]
+   [Files: 20513.txt; 20513-8.txt; 20513-h.htm]
+
+Man and Maid, by Elinor Glyn                                             20512
+  [Link: http://www.gutenberg.org/2/0/5/1/20512 ]
+  [Files: 20512.txt; 20512-8.txt; 20512-h.htm]
+
+The Little Mother Goose, by Anonymous                                    20511
+  [Illustrator: Jessie Willcox Smith]
+  [Link: http://www.gutenberg.org/2/0/5/1/20511 ]
+  [Files: 20511.txt; 20511-h.htm]
+
+Ade's Fables, by George Ade                                              20510
+  [Illustrator: John T. McCutcheon]
+  [Link: http://www.gutenberg.org/2/0/5/1/20510 ]
+  [Files: 20510.txt; 20510-8.txt; 20510-h.htm]
+
+Daring and Suffering, by William Pittenger                               20509
+  [Subtitle: A History of the Great Railroad Adventure]
+  [Link: http://www.gutenberg.org/2/0/5/0/20509 ]
+  [Files: 20509.txt; 20509-8.txt; 20509-h.htm]
+
+Como atravessei Àfrica (Volume I), by A. A. da Rocha de Serpa Pinto      20508
+  [Full author: Alexandre Alberto da Rocha de Serpa Pinto]
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/0/5/0/20508 ]
+  [Files: 20508-8.txt; 20508-h.htm]
+
+Histoire de Napoléon, by Général Comte de Ségur                          20507
+   [Full title: Histoire de Napoléon et de la Grande-Armée pendant l'année
+                1812]
+   [Subtitle: Tome II]
+   [Language: French]
+   [Link: http://www.gutenberg.org/2/0/5/0/20507 ]
+   [Files: 20507-8.txt; 20507-h.htm]
+
+The Laws of Euchre, by H. C. Leeds and James Dwight                      20506
+   [Subtitle: As adopted by the Somerset Club of Boston, March 1, 1888]
+   [Link: http://www.gutenberg.org/2/0/5/0/20506 ]
+   [Files: 20506.txt; 20506-h.htm]
+
+What's in the New York Evening Journal, by New York Evening Journal      20505
+  [Subtitle: America's Greatest Evening Newspaper]
+  [Link: http://www.gutenberg.org/2/0/5/0/20505 ]
+  [Files: 20505.txt; 20505-h.htm]
+
+Man of Uz, and Other Poems, by Lydia Howard Sigourney                    20504
+  [Link: http://www.gutenberg.org/2/0/5/0/20504 ]
+  [Files: 20504.txt; 20504-8.txt; 20504-h.htm]
+
+The Nation's River, by United States Department of the Interior          20503
+  [Subtitle: The Department of the Interior Official Report on the Potomac]
+  [Commentator: Stewart L. Udall, Kenneth Holum and James J. O'Donnell]
+  [Link: http://www.gutenberg.org/2/0/5/0/20503 ]
+  [Files: 20503.txt; 20503-h.htm]
+
+De Groote Pyramide, by H.J. van Ginkel                                   20502
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/2/0/5/0/20502 ]
+  [Files: 20502-8.txt; 20502-h.htm]
+
+Kun rauhan mies sotaa kävi, by Heinrich Zschokke                         20501
+  [Translator: Samuli Suomalainen]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/0/5/0/20501 ]
+  [Files: 20501-8.txt]
+
+A Short History of Greek Philosophy, by John Marshall                    20500
+  [Link: http://www.gutenberg.org/2/0/5/0/20500 ]
+  [Files: 20500.txt; 20500-8.txt]
+
+Afloat, by Alan Douglas                                                  20499
+  [Subtitle: or, Adventures on Watery Trails]
+  [Link: http://www.gutenberg.org/2/0/4/9/20499 ]
+  [Files: 20499.txt; 20499-h.htm]
+
+The Shrieking Pit, by Arthur J. Rees                                     20494
+   [Link: http://www.gutenberg.org/2/0/4/9/20494 ]
+   [Files: 20494.txt; 20494-8.txt; 20494-h.htm]
+
+
+---------[   0 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+None this week.
+
+
+PG Australia eBooks are posted in uncompressed and/or compressed formats.
+To access these eBooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+================================================================================
+
+gweekly mailing list
+gweekly@lists.pglaf.org
+http://lists.pglaf.org/listinfo.cgi/gweekly

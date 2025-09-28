@@ -1,0 +1,84 @@
+---
+params:
+  id: 938
+title: PG Monthly Newsletter 1996-12-31
+date: 1996-12-31T23:43:02+00:00
+author: Michael Cook
+layout: post
+url: /19961231/pg-monthly-newsletter-1996-12-31/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PG NEWSLETTER DECEMBER 1996
+
+1996 ETEXTS ARE DONE!
+
+Please send your feedback directly to
+Michael S. Hart hart@pobox.com
+
+Books Index update from #737 to #768.
+
+Please see also the November 1996 note entitled
+Project Gutenberg Needs You.
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL 61825-2782 USA
+
+[Check should be made out to "Project Gutenberg/BU"]
+
+Thanks!
+
+Happy New Year!!
+
+Thanks!
+
+Michael S. Hart
+
+ Mon Year Title and Author [# of PG books by the author]    [filename.ext] ###
+
+ Dec 1996 Wuthering Heights, by Emily Bronte [#2 by Brontes][wuthrxxx.xxx] 768
+ Dec 1996 Agnes Grey, by Anne Bronte         [#1 by Brontes][agnsgxxx.xxx] 767
+ Dec 1996 David Copperfield, by Charles Dickens [Dickens#14][cprfdxxx.xxx] 766
+ Dec 1996 The Moon Pool by A. Merritt                       [mpoolxxx.xxx] 765
+
+ Dec 1996 Hans Brinker/Silver Skates/etc by Mary Mapes Dodge[hbossxxx.xxx] 764
+ Dec 1996 The Round-Up, by John Murray and Mills Miller     [rndupxxx.xxx] 763
+ Dec 1996 British Airships, Past/Present/Future, Geo. Whale [bappfxxx.xxx] 762
+ Dec 1996 A. V. Laider, by Max Beerbohm [Max Beerbohm #3]   [laidrxxx.xxx] 761
+
+ Dec 1996 Enoch Soames, by Max Beerbohm [Max Beerbohm #2]   [enochxxx.xxx] 760
+ Dec 1996 James Pethel, by Max Beerbohm [Max Beerbohm #1]   [pethlxxx.xxx] 759
+ Dec 1996 LandSat Picture of Washington, DC, USA [Zip File] [wdclsxxx.zip] 758
+ Dec 1996 50 Bab Ballads, by William. S. Gilbert            [50babxxx.xxx] 757
+
+ Dec 1996 Arizona Sketches, by Joseph A. Munk               [azsksxxx.xxx] 756
+ Dec 1996 Lady's Life in Rocky Mountains by Isabella L. Bird[llirmxxx.xxx] 755
+ Dec 1996 The Story of Mankind, by Hendrik van Loon         [hmankxxx.xxx] 754
+ Dec 1996 Arizona Nights, by Stewart Edward White           [aznitxxx.xxx] 753
+
+ Dec 1996 A Young Girl's Diary, and Letter of Sigmund Freud [ygdsfxxx.xxx] 752
+ Dec 1996 Autocrat of Breakfast Table, Oliver Wendell Holmes[aofbtxxx.xxx] 751
+ Dec 1996 The High History of the Holy Graal, Author Unknown[hhohgxxx.xxx] 750
+ Dec 1996 Barlaam and Ioasaph, by St. John of Damascus      [bioasxxx.xxx] 749
+
+ Dec 1996 The Brother of Daphne, by Dornford Yates          [bdaphxxx.xxx] 748
+ Dec 1996 Anomalies and Curiosities of Medicine, Gould/Pyle [aacomxxx.xxx] 747
+ Dec 1996 Burning Daylight, by Jack London [Jack London #5] [bdlitxxx.xxx] 746
+ Dec 1996 One Divided by Pi, To A Million Digits [math #17] [onepixxx.xxx] 745
+
+ Dec 1996 The Golden Mean, To A Million Digits  [math #16]  [gmeanxxx.xxx] 744
+ Dec 1996 Thoughts on Man, His Nature, etc, by Wm Godwin    [tmnwgxxx.xxx] 743
+ Dec 1996 Editorials from the Hearst Newspapers by Brisbane [ehnabxxx.xxx] 742
+ Dec 1996 Thomas Hart Benton's Remarks to the Senate THB#1] [thbrsxxx.xxx] 741
+
+ Dec 1996 John C. Calhoun's Remarks in the Senate[Calhoun1#][jccrsxxx.xxx] 740
+ Dec 1996 Henry Clay's Remarks in House and Senate [Clay #1][hcrhsxxx.xxx] 739
+ Dec 1996 The Puzzle of Dickens's Last Plot by Andrew Lang#5[pldlpxxx.xxx] 738
+ Dec 1996 The Bobbsey Twins at School, by Laura Lee Hope #2?[tbtasxxx.xxx] 737</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1996_12_31.txt" target="new">pgmonthly_1996_12_31.txt</a>

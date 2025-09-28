@@ -1,0 +1,619 @@
+From hart at pglaf.org  Wed Jun 28 09:51:02 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Jun 28 09:51:06 2006
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0606280950240.13402@pglaf.org>
+
+pt1a3.606
+pt1b3.606
+Weekly_June_28.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, June 28, 2006 PT1***
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+*
+This is my last day here as I prepare to leave for a month of travel on
+the East Coast [of the US], to be best man at my best friend's wedding,
+to see my Mom and my brother, whom I have not seen in ages, and to give
+a few presentations along the way.  I plan to be in Connecticut for the
+first week, not sure of the dates for D.C. and Boston yet, and back for
+the last week in Connecticut and New York City, after June 19 or so.
+
+We are preparing another Newsletter Editor as we speak, and you will be
+hearing from him next week on July 5, if all goes well.
+
+The counting program died last week, and my emailer killed some so it's
+going to be just George and me counting, sorry.
+
+Michael
+
+*
+
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   31 New This Week From PG Australia [Australian, Canadian Copyright Etc.]
+    8 New This Week From PGEu [European Copyrights, Life + 50 and 70]
+    0 New This Week From PG PrePrints
+   69 New This Week To Public Domain eBooks Under US Copyright
+  108 New This Week [Including PG Australia, PG Europe and PrePrints]
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                         *eBook Milestones*
+
+               20,102 eBooks As Of Today At These Four PG Sites
+
+
+           20,102 Project Gutenberg   [+91] Grand Total [Automated]
+              741 Australian eBooks   [+31] [Included in above line]
+              326 Gutenberg Europe     [+8] [Including after July 4]
+              368 PG PrePrint Site     [+0] [Included in above total]
+               69 General US PG eBooks[+48] [Inlucded in above total]
+              106 Total New Books This Week [On schedule for 91]
+           20,097 Grand Total of all four sites
+           20,102 [via our automated program, by hand]
+                  [Please note we have several counting methods,
+                  and they often differ by several book that we
+                  have to hunt down by hand to reconcile.]
+
+
+                    ~1% of the way from 20,000 to 30,000
+
+
+      ***569 eBooks Averaged Per Year Since July 4, 1971***
+
+             16,823 New eBooks Since The Start Of 2001
+
+           That's ~261 eBooks per Month for ~64.25 Months
+
+            1,954 New eBooks in 2006 at These Four Sites
+
+            42 New eBooks From Distributed Proofreaders
+             8,649 total from Distributed Proofreaders
+              Since October, 2000 [Details in PT1B]
+              [Currently over 36,000 DP volunteers]
+
+             We Averaged ~339 eBooks Per Month In 2004
+             We Averaged ~248 eBooks Per Month In 2005
+                      [Including PG Australia]
+
+        We Are Averaging ~340 eBooks Per Month This Year!!!
+                [Including PGAu, PGEu and PrePrints]
+
+All Four Sites Combined Are Averaging 78 eBooks Per Week In 2006
+                          108 This Week
+                          482 This Month [Jun]
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~12.5 years from Jan. 1994 to Jun. 2006 to go from 100 to 20,100
+
+It took ~32 months, from 2003 to 2006 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.8 years from Oct. 2003 to Jun. 2006 from 10,000 to 20,000
+
+*
+
+[The above changes due to the opening of Project Gutenberg
+sites other than the original one at www.gutenberg.org]
+[Now including totals from Australia, Europe and PrePrints]
+[Apologies, it will take a while to integrate everything
+not all statistics may be totally equalized yet]
+[Daily PGEu stats at http://dp.rastko.net/default.php]
+[Daily DP stats at http://www.pgdp.net]
+
+BTW, we just started a new "PrePrints" site at PG,
+so if you come across eBooks that aren't ready for
+primetime, but that should be saved for upgrading,
+we have a place to put them.
+
+[Daily PrePrints stats at http://preprints.readingroo.ms/]
+
+Please note that sometimes it takes a few weeks for entire
+collections to fully appear in the PrePrints Section, thus
+the count sometimes jumps by a large number when the files
+are eventually completed and added in.  Also note that the
+PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or
+The Project Gutenberg Consortia Center, etc.  For example,
+on June 14, 200 WAP compatible cell phone eBooks appeared,
+and will likely be moved to other collection points later.
+The entire process of working out the details just to send
+them to the PrePrints Section took well over a month.
+
+Even with the speeded up process of the PrePrints Section,
+it still takes a certain amount of time to collect and put
+such a large collection online in a proper manner.
+
+*
+
+75,000+ eBooks at the PG Consortia Center
+http://www.gutenberg.cc
+[Including after July 4]
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+FREE INTERNET REFERENCE SITE
+
+LivingInternet.com provides a 700-odd page reference about the Internet
+"to provide living context and perspective to this most technological
+of human inventions", and has received input from many people that helped
+build the Internet.  It currently receives about 3 thousand visitors a day,
+many from educational institutions.  Now in its 7th year of operation.
+http://www.livinginternet.com/
+
+
+TEXT TO SPEECH
+
+Dolphin Producer is a new software package which will convert a text
+document into a fully synchronized text and audio DTB at the push of a
+single button. The DTB can then be played back using Dolphin's
+EaseReader software player - which is included in Dolphin Producer.
+The DTB can also be played back on any other DAISY DTB software or
+hardware player, as well as any MP3 player - The choice is yours.
+
+http://www.dolphinuk.co.uk or http://www.dolphinusa.com
+
+
+***BREAK FOR PT1A AND PT1B***
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+CANADIAN PROJECT AIMS TO COORDINATE DISPARATE EFFORTS
+A new initiative called AlouetteCanada is designed to bring together
+disparate digitization efforts from around Canada into a single online
+location. Many universities and museums in the country maintain
+small-scale digitization efforts of material relevant to the history
+and culture of Canada. Much of this content is inaccessible to most
+people, however, according to Carole Moore, chief librarian of the
+University of Toronto, one of the universities participating in
+AlouetteCanada. The University of Alberta and the University of
+Brunswick are also part of the project, and Moore said hundreds of
+other organizations could conceivably contribute material. Ernie
+Ingles, chief librarian at the University of Alberta, said
+AlouetteCanada is, in some ways, the antithesis of Google's
+book-scanning project. Although Google is making content available
+publicly, he said, "it is making that content available in a commercial
+way." Ingles questioned whether Google would be around forever to make
+that content available.
+Chronicle of Higher Education, 21 June 2006 (sub. req'd)
+http://chronicle.com/daily/2006/06/2006062101t.htm
+
+RESEARCHERS CLAIM FASTEST SILICON CHIP
+A team of academic and industry researchers has demonstrated a speed
+of 500 gigahertz for a silicon-based computer chip they developed.
+The team included individuals from the Georgia Institute of Technology,
+Korea University in South Korea, and IBM. To reach 500 gigahertz, which
+is about 250 times faster than many chips used today, the researchers
+conducted the test in an environment 451 degrees below zero (Fahrenheit);
+at room temperature, the chip reportedly still reaches speeds of around
+350 gigahertz. Technology consultant Dan Olds said the announcement
+indicates that "we're not coming anywhere near the end in what
+processors are capable of." IBM's Bernard Meyerson said the chips,
+which might be available in consumer devices within two years,
+could lead to significant leaps in the capabilities of computing devices.
+New York Times, 20 June 2006 (registration req'd)
+http://www.nytimes.com/2006/06/20/technology/20chip.html
+
+ETHICAL HACKING PROGRAM TO REQUIRE BACKGROUND CHECK
+Students who want to take part in an ethical hacking program at the
+University of Abertay in Scotland will be required to pass a background
+check to weed out those who might apply the skills learned in the
+program to malicious ends. University officials will work with the Home
+Office and a Scottish disclosure service to screen applicants, looking
+for anyone with a criminal background. The program, called Ethical
+Hacking and Countermeasures, is a four-year degree intended to teach
+hacking skills to students who will then work with businesses to
+prevent hackers from doing damage to computer systems and data.
+It is the first program of its kind in the United Kingdom.
+Responding to concerns that the program will simply create more hackers,
+Lachlan McKinnon, a professor in the program, said the university will
+do all it can to ensure students use their skills in a positive manner.
+He added, however, that there are no guarantees. "Harold Shipman
+qualified as a doctor, after all," he said, "before deciding
+to become a murderer."
+The Register, 19 June 2006
+http://www.theregister.com/2006/06/19/hackers_background/
+
+GOOGLE DEBUTS SHAKESPEARE SITE
+Google has launched a new Web site specifically for the works of
+William Shakespeare and related resources. At the site, users have
+access to the full texts of Shakespeare's 37 plays and can search
+those texts for words or phrases. The site also has links to academic
+resources concerning the plays, online groups that focus on
+Shakespeare, and videos of stage productions of Shakespeare's plays.
+The site also points users toward Google Earth, which coordinates maps
+of the globe with Internet searching. With Google Earth, users can
+locate the Globe Theatre in London and find other resources with
+information about the site. The site was introduced as part of
+Google's sponsoring of New York's "Shakespeare in the Park."
+USA Today, 14 June 2006
+http://www.usatoday.com/tech/news/2006-06-14-shakespeare-google_x.htm
+
+WIKIPEDIA ADJUSTS EDITING POLICY
+Wikipedia, the online encyclopedia based on the model that anyone can
+contribute to or edit any entry, has placed new restrictions on
+editing. Certain entries in any reference work are bound to be
+contentious, and with Wikipedia, disagreements can escalate to a
+"revert war," in which competing factions simply change an entry back
+and forth to reflect their opinions. Such disputes have resulted in a
+status of "protected" for 82 entries, meaning they cannot be changed at
+all, and a status of "semi-protected" for another 179 entries.
+Semi-protected entries can only be changed by someone who has been a
+registered user for more than four days, the idea being that such a
+"cooling off" period will avoid most of the problems resulting from
+disagreements. Despite the steps Wikipedia has taken away from the
+ideal of "anyone can edit," founder Jimmy Wales says the resource works
+and is valuable. Most entries are only protected for a short period of
+time, he said, and they represent a fraction of the 1.2 million entries
+in the English-language version.
+New York Times, 17 June 2006 (registration req'd)
+http://www.nytimes.com/2006/06/17/technology/17wiki.html
+
+DOE CONTRACTS FOR PETAFLOP SUPERCOMPUTER
+The U.S. Department of Energy (DOE) has ordered the first petaflop
+supercomputing system and an upgrade of its Blue Gene system from Cray.
+DOE's Oak Ridge National Laboratory announced the $200 million
+arrangement last week, with plans for completion of the new
+supercomputer in 2008. The new system reportedly will attain 1,000
+trillion floating-point operations per second (teraflops), or one
+petaflop. Oak Ridge scientists plan to use the system to tackle
+problems in energy, biology, and nanotechnology. The lab also expects
+to offer computing time to other researchers through a program that
+grants supercomputer access to academic and corporate institutions.
+Federal Computer Week, 26 June 2006
+http://www.fcw.com/article95010-06-26-06-Web
+
+
+You've been reading excerpts from Edupage:
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+
+"We follow the law."
+
+This reply was repeatedly thrown in the face of Senator Arlen Specter
+in recent hearings, to determine the scope of the release of national
+telephone users' information to the intelligence communities, by AT&T
+CEO Edward Whitacre, as he time and again refused to answer questions
+directing him to inform the Senate whether AT&T had or had not sent a
+plethora of information for intelligence gathering operations.
+
+In the wake of the revelations by The New York Times that such a data
+mining opportunity was being given to the NSA, CIA, FBI, etc., many a
+Senator and Congressperson has raised the same question.
+
+Harsh criticism of The New York Times ensued, even though they sat on
+the story for a year before publishing it, and only published it when
+it became obvious it was going to be published elsewhere.
+
+[Note that The Washington Post got scooped on the "Ivy Bells" story--
+mentioned in last week's Newsletter, when President Reagan convinced,
+in a personal phone call to their publisher, them not to run it for a
+few days, but then someone leaked it to NBC.  Whether this was in the
+way of retaliation for The Washington Post forcing President Nixon to
+resign over The Watergate Affairs no one is actually saying aloud.]
+
+Here are the direct quotations from the current hearings:
+
+Specter: Does AT&T provide customer information to any law enforcement agency?
+
+Whitacre: We follow the law, senator.
+
+Specter: That is not an answer Mr. Whitacre, you know that.
+
+Whitacre: That's all I'm gonnna say, is we follow the law.  It is an answer.
+I'm telling you we don't violate the law, we follow the law.
+
+Specter: Now, that's a legal conclusion, Mr. Whitacre.  You may be
+right or you may be wrong, but I'm asking you for a factual matter --
+does your company provide information to the federal government or any
+law enforcement agency, information about customers?
+
+Whitacre: If it's legal and we're requested to do so, of course we do.
+
+Specter: Have you?
+
+Whitacre: All I'm going to say is we follow the law.
+
+Specter: That's not an answer, it's not an answer, it's an evasion.
+
+Whitacre: It's an answer.
+
+Specter: If you're under instructions by the federal government...
+
+Whitacre: We follow the law, senator.
+
+Specter: You've said that. I don't care to hear it again.
+
+Whitacre: I don't care to repeat it again, but we do.
+
+Specter: Well then, don't. If you're under instructions by the federal
+government as a matter of state secrecy not to talk, say so.
+
+Whitacre: Senator, we follow the law.
+
+Specter: Well, I think that answer is contemptuous of this committee.
+
+
+Specter finally forced Whitacre to admit that any response by him
+would violate what he had been instructed was "classified information."
+
+Source:  ABC
+
+
+MORE DOUBLESPEAK
+
+The Senate refused to repeal 100% of the estate tax that had been
+vilified as "The Death Tax," by embattled White House guru Karl Rove,
+but in the end it will cost the real taxpayers just as much, as the
+deal is being engineered by repealing what may be all timber company
+taxes to win over Senate votes from timber rich Washington State.
+
+All in all The Estate Tax is being repealed for all but the richest
+1% or less in the country, and it should be mentioned that that 1%
+owns half of everything that can be owned in the United States.
+
+Source:  The Washington Post
+
+[I wonder how rest of the country would react to all this if that 1%
+actually lived on their blocks, and owned half the land, half the cars,
+half the stocks, bonds, cash, boats, etc. while the next 2% owned half
+of what was left, and the next 4% owned half of that, etc. . .leaving
+only a few percent to be earned by 90% of the block's residents???]
+
+
+*QUOTES OF THE WEEK
+
+"We follow the law."
+
+
+*PREDICTIONS OF THE WEEK
+
+It will eventually be determined that there has been an overall
+pattern of divulging the personal information of U.S. citizens.
+
+
+*ODD STATISTICS OF THE WEEK
+
+72% of troops in Iraq say we should get out by the end of 2006.
+
+21% say out now.
+
+Source:  Zogby, and various sources that quoted the polls also
+done by Le  Moyne  College.
+
+[As a result, only 6 Senators voted to end the war by year end
+this week]
+
+
+Americans Lose Touch, Report Fewer Close Friends
+
+In the last 20 years the number of close friends reported
+by Americans has dropped from about 3 to 2.
+
+In 1985 2.94 friends a person could discuss the important
+issues of their lives with were reported.
+
+In 2004 that had dropped to 2.08, a drop of .043 per year
+for those 20 years which would be down to about 2 friends
+by now, in mid-2006.
+
+Not only do Americans have fewer persons they can discuss
+important matters with, but those they do have are family
+rather than the traditional friends we tend to think of.
+
+"This change indicates something that's not good for our society,"
+said Lynn Smith-Lovin, Professor of Sociology at Duke University.
+
+The study appears in the June American Sociological Review.
+
+[This supports the growing realization that millions of people in
+the United States know Oprah Winfrey better than their neighbors]
+
+Source:  LiveScience.com
+
+[Perhaps this is why MySpace has 87 million subscribers!]
+
+*
+
+The Big 10 Opens Its Own Television Channel
+
+In an effort to bring in more money from collegiate sport events
+The Big 10 has opted to create its very own source of income for
+their sporting events for the next 20 years, and should reap the
+amount of an extra $7.5 million per year as a result.
+
+The only trouble is that right now you will have to subscribe to
+DirecTV to get it.
+
+For at least the first 10 years of this, there should be some of
+the normal television coverage of the past, as The Big 10 is now
+also reported to have inked lucrative deals with Disney's sports
+coverage, from their ESPN and ABC television subsidiaries.
+
+Viewers will have to subcribe to The Big 10 Channel [BTC] via an
+opt-in selection to DirecTV's Total Choice package, available to
+just over 15 million households.
+
+This isn't the first collegiate sports collective to do this and
+it certainly won't be the last.  Believe it or not, The Big 10's
+action on this was taken from some little known Western Mountain
+college conference.
+
+[Just one more step on the way to "pay per everything."  Whether
+you pay per month, week, day, or per event, it's still pay per.]
+
+DirecTV's Total Choice package costs $41.99 per month.
+
+Source:  TV Week, Various Big 10 press releases.
+and www.usdirect.com/programming/total_choice.php
+
+*
+
+The "Tahiti" oil well is going down further beneath sea level than
+Mt. Everest goes above sea level.
+
+*
+
+By the way, for those interested, the official U.S. population
+estimates just passed 298 million, though many say estimations
+of this nature leave out as much as 5% of the population, with
+the obvious exclusion of the 11-12 million immigrant workers
+now being mentioned so much in the news.
+
+Still hoping for more statistical updates and additional entries.
+[This one is getting a little out of date, as the US population
+is obviously no longer 6% of the world.  In fact, rounding to the
+nearest percent, the US will soon fall from 5% to 4%.]
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people would possess 59% of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+
+*
+
+Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+

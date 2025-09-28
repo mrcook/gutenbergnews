@@ -1,0 +1,808 @@
+---
+params:
+  id: 2002
+title: "PG Weekly Newsletter: Part 1 (2003-06-11)"
+date: 2003-06-11T11:14:35+00:00
+author: Michael Cook
+layout: post
+url: /20030611/pg-weekly-newsletter-2003-06-11-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_June_11.txt
+****The Project Gutenberg Weekly Newsletter For Wednesday, June 11, 2003***
+*****eBooks Readable By Both Humans and Computers For Nearly 32 Years******
+
+
+          Six Months/26 Weeks Until eBook #10,000, I Hope!
+
+        8221 Books Done. . .1779 To Go. . .in 182 More Days!
+
+        That's ONE More Per Day Than We Have Been Averaging!
+
+        Thus We Need One More Editor Who Can Polish 1-A-Day!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 31 11/12 Year History, We Have Now Averaged About 200 Ebooks/Year
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+         1478 New eBooks So Far In The 5.25 Months Of 2003
+
+
+               We Are Averaging About 282 Per Month!!!
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Hot Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+     1 New From PG Australia [Australian, Canadian Copyright Etc.
+    72 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Hot Requests For Assistance
+
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to only ONE DVD burner, on a laptop
+belonging to a personal friend.  If you have a DVD burner
+or plan to get one in the next 6 months, please email me,
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November while
+you would download the last month's/weeks' releases.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+We are seeking pro bono or very cheap legal assistance to pursue
+Project Gutenberg trademark infringers and similar issues.  Please
+email Michael Hart &lt;hart@pobox.com&gt;.
+
+[We received 3 replies from the US, 1 from Australia, but
+may need more around December 10.]
+
+
+*** NEW ADDRESS FOR "PUNCH" MAGAZINE TEAM
+
+If you have, and are willing to scan bound volumes of Punch
+pre-1923 please contanct as below. No single issues, please,
+unless you have a complete year of them.
+Please contact:  jonathan_ingram@yahoo.com
+
+
+*** Progress Report
+
+    In the first 5.25 months of this year, we produced 1478 new eBooks.
+
+     It took us from 1971 to 1998 to produce our first 1,478 eBooks!
+
+                 That's 23 WEEKS as Compared to 27 Years!
+
+                   73   New eBooks This Week
+                   73   New eBooks Last Week
+                   73   New eBooks This Month [June]
+
+                  282   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 1478   New eBooks in 2003  &lt;&lt;&lt;
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                8,221   Total Project Gutenberg eBooks
+                5,355   eBooks This Week Last Year
+                2,834   New eBooks In The Last 12 Months
+
+                3,989   New eBooks in the last 18 months  &lt;&lt;&lt;
+
+                  238   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 48 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1478 New eBooks So Far in 2003
+
+              It took us 27 years for the first 1478!
+
+        That's the 23 WEEKS of 2003 as Compared to 27 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1478
+
+
+[This was the start of an entire new edition of the complete Shakespeare]
+Oct 1998 King Henry VI, Part 1, by William Shakespeare     [2ws01xxx.xxx]1500
+Oct 1998 Beacon Lights of History, by John Lord [V3 Part 2][32blhxxx.xxx]1499
+Oct 1998 Beacon Lights of History, by John Lord [V3 Part 1][31blhxxx.xxx]1498
+Oct 1998 The Republic by Plato, Tr. Benjamin Jowett/see 150[repub11x.xxx]1497
+
+Oct 1998 Massacre at Paris, by Christopher Marlowe  [CM #5][msprsxxx.xxx]1496
+Oct 1998 The Golf Course Mystery, by Chester K. Steele     [glfmsxxx.xxx]1495
+Oct 1998 The Legends of the Jews by Louis Ginzberg Volume 2[2lotjxxx.xxx]1494
+Oct 1998 The Legends of the Jews by Louis Ginzberg Volume 1[1lotjxxx.xxx]1493
+
+Oct 1998 The Life of Columbus, [in his own words] by Hale  [tloccxxx.xxx]1492
+Oct 1998 Letters to Dead Authors, by Andrew Lang [Lang #9] [letdaxxx.xxx]1491
+Oct 1998 The New McGuffey Fourth Reader[McGuffey Reader #2][4nmcgxxx.xxx]1490
+Oct 1998 The New McGuffey First Reader [McGuffey Reader #1][1nmcgxxx.xxx]1489
+
+Oct 1998 True Story of Christopher Columbus, by E.S. Brooks[ttsccxxx.xxx]1488
+Oct 1998 Perfect Wagnerite, Commentary the Ring, by GB Shaw[sringxxx.xxx]1487
+[Author:  George Bernard Shaw]
+Oct 1998 The Unseen World and Other Essays, by John Fiske  [nswoexxx.xxx]1486
+Oct 1998 The Use and Need of the Life of Carrie A. Nation  [crntnxxx.xxx]1485
+
+Oct 1998 The Four Horsemen of the Apocalypse, by Ibanez    [4hrsmxxx.xxx]1484
+[Author:  Blasco Ibanez]
+Oct 1998 Forty Centuries of Ink, by David N. Carvalho      [40cnkxxx.xxx]1483
+Oct 1998 Modeste Mignon, by Honore de Balzac [de Balzac#45][mdmgnxxx.xxx]1482
+Oct 1998 A Daughter of Eve, by Honore de Balzac [Balzac#44][doevexxx.xxx]1481
+
+Oct 1998 Tom Brown's School Days, by Thomas Hughes        ][tbssdxxx.xxx]1480
+Oct 1998 A Vanished Arcadia, by R. B. Cunninghame Graham  ][vajipxxx.xxx]1479
+Oct 1998 A Parody Outline of History, by D. O. Stewart [#2][apoohxxx.xxx]1478
+Oct 1998 The Toys of Peace by H.H. Munro ("Saki") [Saki #3][toypcxxx.xxx]1477
+
+Sep 1998 Chance, by Joseph Conrad       [Joseph Conrad #22][chancxxx.xxx]1476
+Sep 1998 Gaudissart II, by Honore de Balzac    [Balzac #43][2gdsrxxx.xxx]1475
+Sep 1998 The Illustrious Gaudissart by Honore de Balzac #42[1gdsrxxx.xxx]1474
+Sep 1998 The Absentee, by Maria Edgeworth    [Edgeworth #2][bsntexxx.xxx]1473
+
+Sep 1998 In a German Pension, by Katherine Mansfield[KM #2][inagpxxx.xxx]1472
+Sep 1998 New Poems, by Francis Thompson[Francis Thompson#3][npbftxxx.xxx]1471
+Sep 1998 Fall of the Moghul Empire of Hindustan, by Keene  [tfmehxxx.xxx]1470
+Sep 1998 Poems, by Francis Thompson   [Francis Thompson #2][pmbftxxx.xxx]1469
+
+Sep 1998 History of England, James II  Vol. 1, Macaulay[#2][1hoejxxx.xxx]1468
+[Title:  The History of England from the Accession of James II]
+[Author's Name:  Thomas Babington Macaulay]
+Sep 1998 Some Christmas Stories, by Charles Dickens[CD #50][cdscsxxx.xxx]1467
+Sep 1998 Creatures That Once Were Men, by Maxim Gorky [#1a][crmenxxa.xxx]1466
+Sep 1998 Wreck of the Golden Mary, by Charles Dickens [#49][wrkgmxxx.xxx]1465
+
+Sep 1998 Contributions to:  All The Year Round, Dickens #48[allyrxxx.xxx]1464
+Sep 1998 The Private Papers of Henry Ryecroft, by Gissing  [ppohrxxx.xxx]1463
+Sep 1998 Some Roundabout Papers, by Thackeray[Thackeray #3][rndbtxxx.xxx]1462
+.(Note:  the filename rndbtxxx.xxx is also used for a totally different
+.(eBook, #2608 in etext01)
+Sep 1998 A Legend of Montrose, by Walter Scott [W Scott #5][mntrsxxx.xxx]1461
+(Note: from Tales Of My Landlord, 3rd Series)
+
+Sep 1998 The Black Dwarf, by Walter Scott [Walter Scott #4][bdwrfxxx.xxx]1460
+[Note: from Tales Of My Landlord, 1st Series)
+Sep 1998 Prufrock and Other Observations, by T. S. Eliot #2[prfrkxxx.xxx]1459
+Sep 1998 Dream Life and Real Life, by Olive Schreiner  [#5][dlarlxxx.xxx]1458
+Sep 1998 Mistress Wilding, by Rafael Sabatini [Sabatini #1][wldngxxx.xxx]1457
+
+Sep 1998 An Episode Under the Terror, by Balzac[Balzac #41][aeuttxxx.xxx]1456
+Sep 1998 The Hated Son, by Honore de Balzac [de Balzac #40][htdsnxxx.xxx]1455
+Sep 1998 Maitre Cornelius, by Honore de Balzac [Balzac #39][crnlsxxx.xxx]1454
+Sep 1998 The Alkahest, by Honore de Balzac  [de Balzac #38][lkhstxxx.xxx]1453
+
+Sep 1998 Native Life in South Africa, by Sol Plaatje       [nlisaxxx.xxx]1452
+Sep 1998 The Art of Lawn Tennis, by William T. Tilden, 2D  [tenisxxx.xxx]1451
+Sep 1998 Pollyanna, by Eleanor H. Porter[Eleanor Porter #4][plynaxxx.xxx]1450
+Sep 1998 The Valley of the Moon, by Jack London[London #49][vlymnxxx.xxx]1449
+
+Sep 1998 Heidi, by Johanna Spyri [Popular Children's Story][heidixxx.xxx]1448
+
+***
+
+Today Is Day #161 of 2003
+This Completes Week #23
+209 Days/30 Weeks To Go
+1779 Books To Go To #10,000
+182 Days To December 10, 2003
+[Our Goal For eBook #10,000]
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #59 Of Our SECOND 5,000 eBooks
+
+   64   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+"Visit http://ibiblio.org/gutenberg
+for a link to the study.
+It only takes a few minutes."
+
+or
+
+Contact Debbie Dvorniks directly:
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+If you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by proofreading just a few pages per day.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition)  or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Please email dphelp@pgdp.net with your geographic location
+if you have books to send. You will be given the address
+of the nearest high-speed scanner (note that the high-speed scanner
+requires destruction of the book(s) which will not be returned)."
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+and
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+dphelp@pgdp.net
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 23 weeks of this year, we have produced 1478 new eBooks.
+It took us from 1971 to 1998 to produce our FIRST 1478 eBooks!!!
+
+         That's 23 WEEKS as Compared to 27 YEARS!!!
+
+
+With 8,221 eBooks online as of June 11, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.22 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $1.87 when we had 5355 eBooks A Year Ago
+
+Can you imagine 7,000 books each costing $.65 less a year later???
+Or. . .would this say it better?
+Can you imagine 7,000 books each costing 1/3 less a year later???
+
+At 8221 eBooks in ~31 Years and 11.25 Months We Averaged
+    257 Per Year   [About how many we do per month these days!]
+     21 Per Month
+     .7 Per Day
+
+At 1478 eBooks Done In 2003 We Averaged
+      9 Per Day
+     64 Per Week
+    282 Per Month
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003 at noon.
+
+
+***Headline News***
+
+[Editor's Comments In Brackets]
+
+From Newsscan
+
+
+We have profoundly forgotten everywhere that cash-payment
+is not the sole relation of human beings.  Thomas Carlyle
+
+
+[Will They Require RFID Tags Embedded In Your Dog?]
+[Your Robot Dog Will Definitely Come With One]
+
+IT'S A RADIO WORLD
+Wal-Mart, the world's largest retailer, has recently told its top supplier
+that they'll need to have all their products "chipped" -- i.e., provided
+Radio Frequency Identification (RFID) tags that can be tracked by remote
+radio receivers for inventory tracking and management. And now Microsoft
+has announced that it will develop software and services for RFID
+technology, and make its desktop, server and applications software all work
+with RFID. (Reuters/Yahoo 10 Jun 2003)
+http://shorl.com/jekyvyjobrypri
+
+
+DISTRIBUTED COMPUTING MADE EASY
+Berkeley scientist David Anderson has devised a cheaper and easier way to
+write distributed computing software, paving the way for more projects that
+rely on the combined power of millions of idle computers to seek solutions
+to some of life's mysteries -- such as a cure for cancer or whether there's
+extraterrestrial life out there. About a dozen research projects now depend
+on distributed computing, but up until now the software needed to exploit
+the unused power of volunteers' PCs has been expensive and time-consuming
+to create. Anderson's open-source software will eliminate those barriers.
+"The more projects that start using distributed computing the more people
+will be interested in lending their computers for research," says
+Anderson.(Popular Science Jun 2003)
+http://www.popsci.com/popsci/computers/article/0,12543,454648,00.html
+
+ANDREW SULLIVAN SAYS: 'THE INTERNET DID IT'
+Prominent blogger-journalist Andrew Sullivan, former editor of the New
+Republic magazine, says that the Internet should be given much of the
+credit for forcing the resignation of top New York Times editors Howell
+Raines and Gerald Boyd: "Only, say, five years ago, the editors of the New
+York Times had much more power than they have today. If they screwed up, no
+one would notice much. A small correction would be buried days, sometimes
+weeks, later... The blogosphere in general created a growing chorus of
+criticism that helped create public awareness of exactly what Raines was up
+to." Sullivan quotes a letter from one of his readers: "Now in newspaper
+journalism, as in so many other traditional industries (real estate,
+banking, computers, retail sales, airlines, travel, etc.), we see that the
+Internet strips away discretion, power and secrecy. It is very hard to
+withstand the forced transparency induced by this new technology." To which
+Sullivan adds: "And you ain't seen nothing yet." (The Daily Dish 6 Jun 2003)
+http://www.andrewsullivan.com
+
+PALM BUYS HANDSPRING FOR $192 MILLION
+Palm is acquiring struggling Handspring for $192 million in stock in a deal
+that reflects the new stark reality of Silicon Valley economics. Back in
+its late-2000 heyday, Handspring -- the scrappy upstart founded by Palm
+veterans Donna Dubinsky, Jeff Hawkins and Ed Colligan -- was valued at $9.2
+billion. Dubinsky will now assume a position on Palm's board, while Hawkins
+will become Palm's chief technology officer and Colligan will lead a Palm
+division. The deal is expected to boost Palm's presence in the
+up-and-coming "smartphone" market -- an area in which Palm has been
+conspicuously absent. According to IDC, sales of handheld computers will be
+flat this year, while smartphone sales are expected to triple to more than
+13 million units. The acquisition will coincide with Palm's official
+spinoff of its PalmSource software unit. (Wall Street Journal 5 Jun 2003)
+http://online.wsj.com/article/0,,SB105472474479757100.djm,00.html (sub req'd)
+
+NOVELL CLAIMS UNIX PATENTS, COPYRIGHTS NEVER TRANSFERRED
+Conflicting claims of Unix intellectual property ownership have come to
+light, with Novell saying it sold SCO Group broad rights to the Unix
+operating system but retained the copyrights and patents. According to a
+1995 contract, Novell sold "all rights and ownership of Unix and UnixWare"
+to SCO's predecessor, the Santa Cruz Operation. But the asset purchase
+agreement filed with the SEC specifically excludes "all copyrights" and
+"all patents" from the purchase. "This agreement is kind of murky. You end
+up with a lot of questions, to put it mildly," says one intellectual
+property lawyer. The question of Unix patent and copyright ownership is
+central to SCO's attempt to force companies using Linux software to pay
+royalties for Unix software code that SCO says was illegally incorporated
+into Linux. On May 14, SCO sent letters to 1,500 of the world's largest
+corporations warning them that using Linux could open them up to legal
+liability for infringement. SCO CEO Darl McBride acknowledged last week
+that the contract contained "conflicting statements," but added: "It
+doesn't make sense. How would you transfer the product but not have the
+copyright attached? That would be like transferring a book but only getting
+the cover." Novell CEO Jack Messerman, meanwhile, said his company is
+basing future operating system products on Linux: "Novell is an ardent
+supporter of Linux and the open-source development community."
+(CNet News.com 4 Jun 2003)
+http://news.com.com/2100-1016_3-1013229.html?tag=fd_lede1_hed
+
+
+[Merger Mania Continues. . .With Some Interesting Twists]
+
+TECH CONSOLIDATION ON THE HORIZON?
+Oracle's hostile takeover bid for PeopleSoft is a harbinger of things to
+come, say many analysts, who've been watching for signs of an impending
+consolidation in the software market. "This is the first week of what will
+be a decade of consolidation in the applications space," says a Banc of
+America securities analyst. "The large suite vendors are going to get
+larger and stronger, and everyone else is going to get weaker. If
+stand-alone firms are attractive, they'll be swallowed." Experts say Oracle
+CEO Larry Ellison's surprise move is a shrewd one -- one that will benefit
+his company whether or not he actually makes the acquisition. If the deal
+goes through, Oracle will surpass Microsoft in the market for
+business-application software, and if it's rebuffed (as expected), Oracle
+may still succeed in sowing doubt among PeopleSoft's customers following
+Ellison's pledge to stop selling PeopleSoft's HR management software.
+Either way, Oracle has thrown a potential monkeywrench into PeopleSoft's
+plans to acquire J.D. Edwards. If PeopleSoft backs out, Oracle may snap up
+J.D. Edwards for itself, and if Oracle's bid for PeopleSoft doesn't pan
+out, it's rumored that No. 1 business applications maker SAP might make a
+play for it. (Los Angeles Times 10 Jun 2003)
+http://www.latimes.com/technology/la-fi-merger10jun10,1,278214.story?coll=la
+
+FTC ASKS FOR NEW POWERS TO FIGHT SPAM
+U.S. Federal Trade Commission Chairman Timothy Muris is asking Congress to
+broaden the FTC's authority to investigate and prosecute spammers. The
+request follows congressional hearings on the subject and an FTC study
+concluding that two-thirds of spam is fraudulent or misleading. Meanwhile,
+several bills to fight spam have been introduced in Congress, the
+frontrunner of which is sponsored by Rep. W.J. Tauzin (R-La.), chairman of
+the House Energy and Commerce Committee. Tauzin's proposed legislation
+would require e-mail marketers to reveal their true e-mail addresses, honor
+consumer requests to be removed from mailing lists, and require that
+p*ornographic spam be labeled as such. The bill would authorize ISPs, state
+attorneys general and federal law-enforcement officials to track down
+suspected spammers and would allow fines up to $1.5 million and jail time
+up to two years for guilty parties. Consumer groups have criticized the
+Tauzin bill, saying it would override tougher state laws and is full of
+loopholes. (Wall Street Journal 11 Jun 2003)
+http://online.wsj.com/article/0,,SB1055288329568200.djm,00.html (sub req'd)
+
+[Hollywood Rules. . .Or Is It "Hollywood Rules?"]
+
+REPLAYTV BLINKS IN FIGHT WITH HOLLYWOOD & NETWORKS
+When Digital Networks North America acquired the ReplayTV brand from
+SonicBlue, it evidently decided to establish better relations with the film
+and TV industries, which had sued SonicBlue because ReplayTV allowed
+consumers to skip commercials (offending the TV industry) and sharing
+movies with friends (offending the movie industry). And so the latest
+version of ReplayTV's digital video recorder comes without the "automatic
+commercial advance" and the "send show" features. Phillip Swann of
+TVPredictions.com says that the moves indicate "a whole new approach to
+marketing ReplayTV. It's a smart one -- at least it's a heck of a lot
+smarter than what the previous regime was doing." Others are less happy.
+Gwen Hinze of the Electronic Frontier Foundation sees what's happening as
+blows to both consumers and innovators: "There's a pretty clear message
+being sent that Hollywood can dictate what technologies consumers can and
+cannot use. What we are concerned about is there's little room for
+technological innovation." (San Jose Mercury News 11 Jun 2003)
+http://www.siliconvalley.com/mld/siliconvalley/6062475.htm
+
+WAL-MART LAUNCHES ONLINE DVD RENTALS
+Wal-Mart has launched its online DVD rental business, in a move that pits
+it head-to-head against similar offerings from Netflix and Blockbuster. A
+Netflix spokeswoman said she thought Wal-Mart and Blockbuster would end up
+battling for the No. 2 spot, noting that her company had already signed up
+1 million customers. "We're not sure what Wal-Mart has, but we're sure it's
+a fraction of that. Until Wal-Mart hits 100,000 they won't be a threat,"
+she added. The Wal-Mart service will feature 13,000 titles, which customers
+can browse through and order online. The DVDs will then be shipped from
+distribution points in Arkansas, California, Georgia, Indiana, Nevada and
+New York, ensuring two-day delivery to 90% of the U.S. Pricing plans start
+at $15.54 a month for unlimited rentals with a maximum of two movies out at
+a time. To keep three or four movies the monthly fees rise to $18.76 and
+$21.94, respectively. (AP 10 Jun 2003)
+http://apnews.excite.com/article/20030610/D7RJ558O0.html
+
+INTEL: FOLLOW THE MARKETS (AND GO EAST)
+Since the fastest-growing markets for Intel chips are India, China, Russia,
+Eastern Europe and South America, Intel president and chief operating
+officer Paul Otellini says that's where new development centers will be
+located: "Our resources will go where our markets are." The company will be
+investing in a software development hub in Bangalore and expanding its
+staff in India to 3,000. Otellini explains: "We can access incredible
+talent for software engineering in India. To get these skills, we may not
+be able to hire and train people quickly in the United States."
+(AP/USA Today 11 Jun 2003)
+http://www.usatoday.com/tech/techinvestor/2003-06-10-intel-india_x.htm
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+JUDGES UPHOLD PHONE-NUMBER PORTABILITY
+A three-judge panel of the U.S. Court of Appeals has ruled against
+Verizon Wireless and a cell phone trade group, upholding a rule passed
+by the Federal Communications Commission that allows cell phone
+consumers to change carriers but keep their phone numbers. Wireless
+carriers had argued that the rule was unnecessary, but the judges
+concluded that having to change a phone number constituted a
+significant barrier to changing carriers. The Cellular
+Telecommunications and Internet Association, which had challenged the
+rule, said it was disappointed with the appellate court ruling.
+Land-line phone carriers are already required to allow customers to
+keep phone numbers when they change carriers.
+Reuters, 6 June 2003
+http://www.reuters.com/newsArticle.jhtml?storyID=2890803
+
+
+[If It Were Students' Grades Or Scholarship Info, Would They Shut Down?]
+
+ROGUE E-MAILS AT STANFORD CIRCULATE CONFIDENTIAL INFORMATION
+The rapidly spreading Bugbear.B computer virus hit Stanford University,
+randomly sending out files from campus PCs, including highly confidential
+information about employee salaries and bonuses. Some within Stanford's
+35,000 user computer system received rogue e-mail generated by the virus,
+including Chris Handley, who directs the campus computer system.
+Handley's team subsequently intercepted messages containing salary
+and bonus information. Although it is not known if the e-mails were
+read by those outside Stanford, Handley made the decision to block
+outgoing e-mails. Handley called the president of the university
+to inform him that network would be down until the problem is resolved.
+San Jose Mercury News, 6 June 2003
+http://www.siliconvalley.com/mld/siliconvalley/6027714.htm
+
+
+FEDERAL DO-NOT-CALL LIST CLOSE TO LAUNCH
+Officials from the Federal Trade Commission (FTC) now say that the
+federal do-not-call registry will be available on or before July 1,
+almost two months earlier than the agency had previously predicted.
+Eileen Harrington of the FTC said, "We initially thought things would
+take longer ... but now we're really confident we can get the entire
+system up quickly." Marketing organizations including the Direct
+Marketing Association fought the registry in court and in Congress, but
+ultimately the registry was allowed to proceed. Consumers will be able
+to add their names to the registry, and, beginning in September,
+marketers will not be allowed to call anyone whose name appears on the list.
+Those who violate the statute face fines of up to $11,000 per violation.
+Wall Street Journal, 4 June 2003 (sub. req'd)
+http://online.wsj.com/article/0,,SB105467702262503100,00.html
+
+STUDY SHOWS RISKS TO BROADBAND USE
+A new study from the National Cyber Security Alliance indicates a gap
+between broadband users' perceptions of how secure their systems are
+and the real level of security. According to the study of 120 broadband
+users, 77 and 86 percent consider their systems safe from hackers and
+online threats, respectively. More than 40 percent, however, do not
+have a firewall. A majority of the users in the study have antivirus
+software installed on their systems, but most do not regularly update
+that software, leaving them vulnerable to new viruses. Keith Nahigian,
+spokesman for the alliance and a consultant to the Office of Homeland
+Security, noted that broadband users are at significantly higher risk
+for security problems than dial-up users because of the speed of
+broadband connections and the fact that they typically are always on.
+New York Times, 4 June 2003 (registration req'd)
+http://www.nytimes.com/2003/06/04/technology/04NET.html
+
+ROYALTY DEAL REACHED FOR NON-COMMERCIAL WEBCASTERS
+The recording industry and non-commercial Webcasters have reached an
+agreement on royalty rates that will avoid a potentially lengthy and
+expensive arbitration process and will allow most stations to continue
+Webcasts. Non-commercial stations, including many college radio
+stations, had been involved in a lengthy dispute over the royalty rates
+set by the Librarian of Congress, rates the stations said were too high
+for non-commercial operations. Under the deal, non-commercial
+Webcasters can choose to pay 0.0762 cents per song per listener or
+0.0117 cents per listener hour. The deal is retroactive to 1998, the
+year in which Congress mandated that Webcasters must pay royalties to
+artists and music labels.
+Internet News, 3 June 2003
+http://dc.internet.com/news/article.php/2216941
+
+
+[How Much Fast Would The Internet Run Without Spam???]
+
+NO CONSOLATION IN NEW DATA ON SPAM
+A recent survey by Symantec finds that significant percentages of
+children are exposed to spam regularly, often outside the scope of
+parental supervision. According to the survey, 47 percent of kids
+between the ages of 7 and 18 have received pornographic spam, and 21
+percent read spam. Nearly a third said they do not know if spam is good
+or bad, and 22 percent said their parents have not talked to them about
+spam. Forty-six percent said they give their e-mail addresses to
+friends or to Web sites without parental permission. Separately, the
+Radicati Group released new estimates for the monetary costs of spam.
+According to the group, if nothing is done to curb the spread of spam,
+by 2007 there will be more than 33 billion corporate spam e-mails per
+day, costing businesses nearly $200 billion annually. The group
+projects that spam could account for 49 percent of all corporate e-mail
+traffic by 2007, compared to 24 percent in 2003.
+Internet News, 9 June 2003
+http://www.internetnews.com/bus-news/article.php/2219211
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_06_11_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_06_11_part_1.txt</a>

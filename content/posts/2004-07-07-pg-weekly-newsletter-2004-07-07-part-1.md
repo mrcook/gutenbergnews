@@ -1,0 +1,1060 @@
+---
+params:
+  id: 2156
+title: "PG Weekly Newsletter: Part 1 (2004-07-07)"
+date: 2004-07-07T19:32:18+00:00
+author: Michael Cook
+layout: post
+url: /20040707/pg-weekly-newsletter-2004-07-07-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, July 7, 2004 PT1*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971*****
+
+
+                      NOW STARTING OUR 34TH YEAR!!!
+
+
+**There you see it, from July, 1971 to July, 2004. . .and still counting**
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+                            eBook Milestones
+
+
+                      13,155 eBooks As Of Today!!!
+
+
+                         6,845 to go to 20,000
+
+
+              We've Added Over 2,000 New eBooks This Year
+
+
+         We Are Nearly 1/3 of the Way from 10,000 to 20,000!!!
+
+
+***
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2001 to 2004 for our last 10,000
+
+***
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET new Newsletter editors who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 26/52 Year History, We Have Now Averaged About 400 eBooks/Yr
+And This Year We Are Averaging that Same New eBook Level. . .PER MONTH!
+
+
+         We Are Averaging About 375 eBooks Per Month This Year
+
+                              86 per week
+
+***
+
+Here is another selection from Bill Hammack's Commentaries,
+this time on The U.S. Declaration of Independence, which is
+Project Gutenberg eBook #1, 33 years old as of this Sunday:
+
+
+Every Fourth of July I read the Declaration of Independence. I do
+this partly because I enjoy its eloquent phrases, partly because
+its lofty sentiments fill me with historical pride, but mostly I reread
+it to be a better citizen. It is, after all, the founding document.
+
+Over the years I've detected, with my engineers eye, an unmistakable
+trace of science and math in the Declaration. It reads like a geometric
+proof with its "laws of nature" and its truths held to be "self-evident"
+like axioms. It first lays down axioms like "All men are created equal"
+and then derives, if you will, an indictment against King George the Third.
+
+I've learned that there is more than an echo of scientific reasoning
+in the Declaration, phrases like "laws of nature" had deep meaning
+for the Founders. Thomas Jefferson, John Adams and Benjamin Franklin,
+all members of the committee that wrote the Declaration, used science
+as a source for metaphors. They believed it to be the supreme expression
+of human reason. For no Founder was science more important than Jefferson,
+the Declaration's main author.
+
+In a letter he revealed, "Nature intended me for the tranquil pursuits
+of science, by rendering them my supreme delight." He filled his writings
+with discussions of plows, air pumps, compasses, canal locks, balloons
+and steam power. He stocked his library at Monticello with books on every
+aspect of science and technology. None more important to him than Euclid's
+geometry and Isaac Newton's great works on physics.
+
+At Monticello Jefferson had a picture gallery of intellectual giants.
+He assigned a high place to three portraits, one of which was Isaac Newton.
+He esteemed Newton as one of the greatest minds the world had produced.
+Jefferson had both the Latin original and English translations of Newton's
+Principia in his library; he is surely our only president who's actually
+read it.  So, when Jefferson opened the Declaration of Independence
+by asking the American people to assume the powers of the Earth
+"to which the Laws of Nature .... entitle[d] them." he meant more than
+natural law - the supreme moral law known to humankind through reason.
+
+To Jefferson and the other Founders, the words "Laws of Nature" had a
+deeper resonance: They evoked a picture of Newton's laws of motion,
+of the universe as one great harmonious order obeying mathematical laws.
+A world in which it was natural that humans have inalienable rights.
+
+
+How does all this help me today to be a better citizen?  Well, in
+hindsight, the Founders too glibly made a leap from the laws of gravity
+to the laws of human interaction. In reading the Declaration one can
+easily forget that the dignity and "the rights of man" are neither a
+self-evident axiom, nor an inalienable right, but instead a
+hard-earned acquisition that we must continually work to keep.
+
+
+Copyright 2004 William S. Hammack Enterprises
+[Republished here with his personal permission]
+
+
+[We are continuing our efforts to collect founding documents from
+every country [when legal to republish] and from every period.
+If you have access to any of these, please contact us.  Thanks!]
+
+***
+
+In addition to previous mentions noted from the general media,
+eBooks have now made it to the comic strips:
+
+FRANK & ERNEST talked about downloading "Civil Disobedience" a
+few days ago on June 18.  I emailed the author to see if there
+was a direct connection.
+
+For those who said eBooks would never become a general item:
+
+Now that eBooks have made it into the comic strips, there will
+be no way to argue that they are not part of general society.
+
+
+***  HOT Requests!!!
+
+
+We're working up a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+and *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- New Site (above)
+- Hot Requests (above)
+- Requests For Assistance
+- Progress Report, including Distributed Proofreaders
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+    Updates/corrections in separate section
+    49 New Public Domain eBooks Under US Copyright
+- Headline News from NewsScan and Edupage
+- Information about mailing lists
+
+
+***REQUESTS FOR ASSISTANCE
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+*** Progress Report
+
+     In the first 6.00 months of this year, we produced 2249 new eBooks.
+
+  It took us from July 1971 to July 2000 to produce our first 2,249 eBooks!
+
+              That's 26 WEEKS as Compared to ~29 Years!
+
+                  49   New eBooks This Week
+                 101   New eBooks Last Week
+                 347   New eBooks This Month [June]
+
+                 375   Average Per Month in 2004
+                 355   Average Per Month in 2003
+                 203   Average Per Month in 2002
+                 103   Average Per Month in 2001
+
+                2248   New eBooks in 2004
+                4164   New eBooks in 2003
+                2441   New eBooks in 2002
+                1240   New eBooks in 2001
+                ====
+               10093   New eBooks Since Start Of 2001
+                         That's Only 42.00 Months!
+
+              13,155  Total Project Gutenberg eBooks
+               8,411   eBooks This Week Last Year
+                ====
+               4,746   New eBooks In Last 12 Months
+
+                 363   eBooks From Project Gutenberg of Australia
+                       [Sorry, we rereleased data on one twice,
+                       so I listed 364 last week, my apologies.]
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage =  96%
+
+Moore's Law 18 month percentage =  95%
+
+[100% of Moore's Law = doubling every 18 months]
+
+***
+
+On 13 Mar 2001, PGDP completed its first eBook for posting to the Project
+Gutenberg collection (eBook #3320).  Since then, the Online Distributed
+Proofreading Team has produced more than 4600 eBooks.
+
+Projects completed since the beginning of the year:
+Jan 2004 -  267
+Feb 2004 -  421
+Mar 2004 -  365
+Apr 2004 -  276
+May 2004 -  235
+Jun 2004 -  232
+Jul 2004 -   34 (as of Jul 7)
+
+Two years ago they completed their 318th eBook (#5259).
+One year ago they completed their 1,454th eBook (#8138).
+This week they are well past their 4,700th eBook!!!!!!!
+
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+
+***
+
+
+                            FLASHBACK!!!
+
+                   2248 New eBooks So Far in 2004
+
+               It took us ~29 years for the first 2248 !
+
+       That's the 6.00 MONTHS of 2004 as Compared to ~29 YEARS!!!
+
+      Here Is A Sample Of What Books Were Being Done Around #2248
+
+Aug 2000 The Pioneers, by James Fenimore Cooper [Cooper#3] [tpnrsxxx.xxx] 2275
+Aug 2000 How to Live on 24 Hours a Day, by Arnold Bennett  [24hrsxxx.xxx] 2274
+Aug 2000 Tom Swift And His Motor-Boat, by Victor Appleton  [02tomxxx.xxx] 2273
+Aug 2000 The Discovery of Guiana, by Walter Raleigh  WR#3] [guianxxx.xxx] 2272
+Aug 2000 He Fell In Love With His Wife, by Edward P. Roe   [inlhwxxx.xxx] 2271
+
+Jul 2000 The Complete Shakespeare's First Folio [35 Plays] [00ws1xxx.xxx] 2270
+Jul 2000 Cymbeline, by Wm. Shakespeare  [First Folio]=[FF] [0ws39xxx.xxx] 2269
+. . .
+Jul 2000 The Merchant of Venice, by Wm. Shakespeare   [FF] [0ws18xxx.xxx] 2243
+. . .
+Jul 2000 The Tempest, by William Shakespeare          [FF] [0ws41xxx.xxx] 2235
+
+***
+
+Today Is Day #187 of 2004
+This Completes Week #26 and Month #6.00
+   184 Days/26 Weeks To Go  [We get 52 Wednesdays this year]
+  6845 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    87   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books you would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned).  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+     or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://gutenberg.net/donation.html  or email donate@gutenberg.net
+
+***
+
+"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+http://www.gutenberg.net/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://gutenberg.net/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://gutenberg.net/list
+
+***
+
+We've added some new FAQs and generally updated information
+about Project Gutenberg.  Take a look, and email Michael or
+Greg with any suggestions or corrections.  We'll have these
+updated from time to time, now that we've passed #10,000, a
+new set will be in the works when we pass #20,000.
+
+http://gutenberg.net/about
+
+***
+
+Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 26 weeks of this year, we have produced 2248 new eBooks.
+It took us from 1971 to 1999 to produce our FIRST 2248 eBooks!!!
+
+          That's 26 WEEKS as Compared to ~29 YEARS!!!
+
+
+With 13,155 eBooks online as of July 06, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.76 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.19 when we had 8411 eBooks A Year Ago
+
+Can you imagine ~13,155 books each costing ~$.45 less a year later???
+Or. . .would this say it better?
+Can you imagine ~13,155 books each costing 1/3 less a year later???
+
+At 13,155 eBooks in 33 Years and 00.00 Months We Averaged
+       399 Per Year   [We do nearly that much a month these days!]
+        33.2 Per Month
+         1.09 Per Day
+
+At 2248 eBooks Done In The 187 Days Of 2004 We Averaged
+      12 Per Day
+      87 Per Week
+     375 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+WHEN A FEATURE BECOMES A BUG
+A report by Secunia, a computer security company, says that an Internet
+Explorer feature is being used by network vandals to convert Web sites into
+virus transmitters. (It's not a bug but a feature intended to make browsing
+more convenient.)  Two other flaws in Microsoft products allowed hackers to
+direct Internet Explorer browsers to automatically run the virus when
+visiting an infected site. Microsoft says that updated code will be
+automatically installed on computers set to receive it. The update is also
+available at http://windowsupdate.microsoft.com. (AP/USA Today 3 Jul 2004)
+http://tinyurl.com/yrgpq
+
+A KICK OF ADRENALINE FOR PUBLIC RADIO
+The nonprofit Public Radio Exchange (PRX) in Cambridge, Mass., is a
+radio distribution service that, for a minimum $50 annual fee, lets a
+producer post audio material for audition and licensing. Other members can
+then listen free and possibly choose to acquire a feature or news piece for
+broadcast. Executive Director Jake Shapiro says the goal is to give public
+radio "a kick of adrenaline." PRX currently has more than 2,700 members,
+most of whom have chosen its free "Vox Pop" membership. "Of course, we'd
+prefer more paying members," says Shapiro. "We aim to become
+self-sustainable in three to five years." (Washington Post 5 Jul 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A29919-2004Jul5.html
+
+ISPs WIN MUSIC DOWNLOAD CASE
+Canada's Supreme Court has ruled 9-0 that Internet service providers do
+not have to pay royalties to composers and artists for music downloaded by
+Web customers, since companies providing wide access to the Web are merely
+"intermediaries" who aren't bound by Canadian copyright legislation. At
+issue was an effort by the Society of Composers, Authors and Music
+Publishers of Canada (SOCAN) to force Internet service providers to pay a
+tariff. SOCAN also wanted to extend Canadian copyright law beyond the
+country's borders and apply it to offshore Web sites that serve Canadians.
+Opposing the effort was the Canadian Association of Internet Service
+Providers. (The Australian 1 Jul 2004) Rec'd from John Lamp, Deakin U.
+http://tinyurl.com/28ouv   [More below]
+
+RFID COULD COST 4 MILLION JOBS BY 2007
+The Yankee Group, a prominent market research firm, is predicting that
+RFID tags will cost four million U.S. jobs by 2007, throughout numerous
+industries. (RFID stands for Radio Frequency Identification, a technology
+embedded for inventory and tracking purposes into products, materials, and
+shipments.) However, Yankee Group analyst Adam Zabel thinks that most
+workers who lose their jobs due to increased efficiencies made possible by
+RFID technology will be able to obtain 'more value-added' positions.
+
+[Isn't that what they ALWAYS say. . .then "find out" that only 40% of
+their employees decided to take advantage of their offer, since their
+new jobs wouldn't be nearly as good; "Would you like fries with that?"
+The average "new job" these days pays nearly $10,000 less that the
+previous job from which the worker "transferred."]
+
+(Vnunet 2 Jul 2004)  http://www.vnunet.com/news/1156369
+
+
+[And in a related "Would You Like Fries With That?" story]
+
+CHAMBER OF COMMERCE TOUTS BENEFITS OF OFFSHORING
+U.S. Chamber of Commerce president and chief executive Thomas Donohue
+is urging American companies to send work overseas as a way to boost
+national competitiveness, and he's scornful of labor leaders and politicians
+who want to limit or ban offshoring of government contracts. "Without fail,
+businesses go where they want and where they can earn money -- investment is
+fungible. We're not going to create more jobs by building barriers." While
+admitting that "one job sent overseas, if it happens to be my job, is one
+too many," Donoghue insists that the overall benefits of offshoring jobs
+outweigh the cost. One management consultant who heard Donoghue's talk
+yesterday at the Commonwealth Club of California said: "In theory, it's
+promoting change so that the quality of jobs that remain in the United
+States remains higher than elsewhere. But the pace of change is fast, and
+trying to stay a step ahead is difficult. It almost comes down to luck,
+being in the right career at the right time." (AP/San Jose Mercury News 30
+Jun 2004)
+http://www.siliconvalley.com/mld/siliconvalley/9051372.htm
+
+REBELLION AGAINST DIRECTORY OF CELL PHONE NUMBERS
+A proposal from the the Cellular Telecommunications & Internet
+Association (CTIA) to create a national directory of cell phone numbers has
+created quite a stir across the country. Northwestern University sociologist
+Bernard Beck comments: "As life becomes more technologically complex, people
+reflexively pull back. We don't want to give up any personal information
+because it seems every day someone figures out a new way to victimize us."
+U.S. Cellular promises to withhold customers' numbers from any directory and
+Verizon Wireless says it will not participate in a wireless directory, but
+various other carriers have decided to use the directory service, which
+could start next year. A spokesperson for CTIA says the industry doesn't
+plan to list numbers without permission and that the numbers will be
+available only by dialing 411. Andrew Cole of A.T. Kearney comments: "It's
+more than likely that your friends already have your cell-phone number, so
+all a directory does is make it available to strangers. Most people don't
+want that. Our research shows that people want to simplify their lives.
+They're subject to a barrage of external contacts they haven't initiated. In
+the old days it was cool to be connected, but these days the sign of someone
+who's reached society's higher echelons is that he's disconnected."
+(Chicago Tribune/San Jose Mercury News 1 Jul 2004)
+http://www.siliconvalley.com/mld/siliconvalley/9059631.htm
+
+[Of course, THAT won't stop the phone spammers who all EVERY number."
+
+
+TINY KEYBOARDS
+[Not Your Average Joe. . .Not Joe. . .Nacho. . . .]
+Phone makers have been rushing to add standard keyboards onto tiny
+cell phones and other devices: Motorola's new A630 cell phone flips open
+into a miniature laptop mode, so that keys can be pressed with thumbs;
+Nokia's 6810 flips open to produce a keyboard that spreads out like two
+wings on either side of the screen; Samsung has designed a fist-size box
+that uses a laser to project a keyboard on any flat surface. Yet some
+industry analysts have been questioning the demand for traditional Qwerty
+keypads (named for the six letters at the top left of a typewriter
+keyboard): a survey by Strategy Analytics found that only 13% of cell phone
+users said they wanted one, and Seamus McAteer of the Zelos Group thinks
+that the Qwerty keypad is "a generational thing" -- in that today's teens
+have grown up sending text messages using phone keys and have no interest in
+using traditional keyboards on small devices. (USA Today 1 Jul 2004)
+http://www.usatoday.com/tech/news/2004-07-01-cell-key_x.htm
+
+FRENCH AUTHORITY FORBIDS "DIDTHEYREADIT?" SERVICE
+CNIL, the French data protection authority, has declared Rampell Software'
+s new  mail-service 'Did they read it?' to be illegal. (Subscribers
+to "DidTheyReadIt?" get a report about the exact time their e-mail was
+opened, for how long, on what kind of operating system and if the mail was
+forwarded to other people.) The CNIL finds the service unacceptable under
+French privacy Legislation; as a result, any French subscriber to this
+service risks a prison sentence of 5 years plus a substantial fine.
+(EDRIgram 1 Jul 2004)
+www.edri.org  Rec'd from Jim Sterne via Mark Gibbs
+
+
+COURT RULES E-MAIL EAVESDROPPING OKAY
+
+[It's a technicality. . .if you really look, you'll find that your phone
+calls are often digitally stored for short amounts of time, too, so they
+could tap anyone and anything based on this decision.  More below.]
+
+In a surprise decision, a federal appeals court has ruled that it was
+acceptable for a company that offered e-mail service to peruse messages sent
+by its subscribers. The case stems from 1998 when it was discovered that
+Interloc, a now-defunct literary clearinghouse, surreptitiously copied
+messages sent to its subscribers by rival Amazon in order to "develop a list
+of books, learn about competitors and attain a commercial advantage." An
+Interloc executive was later indicted on an illegal wiretapping charge, but
+yesterday's ruling upheld a federal judge's dismissal of that charge on the
+grounds that the e-mails were copied while in "electronic storage" (during
+the process of being routed through a network of servers to recipients). The
+Wiretap Act prohibits unauthorized eavesdropping on messages that are not
+stored -- such as a real-time telephone conversation -- but does not afford
+the same protection to stored messages. In a dissenting opinion, Appeals
+Court Judge Kermit Lipez wrote that the ruling unravels "decades of practice
+and precedent regarding the scope of the Wiretap Act" and essentially
+renders the act "irrelevant to the protection of wire and electronic
+privacy."  In a concurring statement, the Electronic Frontier Foundation
+said that yesterday's ruling "dealt a grave blow to the privacy of Internet
+communications." (AP 30 Jun 2004)
+http://apnews.excite.com/article/20040701/D83HMB0O0.html
+
+LIAR LIAR PANTS ON FIRE (AS JUDGED BY SOFTWARE)
+Voice-based lie-detector tests using voice stress analysis have become
+increasingly popular with law enforcement agencies, telemarketing companies,
+matchmakers, and claims adjusters, even though critics charge that the
+technology is unreliable and invasive of privacy. Defending the industry
+against such charges, David Watson of V Worldwide Inc. says that each of a
+person's various motivations for lying has its own physiological
+manifestations (each being a "self-defense mechanism of the body coming from
+a completely different place"). But David T. Lykken, an emeritus professor
+of psychology at the University of Minnesota, says: "It is implausible to
+imagine that the only times that your body shows increased arousal when you
+answer a question is when you're being deceptive." Future uses for the
+technology will include algorithms for use by airport screeners, political
+analysts, and lovers. (Mad Love, an offering already available, is "a
+cellular service which allows you to find out if the person you're speaking
+with is attracted to you").  New York Times 1 Jul 2004
+http://www.nytimes.com/2004/07/01/technology/circuits/01voic.html
+
+COMCAST SEES CONVERGENCE IN YOUR FUTURE
+Stephen Burke, president of Comcast Cable, predicts: "The television
+industry is going to change more in the next five years than it has in the
+last 20." Comcast says it's now ready to roll out next-generation services
+that require abundant bandwidth and two-way communications. These include:
+video e-mail services; video-on-demand (VOD) programming that goes far
+beyond movies; an Internet portal-like screen that subscribers can call up
+on their PC, TV or phone to access voicemail, e-mail and faxes; and
+extensive offerings of high-definition local TV station broadcasts.
+"We have a vision for the company to not be a commodity provider,"
+says Comcast CEO Brian Roberts.
+http://www.usatoday.com/tech/news/2004-06-30-comcast_x.htm
+
+[Personally, I like the idea of one price for TV and PC cable, phone,
+and all those services. . .BUT. . .there is ONE *HUGE* problem. . . .
+If your service goes down, you lose it all. . .you can't call repair,
+because your phone is gone, too.  My solution:  I already have phones
+from two different carries. . .and you don't know how many times I've
+used one to call up and complain to the other, after having to tromp
+around the block in the snow at midnight to call emergency repair.]
+
+
+BELT-TIGHTENING AT MICROSOFT
+Microsoft CEO Steve Ballmer is calling on his employees to do a billion
+dollars worth of cost-cutting, so that the company can address shareholder
+concerns about its stagnant stock price. In his annual message, the
+questions Ballmer posed to Microsoft employees were: "Will we be first with
+important innovations? Will process excellence lead to greater ability to
+make an individual difference? Will our focus on costs hurt employees
+personally and will it hinder new investments? Will we grow and will our
+stock price rise? Will the PC remain a vital tool, and will we remain a
+great company?" In response to employees who had wondered why Microsoft
+hasn't used its large quantity of cash for employee benefits, Ballmer's
+response was that "the cash is shareholders' money, so we need to either
+invest in new opportunities or return it to them."
+(New York Times 7 July, 2004)
+(http://www.nytimes.com/2004/07/07/technology/07soft.html
+
+BELT-TIGHTENING AT MICROSOFT
+Microsoft CEO Steve Ballmer is calling on his employees to do a billion
+dollars worth of cost-cutting, so that the company can address shareholder
+concerns about its stagnant stock price. In his annual message, the
+questions Ballmer posed to Microsoft employees were: "Will we be first with
+important innovations? Will process excellence lead to greater ability to
+make an individual difference? Will our focus on costs hurt employees
+personally and will it hinder new investments? Will we grow and will our
+stock price rise? Will the PC remain a vital tool, and will we remain a
+great company?" In response to employees who had wondered why Microsoft
+hasn't used its large quantity of cash for employee benefits, Ballmer's
+response was that "the cash is shareholders' money, so we need to either
+invest in new opportunities or return it to them." (New York Times 7 Jul
+2004) (http://www.nytimes.com/2004/07/07/technology/07soft.html
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+&gt;From Edupage
+
+US-CERT ADVISES SWITCHING BROWSERS
+In light of a recent announcement about an "extremely critical"
+security vulnerability in Internet Explorer (IE), the U.S. Computer
+Emergency Readiness Team (US-CERT) has issued a warning advising
+computer users to stop using Microsoft's browser. US-CERT is a
+nonprofit formed in September 2003 by the Department of Homeland
+Security and the public and private sectors to improve computer
+security preparedness and response. According to the US-CERT notice,
+there are "significant vulnerabilities in technologies relating to the
+IE domain/zone security model, the DHTML object model, MIME-type
+determination, and ActiveX." The IE bug allows hackers to install
+spyware on users' computers without any action on the part of the
+user. The notice goes on to say that, particularly for browsing
+untrusted sites, use of another browser is an effective way to avoid
+the security risks mentioned.
+Internet News, 29 June 2004
+http://www.internetnews.com/security/article.php/3374931
+
+APPEALS COURT SAYS ISPS CAN READ E-MAIL
+A federal appeals court has upheld a lower-court ruling to dismiss
+charges against Bradford Councilman, who was charged under the Wiretap
+Act for reading others' e-mail. Councilman operated an online
+bookselling company called Interloc and offered some customers
+"@interloc.com" e-mail addresses, making the company an ISP. Councilman
+is alleged to have made copies of e-mail that came from Amazon, in an
+attempt to gain competitive advantage. The appeals court ruled that the
+e-mails were saved, if only momentarily in a computer's memory, and
+were technically not intercepted. Because the Wiretap Act applies to
+intercepted transmissions, the court ruled that it does not apply in
+this case. The court admitted the law may be "out of step" with current
+technologies but said that, as written, the Wiretap Act does not
+prohibit Councilman's actions. Andrew Good, one of Councilman's
+attorneys, said many ISPs, including employers and educational
+institutions, look at incoming e-mail, such as when they perform virus
+scans. Finding Councilman guilty, said Good, would make all such
+actions by ISPs illegal. Privacy advocates disagreed, however, and said
+the decision sets a dangerous precedent for reading electronic conversations,
+including voice over Internet Protocol (VoIP) phone calls. CNET, 30 June 2004
+http://news.com.com/2100-1028_3-5253782.html
+
+CANADIAN COURT REJECTS PLAN TO CHARGE ISPS ROYALTIES
+The Supreme Court of Canada has ruled that ISPs cannot be required to
+pay royalties to record companies for the music that users download.
+Representatives of the music industry had lobbied the courts to compel
+such royalties, but the Supreme Court said, "It is clear that
+Parliament did not want copyright disputes between creators and users
+to be visited on the heads of the Internet intermediaries." The Court
+did acknowledge that although use of the Internet should be encouraged,
+it should not happen "at the expense" of those who create original
+works. Nevertheless, the Court said ISPs should not bear the burden of
+copyright enforcement. The decision is the second in the past three
+months that favored ISPs over copyright owners. In March, a Canadian
+court ruled against record companies that had sought to force ISPs to
+divulge the identities of file traders suspected of copyright infringement.
+Reuters, 30 June 2004
+http://www.reuters.com/newsArticle.jhtml?storyID=5557579
+
+MICROSOFT SETTLES LAWSUITS IN MINNESOTA AND VERMONT
+In its ongoing antitrust battles, Microsoft has settled cases with the
+states of Minnesota--whose case was the only one to go to trial--and
+Vermont. Microsoft has been accused of anticompetitive practices that
+drove other companies out of business and allowed Microsoft to
+overcharge consumers. In both states, as in other Microsoft
+settlements, the company will offer consumers vouchers that can be
+redeemed for hardware or software from any company. In Vermont, the
+total for the vouchers is $9.7 million; 50 percent of unused vouchers
+will be given to the state's public schools. In Minnesota, where the
+trial had begun seven weeks ago, Microsoft agreed to provide vouchers
+for $174.5 million, again with one-half of unused vouchers going to
+Minnesota public schools. In Minnesota, however, Microsoft also agreed
+to cash payments. Under the settlement, the company will give $2.5
+million in cash to the University of Minnesota's Institute of
+Technology, as well as $2.5 million in vouchers. Microsoft will also
+pay another $2.5 million in cash to the Minnesota Legal Aid Society.
+Internet News, 2 July 2004
+http://www.internetnews.com/bus-news/article.php/3376521
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+
+DUTCH PARLIAMENT FORCES MINISTER BRINKHORST TO WITHDRAS SUPPORT FOR
+SOFTWARE PATENTS DIRECTIVE
+
+
+Today, July the 1st, the Dutch Parliament has decided to direct Minister
+Brinkhorst and Secretary of State van Gennip (Economic Affairs) to
+withdraw the Dutch vote in support of the Council of Ministers' text for
+the Directive on Software Patents.  This is the first time in the history
+of the EU that such a course of action has been undertaken.
+
+The idea of allowing patents on software has been strongly criticized
+among SMEs, scientists and consumer organisations. They inhibit
+investments in Research and Development and contribute to higher prices.
+Commentators also fear the rise of a "lawyers paradise" in Europe such as
+is found in the USA, where programmers are constantly threatened by
+lawsuits.
+
+This act represents an incisive criticism of the European Council of
+Ministers' attempts to introduce broad patentability of software.
+Minister Brinkhorst, acting on behalf of the Netherlands, endorsed the
+Council's current proposal, which not only reiterated the terms of the
+Council's strongly criticized first proposal, but went even further,
+directly rebuffing the clear stance assumed by the EU Parliament, which
+voted to add numerous amendments which made clear how the category of
+logical algorithms would be treated.
+
+The European Parliament's version asserted that patents would only be
+allowed for industrial inventions (e.g. washing machines) and would not
+be made possible for pure software.  All these adaptations were removed
+in the Council of Ministers' controversial version.
+
+Earlier, Brinkhorst described the Council proposal to the Dutch
+Parliament as a compromise with the EP. In recent legislative debates,
+Van Gennip was forced to admit that this was incorrect information, and
+attributed it to "an error in the word processor."
+
+The Dutch Parliament apparently didn't buy this explanation and today
+she rendered an historic and groundbreaking decision, calling upon
+Minister Brinkhorst and van Gennip to withdraw the Netherland's
+supporting vote in the European Council and convert it to an abstention.
+This measure is possible because at the present moment there is only a
+"political agreement" and the "formal vote" can only take place after
+the contested text has been translated into the 20 European Languages.
+An emergency brake move in the procedure such as this has never been
+exercised before.
+
+With this decision, the Dutch Parliament demonstrates the active
+interest her public holds in the debate over software patents, and her
+recognition and appreciation for the adaptations introduced by the
+European Parliament.
+
+Dieter Van Uytvanck, spokesman of FFII Netherlands, stresses the
+importance of this decision:
+
+   This political signal reaches much further than just The
+   Netherlands. We hope that other European countries that also have
+   their doubts about the proposal of the Council will also withdraw
+   their support, so that the current proposal no longer has a
+   majority. The historic precedent is there now.
+
+   Let this be a lesson for the lawmakers in Brussels: the European
+   citizen watches you closely. It is much better to take this into
+   account from the beginning as it is to get into trouble later.
+
+
+Contact
+
+Wiebe van der Worp
+wiebe@vrijschrift.org
+tel. 06 28 195 808
+
+Ir. Arend Lammertink:
+alam@home.nl
+tel. 06 5425 6426
+
+Dieter Van Uytvanck:
+dieter@vrijschrift.nl
+tel. +32 499 16 70 10
+
+
+***
+
+
+STRANGE QUOTE OF THE WEEK
+
+
+"It's [the Irag War] is good for business, bad for the people."
+
+Vice President of a Halliburton subcontractor.
+
+***
+
+
+SIMPLE SOLUTION OF THE WEEK
+
+One of our larger local cities got tired of waiting for
+new state or national medical malpractic legislation.
+In an effort to stop their doctors from closing up shop
+Carbondale, home of Southern Illinois University, passed
+a law stating that all local medical malpractice cases
+must be filed locally, at the county courthouse, and the
+punitive damages must be limited to three times damages.
+
+Of course, I have a feeling that if I accidentally cut
+off the hand of presiding judge, s/he would sue me for
+more than the $40,000{?} alotted for actual damages,
+and the $120,000{?} in punitive damages.
+
+One more point of view, how "accidental" is it if the
+doctor in question has made this decision before?
+
+In light of that, they also passed a law requiring the
+doctors to make available to their patients a list of
+all state sanctions that have been imposed upon them.
+
+In addition, _I_ would propose a law regulating costs
+of the malpractice insurance:  if a patient goes in
+for a procedure in which the predicted failure rate
+is 1%, then they pay an additional 1% over the normal
+costs associated with that procedure.  Then at least
+the cost of the failed procedures is already covered,
+and it encourages the doctors to use the real figures,
+as they have to pay the difference if the figures were
+too low.  If you wanted to cover the additional 3% for
+punitive damages, that could be added to make 4%.
+
+The fact is that they would probably also add another
+1% for administrative costs, for a total of 5%.
+
+Thus a $1,000 procedure would cost $1,050, and the
+$10,000 procedures would cost $10,500, and the whole
+issue of malpractice insurance would be avoided.
+
+
+***
+
+About the Project Gutenberg Weekly Newsletter:
+Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+and
+
+About the Project Gutenberg Monthly Newsletter:
+Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+help@pglaf.org
+
+to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_07_07_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_07_07_part_1.txt</a>

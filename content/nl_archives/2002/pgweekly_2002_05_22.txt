@@ -1,0 +1,607 @@
+PGWeekly_May_22_2002.txt
+
+Alev, I've lost email contact with you, I receive, but replies bounce.
+
+***The Project Gutenberg Weekly Newsletter For Wednesday, May 22, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 142th Day of 2002
+223 Days/32 Weeks Left Until 2003
+
+Ending our 20th Week Of The Year
+
+
+The 6th Week Of Our SECOND 5,000 eBooks
+
+20-30 Months From Today, Perhaps Our 10,000th eBook!
+
+However, things have slowed down a lot since we hit 5,000,
+so please let me know if there is anything we can do to
+help you get going with some new books.  Thanks!  Michael
+
+
+1,743   New eBooks In The Last Year
+3,493   eBooks This Week Last Year
+5,236   Tree-Friendly Titles Now Online
+
+   17   New This Week [20th week]
+   47   Weekly Average This Year
+   75   New This Month [5th month]
+  931   New This Year!!! [31st year]
+   18   New This Week Last Year
+
+   71   eBooks From Project Gutenberg of Australia
+   40   Only 40 Numbers On Our Reserved Numbers list
+
+RESERVED count:   40
+
+Last week, the reserved count was 39; but this week we had to add one
+Shakespeare (#1778) back into the reserved list, making the total 40.
+
+This includes all of the postings below.
+
+[<G>eorge]. . .Our Good Friend!
+
+***
+
+Request for Assistance:
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages
+
+***
+
+I have a couple of copies of these tales in Spanish, but I lack the time
+and courage to do the scanning. If you have a volunteer near Buenos Aires,
+in Argentina, we could arrange somehow to get it scanned.
+Gaston H. Picard <ghpicard@fibertel.com.ar>
+
+***
+
+Try The Newest PG Mirror Site
+
+Location:  Houston, Texas, USA
+URL: http://www.spishak.com/pg
+HTTP only, no FTP
+
+***
+
+The Marxist Internet Archive (http://www.marxists.org) is in need of
+assistance with proofreading. The MIA has many thousands of files
+covering 290 authors and 20 languages. The work is all done by
+volunteers, and in many cases the standard of proofreading leaves
+something to be desired.
+
+The core content of the MIA are the classics of Marxism: Marx, Engels,
+Lenin, Trotsky and other members of the Bolshevik Party. The MIA also
+holds the most comprehensive English language archive of Hegel, and
+significant unique archives of many nineteenth century marxists and
+translations of 20th century Russian marxists and an extensive range
+of reference material of various kinds.  When copyright permits,
+items from the Marxist Internet Archive are contributed to the
+Project Gutenberg collection.  Email ablunden@marxists.org.
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly etext update:
+  Updates/corrections
+  34 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+ or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+
+*Here Are The New Files We Have Done In The Past Week*
+
+LAST WEEK -- TOTAL COUNT **as of Tue 05/15/02**:  5,220 (incl. 71 PG Aus.)
+Removed 1 from total count (re-reserved), new total to start:  5,219.
+New this week:  17
+
+TOTAL COUNT **as of Tues 05/21/02 8:00am PDT**:  5,236
+
+Includes all of the postings below:
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new Etext number.
+
+Please note the following changes, corrections and improvements:
+
+We have posted an improved 11th edition of the following, also
+posted in HTML format:
+Jul 1996 Catriona (Kidnapped2) by Robt L. Stevenson[RLS#25][ctrnaxxx.xxx] 589
+[Plain text version in ctrna11.txt/.zip, HTML in ctrna11h.htm/.zip]
+
+We have posted an improved 11th edition of the following:
+Sep 2001 Eben Holden, by Irving Bacheller                  [bnhldxxx.xxx]2799
+
+
+***] RESERVED LIST UPDATE - CORRECTION [***
+
+Last week, we prematurely removed one Shakespeare etext from the
+reserved listing; this week, we've correct that error, and the
+corrected announcement should be as follows:
+
+Recently, a major cleanup and reconciliation of the etext directories has
+resulted in several Shakespeare etexts being "found", which had previously
+been listed as "Reserved", and not counted in the overall etext total.
+Here is the list of those seven Shakespeare etexts:
+
+Jun 1999 Macbeth, by William Shakespeare                   [1ws3411x.xxx]1795
+Jun 1999 Othello, by William Shakespeare                   [1ws3211x.xxx]1793
+Jun 1999 Measure for Measure, by William Shakespeare       [1ws3111x.xxx]1792
+Jun 1999 A Midsummer Night's Dream, by Shakespeare         [1ws1711x.xxx]1778
+Jun 1999 Romeo and Juliet, by Shakespeare                  [1ws1611x.xxx]1777
+Jun 1999 Sir John Oldcastle, Shakespeare Apocrypha         [1ws0911x.xxx]1771
+Jun 1999 Henry the Sixth, Part One, Shakespeare            [1ws0111x.xxx]1765
+
+As this process continues, we will announce additional changes or corrections.
+
+
+***] 17 NEW U.S. POSTS [***
+
+Apr 2004 Cleopatra,             by Ebers, Complete  [GE#44][ge44vxxx.xxx]5482
+[Author: Georg Ebers] [Contains eBooks #5473-5481]
+Apr 2004 Cleopatra,             by Georg Ebers, v9  [GE#43][ge43vxxx.xxx]5481
+
+Apr 2004 Cleopatra,             by Georg Ebers, v8  [GE#42][ge42vxxx.xxx]5480
+Apr 2004 Cleopatra,             by Georg Ebers, v7  [GE#41][ge41vxxx.xxx]5479
+Apr 2004 Cleopatra,             by Georg Ebers, v6  [GE#40][ge40vxxx.xxx]5478
+Apr 2004 Cleopatra,             by Georg Ebers, v5  [GE#39][ge39vxxx.xxx]5477
+Apr 2004 Cleopatra,             by Georg Ebers, v4  [GE#38][ge38vxxx.xxx]5476
+
+Apr 2004 Cleopatra,             by Georg Ebers, v3  [GE#37][ge37vxxx.xxx]5475
+Apr 2004 Cleopatra,             by Georg Ebers, v2  [GE#36][ge36vxxx.xxx]5474
+Apr 2004 Cleopatra,             by Georg Ebers, v1  [GE#35][ge35vxxx.xxx]5473
+
+
+Feb 2004 Celtic Literature, by Matthew Arnold    [Arnold#2][celtxxxx.xxx]5159
+[Plain text version in celtxxxx.txt/.zip, HTML in celtxxhx.htm/.zip]
+Feb 2004 Le Lutrin, by Boileau                              [?lutrxx.xxx]5158
+[Author AKA: Nicolas Boileau-Despr_aux]
+[7-bit version with non-accented characters in 7lutr10.txt/.zip]
+[8-bit version with accented characters in 8lutr10.txt/.zip]
+Feb 2004 How I Found Livingstone, by Sir Henry M. Stanley  [hiflixxx.xxx]5157
+[Subtitle: Travels, Adventures and Discoveries in Central Africa including
+[four months residence with Dr. Livingstone.  Abridged.]
+Feb 2004 Beechcroft at Rockstone, by C. Yonge    [Yonge#29][brockxxx.xxx]5156
+[Author's Full Name: Charlotte M. Yonge]
+[Plain text version in brock10.txt/.zip, HTML in brock10h.htm/.zip]
+
+Feb 2004 Caesar's Column, by Ignatius Donnelly [Donnelly#2][?ccolxxx.xxx]5155
+[7-bit version with non-accented characters in 7ccol10.txt and 7ccol10.zip]
+[8-bit version with accented characters in 8ccol10.txt and 8ccol10.zip]
+[HTML in 8ccol10h.htm/.zip]
+Feb 2004 La b_te humaine, by Emile Zola            [Zola#6][?bhumxxx.xxx]5154
+[Language: French][#17 in the "Les Rougon-Macquart" series]
+[7-bit version with non-accented characters in 7bhum10.txt/.zip]
+[8-bit version with accented characters in 8bhum10.txt/.zip]
+Feb 2004 Rung Ho!, by Talbot Mundy                [Mundy#2][runghxxx.xxx]5153
+
+***
+
+     Total PG ebooks available online **AS OF 05/22/02**:  5,236
+(This number includes the 71 etexts posted at the PG Australia web site)
+
+In the first 17 weeks of the new year, we have produced 931 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 931 eBooks!!!
+
+Jun 1997 Fall of the House of Usher by Edgar Allen Poe [#1][usherxxx.xxx] 932
+Jun 1997 The Bab Ballads, by W. S. Gilbert [Gilbert #3]    [2babbxxx.xxx] 931
+Jun 1997 The Cook's Decameron, by Mrs. W. G. Water         [ckdecxxx.xxx] 930
+Jun 1997 The Cyberpunk Fakebook, by St. Jude & R.U. Sirius [fakebxxx.xxx] 929C
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,236 eTexts online as of May 22, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.91 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.86 when we had 3493 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.95 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+Headlines From Newsscan
+
+WEB ROYALTY RATES REJECTED
+Librarian of Congress James Billington has rejected the royalty rates
+proposed for online radio, which had been strongly criticized by
+webcasters. The suggested rates would have required Web-only radio stations
+to pay 0.14 cent per song per listener, an amount that many webcasters said
+would drive them out of business. Billington gave no explanation for his
+decision, other than he was acting at the recommendation of Marybeth
+Peters, the registrar of copyrights. The Recording Industry Association of
+America, which had supported the rates, said that Billington's decision
+doesn't imply anything about the final outcome of the debate over rates.
+(Wall Street Journal 22 May 2002)
+http://online.wsj.com/article/0,,SB1021996506906717920.djm,00.html (sub req'd)
+
+[More Lo-Tek Responses To Hi-Tech DRM]
+HI-TECH CDs YIELD TO LOW-TECH FELT-TIP MARKER TRICK
+Sony's elaborate "Key2Audio" CD copy-protection technology has succumbed to
+a decidedly low-tech felt-tip marker used to scribble around the rim of a
+disc. Internet postings say that tape or even a sticky note can be used to
+cover the security track, typically located on the disc's outer edge. The
+technology prevents users from playing the CDs on a computer by adding a
+track that contains bogus data. Because computer drives are programmed to
+read data files first, the PC tries to play the bogus data file over and
+over again and never gets to the music files elsewhere on the disc. The
+result is a CD that will play on standard CD players, but not on CD-ROM
+drives, some portable devices and even some car stereo systems. Sony has
+shipped more than 11 million copy-protected CDs in Europe, with the largest
+number going to Germany -- a market executives say is a hotbed of illegal
+CD-burning. (Reuters 20 May 2002)
+http://www1.excite.com/home/technology/tech_article/0,2109,237089|technology
+|05-20-2002::13:19|reuters,00.html
+
+MICROSOFT MAKES IT EASIER TO SWITCH FROM AOL
+Microsoft is launching a $10-million ad campaign to promote its new
+"switching" service that takes the pain out of changing e-mail accounts for
+former AOL users. In addition, Microsoft is offering a $50 rebate to
+customers who sign up for MSN under the new plan and pay for the service
+for at least three months. The new switch service helps AOL subscribers
+automatically move their information to MSN, including address books and
+online calendar data, as well as e-mail. The service then takes care of
+canceling all AOL accounts and can send a message to everyone in the user's
+address book to alert them to the change in e-mail addresses. The service
+works only with former AOL customers and not with data stored with other
+ISPs, such as EarthLink. (Wall Street Journal 20 May 2002)
+http://online.wsj.com/article/0,,SB1021935823888818840.djm,00.html (sub req'd)
+
+SUMERIAN DICTIONARY PROJECT
+The five-thousand-year-old cuneiform writing system used starting around
+3200 B.C. by Babylon, Chaldea, and other civilizations of Mesopotamia, is
+going online in dictionary, photographic and 3D forms, and a team led by
+Sumerian-language expert Steve Tinney of the University of Pennsylvania
+Museum of Archaeology and Anthropology is translating cuneiform into
+English online (http://ccat.sas.upenn.edu/~melindag/psdmain.html). The work
+is being partly supported by grants from the National Endowment for the
+Humanities. (USA Today 21 May 2002)
+http://www.usatoday.com/life/cyber/2002/05/21/cuneiform.htm
+
+ONLINE PRIVACY BILL DELAYED
+Parliamentary maneuvering has delayed consideration of a Senate bill that
+would protect individual privacy on the Internet and regulate how
+businesses may use customer e-mail addresses and other personal data. The
+proposed legislation would also limit how businesses may use phone numbers,
+purchase records, and other data collected through their Web sites, and
+would require online businesses to get customer permission before
+collecting or sharing sensitive personal information. "What we are
+proposing simply codifies businesses' best practices on the Internet,"
+Hollings says Senator Ernest Hollings (D-SC), who sponsored the bill.
+(Reuters/USA Today 16 May 2002)
+
+HP FACES ANTITRUST SCRUTINY BY EU REGULATORS
+Hewlett-Packard, newly emerged from its bruising battle over its
+acquisition of Compaq Computer, was dealt another blow yesterday when
+European Commission authorities indicated they were launching an
+investigation into possible anticompetitive behavior in the European ink
+cartridge market. Other cartridge makers likely to undergo scrutiny are
+Lexmark of the U.S. and Canon and Epson of Japan. The EC said its action
+was taken in response to a growing number of complaints from consumers over
+the high price of ink cartridges At issue is whether manufacturers use
+illegal tactics to force consumers to buy own-brand cartridges instead of
+cheaper versions made by rivals. Mario Monti, European competition
+commissioner, said on Wednesday: "This is probably a case here for us ...
+We intend to examine this in detail." HP strongly denied the allegations:
+"HP does not prevent customers from using cartridges from other suppliers,"
+it said. (Financial Times 17 May 2002)
+http://news.ft.com/news/industries/infotechnology
+
+CREDIT REPORTS STOLEN FROM EXPERIAN DATABASE
+Network vandals have stolen 13,000 credit reports in recent months from
+Experian, a national reporting agency. An Experian executive said, "I've
+never seen anything of this size. Privacy is the hallmark of our business.
+We're extraordinarily concerned about the privacy issue here, and the trust
+factor." The intruders used an authorization code from Ford Credit to
+obtain the reports, which gave the intruders access to each victim's
+personal and financial information, including address, Social Security
+number, bank and credit card accounts and ratings of creditworthiness. Ford
+has sent letters via certified mail to all 13,000 people, urging them to
+contact Experian and the two other major credit reporting companies,
+Equifax and TransUnion, and to report any evidence of abuse to the FBI.
+(New York Times 17 May 2002)
+http://www.nytimes.com/2002/05/17/technology/17IDEN.html
+
+MICROSOFT ADMITS AND FIXES DEFECTS IN INTERNET EXPLORER
+Microsoft is warning that its Internet Explorer software contains defects
+that could give network intruders access to personal information about
+computer users. Users of Explorer versions 5.01, 5.5 and 6.0 may download a
+patch for the software from the Microsoft site at
+www.microsoft.com/security. The flaws could allow vandals to view files on
+a user's computer hard drive, permit access by a rogue site, or allow
+intruders to change a user's information. But those invasions could occur
+only if the hackers knew such specific and detailed information as the
+names and locations of the user's files. (AP/San Jose Mercury News 16 May 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3279241.htm
+
+'GUMMY' FINGERS FOOL FINGERPRINT SECURITY SYSTEMS
+A Japanese engineering professor has managed to trick biometric security
+systems using artificial fingers made with gelatin. In addition to creating
+a fingerprint by pushing a finger into a malleable plastic mixed with
+gelatin, the researchers were able to create credible fingers using
+fingerprints lifted from a glass. First, the latent print was hardened,
+using glue that sticks to the ridges of the fingerprint. The hardened print
+was then photographed, using a digital camera, and enhanced using Adobe
+Photoshop software to create heightened contrast between the ridges and
+gaps. The image was then transferred to a photosensitive sheet, etched into
+copper and used to create another mold. Both methods resulted in a fake
+finger that was able to fool a variety of biometric readers 80% of the
+time. Security experts say the experiments cast serious doubt on any claims
+that this type of biometric system can be made fully secure. (BBC News 17
+May 2002)http://news.bbc.co.uk/hi/english/sci/tech/newsid_1991000/1991517.stm
+
+CHINA SUSPENDS CENSORSHIP OF WESTERN NEWS SITES
+Without explanation, the Chinese government has removed blocks on the
+normally censored foreign Web sites, including those of such news
+organizations as Reuters, CNN and the Washington Post. It is not known
+whether the decision would stay in force, and officials at the
+International Press Centre and the Ministry of State Security provided no
+information about the new development. The Web sites of the Los Angeles
+Times, National Public Radio, the San Francisco Chronicle, the Boston
+Globe, and the Atlanta Journal-Constitution can also now be accessed,
+whereas the Time magazine, Voice of America, and BBC News sites still
+appear to be blocked. (Reuters/San Jose Mercury News 15 May 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3273080.htm
+
+SONICBLUE WINS TEMPORARY REPRIEVE ON TV TRACKING ORDER
+SONICblue, maker of the ReplayTV digital video recorder, has won a stay of
+a court order that would have forced it to track the television viewing
+habits of its customers. Movie studios, including Paramount and Walt
+Disney, have sued the company, saying that the recording features included
+in the ReplayTV devices, including the ability to skip commercials and
+exchange recorded programs with other users, enable users to violate
+studios' copyrights. Consumer advocates have objected to the court order,
+calling it an invasion of privacy. (Reuters 15 May 2002)
+http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=581&e=4&u=/nm/20020515/
+tc_nm/tech_sonicblue_dc_2
+
+***
+
+Headlines From Edupage
+
+PRIVACY BILL CLEARS COMMITTEE
+Despite strong opposition from Senate Republicans and many U.S.
+corporations, the Senate Commerce Committee approved an online privacy
+bill presented by Sen. Fritz Hollings (D.-S.C.). The bill would require
+online companies to obtain specific permission to release consumers'
+personal information such as medical records or financial data.
+Companies in violation of the law would face fines and the possiblity
+of lawsuits from consumers whose information was improperly released.
+Republicans in the Senate have hinted that it will be difficult to get
+the bill to the Senate floor. Senate Democrats said U.S. companies
+should offer American citizens the same privacy protections they offer
+the European Union (EU), which has arranged a Safe Harbor agreement
+with 180 U.S. companies to protect the privacy of EU citizens.
+Washington Post, 16 May 2002
+http://www.washingtonpost.com/wp-dyn/articles/A28221-2002May16.html
+
+CONGRESSMAN HOPES TO RECLAIM FAIR USE
+Rick Boucher (D.-Va.) plans to introduce legislation that would
+override the section of the Digital Millennium Copyright Act (DMCA)
+that makes it a crime to circumvent any anti-copying technology.
+Critics of the DMCA have complained since it was passed in 1998 that
+the law goes too far in restricting users' rights to content they
+legally own, giving that control to copyright owners. Under the current
+law, if someone defeated copy protections to make an otherwise legal
+copy of a CD for his own use, the act of circumventing the protection
+mechanism is a crime. Under Boucher's proposal, defeating copyright
+protections would only be a crime if it was done with the intent to
+make illegal copies of the content or otherwise infringe on the
+copyright. IDG, 17 May 2002  http://www.idg.net/ic_863105_1794_9-10000.html
+
+ACLU SAYS FACIAL RECOGNITION IS UNRELIABLE
+The American Civil Liberties Union (ACLU), which opposes the use of
+facial-recognition technology for security purposes, said this week
+that tests at Palm Beach International Airport show the tools to be
+unreliable. The ACLU said early reports indicate an effectiveness of
+about 47 percent in identifying volunteer subjects, and this number
+goes lower when people wear glasses or turn their heads away from
+cameras. The system tested is from Visionics Corp. In another test of
+facial-recognition technology at Boston's Logan Airport, officials
+from Visionics and Viisage Technology said their systems were effective
+more than 90 percent of the time, as reported by CNET
+(http://news.com.com/2100-1017-915832.html). An official from Visionics
+said a test at the Dallas/Fort Worth airport showed success rates of
+between 85 and 93 percent.   Newsbytes, 16 May 2002
+http://www.newsbytes.com/news/02/176621.html
+
+FINGERPRINT READERS EASILY FOOLED
+In a study presented this week at a conference in Korea, researchers
+showed that fake fingers made of gelatin can deceive fingerprint
+readers most of the time. Two methods were demonstrated. In the first
+method, an artificial fingerprint was made with the consent of the
+subject. For the second method, a latent fingerprint, one left on a
+glass, for example, can be used to create a gelatin finger that is
+often mistaken by readers for an actual finger. Both methods
+successfully bypassed fingerprint security devices about 80 percent of
+the time. An official from Digital Persona, maker of
+fingerprint-recognition technology, said the results are not indicative
+of how effective fingerprint readers can be in security screenings.
+Other factors, he said, can be used in conjunction with the print
+itself to increase accuracy, including body heat and pulse.
+CNET, 16 May 2002   http://news.com.com/2100-1001-915580.html
+
+COPY PROTECTION CAUSES PROBLEMS FOR MACS
+New copy protections included in some audio CDs are causing problems
+for Mac users. Some copy-protected CDs, especially those from Sony,
+cause Macintosh computers to freeze and not to eject the CD. Although
+some CDs have warnings indicating the disc won't play on a PC or Mac,
+many do not, and Apple's exclusion of problems caused by these CDs
+from its warranty coverage has upset many users. Julian Midgley of the
+Campaign for Digital Rights (CDR), however, defended Apple, as did Ted
+Landau, operator of the Web site MacFixIt. Both blamed the recording
+industry of making products that are not always clearly labeled, saying
+that Apple should not be responsible for the difficulties that result.
+Wired News, 14 May 2002
+http://www.wired.com/news/mac/0,2125,52513,00.html
+
+NEW HOTMAIL ACCOUNT INFORMATION CAUSES CONFUSION AND CONCERN
+A new feature of the Hotmail e-mail program allows users to see all of
+their options for sharing of personal data. The feature was added,
+according to Microsoft representatives, to give users full access to
+their account settings. However, many Hotmail users have been surprised
+to learn that their accounts were set to opt them in to certain kinds
+of promotions and data sharing. Although Microsoft asserts that it has
+not changed anyone's settings and has not modified its privacy policy,
+some users insist otherwise. Analyst David Ferris said users whose
+options were set to share data had probably agreed to that and were
+confused by the terms of agreement for their accounts. He applauded
+Microsoft for giving users access to the information and the option to
+change it. PCWorld, 17 May 2002 http://www.idg.net/ic_863486_1794_9-10000.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+
+

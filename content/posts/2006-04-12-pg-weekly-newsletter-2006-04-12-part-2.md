@@ -1,0 +1,443 @@
+---
+params:
+  id: 2385
+title: "PG Weekly Newsletter: Part 2 (2006-04-12)"
+date: 2006-04-12T19:10:42+00:00
+author: Michael Cook
+layout: post
+url: /20060412/pg-weekly-newsletter-2006-04-12-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Wed Apr 12 20:43:02 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Apr 12 20:43:03 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0604122041340.29381@pglaf.org&gt;
+
+GWeekly_April_12_part2.txt
+
+The Project Gutenberg Weekly Newsletter 12 Apr 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 37 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 12 Apr 2006: 18668 (incl. 556 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Under Two Flags, by Ouida [Louise de la Ramee                             3465
+   [Updated edition of: etext02/u2flg10.txt]
+   [Link: http://www.gutenberg.org/3/4/6/3465 ]
+   [Files: 3465.txt; 3465-8.txt; 3465-h.htm]
+
+The Spell of Egypt, by Robert Hichens                                     3407
+   [Updated edition of: etext02/sgypt10.txt]
+   [Link: http://www.gutenberg.org/3/4/0/3407 ]
+   [Files: 3407.txt; 3407-8.txt; 3407-h.htm]
+
+Sir Humphrey Gilbert's Voyage to Newfoundland, by Edward Hayes            3338
+   [Updated edition of: etext02/hgvtn10.txt]
+   [Link: http://www.gutenberg.org/3/3/3/3338 ]
+   [Files: 3338.txt; 3338-h.htm]
+
+Hunting the Grisly and Other Sketches, by Theodore Roosevelt              3337
+   [Updated edition of: etext02/grsly10.txt]
+   [Link: http://www.gutenberg.org/3/3/3/3337 ]
+   [Files: 3337.txt; 3337-h.htm]
+
+Within an Inch of His Life, by Emile Gaboriau                             3336
+   [Updated edition of: etext02/wnohl10.txt]
+   [Link: http://www.gutenberg.org/3/3/3/3336 ]
+   [Files: 3336.txt; 3336-8.txt; 3336-h.htm]
+
+Theodore Roosevelt, by Theodore Roosevelt                                 3335
+   [Subtitle: An Autobiography by Theodore Roosevelt]
+   [Updated edition of: etext02/trabi10.txt]
+   [Link: http://www.gutenberg.org/3/3/3/3335 ]
+   [Files: 3335.txt; 3335-8.txt; 3335-h.htm]
+
+Drake's Great Armada, by Walter Biggs                                     3334
+   [Updated edition of: etext02/drkga10.txt]
+   [Link: http://www.gutenberg.org/3/3/3/3334 ]
+   [Files: 3334.txt; 3334-h.htm]
+
+East Lynne, by Mrs. Henry Wood                                            3322
+   [Updated edition of: etext02/stlyn10.txt]
+   [Link: http://www.gutenberg.org/3/3/2/3322 ]
+   [Files: 3322.txt; 3322-h.htm]
+
+The Hermit of Far End, by Margaret Pedler                                 3159
+   [Updated edition of: etext02/thofe10.txt]
+   [Link: http://www.gutenberg.org/3/1/5/3159 ]
+   [Files: 3159.txt; 3159-8.txt; 3159-h.htm]
+
+She, by H. Rider Haggard                                                  3155
+   [Updated edition of: etext02/shrhe10.txt]
+   [Link: http://www.gutenberg.org/3/1/5/3155 ]
+   [Files: 3155.txt; 3155-8.txt; 3155-0.txt; 3155-h.htm]
+
+The Surprising Adventures of Baron Munchausen, by Rudolph Erich Raspe     3154
+   [Updated edition of: etext02/baron10.txt]
+   [Link: http://www.gutenberg.org/3/1/5/3154 ]
+   [Files: 3154.txt; 3154-8.txt; 3154-h.htm]
+
+The Virgin of the Sun, by H. R. Haggard                                   3153
+   [Updated edition of: etext02/tvots10.txt]
+   [Link: http://www.gutenberg.org/3/1/5/3153 ]
+   [Files: 3153.txt; 3153-8.txt; 3153-h.htm]
+
+The Wanderer's Necklace, by H. Rider Haggard                              3097
+   [Updated edition of: etext02/ncklc10.txt]
+   [Link: http://www.gutenberg.org/3/0/9/3097 ]
+   [Files: 3097.txt; 3097-8.txt; 3097-h.htm]
+
+Beatrice, by H. Rider Haggard                                             3096
+   [Updated edition of: etext02/betrc10.txt]
+   [Link: http://www.gutenberg.org/3/0/9/3096 ]
+   [Files: 3096.txt; 3096-8.txt; 3096-h.htm]
+
+Red Eve, by H. Rider Haggard                                              3094
+   [Updated edition of: etext02/rdeve10.txt]
+   [Link: http://www.gutenberg.org/3/0/9/3094 ]
+   [Files: 3094.txt; 3094-8.txt; 3094-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  37 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Story of the Three Little Pigs, by Unknown                           18155
+   [Ill.: L. Leslie Brooke]
+   [This children's book has LOVELY illustrations.]
+   [Link: http://www.gutenberg.org/1/8/1/5/18155 ]
+   [Files: 18155.txt; 18155-h.htm; ]
+
+Calumet "K", by Samuel Merwin and Henry Kitchell Webster                 18154
+   [Link: http://www.gutenberg.org/1/8/1/5/18154 ]
+   [Files: 18154.txt; ]
+
+Oscar, by Walter Aimwell                                                 18153
+   [Subtitle: The Boy Who Had His Own Way]
+   [Link: http://www.gutenberg.org/1/8/1/5/18153 ]
+   [Files: 18153.txt; 18153-8.txt; 18153-h.htm; ]
+
+Le robinson suisse, by Johann David Wyss                                 18152
+   [Subtitle: ou Histoire d'une famille suisse naufrage]
+   [Translator: Isabelle de Montolieu]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/5/18152 ]
+   [Files: 18152-8.txt; 18152-h.htm]
+
+Time Crime, by H. Beam Piper                                             18151
+   [Link: http://www.gutenberg.org/1/8/1/5/18151 ]
+   [Files: 18151.txt; 18151-8.txt; 18151-h.htm]
+
+The Hidden Places, by Bertrand W. Sinclair                               18150
+   [Link: http://www.gutenberg.org/1/8/1/5/18150 ]
+   [Files: 18150.txt; 18150-8.txt; 18150-h.htm]
+
+Conjuror's House, by Stewart Edward White                                18149
+   [Subtitle: A Romance of the Free Forest]
+   [Link: http://www.gutenberg.org/1/8/1/4/18149 ]
+   [Files: 18149.txt; 18149-8.txt; 18149-h.htm]
+
+Casanovas Heimfahrt, by Arthur Schnitzler                                18148
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/1/4/18148 ]
+   [Files: 18148-8.txt; 18148-0.txt; 18148-h.htm]
+
+Inaugureele Rede, by Hieronymus David Gaubius                            18147
+   [Subtitle: Waarin wordt Aangetoond dat de Scheikunde met recht een
+    plaats verdient onder de Akademische Wetenschappen]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/1/4/18147 ]
+   [Files: 18147-8.txt; 18147-0.txt; 18147-h.htm]
+
+The Children's Portion, ed. by Robert W. Shoppell                        18146
+   [Subtitle: Entertaining, Instructive, and Elevating Stories]
+   Contents:
+     The Golden Age
+     The Merchant of Venice
+     The Afflicted Prince
+     "His Ludship"
+     Pious Constance
+     The Doctor's Revenge
+     The Woodcutter's Child
+     Show Your Colors
+     Her Danger Signal
+     A Knight's Dilemma
+     "His Royal Highness"
+     Patient Griselda
+     Let It Alone
+     The Man Who Lost His Memory
+     The Story of a Wedge
+     Prince Edwin and His Page
+     Cissy's Amendment
+     The Winter's Tale
+     A Gracious Deed
+     "Tom"
+     Steven Lawrence, American
+   [Link: http://www.gutenberg.org/1/8/1/4/18146 ]
+   [Files: 18146.txt; 18146-8.txt; ]
+
+Lady Rosamond's Secret, by Rebecca Agatha Armour                         18145
+   [Subtitle: A Romance of Fredericton]
+   [Link: http://www.gutenberg.org/1/8/1/4/18145 ]
+   [Files: 18145.txt; 18145-8.txt; 18145-h.htm; ]
+
+Timon Ateenalainen, by William Shakespeare                               18144
+   [Translator: Paavo Cajander]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/1/4/18144 ]
+   [Files: 18144-8.txt]
+
+Romeo et Juliette, by William Shakespeare                                18143
+   [Subtitle: Tragedie]
+   [Translator: Francois Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/4/18143 ]
+   [Files: 18143-8.txt; 18143-h.htm]
+
+Ellenore, Volume II, by Sophie Gay                                       18142
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/4/18142 ]
+   [Files: 18142-8.txt]
+
+CAINGAT CAYO!, by Fr. Jose Rodriguez                                    18141
+   [Subtitle: Sa manga masasamang libro,t, casulatan]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.org/1/8/1/4/18141 ]
+   [Files: 18141-8.txt; 18141-h.htm]
+
+Alabaster Box, by Mary E. Wilkins Freeman and Florence Morse Kingsley    18140
+   [Illustrator: Stockton Mulford]
+   [Link: http://www.gutenberg.org/1/8/1/4/18140 ]
+   [Files: 18140.txt; 18140-8.txt; 18140-h.htm]
+
+Rip Foster in Ride the Gray Planet, by Harold Leland Goodwin             18139
+   [Link: http://www.gutenberg.org/1/8/1/3/18139 ]
+   [Files: 18139.txt; 18139-8.txt; 18139-h.htm; ]
+
+The Loves of Great Composers, by Gustav Kobbe                            18138
+   [Link: http://www.gutenberg.org/1/8/1/3/18138 ]
+   [Files: 18138.txt; 18138-8.txt; 18138-h.htm; ]
+
+Little Fuzzy, by Henry Beam Piper                                        18137
+   [Link: http://www.gutenberg.org/1/8/1/3/18137 ]
+   [Files: 18137.txt; 18137-h.htm; ]
+
+The Mysteries of Free Masonry, by William Morgan                         18136
+   [Subtitle: Containing All the Degrees of the Order Conferred in a
+    Master's Lodge]
+   [Link: http://www.gutenberg.org/1/8/1/3/18136 ]
+   [Files: 18136.txt; 18136-8.txt; 18136-h.htm; ]
+
+Dreamthorp, by Alexander Smith                                           18135
+   [Subtitle: A Book of Essays Written in the Country]
+   Contents: Dreamthorp
+     On the Writing of Essays
+     Of Death and the Fear of Dying
+     William Dunbar
+     A Lark's Flight
+     Christmas
+     Men of Letters
+     On the Importance of a Man to Himself
+     A Shelf in My Bookcase
+     Geoffrey Chaucer
+     Books and Gardens
+     On Vagabonds
+   [Link: http://www.gutenberg.org/1/8/1/3/18135 ]
+   [Files: 18135.txt; 18135-8.txt; ]
+
+Sixteen Months in Four German Prisons,by Frederick Arthur Ambrose Talbot 18134
+   [Editor: Henry Charles Mahoney]
+   [Subtitle: Wesel, Sennelager, Klingelputz, Ruhleben]
+   [Link: http://www.gutenberg.org/1/8/1/3/18134 ]
+   [Files: 18134.txt; 18134-8.txt; 18134-h.htm; ]
+
+La cathedrale de Strasbourg, by Rodolphe Reuss                           18133
+   [Title: La cathedrale de Strasbourg pendant la Revolution (1789-1802)]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/3/18133 ]
+   [Files: 18133-8.txt; 18133-0.txt]
+
+A Canadian Heroine, Vol. 3, by Mrs. Harry Coghill                        18132
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/8/1/3/18132 ]
+   [Files: 18132.txt; 18132-8.txt; 18132-h.htm]
+
+The Rescue of the Princess Winsome, by Fellows-Johnston and Bacon        18131
+   [Subtitle: A Fairy Play for Old and Young]
+   [Author: Annie Fellows-Johnston and Albion Fellows Bacon]
+   [Link: http://www.gutenberg.org/1/8/1/3/18131 ]
+   [Files: 18131.txt; 18131-8.txt; 18131-h.htm]
+
+Oorlogsvisoenen, by Cyriel Buysse                                        18130
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/1/3/18130 ]
+   [Files: 18130-8.txt; 18130-h.htm]
+
+South with Scott, by Edward R. G. R. Evans                               18129
+   [Link: http://www.gutenberg.org/1/8/1/2/18129 ]
+   [Files: 18129.txt; 18129-8.txt; ]
+
+Tocht naar de dalen van den kinaboom (Peru), by Paul Marcoy              18128
+   [Subtitle: De Aarde en haar Volken, 1873]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/1/2/18128 ]
+   [Files: 18128-8.txt; 18128-h.htm]
+
+The Beginner's American History, by D. H. Montgomery                     18127
+   [Author AKA: David Henry Montgomery]
+   [Link: http://www.gutenberg.org/1/8/1/2/18127 ]
+   [Files: 18127.txt; 18127-h.htm; ]
+
+Tales of the Chesapeake, by George Alfred Townsend                       18126
+   [Link: http://www.gutenberg.org/1/8/1/2/18126 ]
+   [Files: 18126.txt; 18126-8.txt; 18126-h.htm; ]
+
+The Audacious War, by Clarence W. Barron                                 18125
+   [Link: http://www.gutenberg.org/1/8/1/2/18125 ]
+   [Files: 18125.txt; 18125-8.txt; ]
+
+Sir Walter Scott, by Richard H. Hutton                                   18124
+   [Subtitle: English Men of Letters Series]
+   [Link: http://www.gutenberg.org/1/8/1/2/18124 ]
+   [Files: 18124.txt; 18124-8.txt; 18124-h.htm]
+
+Nouvelles mille et une nuits, by Robert-Louis Stevenson                  18123
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/2/18123 ]
+   [Files: 18123-8.txt; 18123-h.htm]
+
+A Canadian Heroine, Volume 2, by Mrs. Harry Coghill                      18122
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/8/1/2/18122 ]
+   [Files: 18122.txt; 18122-8.txt; 18122-h.htm]
+
+L'illustre Olympie, ou Le St Alexis, by Nicolas Mary                     18121
+   [Subtitle: Tragedie]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/2/18121 ]
+   [Files: 18121-8.txt]
+
+In de Oer-wouden van Afrika, by Jules Verne                              18120
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/1/2/18120 ]
+   [Files: 18120-8.txt; 18120-h.htm]
+
+
+Phineas Finn, by Anthony Trollope                                        18000
+   [Subtitle: The Irish Member]
+   [Link: http://www.gutenberg.org/1/8/0/0/18000 ]
+   [Files: 18000.txt; 18000-8.txt; 18000-h.htm; ]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2006 The Private Life of Helen of Troy, by John Erskine[060038xx.xxx] 0556A
+   [http://gutenberg.net.au/ebooks06/0600381.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0600381h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2006/pgweekly_2006_04_12_part_2.txt" target="_blank" rel="nofollow">pgweekly_2006_04_12_part_2.txt</a>

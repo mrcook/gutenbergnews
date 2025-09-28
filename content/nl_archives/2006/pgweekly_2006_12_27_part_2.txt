@@ -1,0 +1,494 @@
+From news at mail1.pglaf.org  Wed Dec 27 16:11:38 2006
+From: news at mail1.pglaf.org (Project Gutenberg Newsletter)
+Date: Wed, 27 Dec 2006 16:11:38 -0800 (PST)
+Subject: [gweekly]  Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.64.0612271610470.2086@mail1.pglaf.org>
+
+GWeekly_December_27_part2.txt
+
+The Project Gutenberg Weekly Newsletter 27 Dec 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 53 New U.S. eBooks this week
+    - 14 New eBooks at Project Gutenberg of Australia
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+-.- HOW TO GET EBOOKS FROM PROJECT GUTENBERG -.-
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+For more information about Project Gutenberg, and to see what's new,
+please visit the website at http://www.gutenberg.org.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 20 Dec 2006:
+     20,156 PG U.S.A.
+      1,452 PG of Australia
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The People That Time Forgot, by Edgar Rice Burroughs                       552
+   [Updated edition of etext96/poftm10.txt]
+   [Link: http://www.gutenberg.net/5/5/552 ]
+   [Files: 552.txt]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+The following is a duplicate posting (#19771), and so is being removed
+from the PG eBook Collection, and the number is being recycled (see new
+postings below):
+
+Henrietta Temple, by Benjamin Disraeli                                   20005
+   [Subtitle: A Love Story]
+
+
+-=-=-=-=[  53 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+L'ecornifleur, by Jules Renard                                           20199
+  [Language: French]
+  [Link: http://www.gutenberg.net/2/0/1/9/20199 ]
+  [Files: 20199-8.txt; 20199-h.htm]
+
+Lavengro: the Scholar - the Gypsy - the Priest, by George Borrow         20198
+   [Editor: Theodore Watts]
+   (See also #452, a different edition)
+   [Link: http://www.gutenberg.org/2/0/1/9/20198 ]
+   [Files: 20198.txt; 20198-h.htm]
+   (David Price, For those wishing to know: this is George Borrow's account
+    of his early life, his meetings with Gypsies, the "bickers" in Scotland
+    etc.  It ends with Ispobel Berners and the dingle episode (which is
+    continued in Romany Rye).  This edition has a useful introduction by
+    Borrow's friend and also a picture of Borrow's house at Oulton.  The
+    other Gutenberg edition (#452) has Birrell's introduction and pictures
+    by Sullivan.)
+
+Grandfather's Love Pie, by Miriam Gaines                                 20197
+  [Illustrator: John Edward Whiting]
+  [Link: http://www.gutenberg.net/2/0/1/9/20197 ]
+  [Files: 20197.txt; 20197-h.htm]
+
+Victorian Worthies, by George Henry Blore                                20196
+   [Subtitle: Sixteen Biographies]
+   [Link: http://www.gutenberg.org/2/0/1/9/20196 ]
+   [Files: 20196.txt; 20196-8.txt; 20196-h.htm; ]
+
+Wood-Block Printing, by F. Morley Fletcher                               20195
+   [Subtitle: A Description of the Craft of Woodcutting and Colour
+    Printing Based on the Japanese Practice]
+   [Illus.: A. W. Seaby]
+   [Link: http://www.gutenberg.org/2/0/1/9/20195 ]
+   [Files: 20195.txt; 20195-8.txt; 20195-h.htm; ]
+
+The Petticoat Commando, by Johanna Brandt                                20194
+   [Subtitle: Boer Women in Secret Service]
+   [Link: http://www.gutenberg.org/2/0/1/9/20194 ]
+   [Files: 20194.txt; 20194-8.txt; 20194-h.htm; ]
+
+Mary's Rainbow, by Mary Edward Feehan (AKA: Clementia)                   20193
+   [Link: http://www.gutenberg.org/2/0/1/9/20193 ]
+   [Files: 20193.txt; 20193-h.htm; ]
+
+Orrain: A Romance, by S. Levett-Yeats                                    20192
+   [Link: http://www.gutenberg.org/2/0/1/9/20192 ]
+   [Files: 20192.txt; 20192-8.txt; ]
+
+Bell's Cathedrals: The Cathedral Church of Durham, by J. E. Bygate       20191
+   [Subtitle: A Description of Its Fabric and A Brief History of the
+    Episcopal See]
+   [Link: http://www.gutenberg.org/2/0/1/9/20191 ]
+   [Files: 20191.txt; 20191-8.txt; 20191-h.htm]
+
+The Handy Cyclopedia of Things Worth Knowing, by Joseph Triemens         20190
+   [Subtitle: A Manual of Ready Reference]
+   [Link: http://www.gutenberg.org/2/0/1/9/20190 ]
+   [Files: 20190.txt; 20190-h.htm]
+
+Recollections of Manilla and the Philippines, by Robert Mac Micking      20189
+   [Subtitle: During 1848, 1849 and 1850]
+   [Link: http://www.gutenberg.org/2/0/1/8/20189 ]
+   [Files: 20189.txt; 20189-8.txt; 20189-h.htm]
+
+Coriolanus, by William Shakespeare                                       20188
+   [Translator: Paavo Cajander]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/2/0/1/8/20188 ]
+   [Files: 20188-8.txt]
+
+On Christmas Day in the Morning, by Grace S. Richmond                    20187
+   [Illustrator: Charles M. Relyea]
+   [Link: http://www.gutenberg.org/2/0/1/8/20187 ]
+   [Files: 20187.txt; 20187-8.txt; 20187-h.htm]
+
+Dismal Swamp and Lake Drummond, Early recollections, by Robert Arnold    20186
+   [Subtitle: Vivid portrayal of Amusing Scenes]
+   [Link: http://www.gutenberg.org/2/0/1/8/20186 ]
+   [Files: 20186.txt; 20186-h.htm]
+
+Eventide, by Effie Afton                                                 20185
+   [Subtitle: A Series of Tales and Poems]
+   [Link: http://www.gutenberg.org/2/0/1/8/20185 ]
+   [Files: 20185.txt; 20185-8.txt; 20185-h.htm]
+
+Adventures of Uncle Jeremiah at the Great Fair, by C. M. Stevens         20184
+   [Title: The Adventures of Uncle Jeremiah and Family at the Great Fair]
+   [Subtitle: Their Observations and Triumphs]
+   [Author: Charles McCellan Stevens (AKA 'Quondam')]
+   [Link: http://www.gutenberg.org/2/0/1/8/20184 ]
+   [Files: 20184.txt; 20184-8.txt; 20184-h.htm]
+
+John Quincy Adams, by John T. Morse                                      20183
+   [Subtitle: American Statesmen Series]
+   [Link: http://www.gutenberg.org/2/0/1/8/20183 ]
+   [Files: 20183.txt; 20183-8.txt; 20183-h.htm]
+
+La rovina, by Angiolo Silvio Novaro                                      20182
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/2/0/1/8/20182 ]
+   [Files: 20182-8.txt]
+
+A Defective Santa Claus, by James Whitcomb Riley                         20181
+   [Illustrator: C. M. Relyea and Will Vawter]
+   [Link: http://www.gutenberg.org/2/0/1/8/20181 ]
+   [Files: 20181.txt; 20181-h.htm]
+
+Mr. Kris Kringle, by S. Weir Mitchell                                    20180
+   [Subtitle: A Christmas Tale]
+   [Link: http://www.gutenberg.org/2/0/1/8/20180 ]
+   [Files: 20180.txt; 20180-h.htm]
+
+The Ship of Fools, Volume 1-2, by Sebastian Brandt                       20179
+   [Translator: Alexander Barclay]
+   [Link: http://www.gutenberg.org/2/0/1/7/20179 ]
+   [Files: 20179.txt; 20179-8.txt; 20179-h.htm]
+
+John Gabriel Borkman, by Henrik Ibsen                                    20178
+   [Translator: Odd Tangerud]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/2/0/1/7/20178 ]
+   [Files: 20178.txt; 20178-0.txt; 20178-h.htm]
+
+John Bull, by George Colman                                              20177
+   [Subtitle: The Englishman's Fireside: A Comedy, in Five Acts]
+   [Commentator: Elizabeth Inchbald]
+   (Note: Author is George Colman the Younger.]
+   [Link: http://www.gutenberg.org/2/0/1/7/20177 ]
+   [Files: 20177.txt; 20177-8.txt; 20177-h.htm; ]
+
+The Drone, by Rutherford Mayne                                           20176
+   [Subtitle: A Play in Three Acts]
+   (Rutherford Mayne was the pseudonym of Samuel John Waddell)
+   [Link: http://www.gutenberg.org/2/0/1/7/20176 ]
+   [Files: 20176.txt; 20176-8.txt; 20176-h.htm; ]
+
+Autumn, by Konstantinos Chatzopoulos                                     20175
+   [Language: Greek]
+   [Link: http://www.gutenberg.org/2/0/1/7/20175 ]
+   [Files: 20175-8.txt; 20175-r.rtf; 20175-pdf.pdf; 20175-h.htm]
+
+Freedom, Truth and Beauty, by Edward Doyle                               20174
+   [Link: http://www.gutenberg.org/2/0/1/7/20174 ]
+   [Files: 20174.txt; 20174-h.htm]
+
+The Romance of Golden Star ..., by George Chetwynd Griffith              20173
+   [Illus.: Alfred Pearse]
+   [Link: http://www.gutenberg.org/2/0/1/7/20173 ]
+   [Files: 20173.txt; 20173-8.txt; 20173-h.htm; ]
+
+The Flutter of the Goldleaf; and Other Plays, by Dargan and Peterson     20172
+   [Author: Olive Tilford Dargan and Frederick Peterson]
+   [Link: http://www.gutenberg.org/2/0/1/7/20172 ]
+   [Files: 20172.txt; 20172-8.txt; 20172-h.htm]
+
+Gov. Bob. Taylor's Tales, by Robert L. Taylor                            20171
+   [Link: http://www.gutenberg.org/2/0/1/7/20171 ]
+   [Files: 20171.txt; 20171-8.txt; 20171-h.htm]
+
+Legend Land, Vol. 1, by Various                                          20170
+   [Subtitle: Being a collection of some of the Old Tales told in those
+    Western Parts of Britain served by The Great Western Railway]
+   [Link: http://www.gutenberg.org/2/0/1/7/20170 ]
+   [Files: 20170.txt; 20170-8.txt; 20170-h.htm]
+
+A bihari remete, by Aurel Karpati                                        20169
+  [Language: Hungarian]
+  [Link: http://www.gutenberg.net/2/0/1/6/20169 ]
+  [Files: 20169.txt; 20169-8.txt; 20169-h.htm]
+
+Guano, by Solon Robinson                                                 20168
+  [Subtitle: A Treatise of Practical Information for Farmers]
+  [Link: http://www.gutenberg.net/2/0/1/6/20168 ]
+  [Files: 20168.txt; 20168-8.txt; 20168-h.htm]
+
+Nieuw-Guinee en de exploratie der "Meervlakte", by Langeler and Doorman  20167
+   [Subtitle: De Aarde en haar Volken, 1918]
+   [Author: J. W. Langeler and L. A. C. M. Doorman]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/2/0/1/6/20167 ]
+   [Files: 20167-8.txt; 20167-h.htm]
+
+Lyyra ja paimenhuilu, by Various                                         20166
+   [Subtitle: Runosuomennoksia]
+   [Translator: V. A. Koskenniemi]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/2/0/1/6/20166 ]
+   [Files: 20166-8.txt]
+
+The Theory and Practice of Perspective, by George Adolphus Storey        20165
+   [Link: http://www.gutenberg.org/2/0/1/6/20165 ]
+   [Files: 20165.txt; 20165-8.txt; 20165-h.htm; ]
+
+Critical Miscellanies, Volume I (of 3), by John Morley                   20164
+   [Subtitle: Essay 4: Macaulay]
+   [Link: http://www.gutenberg.org/2/0/1/6/20164 ]
+   [Files: 20164.txt; 20164-8.txt; 20164-h.htm; ]
+
+The Jolliest School of All, by Angela Brazil                             20163
+   [Illus.: W. Smithson Broadhead]
+   [Link: http://www.gutenberg.org/2/0/1/6/20163 ]
+   [Files: 20163.txt; 20163-8.txt; 20163-h.htm; ]
+
+La kolonoj de la socio, by Henrik Ibsen                                  20162
+   [Subtitle: Dramo en kvar aktoj]
+   [Translator: Odd Tangerud]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/2/0/1/6/20162 ]
+   [Files: 20162.txt; 20162-0.txt; 20162-h.htm]
+
+Sophisms of the Protectionists, by Frederic Bastiat                      20161
+   [Translator: Horace White]
+   [Link: http://www.gutenberg.org/2/0/1/6/20161 ]
+   [Files: 20161.txt; 20161-8.txt; 20161-h.htm]
+
+A History of American Christianity, by Leonard Woolsey Bacon             20160
+   [Link: http://www.gutenberg.org/2/0/1/6/20160 ]
+   [Files: 20160.txt; 20160-8.txt; 20160-h.htm; ]
+
+Catalogo instructivo, by E. Hermitte and G. Bodenbender                  20159
+   [Title: Catalogo instructivo de las colecciones mineralogicas escolares]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/2/0/1/5/20159 ]
+   [Files: 20159.txt; 20159-8.txt; 20159-0.txt; 20159-tei.tei;
+           20159-h.htm; 20159-pdf.pdf; 20159-page-images.zip]
+
+The Works of Lord Byron: Poetry, Volume 4, by Lord Byron                 20158
+   [Editor: Ernest Hartley Coleridge]
+   [Link: http://www.gutenberg.org/2/0/1/5/20158 ]
+   [Files: 20158.txt; 20158-8.txt; 20158-0.txt; 20158-h.htm]
+
+The Call of the Blood, by Robert Smythe Hichens                          20157
+   [Illus.: Orson Lowell]
+   [Link: http://www.gutenberg.org/2/0/1/5/20157 ]
+   [Files: 20157.txt; 20157-8.txt; 20157-h.htm; ]
+
+Strife and Peace, by Fredrika Bremer                                     20156
+   [Tr.: Mary Howitt]
+   [Link: http://www.gutenberg.org/2/0/1/5/20156 ]
+   [Files: 20156.txt; 20156-8.txt; 20156-h.htm; ]
+
+The White Desert, by Courtney Ryley Cooper                               20155
+   [Ill.: Anton Otto Fischer]
+   [Link: http://www.gutenberg.org/2/0/1/5/20155 ]
+   [Files: 20155.txt; 20155-8.txt; 20155-h.htm; ]
+
+Invaders from the Infinite, by John Wood Campbell                        20154
+   [Link: http://www.gutenberg.org/2/0/1/5/20154 ]
+   [Files: 20154.txt; 20154-8.txt; 20154-h.htm; ]
+
+The American Journal of Archaeology, 1893, No. 1                         20153
+   [Link: http://www.gutenberg.org/2/0/1/5/20153 ]
+   [Files: 20153-8.txt; 20153-0.txt; 20153-h.htm]
+
+The Winning Clue, by James Hay, Jr.                                      20152
+   [Link: http://www.gutenberg.org/2/0/1/5/20152 ]
+   [Files: 20152.txt; 20152-8.txt; 20152-h.htm; ]
+
+Hidden Treasures, by Harry A. Lewis                                      20151
+   [Subtitle: Why Some Succeed While Others Fail]
+   [Link: http://www.gutenberg.org/2/0/1/5/20151 ]
+   [Files: 20151.txt; 20151-8.txt; 20151-h.htm; ]
+
+Notes on My Books, by Joseph Conrad                                      20150
+   [Link: http://www.gutenberg.org/2/0/1/5/20150 ]
+   [Files: 20150.txt; 20150-8.txt; 20150-h.htm]
+
+Parodia ao primeiro canto dos Lusiadas de Camoes, by Anonymous           20149
+   [Title: Parodia ao primeiro canto dos Lusiadas de Camoes por quatro
+    estudantes de Evora em 1589]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/0/1/4/20149 ]
+   [Files: 20149-8.txt]
+
+Hannu; Nuori Anssi; Sydaen ja Kuolema, by V. A. Koskenniemi              20148
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/2/0/1/4/20148 ]
+  [Files: 20148-8.txt]
+
+
+
+The Angel of Death, by Johan Olof Wallin                                 20135
+  [Translator: A. W. Almqvist]
+  [Link: http://www.gutenberg.net/2/0/1/3/20135 ]
+  [Files: 20135.txt; 20135-8.txt; 20135-h.htm]
+
+
+
+(The following is a new title posted to the PG eBook Collection, but
+  the ebook number was used previously for another posting, and so is
+  not included in the "new" count":)
+
+Narrative of The Life of Rev. Noah Davis, A Colored Man., by Noah Davis  20005
+   [Subtitle: Written by Himself, At The Age of Fifty-Four]
+   [Link: http://www.gutenberg.org/2/0/0/0/20005 ]
+   [Files: 20005.txt; 20005-h.htm]
+
+
+
+-=-=-=-=[ 14 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Dec 2006 Vein of Iron, Ellen Glasgow                       [060935xx.xxx] 1453A
+   [http://gutenberg.net.au/ebooks06/0609351.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609351h.html ]
+
+Dec 2006 The Exploration of Cape York Peninsula, Jack      [060934xx.xxx] 1452A
+   [Title: The Exploration of Cape York Peninsula 1606-1915]
+   [Author: Robert Logan Jack]
+   [http://gutenberg.net.au/ebooks06/0609341.txt or .zip
+
+Dec 2006 Disputed Passage, Lloyd C Douglas                 [060933xx.xxx] 1451A
+   [http://gutenberg.net.au/ebooks06/0609331.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609331h.html ]
+
+
+
+Dec 2006 The Parish Magazine, Arthur Conan Doyle           [060931xx.xxx] 1449A
+   [http://gutenberg.net.au/ebooks06/0609311.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609311h.html ]
+
+Dec 2006 My Adventure in Norfolk, A J Alan                 [060930xx.xxx] 1448A
+   [http://gutenberg.net.au/ebooks06/0609301.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609301h.html ]
+
+Dec 2006 The Ivory God, J S Fletcher                       [060929xx.xxx] 1447A
+   [http://gutenberg.net.au/ebooks06/0609291.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609291h.html ]
+
+Dec 2006 The Hair, A J Alan                                [060928xx.xxx] 1446A
+   [http://gutenberg.net.au/ebooks06/0609281.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609281h.html ]
+
+Dec 2006 H2 etc., A J Alan                                 [060927xx.xxx] 1445A
+   [http://gutenberg.net.au/ebooks06/0609271.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609271h.html ]
+
+Dec 2006 The Room on the Fourth Floor, Ralph Straus        [609261xx.xxx] 1444A
+   [http://gutenberg.net.au/ebooks06/0609261.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609261h.html ]
+
+Dec 2006 The Diver, A J Alan                               [609251xx.xxx] 1443A
+   [http://gutenberg.net.au/ebooks06/0609251.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609251h.html ]
+
+Dec 2006 My Adventure at Chiselhurst, A J Alan             [609241xx.xxx] 1442A
+   [http://gutenberg.net.au/ebooks06/0609241.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609241h.html ]
+
+Dec 2006 The Beast with Five Fingers, W F Harvey           [609231xx.xxx] 1441A
+   [http://gutenberg.net.au/ebooks06/0609231.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609231h.html ]
+
+Dec 2006 The Short Stories of H G Wells, H G Wells         [060922xx.xxx] 1440A
+   [http://gutenberg.net.au/ebooks06/0609221.txt or .zip
+
+Nov 2006 Black light, Talbot Mundy                         [060921xx.xxx] 1439A
+   http://gutenberg.net.au/ebooks06/0609211.txt or .zip
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access
+these ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For updated information about copyright in Australia, please see the end
+of the file GUTINDEX.AUS, which can be downloaded from
+http://www.gutenberg.org/dirs/GUTINDEX.AUS
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+
+

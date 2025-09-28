@@ -1,0 +1,270 @@
+---
+params:
+  id: 1769
+title: PG Monthly Newsletter (1998-04-02)
+date: 1998-04-02T14:50:10+00:00
+author: Michael Cook
+layout: post
+url: /19980402/pg-monthly-newsletter-1998-04-02/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: April-May Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: Michael Hart &lt;hart@pobox.com&gt;
+Date: Thu, 2 Apr 1998 14:11:07 -0600 (CST)
+
+
+This is the Project Gutenberg Newsletter for April and May, 1998
+
+We were set to announce that we were 1/8 of the way to our Etext
+#10,000 in this Newsletter, but things went so well this month a
+new announcement is in order. . .instead of just reaching 12.5%,
+we have reached 13% of our goal as of today, 50 more Etexts than
+we had planned to announce today.
+
+The Gutenberg Volunteers have really been on fire lately, with a
+record number of 80 Etexts being posted during the last 31 days,
+thus requiring a combined Newsletter containing all the titles--
+including the two more we posted since the end of March.
+
+There will be our usual "Project Gutenberg Needs YOU!" message--
+sometime this month, then, hopefully, we will still be ahead for
+getting May done, and thus post the June Newsletter in May.
+
+*
+
+We have versions of Madame Bovary, The Waste Land, and Chroicles
+of Avonlea ready for proofreading. . .as per your requests, just
+email me to get them.
+
+*
+
+We need to know who sent which files of Count of Monte Cristo,
+so we can link up the proper copyright research to the files.
+
+*
+
+Project Gutenberg Director of Production Needs Help in Boston
+
+Dianne Bean is looking for an affordable hotel in the Cambridge/Boston
+Massachusetts area for June 9-13, within walking distance of Harvard
+Square. The Doubletree is full. She'll be in town for the Council of
+Botanical and Horticultural Libraries annual meeting. Any suggestions
+appreciated! beandp@primenet.com.
+
+*
+
+From: straf@uiuc.edu
+Subject: looking for book
+
+&gt; Book:
+&gt; History of a Free People - banned - unknown author
+&gt; estimated publication date: 1964
+
+frind of mine howard is looking for above book  I'd spend $20
+
+*****
+
+Here are the 81 files we have posted since the last Newsletter:
+
+
+Mon Year      Title            Author          # by Author  Filename.Ext ####
+
+May 1998 Seven Men, by Max Beerbohm     [Max Beerbohm #4]  [svnmnxxx.xxx]1306
+May 1998 Enoch Soames, by Max Beerbohm [A New Version]     [svnmnxxx.xxx]1306
+May 1998 Hilary Maltby and Stephen Braxton, by Max Beerbohm[svnmnxxx.xxx]1306
+May 1998 The Ball at Sceaux by Honore de Balzac[Balzac #11][blscoxxx.xxx]1305
+
+May 1998 Project Gutenberg's Book of English Verse [Oxford][pgbevxxx.xxx]1304
+May 1998 [Formerly:]  The Oxford Book of English Verse     [pgbevxxx.xxx]1304
+May 1998 Bulchevy's Book of English Verse                  [pgbevxxx.xxx]1304
+May 1998 The Scapegoat, by Hall Caine                      [scpgtxxx.xxx]1303
+May 1998 Enemies of Books, by William Blades               [nmybkxxx.xxx]1302       [     xxx.xxx]1302
+May 1998 The French Revolution by Thomas Carlyle[Carlyle#5][frrevxxx.xxx]1301
+
+May 1998 Riders of the Purple Sage, by Zane Grey  [Grey #7][prpsgxxx.xxx]1300
+May 1998 The Heritage of the Sioux by B. M. Bower[Bower #6][hrtsuxxx.xxx]1299
+May 1998 The Virginian, Horseman Of The Plains, Owen Wister[vrgnnxxx.xxx]1298
+May 1998 The Iron Puddler, by James J. Davis               [tirnpxxx.xxx]1297
+
+
+Apr 1998 The Provost, by John Galt [This is THE John Galt] [prvstxxx.xxx]1296
+Apr 1998 Ceres' Runaway by Alice Meynell [Alice Meynell #5][crnwyxxx.xxx]1295
+Apr 1998 The Firm of Nucingen by Honore' de Balzac HDB #10][ncngnxxx.xxx]1294
+Apr 1998 Sesame and Lilies, by John Ruskin [John Ruskin #2][seslixxx.xxx]1293
+
+Apr 1998 The Way of the World by William Congreve   [WC #4][wwrldxxx.xxx]1292
+Apr 1998 Herodias, by Gustave Flaubert[Gustave Flaubert #3][hrodsxxx.xxx]1291
+Apr 1998 Salammbo, by Gustave Flaubert[Gustave Flaubert #2][slmmbxxx.xxx]1290
+
+Apr 1998 Three Ghost Stories by Charles Dickens [CD #33-35][3ghstxxx.xxx]1289
+Apr 1998 The Trial for Murder, Charles Dickens[Dickens #35][3ghstxxx.xxx]1289
+Apr 1998 The Haunted House, by Charles Dickens[Dickens #34][3ghstxxx.xxx]1289
+Apr 1998 The Signal Man, by Charles Dickens   [Dickens #33][3ghstxxx.xxx]1289
+
+Apr 1998 Dream Days, by Kenneth Grahame[Kenneth Grahame #1][drdayxxa.xxx]1288
+Apr 1998 The Poems of Goethe, Transl. Edgar Alfred Bowring [tpgthxxx.xxx]1287
+Apr 1998 Tales of Shakespeare, by Charles and Mary Lamb [a][tshakxxa.xxx]1286
+Apr 1998 The Water Goats et. al., by Ellis Parker Butler   [twgtsxxx.xxx]1285
+
+Apr 1998 Tom Swift and His Air Scout, by Victor Appleton   [22tomxxx.xxx]1284
+Apr 1998 Tom Swift and His Wizard Camera by Victor Appleton[14tomxxx.xxx]1283
+Apr 1998 Tom Swift Among the Diamond Makers, by V. Appleton[07tomxxx.xxx]1282
+Apr 1998 Tom Swift & His Aerial Warship, by Victor Appleton[18tomxxx.xxx]1281
+
+Apr 1998 Spoon River Anthology, by Edgar Lee Masters       [sprvrxxx.xxx]1280
+Apr 1998 Poems and Songs of Robert Burns, [Robert Burns #1][psorbxxx.xxx]1279
+Apr 1998 Penelope's English Experiences by Kate D Wiggin #6[penexxxx.xxx]1278
+Apr 1998 Melmoth Reconciled by Honore de Balzac [Balzac #9][mlmthxxx.xxx]1277
+
+Apr 1998 The Rhythm of Life, by Alice Meynell [Meynell #4] [rhymlxxx.xxx]1276
+Apr 1998 Alexandria and her Schools by Charles Kingsley[#4][alxscxxx.xxx]1275
+Apr 1998 Martin Hyde the Duke's Messenger by John Masefield[mhydexxx.xxx]1274
+Apr 1998 The Autobiography of a Slander, by Edna Lyall     [autosxxx.xxx]1273
+
+Apr 1998 The Riddle of the Rhine, by Victor LeFebure       [rrhinxxx.xxx]1272
+Apr 1998 Chemical Strategy in Peace and War/Victor LeFebure[rrhinxxx.xxx]1272
+Apr 1998 Bygone Beliefs, by H. Stanley Redgrove            [byblfxxx.xxx]1271
+Apr 1998 In Defense of Women, by H. L. Mencken             [ndwmnxxx.xxx]1270
+Apr 1998 Soul of a Bishop, by H. G. Wells [H. G. Wells #15][sbshpxxx.xxx]1269
+
+Apr 1998 The Mysterious Island, by Jules Verne  [Verne #6] [milndxxx.xxx]1268
+Apr 1998 Kai Lung's Golden Hours, by Ernest Bramah[Bramah3][klsghxxx.xxx]1267
+Apr 1998 Lavender and Old Lace, by Myrtle Reed             [lvolcxxx.xxx]1266
+Apr 1998 Queen Victoria, by Lytton Strachey                [qvctrxxx.xxx]1265
+
+Apr 1998 Wheels of Chance/Bicycling Idyll by H.G. Wells #14[wchncxxx.xxx]1264
+Apr 1998 The Glimpses of the Moon, by Edith Wharton  [EW#9][tgotmxxx.xxx]1263
+Apr 1998 Heritage of the Desert, by Zane Grey[Zane Grey #6][hdsrtxxx.xxx]1262
+Apr 1998 Betty Zane, by Zane Grey [Early U.S. Heroine] [#5][bzanexxx.xxx]1261
+
+
+Mar 1998 Jane Eyre, by Charlotte Bronte   [#7 by Bronte's] [janeyxxx.xxx]1260
+Mar 1998 Twenty Years After, by Alexandre Dumas  [Pere #4] [3muskxxx.xxx]1259
+Mar 1998 Ten Years Later, by Alexandre Dumas[Dumas Pere #3][2muskxxx.xxx]1258
+Mar 1998 The Three Musketeers, by Alexandre Dumas [Pere #2][1muskxxx.xxx]1257
+
+Mar 1998 Cyrano de Bergerac, by Edmond Rostand [In French] [cdbfrxxx.xxx]1256
+Mar 1998 Cyrano de Bergerac by Edmond Rostand[HTML Accents][cdbfrxxh.xxx]1255
+Mar 1998 Cyrano de Bergerac by Edmond Rostand [In English] [cdbenxxx.xxx]1254
+Mar 1998 A Simple Soul, by Gustave Flaubert  [Flaubert #1] [ssengxxx.xxx]1253
+
+Mar 1998 Le Mort d'Arthur, by Thomas Malory  Volume 2[TM#2][2martxxx.xxx]1252
+Mar 1998 Le Mort d'Arthur, by Thomas Malory  Volume 1[TM#1][1martxxx.xxx]1251
+Mar 1998 Anthem, by Ayn Rand [Alice Rosenblum][Ayn Rand #1][anthmxxx.xxx]1250
+Mar 1998 Anthem, by Ayn Rand [Comparison of anthm10 & 10a] [anthmxxz.xxx]1250
+
+Mar 1998 Last of the Great Scouts, by Helen Cody Wetmore   [bbillxxx.xxx]1248
+Mar 1998 Buffalo Bill [William F. Cody], Helen Cody Wetmore[bbillxxx.xxx]1248
+Mar 1998 Second April, by Edna St. Vincent Millay[Millay#2][aprilxxx.xxx]1247
+Mar 1998 The House of Dust, by Conrad Aiken      [Aiken #1][hdustxxx.xxx]1246
+Mar 1998 Night and Day, by Virginia Woolf        [Woolf #2][nidayxxx.xxx]1245
+
+Mar 1998 Love for Love, by William Congreve   [Congreve #3][lv4lvxxx.xxx]1244
+Mar 1998 Hearts of Controversy, by Alice Meynell [Alice #3][hrtcnxxx.xxx]1243
+Mar 1998 Unconscious Comedians, by Honore de Balzac [HDB#8][nccmdxxx.xxx]1242
+Mar 1998 The Well of the Saints, by J. M. Synge  [Synge #3][welstxxx.xxx]1241
+
+Mar 1998 The Playboy of the Western World, by J. M. Synge#2[potwwxxx.xxx]1240
+Mar 1998 The Spirit of the Border, by Zane Grey  [Grey #4] [sprtbxxx.xxx]1239
+Mar 1998 The City of Dreadful Night, by James Thomson      [ctdntxxx.xxx]1238
+Mar 1998 Father Goriot, by Honore de Balzac    [Balzac #8] [frgrtxxx.xxx]1237
+
+Mar 1998 First Across the Continent, by Noah Brooks        [landcxxx.xxx]1236
+Mar 1998 Lewis and Clark 1st Across the Continent by Brooks[landcxxx.xxx]1236
+Mar 1998 Captain Fracasse, by Theophile Gautier            [cptnfxxx.xxx]1235
+Mar 1998 Organic Syntheses, James Bryant Conant, Editor    [rgsynxxx.xxx]1234
+Mar 1998 Origin and Nature of Emotions, by George W. Crile [oanoexxx.xxx]1233
+
+Mar 1998 The Prince, by Nicolo Machiavelli, Tr. Marriott #3[tprncxxx.xxx]1232
+Mar 1998 Valentino, by Nicolo Machiavelli, Tr. Marriott  #2[tprncxxx.xxx]1232
+Mar 1998 Castracani, by Nicolo Machiavelli, Tr. Marriott #1[tprncxxx.xxx]1232
+Mar 1998 On the Track, by Henry Lawson    [Henry Lawson #3][ontrkxxx.xxx]1231
+Mar 1998 Pierre Grassou, by Honore de Balzac    [Balzac #7][prgrsxxx.xxx]1230
+Mar 1998 Select Poems of Sidney Lanier, Ed. Callaway [SL#3][sposlxxx.xxx]1229
+
+Mar 1998 On the Origin of Species, by Charles Darwin   [#3][otoosxxx.xxx]1228
+Mar 1998 Expression Emotion in Man & Animals, by Darwin #2 [eemaaxxx.xxx]1227
+Mar 1998 The Journal of Abnormal Psychology, Volume 10     [jap10xxx.xxx]1226
+Mar 1998 Faraday As A Discoverer, by John Tyndall          [fdaydxxx.xxx]1225
+
+
+
+
+
+&gt;From Edupage:
+
+I WANT MY MINITEL!
+Almost 20 years ago, France became the first networked nation with the
+deployment of the Minitel, a low-tech terminal that citizens could use to do
+everything from check the weather to order a pizza.  Now, the country's 35
+million subscribers are loathe to give up their beloved Minitel and go
+online with the Internet:  "The Minitel... could end up hindering the
+development of new and promising applications of information technology,"
+warned Prime Minister Jospin last summer, adding that France's technology
+gap "could soon have dire repercussions on competitiveness and employment."
+To bring the populace up to speed, Minitel owner France Telecom is planning
+to deploy next-generation terminals that will access both Minitel and the
+Internet, but French Internet-industry executives say such hybrid solutions
+merely encourage users to keep thinking "Minitel," rather than "Internet."
+"While we sit and worry about the Minitel and ways to get around it, we
+could be throwing our whole future away," says one.  (Wall Street Journal 26
+Mar 98)
+
+COPYRIGHT SITUATION IN CHINA
+Pirated videodisks of the movie "Titanic" were available throughout China
+last November, a month before its release in U.S. theaters, and about half a
+million pirated disks are smuggled into China every day from Macao.  Chinese
+officials say there is little they can do about this blatant violation of
+the intellectual property rights agreement that China reached with the
+United States in 1995.  One official explains:  "The profits are so great,
+they will take any risk.  They're like drug dealers.  It is very difficult
+to arrange a crackdown.  You have to coordinate all these different
+departments, the copyright publication department, the police, the
+Industrial and Commercial Administration.  We take copyright violations very
+seriously.  But when it comes to copying a disk, most Chinese people don't
+see what's wrong."  And one merchant who sells pirated material insists:
+"There's nothing wrong with selling pirated VCDs.  My son loves watching
+them."  (New York Times 28 Mar 98)
+
+CULTURE, NOT CURRENCY, MAKES A HAVE-NOT COUNTRY
+Digital guru Don Tapscott says whether a nation remains a technology
+"have-not" depends on its mindset, not its bank balance:  "It's not the poor
+countries that are blocking progress.  It's countries that have a culture
+that impedes innovation, that cannot find the national will to go forward
+with technology.  What is it about a national culture that enhances
+curiosity?  You need countries to have an environment where companies have
+the potential to create wealth."  (Upside Apr 98)
+
+"SPAMFORD" WALLACE AGREES TO STOP SENDING JUNK E-MAIL
+Sanford Wallace (dubbed "Spamford" for his aggressiveness in "spamming" the
+Internet with unsolicited commercial messages) to pay $2 million to settle
+the last of several lawsuits brought by Internet providers against him and
+his company, Cyber Promotion Inc.  Wallace indicated that legal battles have
+"put Cyber out of the spamming business."  (New York Times 29 Mar 98)
+
+Edupage ... is what you've just finished reading excerpts of--
+to subscribe to Edupage: send mail to: listproc@educom.unc.edu
+with the message:           subscribe edupage Susan B. Anthony
+(if your name is Susan B. Anthony; otherwise use your own name
+To unsubscribe send a message to:      listproc@educom.unc.edu
+with the message: unsubscribe edupage.   If you have problems,
+send email to manager@educom.unc.edu.)   "I love Edupage."  mh
+Edupage is written by John Gehl (gehl@educom.edu), and Suzanne
+Douglas (douglas@educom.edu).     USA Telephone:  770-590-1017
+
+http://www.educom.edu/web/pubs/pubHomeFrame.html
+
+Edupage is supported by Educom
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1998_04_02.txt" target="_blank" rel="nofollow">pgmonthly_1998_04_02.txt</a>

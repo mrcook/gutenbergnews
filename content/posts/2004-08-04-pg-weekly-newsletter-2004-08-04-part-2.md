@@ -1,0 +1,716 @@
+---
+params:
+  id: 2165
+title: "PG Weekly Newsletter: Part 2 (2004-08-04)"
+date: 2004-08-04T11:09:14+00:00
+author: Michael Cook
+layout: post
+url: /20040804/pg-weekly-newsletter-2004-08-04-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 04 Aug 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 69 New U.S. eBooks this week
+   -  5 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 04 Aug 2004:  13,439 (incl. 370 Aus.).
+
+Last week the Total Count was 13,295, including 364 at PG of Australia.
+This week we added 74 new (including 5 at PG of Australia).
+
+RESERVED/PENDING count:   43.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+History of Don Quixote, Vol. II, Complete, by Miguel de Cervantes         5946
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illustrated by Gustave Dore]
+   [Updated edition of: etext04/qxp2w10h.html ]
+   [Link: http://www.gutenberg.net/5/9/4/5946 ]
+   [Files: 5946.txt; 5946-h.htm]
+
+The History of Don Quixote, Vol. II., Part 42, by Miguel de Cervantes     5945
+   [Chapters LXXIII. - LXXIV.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx42w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5945 ]
+   [Files: 5945.txt; 5945-h.htm]
+The History of Don Quixote, Vol. II., Part 41, by Miguel de Cervantes     5944
+   [Chapters LXXI. - LXXII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx41w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5944 ]
+   [Files: 5944.txt; 5944-h.htm]
+The History of Don Quixote, Vol. II., Part 40, by Miguel de Cervantes     5943
+   [Chapters LXVII. - LXX.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx40w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5943 ]
+   [Files: 5943.txt; 5943-h.htm]
+The History of Don Quixote, Vol. II., Part 39, by Miguel de Cervantes     5942
+   [Chapters LXIII. - LXVI.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx39w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5942 ]
+   [Files: 5942.txt; 5942-h.htm]
+The History of Don Quixote, Vol. II., Part 38, by Miguel de Cervantes     5941
+   [Chapter LXII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx38w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5941 ]
+   [Files: 5941.txt; 5941-h.htm]
+The History of Don Quixote, Vol. II., Part 37, by Miguel de Cervantes     5940
+   [Chapter LXI.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx37w10h.html]
+   [Link: http://www.gutenberg.net/5/9/4/5940 ]
+   [Files: 5940.txt; 5940-h.htm]
+The History of Don Quixote, Vol. II., Part 36, by Miguel de Cervantes     5939
+   [Chapter LX.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx36w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5939 ]
+   [Files: 5939.txt; 5939-h.htm]
+The History of Don Quixote, Vol. II., Part 35, by Miguel de Cervantes     5938
+   [Chapters LVIII. - LIX.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx35w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5938 ]
+   [Files: 5938.txt; 5938-h.htm]
+The History of Don Quixote, Vol. II., Part 34, by Miguel de Cervantes     5937
+   [Chapters LIV. - LVII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx34w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5937 ]
+   [Files: 5937.txt; 5937-h.htm]
+The History of Don Quixote, Vol. II., Part 33, by Miguel de Cervantes     5936
+   [Chapters XLIX. - LIII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx33w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5936 ]
+   [Files: 5936.txt; 5936-h.htm]
+The History of Don Quixote, Vol. II., Part 32, by Miguel de Cervantes     5935
+   [Chapters XLVI. - XLVIII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx32w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5935 ]
+   [Files: 5935.txt; 5935-h.htm]
+The History of Don Quixote, Vol. II., Part 31, by Miguel de Cervantes     5934
+   [Chapters XLIV. - XLV.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx31w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5934 ]
+   [Files: 5934.txt; 5934-h.htm]
+The History of Don Quixote, Vol. II., Part 30, by Miguel de Cervantes     5933
+   [Chapters XXXVI. - XLIII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx30w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5933 ]
+   [Files: 5933.txt; 5933-h.htm]
+The History of Don Quixote, Vol. II., Part 29, by Miguel de Cervantes     5932
+   [Chapters XXXII. - XXXV.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx29w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5932 ]
+   [Files: 5932.txt; 5932-h.htm]
+The History of Don Quixote, Vol. II., Part 28, by Miguel de Cervantes     5931
+   [Chapters XXIX. - XXXI.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx28w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5931 ]
+   [Files: 5931.txt; 5931-h.htm]
+The History of Don Quixote, Vol. II., Part 27, by Miguel de Cervantes     5930
+   [Chapters XXVI. - XXVIII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx27w10h.html]
+   [Link: http://www.gutenberg.net/5/9/3/5930 ]
+   [Files: 5930.txt; 5930-h.htm]
+The History of Don Quixote, Vol. II., Part 26, by Miguel de Cervantes     5929
+   [Chapters XXIII. - XXV.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx26w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5929 ]
+   [Files: 5929.txt; 5929-h.htm]
+The History of Don Quixote, Vol. II., Part 25, by Miguel de Cervantes     5928
+   [Chapter XXII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx25w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5928 ]
+   [Files: 5928.txt; 5928-h.htm]
+The History of Don Quixote, Vol. II., Part 24, by Miguel de Cervantes     5927
+   [Chapter XXI.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx24w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5927 ]
+   [Files: 5927.txt; 5927-h.htm]
+The History of Don Quixote, Vol. II., Part 23, by Miguel de Cervantes     5926
+   [Chapters XIX. - XX.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx23w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5926 ]
+   [Files: 5926.txt; 5926-h.htm]
+The History of Don Quixote, Vol. II., Part 22, by Miguel de Cervantes     5925
+   [Chapters XV. - XVIII.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx22w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5925 ]
+   [Files: 5925.txt; 5925-h.htm]
+The History of Don Quixote, Vol. II., Part 21, by Miguel de Cervantes     5924
+   [Chapters XI. - XIV.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx21w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5924 ]
+   [Files: 5924.txt; 5924-h.htm]
+The History of Don Quixote, Vol. II., Part 20, by Miguel de Cervantes     5923
+   [Chapters VI. - X.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx20w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5923 ]
+   [Files: 5923.txt; 5923-h.htm]
+The History of Don Quixote, Vol. II, Part 19, by Miguel de Cervantes       5922
+   [Chapters I. - V.]
+   [Author: Miguel de Cervantes Saavedra]
+   [Tr.: John Ormsby] [Illus.: Gustave Dore]
+   [Updated edition of: etext04/qx19w10h.html]
+   [Link: http://www.gutenberg.net/5/9/2/5922 ]
+   [Files: 5922.txt; 5922-h.htm]
+
+Domestic Peace, by Honore de Balzac                                       1411
+   [Translated by Ellen Marriage and Clara Bell]
+   [Updated edition of: etext98/dmspc10.txt]
+   [Link: http://www.gutenberg.net/1/4/1/1411 ]
+   [Files: 1411.txt]
+
+Don Quixote, by Miqeul de Cervantes Saavedra                               996
+   [Tr.: John Ormsby]
+   [Updated edition of: etext97/1donq10.txt]
+   [Link: http://www.gutenberg.net/9/9/996 ]
+   [Files: 996.txt]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+The spelling of the author's name in the header of the following has
+corrected:
+Jan 1999 Count Bunker, by J. Storer Clouston               [cbnkrxxx.xxx] 1613
+
+
+-=-=-=-=[  69 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The Brain and the Voice in Speech and Song, by F. W. Mott                13111
+   [Link: http://www.gutenberg.net/1/3/1/1/13111 ]
+   [Files: 13111.txt; 13111-8.txt; 13111-h.htm]
+
+Aunt Jane's Nieces at Work, by Edith Van Dyne                            13110
+   [Link: http://www.gutenberg.net/1/3/1/1/13110 ]
+   [Files: 13110.txt; 13110-8.txt; 13110-h.htm]
+
+About Ireland, by E. Lynn Linton                                         13109
+   [Link: http://www.gutenberg.net/1/3/1/0/13109 ]
+   [Files: 13109.txt; 13109-8.txt; 13109-h.htm]
+
+Mirror of Literature, Amusement, and Instruction, Vol. 17, No. 492       13108
+   [Saturday, June 4, 1831]
+   [Link: http://www.gutenberg.net/1/3/1/0/13108 ]
+   [Files: 13108.txt; 13108-8.txt; 13108-h.htm]
+
+The New South, by Holland Thompson                                       13107
+   [Subtitle: A Chronicle Of Social And Industrial Evolution]
+   [Link: http://www.gutenberg.net/1/3/1/0/13107 ]
+   [Files: 13107.txt; 13107-8.txt]
+
+Memoirs of Margaret Fuller Ossoli, Vol. II, by Margaret Fuller Ossoli    13106
+   [Link: http://www.gutenberg.net/1/3/1/0/13106 ]
+   [Files: 13106.txt; 13106-8.txt]
+
+Memoirs of Margaret Fuller Ossoli, Vol. I, by Margaret Fuller Ossoli     13105
+   [Link: http://www.gutenberg.net/1/3/1/0/13105 ]
+   [Files: 13105.txt; 13105-8.txt]
+
+The Abominations of Modern Society, by Rev. T. De Witt Talmage           13104
+   [Link: http://www.gutenberg.net/1/3/1/0/13104 ]
+   [Files: 13104.txt; 13104-8.txt; 13104-h.htm]
+
+Great Britain and Her Queen, by Anne E. Keeling                          13103
+   (Note: HTML version includes more than 100 interesting illustrations)
+   [Link: http://www.gutenberg.net/1/3/1/0/13103 ]
+   [Files: 13103.txt; 13103-8.txt; 13103-h.htm; ]
+
+The Decameron, Vol. II, by Giovanni Boccaccio                            13102
+   [Tr.: J.M. Rigg] (Note: see #3726 for Vol. I)
+   [Link: http://www.gutenberg.net/1/3/1/0/13102 ]
+   [Files: 13102.txt]
+
+Samlade arbeten II, by Johan Ludvig Runeberg                             13101
+   [Johan Ludvig Runeberg is Finland's national poet
+    although he wrote in Swedish]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/3/1/0/13101 ]
+   [Files: 13101-8.txt]
+
+Samlade arbeten I, by Johan Ludvig Runeberg                              13100
+   [Johan Ludvig Runeberg is Finland's national poet although he wrote
+    in Swedish]
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/3/1/0/13100 ]
+   [Files: 13100-8.txt]
+
+Runoja, by Aaro Hellaakoski                                              13099
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/0/9/13099 ]
+   [Files: 13099-8.txt]
+
+Punch, Or The London Charivari, Vol. 100. Feb. 28, 1891, by Various      13098
+   [Link: http://www.gutenberg.net/1/3/0/9/13098 ]
+   [Files: 13098.txt; 13098-8.txt; 13098-h.htm]
+
+Lives Of The Most Remarkable Criminals, by Arthur L. Hayward             13097
+   [Full title: Lives Of The Most Remarkable Criminals
+    Who have been Condemned and Executed for Murder, the Highway,
+    Housebreaking, Street Robberies, Coining or other offences]
+   [Link: http://www.gutenberg.net/1/3/0/9/13097 ]
+   [Files: 13097.txt; 13097-8.txt; 13097-h.htm]
+
+Le Heros de Chateauguay, by Laurent-Olivier David                        13096
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/0/9/13096 ]
+   [Files: 13096.txt; 13096-8.txt; 13096-h.htm]
+
+Journal of a Voyage across the Atlantic, by George Moore                 13095
+   [Link: http://www.gutenberg.net/1/3/0/9/13095 ]
+   [Files: 13095.txt; 13095-8.txt; 13095-h.htm]
+
+Heart of the West (Annotated), by O. Henry                               13094C
+   [Author_AKA: William Sidney Porter]
+   [Additional_author: Annotation by Joseph E. Loewenstein]
+   [Note: annotation is copyrighted]
+   [Contents:
+     Hearts and Crosses
+     The Ransom of Mack
+     Telemachus, Friend
+     The Handbook of Hymen
+     The Pimienta Pancakes
+     Seats of the Haughty
+     Hygeia at the Solito
+     An Afternoon Miracle
+     The Higher Abdication
+     Cupid a la Carte
+     The Caballero's Way
+     The Sphinx Apple
+     The Missing Chord
+     A Call Loan
+     The Princess and the Puma
+     The Indian Summer of Dry Valley Johnson
+     Christmas by Injunction
+     A Chaparral Prince
+     The Reformation of Calliope]
+   [Link: http://www.gutenberg.net/1/3/0/9/13094]
+   [Files: 13094.txt; 13094-8.txt; 13094-h.htm]
+
+As Farpas: Chronica Mensal da Politica, Eca de Queiroz Ramalho Ortigao   13093
+   [Full title: As Farpas: Chronica Mensal da Politica,
+    das Letras e dos Costumes]
+   [Terceira Serie Tomo II Fevereiro a Maio 1878]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.net/1/3/0/9/13093 ]
+   [Files: 13093.txt; 13093-8.txt; 13093-h.htm]
+
+As Farpas: Chronica Mensal da Politica, Eca de Queiroz Ramalho Ortigao   13092
+    [Full title: As Farpas: Chronica Mensal da Politica,
+     das Letras e dos Costumes]
+    [Terceira Serie Tomo I Janeiro de 1878]
+    [Language: Portuguese]
+    [Link: http://www.gutenberg.net/1/3/0/9/13092 ]
+    [Files: 13092.txt; 13092-8.txt; 13092-h.htm]
+
+Hillsboro People, by Dorothy Canfield                                    13091
+   [With Occasional Vermont Verses By Sarah N. Cleghorn]
+   [Link: http://www.gutenberg.net/1/3/0/9/13091 ]
+   [Files: 13091.txt; 13091-8.txt]
+
+Mirror of Literature, Amusement, and Instruction, No. 494., by Various   13090
+   [Saturday, June 18, 1831]
+   [Link: http://www.gutenberg.net/1/3/0/9/13090 ]
+   [Files: 13090.txt; 13090-8.txt; 13090-h.htm]
+
+The Making of Arguments, by J. H. Gardiner                               13089
+   [Link: http://www.gutenberg.net/1/3/0/8/13089 ]
+   [Files: 13089.txt; 13089-8.txt; 13089-h.htm]
+
+Emerson and Other Essays, by John Jay Chapman                            13088
+   [Link: http://www.gutenberg.net/1/3/0/8/13088 ]
+   [Files: 13088.txt; 13088-8.txt; 13088-h.htm]
+
+Sammie and Susie Littletail, by Howard R. Garis                          13087
+   [Link: http://www.gutenberg.net/1/3/0/8/13087 ]
+   [Files: 13087.txt; 13087-h.htm]
+
+The Diwan of Abu'l-Ala, by Henry Baerlein                                13086
+   [The Wisdom of the East Series]
+   [Edited by L. Cranmer-Byng  and S. A. Kapadia]
+   [Link: http://www.gutenberg.net/1/3/0/8/13086 ]
+   [Files: 13086.txt; 13086-0.txt]
+
+A Diversity of Creatures, by Rudyard Kipling                             13085
+   [Link: http://www.gutenberg.net/1/3/0/8/13085 ]
+   [Files: 13085.txt; 13085-8.txt; 13085-h.htm; ]
+
+Back to Methuselah, by George Bernard Shaw                               13084
+   [Subtitle: A Metabiologigal Pentateuch]
+   [Link: http://www.gutenberg.net/1/3/0/8/13084 ]
+   [Files: 13084.txt; 13084-8.txt; ]
+
+R.U.R., by Karel Capek                                                   13083
+   [Subtitle: Rossum's Universal Robots]
+   [We are providing two separate conversions from HTML to Unicode
+    text, until someone expert in Czech can reconcile them.]
+   [Language: Czech]
+   [Link: http://www.gutenberg.net/1/3/0/8/13083 ]
+   [Files: 13083-h.htm; 13083-utf8.txt ; 13083-utf16.txt ]
+
+Images of Comet Wild 2, by NASA                                          13082
+   [Subtitle: Taken by NASA's Stardust spacecraft in 2004]
+   [Link: http://www.gutenberg.net/1/3/0/8/13082 ]
+   [Files: 13082.txt; 13082.jpe ; 13082.mov ]
+
+Unmanned, by Stephen Oliver                                              13081C
+   [Link: http://www.gutenberg.net/1/3/0/8/13081 ]
+   [Files: 13081.txt; 13081.rtf; 13081.pdf ]
+
+Night of Warehouses, by Stephen Oliver                                   13080C
+   [Subtitle: New and Selected Poems 1998-2000]
+   [Link: http://www.gutenberg.net/1/3/0/8/13080 ]
+   [Files: 13080.rtf ]
+
+String Quartet No. 14 in C-sharp Minor, Opus 131, Ludwig von Beethoven   13079
+   [Link: http://www.gutenberg.net/1/3/0/7/13079 ]
+   [Files: 13079.txt; ]
+
+String Quartet No. 12 Opus 127, by Ludwig von Beethoven                  13078
+   [Link: http://www.gutenberg.net/1/3/0/7/13078 ]
+
+Wild Western Scenes, by John Beauchamp Jones                             13077
+   [Subtitle: A Narrative Of Adventures In The Western Wilderness,
+    Wherein The Exploits Of Daniel Boone, The Great American Pioneer
+    Are Particularly Described]
+   [Link: http://www.gutenberg.net/1/3/0/7/13077 ]
+   [Files: 13077.txt; 13077-8.txt; 13077-h.htm]
+
+The Life of John Ruskin, by W. G. Collingwood                            13076
+   [Link: http://www.gutenberg.net/1/3/0/7/13076 ]
+   [Files: 13076.txt; 13076-8.txt; 13076-h.htm; ]
+
+A Hero and a Great Man, by Francis Kruckvich                             13075C
+   [Illustrator: Fritz]
+   [Link: http://www.gutenberg.net/1/3/0/7/13075 ]
+   [Files: 13075.txt; 13075-h.htm ]
+
+Punch, Or The London Charivari, Vol. 100., February 7, 1891, by Various  13074
+   [Link: http://www.gutenberg.net/1/3/0/7/13074 ]
+   [Files: 13074.txt; 13074-8.txt; 13074-h.htm]
+
+Mr. Trunnell, by T. Jenkins Hains                                        13073
+   [Link: http://www.gutenberg.net/1/3/0/7/13073 ]
+   [Files: 13073.txt]
+
+Common Sense, How To Exercise It, by Mme. Blanchard Yoritomo-Tashi       13072
+   [Link: http://www.gutenberg.net/1/3/0/7/13072 ]
+   [Files: 13072.txt; 13072-8.txt]
+
+Helena, by Mrs. Humprey Ward                                             13071
+   [Link: http://www.gutenberg.net/1/3/0/7/13071 ]
+   [Files: 13071.txt; 13071-8.txt]
+
+Le diner interrompu, by Ernest Doin                                      13070
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/0/5/13050 ]
+   [Files: 13050.txt; 13050-8.txt; 13050-h.htm]
+
+The Minister and the Boy, by Allan Hoben                                 13069
+   [Subtitle: A Handbook for Churchmen Engaged in Boys' Work]
+   [Link: http://www.gutenberg.net/1/3/0/6/13069 ]
+   [Files: 13069.txt; 13069-h.htm; ]
+
+Twenty-One Days in India; and, the Teapot Series, by Aberigh-Mackay      13068
+   [Subtitle: The Tour Of Sir Ali Baba K.C.B.]
+   [Author: George Robert Aberigh-Mackay]
+   [Link: http://www.gutenberg.net/1/3/0/6/13068 ]
+   [Files: 13068.txt; 13068-8.txt; ]
+
+Punch, Vol. 100, Jan. 31, 1891, Ed. by Sir Francis Burnand               13067
+   [Link: http://www.gutenberg.net/1/3/0/6/13067 ]
+   [Files: 13067.txt; 13067-8.txt; 13067-h.htm]
+
+Lord Elgin, by John George Bourinot                                      13066
+   [Editor: Duncan Campbell Scott and Pelham Edgar]
+   [From: "The Makers of Canada" series]
+   [Link: http://www.gutenberg.net/1/3/0/6/13066 ]
+   [Files: 13066.txt; 13066-8.txt; ]
+
+Beethoven's Letters 1790-1826, Vol. 1 of 2, by Lady Wallace              13065
+   [Link: http://www.gutenberg.net/1/3/0/6/13065 ]
+   [Files: 13065.txt; 13065-8.txt; 13065-h.htm]
+
+Persia Revisited, by Thomas Edward Gordon                                13064
+   [Link: http://www.gutenberg.net/1/3/0/6/13064 ]
+   [Files: 13064.txt; 13064-8.txt]
+
+Kootut teokset I: Edellinen osa, by J. H. Erkko                          13063
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/0/6/13063 ]
+   [Files: 13063.txt; 13063-8.txt]
+
+Blackwood's Edinburgh Magazine, No. CCCXXVIII, by Various                13062
+   [February, 1843]
+   [Link: http://www.gutenberg.net/1/3/0/6/13062 ]
+   [Files: 13062.txt; 13062-8.txt; 13062-h.htm]
+
+Lippincott's Magazine of Popular Literature & Science, Vol. 15, No. 87   13061
+   [March, 1875]
+   [Editor: John Foster Kirk]
+   [Link: http://www.gutenberg.net/1/3/0/6/13061 ]
+   [Files: 13061.txt; 13061-8.txt; 13061-h.htm; ]
+
+Persian Literature, V2, The Shah Nameh, Rubaiyat, Divan, Gulistan        13060
+   [Title: Persian Literature, Volume 2, Comprising The Shah Nameh, The
+    Rubaiyat, The Divan, and The Gulistan]
+   [Author: Anonymous; special introduction by Richard J. H. Gottheil]
+   [Translator (of the Gulistan): James Ross]
+   [Link: http://www.gutenberg.net/1/3/0/6/13060 ]
+   [Files: 13060.txt; 13060-8.txt; ]
+
+Le Cap au Diable, Legende Canadienne, by Charles DeGuise                 13059
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/0/5/13059 ]
+   [Files: 13059.txt; 13059-8.txt]
+
+The Teeth of the Tiger, by Maurice Leblanc                               13058
+   [Link: http://www.gutenberg.net/1/3/0/5/13058 ]
+   [Files: 13058.txt; 13058-8.txt]
+
+The Philanderers, by A.E.W. Mason                                        13057
+   [Link: http://www.gutenberg.net/1/3/0/5/13057 ]
+   [Files: 13057.txt; 13057-8.txt]
+
+German Classics of the 19th & 20th Centuries, Vol. X, Ed. by Francke     13056
+   [Title: The German Classics of The Nineteenth and Twentieth Centuries,
+    Vol. X]
+   [Subtitle: Masterpieces of German Literature Translated into English.
+    In Twenty Volumes. Prince Otto Von Bismarck, Count Helmuth Von Moltke,
+    Ferdinand Lassalle]
+   [Editor-in-Chief: Kuno Francke]
+   [Link: http://www.gutenberg.net/1/3/0/5/13056 ]
+   [Files: 13056.txt; 13056-8.txt]
+
+General History and Collection of Voyages and Travels, Volume IX, Kerr   13055
+   [Full author: Robert Kerr]
+   [Link: http://www.gutenberg.net/1/3/0/5/13055 ]
+   [Files: 13055.txt; 13055-8.txt]
+
+A Thane of Wessex, by Charles W. Whistler                                13054
+   [Subtitle: Being a Story of the Great Viking Raids into Somerset]
+   [Link: http://www.gutenberg.net/1/3/0/5/13054 ]
+   [Files: 13054.txt; 13054-h.htm; ]
+
+International Weekly Miscellany, Vol. I, No. 4, July 22, 1850            13053
+   [Title: International Weekly Miscellany Of Literature, Art, and Science]
+   [Link: http://www.gutenberg.net/1/3/0/5/13053 ]
+   [Files: 13053.txt; 13053-8.txt; 13053-h.htm]
+
+The Mistress of the Manse, by J. G. Holland                              13052
+   [Link: http://www.gutenberg.net/1/3/0/5/13050 ]
+   [Files: 13050.txt]
+
+Sketches of Japanese Manners and Customs, by J. M. W. Silver             13051
+   [The gorgeous illustrations make the HTML version of this book well
+    worth inspecting.]
+   [Link: http://www.gutenberg.net/1/3/0/5/13051 ]
+   [Files: 13051.txt; 13051-8.txt; 13051-h.htm; ]
+
+The Easiest Way, by Eugene Walter                                        13050
+   [Subtitle: Representative Plays by American Dramatists: 1856-1911]
+   [Link: http://www.gutenberg.net/1/3/0/5/13050 ]
+   [Files: 13050.txt; 13050-8.txt]
+
+Reveries of a Schoolmaster, by Francis B. Pearson                        13049
+   [Link: http://www.gutenberg.net/1/3/0/4/13049 ]
+   [Files: 13049.txt]
+
+Where the Sabots Clatter Again, by Katherine Shortall                    13048
+   [Link: http://www.gutenberg.net/1/3/0/4/13048 ]
+   [Files: 13048.txt; 13048-8.txt; 13048-h.htm]
+
+Daniel Webster, by Henry Cabot Lodge                                     13047
+   [Link: http://www.gutenberg.net/1/3/0/4/13047 ]
+   [Files: 13047.txt; 13047-8.txt]
+
+The Historic Thames, by Hilaire Belloc                                   13046
+   [Link: http://www.gutenberg.net/1/3/0/4/13046 ]
+   [Files: 13046.txt; 13046-8.txt]
+
+War-Time Financial Problems, by Hartley Withers                          13045
+   [Link: http://www.gutenberg.net/1/3/0/4/13045 ]
+   [Files: 13045.txt; 13045-8.txt; ]
+
+
+Knickerbocker's History of New York, Complete, by Washington Irving      13042
+   [Link: http://www.gutenberg.net/1/3/0/4/13042 ]
+   [Files: 13042.txt; 13042-8.txt; 13042-h.htm]
+
+
+The Bullitt Mission to Russia, by William C. Bullitt                     10713
+   [Subtitle: Testimony before the Committee on Foreign Relations, United
+    States Senate, of William C. Bullitt]
+   [Link: http://www.gutenberg.net/1/0/7/1/10713 ]
+   [Files: 10713.txt; 10713-8.txt; ]
+
+=-=-=-=[ 5 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Aug 2004 My Tahiti, by Robert Dean Frisbie                 [040062xx.xxx] 0370A
+   [http://gutenberg.net.au/ebooks04/0400621.txt or .zip ]
+
+Jul 2004 The Complete Adventures of Blinky Bill, D Wall    [040060xx.xxx] 0368A
+   [Full Name: Dorothy Wall]
+   [http://gutenberg.net.au/ebooks04/0400601.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400601h.html ]
+Jul 2004 Blinky Bill Grows Up, by Dorothy Wall             [040059xx.xxx] 0367A
+   [http://gutenberg.net.au/ebooks04/0400591.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400591h.html ]
+Jul 2004 Blinky Bill and Nutsy, by Dorothy Wall            [040058xx.xxx] 0366A
+   [http://gutenberg.net.au/ebooks04/0400581.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400581h.html ]
+Jul 2004 Blinky Bill, by Dorothy Wall                      [040057xx.xxx] 0365A
+   [http://gutenberg.net.au/ebooks04/0400571.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400571h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+&gt;From David Widger:
+Re: #13100 Samlade arbeten I, and #13101 Samlade arbeten II, both by
+Johan Ludvig Runeberg: note that Runeberg is Finland's national poet, but
+that he wrote in Swedish.
+
+~ ~ ~
+
+I know all the answers, just at the wrong time.
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_08_04_part_2.txt" target="_blank" rel="nofollow">pgweekly_2004_08_04_part_2.txt</a>

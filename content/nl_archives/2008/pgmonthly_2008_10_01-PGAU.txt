@@ -1,0 +1,210 @@
+PROJECT GUTENBERG OF AUSTRALIA 
+============================== 
+ 
+MONTHLY NEWSLETTER - October 2008
+[includes details of ebooks placed online during September 2008] 
+ 
+Dear Avid Reader, 
+ 
+Copyright laws are changing all over the world. Be sure to check the copyright 
+laws for your country before downloading or redistributing ebooks mentioned in 
+this newsletter. 
+ 
+CONTENTS: 
+--------------------------------------- 
+* News and Reviews 
+* Last month's postings 
+* Other Information (including details of how to unsubscribe) 
+ 
+NEWS AND REVIEWS 
+-------------------------------------------------------------------------------- 
+ 
+TALKING BOOKS  
+---------------------------------------
+The term "DAISY" (Digital Accessible Information SYstem) is used to refer to a 
+standard for producing accessible and navigable multimedia documents. In 
+current practice, these documents are Digital Talking Books, digital text 
+books, or a combination of synchronized audio and text books. DAISY is a 
+globally recognized technical standard to facilitate the creation of 
+accessible content. The standard was originally developed to benefit people 
+who are unable to read print due to a disability, but it also has broad 
+applications for improved access to text in the mainstream. The DAISY Standard 
+has been evolving over the last several years and has recently been officially 
+recognized by an American standards- making body. 
+
+"Beyond Books, Beyond Barriers" is the talking book library of Western 
+Australia. It is a joint project of the State Library of Western Australia and 
+the Association for the Blind of Western Australia (ABWA). Recently, a list of 
+books available at PGA was added to the library catalogue in the form of a 
+MARC file -- See http://gutenberg.net.au/marc.html. Users of the "Beyond 
+Books, Beyond Barriers" library catalogue can request that an ebook be made 
+available in DAISY format and the ebook is converted so that it can be read on 
+a DAISY reader, for which free software is available. For those wishing to do 
+the conversion to the DAISY format themselves, there is a plug-in to the "free 
+and open productivity suite", Open Office, which enables DAISY books to be 
+created from text files. 
+
+When I first started making ebooks, about 10 years ago, people were always 
+telling me that no one would want to read books while sitting at a computer. I 
+had to agree, but would tell them that I was "waiting for technology to catch 
+up". To tell the truth, I too sometimes wondered just how useful ebooks were, 
+beyond serving as a quick way of referencing quotations from them. Now it 
+seems as though the technology HAS caught up-- here we are with free ebooks, 
+free ebook software, international production standards, and ebook-reader 
+hardware which is becoming more affordable each year. Of course, However, I am 
+still waiting for that breakthrough, so that I can relax in bed and read 
+ebooks as a hologram on the inside of my eyelids. Look, no hands! 
+
+Below are links to web sites relating to matters covered in this article. 
+
+Frequently Asked Questions about DAISY: 
+http://www.daisy.org/about_us/faq.shtml?faq=gen#a_17 About "Beyond Books, 
+Beyond Barriers": http://www.cucat.org/library/openbiblio/shared/about.php 
+Catalogue at "Beyond Books, Beyond Barriers": 
+http://www.cucat.org/library/openbiblio/opac/index.php About MARC files: 
+http://www.gutenberg.net.au/newsletters/200707-newsletter.html DAISY talking 
+book software: http://www.cucat.org/library/openbiblio/shared/about.php Open 
+Office Software download: http://openoffice.org- 
+suite.com/index.asp?aff=101&camp=gg_oo_au&se=google 
+DAISY plugin for Open Office: http://odt2dtbook.sourceforge.net/index.html 
+ 
+ 
+MILES FRANKLIN (1879-1954) -- http://en.wikipedia.org/wiki/Miles_Franklin 
+---------------------------------------
+The Miles Franklin award -- http://en.wikipedia.org/wiki/Miles_Franklin_Award 
+-- is, as the Wikipedia article just cited puts it, "an annual literary prize 
+for the best Australian 'published novel or play portraying Australian life in 
+any of its phases.'" It is a well known award. Somewhat less well known are 
+the literary works of Miles Franklin herself. She is best known for "My 
+Brilliant Career," published in 1901. However, her other works, including a 
+number written under the pseudonym "Brent of Bin Bin", are always readable and 
+are a valuable chronicle of Australian pioneer life. 
+
+This month we have placed online two of her novels, "All that Swagger" and "Up 
+the Country." Those works, together with "My Brilliant Career," can be 
+accessed from http://gutenberg.net.au/plusfifty-a-m.html#franklin2. Other 
+Franklin works are in the pipeline and 
+will be placed online in coming months. 
+ 
+ 
+MULGA BILL'S BICYCLE 
+--------------------------------------------  
+ 
+'Twas Mulga Bill, from Eaglehawk, that caught the cycling craze; 
+He turned away the good old horse that served him many days; 
+He dressed himself in cycling clothes, resplendent to be seen; 
+He hurried off to town and bought a shining new machine; 
+And as he wheeled it through the door, with air of lordly pride, 
+The grinning shop assistant said, 'Excuse me, can you ride?' 
+ 
+'See, here, young man,' said Mulga Bill, 'from Walgett to the sea, 
+From Conroy's Gap to Castlereagh, there's none can ride like me. 
+I'm good all round at everything, as everybody knows, 
+Although I'm not the one to talk -- I HATE a man that blows. 
+But riding is my special gift, my chiefest, sole delight; 
+Just ask a wild duck can it swim, a wild cat can it fight. 
+There's nothing clothed in hair or hide, or built of flesh or steel, 
+There's nothing walks or jumps, or runs, on axle, hoof, or wheel, 
+But what I'll sit, while hide will hold and girths and straps are tight: 
+I'll ride this here two-wheeled concern right straight away at sight.' 
+ 
+'Twas Mulga Bill, from Eaglehawk, that sought his own abode, 
+That perched above the Dead Man's Creek, beside the mountain road. 
+He turned the cycle down the hill and mounted for the fray, 
+But ere he'd gone a dozen yards it bolted clean away. 
+It left the track, and through the trees, just like a silver streak, 
+It whistled down the awful slope, towards the Dead Man's Creek. 
+ 
+It shaved a stump by half an inch, it dodged a big white-box: 
+The very wallaroos in fright went scrambling up the rocks, 
+The wombats hiding in their caves dug deeper underground, 
+As Mulga Bill, as white as chalk, sat tight to every bound. 
+It struck a stone and gave a spring that cleared a fallen tree, 
+It raced beside a precipice as close as close could be; 
+And then as Mulga Bill let out one last despairing shriek 
+It made a leap of twenty feet into the Dead Man's Creek. 
+ 
+'Twas Mulga Bill, from Eaglehawk, that slowly swam ashore: 
+He said, 'I've had some narrer shaves and lively rides before; 
+I've rode a wild bull round a yard to win a five pound bet, 
+But this was the most awful ride that I've encountered yet. 
+I'll give that two-wheeled outlaw best; it's shaken all my nerve 
+To feel it whistle through the air and plunge and buck and swerve. 
+It's safe at rest in Dead Man's Creek, we'll leave it lying still; 
+A horse's back is good enough henceforth for Mulga Bill.' 
+ 
+From: Rio Grande's Last Race & Other Verses by 'Banjo' Paterson --  
+http://gutenberg.net.au/pgaus.html#paterson 
+ 
+ 
+LAST MONTH'S POSTINGS 
+-------------------------------------------------------------------------------- 
+A list of all the books we provide is available from 
+http://gutenberg.net.au/plusfifty.html 
+Check there to see if there are other works by the authors listed below. 
+ 
+ 
+-- SEPTEMBER POSTINGS -- 
+ 
+Sep 2008 Sanders of the River, Edgar Wallace               [080113xx.xxx] 1695A 
+http://gutenberg.net.au/ebooks08/0801131.txt or .zip 
+Sep 2008 The Dark Invader, Captain Franz von Rintelen      [080112xx.xxx] 1694A 
+http://gutenberg.net.au/ebooks08/0801121.txt or .zip 
+http://gutenberg.net.au/ebooks08/0801121h.html 
+Sep 2008 Who Killed the Husband?, Hulbert Footner          [080111xx.xxx] 1693A 
+http://gutenberg.net.au/ebooks08/0801111.txt or .zip 
+http://gutenberg.net.au/ebooks08/0801111h.html 
+Sep 2008 Maid No More, Helen Simpson                       [080110xx.xxx] 1692A 
+http://gutenberg.net.au/ebooks08/0801101.txt or .zip 
+Sep 2008 Big Foot, Edgar Wallace                           [080109xx.xxx] 1691A 
+http://gutenberg.net.au/ebooks08/0801091.txt or .zip 
+Sep 2008 Palos of the Dog Star Pack, J U Giesy             [080108xx.xxx] 1690A 
+http://gutenberg.net.au/ebooks08/0801081.txt or .zip 
+Sep 2008 The Mouthpiece of Zitu, J U Giesy                 [080107xx.xxx] 1689A 
+http://gutenberg.net.au/ebooks08/0801071.txt or .zip 
+Sep 2008 Jason Son of Jason, J U Giesy                    [080106xx.xxx] 1688A 
+http://gutenberg.net.au/ebooks08/0801061.txt or .zip 
+Sep 2008 The Kit-Bag, Algernon Blackwood                   [080105xx.xxx] 1687A 
+http://gutenberg.net.au/ebooks08/0801051.txt or .zip 
+Sep 2008 Thurnley Abbey, Percival Landon                   [080104xx.xxx] 1686A 
+http://gutenberg.net.au/ebooks08/0801041.txt or .zip 
+Sep 2008 Father Macclesfield'S Tale, R H Benson            [080103xx.xxx] 1685A 
+http://gutenberg.net.au/ebooks08/0801031.txt or .zip 
+Sep 2008 The Shadows on the Wall, Mary Eleanor Wilkins     [080102xx.xxx] 1684A 
+http://gutenberg.net.au/ebooks08/0801021.txt or .zip 
+Sep 2008 Pichon and Sons of the Croix Rousse,  Anonymous   [080101xx.xxx] 1683A 
+http://gutenberg.net.au/ebooks08/0801011.txt or .zip 
+Sep 2008 The Tomb of Sarah, F G Loring                     [080100xx.xxx] 1682A 
+http://gutenberg.net.au/ebooks08/0801001.txt or .zip 
+Sep 2008 The Botathen Ghost, R S Hawker                    [080099xx.xxx] 1681A 
+http://gutenberg.net.au/ebooks08/0800991.txt or .zip 
+Sep 2008 Up the Country, Miles Franklin                    [080098xx.xxx] 1680A 
+http://gutenberg.net.au/ebooks08/0800981.txt or .zip 
+Sep 2008 The Third Round, Sapper                           [080097xx.xxx] 1679A 
+http://gutenberg.net.au/ebooks08/0800971.txt or .zip 
+http://gutenberg.net.au/ebooks08/0800971h.html 
+Sep 2008 All that Swagger, Miles Franklin                  [080096xx.xxx] 1678A 
+http://gutenberg.net.au/ebooks08/0800961.txt or .zip 
+ 
+OTHER INFORMATION 
+-------------------------------------------------------------------------------- 
+Newsletter Editor: Colin Choat 
+ 
+To visit the Project Gutenberg of Australia web site, go to 
+http://gutenberg.net.au 
+ 
+To contact us, go to http://gutenberg.net.au/contact.html 
+ 
+To get HELP with downloading the ebooks available from Project Gutenberg of 
+Australia go to http://gutenberg.net.au/help.html 
+ 
+To view past newsletters go to http://gutenberg.net.au/oldnews.html 
+ 
+Tell a friend to subscribe to this newsletter at 
+http://www.zanehost.com/?p=subscribe&id=4 
+ 
+-------------------------------------------------------------------------------- 
+Project Gutenberg of Australia 
+a treasure-trove of literature 
+treasure-trove n. treasure found hidden with no evidence of ownership. 
+--------------------------------------------------------------------------------

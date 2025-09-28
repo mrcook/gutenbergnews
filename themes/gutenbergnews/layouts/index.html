@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="{{ .Site.Language.Lang }}">
+{{ partial "head.html" . }}
+</head>
+<body>
+<div class="content">
+{{ partial "header.html" . }}
+  {{- if isset .Site.Params "subtitle" }}
+  <div class="subtitle">
+    <p>{{ .Site.Params.Subtitle | .Page.RenderString }}</p>
+  </div>
+  {{ end -}}
+
+  {{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
+  {{- $paginator := .Paginate (where $pages "Params.hidden" "ne" true) -}}
+  {{ range $paginator.Pages }}
+  <section class="post">
+    <h1 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+    <p><time>{{ time.Format ":date_long" .Date }}</time></p>
+    {{ .Summary }}
+  </section>
+  {{- end }}
+{{ template "partials/paginator.html" . }}
+{{ partial "footer.html" . }}
+</div>
+{{- if not hugo.IsServer }}
+{{ template "_internal/google_analytics.html" . }}
+{{ end -}}
+</body>
+</html>

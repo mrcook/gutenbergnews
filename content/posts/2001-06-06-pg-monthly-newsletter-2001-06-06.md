@@ -1,0 +1,473 @@
+---
+params:
+  id: 1821
+title: PG Monthly Newsletter (2001-06-06)
+date: 2001-06-06T14:50:15+00:00
+author: Michael Cook
+layout: post
+url: /20010606/pg-monthly-newsletter-2001-06-06/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gmonthly] Project Gutenberg Monthly Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg Monthly Newsletter" &lt;gmonthly@listserv.unc.edu&gt;
+Date: Wed, 6 Jun 2001 11:04:05 -0500 (CDT)
+
+
+WARNING:  THIS IS A TEST OF THE NEW PROJECT GUTENBERG NEWSLETTER SERVERS
+[This is the first day Newsletters are being sent in this manner, and we
+hope to have a majority of any bugs worked out by our July 4th edition.
+Please let us know of any suggestions or comments you may have. . . .]
+[If you get an extra you didn't get before, or don't see copies in the
+usual locations, please let use know!]
+
+Some people have asked that the monthly Newsletter contain ALL of the
+information contained in the weekly Newsletters, but I'm not sure this
+is going to work out. . .we can certainly include all the listings for
+new and revised Etexts. . .but I'm not sure if we can include all the
+quotes from Newsscan and Edupage. . .and obviously some of the request
+for assistance messages will be out of date if we include them.  Open
+to suggestions on this, as well as the entire new formats. . .sorry I
+haven't had time to really polish these up yet. . .and I felt I should
+strip today's issues down to the bare minimum in case there are errors
+that result in you getting extra copies. Michael S. Hart/hart@pobox.com
+
+
+The Project Gutenberg *Monthly* Newsletter for Wednesday, June 6, 2001
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+Our first full test of doing the Newsletters with *monthly* listserver
+and *weekly* listservers.  Subscription information is included below.
+
+We are still in the process of creating the new Newsletter formats,
+so please feel free to make even more suggestions and comments. . .]
+
+
+With 3600 eTexts online it now takes an average of 100,000,000 readers
+gaining a nominal value of $2.78 from each book, for Project Gutenberg
+to have given away $1,000,000,000,000 [One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+
+This "cost" is down from $2.87 when we had 3481 Etexts on May 2
+This "cost" is down from $2.94 when we had 3400 Etexts on April 4
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on April 4
+This "cost" is down from $3.10 when we had 3225 Etexts on March 7
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on December 6, 2000
+This "cost" is down from $3.40 when we had 2870 Etexts on October 18/Nov 1
+This "cost" is down from $3.48 when we had 2870 Etexts on September 3
+This "cost" is down from $3.55 when we had 2820 Etexts on August 16
+This "cost" is down from $3.60 when we had 2775 Etexts on August 2
+This "cost" is down from $3.70 when we had 2650 Etexts in July
+This "cost" is down from $3.77 when we had 2650 Etexts in June
+This "cost" is down from $3.92 when we had 2550 Etexts in May
+This "cost" is down from $4.00 when we had 2500 Etexts in April
+
+Can you imagine each one of thousands of books reduced by $1.12. . .
+Just from one spring to the next spring???
+
+***
+
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+
+You will need the first five letters of the filenames listed below.
+
+
+Here is a list of the Etexts posted in the past five weeks:
+
+[Please note the filenames first posted for these two had the wrong numbers.]
+Dec 2002 Memoirs of Napoleon, V10, by Bourrienne    [NB#10][nb10vxxx.xxx]3560
+Dec 2002 Memoirs of Napoleon, V9, by Bourrienne     [NB#09][nb09vxxx.xxx]3559
+
+and
+
+Correction:
+Nov 2002 Human Genome Project, Chromosome Number 09        [09hgpxxa.xxx]3509
+The above was previously listed incorrectly as 19hgp. . .
+
+Nov 2002 Human Genome Project, Chromosome Number 09        [19hgpxxa.xxx]3509
+and thus I missed unzipping 09hgp10a, which I have also corrected.
+
+***
+
+Here are the listings for our improved editions of previous releases:
+[These updates often take as much effort as does creating prior editions]
+
+We have posted our 12th edition of:
+Feb 2001 Siddhartha, by Herman Hesse [In 8-bit German]     [8siddxxx.xxx]2499
+Feb 2001 Siddhartha, by Herman Hesse [In 7-bit German]     [7siddxxx.xxx]2499
+
+We posted a new improved 11th edition of:
+Nov 2000 Briefe aus der Schweiz, by Goethe       [Goethe21][7schwxxx.xxx]2402
+Nov 2000 Briefe aus der Schweiz, by Goethe       [Goethe21][8schwxxx.xxx]2402   REreleased as
+version 11 with significant improvements.
+[This is a German Etext, the 7 bit file is without accents 8-bit is accented]
+
+We posted a new improved version 11 edition of:
+Jun 2001 Under the Greenwood Tree, by Thomas Hardy[Hardy#8][ungwtxxx.xxx]2662
+Sep 1999 Typee, by Herman Melville     [Herman Melville #2][typeexxx.xxx]1900
+May 1998 If, by Lord Dunsany   [Edward John Plunkett]  [#1][ifdunxxx.xxx]1311
+Oct 1995 Dracula, by Bram Stoker     [Halloween Request #5][dracuxxx.xxx] 345
+Jun 1993 What Is Man?  Mark Twain      [Twain #1] [Clemens][wman11xx.xxx]  70
+
+
+We have a total of 87 new files to download this month:
+
+87 files per month would yield 1044 per year, but don't
+forget that THIS month we had FIVE Wednesdays, and that
+most months we only get four. . . .
+
+
+
+
+Jan 2003 Cupid's Understudy, by Edward Salisbury Field     [cpdndxxx.xxx]3602
+Jan 2003 The Captives, by Hugh Walpole    [Hugh Walpole #3][cptvsxxx.xxx]3601
+
+
+!!!!!!!Please note the above files are in our new /etext03 directory!!!!!!!
+
+***Please note that the December, 2002 catalogue is filled, and the***
+****reserved portion should be completed within the next two weeks.***
+[The files are labeled with a trailing * to indicate they are RESERVED]
+[We are only listing the NEWLY released files in the Newsletters, let us
+know if you would like us to include the COMPLETE listings of December &
+November, etc., in the *monthly* Newsletters.]
+
+Dec 2002 The Complete Essays of Montaigne, Cotton   [MN#20][mn20vxxx.xxx]3600*
+Dec 2002 The Essays of Montaigne, V19, 1877, Cotton [MN#19][mn19vxxx.xxx]3599*
+Dec 2002 The Essays of Montaigne, V18, 1877, Cotton [MN#18][mn18vxxx.xxx]3598*
+Dec 2002 The Essays of Montaigne, V17, 1877, Cotton [MN#17][mn17vxxx.xxx]3597*
+Dec 2002 The Essays of Montaigne, V16, 1877, Cotton [MN#16][mn16vxxx.xxx]3596*
+
+Dec 2002 The Essays of Montaigne, V15, 1877, Cotton [MN#15][mn15vxxx.xxx]3595*
+Dec 2002 The Essays of Montaigne, V14, 1877, Cotton [MN#14][mn14vxxx.xxx]3594*
+Dec 2002 The Essays of Montaigne, V13, 1877, Cotton [MN#13][mn13vxxx.xxx]3593*
+Dec 2002 The Essays of Montaigne, V12, 1877, Cotton [MN#12][mn12vxxx.xxx]3592*
+Dec 2002 The Essays of Montaigne, V11, 1877, Cotton [MN#11][mn11vxxx.xxx]3591*
+
+Dec 2002 The Essays of Montaigne, V10, 1877, Cotton [MN#10][mn10vxxx.xxx]3590
+Dec 2002 The Essays of Montaigne, V9, 1877, Cotton  [MN#09][mn09vxxx.xxx]3589
+Dec 2002 The Essays of Montaigne, V8, 1877, Cotton  [MN#08][mn08vxxx.xxx]3588
+Dec 2002 The Essays of Montaigne, V7, 1877, Cotton  [MN#07][mn07vxxx.xxx]3587
+Dec 2002 The Essays of Montaigne, V6, 1877, Cotton  [MN#06][mn06vxxx.xxx]3586
+
+Dec 2002 The Essays of Montaigne, V5, 1877, Cotton  [MN#05][mn05vxxx.xxx]3585
+Dec 2002 The Essays of Montaigne, V4, 1877, Cotton  [MN#04][mn04vxxx.xxx]3584
+Dec 2002 The Essays of Montaigne, V3, 1877, Cotton  [MN#03][mn03vxxx.xxx]3583
+Dec 2002 The Essays of Montaigne, V2, 1877, Cotton  [MN#02][mn02vxxx.xxx]3582
+Dec 2002 The Essays of Montaigne, V1, 1877, Cotton  [MN#01][mn01vxxx.xxx]3581
+
+Dec 2002 Complete Life of Napoleon, V13, by Constant[NB#30][nc13vxxx.xxx]3580
+Dec 2002 Private Life of Napoleon, V12, by Constant [NB#29][nc12vxxx.xxx]3579
+Dec 2002 Private Life of Napoleon, V11, by Constant [NB#28][nc11vxxx.xxx]3578
+Dec 2002 Private Life of Napoleon, V10, by Constant [NB#27][nc10vxxx.xxx]3577
+Dec 2002 Private Life of Napoleon, V9, by Constant  [NB#26][nc09vxxx.xxx]3576
+
+Dec 2002 Private Life of Napoleon, V8, by Constant  [NB#25][nc08vxxx.xxx]3575
+Dec 2002 Private Life of Napoleon, V7, by Constant  [NB#24][nc07vxxx.xxx]3574
+Dec 2002 Private Life of Napoleon, V6, by Constant  [NB#23][nc06vxxx.xxx]3573
+Dec 2002 Private Life of Napoleon, V5, by Constant  [NB#22][nc05vxxx.xxx]3572
+Dec 2002 Private Life of Napoleon, V4, by Constant  [NB#21][nc04vxxx.xxx]3571
+
+Dec 2002 Private Life of Napoleon, V3, by Constant  [NB#20][nc03vxxx.xxx]3570
+Dec 2002 Private Life of Napoleon, V2, by Constant  [NB#19][nc02vxxx.xxx]3569
+Dec 2002 Private Life of Napoleon, V1, by Constant  [NB#18][nc01vxxx.xxx]3568
+Dec 2002 Complete Memoirs of Napoleon, by Bourrienne[NB#17][nb17vxxx.xxx]3567
+Dec 2002 Memoirs of Napoleon, V16, by Bourrienne    [NB#16][nb16vxxx.xxx]3566
+Dec 2002 Memoirs of Napoleon, V15, by Bourrienne    [NB#15][nb15vxxx.xxx]3565
+Dec 2002 Memoirs of Napoleon, V14, by Bourrienne    [NB#14][nb14vxxx.xxx]3564
+Dec 2002 Memoirs of Napoleon, V13, by Bourrienne    [NB#13][nb13vxxx.xxx]3563
+
+
+Nov 2002 La Mere Bauche, by Anthony Trollope [Trollope #12][merbuxxx.xxx]3550
+Nov 2002 Cowley's Essays, by Abraham Cowley                [cowesxxx.xxx]3549
+Nov 2002 The Pharisee And Publican, by John Bunyan[Bunyan5][pharpxxx.xxx]3548
+Nov 2002 See America First, by Orville O. Hiestand         [cusa1xxx.xxx]3547
+Nov 2002 The Eureka Stockade, by Carboni Raffaello[Carboni][rkstkxxx.xxx]3546
+[Wrote as Carboni Raffaello, however Carboni was really Raffaello Carboni]
+
+Nov 2002 The Complete Poetical Works of Oliver Goldsmith #3[cpwogxxx.xxx]3545
+Nov 2002 How He Lied to Her Husband, by George Bernard Shaw[lied2xxx.xxx]3544
+Nov 2002 Heartbreak House, by George Bernard Shaw [GBS #16][hrtbkxxx.xxx]3543
+Nov 2002 Quotations of Jacques Casanova, by David Widger #6[dwqjcxxx.xxx]3542
+Nov 2002 Thoughts Evoked By The Census Of Moscow by Tolstoi[tecomxxx.xxx]3541
+
+Nov 2002 Article On The Census In Moscow, by Leo Tolstoi/11[ancimxxx.xxx]3540
+[Also list under Lyof and Tolstoi, middle inital is N.]
+Nov 2002 The Love-Chase, by James Sheridan Knowles [JSK #2][lvchsxxx.xxx]3539
+Nov 2002 The Americanization of Edward Bok, by Edward Bok  [ewbokxxx.xxx]3538
+[The Autobiography of a Dutch Boy Fifty Years After, by Edward William Bok]
+Nov 2002 Frederick The Great And His Family, by L. Muhlbach[ftghfxxx.xxx]3537
+[Variant spellings: Louise Muhlbach, Luise Muhlbach and Luise von Muhlbach]
+Nov 2002 The Enchanted Castle, by E. Nesbit [E. Nesbit #9] [nchtlxxx.xxx]3536
+
+Nov 2002 The Expedition to Botany Bay, by Watkin Tench [#2][tetbbxxx.xxx]3535
+[Full Title:  A Narrative of the Expedition to Botany Bay]
+Nov 2002 The Settlement at Port Jackson, by Watkin Tench #1[tsapjxxx.xxx]3534
+[Full Title:  A Complete Account of the Settlement at Port Jackson]
+Nov 2002 Sunshine Sketches of a Little Town/Stephen Leacock[sskltxxx.xxx]3533
+Nov 2002 My Discovery of England, by Stephen Leacock[SL #1][mdscvxxx.xxx]3532
+Nov 2002 Quotations of Lord Chesterfield by David Widger #6[dwqlcxxx.xxx]3531
+
+Nov 2002 Love-at-Arms, by Rafael Sabatini    [Sabatini #16][laarmxxx.xxx]3530
+Nov 2002 Sweden, Norway and Denmark, by Mary Wollstonecraft[ltswdxxx.xxx]3529
+[Full Title: Letters on  Sweden, Norway and Denmark]
+Also see:
+Sep 2002 Vindication of Rights of Woman/Mary Wollstonecraft[vorowxxx.xxx]3420
+May 1994 Maria or the Wrongs of Woman, Mary Wollstonecraft [maria10x.xxx] 134
+Nov 2002 Beethoven: The Man And The Artist/Kerst & Krehbiel[lvbmaxxx.xxx]3528
+[Full Title: Beethoven: the Man and the Artist, as Revealed in his own Words]
+[Authors' Full Names:]
+[Ludwig van Beethoven, edited by Friedrich Kerst and Henry Edward Krehbiel]
+Nov 2002 The Blue Moon, by Laurence Housman                [tblmnxxx.xxx]3527
+Nov 2002 Five Weeks in a Balloon, by Jules Verne[Verne #16][5wiabxxx.xxx]3526
+Nov 2002 Music and Other Poems, by Henry van Dyke [HVD #6] [mscopxxx.xxx]3525
+
+
+Oct 2002 Ceiriog, by John Ceiriog Hughes [This is in Welsh][ceirgxxx.xxx]3500
+[This Etext is available as ceirg10h.htm and .zip and ceirg10.txt and .zip]
+[May not yet be available in HTML on archive.org]
+Oct 2002 Buch Der Lieder, by Heinrich Heine   [H. Heine #4][xliedxxx.xxx]3498
+[Translation:  Book Of Songs, 7lied* is unaccented German 8lied* has accents]
+Oct 2002 The Swiss Twins, by Lucy Fitch Perkins    [LFP #2][swtwnxxx.xxx]3497
+Oct 2002 The Japanese Twins, by Lucy Fitch Perkins [LFP #1][jptwnxxx.xxx]3496
+[We could probably use a little more proofing on these two]
+
+Oct 2002 The King of Ireland's Son, by Padraic Colum       [kisonxxx.xxx]3495
+Oct 2002 Bluebeard, by Kate Douglas Wiggin[Kate Wiggin #20][blbrdxxx.xxx]3494
+Oct 2002 Widger's Quotations from Oliver W. Holmes, Sr.[W5][dwqohxxx.xxx]3493
+[Full Title:  Widger's Quotations from the Works of Oliver W. Holmes, Sr.]
+Oct 2002 Homespun Tales, by Kate Douglas Wiggin[Wiggin #18][hspunxxx.xxx]3492
+Oct 2002 Missy, by Dana Gatlin                             [missyxxx.xxx]3491
+
+Oct 2002 The Admirable Crichton by J. M. Barrie [Barrie #5][theacxxx.xxx]3490
+Oct 2002  Fabre, Poet of Science, by G. V. (C. V.) Legros  [fbrpsxxx.xxx]3489
+Oct 2002 The Inca of Perusalem by George Bernard Shaw [#13][incapxxx.xxx]3486
+
+Oct 2002 Annajanska, the Bolshevik Empress, by Shaw   [#12][annajxxx.xxx]3485
+Oct 2002 O'Flaherty V.C., by George Bernard Shaw [Shaw #11][oflvcxxx.xxx]3484
+Oct 2002 Quotations of William Dean Howells by David Widger[dwqwhxxx.xxx]3483
+Oct 2002 The North-West Passage, by Richard Hakluyt        [nwpasxxx.xxx]3482
+Oct 2002 The Life of George Borrow, by Herbert Jenkins     [lfgbrxxx.xxx]3481
+
+Oct 2002 The Hunchback, by James Sheridan Knowles          [hnchbxxx.xxx]3480
+Oct 2002 The Metal Monster, by A. Merritt   [A. Merritt #2][memonxxx.xxx]3479
+Oct 2002 Legends of Vancouver by E. Pauline Johnson        [legvaxxx.xxx]3478
+Oct 2002 The Verse-Book Of A Homely Woman, by Fay Inchfawn [vbohwxxx.xxx]3477
+[Pseudonym of Elizabeth Rebecca Ward]
+Oct 2002 Henry VIII And His Court, by Louise Muhlbach[LM#5][h8ahcxxx.xxx]3476
+[Variant spellings: Louise Muhlbach, Luise Muhlbach and Luise von Muhlbach]
+
+Oct 2002 The Efficiency Expert, by Edgar Rice Burroughs    [effncxxx.xxx]3475
+Oct 2002 Jeremy, by Hugh Walpole          [Hugh Walpole #2][jremyxxx.xxx]3474
+Oct 2002 Merton of the Movies, by Harry Leon Wilson        [mrtnmxxx.xxx]3472
+Oct 2002 Widger's Quotations of Charles D. Warner    [DW#3][dwqcwxxx.xxx]3471
+
+Oct 2002 Such is Life, by Tom Collins   [aka Joseph Furphy][slifexxx.xxx]3470
+Oct 2002 The Hand of Ethelberta, by Thomas Hardy[Hardy #23][ethbrxxx.xxx]3469
+Oct 2002 Poems by the Way, by William Morris[Wm Morris #11][pmbwyxxx.xxx]3468
+
+Sep 2002 1001 Nights[Arabian Nights], V3, by Richard Burton[31001xxx.xxx]3437
+[These are in 7 and 8 bit unaccented and accented versions]
+[Filenames are x1001xx7.txt and .zip and x1001xx8.txt and .zip]
+[X will be 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f and g]
+[Full Title:  The Book of The Thousand Nights And A Night, Volumes 1 - 16]
+[Also listed under:
+[The Arabian Nights
+[A Thousand and One Nights. . .and. . .A Thousand and One Arabian Nights]
+Sep 2002 The Gadfly, by E. L. Voynich                      [gdflyxxx.xxx]3431
+
+***
+
+Requests For Assistance
+
+Would the people, who had sent corrections personally to Alev Akman in
+the last week, or so, send them again, please? As a result of a computer
+crush, she may have lost them and would like to receive them again.
+Alev Akman &lt;alevwho@mediaone.net&gt;, &lt;aakman@csufresno.edu&gt;
+
+***
+
+If you sent in a file you don't see here, or sent in a revision, or xeroxes
+for our copyright research, and haven't heard from me let me know.  Most of
+these should only take a few days.
+
+***
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3).
+
+As of May 23 2001 contributions are only being solicited from people
+in:  Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana, Iowa,
+Louisiana, Maine, Massachusetts, Missouri, Montana, Nebraska, New
+Jersey, Ohio, Oklahoma, South Carolina, South Dakota, Texas, Vermont,
+Washington and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund
+raising will begin in the additional states.
+
+Donations from other countries are welcome,
+but we are not registered in any other countries
+and we know NOTHING about their tax deductions.
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+***
+
+I've closed down gutnberg (it responds with a message giving
+instructions on gweekly and gmonthly if anyone tries to subscribe),
+and populated gweekly and gmonthly with all the subscribers.
+
+I will send out info to both lists on how to unsubscribe etc.
+
+Here are the new instructions you asked for:
+
+-------- mailinglist-howto.txt
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+  gmonthly (for monthly newsletters)
+  gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+	subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+	subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+	unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgmonthly_2001_06_06.txt" target="_blank" rel="nofollow">pgmonthly_2001_06_06.txt</a>

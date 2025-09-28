@@ -1,0 +1,131 @@
+---
+params:
+  id: 930
+title: PG Monthly Newsletter 1996-11
+date: 1996-11-21T08:36:02+00:00
+author: Michael Cook
+layout: post
+url: /19961121/pg-monthly-newsletter-1996-11/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PG NEWSLETTER NOVEMBER 1996
+
+Please send your feedback directly to
+Michael S. Hart hart@pobox.com
+
+Books Index update from #681 to #704.
+
+Due to the fact that some are much larger than normal, we have also made
+up a few that are smaller than normal to even things out a little.
+
+Coming: The Fall of the Roman Empire, by Gibbon and
+Interview with Bruce Sterling on his new book, Holy Fire.
+
+Please see the accompanying note entitled Project
+Gutenberg Needs You, for details.
+
+Our Spanish readers may read about us in the latest issues of Information
+World en Espanol, we are very interested in doing more books in more languages.
+
+You may also want to keep an eye out in about a month for the article on
+Project Gutenberg in the January issue of Wired.
+
+Once again we have managed to present 32 files we hope will be of interest
+to the general population. We have two more months scheduled for 32 per month--
+then we hope to once again double our production, this time to 64 per month--
+for each of the 12 months of 1997.
+
+While this may appear as an incredible amount of work, the truth is that
+your volunteers at Project Gutenberg have already spend several months doing
+books at the rate of 64 per month, during the Spring of 1996 just to insure
+that in 1997 we would be capable of accomplishing our goals.
+
+However, while we were doing this, you may have also heard that most supports
+for Project Gutenberg from the University of Illinois have been withdrawn
+and what you may NOT have heard is that this has also been true of the support
+we have been receiving from Benedictine University [Illinois Benedictine
+College was their previous name], and also support from Walnut Creed CDROM,
+who makes and markets the only official Project Gutenberg CDROM has also
+been less of a support than in previous years.
+
+A separate message requesting your individual, college, or corporate support,
+is accompanying this Newsletter. . .if you are not interested just delete
+it.
+
+We currently have just about #700 volunteers, as is usually the case the
+book number is approximately the same as the number of volunteers we have.
+A 1997 production on the schedule we have managed to keep doubling every
+year should be possible if we receive support on two levels:
+
+1. We will need approximately 800 more volunteers if we are going to produce
+800 more Etexts during 1997.
+
+2. We will need approximately $2,000 per month to keep afloat as I am unable
+to continue funding Project Gutenberg without financial assistance.
+
+3. We could also use some public relations people, if we can get any for
+the next year. We did manage to get one last year, but AOL stole her away.
+
+I thank you all for your continued support of what I feel to be the very
+best possible investment you can make in the world. Every book we produce
+goes to millions, perhaps even hundreds of millions, of the 1.2 billion computers
+out there in the world, and usually there is more than one user per computer.
+
+Your single effort of putting your favorite book into electronic text formats
+could change the lives of hundreds of millions of people. . .please help.
+
+My HUGE thanks!
+
+Michael Stern Hart
+Executive Director Project Gutenberg
+
+ Mon Year Title and Author [# of PG books by the author]    [filename.ext] ###
+
+ A "C" following the Etext number indicates a copyrighted work.
+
+ Oct 1996 The Mansion, By Henry van Dyke [A Short Story]    [tmansxxx.xxx] 704
+ Oct 1996 The Lucasta Poems, by Christopher Marlowe         [lcstaxxx.xxx] 703
+ Oct 1996 Somebody's Little Girl, by Martha Young           [slgrlxxx.xxx] 702
+ Oct 1996 The King of the Golden River, by John Ruskin      [tkogrxxx.xxx] 701
+ [These four are short stories and poems]
+
+ Oct 1996 The Old Curiosity Shop, by Charles Dickens [CD#12][curioxxx.xxx] 700
+ Oct 1996 A Child's History of England, Charles Dickens CD11[achoexxx.xxx] 699
+ Oct 1996 Memoir of Fleeming Jenkin, R. L. Stevenson[RLS#33][fleemxxx.xxx] 698
+ Oct 1996 The Light Princess, by George MacDonald [GM#2]    [ltprnxxx.xxx] 697
+
+ Oct 1996 The Castle of Otranto, by Horace Walpole [HP#1]   [cotrtxxx.xxx] 696
+ Oct 1996 Glaucus/The Wonders of the Shore by Chas Kingsley [glcusxxx.xxx] 695
+ Oct 1996 Stories from Everybody's Magazine, 1910           [10evmxxx.xxx] 694
+ Oct 1996 The Autobiography of a Quack, by S. Weir Mitchell [auqakxxx.xxx] 693
+
+ Oct 1996 Complete Works of James Whitcomb Riley, Vol X     [10jwrxxx.xxx] 692
+ Oct 1996 Complete Works of James Whitcomb Riley, Vol I     [01jwrxxx.xxx] 691
+ Oct 1996 Proposed Roads to Freedom, by Bertrand Russell[#1][rfreexxx.xxx] 690
+ Oct 1996 The Kreutzer Sonata, et al, by Leo Tolstoy/Tolstoi[krsonxxx.xxx] 689
+
+ Oct 1996 The Goodness of St. Rocque et al, by Alice Dunbar [stroqxxx.xxx] 688
+ Oct 1996 A Personal Record, by Joseph Conrad [Conrad #11]  [aprjcxxx.xxx] 687
+ Oct 1996 The Treaty of the European Union [Maastricht]     [maastxxx.xxx] 686
+ Oct 1996 The Atomic Bombings of Hiroshima and Nagasaki     [abombxxx.xxx] 685
+
+ Oct 1996 Worldwide Effects of Nuclear War-Some Perspectives[nukwrxxx.xxx] 684
+ Oct 1996 The Complete Angler, by Izaak Walton              [tcangxxx.xxx] 683
+ Oct 1996 Catalan's Constant [Ramanujan's Formula] [Math#15][ctcstxxx.xxx] 682
+ Oct 1996 Creatures That Once Were Men, by Maxim Gorky [#1] [crmenxxx.xxx] 681
+
+ Oct 1996 The Golden Threshold, by Sarojini Naidu           [gldthxxx.xxx] 680
+ Oct 1996 Poems, by Frances E. W. Harper                    [pfewhxxx.xxx] 679
+ Oct 1996 The Cricket on the Hearth, by Charles Dickens #10 [tcothxxx.xxx] 678
+ Oct 1996 Heroes, by Charles Kingsley [Greek Fairy Tales]   [ghrosxxx.xxx] 677
+
+ Oct 1996 The Battle of Life, by Charles Dickens[Dickens#10][batlfxxx.xxx] 676
+ Oct 1996 American Notes, by Charles Dickens [Dickens #9]   [amntsxxx.xxx] 675
+ Oct 1996 Plutarch's Lives, A. H. Clough, ["Dryden's Trans"][plivsxxx.xxx] 674
+ Oct 1996 Gutenberg Webster's Unabridged Dictionary [HTML]  [pgwxzxxx.xxx] 673C
+ This File is 45M unzipped. . .be careful when you download.</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1996_11.txt" target="new">pgmonthly_1996_11.txt</a>

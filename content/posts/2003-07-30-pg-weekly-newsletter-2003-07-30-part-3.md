@@ -1,0 +1,359 @@
+---
+params:
+  id: 2025
+title: "PG Weekly Newsletter: Part 3 (2003-07-30)"
+date: 2003-07-30T21:38:27+00:00
+author: Michael Cook
+layout: post
+url: /20030730/pg-weekly-newsletter-2003-07-30-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 30th July 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+REMINDER: GUTINDEX Has Moved to Five Digits!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+        or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 30 Jul 2003:   8,??? (incl. 2?? Aus.).
+
+Last week the Total Count was 8,772, including 249 at PG of Australia.
+This week we added ?? new (incl. 0 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7- & 8- bit versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following have been re-posted in HTML format as indicated:
+
+Jul 2005 Normandy, by Gordon Home                          [?normxxx.xxx] 8505
+[Illustrated HTML zip only in 8norm10h.zip][6 mb]
+[Smaller individual files available in #8593, 8594 and 8595]
+
+Apr 2002 Roughing It, by Mark Twain                 [MT#29][mtritxxx.xxx] 3177
+[Illustrated HTML zip only in mtrit11h.zip][21 mb]
+[Also available in eight smaller individual files: #8582-8589 in etext 05]
+
+
+=-=-=-=[ 93 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Aug 2005 The Fallen Star, by E. L. Bulwer                  [flnstxxx.xxx] 8654
+[Author AKA: Lord Brougham]
+[Subtitle: or, The History of a False Religion and a Dissertation on the
+Origin of Evil]
+[HTML version in flnst10h.htm and flnst10h.zip]
+Aug 2005 East O' the Sun, by Gudrun Thorne-Thomsen         [eandwxxx.xxx] 8653
+[Full title: East O' the Sun and West O' the Moon]
+[With Other Norwegian Folk Tales Illustrated by Frederick Richardson]
+[Also posted illustrated HTML, zip only - eandw10h.zip, and eandw10h.htm]
+Aug 2005 Crowded Out! and Other Sketches, Susie F. Harrison[?crotxxx.xxx] 8652
+Aug 2005 With Moore At Corunna, by G. A. Henty             [?crnnxxx.xxx] 8651
+[Also posted: HTML with accented characters in 8crnn10h.htm/.zip]
+[HTML zip file includes four images.]
+
+Aug 2005 Monsieur Lecoq, vol.I, L'enquete by E. Gaboriau   [?mlcqxxx.xxx] 8650
+Aug 2005 Indian Tales, by Rudyard Kipling                  [?indtxxx.xxx] 8649
+[HTML version with accented characters in 8indt10h.htm/.zip]
+Aug 2005 War Poetry of the South, by Various               [?wrpmxxx.xxx] 8648
+[Also posted HTML - 8wrpm10h.zip and 8wrpm10h.htm]
+Aug 2005 Afloat And Ashore, by James Fenimore Cooper       [?afasxxx.xxx] 8647
+[Subtitle: A Sea Tale]
+Aug 2005 History of Civil Society, by Adam Ferguson, L.L.D [?hcivxxx.xxx] 8646
+[Full title: An Essay on the History of Civil Society, Eighth Edition]
+
+Aug 2005 Prue and I, by George William Curtis          [#5][?pruexxx.xxx] 8645
+Aug 2005 The Story of Ab, by Stanley Waterloo              [?stabxxx.xxx] 8644
+[Also posted: HTML in 8stab10h.htm, illustrated HTML in 8stab10h.zip]
+Aug 2005 Punch, 1917.07.04, Vol. 153, Issue No. 1, Various[?p153axxx.xxx] 8643
+[Also posted in illustrated HTML - 8p153a10h.zip only]
+Aug 2005 Woman in the Ninteenth Century, Margaret F. Ossoli[womanxxx.xxx] 8642
+[Full author: Margaret Fuller Ossoli]
+[Also posted HTML - woman10h.zip and woman10h.htm]
+[Ed. by her brother, Arthur B. Fuller; introduction by Horace Greeley]
+Aug 2005 Concord and Appledore,by Frank Preston Stearns[#3][conapxxx.xxx] 8641
+[Full title: Sketches from Concord and Appledore]
+
+Aug 2005 The Mirror, 1828.07.05, Issue No. 321, by Various [?m321xxx.xxx] 8640
+[Also posted HTML - 8m32110h.zip and 8m32110h.htm]
+Aug 2005 Poems, 1799, by Robert Southey                    [?spm2xxx.xxx] 8639
+[Also posted HTML - 8spm210h.zip and 8spm210h.htm]
+
+Aug 2005 Audio: Through the Magic Door, Arthur Conan Doyle [ttmgdxxx.mp3] 8637C
+[Computer-generated audio performance]
+Aug 2005 Audio: Songs of Action, Arthur Conan Doyle        [sgactxxx.mp3] 8636C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Hound of the Baskervilles, AC Doyle    [bskrvxxx.mp3] 8635C
+[Computer-generated audio performance]
+Aug 2005 Audio: His Last Bow, Arthur Conan Doyle           [lstbwxxx.mp3] 8634C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adv. of The Devil's Foot, AC Doyle     [dvlftxxx.mp3] 8633C
+[Computer-generated audio performance]
+Aug 2005 Audio: Disappearance of Lady Frances Carfax, ACD  [lcrfxxxx.mp3] 8632C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Dying Detective, ACD  [dydetxxx.mp3] 8631C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Adv. of The Bruce-Partington Plans, ACD[bplanxxx.mp3] 8630C
+[Computer-generated audio performance]
+Aug 2005 Audio: Sir Nigel, Arthur Conan Doyle              [nigelxxx.mp3] 8629C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Red Circle, AC Doyle  [rcrclxxx.mp3] 8628C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Cardboard Box, Doyle  [crdbdxxx.mp3] 8627C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of Wisteria Lodge, AC Doyle  [wstraxxx.mp3] 8626C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Sign of the Four, Arthur Conan Doyle   [sign4xxx.mp3] 8625C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventures of Sherlock Holmes, AC Doyle[advshxxx.mp3] 8624C
+[Computer-generated audio performance]
+Aug 2005 Audio: Adventures of Gerard, Arthur Conan Doyle   [agrrdxxx.mp3] 8623C
+[Computer-generated audio performance]
+Aug 2005 Audio: The New Revelation, Arthur Conan Doyle     [nrvlnxxx.mp3] 8622C
+[Computer-generated audio performance]
+Aug 2005 Audio: Tales of Terror & Mystery, Arthur C. Doyle [totamxxx.mp3] 8621C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Vital Message, Arthur Conan Doyle      [vtmsgxxx.mp3] 8620C
+[Computer-generated audio performance]
+Aug 2005 Audio: Round The Red Lamp, Arthur Conan Doyle     [rrlmpxxx.mp3] 8619C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Parasite, Arthur Conan Doyle           [prsitxxx.mp3] 8618C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Captain of the Polestar, AC Doyle      [polstxxx.mp3] 8617C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Stark Munro Letters, Arthur Conan Doyle[strkmxxx.mp3] 8616C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: A Study In Scarlet, Arthur Conan Doyle     [studyxxx.mp3] 8615C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Lost World, Arthur Conan Doyle         [lostwxxx.mp3] 8614C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Poison Belt, Arthur Conan Doyle        [poisnxxx.mp3] 8613C
+[Computer-generated audio performance]
+Aug 2005 Audio: Through Space to Mars, by Roy Rockwood     [spmrsxxx.mp3] 8612C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Prince and the Pauper, by Mark Twain   [prpprxxx.mp3] 8611C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: Howard Pyle's Book of Pirates, Howard Pyle [hpprtxx3.mp3] 8610C
+[Computer-generated audio performance]
+Aug 2005 Audio: A Midsummer Night's Dream, Wm. Shakespeare [2ws17xx3.mp3] 8609C
+[Computer-generated audio performance]
+Aug 2005 Audio: Great Expectations, Charles Dickens        [grexpxx3.mp3] 8608C
+[Computer-generated audio performance]
+Aug 2005 In The Forest, by Catherine Parr Traill           [ldmrnxxa.xxx] 8607
+[Author AKA: Mrs. Traill]
+[Subtitle: Or, Pictures of Life and Scenery in the Woods of Canada; a Tale
+  by Mrs. Traill] [Note: 19 Illustrations in zip file only.]
+(See also:  #6479)
+Aug 2005 The Blue Bird, by Maurice Maeterlinck         [#5][?birdxxx.xxx] 8606
+[Full title: The Blue Bird: A Fairy Play in Six Acts]
+
+Aug 2005 Unitarianism in America, by George Willis Cooke   [?unitxxx.xxx] 8605
+[Also posted HTML - 8unit10h.zip and 8unit10h.htm]
+Aug 2005 The House of Atreus, by AEschylus                 [?atrsxxx.xxx] 8604
+Aug 2005 Notes And Queries, Series 1, Issue 1, by Various  [?n1001xx.xxx] 8603
+[Full title: Notes And Queries, (Series 1, Vol. 1, Issue 1), Saturday,
+  November 3, 1849.]
+[Illustrated HTML in 8n100110h.zip only, note exact filename]
+Aug 2005 The Uninhabited House, by Mrs. J. H. Riddell      [?unhsxxx.xxx] 8602
+Aug 2005 Early Poems of Alfred Lord Tennyson, by Tennyson  [?eptnxxx.xxx] 8601
+[Ed. by Collins]
+[Also posted: HTML in 8eptn10h.zip and 8eptn10h.htm]
+
+Aug 2005 L'Assommoir, by Emile Zola                   [#18][lasmrxxx.xxx] 8600
+(See also #8558, which is a different translation.)
+Jul 2005 Fairy Tales From The Arabian Nights, by E. Dixon  [ftarbxxx.xxx] 8599
+Jul 2005 Intro. Dramas of Balzac, by Wilson and McSpadden  [drblzxxx.xxx] 8598
+[Full title: Introduction to the Dramas of Balzac]
+[Full author: Epiphanius Wilson, J Walker McSpadden]
+Jul 2005 A Sportsman's Sketches, by Ivan Turgenev      [#6][?ivn1xxx.xxx] 8597
+[Subtitle: Works of Ivan Turgenev, Vol. I]
+Jul 2005 The Wheel O' Fortune, by Louis Tracy              [?wfrtxxx.xxx] 8596
+[Author AKA: Gordon Holmes]
+
+Jul 2005 Normandy, Illustrated, Part 3. by Gordon Home     [norm3xxx.xxx] 8595
+Jul 2005 Normandy, Illustrated, Part 2. by Gordon Home     [norm2xxx.xxx] 8594
+Jul 2005 Normandy, Illustrated, Part 1. by Gordon Home     [norm1xxx.xxx] 8593
+[Illustrated HTML zip only in norm?10h.zip]
+[Note: #8505 8norm10h.zip which includes the complete set in one 6 mb file]
+Jul 2005 Poetical Works, by Charles Churchill              [?chpmxxx.xxx] 8592
+[Editor: George Gilfillan]
+Jul 2005 French Lyrics, by Arthur Graves Canfield          [?flyrxxx.xxx] 8591
+
+Jul 2005 Auld Licht Idyls, by J.M. Barrie             [#10][?auldxxx.xxx] 8590
+
+Jul 2005 Roughing It, by Mark Twain,          Vol. 8 [#129][rit8wxxx.xxx] 8589
+Jul 2005 Roughing It, by Mark Twain,          Vol. 7 [#128][rit7wxxx.xxx] 8588
+Jul 2005 Roughing It, by Mark Twain,          Vol. 6 [#127][rit6wxxx.xxx] 8587
+Jul 2005 Roughing It, by Mark Twain,          Vol. 5 [#126][rit5wxxx.xxx] 8586
+
+Jul 2005 Roughing It, by Mark Twain,          Vol. 4 [#125][rit4wxxx.xxx] 8585
+Jul 2005 Roughing It, by Mark Twain,          Vol. 3 [#124][rit3wxxx.xxx] 8584
+Jul 2005 Roughing It, by Mark Twain,          Vol. 2 [#123][rit2wxxx.xxx] 8583
+Jul 2005 Roughing It, by Mark Twain,          Vol. 1 [#122][rit1wxxx.xxx] 8582
+[Illustrated HTML zip only in rit?w10h.zip][Average size: 3 mb]
+[The complete file available in etext 02/mtrit11h.zip: 21 mb]
+
+Jul 2005 The Art of Money Getting, by P. T. Barnum         [barnmxxx.xxx] 8581
+
+Jul 2005 Reminiscences of Coleridge and Southey, J. Cottle [?cosoxxx.xxx] 8580
+[Full title: Reminiscences of Samuel Taylor Coleridge and Robert Southey]
+[Full author: Joseph Cottle]
+Jul 2005 Daughters of the Cross, by Daniel C. Eddy         [?dcrsxxx.xxx] 8579
+[Full title: Daughters of the Cross: or Woman's Mission]
+Jul 2005 The Grand Inquisitor, by Feodor Dostoevsky    [#6][inqusxxx.xxx] 8578
+[An extract from "The Brothers Karamazof"]
+Jul 2005 Charles O'Malley, Vol. 1, by Charles Lever    [#2][?mly1xxx.xxx] 8577
+Jul 2005 By Sheer Pluck, by G. A. Henty                    [shplkxxx.xxx] 8576
+[Also posted HTML - shplk10h.zip and shplk10h.htm]
+
+Jul 2005 Empress Marie Louise, by Imbert De Saint-Amand    [?hdelxxx.xxx] 8575
+[Full title: The Happy Days of the Empress Marie Louise]
+Jul 2005 Racketty-Packetty House, by Frances H. Burnett    [rkpkhxxx.xxx] 8574
+[Also posted illustrated HTML, zipped only - rkpkh10h.zip]
+Jul 2005 Mungo Park in Central Africa, by Mungo Park       [?mprkxxx.xxx] 8573
+[Full title: Life and Travels of Mungo Park in Central Africa]
+Jul 2005 Cord and Creese, by James de Mille            [#3][?cordxxx.xxx] 8572
+Jul 2005 Wolfert's Roost, by Washington Irving        [#10][?wrstxxx.xxx] 8571
+[Full title: Wolfert's Roost and Miscellanies]
+
+Jul 2005 The Philistines, by Arlo Bates                    [tphlsxxx.xxx] 8570
+Jul 2005 The Far Horizon, by Lucas Malet                   [?farhxxx.xxx] 8569
+[Author AKA: Mrs. Mary St. Leger Harrison]
+Jul 2005 Des Meeres Und Der Liebe Wellen, Franz Grillparzer[?mlbwxxx.xxx] 8568
+[Subtitle: Trauerspiel in fuenf Aufzuegen]
+[Language: German]
+Jul 2005 The Iroquois Book of Rites, by Horatio Hale       [?irbrxxx.xxx] 8567
+[Also posted HTML - 8irbr10h.zip and 8irbr10h.htm]
+Jul 2005 Value of the Old Testament, by Charles Foster Kent[?vlotxxx.xxx] 8566
+[Full title: The Origin & Permanent Value of the Old Testament]
+
+Jul 2005 A Book Of German Lyrics,Various                   [?glyrxxx.xxx] 8565
+[Editor: Friedrich Bruns]
+[Language: German, with English comments]
+(Comment: This is a textbook for American students of German and was compiled
+(by Friedrich Bruns.  It consists mostly of poetry by a variety of German
+(poets.  Thus the designation of "author" as "various".)
+
+
+Jul 2005 Voyages of Columbus Vol. II,Washington Irving[#11][?col2xxx.xxx] 8519
+[Full title: The Life and Voyages of Christopher Columbus (Vol. II)]
+
+
+Jul 2005 Table Talk of S.T.Coleridge, by Coleridge     [#7][?tabcxxx.xxx] 8489
+[Full title: Specimens of the Table Talk of S.T.Coleridge]
+
+
+Jun 2005 The Gentleman, by Alfred Ollivant             [#2][?gentxxx.xxx] 8396
+
+
+Jun 2005 Through the Eye of the Needle, W. D. Howells [#69][?eyndxxx.xxx] 8295
+
+
+=-=-=-=[ 6 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jul 2003 The History of Spiritualism Vol II, by A. C. Doyle[030106xx.xxx] 0255A
+[Full author:  Arthur Conan Doyle]
+[http://gutenberg.net.au/ebooks03/0301061.txt or ZIP]
+Jul 2003 The History of Spiritualism Vol I, A. C. Doyle    [030105xx.xxx] 0254A
+[http://gutenberg.net.au/ebooks03/0301051.txt or ZIP]
+Jul 2003 Flush: A Biography, by Virginia Woolf             [030104xx.xxx] 0253A
+[http://gutenberg.net.au/ebooks03/0301041.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301041h.html HTML]
+Jul 2003 Cymbeline Refinished, by George Bernard Shaw      [030103xx.xxx] 0252A
+[Subtitle: A Variation on Shakespear's Ending]
+[http://gutenberg.net.au/ebooks03/0301031.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301031h.zip ZIPPED HTML]
+Jul 2003 Of Time and the River, by Thomas Wolfe            [030102xx.xxx] 0251A
+[http://gutenberg.net.au/ebooks03/0301021.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301021h.zip ZIPPED HTML]
+Jul 2003 Titanic and Other Ships, by Charles Lightoller    [030101xx.xxx] 0250A
+[http://gutenberg.net.au/ebooks03/0301011.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301011h.zip ZIPPED HTML]
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Mark for the computer fixing (this week he's been really
+clever), Greg for the website suggestions, Michael, and Larry Wall. Entertainment for the
+workers provided by BBC 6music especially Tom Robinson (Yes, that
+one). A special hello to John Hagerson.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_07_30_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_07_30_part_3.txt</a>

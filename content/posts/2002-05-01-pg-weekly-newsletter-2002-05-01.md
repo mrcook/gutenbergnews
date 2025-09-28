@@ -1,0 +1,596 @@
+---
+params:
+  id: 1900
+title: PG Weekly Newsletter (2002-05-01)
+date: 2002-05-01T21:09:00+00:00
+author: Michael Cook
+layout: post
+url: /20020501/pg-weekly-newsletter-2002-05-01/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_May_01_2002.txt
+
+***The Project Gutenberg Weekly Newsletter For Wednesday, May 1, 2002***
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+
+Today Is The 121th Day of 2002
+
+Ending our 17th Week Of The Year
+
+The Third Week Of Our SECOND 5,000 eBooks
+
+20 Months From Today Perhaps Our 10,000th eBook!
+
+
+1,709   New eBooks In The Last Year!!!
+3,441   eBooks This Week Last Year
+5,152   Tree-Friendly Titles Now Online
+
+   37   New This Week
+   50   Weekly Average This Year
+  250   New This Month!!!
+  851   New This Year!!!
+   39   New This Week Last Year
+
+   70   eBooks From Project Gutenberg of Australia!!!
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Please check out the latest Project Gutenberg Mirror Site
+
+Mirror location:  Sao Paulo, Brazil/Brasil
+Sponsor's Name: Veritel Teleinformatica Ltda.
+URL:  http://www.veritel.com.br/gutenberg
+
+
+Please note that Orlando, by Virginia Woolf, listed below, actually
+made it in time for last week's Newsletter, but due to constraints
+of time I didn't read that email until after I did the Newsletter.
+
+
+Request for Assistance:
+
+Project Gutenberg needs help getting its news releases
+to the right people.  We'd like to use BusinessWire
+(http://www.businesswire.com) but it's very expensive.
+Does your organization use BusinessWire?  Might they pay
+to distribute Project Gutenberg news releases?  If you have
+connections or ideas to help get the word out to national
+and international media organizations, please email me.
+
+We are still collecting more media email addresses!!!
+
+***
+
+New Author/Title index: In addition to our search capabilities
+at the main Web site, http://promo.net/pg, you can now browse
+by Title and Author at http://ibiblio.org/gutenberg/index
+
+Thanks to Geof Pawlicki for writing the program to generate
+the Author/Title index, which is refreshed daily.  Send
+any comments on this new feature to gbnewby@ils.unc.edu
+
+***
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly etext update:
+  4 new eBooks from PG of Australia
+  Updates/corrections
+  29 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+
+
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new Etext number.
+
+Please note the following various changes, corrections and improvements:
+
+We have added an HTML format of the following:
+Feb 2004 Magnum Bonum, by Charlotte M. Yonge     [Yonge#27][magnbxxx.xxx]5080
+Jan 1996 The Bible in Spain, George Borrow      [Borrow #1][tbispxxx.xxx] 415
+
+
+The following entry has been corrected, changed from:
+
+Feb 2004 Les Index Noires, by Jules Verne        [Verne#24][?indnxxx.xxx]5081
+to:
+Feb 2004 Les Indes Noires, by Jules Verne        [Verne#24][?indnxxx.xxx]5081
+
+
+We have revised the entries for the following files to reflect corrected
+author and series information:
+
+Jan 2004 Maj. Roger Sherman Potter, by F. Colburn Adams[#5][larspxxx.xxx]4977
+[Full Title: The Life and Adventures of Maj. Roger Sherman Potter]
+[Written under the pseudonym "Pheleg van Trusedale"]
+[Author's Full Name:  Francis Colburn Adams]
+Jan 2004 Justice in the By-Ways, by F. Colburn Adams[FCA#4][jstcbxxx.xxx]4958
+Nov 2003 Manuel Pereira, by Francis Colburn Adams   [FCA#3][mnlprxxx.xxx]4680
+Nov 2003 Our World, by Francis Colburn Adams        [FCA#2][owtsdxxx.xxx]4677
+Nov 2003 Siege of Washington, D.C., F. Colburn Adams[FCA#1][sgedcxxx.xxx]4668
+[Author's Full Name:  Francis Colburn Adams]
+
+
+We have released an improved 11th edition of the following:
+
+Dec 2003 Les chansons de Bilitis, by Pierre Louys          [?bltsxxx.xxx]4708
+[7-bit version with non-accented characters in 7blts11.txt and .zip]
+[8-bit version with accented characters in 8blts11.txt and .zip]
+Jun 1997 Lady Susan, by Jane Austen   [Jane Austen #6]     [lsusnxxx.xxx] 946
+
+
+
+***] 4 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+May 2002 The Scarab Murder Case, by S S Van Dine    [SV#04][020036xx.xxx]0070A
+[http://gutenberg.net.au/0200361.txt or .ZIP]
+May 2002 The "Canary" Murder Case, by S S Van Dine  [SV#03][020035xx.xxx]0069A
+[http://gutenberg.net.au/0200351.txt or .ZIP]
+May 2002 The Benson Murder Case, by S S Van Dine    [SV#02][020034xx.xxx]0068A
+[http://gutenberg.net.au/0200341.txt or .ZIP]
+Apr 2002 Orlando, Virginia Woolf                    [VW#03][020033xx.xxx]0067A
+[http://gutenberg.net.au/0200331.txt or .ZIP]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+***] 33 NEW U.S. POSTS [***
+
+Apr 2004 Uarda,                 by Ebers, Complete  [GE#11][ge11vxxx.xxx]5449
+Apr 2004 Uarda,                 by Georg Ebers, v10 [GE#10][ge10vxxx.xxx]5448
+Apr 2004 Uarda,                 by Georg Ebers, v9  [GE#09][ge09vxxx.xxx]5447
+Apr 2004 Uarda,                 by Georg Ebers, v8  [GE#08][ge08vxxx.xxx]5446
+
+Apr 2004 Uarda,                 by Georg Ebers, v7  [GE#07][ge07vxxx.xxx]5445
+Apr 2004 Uarda,                 by Georg Ebers, v6  [GE#06][ge06vxxx.xxx]5444
+Apr 2004 Uarda,                 by Georg Ebers, v5  [GE#05][ge05vxxx.xxx]5443
+Apr 2004 Uarda,                 by Georg Ebers, v4  [GE#04][ge04vxxx.xxx]5442
+Apr 2004 Uarda,                 by Georg Ebers, v3  [GE#03][ge03vxxx.xxx]5441
+
+Apr 2004 Uarda,                 by Georg Ebers, v2  [GE#02][ge02vxxx.xxx]5440
+Apr 2004 Uarda,                 by Georg Ebers, v1  [GE#01][ge01vxxx.xxx]5439
+[Author: Georg Ebers] [Contains eBooks #5439-5448]
+
+
+Please note the above are from the 5400 series, below are 5100 series.
+
+
+Feb 2004 The Meaning of Truth, by William James[Wm.James#3][tmnthxxx.xxx]5117
+Feb 2004 Pragmatism, by William James         [Wm. James#2][prgmtxxx.xxx]5116
+
+Feb 2004 The George Sand-Gustave Flaubert Letters          [snflbxxx.xxx]5115
+[Translated by A.L. McKensie]
+Feb 2004 Ardath, by Marie Corelli               [Corelli#9][rdathxxx.xxx]5114
+Feb 2004 The Confessions of a Beachcomber, by E J Banfield [cnfbcxxx.xxx]5113
+Feb 2004 Citation and Examination of William Shakspeare [#3][trskxxx.xxx]5112
+[Author's Full Name: Walter Savage Landor]
+(NOTE: Shakspeare is the right title - not Shakespeare)
+Feb 2004 The Real Diary of a Real Boy, by Henry A. Shute   [trdrbxxx.xxx]5111
+
+Feb 2004 The Adventures of Jerry Muskrat, by T. Burgess[10][jmuskxxx.xxx]5110
+[Author's Full Name: Thornton W. Burgess]
+Feb 2004 Ragnarok: The Age of Fire and Gravel, Donnelly[#2][ragnaxxx.xxx]5109
+[Author's Full Name: Ignatius Donnelly]
+Feb 2004 The Canadian Brothers,     by John Richardson [#7][cndbrxxx.xxx]5108
+Feb 2004 The Canadian Brothers (V.II), John Richardson [#6][cndb2xxx.xxx]5107
+Feb 2004 The Canadian Brothers (V. I), John Richardson [#5][cndb1xxx.xxx]5106
+
+Feb 2004 Tartarin sur les Alpes, by Alphonse Daudet  [AD#9][?ttrnxxx.xxx]5105
+Feb 2004 Histoire d'un casse-noisette, Alexandre Dumas[#30][?cssnxxx.xxx]5104
+Feb 2004 A Zola Dictionary, by J. G. Patterson             [zladcxxx.xxx]5103
+Feb 2004 The Path of a Star, by Mrs. Everard Cotes  [SJD#3][pstarxxx.xxx]5102
+[Author AKA: Sara Jeannette Duncan]
+Feb 2004 Lives of the English Poets: Prior etc.         [#7][lvpcxxx.xxx]5101
+[Full Title: Lives of the English Poets: Prior, Congreve, Blackmore, Pope]
+[Author's Full Name: Samuel Johnson]
+
+Feb 2004 Alaeddin and the Enchanted Lamp, by John Payne    [alaedxxx.xxx]5100
+[Alternate spelling: Aladdin]
+[Note: See also the 1001 Arabian Nights series by Sir Richard Burton]
+Feb 2004 Heart of the Sunset, by Rex Beach        [Beach#4][hrtftxxx.xxx]5099
+Feb 2004 Lives of the Poets: Waller, etc., Johnson     [#6][lvwalxxx.xxx]5098
+[Full title: Lives of the Poets: Waller, Milton and Cowley]
+[Author's full name:  Samuel Johnson]
+
+
+Previously reserved:
+
+Jan 2004 Entire PG edition The Netherlands, by Motley[#100][jm00vxxx.xxx]4900
+[Author: John Lothrop Motley]
+[Includes: eBook#4801-4899]
+   Contents:
+     The Rise of the Dutch Republic, 1555-1584
+     History of the United Netherlands, 1584-1609
+     Life and Death of John of Barneveld, 1609-1623
+     A Memoir of John Lothrop Motley (by Oliver Wendell Holmes, Sr.)]
+Jan 2004 Entire 1609-23 John of Barneveld, by Motley  [#99][jm99vxxx.xxx]4899
+[Author: John Lothrop Motley]
+(Includes: eBooks #4886-#4897)
+
+***
+
+     Total PG ebooks available online **AS OF 05/01/02**:  5,152
+(This number includes the 70 etexts posted at the PG Australia web site)
+
+In the first 17 weeks of the new year, we have produced 851 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 851 eBooks!!!
+
+Mar 1997 Democracy and Education, by John Dewey [JDewey #1][dmeduxxx.xxx] 852
+Mar 1997 Captivity and Restoration of Mrs. Mary Rowlandson [crmmrxxx.xxx] 851
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year for 2001, so the 9th was the end of the first production week.
+
+With 5,152 eTexts online as of May 1, it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.94 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.91 when we had 3441 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.97 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+Headlines From Newsscan
+
+
+INSTANT MESSAGING TO BE NEXT E-COMMERCE CHANNEL
+Better use of instant messaging technology by online merchants could help
+e-tailers address the problem of shopping cart abandonment. Too often,
+shoppers give up on an e-commerce purchase simply because they can't find
+the answer to a very simple question, says Gartner research director Rob
+Batchelder. "Web sites have horrible problems with shopping cart
+abandonment rates. Having instant messaging, in many instances, could have
+saved that sale. It's spontaneous, and it fits right into the flow of the
+transaction." He suggests that the technology could be used as part of a
+range of personalized services designed to encourage customer loyalty and
+to stimulate more frequent shopping. (E-Commerce Times 26 Apr 2002)
+http://www.ecommercetimes.com/perl/story/17345.html
+
+BROADBAND STATS
+Broadband service is getting more expensive, and consumers are getting
+increasingly reluctant to spend the extra money to convert from dialup to
+Internet service. In the last quarter of 2001, monthly cable modem service
+rose to $44.22 (up 19% year-over-year); DSL prices rose 7% to $51.67.
+Industry analyst Mark Kersey of ARS says, "If prices keep going up while
+the economy is going down, you have a perfect recipe for slowing broadband
+growth." And that slowdown is already being seen. In DSL service, for
+example, Verizon signed up 13% more new customers last quarter, down from
+23% growth in 4th quarter 2001; in the same quarters, BellSouth growth
+dropped from 34% to 17%. (USA Today 25 Apr 2002)
+http://www.usatoday.com/life/cyber/tech/2002/04/26/broadband-usat.htm
+
+CELL PHONES WITH FEELING
+A research team at the MIT Media Lab has developed a prototype latex cell
+phone that can transmit a caller's "squeeze" using tiny pressure sensors
+that replicate the feeling on the receiving end. Developer Angela Chang
+says that within a few minutes of being handed the phones, students testing
+the devices were using the vibration feature to add emphasis to what they
+were saying or to interrupt the other speaker. "It was pretty easy to
+communicate, though we didn't specifically pre-arrange codes," says one of
+the students who tried out the phone. Chang predicts "vibralanguages" that
+could take off the same way that text messaging did among young people, and
+for much the same reason -- people sometimes want to communicate without
+anyone overhearing what they're saying. "And imagine actually being able to
+shake someone's hand when you close a business deal," she says. (New
+Scientist 24 Apr 2002)
+http://www.newscientist.com/news/news.jsp?id=ns99992206
+
+AOL A DRAG ON AOL TIME WARNER
+Media giant AOL Time Warner has announced a $54-billion net loss for the
+first quarter of 2002, the largest quarterly loss in U.S. corporate
+history, and the culprit is largely the slowing growth in AOL's base of
+online subscribers and the general collapse of the online advertising
+market. Richard D. Parsons, the incoming CEO of the company, is putting on
+a brave face; a former lawyer and banker who developed his career on the
+"old media" Time Warner side of the house, he promises: "I want to assure
+you that as CEO I will be focused on producing results, quarter and after,
+that will put us at the top of our peer group. AOL Time Warner is a big,
+dynamic company, and our online business is only one part of the whole. My
+focus is on maximizing the results across the entire company. (New York
+Times 25 Apr 2002)http://partners.nytimes.com/2002/04/25/technology/25AOL.html
+
+MICROSOFT OUTMANEUVERS STATES' ATTORNEYS
+Microsoft lawyers said they would not call eight of the remaining 17
+witnesses on their list, denying attorneys for the nine litigating states
+the opportunity to enter critical evidence before the court. Four of the
+witnesses are Microsoft employees, including Richard Fade, the executive in
+charge of relations with computer manufacturers. Opposing attorneys had
+hoped to elicit potentially damaging testimony from Fade during cross
+examination after he admitted in his pre-trial deposition that computer
+makers were concerned that new licensing arrangements would infringe on
+their intellectual property rights. In addition, witnesses from third
+parties such as Best Buy and Charter Communications, will not be appearing
+following the poor performance by previous witnesses from Advanced Micro
+Devices, Unisys and Qwest. (Financial Times 1 May 2002)
+http://news.ft.com/news/industries/infotechnology
+
+RADIO SILENCE SIGNALS ROYALTY PROTEST
+Many Web radio stations will be participating in a "Day of Silence" today
+in protest of a proposed royalty deal that they say could drive many
+Webcasters off the Net. Organizers say hundreds of online stations will
+replace their usual programming with public service announcements,
+discussions of the new fee structure, or just plain silence. The proposed
+royalty deal would require Web-only non-interactive commercial stations to
+pay $0.0014 per listener per song, while commercial stations that broadcast
+both online and over the air would be required to pay $0.0007 per listener
+per song. The Library of Congress is expected to make a decision this month
+on the fees. (Los Angeles Times 1 May 2002)
+http://www.latimes.com/technology/la-000030836may01.story?coll=la%2Dheadlines%2D
+technology
+
+WIRELESS STATE OF THE ART: MORE JUNK AT FASTER SPEEDS
+Among the problems facing the wireless industry now are generally slowing
+revenues, inflated claims, and vacuous content. Revenues: Spending on
+wireless network equipment expected to be down another 10% this year.
+Inflated claims: Although third-generation (3G) wireless communications are
+always described as "incredibly fast," Gartner VP Ken Dulaney warns: "Any
+time you read a speed number from an operator, don't believe it. It's
+probably one-fifteenth of what they say." Vacuous content: "More junk, but
+at a faster speed," is the way Gartner's Phil Redman describes the
+situation. Playing games, checking sport scores and stock prices. Ho-hum.
+(Investor's Business Daily 1 May 2002)
+http://www.investors.com/editorial/feature.asp?v=5/1
+
+BERNIE WHO? WORLDCOM LOOKS FORWARD TO LIFE AFTER EBBERS
+Replacing Bernie Ebbers, who just resigned as chief executive of WorldCom,
+John Sidgmore denies that the company is a candidate for bankruptcy and
+promises that the can be an "engine for growth again." The Ebbers
+resignation had come under pressure because the company he founded and
+built with more than 60 acquisitions is now $30 billion in debt, facing a
+federal investigation of its accounting practices, and battered by slowing
+sales and sinking stock prices. Sidgmore exudes optimism: "Our confidence
+level is high. I would not have taken this job if I thought we would be out
+of business next week." But there are plenty of skeptics who will need to
+be convinced. Industry analyst Adam Quinton of Merrill Lynch says simply:
+"A change of CEO does not change the debt load or the challenging operating
+environment. " And Allegiance Telecom CEO Royce Holland, whose former
+company, MFS Communications, was bought by WorldCom, says:  "It's a short
+distance from the penthouse to the outhouse."  (USA Today 30 Apr 2002)
+http://www.usatoday.com/life/cyber/invest/2002/05/01/worldcom-usat.htm
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+Headlines From Edupage
+
+SDMI FADES INTO HISTORY
+Four years ago the Secure Digital Music Initiative (SDMI) was created
+by members of the music and technology industries to put an end to
+illegal copying and distribution of electronic music files. The goal
+was to create digital protections that would prevent music from being
+played by unauthorized users. But changing technologies and consumer
+demand for freely traded files ultimately overcame the efforts of SDMI.
+One of the early members of SDMI today says that "SDMI may have been
+the wrong medicine for anything." New efforts to control the illegal
+sharing of music have taken the form of government legislation,
+including a recent bill from Sen. Hollings, and efforts from a new
+group called the Digital Media Device Association.
+Wired News, 29 April 2002
+http://www.wired.com/news/politics/0,1283,52163,00.html
+
+APPLE GOES AFTER EDUCATION MARKET WITH NEW MACHINE
+Apple Computer, which has the largest installed base of computers in
+schools in the United States, has introduced a new computer, the eMac,
+targeted at regaining some of the ground it has lost recently,
+especially to Dell. Dell has attracted many education customers, due to
+low prices for powerful machines, and because of the dominance of
+Windows-based software. The eMac is built around a 17-inch CRT monitor
+in a single unit, similar to the iMac introduced in 1998. Steve Jobs
+said CRTs were chosen over LCD screens for cost considerations. Prices
+for the eMac range from $999 to $1,999; they will not be available to
+consumers, but teachers can purchase them for their homes.
+Wall Street Journal, 29 April 2002 (sub. req'd)
+http://online.wsj.com/article/0,,SB1020032454787927520,00.html
+
+RIAA ASKS FOR INCREASED FUNDS TO FIGHT PIRACY
+The Recording Industry Association of America (RIAA) this week asked a
+Congressional subcommittee for increased funds for federal efforts to
+fight piracy. The RIAA called for more funds specifically for a new
+program called Computer Hacking and Intellectual Property (CHIP), part
+of the Department of Justice's efforts to combat cybercrime. The RIAA
+expressed concern that the focus of CHIP is hacking and requested that
+Congress make intellectual property the top priority for CHIP.
+Representatives from the Motion Picture Association of America also
+testified at the hearing, with both groups highlighting the economic
+losses resulting from piracy of protected material.
+ZDNet, 25 April 2002  http://zdnet.com.com/2100-1105-891781.html
+
+MPAA STARTS NEW EFFORTS TO PROTECT MOVIES
+The Motion Picture Association of America (MPAA) has begun a new effort
+to keep copyrighted movies off of file-swapping networks. Movie
+industry representatives said that almost every film they release ends
+up on file-swapping networks, some even before the movie has been
+officially released. Officials from the MPAA will send letters to
+offenders' ISPs asking that the companies help to stop the sharing of
+pirated movies. The most egregious violators will be reported to the
+Justice Department. Some ISPs have removed illegal files from their
+networks, though they said it is difficult to target users who have
+files on their own computers. Other options for the MPAA include
+technologies that purport to obstruct peer-to-peer sharing by flooding
+networks with bogus messages and files.
+Wall Street Journal, 26 April 2002 (sub. req'd)
+http://online.wsj.com/article/0,,SB1019760051530131320,00.html
+
+HOTMAIL COOKIES ARE MORE POWERFUL THAN PASSWORDS
+Though designed to allow quick identification of users for personalized
+services, cookies increasingly are being used by some Web sites for
+authentication purposes. According to Eric Glover, a New Jersey-based
+computer programmer, if someone is able to steal two Hotmail cookies
+from your computer, that person can gain access to your Hotmail
+account, even if you change your password. At Hotmail, the information
+contained in cookie files can be used to acces an account even after
+the password has changed. Making matters worse, security experts agree
+that gaining access to a user's cookie files is typically a "trivial"
+task. Microsoft said it has several measures in place to guard against
+"cookie-based replay attacks." Security experts, however, said that for
+users who want the convenience that cookies can provide, it will be
+very difficult to protect against attacks.
+Wired News, 26 April 2002
+http://www.wired.com/news/technology/0,1282,52115,00.html
+
+CONGRESS HEARS CONCERNS OVER WEB RADIO ROYALITES
+A recent recommendation by the Copyright Arbitration Royalty Panel
+would require Web radio stations to pay royalties for each song played.
+Many small radio stations, including many owned by colleges and
+universities, complained that the fees could put them out of business.
+This week, a group of Congressional representatives voiced opposition
+to the recommendation, which they said would significantly impede the
+industry. The representatives said that the royalty fees run counter to
+the intent of the Digital Millennium Copyright Act. The U.S. Copyright
+Office is expected to vote May 21 on the recommendation.
+CNET, 23 April 2002  http://news.com.com/2100-1023-890024.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_05_01.txt" target="_blank" rel="nofollow">pgweekly_2002_05_01.txt</a>

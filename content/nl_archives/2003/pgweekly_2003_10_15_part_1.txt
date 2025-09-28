@@ -1,0 +1,740 @@
+PGWeekly_October_15.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, October 15, 2003*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971*****
+
+
+
+!!!!!!!THEY SAID IT COULDN'T BE DONE. . .5,000 eBOOKS IN 18 MONTHS!!!!!!!
+
+
+For Those Keeping Score:  We produced our 5,000th eBook exactly 18 months
+ago this week, thus once again keeping up with Moore's Law, something all
+the pundits said could never be done. . . .  Silicon Snake Oil, Indeed!!!
+
+It took 30 years to do the first 5,000, only 18 months for the next 5,000
+
+
+            We Have Already Done Over 3,263 eBooks In 2003 !!!
+
+
+ By The Way, It's Been About 1.01 Billion Seconds Since The First eBook!!!
+
+
+Here is a graphic record of progress since we completed our first 10 eBooks:
+
+YR 1990/1991/1992/1993/1994/1995/1996/1997/1998/1999/2000/2001/2002/2003 ^####
+
+                               >>>>>>>            Oct 15, 2003 10K>10/03  10K
+                                                 Sep 16, 2003 9,500>9/03 9,500
+                                                Aug 10, 2003  9,000>8/03 9,000
+                                              July 4, 2003   8,500>7/03  8,500
+                                            May 20, 2003    8,000>5/03   8,000
+                                                           7,500>3/03    7,500
+                                                          7,000>1/03     7,000
+                                                         6,500>12/02     6,500
+                                                        6,000 >9/02      6,000
+                                                       5,500 >7/02       5,500
+                     >>>>>>>         April 10, 2002   5,000 >4/02        5,000
+                                                     4,500 >2/02         4,500
+                                October 3, 2001     4,000>10/01          4,000
+                                                  3,500 >5/01            3,500
+                                                3,000 >12/00             3,000
+                                             2,500 > 8/00                2,500
+                                         2,000 >12/99                    2,000
+                                    1,500 >10/98                         1,500
+                               1,000 >8/97                               1,000
+                            500 >4/96                                      500
+              100 >12/93                <<<December 10, 1993               100
+10 > 12/90                                                                  10
+
+YR 1990/1991/1992/1993/1994/1995/1996/1997/1998/1999/2000/2001/2002/2003 ^####
+
+
+                 3263   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 6945   New eBooks Since the
+                        1st Wednesday of 2001
+
+               ~7,000   New eBooks since the
+                        End of the year 2000
+
+
+By the way, as often happens, we are arguing over the exact number of eBooks,
+but we all agree it is at least 10,004. . .at most 10,007. . . .
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 14/53 Year History, We Have Now Averaged About 303 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+
+
+
+
+***  HOT Requests!!!
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+Volunteers Needed For Some Harder Reformatting Than Usual
+
+Please look at this URL, and see what we can use.  We have permission
+for all of them.  Reformatting to plain text may be a challenge.
+
+ http://www.gallup.unm.edu/~smarandache/eBooks-otherformats.htm
+ http://www.gallup.unm.edu/~smarandache/eBooksLiterature.htm
+
+
+***
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    2 New From PG Australia [Australian, Canadian Copyright Etc.]
+    198 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby <gbnewby AT pglaf.org> if you would like
+more information.
+
+***
+
+!!!
+
+I need a copy of zip for AIX that can do the "-9" high compression,
+and still unzip via the standard unzip programs!!!
+
+***
+
+I am working on trying to collect and convert some public domain folk tunes
+to ABC notation.  Could use some help tracking down public domain versions
+of the melodies or proof that these songs are in the public domain.  Songs
+I'm working on at present include:
+I Know Where I'm Going
+Simple Gifts
+She Moved Throught The Fair
+A Sailor Courted a Farmer's Daughter (aka Constant Lovers)
+The Fisher Who Died in His Bed
+Ufros Alienu
+If anyone's interesting in converting folk songs to a digital public
+domain format and would like to help or if you want to contact me, you can
+do so through the mailing list at
+http://groups.yahoo.com/group/pdsongs
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test DVD here right now!!!  Nearly all
+of our first 9,000 eBooks, and multiple formats!
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+
+*** Progress Report
+
+    In the first 9.00 months of this year, we produced 3063 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 3,063 eBooks!
+
+                That's 40 WEEKS as Compared to ~31 Years!
+
+                  200   New eBooks This Week
+                  123   New eBooks Last Week
+                  323   New eBooks This Month [October]
+
+                  350   Average Per Month in 2003   <<<
+                  203   Average Per Month in 2002   <<<
+                  103   Average Per Month in 2001   <<<
+
+                 3263   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 6945   New eBooks Since Start Of 2001
+                        That's Only 33 Months! ~200/mo
+
+               10,006   Total Project Gutenberg eBooks
+                6,145   eBooks This Week Last Year
+
+                3,861   New eBooks In The Last 12 Months[106.78%]
+                3,615   Would Have Been Exactly Moore's Law[100%]
+
+                5,000   New eBooks in the last 18 months [97.41%]
+                5,000   Exactly Moore's Law[100%]
+
+                  282   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  3263 New eBooks So Far in 2003
+
+              It took us 31 years for the first 3263 !
+
+       That's the 41 WEEKS of 2003 as Compared to ~31 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #3263
+
+
+
+Jun 2002 Wealth of Nations, by Adam Smith  [Adam Smith #1] [wltntxxx.xxx] 3300
+Jun 2002 Mr Honey's Banking Dictionary [English-German]    [8bkedxxx.xxx] 3299
+Jun 2002 Mr Honey's Banking Dictionary [German-English]    [8bkdexxx.xxx] 3298
+Jun 2002 Schnock, by Friedrich Hebbel [In German][Hebbel#2][?schnxxx.xxx] 3297
+Jun 2002 The Confessions of Saint Augustine                [tcosaxxx.xxx] 3296
+
+Jun 2002 The Poems of Emma Lazarus, Volume I               [1mlazxxx.xxx] 3295
+Jun 2002 The Sea-Hawk, by Rafael Sabatini    [Sabatini #11][seahkxxx.xxx] 3294
+Jun 2002 Conquest of Granada, by Washington Irving[W.I.#6] [cgranxxx.xxx] 3293
+Jun 2002 The Clever Woman of the Family, by Charlotte Yonge[cwotfxxx.xxx] 3292
+Jun 2002 John Marshall and the Constitution, by Corwin     [jmatcxxx.xxx] 3291
+
+Jun 2002 Valerius Terminus, by Francis Bacon  [F. Bacon #3][vtrmxxxx.xxx] 3290
+Jun 2002 The Valley of Fear, by Arthur Conan Doyle[Doyle28][vfearxxx.xxx] 3289
+Jun 2002 The Sky Pilot in No Man's Land, by Ralph Connor 11[spnmlxxx.xxx] 3288
+Jun 2002 The Man From Glengarry, by Ralph Connor[Connor#10][tmfgyxxx.xxx] 3287
+Jun 2002 Selections, Speeches and Writings of Edmund Burke [spwebxxx.xxx] 3286
+
+Jun 2002 The Deerslayer, by James Fenimore Cooper  [JFC #7][dslyrxxx.xxx] 3285
+Jun 2002 The Discovery of the Source of the Nile, by Speke [disnlxxx.xxx] 3284
+Jun 2002 The Upanishads, translated by Swami Paramananda   [upanixxx.xxx] 3283
+Jun 2002 The Brown Fairy Book, by Andrew Lang, Ed.[Lang#32][brfryxxx.xxx] 3282
+Jun 2002 Cy Whittaker's Place, by J. C. Lincoln[Lincoln #9][cywhtxxx.xxx] 3281
+
+Jun 2002 Cap'n Warren's Wards, by Joseph C. Lincoln[JCL #8][cpnwwxxx.xxx] 3280
+Jun 2002 Canterbury Pieces, by Samuel Butler [S. Butler #8][cantpxxx.xxx] 3279
+Jun 2002 Cambridge Pieces, by Samuel Butler  [S. Butler #7][cambpxxx.xxx] 3278
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 7[7wardxxx.xxx] 3277
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 6[6wardxxx.xxx] 3276
+
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 5[5wardxxx.xxx] 3275
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 4[4wardxxx.xxx] 3274
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 3[3wardxxx.xxx] 3273
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 2[2wardxxx.xxx] 3272
+Jun 2002 The Complete Works of Artemus Ward [Browne] Part 1[1wardxxx.xxx] 3271
+
+Jun 2002 The Jerusalem Sinner Saved, by John Bunyan [JB #4][jrsnsxxx.xxx] 3270
+Jun 2002 The Autobiography of Mark Rutherford, Rutherford  [mrkrtxxx.xxx] 3269
+Jun 2002 The Mysteries of Udolpho, by Ann Radcliffe        [udolfxxx.xxx] 3268
+Jun 2002 Old Love Stories Retold, by Richard Le Gallienne  [hnmtlxxx.xxx] 3267
+Jun 2002 Miss Billy, by Eleanor H. Porter[Eleanor Porter#5][msblyxxx.xxx] 3266
+
+Jun 2002 The Re-Creation of Brian Kent, Harold Bell Wright [trcbkxxx.xxx] 3265
+Jun 2002 Dennison Grant, by Robert Stead                   [dnsngxxx.xxx] 3264
+Jun 2002 The Portygee, by Joseph C. Lincoln[J.C. Lincoln#7][prtgexxx.xxx] 3263
+Jun 2002 The Pilgrims of Hope, by William Morris[Morris #9][plghpxxx.xxx] 3262
+Jun 2002 News from Nowhere, by William Morris[Wm Morris #8][nwsnwxxx.xxx] 3261
+
+Jun 2002 Short History of Wales, by Owen M. Edwards        [hstwlxxx.xxx] 3260
+Jun 2002 Countess Kate, by Charlotte M. Yonge [CM Yonge #8][cntktxxx.xxx] 3259
+Jun 2002 A Laodicean, by Thomas Hardy    [Thomas Hardy #21][laodcxxx.xxx] 3258
+Jun 2002 New Thought Pastels, by Ella Wheeler Wilcox[EWW#3][nwthpxxx.xxx] 3257
+Jun 2002 Books and Bookmen, by Ian Maclaren[IanMaclaren #1][bkbmnxxx.xxx] 3256
+
+Jun 2002 Moments of Vision, by Thomas Hardy[ThomasHardy#20][mntvsxxx.xxx] 3255
+Jun 2002 Entire PG Galsworthy Files, by Galsworthy  [GL#34][glentxxx.xxx] 3254
+Jun 2002 The Entire Gutenberg Abraham Lincoln files [AL #8][lcentxxx.xxx] 3253
+Jun 2002 Hadleyburg and Other Stories, by Mark Twain[MT#53][mthdbxxx.xxx] 3251
+May 2002 How Tell a Story and Others, by Mark Twain [MT#22][mthtsxxx.xxx] 3250
+
+***
+
+Today Is Day #287 of 2003
+This Completes Week #41
+ 83 Days/12 Weeks To Go  [We get 53 Wednesdays this year]
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #73 Of Our *SECOND* 5,000 eBooks
+
+   80   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton <diane_xml@hotmail.com>
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  <<<We're Doing Einstein!!!
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 41 weeks of this year, we have produced 3263 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 3263 eBooks!!!
+
+         That's 41 WEEKS as Compared to ~31 YEARS!!!
+
+
+With 10,006 eBooks online as of October 08, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.00 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.63 when we had 6145 eBooks A Year Ago
+
+Can you imagine 10,006 books each costing $.62 less a year later???
+Or. . .would this say it better?
+Can you imagine 10,006 books each costing 1/3 less a year later???
+
+At 10,006 eBooks in 32 Years and 4.25 Months We Averaged
+      309 Per Year   [We do more per month these days!]
+      26 Per Month
+     .84 Per Day
+
+At 3263 eBooks Done In The 287 Days Of 2003 We Averaged
+     11.4 Per Day
+     79.6 Per Week
+    350.3 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+From Newsscan:
+
+MICROSOFT VOWS TO FIX WINDOWS SECURITY PROBLEMS
+Microsoft CEO Steve Ballmer has admitted the inadequacy the company's
+current collection of security software patches for the Windows operating
+system and says the company will modify them in the coming year. Customers
+have complained that the company's system of frequently issuing new patches
+is too time-consuming and difficult, so Microsoft is now designing
+technology to shield Windows from malicious e-mail messages, viruses and
+worms. The changes will include shipping Windows with an Internet firewall
+turned on by default, which would have blocked the recent "Blaster" virus,
+and will prevent attachments from executing commands -- a common method
+network vandals use to hijack computers. (San Jose Mercury News 10 Oct 2003)
+http://www.siliconvalley.com/mld/siliconvalley/news/local/6980382.htm
+
+INTEL'S ANDY GROVE WORRIED ABOUT U.S. LEAD IN HIGH TECH
+Telling the attendees at a global technology summit "I'm here to be the
+skunk at your garden party," Andrew S. Grove, Intel co-founder and current
+chairman, said that U.S. dominance in the software and technology service
+businesses is under siege by countries like China and India that offer
+cheap labor costs and strong incentives for new financial investment. Grove
+noted that India's thriving software industry, which does a steadily
+increasing proportion of the software and services work for U.S. companies,
+could surpass the United States in software and tech-service jobs by 2010.
+Grove said that the U.S. had no public policy to deal with this situation,
+nor had he found that any of the presidential candidates had recognized the
+problem. He also said the U.S. lags dangerously behind in popular use of
+high-speed Internet connections, as well as funding for science and
+technology research and education. (Washington Post 9 Oct 2003)
+http://www.washingtonpost.com/wp-dyn/articles/A6042-2003Oct9.html
+
+TEXT-MESSAGING MARKET OPPORTUNITIES IN CHINA
+Text-messaging services in China have become wildly popular, to the extent
+that 200 billion text messages will be sent this year through cell phones
+across China. Internet analyst Nathan Midler for the research firm IDC says
+the explanation is rather simple: "It's cheaper than actually making a
+phone call." Midler also suggests a simple answer to the question of why
+the U.S. technology companies have missed a great marketing opportunity in
+China: "Why have companies like AOL and Yahoo not succeeded in China? The
+simple answer is that the barrier to entry is pretty significant." (Knight
+Ridder/San Jose Mercury News 13 Oct 2003)
+http://www.siliconvalley.com/mld/siliconvalley/7011275.htm
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+MICROSOFT MODIFIES IE AFTER COURT RULING
+Microsoft has opted to make changes to the way its Web browser
+functions after a court ruled that the software company had violated a
+patent held by Eolas Technologies. The patent covers how Web pages
+automatically call applications such as Flash or QuickTime to run audio
+or video. A court ruled the Microsoft's Internet Explorer uses the
+patented technology to accomplish this and that the company must pay
+Eolas $521 million for the technology. Eolas suggested that Microsoft
+keep the technology in its browser and arrange licensing terms.
+Instead, Microsoft, which said it will appeal the ruling, will make
+changes to Internet Explorer to sidestep the patented technology. As a
+result, some users will be presented with a pop-up screen alerting them
+that the browser will start the necessary application to run the Web
+page. Microsoft said it will offer tips to Web developers on how to
+change their Web pages to avoid the pop-ups even with the modified
+version of Internet Explorer, which is expected early next year.
+CNET, 7 October 2003
+http://news.com.com/2100-1012_3-5087787.html
+
+MICROSOFT ANNOUNCES REVISED PATCHING STRATEGY
+Microsoft CEO Steve Ballmer this week announced major changes to the
+company's strategy for software patches. Acknowledging that the
+current schedule of weekly patches is onerous for many users and that
+the patching systems are cumbersome, Ballmer said that Microsoft would
+begin issuing patches no more frequently than once a month, except for
+emergency situations. Ballmer noted that the company's current total
+of 68 different patching systems was "a little extreme" and that future
+patches would be of better quality than some previous patches. Users
+will also have the ability to roll back future patches in the event of
+incompatibility or other problems. Ballmer added that future patches
+would be 30 to 80 percent smaller to help avoid problems for users on
+slow connections.
+Internet News, 9 October 2003
+http://www.internetnews.com/dev-news/article.php/3090001
+
+
+[Could GM Sue For Saying You Can Exceed Speed Limits By Pushing Pedal Harder?]
+
+COMPANY THREATENS TO SUE STUDENT
+SunnComm Technologies said it will likely sue John "Alex" Halderman, a
+graduate student at Princeton University, after Halderman published a
+paper explaining how to defeat CD copy protections developed by
+SunnComm. Halderman's paper pointed out SunnComm's copy protections
+can be avoided simply by holding the "Shift" key when loading the
+protected CD in a computer, which prevents the protection software from
+installing. The paper also gave instructions for turning off the
+software if it is installed. Peter Jacobs, CEO of SunnComm, said
+Halderman had damaged the company's name and might be subject to
+prosecution under the Digital Millennium Copyright Act (DMCA), which
+forbids circumventing copy-protection technologies. Some observers
+believe that Halderman's actions fall outside the purview of the DMCA
+because the paper was an academic publication, it uses features of all
+Windows computers, and it was not distributed for profit.
+CNET, 9 October 2003
+http://news.com.com/2100-1025_3-5089168.html
+
+SUNNCOMM BACKS AWAY FROM LAWSUIT THREAT
+One day after security firm SunnComm Technologies threatened to sue a
+Princeton University graduate student for revealing how to defeat the
+company's CD copy-protection technology, CEO Peter Jacobs withdrew the
+threat. When Princeton student John Halderman published a paper earlier
+in the week with details about sidestepping SunnComm's technology,
+Jacobs accused Halderman of defaming the company and threatened him
+with civil and criminal prosecution. Jacobs on Friday conceded that
+filing lawsuits would have been a mistake, saying, "It wasn't our
+intention to strike a blow against research."
+BBC, 13 October 2003
+http://news.bbc.co.uk/2/hi/technology/3186592.stm
+
+WEB SITE ABOUT DIPLOMA MILLS CAUSES CONTROVERSY
+A physics professor at the University of Illinois at Urbana-Champaign
+has taken down a Web site with research on diploma mills after meeting
+with university administrators. According to George Gollin, officials
+from the university ordered him to remove the Web site from university
+servers after some of the institutions profiled threatened to sue the
+university. A spokesperson from the university denied that Gollin was
+ordered to shut down the site, saying, "We were trying to help him find
+a more appropriate place for his Web site." She noted that because
+Gollin is a professor of physics, the issue of diploma mills and
+accreditation falls outside his area of expertise and does not meet the
+university's public-service requirement. Gollin's work will now be
+available on the State of Oregon's Office of Degree Authorization
+site. Alan Contreras, administrator of that site, called the research
+"superb" and said it is "a very helpful consumer-protection tool."
+Chronicle of Higher Education, 13 October 2003
+http://chronicle.com/free/2003/10/2003101301t.htm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+Other Items Not Getting The Coverage They Should
+
+
+Nobel Prize Committee Ignores Patent Holder In MRI Nobel Prize Awards
+
+Dr. Raymond V. Damadian, president of the Fonar Corporation in Melville,
+N.Y., who holds the basic patent on Magnetic Resonance Imaging, and who
+was upheld by the Supreme Court in 1997, in which case General Electric
+was ordered to pay $129 million for their patent infringment, has been
+overlooked in this week's Nobel Prize's, which were instead offered to
+Paul Lauterbur of the University of Illinois and Sir Peter Mansfield
+of the University of Nottingham, England.
+
+Damidian has received the other major awards for MRI, and no reason
+has been given by the Nobel Committee for excluding Dr. Damidian.
+
+***
+
+China is scheduled to launch its first manned space flight
+around the time you should be receiving this Newsletter.
+
+More details should be available at the official Chinese
+
+xinhuanet
+
+site of the Chinese News Agency.
+
+The launch should take place between Wednesday and Friday,
+from the Jiuquan Satellite Launch Center in northwestern China.
+
+The spacecraft is named Shenzhou 5.  Shenzhou means Divine Vessel.
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

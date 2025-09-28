@@ -1,0 +1,526 @@
+From news at pglaf.org  Wed Oct  4 10:36:29 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed Oct  4 10:36:31 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0610041035520.28802@pglaf.org>
+
+GWeekly_October_04_part2.txt
+
+The Project Gutenberg Weekly Newsletter 04 Oct 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 71 New U.S. eBooks this week
+    -  3 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+-.- HOW TO GET EBOOKS FROM PROJECT GUTENBERG -.-
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+For more information about Project Gutenberg, and to see what's new,
+please visit the website at http://www.gutenberg.org.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 04 Oct 2006:
+     19,421 PG U.S.A.
+      1,293 PG of Australia
+
+RESERVED/PENDING count: 42
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Log-Cabin Lady, An Anonymous Autobiography, by Unknown                6500
+  [Updated edition of: etext04/cabin10.txt]
+  [Link: http://www.gutenberg.org/6/5/0/6500 ]
+  [Files: 6500.txt; 6500-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+   None this week.
+
+
+-=-=-=-=[  71 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+The Price, by Francis Lynde                                              19462
+   [Link: http://www.gutenberg.org/1/9/4/6/19462 ]
+   [Files: 19462.txt; 19462-8.txt; 19462-h.htm]
+
+Tales of Wonder Every Child Should Know, by Various                      19461
+   [Editor: Kate Douglas Wiggin and Nora Archibald Smith]
+   [Link: http://www.gutenberg.org/1/9/4/6/19461 ]
+   [Files: 19461.txt; 19461-8.txt; 19461-h.htm]
+
+Handbuch der deutschen Kunstdenkmaler, Georg Dehio                       19460
+   [Subtitle: Bd.1, Mitteldeutschland, 2nd ed. 1914]
+   [Link: http://www.gutenberg.org/1/9/4/6/19460 ]
+   [Files: 19460.txt; 19460-8.txt; 19460-0.txt; 19460-tei.tei;
+          19460-h.htm; 19460-pdf.pdf ]
+
+Born Again, by Alfred Lawson                                             19459
+   [Link: http://www.gutenberg.org/1/9/4/5/19459 ]
+   [Files: 19459.txt; 19459-h.htm]
+
+The Loyalists, Vol. 1-3, by Jane West                                    19458
+   [Subtitle: An Historical Novel]
+   [Link: http://www.gutenberg.org/1/9/4/5/19458 ]
+   [Files: 19458.txt; 19458-8.txt; 19458-h.htm]
+
+Historical Tales, The Romance of Reality, Vol. VII, by Charles Morris    19457
+  [Link: http://www.gutenberg.org/1/9/4/5/19457 ]
+  [Files: 19457.txt; 19457-8.txt; 19457-0.txt; 19457-tei.tei;
+          19457-h.htm; 19457-pdf.pdf; 19457-page-images.zip]
+
+De ramp van Valparaiso, by Henri Bourdon                                 19456
+   [Subtitle: De Aarde en haar Volken, 1907]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/4/5/19456 ]
+   [Files: 19456-8.txt; 19456-h.htm]
+
+La vraye suitte du Cid, by Nicolas Mary                                  19455
+   [Subtitle: Tragi-comedie representee par la troupe royale]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/4/5/19455 ]
+   [Files: 19455-8.txt]
+
+La mort de Brute et de Porcie, by Guyon Guerin de Bouscal                19454
+   [Subtitle: Ou, La vengeance de la mort de Cesar - Tragedie]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/4/5/19454 ]
+   [Files: 19454-8.txt]
+
+The Shield, by Various                                                   19453
+   [Editor: Maksim Gorky, Leonid Nikolayevich Andreyev, and Fyodor Sologub]
+   [Author: Foreword by William English Walling]
+   [Tr.: A. Yarmolinsky]
+   [Link: http://www.gutenberg.org/1/9/4/5/19453 ]
+   [Files: 19453.txt; 19453-8.txt; 19453-h.htm; ]
+
+Le Petit Nord, by Grenfell and Spalding                                  19452
+   [Subtitle: or, Annals of a Labrador Harbour]
+   [Author: Anne Elizabeth Caldwell (MacClanahan) Grenfell and
+    Katie Spalding]
+   [Ill.: Wilfred T. Grenfell]
+   [Link: http://www.gutenberg.org/1/9/4/5/19452 ]
+   [Files: 19452.txt; 19452-8.txt; 19452-h.htm; ]
+
+Double Trouble, by Herbert Quick                                         19451
+   [Subtitle: Or, Every Hero His Own Villain]
+   [Illus.: Orson Lowell]
+   [Link: http://www.gutenberg.org/1/9/4/5/19451 ]
+   [Files: 19451.txt; 19451-8.txt; 19451-h.htm; ]
+
+Audio: Dorothy and the Wizard in Oz, by L. Frank Baum                    19450
+   [Link: http://www.gutenberg.org/1/9/4/5/19450 ]
+   [Files: 19450.txt; 19450-mp3.mp3; 19450-ogg.ogg; 19450-m4b.m4b;
+    19450-spx.spx]
+
+The North American Indian, by Edward S. Curtis                           19449
+  [Link: http://www.gutenberg.org/1/9/4/4/19449 ]
+  [Files: 19449.txt; 19449-8.txt; 19449-0.txt; 19449-tei.tei;
+          19449-h.htm; 19449-pdf.pdf; 19449-page-images.zip]
+
+Talks on Manures, by Joseph Harris                                       19448
+   [Subtitle: A Series of Familiar and Practical Talks Between the Author
+    and the Deacon, the Doctor, and other Neighbors, on the Whole Subject]
+   [Link: http://www.gutenberg.org/1/9/4/4/19448 ]
+   [Files: 19448.txt; 19448-0.txt; 19448-h.htm]
+
+Morals and Dogma of the Scottish Rite of Freemasonry, by Albert Pike     19447
+   [Title: Morals and Dogma of the Ancient and Accepted Scottish Rite
+    of Freemasonry]
+   [Link: http://www.gutenberg.org/1/9/4/4/19447 ]
+   [Files: 19447-0.txt]
+
+Slave Narratives: Arkansas Narratives, Part 3, by Work Projects Admin.   19446
+   [Title: Slave Narratives: a Folk History of Slavery in the United States
+    From Interviews with Former Slaves; Vol. II, Arkansas, Part 3]
+   [Link: http://www.gutenberg.org/1/9/4/4/19446 ]
+   [Files: 19446.txt; 19446-8.txt; 19446-h.htm]
+
+Omnilingual, by H. Beam Piper                                            19445
+   [Illustrator: Freas]
+   [Link: http://www.gutenberg.org/1/9/4/4/19445 ]
+   [Files: 19445.txt; 19445-8.txt; 19445-h.htm]
+
+Architectural Illustration, Vol. 1, No. 6, June 1895                     19444
+   [Title: The Brochure Series of Architectural Illustration]
+   [Subtitle: Renaissance Panels from Perugia]
+   [Link: http://www.gutenberg.org/1/9/4/4/19444 ]
+   [Files: 19444.txt; 19444-8.txt; 19444-h.htm]
+
+Our Profession and Other Poems, by Jared Barhite                         19443
+   [Link: http://www.gutenberg.org/1/9/4/4/19443 ]
+   [Files: 19443.txt; 19443-h.htm]
+
+Il fallo d'una donna onesta, by Enrico Castelnuovo                       19442
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/4/19442 ]
+   [Files: 19442-8.txt]
+
+My Friend the Chauffeur, by C. N. Williamson and A. M. Williamson        19441
+   [Illustrator: Frederic Lowenheim]
+   [Link: http://www.gutenberg.org/1/9/4/4/19441 ]
+   [Files: 19441.txt; 19441-8.txt; 19441-h.htm]
+
+La Saga de Njal, by Anonymous                                            19440
+   [Translator: Rodolphe Dareste de La Chavanne]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/4/4/19440 ]
+   [Files: 19440-8.txt; 19440-0.txt]
+
+Vaimoni ja mina eli Harry Hendersonin elamakerta, Harriet Beecher Stowe  19439
+   [Translator: Hj. Sandelin]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/4/3/19439 ]
+   [Files: 19439-8.txt]
+
+The Hero of Esthonia and Others, by William Forsell Kirby                19438
+   [Title: The Hero of Esthonia and Other Studies in the Romantic
+    Literature of That Country]
+   [Link: http://www.gutenberg.org/1/9/4/3/19438 ]
+   [Files: 19438.txt; 19438-8.txt; 19438-h.htm]
+
+Amore bendato, by Salvatore Farina                                       19437
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/3/19437 ]
+   [Files: 19437-8.txt]
+
+The Fifth Wheel, by Olive Higgins Prouty                                 19436
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/9/4/3/19436 ]
+   [Files: 19436.txt; 19436-8.txt; 19436-h.htm]
+
+The Mule-Bone, by Zora Hurston and Langston Hughes                       19435
+   [Subtitle: A Comedy of Negro Life in Three Acts]
+  [Link: http://www.gutenberg.org/1/9/4/3/19435 ]
+  [Files: 19435.txt]
+
+Western Worthies, by J. Stephen Jeans                                    19434
+   [Subtitle: A Gallery of Biographical and Critical Sketches of West of
+    of Scotland Celebrities]
+   [Link: http://www.gutenberg.org/1/9/4/3/19434 ]
+   [Files: 19434.txt; 19434-8.txt; 19434-h.htm]
+
+Tortenet, by Bela Balazs                                                 19433
+   [Subtitle: A Logody-utcarol, a tavaszrol, a halalrol es a messzesegrol]
+   [Language: Hungarian]
+   [Link: http://www.gutenberg.org/1/9/4/3/19433 ]
+   [Files: 19433-8.txt; 19433-0.txt; 19433-h.htm]
+
+Heart and Soul, by Victor Mapes (AKA Maveric Post)                       19432
+  [Link: http://www.gutenberg.org/1/9/4/3/19432 ]
+  [Files: 19432.txt; 19432-8.txt; 19432-h.htm]
+
+Le saucisson a pattes II, by Eug.ne Chavette                             19431
+   [Subtitle: Le plan de Cardeuc]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/4/3/19431 ]
+   [Files: 19431-8.txt]
+
+La Principessa, by Jarro                                                 19430
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/3/19430 ]
+   [Files: 19430-8.txt]
+
+Poesie inedite vol. I, by Silvio Pellico                                 19429
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/2/19429 ]
+   [Files: 19429-8.txt]
+
+Le nostalgie, by Luigi Gualdo                                            19428
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/2/19428 ]
+   [Files: 19428-8.txt]
+
+Galatea, by Anton Giulio Barrili                                         19427
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/2/19427 ]
+   [Files: 19427-8.txt]
+
+I moribondi del Palazzo Carignano, Ferdinando Petruccelli della Gattina  19426
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/4/2/19426 ]
+   [Files: 19426-8.txt]
+
+The Story of a Stuffed Elephant, by Laura Lee Hope                       19425
+   [Illustrator: Henry L. Smith]
+   [Link: http://www.gutenberg.org/1/9/4/2/19425 ]
+   [Files: 19425.txt; 19425-h.htm]
+
+Bell's Cathedrals: The Cathedral Church of Exeter, by Percy Addleshaw    19424
+   [Subtitle: A Description of Its Fabric and a Brief History of the
+    Episcopal See]
+   [Link: http://www.gutenberg.org/1/9/4/2/19424 ]
+   [Files: 19424.txt; 19424-8.txt; 19424-h.htm; ]
+
+The Story of Porcelain, by Sara Ware Bassett                             19423
+   [Illus.: Isabel W. Caley]
+   [Link: http://www.gutenberg.org/1/9/4/2/19423 ]
+   [Files: 19423.txt; 19423-8.txt; 19423-h.htm; ]
+
+The Organization of the Congregation ... Lutheran Churches, by Schmucker 19422
+   [Title: The Organization of the Congregation in the Early Lutheran
+    Churches in America]
+   [Author: Beale M. Schmucker]
+   [Link: http://www.gutenberg.org/1/9/4/2/19422 ]
+   [Files: 19422.txt; ]
+
+The French Revolution, by R. M. Johnston                                 19421
+   [Subtitle: A Short History]
+   [Link: http://www.gutenberg.org/1/9/4/2/19421 ]
+   [Files: 19421.txt; 19421-8.txt; 19421-h.htm]
+
+The Cathedral Church of York, by A. Clutton-Brock                        19420
+   [Subtitle: Bell's Cathedrals: A Description of Its Fabric and A Brief
+    History of the Archi-Episcopal See]
+   [Link: http://www.gutenberg.org/1/9/4/2/19420 ]
+   [Files: 19420.txt; 19420-8.txt; 19420-h.htm]
+
+In the Rocky Mountains, by W. H. G. Kingston                             19419
+   [Subtitle: A Tale of Adventure]
+   [Link: http://www.gutenberg.org/1/9/4/1/19419 ]
+   [Files: 19419.txt; 19419-8.txt; 19419-h.htm]
+
+Confessions of Boyhood, by John Albee                                    19418
+   [Link: http://www.gutenberg.org/1/9/4/1/19418 ]
+   [Files: 19418.txt; 19418-h.htm]
+
+Chambers's Edinburgh Journal, Vol. 17 New Series, No. 434, Apr 24, 1852  19417
+   [Editor: Robert Chambers and William Chambers]
+   [Link: http://www.gutenberg.org/1/9/4/1/19417 ]
+   [Files: 19417.txt; 19417-8.txt; 19417-h.htm]
+
+Collections Made During the Field Season of 1881, by William H. Holmes   19416
+   [Title: Illustrated Catalogue of a Portion of the Collections Made
+    During the Field Season of 1881]
+   [Subtitle: Third Annual Report of the Bureau of Ethnology to the
+    Secretary of the Smithsonian Institution, 1881-82,
+    Government Printing Office, Washington, 1884, pages 427-510]
+   [Link: http://www.gutenberg.org/1/9/4/1/19416 ]
+   [Files: 19416.txt; 19416-8.txt; 19416-h.htm]
+
+Libraries in the Medieval and Renaissance Periods, by J. W. Clark        19415
+   [Subtitle: The Rede Lecture Delivered June 13, 1894]
+   [Link: http://www.gutenberg.org/1/9/4/1/19415 ]
+   [Files: 19415.txt; 19415-8.txt; 19415-h.htm]
+
+Instructions For The Guidance Of Post Office Inspectors, by Campbell     19414
+   [Title: General Instructions For The Guidance Of Post Office Inspectors
+    In The Dominion Of Canada]
+   [Author: Alexander Campbell]
+   [Link: http://www.gutenberg.org/1/9/4/1/19414 ]
+   [Files: 19414.txt; 19414-8.txt; 19414-h.htm]
+
+Thoughts on Religion at the Front, by Neville Stuart Talbot              19413
+   [Link: http://www.gutenberg.org/1/9/4/1/19413 ]
+   [Files: 19413.txt; 19413-8.txt; 19413-h.htm]
+
+Set in Silver, by Charles Norris Williamson and Alice Muriel Williamson  19412
+   [Link: http://www.gutenberg.org/1/9/4/1/19412 ]
+   [Files: 19412.txt; 19412-8.txt; 19412-h.htm; ]
+
+The Woman's Way, by Charles Garvice                                      19411
+   [Link: http://www.gutenberg.org/1/9/4/1/19411 ]
+   [Files: 19411.txt; 19411-8.txt; 19411-h.htm; ]
+
+Critical Miscellanies, Vol. 3, Essay 8, by John Morley                   19410
+   [Subtitle: France in the Eighteenth Century]
+   [Link: http://www.gutenberg.org/1/9/4/1/19410 ]
+   [Files: 19410.txt; 19410-8.txt; 19410-h.htm]
+
+Tom, Dot and Talking Mouse, and Other Bedtime Stories, by Kernahan       19409
+   [Author: J. G. Kernahan and C. Kernahan]
+   Contents:
+     The Miller's Mouse
+     The Old Rocking Horse
+     The Message of the Lily
+     Water-Lily's Mission
+   [Link: http://www.gutenberg.org/1/9/4/0/19409 ]
+   [Files: 19409.txt; 19409-h.htm; ]
+
+The Amateur Garden, by George W. Cable                                   19408
+   [Link: http://www.gutenberg.org/1/9/4/0/19408 ]
+   [Files: 19408.txt; 19408-8.txt; 19408-h.htm]
+
+Speed the Plough, by Thomas Morton                                       19407
+   [Subtitle: A Comedy, In Five Acts; As Performed At The Theatre Royal,
+    Covent Garden]
+   [Link: http://www.gutenberg.org/1/9/4/0/19407 ]
+   [Files: 19407.txt; 19407-8.txt; 19407-0.txt; 19407-h.htm]
+
+Scientific  American, Volume 36, No. 8, February 24, 1877                19406
+   [Subtitle: A Weekly Journal of Practical Information, Art, Science,
+    Mechanics, Chemistry, and Manufactures.]
+   [Link: http://www.gutenberg.org/1/9/4/0/19406 ]
+   [Files: 19406.txt; 19406-8.txt; 19406-h.htm]
+
+Confessions of an Etonian, by I. E. M.                                   19405
+   (Note: 1846 edition, Saunders & Otley, London, pulbishers; author
+    "I.E.M." may or may not be a pseudonym of Charles Rowcroft)
+   [Link: http://www.gutenberg.org/1/9/4/0/19405 ]
+   [Files: 19405.txt; 19405-8.txt; 19405-h.htm; ]
+
+Life of Abraham Lincoln, by John Hugh Bowers                             19404
+   [Subtitle: Little Blue Book Ten Cent Pocket Series No. 324]
+   [Editor: E. Haldeman-Julius]
+   [Link: http://www.gutenberg.org/1/9/4/0/19404 ]
+   [Files: 19404.txt; 19404-h.htm]
+
+Murder at Bridge, by Anne Austin                                         19403
+   [Link: http://www.gutenberg.org/1/9/4/0/19403 ]
+   [Files: 19403.txt; 19403-8.txt; 19403-h.htm; ]
+
+Frank Merriwell's Reward, by Burt L. Standish                            19402
+   [Link: http://www.gutenberg.org/1/9/4/0/19402 ]
+   [Files: 19402.txt; 19402-h.htm]
+
+The Plunderer, by Henry Oyen                                             19401
+   [Link: http://www.gutenberg.org/1/9/4/0/19401 ]
+   [Files: 19401.txt; 19401-8.txt]
+
+History Of Egypt, Volume 1 (of 12), by G. Maspero                        19400
+   [Title: History Of Egypt, Chald.a, Syria, Babylonia, and Assyria,
+    Volume 1 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   (See also:  #17321 - #17332)
+   [Link: http://www.gutenberg.org/1/9/4/0/19400 ]
+   [Files: 19400.txt; 19400-8.txt; 19400-h.htm]
+
+St. Nicholas Magazine for Boys and Girls, Vol. 5, Jan 1878, No. 3        19399
+   [Editor: Mary Mapes Dodge]
+   [Link: http://www.gutenberg.org/1/9/3/9/19399 ]
+   [Files: 19399.txt; 19399-8.txt; 19399-h.htm]
+
+By Right of Conquest, by G. A. Henty                                     19398
+   [Subtitle: Or, With Cortez in Mexico]
+   [Link: http://www.gutenberg.org/1/9/3/9/19398 ]
+   [Files: 19398.txt; 19398-h.htm]
+
+History of Rationalism, by John F. Hurst                                 19397
+   [Title: History of Rationalism Embracing a Survey of the Present
+    State of Protestant Theology]
+   [Link: http://www.gutenberg.org/1/9/3/9/19397 ]
+   [Files: 19397.txt; 19397-8.txt; 19397-h.htm]
+
+On the Spanish Main, by John Masefield                                   19396
+   [Subtitle: Or, Some English forays on the Isthmus of Darien.]
+   [Link: http://www.gutenberg.org/1/9/3/9/19396 ]
+   [Files: 19396.txt; 19396-8.txt; 19396-h.htm]
+
+The New Heavens, by George Ellery Hale                                   19395
+   [Link: http://www.gutenberg.org/1/9/3/9/19395 ]
+   [Files: 19395.txt; 19395-8.txt; 19395-h.htm]
+
+You'll git dar in de mornin', by H. T. Burleigh and F. L. Stanton        19394
+  [Link: http://www.gutenberg.org/1/9/3/9/19394 ]
+  [Files: 19394.txt; 19394-xml.xml; 19394-mid.mid;
+          19394-mus.mus; 19394-pdf.pdf]
+
+Plays of Near & Far, by Lord Dunsany                                     19393
+   [Link: http://www.gutenberg.org/1/9/3/9/19393 ]
+   [Files: 19393.txt; 19393-8.txt; 19393-0.txt; 19393-h.htm]
+
+The Little Tea Book, by Arthur Gray                                      19392
+   [Illustrator: George W. Hood]
+   [Link: http://www.gutenberg.org/1/9/3/9/19392 ]
+   [Files: 19392.txt; 19392-8.txt; 19392-h.htm]
+
+
+-=-=-=-=[  3 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Sep 2006 Dog and Duck, by Arthur Machen                    [060775xx.xxx] 1293A
+[http://gutenberg.net.au/ebooks06/0607751.txt or .zip
+http://gutenberg.net.au/ebooks06/0607751h.html]
+
+Sep 2006 Collected Poetry, by Andrew Barton Paterson       [060774xx.xxx] 1292A
+[http://gutenberg.net.au/ebooks06/0607741.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607741h.html ]
+
+Sep 2006 Collected Prose, by Andrew Barton Paterson        [60773x1x.xxx] 1291A
+[http://gutenberg.net.au/ebooks06/0607731.txt or zip ]
+and http://gutenberg.net.au/ebooks06/0607731h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access
+these ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+

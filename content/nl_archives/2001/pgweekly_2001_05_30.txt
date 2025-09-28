@@ -1,0 +1,150 @@
+========
+Subject: May 30 Weekly Gutenberg Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg mailing list" <gutnberg@listserv.unc.edu>
+Date: Wed, 30 May 2001 12:11:03 -0500 (CDT)
+
+
+The Project Gutenberg *Weekly* Newsletter for Wednesday, May 30, 2001
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+When we send out the Project Gutenberg Newsletters, we
+have already posted all the files listed in that index
+listing we include in the Newsletters [excepting those
+marked as "reserved," of course.
+
+While our human cataloguers and indexers of course can
+not had time to add them to their files yet, computers
+will already have them listed. . .and thus you will be
+able to download them, literally only one second after
+we have started to post them, even before our own post
+of them has been completely uploaded. . . !
+
+For "instant" access to our new Etexts you can surf to:
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+
+Or 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91, 90.
+
+
+You will need the first five letters of the filenames listed below.
+
+As of May 23 2001 contributions are only being solicited from people
+in:  Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana, Iowa,
+Louisiana, Maine, Massachusetts, Missouri, Montana, Nebraska, New
+Jersey, Ohio, Oklahoma, South Carolina, South Dakota, Texas, Vermont,
+Washington and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund
+raising will begin in the additional states.
+
+Donations from other countries are welcome,
+but we are not registered in any other countries
+and we know NOTHING about their tax deductions.
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+***
+
+Requests For Assistance
+
+Would the people, who had sent corrections personally to Alev Akman in
+the last week, or so, send them again, please? As a result of a computer
+crush, she may have lost them and would like to receive them again.
+Alev Akman <alevwho@mediaone.net>, <aakman@csufresno.edu>
+
+***
+
+
+Index Listings and Comments for Improved Files
+
+
+Correction:
+Nov 2002 Human Genome Project, Chromosome Number 09        [09hgpxxa.xxx]3509
+The above was previously listed incorrectly as 19hgp. . .
+Nov 2002 Human Genome Project, Chromosome Number 09        [19hgpxxa.xxx]3509
+and thus I missed unzipping 09hgp10a, which I have also corrected.
+
+
+Index Listings and Comments for the New Files
+
+
+We have a total of 19 new files for you to download this week.
+This would yield a total of 988 Etexts per year.  So far we are
+averaging a few under 19.25 per week, which is what we would need
+to do 1,000 books this year, but we did have that one great month
+in which we did 137, so we might just make it. . . .
+
+Here are the listings for our improved editions of previous releases:
+[These updates often take as much effort as does creating prior editions]
+
+
+And here are our 19 new releases:
+
+Nov 2002 The Blue Moon, by Laurence Housman                [tblmnxxx.xxx]3539
+Nov 2002 The Americanization of Edward Bok, by Edward Bok  [ewbokxxx.xxx]3538
+[The Autobiography of a Dutch Boy Fifty Years After, by Edward William Bok]
+Nov 2002 Frederick The Great And His Family, by L. Muhlbach[ftghfxxx.xxx]3537
+[Variant spellings: Louise Muhlbach, Luise Muhlbach and Luise von Muhlbach]
+Nov 2002 The Enchanted Castle, by E. Nesbit [E. Nesbit #9] [nchtlxxx.xxx]3536
+
+Nov 2002 The Expedition to Botany Bay, by Watkin Tench [#2][tetbbxxx.xxx]3535
+[Full Title:  A Narrative of the Expedition to Botany Bay]
+Nov 2002 The Settlement at Port Jackson, by Watkin Tench #1[tsapjxxx.xxx]3534
+[Full Title:  A Complete Account of the Settlement at Port Jackson]
+Nov 2002 Sunshine Sketches of a Little Town/Stephen Leacock[sskltxxx.xxx]3533
+Nov 2002 My Discovery of England, by Stephen Leacock[SL #1][mdscvxxx.xxx]3532
+Nov 2002 Quotations of Lord Chesterfield by David Widger #6[dwqlcxxx.xxx]3531
+Nov 2002 Love-at-Arms, by Rafael Sabatini    [Sabatini #16][laarmxxx.xxx]3530
+
+Nov 2002 Sweden, Norway and Denmark, by Mary Wollstonecraft[ltswdxxx.xxx]3529
+[Full Title: Letters on  Sweden, Norway and Denmark]
+Also see:
+Sep 2002 Vindication of Rights of Woman/Mary Wollstonecraft[vorowxxx.xxx]3420
+May 1994 Maria or the Wrongs of Woman, Mary Wollstonecraft [maria10x.xxx] 134
+
+Nov 2002 Beethoven: The Man And The Artist/Kerst & Krehbiel[lvbmaxxx.xxx]3528
+[Full Title: Beethoven: the Man and the Artist, as Revealed in his own Words]
+[Authors' Full Names:]
+[Ludwig van Beethoven, edited by Friedrich Kerst and Henry Edward Krehbiel]
+Nov 2002 The Blue Moon, by Laurence Housman                [tblmnxxx.xxx]3527
+Nov 2002 Five Weeks in a Balloon, by Jules Verne[Verne #16][5wiabxxx.xxx]3526
+
+
+Dec 2002 The Essays of Montaigne, V5, 1877, Cotton  [MN#05][mn05vxxx.xxx]3585
+Dec 2002 The Essays of Montaigne, V4, 1877, Cotton  [MN#04][mn04vxxx.xxx]3584
+Dec 2002 The Essays of Montaigne, V3, 1877, Cotton  [MN#03][mn03vxxx.xxx]3583
+Dec 2002 The Essays of Montaigne, V2, 1877, Cotton  [MN#02][mn02vxxx.xxx]3582
+Dec 2002 The Essays of Montaigne, V1, 1877, Cotton  [MN#01][mn01vxxx.xxx]3581
+
+If you sent in a file you don't see here, or sent in a revision, or xeroxes
+for our copyright research, and haven't heard from me let me know.  Most of
+these should only take a few days.
+
+***
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+

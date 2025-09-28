@@ -1,0 +1,971 @@
+---
+params:
+  id: 1866
+title: PG Weekly Newsletter (2001-12-19)
+date: 2001-12-19T16:03:31+00:00
+author: Michael Cook
+layout: post
+url: /20011219/pg-weekly-newsletter-2001-12-19/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gmonthly] Project Gutenberg Weekly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Monthly Newsletter" &lt;gmonthly@listserv.unc.edu&gt;
+Date: Wed, 19 Dec 2001 17:47:21 -0500 (EST)
+
+
+PROJECT GUTENBERG WEEKLY NEWSLETTER FOR  WEDNESDAY, BDECEMBER 19, 2001
+
+LOTS of new information. . .so this is ALSO going to the monthly list.
+
+Because EIGHT more eBooks came in while I was preparing to send this,
+AND because large amounts of additional donation possibilities came in,
+I am a little late in sending this out, and my calculations might be a
+bit shaky, as I had to change the totals and other items over and over
+during the process.
+
+
+***4,227 Tree-Friendly Titles Online******28 New Listings This Week***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+    - From Michael Hart, Director of Project Gutenberg
+    - The need for donations LOTS OF NEW INFORMATION...PAYPAL!!! etc.
+    - Copyright research contact info
+    - Online proofreading team
+    - Making Donations, States list
+    - Access to the collection
+    - Non-English Texts, Updated Listing
+    - Information about Mirrors
+    - "Life + 50" Copyright Countries Listing
+    - Weekly etext update:
+      - 4 new etexts at Project Gutenberg of Australia
+      - 2 updated, corrected or re-indexed etexts
+      - 20 new U.S. etexts
+    - Statistics
+    - Newsscan news
+    - Information about mailing lists
+    - Tagline
+
+***
+
+FROM MICHAEL HART, DIRECTOR OF PROJECT GUTENBERG:
+
+I have been encouraged by some of our volunteers to say a
+few words in each Newsletter, but I have previously been
+trying to keep my own personal views out of any Project
+Gutenberg materials.
+
+In a small effort to give something to both sides:
+
+Here is a short file from when Project Gutenberg had only
+a small handful of titles, this one was never numbered or
+listed in our index. . .perhaps if we collected up more.
+
+THE NIGHT BEFORE CHRISTMAS
+(A VISIT FROM ST. NICHOLAS)
+
+by Clement Clarke Moore
+
+THE MILLENNIUM FULCRUM EDITION, 1988
+
+
+'Twas the night before Christmas, when all through the house
+Not a creature was stirring, not even a mouse;
+The stockings were hung by the chimney with care,
+In hopes that ST. NICHOLAS soon would be there;
+The children were nestled all snug in their beds,
+While visions of sugar-plums danced in their heads;
+And mamma in her 'kerchief, and I in my cap,
+Had just settled down for a long winter's nap,
+When out on the lawn there arose such a clatter,
+I sprang from the bed to see what was the matter.
+Away to the window I flew like a flash,
+Tore open the shutters and threw up the sash.
+The moon on the breast of the new-fallen snow
+Gave the lustre of mid-day to objects below,
+When, what to my wondering eyes should appear,
+But a miniature sleigh, and eight tiny reindeer,
+With a little old driver, so lively and quick,
+I knew in a moment it must be St. Nick.
+More rapid than eagles his coursers they came,
+And he whistled, and shouted, and called them by name;
+"Now, DASHER! now, DANCER! now, PRANCER and VIXEN!
+On, COMET! on CUPID! on, DONDER and BLITZEN!
+To the top of the porch! to the top of the wall!
+Now dash away! dash away! dash away all!"
+As dry leaves that before the wild hurricane fly,
+When they meet with an obstacle, mount to the sky,
+So up to the house-top the coursers they flew,
+With the sleigh full of toys, and St. Nicholas too.
+And then, in a twinkling, I heard on the roof
+The prancing and pawing of each little hoof.
+As I drew in my hand, and was turning around,
+Down the chimney St. Nicholas came with a bound.
+He was dressed all in fur, from his head to his foot,
+And his clothes were all tarnished with ashes and soot;
+A bundle of toys he had flung on his back,
+And he looked like a peddler just opening his pack.
+His eyes -- how they twinkled! his dimples how merry!
+His cheeks were like roses, his nose like a cherry!
+His droll little mouth was drawn up like a bow,
+And the beard of his chin was as white as the snow;
+The stump of a pipe he held tight in his teeth,
+And the smoke it encircled his head like a wreath;
+He had a broad face and a little round belly,
+That shook, when he laughed like a bowlful of jelly.
+He was chubby and plump, a right jolly old elf,
+And I laughed when I saw him, in spite of myself;
+A wink of his eye and a twist of his head,
+Soon gave me to know I had nothing to dread;
+He spoke not a word, but went straight to his work,
+And filled all the stockings; then turned with a jerk,
+And laying his finger aside of his nose,
+And giving a nod, up the chimney he rose;
+He sprang to his sleigh, to his team gave a whistle,
+And away they all flew like the down of a thistle.
+But I heard him exclaim, ere he drove out of sight,
+"HAPPY CHRISTMAS TO ALL, AND TO ALL A GOOD-NIGHT."
+
+
+
+JEST 'FORE CHRISTMAS
+
+by Eugene Field
+
+THE MILLENNIUM FULCRUM EDITION, 1988
+
+
+Father calls me William, sister calls me Will,
+Mother calls me Willie, but the fellers call me Bill!
+Mighty glad I ain't a girl -- ruther be a boy,
+Without them sashes, curls, an' things that's worn by Fauntleroy!
+Love to chawnk green apples an' go swimmin' in the lake --
+Hate to take the castor-ile they give for belly-ache!
+'Most all the time the whole year round, there ain't no flies on me,
+But jest 'fore Christmas, I'm as good as I kin be!
+
+Got yeller dog named Sport, sick him on the cat;
+First thing she knows she doesn't know where she is at!
+Got a clipper sled, an' when us kids goes out to slide,
+'Long comes the grocery cart, an' we all hook a ride!
+But sometimes when the grocery man is worrited an' cross,
+He reaches at us with his whip, an' larrups up his hoss,
+An' then I laff an' holler, "Oh, ye never teched ME!"
+But jest 'fore Christmas, I'm as good as I kin be!
+
+Gran'ma says she hopes that when I git to be a man,
+I'll be a missionarer like her oldest brother, Dan,
+As was et up by the cannibuls that lives in Ceylon's Isle,
+Where every prospeck pleases, an' only man is vile!
+But gran'ma she has never been to see a Wild West show,
+Nor read the Life of Daniel Boone, or else I guess she'd know
+That Buff'lo Bill and cowboys is good enough for me!
+EXCEP' jest 'fore Christmas, when I'm as good as I kin be!
+
+And then old Sport he hangs around, so solemn-like an' still,
+His eyes they keep a-sayin':  "What;s the matter, little Bill?"
+The old cat sneaks down off her perch an' wonders what's become
+Of them two enemies of hern that used to make things hum!
+But I am perlite an' 'tend so earnestly to biz,
+That mother says to father: "How improved our Willie is!"
+But father, havin' been a boy hisself, suspicions me
+When, jest 'fore Christmas, I'm as good as I kin be!
+
+For Christmas, with its lots an' lots of candies, cakes, an' toys,
+Was made, they say, for proper kids an' not for naughty boys;
+So wash yer face an' brush yer hair, an' mind yer p's an' q's,
+An' don't bust out yer pantaloons, an' don't wear out yer shoes;
+Say :Yessum" to the ladies, an' "Yessur" to the men,
+An' when they's company, don't pass yer plate for pie again;
+But, thinkin' of the things yer'd like to see upon that tree,
+Jest 'fore Christmas be as good as yer kin be!
+
+***
+
+Please put Project Gutenberg on your Holiday Gift Giving list
+I've been advised we have just enough to get to month's end.
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com &lt;mailto:hart@pobox.com&gt;
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+If you need to follow-up on materials sent in for copyright research,
+contact Michael Hart at hart@pobox.com.  Also send him a message if
+you recently sent in an etext to be posted, and haven't seen it
+announced yet.
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+Please note the NEW FASTER ADDRESS for distributed proofreading:
+      http://charlz.dns2go.com/gutenberg
+
+***
+
+As of November, 2001, contributions are being solicited from people
+and organizations in: Alabama, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Oklahoma,
+Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+Please email Greg Newby, director of the Project Gutenberg
+Literary Archive Foundation, to inquire about wire transfer
+or EFT.  [gbnewby@ils.unc.edu]
+
+THANKS to everyone who has sent a donation.  Please think of
+us for your holiday and end-of-year giving.
+
+Here is all the new information, some reducancy,
+as this just came in, and I am just pasting it in here:
+
+HOW TO MAKE A DONATION TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available.  Visit
+http://promo.net/pg/fundraising, or email the PGLAF's chief executive
+officer (and volunteer), Dr. Gregory B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+There are several ways to donate.  We want you to make a donation in
+the best way for you, so have tried to make it easy.
+
+In summary, we can accept checks or money orders in any national
+currency, wire transfer or electronic funds transfer, and credit
+cards.
+
+If you want to make a donation in a way that's not specified below,
+please contact us!
+
+
+1. Send a check or money order in US funds.
+Our address is listed above:
+
+
+2. Send a check or money order in non-US funds.  This can go to the
+same address as in #1 above.  The bank sends non-US funds for
+"collection" and a fee is charged.  This fee is difficult to know in
+advance, but usually seems to be a few dollars.  The exchange rate to
+US funds is at market value.
+
+3. Use NetworkForGood.  This is a Web site that accepts credit card
+donations and does not charge overhead.  Donation is simple, similar
+to most online purchase transactions.  A credit card with a mailing
+address in the US is required.
+
+The URL to donate is:
+
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+Your name, mailing address and email address are required, as well as
+your credit card information.  You can choose to prevent sending your
+personal data to PGLAF (also see our Privacy Policy, below).  Your
+credit card information is NEVER sent to PGLAF.
+
+On the donation form, you can specify a designation for a specific
+purpose.  Although PGLAF will receive these specifications, all
+donations to PGLAF go to general operating funds.
+
+Visa, MasterCard, American Express and Discover are accepted.
+NetworkForGood covers the normal transaction fees (up to about $2.50
+per transaction) and credit card overhead (usually about 2% per
+transaction), so 100% of your intended donation amount goes to PGLAF.
+
+Your credit card statement will show "Network For Good" as the payee,
+but 100% will go to PGLAF by electronic funds transfer to our bank
+account.
+
+
+4. Use PayPal.  PayPal is a Web site that accepts credit card and bank
+transfer payments.  You need to set up a PayPal account to donate via
+PayPal.  This requires providing credit card and/or bank information.
+Visa and MasterCard are accepted.
+
+Visit http://www.paypal.com
+
+To make a donation to PGLAF, login to your PayPal account and select
+"Send Money."  When prompted, specify "donate@gutenberg.net" as the
+recipient, and you will be presented with PGLAF's information.  Send
+the payment as you would any other payment.
+
+Funds go directly to PGLAF via PayPal.
+
+The fee charged by PayPal for payments is 2.9% of the transaction plus
+30 cents per transaction.  (For a $100 payment, this amounts to $3.20
+or 3.2%.  For $10, the fee is $0.59 or 5.9%).
+
+PayPal accepts non-US accounts and funds.
+
+
+5. Wire transfer.  There is a fixed fee of $15 to accept a wire
+transfer to our bank account, which must be in US funds.  For medium
+and large donations, this may be more efficient than some other
+methods.  Email gbnewby@ils.unc.edu if you would like to set up a wire
+transfer.
+
+
+
+PRIVACY POLICY FOR DONATIONS
+
+In order to meet IRS tax regulations, PGLAF keeps track of the names,
+addresses, donation amounts and donation methods of non-anonymous
+donors.  We normally send a postal or email "thank you" letter when we
+receive your donation.
+
+We do not provide any information about donors to any party outside of
+PGLAF and its employees for any purpose, except as required by law.
+
+We will not send subsequent postal or electronic mail or attempt to
+phone you.  If you would like to subscribe to one of the Project
+Gutenberg email lists, to receive the monthly or weekly newsletter,
+please visit http://www.gutenberg.net for instructions.
+
+
+Most recent update: December 19, 2001
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search"
+feature at:
+
+http://promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+etexts in German, French, Italian, Bulgarian, Flemish/Dutch,
+Italian, Portuguese, Japanese, Chinese, and Welsh, plus a
+version of the Bible in Swedish.
+
+And very-recently we added our first etext in Greek.
+
+Let's do even more than the hundred eBooks we have
+presented in 17 languages.
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 12/19/01**:  4,224
+(This number includes the 34 etexts posted at the PG Australia web site.)
+
+Thru 12/19/01:  50 Weeks & 2 Days (352 days)
+                 1,175 total new etexts, yr-to-date.
+                 Weekly avg.:  23.44
+                 Daily avg:     3.32
+
+The above translates to the following;
+Our Total For The Year Is About 1,172 For 352 days,
+this is 3.33 per day or 99.89 Per 30 day month. . . .
+This Would Yield About 1,215 For The Year. . . .
+We are about 50 weeks through the year. . . .
+counting each Wednesday as ending one week.
+The 26th would be our last Newsletter, so I
+am wondering if we missed counting a week.
+52 x 7 = 364. . .so should always be 52 Wednesdays.
+
+Five years ago, in Dec 1996, we announced etext #768; this
+represented the output for the first 25 years of Project
+Gutenberg.  Five years later there are more than 4,200 etexts
+on line.
+
+***
+
+--=={ PROJECT GUTENBERG OF AUSTRALIA:  NEW POSTS }==--
+
+Four new etexts this week:
+
+Dec 2001 The Rainbow, by D H Lawrence               [DL#02][010034xx.xxx]0034A
+Dec 2001 St. Thomas Aquinas, by G K Chesterton      [GC#03][010033xx.xxx]0033A
+Dec 2001 Tales of the Long Bow, by G K Chesterton   [GC#02][010032xx.xxx]0032A
+Dec 2001 The Everlasting Man, by G K Chesterton     [GC#01][010031xx.xxx]0031A
+
+Be sure to read the "Life +50" info above.
+
+***
+
+--=={ REVISIONS, CORRECTIONS AND NEW FORMATS }==--
+
+The following file has been re-indexed to include the HTML version:
+
+Jul 2003 The South Pole, Vols 1 and 2, Roald Amundsen  [#3][7tsp12xx.xxx]4229
+Jul 2003 The South Pole, Vols 1 and 2, Roald Amundsen  [#3][8tsp12xx.xxx]4229
+[Note: The HTML version is named tspv1210h.htm and tspv1210h.zip]
+
+Correction:
+Jul 2003 Shearing in the Riverina, by Rolf Boldrewood      [shrrvxxx.xxx]4221
+                                         ^  was listed as "Rold"
+
+An improved 11th edition is available for:
+
+Jun 1998 Pride and Prejudice, by Jane Austen    [Austen #8][pandpxxx.xxx]1342
+Thanks to Andrew Sly, etext98/pandp11.txt and .zip
+
+
+
+
+
+--=={ 28 NEW U.S. POSTS }==--
+
+Jul 2003 A Yorkshire Tragedy, Shakespeare Apocrypha [ws#52][1ws52xxx.xxx]4255
+Jul 2003 Miscellanies upon Various Subjects, J. Aubrey [#1][amiscxxx.xxx]4254
+[Author's full name: John Aubrey][Michael Coker is already working on #2]
+Jul 2003 Dramatic Romances by Robert Browning [Browning #3][dramrxxx.xxx]4253
+Jul 2003 Theodore Roosevelt, by Edmund Lester Pearson      [roosexxx.xxx]4252
+Jul 2003 The Life Everlasting, Marie Corelli   [Corelli #3][everlxxx.xxx]4251
+[Subtitle:  A Reality of Romance]
+
+Jul 2003 Imperial Purple, by Edgar Saltus                  [purplxxx.xxx]4250
+Jul 2003 In the Sweet Dry and Dry, by Morley and Haley     [sweetxxx.xxx]4249
+[Author's full names:  Christopher Morley and Bart Haley]
+Jul 2003 The Problem of Ohio Mounds, by Cyrus Thomas       [omondxxx.xxx]4248
+Jul 2003 New Found Land Of Virginia, by Thomas Hariot      [7nflvxxx.xxx]4247
+Jul 2003 New Found Land Of Virginia, by Thomas Hariot      [8nflvxxx.xxx]4247
+[Full title: A Briefe and True Report of the New Found Land Of Virginia]
+Jul 2003 Beulah, by Augusta J. Evans                       [bulahxxx.xxx]4246
+
+Jul 2003 History of James the Second, by Charles James Fox [hsjmsxxx.xxx]4245
+Jul 2003 Among the Tibetans, by Isabella L. Bird  [Bird #4][amgtbxxx.xxx]4244
+[Author's Full Name:  Isabella L. Bird (Mrs. Bishop)]
+Jul 2003 Colloquies on Society, by Robert Southey[Southey2][cllscxxx.xxx]4243
+Jul 2003 Beautiful Europe - Belgium, by Joseph E. Morris   [bpblgxxx.xxx]4242
+Jul 2003 Se-quo-yah, from Harper's New Monthly, V.41       [sqoyhxxx.xxx]4241
+
+Jul 2003 Women in Love, by D.H. Lawrence       [Lawrence#2][wmnlvxxx.xxx]4240
+Jul 2003 Essay on the Principle of Population, by Malthus  [prpplxxx.xxx]4239
+[Full title: An Essay on the Principle of Population, by Thomas Malthus]
+Jul 2003 Economy of Machinery, by Charles Babbage    [CB#2][cnmmmxxx.xxx]4238
+[Full title: On the Economy Of Machinery And Manufactures]
+Jul 2003 Australian Search Party, by Charles Henry Eden    [strspxxx.xxx]4237
+Jul 2003 Dynevor Terrace(Vol. II),by Charlotte M Yonge[#16][dnvr2xxx.xxx]4236
+
+Jul 2003 Dynevor Terrace (Vol. I),by Charlotte M Yonge[#15][dnvr1xxx.xxx]4235
+Jul 2003 Correspondence of Wagner and Liszt, Volume 2  [#2][cwlv2xxx.xxx]4234
+[Francis Hueffer (translator)]
+Jul 2003 Jeanne Of The Marshes, E. Phillips Oppenheim [#11][jnmshxxx.xxx]4233
+
+
+The following completes the previously reserved section of 4101-4200:
+Jun 2003 Diary of Samuel Pepys, Diary Entire        [SP#85][sp85gxxx.xxx]4200
+Jun 2003 Diary of Samuel Pepys, 1669 N.S. Complete  [SP#84][sp84gxxx.xxx]4199
+Jun 2003 Diary of Samuel Pepys, Apr/May 1668        [SP#83][sp83gxxx.xxx]4198
+Jun 2003 Diary of Samuel Pepys, Feb/Mar 1668/69     [SP#82][sp82gxxx.xxx]4197
+Jun 2003 Diary of Samuel Pepys, January 1668/69     [SP#81][sp81gxxx.xxx]4196
+
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,227 eTexts online as of December 19, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.37 from each book,
+for Project Gutenberg to have already given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.40 when we had 4161 Etexts on Dec 5
+This "cost" is down from $2.46 when we had 4059 Etexts on Nov 1
+This "cost" is down from $2.53 when we had 3951 Etexts on Oct 3
+This "cost" is down from $2.61 when we had 3828 Etexts on Sep 5
+This "cost" is down from $2.70 when we had 3709 Etexts on Aug 1
+This "cost" is down from $2.76 when we had 3620 Etexts on Jul 4
+This "cost" is down from $2.83 when we had 3534 Etexts on Jun 6
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2
+This "cost" is down from $2.97 when we had 3367 Etexts on Apr 4
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on Apr 4
+This "cost" is down from $3.10 when we had 3225 Etexts on Mar 7
+This "cost" is down from $3.17 when we had 3150 Etexts on Feb 6
+This "cost" is down from $3.23 when we had 3100 Etexts on Jan 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on Dec 6, 2000
+
+Month     ###     Yearly Total
+12/19/01   27       1175
+12/12/01   39       1148
+12/05/01   19       1109
+Dec subTotal  85
+
+Nov Total  82       1090            11 Month Average  99.09
+Oct Total 107       1008            10 Month Average 100.80
+Sep Total 119        901             9 Month Average 100.11
+Aug Total 123        782             8 Month Average  97.75
+Jul Total  93        659             7 Month Average  94.14
+Jun Total 107        566             6 Month Average  94.33
+May Total  70        459             5 Month Average  91.80
+Apr Total  82        389             4                97.25
+Mar Total 132        307             3               102.33
+Feb Total  75        175             2                87.50
+Jan Total 100        100             1               100.00
+
+1st Qtr ending 04/04/01 (13 weeks):
+   307 total for an avg. of 23.62/wk
+2nd Qtr ending 07/04/01 (13 weeks):
+   259 total for an avg. of 19.952/wk
+3rd Qtr ending 10/03/01 (13 weeks):
+   335 total for an avg. of 25.77/wk
+
+***
+
+[Are Copyright Royalties Only Paid By The "Have-Nots???]
+
+GROUPS REACH TENTATIVE DEAL ON WEBCAST ROYALTIES
+Attorneys representing radio broadcasters, record labels and music artists
+have signed a tentative settlement in an ongoing dispute over whether radio
+broadcasters owe additional royalty payments when they put their stations'
+programming online. If the deal is finalized, it could be an important step
+toward resolving the tangle of legal issues surrounding online music. Radio
+companies currently do not pay recording firms royalties on songs they
+broadcast over the airwaves and have argued that the exemption should apply
+to online "Webcasts" as well. That issue is now on appeal. The current
+agreement depends on the U.S. Copyright Office to support arbitration to
+resolve the question of a royalty rate to be paid by Internet-only
+Webcasters who offer music online but don't own any radio stations.
+(Wall Street Journal 17 Dec 2001)
+http://interactive.wsj.com/articles/SB1008547645508673600.htm
+
+[Is This Fighting The New Bigshots Being Able To Buy In Cheap???]
+
+HEWLETT URGES HP AND COMPAQ TO CALL OFF MERGER
+Walter Hewlett, son of Hewlett-Packard co-founder William Hewlett, has sent
+a letter to the boards of both HP and Compaq, urging them to call off their
+$22.8-billion merger. "There is enormous unhappiness out there about this
+transaction. This unhappiness goes far beyond those shareholders and
+analysts that have spoken out publicly," said Hewlett in his letter. He
+warned that by pushing ahead, HP and Compaq both would suffer "serious and
+increasing adverse consequences^E Value is being lost here by both companies
+with each day that passes. The market clearly agrees." Compaq's board on
+Thursday said it strongly disagrees with Hewlett's conclusions and believes
+that the merger would create long-term shareholder value. Meanwhile, HP
+officials have suggested that Hewlett's opposition to the deal places him
+in a conflict-of-interest position, and that he should consider resigning
+from the HP board. (Financial Times 13 Dec 2001)
+http://news.ft.com/news/industries/infotechnology
+
+CONGRESS HAS LOW INTEREST IN CONSTITUENT (E-)MAIL
+A test by a New York Times reporter found that e-mail sent to Congressional
+offices is unlikely to be read. After sending messages to 65 Senate offices
+identifying herself as a reporter for the Times doing a story on e-mail
+message-handling by members of Congress, she received only 27 automated
+response and 7 other responses within two weeks. One of seven full
+responses was from Larry Neal, the deputy chief of staff for Senator Phil
+Gramm of Texas, who explained: "The communication that Sen. Gramm values
+most certainly does not arrive by wire. It is the one where someone sat
+down at a kitchen table, got a sheet of lined paper and a No. 2 pencil, and
+poured their heart into a letter." (New York Times 13 Dec 2001)
+http://partners.nytimes.com/2001/12/13/technology/circuits/13CONG.html
+
+RELEASE OF RUSSIAN PROGRAMMER
+Dmitry Sklyarov, the 27-year-old Russian programmer arrested in the U.S.
+for violating the Digital Millennium Copyright Act (DMCA) by writing and
+promoting code that could be used to evade the copy-protection features of
+the Adobe Acrobat eBook Reader, is being released, but the U.S. government
+will continue its prosecution of his employer, ElcomSoft of Moscow.
+Skylarov's cause was embraced by a worldwide collection of programmers,
+scientists, free-speech advocates and civil libertarians who organized
+"Free Dmitry" rallies. (San Jose Mercury News 14 Dec 2001)
+http://www.siliconvalley.com/docs/news/svfront/hacker121401.htm
+
+LINGUIST SAYS: RELAX ABOUT NETSPEAK
+In his new book "Language and the Internet," Welsh linguist David Crystal
+welcomes the way the Internet "shows language expanding richly in all sorts
+of directions," including instant-message-abbreviations ("RUOK" for "Are
+you okay?") and iconic abbreviations such as :) and its frowning, winking,
+and various other cousins. "A whole new medium of communication does not
+arrive very often in the history of the race. The Internet is a genuine
+third medium of communication," which will in the future "probably be the
+main way we humans communicate." He urges the language purists to relax,
+let language develop naturally, and avoid being "depressingly
+prescriptive." "If I leave out the punctuation in an e-mail, you don't say,
+'Crystal doesn't know his grammar.' You say, 'Crystal's in a hurry.'" He
+predicts that the conventions of Internet use will emerge on their own:
+"We'll learn gradually what works and what doesn't, just as we've already
+learned that if we type out a whole sentence in capital letters, it upsets
+people." (New York Times 13 Dec 2001)
+http://partners.nytimes.com/2001/12/13/technology/circuits/13NEXT.html
+
+FBI CONFIRMS DEVELOPMENT OF KEYSTROKE-CAPTURING EAVESDROP TECHNOLOGY
+The FBI has confirmed that it has under development a technology that could
+use the Internet to plant Trojan Horse software in a criminal or terrorist
+suspect's PC that would capture passwords to access the suspect's e-mail
+and other documents. An FBI official said, "Like all technology projects or
+tools deployed by the FBI it would be used pursuant to the appropriate
+legal process." (Reuters/Yahoo 12 Dec 2001)
+http://dailynews.yahoo.com/htx/nm/20011212/tc/tech_magiclantern_dc_1.html
+
+MICROSOFT FIXING SECURITY FLAW IN INTERNET EXPLORER
+Finnish security researcher Jouko Pynnonen of Oy Online Solutions says that
+Microsoft is working on a software patch to fix a security vulnerability in
+Internet Explorer versions 5, 5.5, and 6, which would make it possible for
+a malicious intruder to exploit ordinary Web page code to bypass the
+browse's system for securely handling downloaded files. A Microsoft
+spokesperson declined to discuss the status of the browser patch at this
+time. (Newsbytes 11 Dec 2001)  http://www.newsbytes.com/news/01/172878.html
+
+DISTRIBUTED COMPUTING FINDS LARGEST PRIME
+A 20-year-old Canadian man has identified the world's largest prime number
+using a desktop computer linked to a 210,000-machine quasi-supercomputer
+distributed around the globe. Michael Cameron, a participant in the Great
+Internet Mersenne Prime Search that uses the PrimeNet network system to
+perform calculations, announced his discovery that "2 to the 13,466,917th
+power minus 1" is the largest prime number. (Mersenne primes are named
+after Marin Mersenne, a French monk born in 1588 who investigated a
+particular type of prime number: 2 to the power of "p" minus one, in which
+"p" is an ordinary prime number.) The concept of distributed computing is
+not limited to the academic world. Companies such as Intel and Sun
+Microsystems use it for designing microprocessors, and the idea is closely
+linked to "grid" computing, which unites computers and storage systems into
+a single pool of resources. (CNet News.com 13 Dec 2001)
+http://news.cnet.com/news/0-1003-200-8159590.html?tag=tp_pr
+
+[Remember What I've Been Saying About Pay-Per-View???]
+
+CABLE LOOKS TO VOD FOR NEW REVENUE
+Cable TV systems are set to turn up the volume on video-on-demand in 2002,
+as they seek to boost profits while taking advantage of their
+multi-billion-dollar investment in digital TV upgrades. "How many people
+are interested in the couple of hundred extra channels (available on
+digital cable)? They need something to drive digital, and that's going to
+be VOD," says an analyst at CIBC Markets. Charter Communications is
+currently the leader in rolling out VOD, offering the service in 12 markets
+to approximately one-third of its 6.9 million customers. Charter's early
+marketing studies show that, in addition to boosting demand for digital
+services, VOD reduces churn -- the number of subscribers who drop the
+service. "It's a real differentiator for us," says Charter VP Jim
+Henderson. "It's not something that satellite (TV) can easily offer."
+Analysts say cable's efforts to lure VOD subscribers could be a
+double-edged sword. Cable firms have enough bandwidth and servers to
+accommodate 10% of their subscribers ordering VOD at the same time, and a
+surge in VOD demand would overwhelm cable network capacity. Cable's real
+problem, however, remains access to content -- Hollywood studios are
+demanding 60% of VOD revenue, as opposed to the traditional 50-50 split for
+pay-per-view movies. So far, cable firms have struck deals with only Sony's
+Columbia TriStar and Vivendi's Universal Pictures, although No. 2 cable
+operator AOL Time Warner can count on its own stable of HBO programming and
+other content for its planned subscription VOD service.
+(Investor's Business Daily 12 Dec 2001)
+http://www.investors.com/editorial/tech.asp?v=12/12
+
+FREE CELL PHONE MINUTES DWINDLING
+Free minutes -- one of the perks that's successfully enticed many people to
+sign up for cell phone service -- are slowly being phased out, as carriers
+look for ways to ease network congestion and introduce consistency to their
+nationwide calling plans. Sprint PCS recently became the latest carrier to
+shift the start time for its night calling period to 9 p.m. from 8 p.m.,
+following similar moves in many markets by Cingular Wireless and Verizon
+Wireless. The number of U.S. cell phone subscribers is nearly 130 million,
+almost double the level three years ago, and companies say their success in
+attracting users is also overloading their network capacity, causing more
+dropped calls and busy signals. By moving the start of off-peak calling
+back an hour, they're better able to keep residential and business traffic
+from overlapping. (USA Today 11 Dec 2001)
+http://www.usatoday.com/life/cyber/wireless/2001/12/11/free-cell-minutes-dry
+-up.htm
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+CONGRESS FACES DEFINING ISSUE OVER COPYRIGHT LAW
+Interactive Web radio stations may be granted the same licenses
+other radio stations have if proposed changes to the Digital
+Millennium Copyright Act are accepted by Congress. A House
+Judiciary Committee will review the proposal, which the
+Recording Industry Association of America opposes. Current law
+limits the type of radio broadcasts that recording studios must
+offer licenses to, and the Web broadcasters in the Digital Media
+Association want to broaden that definition. Metrics firm
+MeasureCast said the number of people listening to Internet
+radio in October tripled since January, and Jupiter Media Metrix
+has said 30 million consumers will have bought music online this year.
+(InternetNews.com, 13 December 2001)
+
+A WIN-WIN SITUATION DOWN AT THE LAB
+Media Lab Europe (MLE), the counterpart of the Massachusetts
+Institute of Technology's Media Lab, has set up its own
+venture capital arm to help distribute the benefits of
+research evenly between inventors and corporate sponsors.
+Companies provide the cash for the new Media Lab Ventures
+group and share in the rewards. But, by providing open access
+to funds, researchers have more freedom in their projects and
+do not feel they must shield research that could potentially
+be the base of their own startup company. As a result, MLE
+chief executive Rudolf Burger expects more licenses to come
+from the laboratory and fewer spinoffs that drain talent. MLE
+was launched in 2000 by Nicholas Negroponte, who also set up
+the U.S. Media Lab. He set up shop in Dublin, in return for
+a $32 million grant from the Irish government, which is eager
+to bolster foreign investment.  (Financial Times, 17 December 2001)
+
+
+[Meanwhile, Edupage Seems To Have Remained Less Partisan]
+
+E-TEXT FINDS ITS WAY ON CAMPUS
+The University of Phoenix will stop using textbooks in favor
+of online reading materials. The phase-out will be conducted
+over a year, affecting 95,000 students nationwide. Students
+will be required to pay $70 per course to access an online
+reference library that provides reading materials, work books,
+and syllabi. A pilot program was launched across its U.S.
+campuses last month. "We were looking to create one-stop
+shopping for our students, a way to pick up everything you
+need with just a click of the mouse," said VP of U-P metro
+Detroit Ted Blashak. Officials at Michigan's Oakland and Wayne
+State universities are also debating the use of e-texts but
+are waiting until publishers create delivery standards for
+electronic learning materials.
+(Detroit Free Press Online, 5 December 2001)
+
+GOVERNMENT E-CHIEFS WELCOME ONLINE CURRICULUM
+The United Kingdom announced a new 50-million-pound national
+e-learning project named Curriculum On-line. The government,
+software firms, and public/private broadcasters will be involved
+in the initiative. Curriculum On-line aims to provide online
+teaching resources on all educational subjects. In addition, the
+project would help boost U.K. broadband services, said E-Commerce
+Minister Douglas Alexander. Teachers would be able to offer
+customized education programs for each student, he said. A
+five-point plan created for the undertaking includes a library
+of e-learning materials, access to commercial products, funds
+for purchasing digital resources, and a content advisory board.
+(netimperative.com, 11 December 2001)
+
+CHINESE TO BECOME MOST-USED LANGUAGE ON WEB
+By 2007, Chinese will surpass English as the most-used language
+on the Internet, reports a United Nations World Intellectual
+Property Organization (WIPO) conference in Geneva focusing on
+multilingual domain names. Currently, English speakers compose
+a slight majority of the world's 460 million Web users, but by
+2002, non-English speakers will hold the majority. While domain                 You have been reading excerpts from Edupage:
+names have been issued mostly in English and in Latin-based                     If you have questions or comments about Edupage,
+characters around the world, domain names are now available in                  send e-mail to: edupage@educause.edu
+Chinese, Japanese, Russian, and Arabic scripts, with accents of                 To SUBSCRIBE to Edupage, send a message to
+Europe's romance languages now also available.                                  LISTSERV@LISTSERV.EDUCAUSE.EDU
+(Financial Times, 7 December 2001)                                              and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+   gmonthly (for monthly newsletters)
+   gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+         subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+         subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+         unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+***
+
+Minds are like parachutes - they only function when open.
+
+***
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_12_19.txt" target="_blank" rel="nofollow">pgweekly_2001_12_19.txt</a>

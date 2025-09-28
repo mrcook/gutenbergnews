@@ -1,0 +1,943 @@
+---
+params:
+  id: 2062
+title: "PG Weekly Newsletter: Part 1 (2003-10-29)"
+date: 2003-10-29T14:47:28+00:00
+author: Michael Cook
+layout: post
+url: /20031029/pg-weekly-newsletter-2003-10-29-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_October_29.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, October 29, 2003*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971*****
+
+! I lost touch with someone working on a Project Gutenberg Press Release!
+
+Please contact hart@pobox.com. . .my apologies, can't find your email....
+
+
+
+                          eBook Milestones
+
+
+           We're 1.54% Of The Way From 10,000 To 20,000!!!
+
+
+                    10154 eBooks As Of Today!!!
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 17/53 Year History, We Have Now Averaged About 311 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+           We Are Averaging About 380 Per Month This Year!!!
+
+
+ By The Way, It's Been About 1.02 Billion Seconds Since The First eBook!!!
+
+
+
+***  HOT Requests!!!
+
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+Volunteers Needed For Some Harder Reformatting Than Usual
+
+Please look at this URL, and see what we can use.  We have permission
+for all of them.  Reformatting to plain text may be a challenge.
+
+ http://www.gallup.unm.edu/~smarandache/eBooks-otherformats.htm
+ http://www.gallup.unm.edu/~smarandache/eBooksLiterature.htm
+
+
+***
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+    6 New From PG Australia [Australian, Canadian Copyright Etc.]
+    80 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby &lt;gbnewby AT pglaf.org&gt; if you would like
+more information.
+
+***
+
+We need someone who can confirm the publication date of:
+Fairy-Faith in Celtic Countries, first published around 1911.
+
+***
+
+!!!
+
+We need someone who knows the "zip -9" high compression!!!
+
+!!!
+
+***
+
+I am working on trying to collect and convert some public domain folk tunes
+to ABC notation.  Could use some help tracking down public domain versions
+of the melodies or proof that these songs are in the public domain.  Songs
+I'm working on at present include:
+I Know Where I'm Going
+Simple Gifts
+She Moved Throught The Fair
+A Sailor Courted a Farmer's Daughter (aka Constant Lovers)
+The Fisher Who Died in His Bed
+Ufros Alienu
+If anyone's interesting in converting folk songs to a digital public
+domain format and would like to help or if you want to contact me, you can
+do so through the mailing list at
+http://groups.yahoo.com/group/pdsongs
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test DVD here right now!!!  Nearly all
+of our first 9,000 eBooks, and multiple formats!
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+
+*** Progress Report
+
+    In the first 9.60 months of this year, we produced 3333 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 3,333 eBooks!
+
+                That's 42 WEEKS as Compared to ~31 Years!
+
+                   86   New eBooks This Week
+                   65   New eBooks Last Week
+                  471   New eBooks This Month [October]
+
+                  388   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 3411   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 7102   New eBooks Since Start Of 2001
+                        That's Only 33 Months! ~200/mo
+
+               10,154   Total Project Gutenberg eBooks
+                6,208   eBooks This Week Last Year
+                 ====
+                3,946   New eBooks In Last 12 Months
+
+                  288   eBooks From Project Gutenberg of Australia
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  3411 New eBooks So Far in 2003
+
+              It took us 31 years for the first 3411 !
+
+       That's the 43 WEEKS of 2003 as Compared to ~31 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #3411
+
+Sep 2002 1001 Nights[Arabian Nights], V16 by Richard Burton[g1001xxx.xxx] 3450
+. . .
+Sep 2002 1001 Nights[Arabian Nights], V1, by Richard Burton[11001xxx.xxx] 3435
+Sep 2002 Epical Songs, by Pencho Slaveykov[P. Slaveykov #2][epsngxxx.xxx] 3433
+[This Bulgarian eBook uses the Cyrillic Windows 1251 character set]
+Sep 2002 Quotations From the Works of Mark Twain, by Widger[dwqmtxxx.xxx] 3432
+[Authors Full Name: David Widger. . .#1 in our series of Widger's Quotations]
+Sep 2002 The Gadfly, by E. L. Voynich                      [gdflyxxx.xxx] 3431
+
+Sep 2002 The Suitors of Yvonne, by Rafael Sabatini    [#14][styvnxxx.xxx] 3430
+Sep 2002 Saint George for England, by G. A. Henty          [stgfexxx.xxx] 3429
+Sep 2002 The Two Vanrevels, by Booth Tarkington[Booth T#11][vnrvlxxx.xxx] 3428
+Sep 2002 Kilo, by Ellis Parker Butler                      [kilo1xxx.xxx] 3427
+Sep 2002 On Books and The Housing of Them by W.E. Gladstone[obhotxxx.xxx] 3426
+
+Sep 2002 Samantha at Saratoga, by Josiah Allen's Wife      [samanxxx.xxx] 3425
+[Author's Name is Marietta Holley]
+Sep 2002 For the Term of His Natural Life, by Marcus Clarke[fthnlxxx.xxx] 3424
+Sep 2002 The Strolling Saint, by Rafael Sabatini[Rafael#13][strstxxx.xxx] 3423
+Sep 2002 The Life of the Fly, by J. Henri Fabre  [Fabre #4][tlflyxxx.xxx] 3422
+Sep 2002 Bramble-Bees and Others, by J. Henri Fabre [JHF#3][brmbbxxx.xxx] 3421
+
+Sep 2002 Vindication of Rights of Woman/Mary Wollstonecraft[vorowxxx.xxx] 3420
+[Title:  A Vindication of the Rights of Woman, by Mary Wollstonecraft]
+[Alternate:  Vindication of Rights of Women, by Mary Wollstonecraft Godwin]
+Sep 2002 Rebecca Mary, by Annie Hamilton Donnell           [rbmryxxx.xxx] 3419
+Sep 2002 Captain Brassbound's Conversion by G. Bernard Shaw[brscnxxx.xxx] 3418
+[Author:  George Bernard Shaw:  he preferred just Bernard Shaw]
+Sep 2002 The Fortunes of Oliver Horn, by F. Hopkinson Smith[tfoohxxx.xxx] 3417
+Sep 2002 William Ewart Gladstone, by James Bryce           [gladsxxx.xxx] 3416
+
+Sep 2002 The South Pole, Volume 2, by Roald Amundsen       [?tspv2xx.xxx] 3415
+Sep 2002 The South Pole, Volume 1, by Roald Amundsen       [?tspv1xx.xxx] 3414
+Sep 2002 The Blazed Trail, by Stewart Edward White     [#5][blztrxxx.xxx] 3413
+Sep 2002 The Golden Chersonese and The Way Thither, by Bird[gctwtxxx.xxx] 3412
+[Author:  Isabella L. Bird (Mrs. Bishop)]
+Sep 2002 The Stokesley Secret, by Charlotte M. Yonge[CMY10][stkscxxx.xxx] 3411
+
+Sep 2002 The American Spirit in Literature, by Bliss Perry [aslitxxx.xxx] 3410
+Sep 2002 The American Spirit in Literature, by Bliss Perry [aslitxxx.xxx] 3410
+[Title: The American Spirit in Literature, A Chronicle of Great Interpreters]_
+Sep 2002 Barchester Towers, by Anthony Trollope[Trollope11][barchxxx.xxx] 3409
+Sep 2002 Shame of Motley, by Raphael Sabatini[Sabatini #12][shmotxxx.xxx] 3408
+Sep 2002 The Spell of Egypt, by Robert Hichens [Hichens #3][sgyptxxx.xxx] 3407
+Sep 2002 Ragged Lady, by William Dean Howells Vol 2 [WH#52][wh2rlxxx.xxx] 3406
+
+Sep 2002 Ragged Lady, by William Dean Howells Vol 1 [WH#51][wh1rlxxx.xxx] 3405
+Sep 2002 April Hopes, by William Dean Howells       [WH#50][whahpxxx.xxx] 3404
+Sep 2002 The Register, by William Dean Howells      [WH#49][whregxxx.xxx] 3403
+Sep 2002 The Parlor Car, by William Dean Howells    [WH#48][whplrxxx.xxx] 3402
+Sep 2002 The Elevator, by William Dean Howells      [WH#47][whelvxxx.xxx] 3401
+
+
+Aug 2002 Entire PG Edition of William Dean Howells  [WH#47][whewkxxx.xxx] 3400
+[This file contains all those we have done, and will do, will be updated....]
+
+
+***
+
+Today Is Day #301 of 2003
+This Completes Week #43
+   70 Days/10 Weeks To Go  [We get 53 Wednesdays this year]
+ 9846 Books To Go To #20,000 [18 months from 2 weeks ago]
+      We're hoping to do this in 80 to 100 weeks
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #2 Of Our *SECOND* 10,000 eBooks
+
+   79   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 43 weeks of this year, we have produced 3411 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 3411 eBooks!!!
+
+         That's 43 WEEKS as Compared to ~31 YEARS!!!
+
+
+With  10,154 eBooks online as of October 29, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.98 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.61 when we had 6208 eBooks A Year Ago
+
+Can you imagine 10,000 books each costing $.63 less a year later???
+Or. . .would this say it better?
+Can you imagine 10,000 books each costing 1/3 less a year later???
+
+At 10,154 eBooks in 32 Years and 4.60 Months We Averaged
+      311 Per Year   [We do more per than that month these days!]
+       26 Per Month
+      .85 Per Day
+
+At 3,411 eBooks Done In The 301 Days Of 2003 We Averaged
+     11.3 Per Day
+     79.3 Per Week
+    387.6 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+From Newsscan:
+
+
+[The Enemy Within. . .Oscar Voters Are The New Enemy Of The MPAA???]
+[It Just Makes You Wonder If The Jack Valenti's Are Really in Control]
+
+SCREENERS CODED TO PREVENT MOVIE PIRACY
+A compromise has been reached that will make possible a carefully controlled
+distribution of free cassettes to Oscar voters for private screening during
+the upcoming awards season. The movies will be numbered VHS cassettes rather
+than easily copied DVDs, and they will be coded for tracing if they are sold
+or pirated. Academy members will sign contracts taking responsibility for
+any "screeners" they accept, and making them subject to possible banishment
+from the Academy if the screeners are later found on the black market.
+(Washington Post 24 Oct 2003)
+http://www.washingtonpost.com/wp-dyn/articles/A9524-2003Oct23.html
+
+EXTENDING THE MUSIC LIBRARY
+Two students at MIT have developed an electronic music library that allows
+anyone on campus to access 3,500 CDs. Called the Library Access to Music
+Project (LAMP), the system lets a student go to its Web site to select a CD
+and have it delivered through the campus closed-circuit cable TV to the
+student's dorm room or other campus site. One of the students who conceived
+of LAMP explains: "We had a library in school that closed at 7 p.m. The
+school had this great music in the library, but you couldn't get there. I
+was thinking, how could we get students better access to this library?" In
+2001, the two creators of LAMP received a grant from iCampus, a
+Microsoft-backed alliance with MIT. (San Jose Mercury News 27 Oct 2003)
+http://www.siliconvalley.com/mld/siliconvalley/7113917.htm
+
+ELECTRONIC CIVIL DISOBEDIENCE AT SWARTHMORE
+Students at Swarthmore College unhappy with a maker of electronic
+voting machines have begun an "electronic civil disobedience" campaign.
+Diebold Election Systems has been criticized for voting systems that
+have been described as full of security vulnerabilities. In March,
+15,000 internal Diebold memos leaked to the press indicated that the
+company knew of the problems but continued to sell the systems to
+states. The memos have been posted on a number of Web sites, both
+inside and outside the United States, and Diebold has been issuing
+cease and desist letters to sites that post the memos. The students at
+Swarthmore involved in the protest believe Diebold is improperly using
+the Digital Millennium Copyright Act to keep the public from seeing the
+memos and have pledged to move the memos from computer to computer as
+Diebold tracks them down. Luke Smith, a sophomore at the college, said,
+"They're using copyright law as a means of suppressing information
+that needs to be public."
+Wired News, 21 October 2003
+http://www.wired.com/news/business/0,1367,60927,00.html
+
+APPLE iTUNES DOES WINDOWS
+Apple is expanding its popular iTunes music download service into Windows
+territory, promising a wider selection of songs and some new features to
+maintain its lead in an increasingly competitive market. The launch was
+accompanied by the usual Apple glitz -- CEO Steve Jobs chatted via remote
+link-up with U2 lead man Bono and the Rolling Stones' Mick Jagger in a
+prelude to a live performance by singer-songwriter Sarah McLachlan. "It's
+like the pope of software meeting up with the Dali Lama of integration,"
+gushed Bono -- referring to the iTunes software and Apple's integrated
+online music store. Analysts say that iTunes faces stiff competition in the
+Windows space, but that its flexibility to download tunes onto multiple
+devices gives it an edge. "There's going to be a lot of jockeying for
+position in the next 12 months," says a Forrester Research analyst. "But I
+think iTunes is a real winner because it has the portable player, the
+jukebox and the store all together." (Reuters 16 Oct 2003)
+news.excite.com/tech/article/id/329433|technology|10-16-2003::17:32|reuters.
+html
+
+CHALLENGE TO THE WEB WEAVED BY MICROSOFT
+The U.S. Justice Department and 19 states have complained to U.S. District
+Judge Colleen Kollar-Kotelly about a design feature of Windows that compels
+consumers who buy music online to use only Microsoft's Internet Explorer
+browser and guides them to a Microsoft Web site. The dispute may become the
+first test of the Microsoft antitrust settlement approved by a federal
+court in October 2002. In response, a Microsoft executive said, "We believe
+that the use of Internet Explorer by the Shop-for-Music-Online link in
+Windows is consistent with the design rules established by the consent
+decree, and we will continue to work with the government to address any
+concerns. At issue is a design feature in Windows XP called "Shop for Music
+Online," which lets consumers purchase compact discs from retailers over
+the Internet, but when consumers click the link to buy music, Windows opens
+Microsoft's browser software even if consumers have indicated that they
+prefer using rival browser software. (AP/San Jose Mercury News 20 Oct 2003)
+http://www.siliconvalley.com/mld/siliconvalley/news/editorial/7060791.htm
+
+MICROSOFT TOUTS SELF-DESTRUCTING E-MAIL
+Microsoft's new Office 2003 software, set to debut on Tuesday, will include
+an e-mail feature that can be used to time-stamp messages, directing them
+to delete themselves on a certain date. In addition, senders will be able
+to restrict forwarding and printing of messages by the recipient. The new
+Information Rights Management software could run into opposition from U.S.
+regulators, who view destroying e-mail as on a par with shredding
+documents. Earlier this year, Morgan Stanley was fined $1.65 million for
+failing to keep e-mail records, despite the company's claim that it due to
+oversight rather than a deliberate attempt to evade financial
+investigation. (BBC News 19 Oct 2003)
+http://news.bbc.co.uk/1/hi/business/3205080.stm
+
+INTERCEPTING E-MAIL IS A CRIME
+An Arizona woman was sentenced to 60 days of home detention for
+intercepting at least 215 e-mail messages directed to her husband's
+ex-wife. Law enforcement officials said Angel Lee fraudulently obtained the
+ex-wife's user name and password, allowing her to log in and read mail.
+Ex-wife Duongladde Ramsey said Lee's actions were comparable to breaking
+into her house and reading her diary, and the judge agreed, saying Lee's
+penalty is a warning to others who might be tempted to spy on others'
+e-mail accounts. "Privacy is still a cherished value," said U.S. District
+Judge Richard P. Matsch. (AP 19 Oct 2003)
+http://apnews.excite.com/article/20031019/D7U97UCG0.html
+
+INFO TECHNOLOGY HELPS WOMEN ENTREPRENEURS
+The overall number of microbusinesses (companies with no paid employees)
+increased by 9% between 1997 and 2001, and the number of those owned by
+women increased by 14% over the same few years. By exploiting such
+technology as PCs, fax machines, and color printers to start
+information-based companies, women are changing the face of traditional
+mom-and-pop ventures. "This is definitely not your father's small
+business," says consultant Terri Lonier. Information technology has
+liberated many women who want to leave corporate jobs for self-employment
+in the same field. One example of the trend: Jennifer Lawson, who started a
+TV production consulting firm in her Washington home, equipped with
+video-screening equipment. Another: Jaime Caris of Las Vegas, who has
+become a virtual administrative assistant, offering clients across the U.S.
+assistance with word processing, accounting and other services from her
+home office. (AP/USA Today 19 Oct 2003)
+http://www.usatoday.com/tech/techinvestor/2003-10-19-momndad_x.htm
+
+VERISIGN SHEDS NETWORK SOLUTIONS
+VeriSign is selling its Network Solutions domain registrar business to
+Pivotal Private Equity for about $100 million, but plans to retain control
+over the .com and .net database that Network Solutions operates. The domain
+registration business has essentially become a commodity service as more
+registrars have entered the field. VeriSign has been in the news recently
+for its controversial Site Finder service, which redirects all mistyped
+URLs to a search page that it operates. It suspended the service under
+pressure from ICANN, which expressed concern over the technical
+ramifications of the Site Finder service, but VeriSign said Wednesday that
+it plans to restart the service after having found "no identified security
+or stability problems" in the system. (CNet News.com 16 Oct 2003)
+http://news.com.com/2102-1025_3-5092316.html?tag=st_util_print
+
+TEXT-SEARCHING OR TEXT-MINING?
+Whereas Google and other Web search engines retrieve information and
+display links to documents that contain certain keywords, text-mining
+programs dig deeper in order to categorize information, make links between
+seemingly unconnected documents, and provide visual maps that lead down new
+pathways of exploratory learning. Unlike data mining, text mining works on
+unstructured data -- such as e-mail messages, news articles, internal
+reports, phone call transcripts, and so on. A good example of the problem
+it seeks to solve is suggested by the comment of researcher Randall S.
+Murch, who says: "I was an FBI agent for 20 years. And I have yet to see
+anyone who is able to model the way an agent thinks and works through an
+investigation." And a good example of the solution offered by text-mining
+is its use in the 1980s University of Chicago information scientist Don R.
+Swanson in studying the medical literature on migraines. Starting with the
+word "migraine," he downloaded abstracts from 2,500 articles from Medline
+and noticed a reference to a neural phenomenon called "spreading
+depression" -- which prompted him to look for articles with that term in
+their titles, which in turn led him to the discovery that magnesium was
+often mentioned as preventing this spreading depression. Thus, as a result
+of text-mining he was able to hypothesize a link between headaches and
+magnesium deficiency -- a link that was later confirmed by actual
+experiments.  (New York Times  16 Oct 2003)
+http://partners.nytimes.com/2003/10/16/technology/circuits/16mine.html
+
+[TeraBYTES Compared To GigaBITS. . .Didn't Those People Learn UNITS???]
+[That's .5+ GigaBYTES per second. . .meaning it took ~2 kiloseconds, or
+over half an hour. . .no WONDER they didn't want to be specific. . . ;-)]
+
+RESEARCH CENTERS SET NEW RECORD FOR SPEEDY DATA TRANSFER
+Two of the world's top research centers -- CERN (the European Organization
+for Nuclear Research) and the California Institute of Technology -- say
+they've set a new world record for speed in sending data across the
+Internet: 1.1 terabytes at 5.44 gigbits per second. That's more than 20,000
+times as fast as a typical home broadband connection and would be
+equivalent to sending a full-length DVD in seven seconds. The previous top
+speed -- 2.38 gigabits per second -- was achieved last February by a joint
+team from CERN, Caltech, Los Alamos and Stanford. (Wired.com 15 Oct 2003)
+http://www.wired.com/news/infostructure/0,1377,60833,00.html?tw=wn_techhead_4
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+APPLE EXPANDS INTO WINDOWS MUSIC
+Apple Computer CEO Steve Jobs on Thursday unveiled his company's
+expansion of its iTunes music service to include Windows computers.
+Jobs also announced deals Apple has struck with America Online (AOL)
+and PepsiCo. Under the first arrangement, AOL will direct users of its
+music site to Apple's iTunes store, where they can purchase music with
+their AOL memberships. Jobs and AOL CEO Jonathan Miller said the deal
+was "exclusive." PepsiCo and Apple will launch a marketing campaign
+that features 100 million free iTunes songs, given away through special
+caps on PepsiCo bottles. Apple's iTunes has been extremely successful
+as a Macintosh-based service, and Jobs said the company has sold 1.4
+million of its iPod music players. With the Windows-based version of
+its service, Apple will compete with online music services including
+RealNetworks, MusicNet, and BuyMusic.com.
+New York Times, 17 October 2003 (registration req'd)
+http://www.nytimes.com/2003/10/17/technology/17APPL.html
+
+QUICK START FOR WINDOWS ITUNES
+Early reports from Apple Computer's foray into Windows-based online
+music indicate exuberance among consumers for the company's iTunes
+service. Apple has sold more than one million songs to iTunes for
+Windows customers since the service was launched last week, and
+computer users have reportedly downloaded more than one million copies
+of the Windows version of iTunes software in the past three days. Apple
+launched iTunes for Macintosh-based computers in April of this year,
+and since then the company has sold 14 million songs at 99 cents each.
+The company said it hopes to have sold 100 million songs by the first
+anniversary of the service next April.
+BBC, 20 October 2003
+http://news.bbc.co.uk/2/hi/technology/3207984.stm
+
+
+[Of Course, No Mention That There Was No Evidence That HE Did It, Either]
+
+HACKER'S ACQUITTAL RAISES CONCERNS OVER TROJAN HORSE DEFENSE
+Some security experts fear that a British teen's acquittal on charges
+of hacking into the computer system of the port of Houston will weaken
+future prosecutions of computer crimes. Aaron Caffrey was charged with
+a 2001 attack that left the port's computer system crippled. Although
+Caffrey acknowledged that the attack originated from his computer, he
+argued in court that a trojan horse program had been installed on his
+computer without his knowledge. That application, Caffrey insisted,
+allowed someone to remotely launch the attack from his computer.
+Although no evidence of such an application was found on Caffrey's
+computer, the jury ruled in his favor. Graham Cluley, senior technology
+consultant for Sophos, said of the jury's decision that even without
+evidence of a trojan horse application, defendants in similar cases
+"might still be able to successfully claim that they were not
+responsible for what their computer does."
+BBC, 17 October 2003
+http://news.bbc.co.uk/2/hi/technology/3202116.stm
+
+
+[It's OK For Academics To Look At This Information, Just Not OK For YOU]
+
+
+COMPROMISE REACHED ON DATABASE-PROTECTION BILL
+A House of Representatives subcommittee has passed a bill that would
+extend strong intellectual-property protections to databases after
+opposition from three academic groups was withdrawn. The Database and
+Collections of Information Misappropriation Act, introduced last week
+by Howard Coble (R-N.C.), had stirred objections from academic groups,
+which saw it as a threat to researchers. The original version of the
+bill included a vague exception for academics, but the version that
+passed the subcommittee this week has a much stronger exception.
+According to the revised bill, "no liability shall be imposed under
+this act" on higher education and research institutions or their
+employees. With that language, the Association of American
+Universities, the American Council on Education, and the National
+Association of State Universities and Land-Grant Colleges have ended
+their opposition to the bill and assumed a neutral position. Other
+groups, including the National Academies, the U.S. Chamber of Commerce,
+and academic-library organizations, continue to oppose the bill.
+Chronicle of Higher Education, 17 October 2003 (sub. req'd)
+http://chronicle.com/prm/daily/2003/10/2003101701t.htm
+
+FEDS SEEK REVERSAL OF COMPUTER ADMINISTRATOR'S CONVICTION
+Federal prosecutors have asked an appeals court to overturn the
+conviction of Bret McDanel on charges that he intentionally caused
+damage to the computer system of his former employer, Tornado
+Development Inc.  While an employee of Tornado, McDanel discovered a
+flaw that could have compromised customer accounts. He notified the
+company, but it refused to fix the flaw. After leaving the company,
+McDanel sent several e-mails to customers, warning them of the flaw.
+Because the e-mails caused Tornado's computer system to crash and
+resulted in monetary losses, McDanel was tried and convicted to 16
+months in federal prison. McDanel argued that he did not intend to
+cause damage to Tornado's system, and federal prosecutors conceded
+they had no evidence that the damage caused was intentional.
+Prosecutors have admitted the error and requested that the conviction
+be overturned, though McDanel has already served his sentence.
+San Jose Mercury News, 15 October 2003
+http://www.siliconvalley.com/mld/siliconvalley/news/editorial/7020049.htm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+From In The News
+
+
+BAY AREA LEADS REVOLT AGAINST SCIENTIFIC JOURNALS
+from The San Francisco Chronicle
+
+More than five centuries after Gutenberg's printing press revolutionized the
+transmission of scientific information, the multibillion- dollar scientific
+publishing industry is quaking to two Bay Area-led revolts.
+
+This month, a nonprofit venture founded by Nobel laureates with the help of
+a $9 million startup grant launched the first of two new scientific journals
+that will make all content freely available online. Print versions of the
+journals will be available for a subscription fee.
+
+The goal of the initiative, called the Public Library of Science, is to
+force a new standard of "open public access" to scientific research, which,
+after all, is largely funded by taxpayer dollars. As it is now, scientific
+journals demand a hefty subscriber fee and limit online access to only those
+who pay. In another move, two prominent UCSF scientists called last week for
+a global boycott of six molecular biology journals, accusing the publisher,
+Reed Elsevier, the Goliath of science publishing, of charging exorbitant new
+subscription fees for online access.
+&lt;http://snurl.com/1z9v&gt;
+
+For accurate instructions on how to subscribe or unsubscribe to the
+listserv, follow this link: &lt;http://www.mediaresource.org/instruct.htm&gt;
+
+
+***
+
+More Headline News Mostly Avoided By The Media
+
+
+AUTHORS GUILD EXPRESSES CONCERN OVER AMAZON SEARCH TOOL
+The Authors Guild has expressed concern over the remarkable
+new Amazon search that conducts full text searches of
+120,000 books.  The group says that the book publishers did
+not have the right to make the contents of the books
+available without the authors' permission.
+http://www.nytimes.com/2003/10/27/business/media/27amazon.html
+
+***
+
+THE WARMING IS GLOBAL BUT THE LEGISLATING, IN THE U.S., IS ALL LOCAL
+from The New York Times
+
+WASHINGTON, Oct. 28 - Motivated by environmental and economic concerns,
+states have become the driving force in efforts to combat global warming
+even as mandatory programs on the federal level have largely stalled.
+
+At least half of the states are addressing global warming, whether through
+legislation, lawsuits against the Bush administration or programs initiated
+by governors.
+
+In the last three years, state legislatures have passed at least 29 bills,
+usually with bipartisan support. The most contentious is California's 2002
+law to set strict limits for new cars on emissions of carbon dioxide, the
+gas that scientists say has the greatest role in global warming.
+http://snurl.com/2rjr
+
+***
+
+SPYWARE AND THE LIKE
+
+Most operating systems send information about what you are doing
+back to the makers of the operating systems, as do places such as
+Google, even to the point of making these reports invisible to
+both the user and to SpyWare and AdWare programs specifically
+designed to help you stop such activities.
+
+Not only are most or all of people web surfing blogged in manners
+only accessible by THEM and not my YOU, but even your SEARCH info
+is blogged, and you can't get rid of it.
+
+Suppose you are concerned that files containing the dread "xyzzy"
+are on your computer and you run a search for "xyzzy" and it comes
+back without finding any dread "xyzzy" on your computer.
+
+Actually, this is a lie. . . .
+
+Because the search program wrote down that you searched for "xyzzy"
+and if you run the search again, you will see it. . .but it is in a
+file you can't edit, delete, overwrite, or anything else. . .!!!
+
+It's kind of like the government "Freedom of Information" file. . .
+If you ask for it, and you don't have one, they will tell you that
+you don't have one. . .but it's a lie. . .they just made one saying
+that you are the very suspicious kind of person who wants to know.
+
+***
+
+Pre-Eminent Re-Domain
+
+Apparently the new tactic of the property tax man to Eminent Domain
+privately owned residences and then sell them to large corporations
+who will tear them down and building something priced, and taxed!,
+for many times the price, has not only traversed the United States,
+but is also now traversing the world.
+
+Earlier this month one of the TV news magazines did a special report
+on a community near Cleveland that had eminent domained neighborhoods
+that it had labelled "blighted" just for the purpose of eminent domain.
+These houses turned out to be anything BUT blighted, being solidly in
+the upper middle class, well kept up, and whose residents had lived in
+them for decades.
+
+The official "blighted" label simply meant that the garage and bathroom
+facilities had not been "updated" to include at least two bathrooms and
+storage space for two cars. . .even when there were only two residents
+who had a need for only one car and one bathroom.
+
+When push came to shove, it turned out that the major's house was also
+included in the "blighted" description, but that the neighborhoods in
+question simply were in better locations with a better view. . .which
+would then be ruined by the new high priced developments.
+
+Then today I heard an NPR report that the same thing was happening in
+Singapore, and that the person defending the residents against these
+eminent domain attacts had been arrested for telling state secrets to
+the media.  Under Chinese laws this apparently means talking to the
+media about anything the government doesn't want known, including the
+new strategic initiatives to eminent domain the middle class out of
+the way so the upper class can move in and pay higher taxes.
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_10_29_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_10_29_part_1.txt</a>

@@ -1,0 +1,102 @@
+---
+params:
+  id: 2091
+title: "PG Other Newsletter: 12500 Milestone (2004-04-30)"
+date: 2004-04-30T22:34:27+00:00
+author: Michael Cook
+layout: post
+url: /20040430/pg-other-newsletter-2004-04-30-12500-milestone/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>Today Project Gutenberg is over 1/4 of the way from 10,000 eBooks to 20,000 !
+
+
+Contrary to all the pundits' prolific predictions over the years,
+Project Gutenberg not only has not gone under, but has continued
+it's growth on a curve in excess of Moore's Law, as in this graph:
+
+
+    0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22  #####
+MO OctNovDec-JanFebMarAprMayJunJulAugSepOctNovDec-JanFebMarAprMayJunJulAug
+   2003/2003--2004/2004/2004/2004/2004/2004/2004--/2005/2005/2005/2005/2005
+                12.5K&gt;04/04                            Apr 30, 2004      12.5K
+               12K&gt;03/04                               Mar 24, 2004      12K
+          11.5K&gt;02/04                                  Feb 25, 2004      11.5K
+        11K&gt;01/04                                      Jan 14, 2004      11K
+10.5K&gt;11/03                                            Nov 26, 2003      10.5K
+MO OctNovDec-JanFebMarAprMayJunJulAugSepOctNovDec-JanFebMarAprMayJunJulAug MON
+   2003/2003--2004/2004/2004/2004/2004/2004/2004--/2005/2005/2005/2005/2005
+    0  1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22  #####
+
+
+*Please note the graph above is in MONTHS, while the graph below is in YEARS!*
+
+
+[Note:  the " / " in the dates marks the portion of the month or year--
+&gt;From 12/90 - 12/00 the "/" marks the exact quarter of the year in which
+Project Gutenberg reached that number of eBooks.  From 2001 forward these
+are sometimes off by a space or two, due to lack of space on the graph.]
+
+
+*Please note the graph above is in MONTHS, while the graph below is in YEARS!*
+
+
+YR 1990/1991/1992/1993/1994/1995/1996/1997/1998/1999/2000/2001/2002/2003 ^####
+          October 15, 2003  &gt;&gt;&gt;                                  10K&gt;10/03 10K
+                                                              9,500&gt;9/03 9,500
+                                                              9,000&gt;8/03 9,000
+                                                             8,500&gt;7/03  8,500
+                                                            8,000&gt;5/03   8,000
+                                                           7,500&gt;3/03    7,500
+                                                          7,000&gt;1/03     7,000
+                                                         6,500&gt;12/02     6,500
+                                                        6,000 &gt;9/02      6,000
+                                                       5,500 &gt;7/02       5,500
+                                                      5,000 &gt;4/02        5,000
+                                                     4,500 &gt;2/02         4,500
+                                                    4,000&gt;10/01          4,000
+                                                   3,500&gt;5/01            3,500
+                                                3,000&gt;12/00              3,000
+                                              2,500 &gt; 8/00               2,500
+                                          2,000 &gt;12/99                   2,000
+                                     1,500 &gt;10/98                        1,500
+                                1,000 &gt;8/97                              1,000
+                            500 &gt;4/96                                      500
+              100 &gt;12/93                &lt;&lt;&lt;December 10, 1993               100
+10 &gt;12/90                                                                   10
+YR 1990/1991/1992/1993/1994/1995/1996/1997/1998/1999/2000/2001/2002/2003 ^####
+
+
+
+We should also add that the quality of the Project Gutenberg eBooks has been
+increasing over the same period; in terms of initial accuracy, format options
+and continuous error correction.  In addition, Project Gutenberg now provides
+eBooks in 31 languages, with Project Gutenberg of Europe targeting over 50.
+
+The 30th language at Project Gutenberg was Romanian.
+
+Project Gutenberg of Australia has already released 350 eBooks.
+
+Project Gutenbergs of Canada and Luxembourg are opening soon, with new
+entries from all the European Union nations expected in the near future.
+
+If the growth rate listed above continues for only one more decade,
+Project Gutenberg will be offering over one million books in 2012,
+and the next step will be to translate these million eBooks into
+100 different languages.
+
+By the time this is all complete, perhaps by Project Gutenberg's
+50th Anniversary in 2021, we hope to provide 10 million eBooks
+from all over the world, and present them in 100 languages,
+for a total 1 billion eBooks, and we hope to distribute these
+to 1 billion readers, 15% of the world population.
+
+If we succeed, we will give away one quintillion eBooks.
+
+At present, even if we have only reached just over 1% of the world,
+we have already given away over a trillion eBooks.</pre>
+
+<a href="/nl_archives/2004/other_2004_04_30_12500_milestone.txt" target="_blank" rel="nofollow">other_2004_04_30_12500_milestone.txt</a>

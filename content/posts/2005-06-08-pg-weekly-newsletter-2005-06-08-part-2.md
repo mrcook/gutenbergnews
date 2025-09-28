@@ -1,0 +1,581 @@
+---
+params:
+  id: 2264
+title: "PG Weekly Newsletter: Part 2 (2005-06-08)"
+date: 2005-06-08T11:44:46+00:00
+author: Michael Cook
+layout: post
+url: /20050608/pg-weekly-newsletter-2005-06-08-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 08 Jun 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 56 New U.S. eBooks this week
+   - 5 New eBooks at Project Gutenberg of Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+  http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+  http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+  http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 08 Jun 2005: 16425 (incl. 451 Aus.).
+
+Last week the Total Count was 16364, including 446 at PG of Australia.
+This week we added 61 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Parisians in the Country, by Honore de Balzac                             7929
+ [Contents:
+    The Illustrious Gaudissart,
+    The Muse of the Department]
+ [Link: http://www.gutenberg.org/7/9/2/7929 ]
+ [Files: 7929.txt]
+
+The Lock And Key Library, by Various                                      2038
+ [Subtitle: Classic Mystery And Detective Stories, Modern English]
+ [Editor: Julian Hawthorne]
+ [Contents:
+     Rudyard Kipling
+       My Own True Ghost Story
+       The Sending of Dana Da
+       In the House of Suddhoo
+       His Wedded Wife
+     A. Conan Doyle
+       A Case of Identity
+       A Scandal in Bohemia
+       The Red-Headed League
+     Egerton Castle
+       The Baron's Quarry
+     Stanley J. Weyman
+       The Fowl in the Pot
+     Robert Louis Stevenson
+         The Pavilion on the Links
+     Wilkie Collins
+       The Dream Woman
+           The First Narrative
+           The Second Narrative
+           The Third Narrative
+           Fourth (and Last) Narrative
+     Anonymous
+       The Lost Duchess
+       The Minor Canon
+       The Pipe
+       The Puzzle
+       The Great Valdez Sapphire]
+ [Updated edition: etext00/sbmea10.txt]
+ [Link: http://www.gutenberg.org/2/0/3/2038 ]
+ [Files: 2038.txt; 2038-8.txt; 2038-h.htm]
+
+Paz, by Honore de Balzac                                                  1369
+ [Translated by Katharine Prescott Wormeley]
+ [Updated edition of: etext98/pzhdb10.txt]
+ [Link: http://www.gutenberg.org/1/3/6/1369 ]
+ [Files: 1369.txt]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Title fixed:
+
+The Horror of the Heights, by Arthur Conan Doyle                         15949C
+  [Tr.: Anders Blixt]
+  [Language: Interlingua]
+  [Link: http://www.gutenberg.org/1/5/9/4/15949 ]
+  [Files: 15949.txt; ]
+
+History and Collection of Voyages and Travels, Vol. III., by Robert Kerr 12325
+ [Full title: A General History and Collection of Voyages and Travels,
+  Volume III.]
+ [Subtitle: Arranged in Systematic Order: Forming a Complete History of
+  the Origin and Progress of Navigation, Discovery, and Commerce, by Sea
+  and Land, from the Earliest Ages to the Present Time:
+  History Of The Discovery Of America, And Of Some Of The Early Conquests
+  In The New World]
+ [Link: http://www.gutenberg.net/1/2/3/2/12325 ]
+ [Files: 12325-h.htm]
+
+An html version has been provided:
+
+General History and Collection of Voyages and Travels, Vol. II, by Kerr  10803
+ [Full author: Robert Kerr]
+ [Subtitle: Arranged in Systematic Order: Forming a Complete History of the
+  Origin and Progress of Navigation, Discovery, and Commerce, by Sea and Land,
+  from the Earliest Ages to the Present Time]
+ [Link: http://www.gutenberg.net/1/0/8/0/10803 ]
+ [Files: 10803-h.htm]
+
+An html version has been provided.
+
+Voyages and Travels, Vol. 1, by Robert Kerr                              10600
+ [Full title: A General History and Collection of Voyages and Travels, Vol. 1]
+ [Subtitle: Forming A Complete History Of The Origin And Progress Of
+  Navigation, Discovery, And Commerce, By  Sea And Land, From The
+  Earliest Ages To The Present Time.]
+ [Link: http://www.gutenberg.net/1/0/6/0/10600 ]
+ [Files: 10600-h.htm]
+
+-=-=-=-=[  56 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Oliver Twist, by Charles Dickens                                         16023
+  [Language: French]
+  [Link: http://www.gutenberg.org/1/6/0/2/16023 ]
+  [Files: 16023-8.txt; 16023-r.rtf]
+
+Les conteurs &#65533; la ronde, by Charles Dickens                              16022
+  [Translator: Am&#65533;d&#65533;e Pichot]
+  [Language: French]
+  [Link: http://www.gutenberg.org/1/6/0/2/16022 ]
+  [Files: 16022-8.txt; 16022-r.rtf]
+
+Cantique de No&#65533;l, by Charles Dickens                                     16021
+  [Language: French]
+  [Link: http://www.gutenberg.org/1/6/0/2/16021 ]
+  [Files: 16021-8.txt; 16021-r.rtf]
+
+Le grillon du foyer, by Charles Dickens                                  16020
+  [Translator: Am&#65533;d&#65533;e Chaillot]
+  [Language: French]
+  [Link: http://www.gutenberg.org/1/6/0/2/16020 ]
+  [Files: 16020-8.txt; 16020-r.rtf]
+
+Phelim Otoole's Courtship and Other Stories, by William Carleton         16019
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Contents:]
+  [Phelim Otoole's Courtship]
+  [Wildgoose Lodge]
+  [Tubber Derg; Or, The Red Well.]
+  [Neal Malone]
+  [Art Maguire; Or, The Broken Pledge.]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16019 ]
+  [Files: 16019.txt; 16019-h.htm]
+
+The Black Prophet: A Tale Of Irish Famine, by William Carleton           16018
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16018 ]
+  [Files: 16018.txt; 16018-h.htm]
+
+The Poor Scholar, by William Carleton                                    16017
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16017 ]
+  [Files: 16017.txt; 16017-h.htm]
+
+Going To Maynooth, by William Carleton                                   16016
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16016 ]
+  [Files: 16016.txt; 16016-h.htm]
+
+Phil Purcel, The Pig-Driver and Other Stories, by William Carleton       16015
+  [Full title: Phil Purcel, The Pig-Driver; The Geography Of An Irish Oath;]
+  [The Lianhan Shee]
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16015 ]
+  [Files: 16015.txt; 16015-h.htm]
+
+The Hedge School; The Midnight Mass; The Donagh, by William Carleton     16014
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16014 ]
+  [Files: 16014.txt; 16014-h.htm]
+
+Station; The Party Fight And Funeral; The Lough Derg Pilgrim, Carleton   16013
+  [Full author: William Carleton]
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16013 ]
+  [Files: 16013.txt; 16013-h.htm]
+
+The Ned M'Keown Stories, by William Carleton                             16012
+  [Subtitle: Traits And Stories Of The Irish Peasantry, The Works of]
+  [William Carleton, Volume Three]
+  [Contents:]
+  [Ned M'Keown.]
+  [The Three Tasks.]
+  [Shane Fadh's Wedding.]
+  [Larry M'Farland's Wake.]
+  [The Battle Of The Factions.]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16012 ]
+  [Files: 16012.txt; 16012-h.htm]
+
+The Emigrants Of Ahadarra, by William Carleton                           16011
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16011 ]
+  [Files: 16011.txt; 16011-8.txt; 16011-h.htm]
+
+The Tithe-Proctor, by William Carleton                                   16010
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/1/16010 ]
+  [Files: 16010.txt; 16010-h.htm]
+
+Valentine M'Clutchy, The Irish Agent, by William Carleton                16009
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16009 ]
+  [Files: 16009.txt; 16009-h.htm]
+
+Ellen Duncan; and The Proctor's Daughter, by William Carleton            16008
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16008 ]
+  [Files: 16008.txt; 16008-h.htm]
+
+The Dead Boxer, by William Carleton                                      16007
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16007 ]
+  [Files: 16007.txt; 16007-h.htm]
+
+Lha Dhu; Or, The Dark Day, by William Carleton                           16006
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16006 ]
+  [Files: 16006.txt; 16006-h.htm]
+
+Jane Sinclair; Or, The Fawn Of Springvale, by William Carleton           16005
+  [Subtitle: The Works of William Carleton, Volume Two]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16005 ]
+  [Files: 16005.txt; 16005-h.htm]
+
+The Evil Eye; Or, The Black Spector, by William Carleton                 16004
+  [Subtitle: The Works of William Carleton, Volume One]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16004 ]
+  [Files: 16004.txt; 16004-h.htm]
+
+Black Baronet; or, The Chronicles Of Ballytrain, by William Carleton     16003
+  [Subtitle: The Works of William Carleton, Volume One]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16003 ]
+  [Files: 16003.txt; 16003-h.htm]
+
+Fardorougha, The Miser, by William Carleton                              16002
+  [Subtitle: The Works of William Carleton, Volume One]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16002 ]
+  [Files: 16002.txt; 16002-h.htm]
+
+Willy Reilly, by William Carleton                                        16001
+  [Subtitle: The Works of William Carleton, Volume One]
+  [Illustrator: M. L. Flanery]
+  [Link: http://www.gutenberg.org/1/6/0/0/16001 ]
+  [Files: 16001.txt; 16001-8.txt; 16001-h.htm]
+
+The Ship of Stars, by Arthur Thomas Quiller-Couch                        16000
+  [Author AKA: Q]
+  [Link: http://www.gutenberg.org/1/6/0/0/16000 ]
+  [Files: 16000.txt; ]
+
+The Theater (1720), by Sir John Falstaffe                                15999
+  [Link: http://www.gutenberg.org/1/5/9/9/15999 ]
+  [Files: 15999.txt; 15999-8.txt; ]
+
+Alfred Russel Wallace: Letters and Reminiscences Vol 2, James Marchant   15998
+  [Full title: Alfred Russel Wallace: Letters and Reminiscences Vol 2]
+  [(of 2)]
+  [Link: http://www.gutenberg.org/1/5/9/9/15998 ]
+  [Files: 15998.txt; 15998-8.txt; 15998-h.htm]
+
+Alfred Russel Wallace: Letters and Reminiscences, Vol 1, James Marchant  15997
+  [Full title: Alfred Russel Wallace: Letters and Reminiscences, Vol. 1]
+  [(of 2)]
+  [Link: http://www.gutenberg.org/1/5/9/9/15997 ]
+  [Files: 15997.txt; 15997-8.txt; 15997-h.htm]
+
+Notes and Queries, Number 32, June 8, 1850, by Various                   15996
+  [Link: http://www.gutenberg.org/1/5/9/9/15996 ]
+  [Files: 15996.txt; 15996-8.txt; 15996-h.htm]
+
+Salambo, by Gustave Flaubert                                             15995
+  [Subtitle: Ein Roman aus Alt-Karthago]
+  [Translator: Artur Schurig]
+  [Language: German]
+  [Link: http://www.gutenberg.org/1/5/9/9/15995 ]
+  [Files: 15995-8.txt; 15995-h.htm]
+
+A Reckless Character, And Other Stories, by Ivan Turgenev                15994
+  [Contents:]
+  [A Reckless Character]
+  [The Dream]
+  [Father Alexy&#65533;i's Story]
+  [Old Portraits]
+  [The Song Of Love Triumphant]
+  [Clara M&#65533;litch]
+  [Poems In Prose]
+  [Translator: Isabel Hapgood]
+  [Link: http://www.gutenberg.org/1/5/9/9/15994 ]
+  [Files: 15994.txt; 15994-8.txt]
+
+25 vuotta, by Kasimir Leino                                              15993
+  [Subtitle: Valikoima runoja]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/1/5/9/9/15993 ]
+  [Files: 15993-8.txt]
+
+Come Rack! Come Rope!, by Robert Hugh Benson                             15992
+  [Link: http://www.gutenberg.org/1/5/9/9/15992 ]
+  [Files: 15992.txt; 15992-8.txt]
+
+Japhet, In Search Of A Father, by Frederick Marryat                      15991
+  [Link: http://www.gutenberg.org/1/5/9/9/15991 ]
+  [Files: 15991.txt; 15991-8.txt; 15991-h.htm]
+
+Akten voor en na de Heilige Communie, by De Gibergues                    15990
+  [Subtitle: Voor de kleine kinderen]
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/1/5/9/9/15990 ]
+  [Files: 15990-8.txt; 15990-h.htm]
+
+The Fatal Glove, by Clara Augusta Jones Trask                            15989
+  [Author AKA: Clara Augusta]
+  [Clara Augusta Jones Trask (1839-1905) often wrote under the pseudonym]
+  ["Clara Augusta".]
+  [Link: http://www.gutenberg.org/1/5/9/8/15989 ]
+  [Files: 15989.txt; 15989-8.txt; 15989-h.htm; ]
+
+Ennen ja nyky&#65533;&#65533;n 1, by Hanna Ongelin                                     15988
+  [Subtitle: Kuvauksia naisen el&#65533;m&#65533;st&#65533;]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/1/5/9/8/15988 ]
+  [Files: 15988-8.txt]
+
+Kuvauksia ja unelmia, by Fredrika Runeberg                               15987
+  [Subtitle: Valikoima kertomuksia]
+  [Translator: Ilta]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/1/5/9/8/15987 ]
+  [Files: 15987-8.txt]
+
+Th' Barrel Organ, by Edwin Waugh                                         15986
+  [Link: http://www.gutenberg.org/1/5/9/8/15986 ]
+  [Files: 15986.txt; ]
+
+Deephaven and Selected Stories and Sketches, by Sarah Orne Jewett        15985
+  [Link: http://www.gutenberg.org/1/5/9/8/15985 ]
+  [Files: 15985.txt; 15985-h.htm]
+
+Washington Irving, by Charles Dudley Warner                              15984
+  [Link: http://www.gutenberg.org/1/5/9/8/15984 ]
+  [Files: 15984.txt; 15984-8.txt; 15984-h.htm]
+
+Read-Aloud Plays, by Horace Holley                                       15983
+  [Link: http://www.gutenberg.org/1/5/9/8/15983 ]
+  [Files: 15983.txt; 15983-8.txt; 15983-h.htm]
+
+Woman As She Should Be, by Mary E. Herbert                               15982
+  [Subtitle: or, Agnes Wiltshire]
+  [Link: http://www.gutenberg.org/1/5/9/8/15982 ]
+  [Files: 15982.txt; 15982-8.txt; 15982-h.htm]
+
+Si Tandang Basio Macunat, by Fray Miguel Lucio y Bustamante              15981
+  [Language: Tagalog]
+  [Link: http://www.gutenberg.org/1/5/9/8/15981 ]
+  [Files: 15981-8.txt; 15981-h.htm]
+
+Pag Susulatan nang Dalauang Binibini na si Urbana at ni Feliza, Castro   15980
+  [Full author: Modesto  de Castro]
+  [Language: Tagalog]
+  [Link: http://www.gutenberg.org/1/5/9/8/15980 ]
+  [Files: 15980-8.txt; 15980-h.htm]
+
+Miss Caprice, by St. George Rathborne                                    15979
+  [Link: http://www.gutenberg.org/1/5/9/7/15979 ]
+  [Files: 15979.txt; 15979-h.htm]
+
+The Broken Soldier and the Maid of France, by Henry Van Dyke             15978
+  [Ill: Frank E. Schoonover  ]
+  [Language: English ]
+  [Link: http://www.gutenberg.org/dirs/1/5/9/7/15978 ]
+  [Files: 15978.txt; 15978-h.htm; ]
+
+Frank and Fanny, by Mrs. Clara Moreton                                   15977
+  [Link: http://www.gutenberg.org/1/5/9/7/15977 ]
+  [Files: 15977.txt; 15977-h.htm]
+
+Puck of Pook's Hill, by Rudyard Kipling                                  15976
+  [Illustrator: Harold Robert Millar]
+  [Link: http://www.gutenberg.org/1/5/9/7/15976 ]
+  [Files: 15976.txt; 15976-8.txt; 15976-h.htm]
+
+Camera Obscura, by Nicolaas Beets (AKA Hildebrand)                       15975
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/1/5/9/7/15975 ]
+  [Files: 15975-8.txt; 15975-h.htm]
+
+De Pop van Elisabeth Gehrke, by Dina Mollinger-Hooyer                    15974
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/1/5/9/7/15974 ]
+  [Files: 15974-8.txt; 15974-h.htm]
+
+Punch, Or The London Charivari, VOL. 103, November 26, 1892, by Various  15973
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.org/1/5/9/7/15973 ]
+  [Files: 15973.txt; 15973-8.txt; 15973-h.htm]
+
+The Record of a Regiment of the Line, by M. Jacson                       15972
+  [Subtitle: Being a Regimental History of the 1st Battalion Devonshire]
+  [Regiment during the Boer War 1899-1902]
+  [Link: http://www.gutenberg.org/1/5/9/7/15972 ]
+  [Files: 15972.txt; 15972-8.txt; 15972-h.htm]
+
+Polly of the Hospital Staff, by Emma C. Dowd                             15971
+  [Ill.: Irma Deremeaux]
+  [Link: http://www.gutenberg.org/1/5/9/7/15971 ]
+  [Files: 15971.txt; 15971-h.htm; ]
+
+The Great Round World, Vol. 1, No. 44, by Various                        15970
+  [Full title: The Great Round World and What Is Going On In It, Vol.]
+  [1, No. 44, September 9, 1897]
+  [Subtitle: A Weekly Magazine for Boys and Girls]
+  [Editor: Julia Truitt Bishop]
+  [Link: http://www.gutenberg.org/1/5/9/7/15970 ]
+  [Files: 15970.txt; 15970-8.txt; 15970-h.htm]
+
+Mestarin nuuskarasia, by Robert Kiljander                                15969
+  [Subtitle: Yksin&#65533;yt&#65533;ksinen huvin&#65533;ytelm&#65533;]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/1/5/9/6/15969 ]
+  [Files: 15969-8.txt]
+
+The Grounds of Christianity, by George Bethune English                   15968
+  [Full title: The Grounds of Christianity Examined by Comparing The New]
+  [Testament with the Old]
+  [Link: http://www.gutenberg.org/1/5/9/6/15968 ]
+  [Files: 15968.txt; 15968-8.txt; 15968-r.rtf; 15968-pdf.pdf]
+
+
+-=-=-=-=[ 5 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Jun 2005 Helen Vardon's Confession, by R Austin Freeman    [050051xx.xxx] 0446A
+
+Jun 2005 When Rogues Fall Out, by R Austin Freeman         [050050xx.xxx] 0445A
+
+Jun 2005 The Shadow of the Wolf, by R Austin Freeman       [050049xx.xxx] 0444A
+
+Jun 2005 The Jacob Street Mystery, by R Austin Freeman     [050048xx.xxx] 0443A
+
+Jun 2005 The Great Portrait Mystery, by R Austin Freeman   [050047xx.xxx] 0442A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                       [ This Week's Other Stuff ]
+=============================================================================
+
+This week "Washington Irving" was posted as #15984.  It is a semi-duplicate
+book as a previous version #3101 already exists, but from a different print
+edition.
+
+~ ~ ~
+
+I am opposed to millionaires, but it would be dangerous to offer me the
+position. - Mark Twain
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_06_08_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_06_08_part_2.txt</a>

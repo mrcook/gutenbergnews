@@ -1,0 +1,472 @@
+---
+params:
+  id: 2258
+title: "PG Weekly Newsletter: Part 2 (2005-05-18)"
+date: 2005-05-18T20:55:02+00:00
+author: Michael Cook
+layout: post
+url: /20050518/pg-weekly-newsletter-2005-05-18-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 18 May 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 38 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 18 May 2005: 16248 (incl. 438 Aus.).
+
+Last week the Total Count was 16209, including 437 at PG of Australia.
+This week we added 39 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Nina Balatka, by Anthony Trollope                                         8897
+   [Link: http://www.gutenberg.org/dirs/8/8/9/8897 ]
+   [Files: 8897.txt; 8897-h.htm]
+
+The Way We Live Now,  by Anthony Trollope                                 5231
+   [Link: http://www.gutenberg.org/dirs/5/2/3/5231 ]
+   [Files: 5231.txt; 5231-8.txt; 5231-h.htm]
+
+A House-Boat on the Styx, by John Kendrick Bangs                          2618
+   [Link: http://www.gutenberg.org/2/6/1/2618 ]
+   [Updated edition of: etext01/hstyx10.txt]
+   [Files: 2618.txt; 2618-h.htm]
+
+The Caged Lion, by Charlotte M. Yonge                                     2573
+   [Link: http://www.gutenberg.org/2/5/7/2573 ]
+   [Updated edition of: etext01/cgdln10.txt]
+   [Files: 2573.txt; 2573-h.htm]
+
+How to Fail in Literature, by Andrew Lang                                 2566
+   [Link: http://www.gutenberg.org/2/5/6/2566 ]
+   [Updated edition of: etext01/fllit10.txt]
+   [Files: 2566.txt; 2566-h.htm]
+
+An Accursed Race, by Elizabeth Gaskell                                    2531
+   [Link: http://www.gutenberg.org/2/5/3/2531 ]
+   [Updated edition of: etext01/accrc10.txt]
+   [Files: 2531.txt; 2531-h.htm]
+
+My Lady Ludlow, by Elizabeth Gaskell                                      2524
+   [Link: http://www.gutenberg.org/2/5/2/2524 ]
+   [Updated edition of: etext01/ldyld10.txt]
+   [Files: 2524.txt; 2524-h.htm]
+
+A Dark Night's Work, by Elizabeth Gaskell                                 2522
+   [Link: http://www.gutenberg.org/2/5/2/2522 ]
+   [Updated edition of: etext01/drknw10.txt]
+   [Files: 2522.txt; 2522-h.htm]
+
+Lizzie Leigh, by Elizabeth Gaskell                                        2521
+   [Link: http://www.gutenberg.org/2/5/2/2521 ]
+   [Files: 2521.txt; 2521-h.htm]
+   [Updated edition of: etext01/lzlgh10.txt]
+
+Dr. Livingstone's Expedition to the Zambesi, by David Livingstone         2519
+   [Title: A Popular Account of Dr. Livingstone's Expedition to the Zambesi
+    and Its Tributaries]
+   [Subtitle: And of the Discovery of the Lakes Shirwa and Nyassa
+    (1858-1864)]
+   [Link: http://www.gutenberg.org/2/5/1/2519 ]
+   [Updated edition of: etext01/zambs10.txt]
+   [Files: 2519.txt; 2519-h.htm]
+
+The Sleeping Car, by William D. Howells                                   2506
+   [Subtitle: A Farce]
+   [Link: http://www.gutenberg.org/2/5/0/2506 ]
+   [Updated edition of: etext01/slpcr10.txt]
+   [Files: 2506.txt; 2506-h.htm]
+
+Lost Face, by Jack London                                                 2429
+   [Link: http://www.gutenberg.org/2/4/2/2429 ]
+   [Updated edition of: etext00/lstfc10.txt]
+   [Files: 2429.txt; 2429-h.htm]
+
+The Muse of the Department, by Honore de Balzac                           1912
+   [Translated by James Waring]
+   [Updated edition of: etext99/msdpt11.txt]
+   [Link: http://www.gutenberg.org/1/9/1/1912 ]
+   [Files: 1912.txt]
+
+Modeste Mignon, by Honore de Balzac                                       1482
+   [Translated by Katharine Prescott Wormeley]
+   [Updated edition of: etext98/mdmgn10.txt]
+   [Link: http://www.gutenberg.org/1/4/8/1482 ]
+   [Files: 1482.txt]
+
+Letters on Literature, by Andrew Lang                                     1395
+   [Link: http://www.gutenberg.org/1/3/9/1395 ]
+   [Updated edition of: etext98/ltlit10.txt]
+   [Files: 1395.txt; 1395-h.htm]
+
+Historical Lectures and Essays, by Charles Kingsley                       1360
+   [Link: http://www.gutenberg.org/1/3/6/1360 ]
+   [Updated edition of: etext98/hstle10.txt]
+   [Files: 1360.txt; 1360-h.htm]
+
+The Ancien Regime, by Charles Kingsley                                    1335
+   [Link: http://www.gutenberg.org/1/3/3/1335 ]
+   [Updated edition of: etext98/anrgm10.txt]
+   [Files: 1335.txt; 1335-h.htm]
+
+An Essay on Comedy, by George Meredith                                    1219
+   [Subtitle: And the Uses of the Comic Spirit]
+   [Link: http://www.gutenberg.org/1/2/1/1219 ]
+   [Updated edition of: etext98/esycm10.txt]
+   [Files: 1219.txt; 1219-h.htm]
+
+The Jolly Corner, by Henry James                                          1190
+   [Link: http://www.gutenberg.org/1/1/9/1190 ]
+   [Updated edition of: etext98/jllyc10.txt]
+   [Files: 1190.txt; 1190-h.htm]
+
+The Lesson of the Master, by Henry James                                   898
+   [Link: http://www.gutenberg.org/8/9/898 ]
+   [Updated edition of: etext97/tlotm10.txt]
+   [Files: 898.txt; 898-h.htm]
+
+Winesburg, Ohio, by Sherwood Anderson                                      416
+   [Link: http://www.gutenberg.org/4/1/416 ]
+   [Files: 416.txt]
+
+Far from the Madding Crowd, by Thomas Hardy                                107
+   [Link: http://www.gutenberg.org/dirs/1/0/107 ]
+   [Files: 107.txt; 107-8.txt; 107-h.htm]
+
+
+Reposted in HTML format at PG of Australia:
+May 2005 Lord Minto, A Memoir, by John Buchan              [050026xx.xxx] 0421A
+   [http://gutenberg.net.au/ebooks05/0500261h.html ]
+
+-=-=-=-=[  38 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Love Conquers All, by Robert C.  Benchley                                15851
+   [Link: http://www.gutenberg.org/1/5/8/5/15851 ]
+   [Files: 15851.txt; 15851-8.txt; 15851-h.htm]
+
+Iphigenia in Tauris, by Johann Wolfgang von Goethe                       15850
+   [Translator: Anna Swanwick]
+   [Link: http://www.gutenberg.org/1/5/8/5/15850 ]
+   [Files: 15850.txt; 15850-8.txt; 15850-0.txt; 15850-h.htm]
+
+Timon d'Athenes, by William Shakespeare                                  15849
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/4/15849 ]
+   [Files: 15849-8.txt; 15849-h.htm]
+
+La Comedie des Meprises, by William Shakespeare                          15848
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/4/15848 ]
+   [Files: 15848-8.txt; 15848-h.htm]
+
+Jules Cesar, by William Shakespeare                                      15847
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/4/15847 ]
+   [Files: 15847-8.txt; 15847-h.htm]
+
+Beaucoup de Bruit pour Rien, by William Shakespeare                      15846
+   [Translator: François Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/4/15846 ]
+   [Files: 15846-8.txt; 15846-h.htm]
+
+Florante at Laura, by Francisco Baltazar                                 15845
+   [Commentator: Carlos Ronquillo]
+   [Language: Tagalog]
+   [Link: http://www.gutenberg.net/1/5/8/4/15845 ]
+   [Files: 15845-8.txt; 15845-h.htm]
+
+Escal-Vigor, by Georges Eekhoud                                          15844
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/4/15844 ]
+   [Files: 15844-8.txt; 15844-r.rtf]
+
+Slippy McGee, Sometimes Known as the Butterfly Man, Marie Conway Oemler  15843
+   [Link: http://www.gutenberg.org/1/5/8/4/15843 ]
+   [Files: 15843.txt; 15843-8.txt; 15843-0.txt; 15843-h.htm]
+
+Valtaset, by Arvid Jarnefelt                                             15842
+   [Subtitle: 3-näytöksinen näytelmä]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/5/8/4/15842 ]
+   [Files: 15842-8.txt]
+
+Leonie of the Jungle, by Joan Conquest                                   15841
+   [Link: http://www.gutenberg.net/1/5/8/4/15841 ]
+   [Files: 15841.txt; 15841-8.txt]
+
+Lippincott's Magazine, December, 1885, by Various                        15840
+   [Link: http://www.gutenberg.net/1/5/8/4/15840 ]
+   [Files: 15840.txt; 15840-8.txt; 15840-h.htm]
+
+The Rebel of the School, by Mrs. L. T. Meade                             15839
+   [Link: http://www.gutenberg.net/1/5/8/3/15839 ]
+   [Files: 15839.txt; 15839-8.txt; 15839-h.htm]
+
+The Atlantic Monthly, Vol. 12, No. 72, October, 1863, by Various         15838
+   [Link: http://www.gutenberg.net/1/5/8/3/15838 ]
+   [Files: 15838.txt; 15838-8.txt; 15838-h.htm]
+
+Jerusalem, by Selma Lagerlï¿½f                                             15837
+   [Author: Introduction by Henry Goddard Leach]
+   [Tr.: Velma Swanston Howard]
+   [Link: http://www.gutenberg.org/1/5/8/3/15837 ]
+   [Files: 15837.txt; 15837-8.txt; ]
+
+Expositions of Holy Scripture, by Alexander Maclaren                     15836
+   [Subtitle: Ezekiel, Daniel, and the Minor Prophets. ]
+   [St Matthew Chapters I to VIII]
+   [Link: http://www.gutenberg.org/1/5/8/3/15836 ]
+   [Files: 15836.txt; 15836-8.txt]
+
+William Lilly's History of His Life and Times, by William Lilly          15835
+   [Subtitle: From the Year 1602 to 1681]
+   [Editor: Elias Ashmole]
+   [Link: http://www.gutenberg.org/1/5/8/3/15835 ]
+   [Files: 15835.txt; 15835-8.txt; 15835-h.htm]
+
+The Book of Joyous Children, by James Whitcomb Riley                     15834
+   [Illustrator: J. W. Vawter]
+   [Link: http://www.gutenberg.org/1/5/8/3/15834 ]
+   [Files: 15834.txt; 15834-h.htm]
+
+Scientific American Supplement, No. 441, June 14, 1884., by Various      15833
+   [Link: http://www.gutenberg.org/1/5/8/3/15833 ]
+   [Files: 15833.txt; 15833-8.txt; 15833-h.htm]
+
+Vallankumouksen vyöryssä, by Elvira Willman                              15832
+   [Subtitle: Novelli]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/5/8/3/15832 ]
+   [Files: 15832-8.txt; 15832-h.htm]
+
+The Scientific American Boy, by A. Russell Bond                          15831
+   [Subtitle: The Camp at Willow Clump Island]
+   [Link: http://www.gutenberg.org/1/5/8/3/15831 ]
+   [Files: 15831.txt; 15831-doc.doc; 15831-pdf.pdf]
+
+Three Years in Europe, by William Wells Brown                            15830
+   [Author: Memoir of William Wells Brown by William Farmer]
+   [Subtitle: Places I Have Seen and People I Have Met]
+   [Link: http://www.gutenberg.org/1/5/8/3/15830 ]
+   [Files: 15830.txt; 15830-8.txt; 15830-h.htm; ]
+
+Memories, by Fannie A. (Mrs.) Beers                                      15829
+   [Subtitle: A Record of Personal Experience and Adventure During ]
+   [Four Years of War]
+   [Link: http://www.gutenberg.org/1/5/8/2/15829 ]
+   [Files: 15829.txt; 15829-8.txt; 15829-h.htm]
+
+The Great Round World, Vol. 1, No. 37, by Various                        15828
+   [Full title: The Great Round World and What Is Going On In It, Vol. 1,]
+   [No. 37, July 22, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/8/2/15828 ]
+   [Files: 15828.txt; 15828-8.txt; 15828-h.htm]
+
+The Great Round World, Vol. 1, No. 34, by Various                        15827
+   [Full title: The Great Round World and What Is Going On In It, Vol. 1,]
+   [No. 34, July 1, 1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.org/1/5/8/2/15827 ]
+   [Files: 15827.txt; 15827-8.txt; 15827-h.htm]
+
+Uncle Noah's Christmas Inspiration, by Leona Dalrymple                   15826
+   [Ill.: Charles L. Wrenn]
+   [Link: http://www.gutenberg.org/1/5/8/2/15826 ]
+   [Files: 15826.txt; 15826-h.htm; ]
+
+New National Fourth Reader, by Charles J. Barnes and J. Marshall Hawkes  15825
+   [Link: http://www.gutenberg.org/1/5/8/2/15825 ]
+   [Files: 15825.txt; 15825-8.txt; 15825-h.htm; ]
+
+Notable Events of the Nineteenth Century, by Various                     15824
+   [Editor: John Clark Ridpath]
+   [Subtitle: Great Deeds of Men and Nations and the Progress of the World]
+   [Link: http://www.gutenberg.org/1/5/8/2/15824 ]
+   [Files: 15824.txt; 15824-8.txt; 15824-h.htm; ]
+
+Voyages abracadabrants du gros Phileas, by Olga de Pitray                15823
+   [Illustrator: Mme. de la Fargue]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/2/15823 ]
+   [Files: 15823-8.txt; 15823-h.htm]
+
+The Faithful Steward, by Sereno D. Clark                                 15822
+   [Subtitle: Or, Systematic Beneficence an Essential of Christian]
+   [Character]
+   [Link: http://www.gutenberg.org/1/5/8/2/15822 ]
+   [Files: 15822.txt; ]
+
+Elsa Finne I-II, by Axel Lundegard                                       15821
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/5/8/2/15821 ]
+   [Files: 15821-8.txt]
+
+A Book For The Young, by Sarah French                                    15820
+   [Link: http://www.gutenberg.net/1/5/8/2/15820 ]
+   [Files: 15820.txt; 15820-8.txt; 15820-h.htm]
+
+The Atlantic Monthly, Vol. 13, No. 76, February, 1864, by Various        15819
+   [Link: http://www.gutenberg.net/1/5/8/1/15819 ]
+   [Files: 15819.txt; 15819-8.txt; 15819-h.htm]
+
+The Melting of Molly, by Maria Thompson Daviess                          15818
+   [There are two separate and significantly different versions of this]
+   [text. This is the non-illustrated British magazine version. The]
+   [illustrated American novel version was just posted as e-book #15817.]
+   [Link: http://www.gutenberg.org/1/5/8/1/15818 ]
+   [Files: 15818.txt; 15818-8.txt; 15818-h.htm; ]
+
+The Melting of Molly, by Maria Thompson Daviess                          15817
+   [Ill.: R. M. Crosby]
+   [There are two separate and significantly different versions of this]
+   [text. This is the illustrated American novel publication.]
+   [Link: http://www.gutenberg.org/1/5/8/1/15817 ]
+   [Files: 15817.txt; 15817-8.txt; 15817-h.htm; ]
+
+La fabrique de crimes, by Paul H.C. Feval                                15816
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/1/15816 ]
+   [Files: 15816-8.txt; 15816-r.rtf]
+
+Les tendres menages, by Paul Jean Toulet                                 15815
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/8/1/15815 ]
+   [Files: 15815-8.txt; 15815-h.htm]
+
+Lauluja ja ballaadeja, by Robert Burns                                   15814
+   [Translator: Valter Juva]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/5/8/1/15814 ]
+   [Files: 15814-8.txt]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+May 2005 The Paradoxes of Mr Pond, by G K Chesterton       [050042xx.xxx] 0437A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+ERRATA:
+
+On the May 4th Part II newsletter book number 15678 was listed twice.  The
+latter listing, "The House that Jill Built," is the correct listing.
+
+~ ~ ~
+
+Habit is habit and not to be flung out of the window by any man, but
+coaxed downstairs a step at a time. - Mark Twain
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_05_18_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_05_18_part_2.txt</a>

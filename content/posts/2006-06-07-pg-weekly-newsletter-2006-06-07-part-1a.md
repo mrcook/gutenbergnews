@@ -1,0 +1,690 @@
+---
+params:
+  id: 2407
+title: "PG Weekly Newsletter: Part 1a (2006-06-07)"
+date: 2006-06-07T13:55:34+00:00
+author: Michael Cook
+layout: post
+url: /20060607/pg-weekly-newsletter-2006-06-07-part-1a/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Jun  7 09:36:56 2006
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Jun  7 09:36:59 2006
+Subject: [gweekly] Oops!  PT1a NOT PT1b Weekly Project Gutenberg Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0606070934560.32059@pglaf.org&gt;
+
+pt1a5.506
+pt1b5.506
+Weekly_June 7.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, June 7, 2006 PT1***
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971*******
+
+*
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   15 New This Week From PG Australia [Australian, Canadian Copyright Etc.]
+    2 New This Week From PGEu [European Copyrights, Life + 50 and 70]
+    0 New This Week From PG PrePrints
+   66 New This Week To Public Domain eBooks Under US Copyright
+   83 New This Week [Including PG Australia, PG Europe and PrePrints]
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                         *eBook Milestones*
+
+           Distributed Proofreaders Passes 8,500 eBook Mark!!!
+
+            19,621 eBooks As Of Today At These Four PG Sites
+
+                        389 to go to 20,000!!!
+
+                19,129 via gutenberg.org   [+79]
+                   646 Australian eBooks   [+15] [Included in above line]
+                   318 Gutenberg Europe     [+2] [Including after July 4]
+                   168 PG   PrePrint Site   [+0] [Including after July 4]
+                    83 Total New Books This Week
+                19,615 Grand Total of all four sites
+                19,621 [via our automated program]
+                       [Please note we have several counting methods,
+                       and they often differ by several book that we
+                       have to hunt down by hand to reconcile.]
+
+                   ~98% of the Way to 20,000
+
+
+      ***562 eBooks Averaged Per Year Since July 4, 1971***
+
+             16,553 New eBooks Since The Start Of 2001
+
+           That's ~259 eBooks per Month for ~64.00 Months
+
+            1,473 New eBooks in 2006 at These Four Sites
+
+            37 New eBooks From Distributed Proofreaders
+             8,531 total from Distributed Proofreaders
+              Since October, 2000 [Details in PT1B]
+              [Currently over 36,000 DP volunteers]
+
+             We Averaged ~339 eBooks Per Month In 2004
+             We Averaged ~248 eBooks Per Month In 2005
+                      [Including PG Australia]
+
+          We Are Averaging ~296 eBooks Per Month This Year
+                [Including PGAu, PGEu and PrePrints]
+
+All Four Sites Combined Are Averaging 70 eBooks Per Week In 2006
+                           73 This Week
+                          333 This Month
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2003 to 2006 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.8 years from Oct. 2003 to May. 2006 from 10,000 to 19,600
+
+
+[The above changes due to the opening of Project Gutenberg
+sites other than the original one at www.gutenberg.org]
+[Now including totals from Australia, Europe and PrePrints]
+[Apologies, it will take a while to integrate everything
+not all statistics may be totally equalized yet]
+[Daily PGEu stats at http://dp.rastko.net/default.php]
+[Daily DP stats at http://www.pgdp.net]
+
+BTW, we just started a new "PrePrints" site at PG,
+so if you come across eBooks that aren't ready for
+primetime, but that should be saved for upgrading,
+we have a place to put them.
+
+[Daily PrePrints stats at http://preprints.readingroo.ms/]
+
+*
+
+~75,000 eBooks at the PG Consortia Center [Including after July 4]
+         http://www.gutenberg.cc
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+FREE INTERNET REFERENCE SITE
+
+LivingInternet.com provides a 700-odd page reference about the Internet
+"to provide living context and perspective to this most technological
+of human inventions", and has received input from many people that helped
+build the Internet.  It currently receives about 3 thousand visitors a day,
+many from educational institutions.  Now in its 7th year of operation.
+http://www.livinginternet.com/
+
+
+TEXT TO SPEECH
+
+Dolphin Producer is a new software package which will convert a text
+document into a fully synchronized text and audio DTB at the push of a
+single button. The DTB can then be played back using Dolphin's
+EaseReader software player - which is included in Dolphin Producer.
+The DTB can also be played back on any other DAISY DTB software or
+hardware player, as well as any MP3 player - The choice is yours.
+
+http://www.dolphinuk.co.uk or http://www.dolphinusa.com
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+SPAMMER SETTLES, EXPERIENCES CHANGE OF HEART
+One of the most notorious spammers has reached a settlement with
+Microsoft and the state of Texas and said the experience has been "a
+serious reality check." Under the terms of the agreement, Ryan Pitylak
+will pay $1 million to settle charges that he sent as many as 25
+million spam e-mails per day. He will also forfeit many assets he
+gathered as a spammer. Pitylak said he has changed teams, as it were,
+and will now work to limit spam. "I am pleased to announce that I am
+now a part of the antispam community," he said, "having started an
+Internet security company that offers my clients advice on systems to
+protect against spam." In his heyday, Pitylak, now 24 years old, was
+fourth on Spamhaus's list of world's worst spammers.
+CNET, 5 June 2006
+http://news.com.com/2100-7348_3-6079868.html
+
+GOVERNMENT WANTS ISPS TO KEEP DATA FOR TWO YEARS
+The Department of Justice is working to require ISPs to keep records on
+customer activities for two years to help law enforcement officials
+fight crimes including terrorism and child pornography. Officials from
+the department met recently with leading Internet companies to discuss
+details about how such a plan could be put into place. Representatives
+of those companies said that while they want to aid efforts to stop or
+prevent crime, they have concerns about exactly what information the
+Justice Department wants them to keep and how it would be used. A
+spokesperson from the Justice Department said they want to see records
+of Web searches and e-mail exchanges but not the content of those
+actions. He also said access to those records would be restricted and
+subject to existing protocols covering who is allowed to see it and
+under what circumstances. Marc Rotenberg, executive director of the
+Electronic Privacy Information Center, said the proposal amounts to "a
+radical departure from current practices" and would pose "an
+unnecessary risk to privacy and security of Internet users."
+San Jose Mercury News, 2 June 2006
+http://www.mercurynews.com/mld/mercurynews/news/local/14720891.htm
+
+JOHN DOE LIBRARY GROUP GOES PUBLIC
+The Connecticut library organization that was targeted by federal
+officials but prevented from revealing its identity has held a press
+conference concerning the matter. Last year, the Library Connection
+received a national security letter from the government demanding
+patron records. Authorized by the USA PATRIOT Act, the letters forbid
+recipients from even disclosing that they have received the letter.
+After months of wrangling over the matter, the Justice Department has
+ended its efforts to enforce the gag order. At the press conference,
+Peter Chase, vice president of Library Connection, said, "It was
+galling for me to see the government's attorney in Connecticut...
+travel around the state telling people that their library records were
+safe, while at the same time he was enforcing a gag order preventing me
+from telling people that their library records were not safe." The
+Library Connection continues to fight the demands of the letter and has
+not yet given the Justice Department any patron records.
+Chronicle of Higher Education, 31 May 2006 (sub. req'd)
+http://chronicle.com/daily/2006/05/2006053101t.htm
+
+COURT PROTECTS ONLINE JOURNALISTS
+A California appeals court has overturned a lower-court ruling, saying
+that online journalists have as much protection under the First
+Amendment as traditional journalists. The case involved an action by
+Apple Computer to discover the identity of individuals responsible for
+revealing company secrets online. Apple had argued that the information
+was shared not by legitimate reporters but by people who were violating
+the company's trade secrets. The appeals court said that online
+journalists are covered by a state law that guarantees the
+confidentiality of journalists' sources. The three judges on the panel
+said there is no reasonable method to distinguish legitimate from
+illegitimate news and that First Amendment rights trump Apple's demand
+to know who leaked the information. Observers said the case could have
+far-reaching implications for bloggers and others who post information
+and opinions online outside the context of traditional journalism.
+New York Times, 27 May 2006
+http://www.nytimes.com/2006/05/27/technology/27apple.html
+
+EUROPEAN COURT KILLS PASSENGER-DATA TRANSFER
+The European Court of Justice in Luxembourg has ruled that a 2004
+arrangement between the United States and the European Commission
+contravenes European Community law and must be halted. Under the
+agreement, which was opposed by the European Parliament, airlines were
+required to submit passenger name records to U.S. officials or forfeit
+their rights to land at U.S. airports. Despite airlines' having spent
+large sums of money to comply with the requirement, the court found the
+deal illegal on technical grounds. The European Parliament had
+challenged the deal for a number of reasons, technical issues being
+just one. After ruling on the technical question, however, the court
+ended its inquiry, disappointing the European Parliament, which had
+hoped the court would rule on privacy concerns it raised in its case
+against the deal.
+CNET, 30 May 2006
+http://news.com.com/2100-1029_3-6077893.html
+                                                                                 To SUBSCRIBE to Edupage, send a message to
+
+You've been reading excerpts from Edupage:
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+
+*
+
+
+*
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+The new Treasury Secretary, Henry Paulson, is rarely mentioned
+as having been an assistant two of President Nixon's appointees,
+John Ehrlichman, head of the Watergate "Plumbers Unit" and also
+to Secretary of Defense, Melvin Laird in the Viet Nam War.
+
+Even less mention was made of Judge Robert Bork being the author
+of "The Saturday Night Massacre" of Watergate fame, when he was
+nominated for the Supreme Court.
+
+
+*QUOTES OF THE WEEK
+
+More journalists have been killed in the Iraq War since
+March 20, 2003, 66 as of last week, than in 20 years of
+the Viet Nam War, where a total of 63 were killed.
+
+Source:  Reporters Without Borders
+
+*
+
+"Our strength is in our values, and if we give up our values
+to fight this enemy, we have already lost."
+
+Various sources from both sides of the aisle.
+
+
+*PREDICTIONS OF THE WEEK
+
+The cash flow will continue to reverse, as networks who
+used to pay for transmission of their programs to you--
+reverse their position and charge affiliates and others
+for their programming.
+
+Yes, your local station used to get paid by the network
+to show network programming, in return for advertising,
+which quite often obviously split between them.
+
+This plan may have originated with the BBC, The British
+Broadcasting Company, who used to pay to send shortwave
+programs to my area for my whole life until a few years
+ago when I bought a new shortwave radio and found I was
+not able to pick up any of the dozen plus frequencies I
+had listened to the BBC on for years.
+
+Research turned up the fact that the BBC was charging a
+fee now for their programs, and thus had shut off their
+"North American World Service" I had listened to.  This
+fee of millions of dollars per year is paid by a lot of
+NPR, National Public Radio, stations through a new PRI,
+Public Radio International, which was perhaps made just
+for this kind of purpose.
+
+All in all, it would appear that some kind of "pay per"
+business plan is sweeping the world of commercial media
+outlets, perhaps explaining the success of Youtube, the
+media outlet that now receives up to 50,000 videos just
+in a single day for worldwide downloading.  Yahoo is in
+the process of launching their competitor to Youtube.
+
+As more and more people refuse to watch commercials the
+networks are going crazy trying to figure out how to do
+their commercials in new ways, including previous notes
+concerning "Product Integration" being the new versions
+of ye olde "Product Placement."  However, writers had a
+serious complaint about being forced to write ads for a
+plot line that revolved around sponsors' products.
+
+
+
+*ODD STATISTICS OF THE WEEK
+
+According to CBS News Sunday night, the price of crude
+went up 14% in the same period that the profits of the
+gasoline companies went up 130%.
+
+*
+
+In New Orleans cleanup efforts, NBC reported that more
+of the sub-sub-sub-contracting ripoffs were revealed:
+Askritt Co., who freely admits they don't own a single
+truck for the removal of anything they contracted for,
+but simply paid sub-contractors and kept a lion's part
+of the government payments.  As I recall this was paid
+by the cubic yard of disposal, and the original payees
+receieved $23 per cubic yard, then passed on contracts
+for $9 per cu. yd., who then did $8 and $7. . .until a
+man named Leo actually did the work for $3 per cu. yd.
+
+Source:  Lisa Myers, NBC News, 06/05/06
+
+*
+
+Immigration of Teachers to U.S. Now A Top Priority!
+
+Who Would Have Thought Teaching Would Be Globalized?
+
+The United States may be trying to keep some people in
+limbo as far as immigration policies are concerned but
+for 10,000 needed teachers, the path may well be paved
+with gold as various school districts compete for each
+and every available teacher around the world.
+
+Baltimore schools are likely to hire each one of 81 in
+a single room of interviewees if they interview well--
+the location is Manila in the Philippines.
+
+It's impossible to find enough math, science, special-
+education and other teachers in America, so schools in
+need are sending their recruiters overseas.
+
+The same recruitment effort that yields interviews for
+perhaps five or ten teachers in the U.S. might get you
+several hundred to choose from elsewhere.
+
+Las Vegas, perhaps the fastest growing city in the US,
+recruits teachers from Canada, Topeka goes to Spain or
+India for many of its teachers, Dallas heads south for
+teachers from Mexico and Chile, and those are just the
+most obvious examples of cities that will recruit some
+10,000 foreign teachers to fill classroom vacancies.
+
+These policies are made obvious to other countries and
+the result is that they even offer courses of study to
+prepare students to become American teachers.
+
+Of course, not everyone approves, the head of the NEA,
+National Education Association, says that this policy,
+no matter how well intended, will continue to drive an
+expected teacher's salary down, and thus force teacher
+wannabees into other occupations if they want to share
+in the American Dreamz.  For those teachers in Manila,
+this IS the American Dream, as they will receive twice
+or three times their current salaries in the new jobs.
+
+Didn't anyone think of these sorts of things when they
+decided to globalize everything?
+
+Source:  CBS Evening News, 6/6/06
+
+*
+
+More Katrina Recovery Money Goes Into Non-Work Pockets
+
+It seems that every week a new revelation spells out a
+new chapter in this never ending spectacle of greed.
+
+Even while denying the hiring of layers of contractors
+and sub-contractors and sub-sub-sub-contractors, money
+trails show that much of the money paid for a recovery
+from last year's hurricanes never leaves the office of
+the original contractor, but is merely raked off, then
+another contractor is hired, who then rakes off more--
+perhaps for 8 levels--until finally a few percent of a
+government contract is paid to the contractor who gets
+to actually do the job.
+
+Previous reports included the "Blue Roof" program, and
+contracts given to Vice President Cheney's Halliburton
+company, AshBritt, Bechtel, Akima, etc.  Some of these
+contracts magically seemed to grow by millions when it
+was announced they would be "no-bid" or limited bidded
+government contracts.
+
+For some unknown reason much of the money was spent in
+the neighboring states of Texas and Florida, where the
+contractors simply passed on the work after taking out
+millions of dollars for themselves.
+
+AshBritt, a Pompano Beach, Flordia, company recently a
+recipient of one of the half billion dollar contracts,
+was recently called before Congress to defend contract
+failures that were obvious to all concerned, in only a
+few weeks the failures were already obvious.  AshBritt
+President Randal Perkins said, "It's normal," to House
+Committee members when questioned.
+
+Local contractors quote their own prices as $12.90 and
+the like per cubic yard of debris and say contracts of
+$36 per cubic yard are going to connected Big Boys.
+
+AshBritt's Perkins said it was more like $23, and Army
+Corps of Engineers sources put it at $26, but reports,
+already made public, have shown that these contractors
+have made over $35 per cubic yard in Louisiana, though
+AshBritt was not specifially named.
+
+The range paid to the actual local contractors seems a
+range from about $13 to $17 per cubic yard, while that
+same contract to non-local contractors appears in many
+sources as $23 to $35+.
+
+Various politicians, including Mississippi's Governor,
+are founders of some of these contracting agencies for
+whom this has been a windfall profits year as Barbour,
+Griffith & Rogers, founded by Governor Haley Barbour.
+
+Apparently politicians on both sides of the aisle have
+concentrated as much or more on profiteering, some had
+even resigned their positions in the first month after
+Katrina to concentrate on such contracting.
+
+Many of the stocks of these companies has risen 50-90%
+in various periods after Katrina some with more than a
+billion dollars of contracts still waiting for work.
+
+While some workers are benefitting by getting $17/hour
+for cleanup work, the contractors who hire them get an
+admitted $30,000 per day.
+
+In some cases it would appear that private farmers are
+being paid to take mulch made from downed vegetation--
+and some are reported to be making millions from it.
+
+[Search both AshBritt, Asbritt, and variant spellings]
+
+Sources:
+NBC
+MSNBC
+Taxpayers for Common Sense
+House Reform Committee Testimony
+CorpWatch
+Carlsbad Current Argus
+
+
+
+*
+
+500Gb drives on sale for $190
+
+Thus you can now add a terabyte in two drives for $380,
+or 1.2Tb in 3 drives for $357.
+
+I managed to get one of the 500G drives right over the counter,
+at Fry's in Chicago, no rebates required.
+
+*
+
+Want $4.1 in revenge on the media?
+
+Lock them in a hot room with no air-conditioning and make them
+bid for what they want with only phone contact with the bosses
+all night long. . .literally. . . .
+
+*
+
+
+
+By the way, for those interested, the official U.S. population
+estimates just passed 298 million, though many say estimations
+of this nature leave out as much as 5% of the population, with
+the obvious exclusion of the 11-12 million immigrant workers
+now being mentioned so much in the news.
+
+Still hoping for more statistical updates and additional entries.
+[This one is getting a little out of date, as the US population
+is obviously no longer 6% of the world.  In fact, rounding to the
+nearest percent, the US will soon fall from 5% to 4%.]
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people would possess 59% of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+Poem of the Week
+
+by Simona Sumanaru
+
+
+My Book Of Sounds
+
+You, to me, are like a book of poems.
+I am so very lucky to have found it one day
+on the dusty shelf of this old book store
+in which the air is hot and a little humid
+like spring this year - who would have thought
+spring could last that long-
+
+The store keeper is a little old lady
+with violet-grayish strands
+her hands like those of a piano player
+- one would expect butterflies of sound
+to be taking flight from right under her fingertips-
+
+every time she touches a book
+she takes these deep breaths and closes her eyes
+for a little while
+as if to memorize the feel of the cover
+on her music-filled finger tips
+
+it was a first edition, it was a romance,
+it was a motivational book that father read to son
+before football practice
+or maybe it was a family saga mother read to daughter
+before the curtains of night fell down
+and thoughts drifted away
+into womanhood and married life
+
+She knows them well: pages torn, pictures missing,
+tiny scribblings at the end of every chapter
+where a student in international politics
+boldly put in his own ideas,
+or maybe an educator to be sneaked in
+her most affectionate considerations
+before she decided to turn on the page
+towards the next soul to be molded.
+
+
+(C) 2006 Simona Sumanaru and Michael S. Hart
+
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+</pre>
+
+<a href="/nl_archives/2006/pgweekly_2006_06_07_part_1a.txt" target="_blank" rel="nofollow">pgweekly_2006_06_07_part_1a.txt</a>

@@ -1,0 +1,459 @@
+---
+params:
+  id: 1843
+title: PG Weekly Newsletter (2001-07-18)
+date: 2001-07-18T12:43:49+00:00
+author: Michael Cook
+layout: post
+url: /20010718/pg-weekly-newsletter-2001-07-18/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 18 Jul 2001 11:28:31 -0500 (CDT)
+
+"newby.701"
+
+This is Project Gutenberg's Weekly Newsletter for Wednesday, July 18, 2001
+
+We Are On Schedule To Do 100 Etexts This Month!
+
+We need a volunteer in North Dakota to be our legal presence there.
+
+We need PERL programmers, web designers, other programmers for efforts
+to automate getting our Etexts online. . .more below on that. . . .
+
+We need people in the following countries to handle "life +50" books,
+such as 1984 and Animal Farm, by George Orwell, and more. . . .
+
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+Here is a list of the Etexts posted since last Wednesday.
+
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+
+Mar 2003 Entire Memoirs of Louis XIV, by Saint-Simon[CM#38][cm38bxxx.xxx]3875
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v15  [CM#37][cm37bxxx.xxx]3874
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v14  [CM#36][cm36bxxx.xxx]3873
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v13  [CM#35][cm35bxxx.xxx]3872
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v12  [CM#34][cm34bxxx.xxx]3871
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v11  [CM#33][cm33bxxx.xxx]3870
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v10  [CM#32][cm32bxxx.xxx]3869
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v9   [CM#31][cm31bxxx.xxx]3868
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v8   [CM#30][cm30bxxx.xxx]3867
+Mar 2003 Memoirs of Louis XIV, by Saint-Simon, v7   [CM#29][cm29bxxx.xxx]3866
+
+
+Jan 2003 The Ruby of Kishmoor, by Howard Pyle     [Pyle #5][rubykxxx.xxx]3687
+Jan 2003 The Army of the Cumberland, Henry M. Cist         [xcmbrxxx.xxx]3686
+[8-bit accents are included in 8cmbr10.*, plain characters are in 7cmbr10.*]
+
+Jan 2003 Egypt (La Mort De Philae), by Pierre Loti[Loti #7][egyptxxx.xxx]3685
+Jan 2003 Mr. Crewe's Career, All, by Winston Churchill [#9][wc09vxxx.xxx]3684
+Jan 2003 Mr. Crewe's Career, V. 3, by Winston Churchill[#8][wc08vxxx.xxx]3683
+Jan 2003 Mr. Crewe's Career, V. 2, by Winston Churchill[#7][wc07vxxx.xxx]3682
+Jan 2003 Mr. Crewe's Career, V. 1, by Winston Churchill[#6][wc06vxxx.xxx]3681
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Jan 2003 Cartrefi Cymru, by Owen M. Edwards[O M Edwards #2][crtcmxxx.xxx]3680
+[In Welsh, available in plain text as crtcm10.* and in HTML as crtcm10h.*]
+
+Jan 2003 Jonah, by Louis Stone                             [jonahxxx.xxx]3678
+Jan 2003 On Our Selection, by Steele Rudd                  [onssrxxx.xxx]3677
+[Steel Rudd is pseudonym for Arthur Hoey Davis][Story of Australian Pioneers]
+
+Jan 2003 The Firefly Of France, by Marion Polk Angellotti  [fiofrxxx.xxx]3676
+Jan 2003 Die Versuchung des Pescara, Conrad Ferdinand Meyer[xversxxx.xxx]3675
+[This Etext is in German, 8vers10.* has accents, 7vers10.* has no accents.]
+
+***
+
+
+
+
+From: Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Are you a PERL monger, with substantial CGI and HTML experience?
+We are working on a turnkey solution that will let volunteers
+upload, reformat, check and post etexts.
+
+Development will be on a Solaris 8 computer with PERL 5.6.1 and
+Apache.  There are a few programs in place, but essentially this is a
+project that will start from scratch.  Components will include:
+
+	. Various upload methods for volunteers to submit etexts
+	(e.g., "upload" via HTTP, finding a file delivered by FTP,
+	and email)
+
+	. Automatically extracting and decoding MIME components from email
+	messages.
+
+	. Reflowing etexts to fill paragraphs and adjust paragraph
+	properties (e.g., change indentations to a skipped line).
+
+	. Automatically generating the Project Gutenberg header
+	based on input of Author, Title, etc.  Automatic
+	assignment of etext #s from a "free list."  (We have
+	a program that does this from the Unix command line, but
+	it needs to also work via a CGI front-end.)
+
+	. When triggered, finished etexts will be uploaded
+	by FTP or sftp to the main distribution sites.
+
+Some additional work may be done with Expect, Python and shell
+scripts, but PERL will probably be the right choice for most
+of the tasks.
+
+The code we use needs to be well-written, clearly commented,
+and reasonably easy to maintain.  We envision having a small
+collection of programs that, together, enable substantial
+time-savings for our volunteers to get etexts formatted and
+posted.
+
+You will work closely with Greg Newby, who maintains the
+upload sites currently, to design and implement the programs.
+"
+
+
+***
+
+
+--=={ WEEKLY UPDATE PROGRESS }==--
+
+Since we started sending out weekly newsletters on 4/11/01, we have posted
+301 new Etexts; for those 15 newsletters, we have averaged 20.06 Etexts
+posted per week; we need to to continue to average 19.23 Etexts per week
+in order to publish 1,000 Etexts this year, and another week like this,
+and we will have 100 Etexts in four weeks!  So far we have 99, and we
+ALMOST had 101, but two more came in needed reformatting that I could
+not manage on such short notice. . . .
+
+  WEEK    ##
+========  ==
+07/18/01  24
+07/11/01  24
+07/04/01  29
+06/27/01  22
+06/20/01  18
+06/13/01  17
+06/06/01  20
+05/31/01  18
+05/23/01  16
+05/16/01  18
+05/09/01  18
+05/02/01  39
+04/25/01  15
+04/18/01  11
+04/11/01  12
+============
+3.5 months 301
+
+
+Monthly Reports
+
+NEWSLETTER     NEW ETEXTS     WEEKLY AVG.
+==========     ==========     ===========
+Jun  (4 Wks)       86             22
+May  (5 Wks)       90             22
+Apr  (4 Wks)       77             24
+Mar  (5 Wks)      156             25
+Feb  (4 Wks)       74             21
+Jan  (4 Wks)       96             24
+
+***
+
+News. . .My apologies for so much this issue, since I
+didn't get any into last week's. . .due to fear of a
+crash that never actually seemed to happen, but I was
+locked up so much I feared I would not be able to get
+anything more done, so I just sent what I had. . .mh
+
+
+JAILED FOR DEMONSTRATING COPY PROTECTION IS INADEQUATE
+
+  Wired News has a short report on this arrest as well:
+http://www.wired.com/news/politics/0,1283,45298,00.html
+
+and
+
+Planetebook's story cites Sklyarov's talk at DefCon 9
+on e-book security as justification of his arrest.
+
+Vladimir Katalov has informed Planet eBook that Dmitry Sklyarov, author
+of the "Advanced eBook Processor", was in fact arrested, and that he is
+being held in a Los Vegas prison waiting for subsequent judgement in
+Calfornia.
+http://www.planetebook.com/mainpage.asp?webpageid=165
+
+
+and
+
+eBookWeb has a story also about this, written before
+the arrest was confirmed, but with additional details.
+
+and
+
+From:  Vladimir Katalov  &lt;vkatalov@elcomsoft.com&gt;
+
+&gt; I've already contacted the people I know in EFF about this event.
+&gt; Hopefully they'll take some action (they may find it useful in
+&gt; their ongoing effort to get the more extreme provisions of DMCA
+&gt; overturned.)
+
+That's Vladimir Katalov speaking. I'm in Portland (Oregon) now;
+Alexander (ElcomSoft director) is still in Las Vegas. If anybody can
+help us somehow (at least by making all that as public as possible) --
+you're welcome!
+
+&gt; - he reports that Sklyarov gave away copies of software at the
+&gt; conference, which may be the justification for the arrest, and
+
+Correction: he gave away *demo* versions, which decrypt only 25% of
+the documents. We don't sell that software anymore (we stopped sales
+almost immediately after first Adobe complaint).
+
+&gt; According to a media representative in the FBI's Las Vegas field office,
+&gt; Sklyarov was arrested on a federal warrant issued by the US District
+&gt; Court of the Northern District of California, charging him with one
+&gt; count of trafficking in software to circumvent copryrightable materials
+&gt; and one count of aiding and abbetting such trafficking. He is being held
+&gt; at a US Marshalls detention facility in Las Vegas pending his
+&gt; extradition to California.
+
+Actually, Dmitry just a programmer/cryptanalyst, but AEBPR is our
+corporate product, released under the copyright of our company,
+ElcomSoft!!! He would not do anything without our (company)
+permission/request, of course.
+
+--
+Best regards,
+ Vladimir                            mailto:vkatalov@elcomsoft.com
+
+
+
+
+RANDOM HOUSE SUFFERS SETBACK IN E-BOOK SUIT
+Publisher Random House cannot prevent electronic publisher
+Rosetta Books from publishing e-book versions of Random House
+titles, a federal judge ruled on Wednesday. In the suit it filed
+against Rosetta this February, Random House argued that
+electronic publishing rights to the eight titles in question,
+each a part of Random House's backlist of previously published
+titles, were a part of the original publishing contract's
+stipulation that the publisher had the right to publish a work
+"in book form." However, in turning down Random House's request
+for a preliminary injunction, Judge Sidney H. Stein concluded
+that e-books are not covered by this stipulation because they are
+significantly different from printed books. Rosetta officials say
+Stein's decision could be a boon to the fledgling e-book industry,
+and legal observers agree that his ruling, if unchallenged, could
+establish a precedent for electronic publishing rights.
+(Wall Street Journal, 12 July 2001)
+
+FREELANCE WIN PUTS LIBRARIANS IN MIDDLE
+The librarians who manage the digital archives of major
+publications have begun removing freelance articles from their
+databases. The recent Supreme Court ruling that requires
+publishers to compensate freelance writers for work redistributed
+digitally has caused most newspapers and magazines to delete
+those articles rather than give the writers additional payment.
+Sharon Stewart Reeve, librarian for the San Diego Union-Tribune,
+said she and many of her colleagues have mixed emotions over the
+verdict. Despite the inconvenience of sorting through 10 years
+of archives to mask or delete freelance work, many librarians
+sympathize with the writers' small salaries.
+(Los Angeles Times, 10 July 2001)
+
+WATCHING YOU WATCHING THEM
+New tracking technology in cell phones, interactive TVs, and
+GPS-enabled rental cars is raising privacy concerns. Already,
+several companies are developing software to help track and make
+use of data collected from TV set-top boxes. The Center for
+Digital Democracy, an advocacy group for consumer privacy, is
+currently lobbying for regulations on the use of such technology
+that targets ads and gathers personal data. Aware of the possible
+government restrictions, the Association for Interactive Media is
+trying to outline privacy guidelines for interactive TV operations
+such as Microsoft's UltimateTV and the TiVo recorder. Currently,
+those companies are outside of cable regulations because they
+make use of phone lines. A host of companies are rushing to take
+advantage of a FCC deadline for wireless carriers to be able to
+pinpoint the location of cell phone users. Besides being able to
+locate users in 911-emergency cases, companies will be able to
+send location-specific wireless ads to subscribers of wireless
+Internet services.
+(Boston Globe, 9 July 2001)
+
+CIVIL LIBERTIES GROUP PLANS EFFORT TO PROTECT NET PARODY
+The Electronic Frontier Foundation (EFF) this fall intends to
+open the "Chilling Effects Clearinghouse," an online repository
+of letters sent from lawyers for copyright holders to those
+engaged in parodies of those copyrights. Calling such letters
+"broad" and "unfounded," EFF legal director Cindy Cohn said the
+organization hopes to dissuade corporate attorneys from bullying
+the rights of online parodists. Indeed, such a letter spurred
+the EFF's action. Lawyers for the children's TV show "Barney"
+contacted the EFF, asking it to remove from its archive an
+article from the online magazine Computer Underground Digest in
+which an author makes negative comments about the singing purple
+dinosaur. The EFF, although in the process of removing the
+magazine's archive to another site, has taken up the challenge
+and contends that the lawyers have misinterpreted the point of
+copyright law. Cohn said the author's noncommercial use of
+copyrighted material not only fails to violate copyright law,
+but is, in fact, protected by it.
+(Newsbytes, 6 July 2001)
+
+LECTURER CHARGED OVER WEB SITE CONTENT
+La Trobe University, Australia, has closed a Web site that
+attacked Federal Health Minister Michael Wooldridge for his
+ties to the pharmaceutical industry and charged the site's
+administrator, Dr. Ken Harvey, with "serious misconduct." At
+issue is an article on the site that refers to Wooldridge as the
+"Minister for Pfizer," which the university believes could be a
+defamatory statement. However, Harvey, a senior lecturer in the
+university's school of public health, said the statement is
+"legitimate previously published political comment or satire,
+and not defamation." Harvey questions why the university, if so
+concerned about the possible liability of the statement, waited
+three weeks before taking action.
+(Australian IT, 10 July 2001)
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+WHEN IS A BOOK NOT A BOOK? WHEN IT'S AN E-BOOK!
+Federal District Judge Sidney H. Stein has ruled that the term "book" in a
+book contract does not automatically include the right to offer digital
+versions of that same book. Judge Stein therefore denied a request by Random
+House to enjoin RosettaBooks from publishing new digital editions of such
+Random House authors as Robert B. Parker, Kurt Vonnegut, and William Styron.
+The case will now go to full trial, although the judge said that "Random
+House is not likely to succeed on the merits of its copyright infringement
+claim."
+http://partners.nytimes.com/2001/07/12/technology/ebusiness/12BOOK.html
+
+NY TIMES "SOLUTION" NOT WHAT FREELANCE WRITERS HAD IN MIND
+A Pyrrhic victory for freelance writers? Maybe. After the U.S. Supreme Court
+ruled last week that the New York Times (and two other publishers) had
+violated the rights of freelancers by not paying them new compensation for
+old material made accessible in electronic databases, the Times decided
+simply to remove the disputed material entirely. Characterizing the
+newspaper's action as a "complete violation of the spirit of the Supreme
+Court decision," the writers are insisting that "there is no need to delete
+articles" and are filing a new lawsuit. They say they want their works to
+remain in the databases, and merely want to be receive what they consider
+appropriate compensation. (New York Times 6 Jul 2001)
+http://partners.nytimes.com/2001/07/06/technology/06WRIT.html
+
+MICROSOFT RELENTS ON DESKTOP CONTROL
+Admitting "that some provisions in our existing Windows licenses have been
+ruled improper by the court," Microsoft says it will now allow PC
+manufacturers to change the configuration of the Windows desktop by adding
+non-Microsoft products (such as Netscape) and removing Microsoft ones (such
+as Internet Explorer). The move may help defuse attempts by competitors or
+government officials to block the impending release of XP, the company's new
+operating system.
+http://washingtonpost.com/wp-dyn/articles/A47506-2001Jul11.html
+
+INTERNET FRAUD KEEPS GOING AND GOING
+The National Consumer League says that the average loss from Internet fraud
+rose from $310 a person in 1999 to $427 last year, when total losses from
+Internet fraud reached $3.3 million. New York City's consumer affairs
+commissioner Jane Hoffman warns: "Internet fraud runs the gamut from
+work-at-home scams to bogus travel and vacation schemes, to securities fraud
+and investment scams... For many consumers the Internet can be a virtual
+nightmare when it comes to fraud." Hoffman says the five most common
+Internet scams are: Web auctions (mainly in the form of goods not delivered
+as promised, inflated prices, or fake bids to puff up prices); travel and
+vacation schemes with hidden costs; theft of ID numbers, bank data, or
+passwords; and investment schemes promising -- but of course failing to
+deliver -- huge profits. (AP/Washington Post 15 Jul 2001)
+http://washingtonpost.com/wp-dyn/business/latestap/A492-2001Jul15.html
+
+USER AGREEMENTS REQUIRE USER CONSENT
+A federal judge in New York has ruled that individuals who downloaded free
+software from Netscape's Web site are not bound by a "conditions of use"
+statement they hadn't read. The reason? The site had not required them to
+take positive action -- prior to the download -- to show they agreed to
+Netscape's conditions. A lawyer who represented the plaintiffs against
+Netscape praised the court's decision: "It applies an ancient and
+fundamental principle in a novel context. That is, you can't be bound to
+that which you don't agree to." (New York Times 13 Jul 2001)
+http://www.nytimes.com/2001/07/13/technology/13CYBERLAW.html
+
+CONSERVATIVE AND LIBERAL AGREEMENT: NO HIGH-TECH SURVEILLANCE
+Dick Armey, the conservative House Majority Leader, and the left-leaning
+American Civil Liberties Union (ACLU) have issued a joint statement
+deploring the growing use by law enforcement agencies of high-tech
+surveillance tools to monitor ordinary people in public places. Recent news
+stories have revealed attempts in Tampa and Virginia Beach to use
+face-recognition software to identify passers-by on city streets. An Armey
+spokesman calls that trend disturbing, and says that "the American public
+doesn't want Big Brother looking over its shoulder." (Newsbytes/USA Today 12
+Jul 2001)
+http://www.usatoday.com/life/cyber/nb/nb2.htm
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_07_18.txt" target="_blank" rel="nofollow">pgweekly_2001_07_18.txt</a>

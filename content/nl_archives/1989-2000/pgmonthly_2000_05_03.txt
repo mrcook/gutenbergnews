@@ -1,0 +1,641 @@
+========
+Subject: May Project Gutenberg Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg mailing list" <gutnberg@listserv.unc.edu>
+Date: Wed, 3 May 2000 13:45:58 -0500 (CDT)
+
+
+***This is Project Gutenberg's Newsletter for Wednesday, May 3, 2000**
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+With 2550 eTexts online it now takes an average of 100,000,000 readers
+gaining a nominal value of $3.92 from each book, for Project Gutenberg
+to have given away $1,000,000,000,000 [One Trillion Dollars] in books.
+
+
+Table of Contents:
+
+Headline News
+
+Requests For Assistance
+
+Comments About Our New Files
+
+Index Listings for the New Files
+
+Notes from Edupage and News Scan
+
+
+***
+
+
+Headline News
+
+Is it true that 60% of the world population
+has never made a phone call?
+
+About twice as many [64%] Asian-American families use the Internet,
+as the national average of all families [33%], which should include
+the Asian-American families. . .so the difference is even greater.
+
+97% of Chinese households have television, 88% for refrigerators.
+
+Since 1956 US service workers have outnumbered blue-collar workers.
+
+100 rupees [$2.34] buys 50 channels of cable access in India,
+this is equal to one day's wages for a rickshaw peddlar.
+10 years ago there was just one part time government channel.
+No four lane intercity highways in India.
+India is currently undergoing the worst drought in 10-100 years.
+Some areas have been suffering from poor rainfall for 3-4 years.
+
+
+About half the world population now lives in cities.
+There are about 15 cities with 10,000,000 population.
+
+In 1950 New York City handled about 20% of the US sea
+shipping, now down to only 6% of the nation's tonnage.
+
+A million Yellow Taxi trips per day in New York City.
+
+New York is NOT one of the 15 cities of 10,000,000.
+
+[Let me know if you have comments about including
+these kinds of information in our Newsletters.]
+
+
+
+Requests For Assistance
+
+We need an English translation of Euripides, from before 1923,
+particularly for Medea.  Please email Scott Fallin <saf@well.com>
+cc:me
+
+Progress on our translation of Siddhartha is very difficult,
+and we drastically need more volunteers to help translate
+from the original German, which we have available as Etext.
+Due to various copyright restrictions, it may not be legal
+for many volunteers outside the US to help us
+
+Trying to locate:
+Michael Larsen, formerly of Penn. <larsen@math.upenn.edu>
+
+Marcus Aurelius file lost. . .can sender please resend.
+
+We need E.T.A. Hoffman books in English for David Bridson
+<david@bridson.co.uk>
+
+From one of our readers:
+While you may have some favorite word processors, here are some
+free ones that you might want your volunteers to have available,
+rather than sending them out to buy something.  WordWright looks
+particularly good for your project, but there are others.
+http://www.freewarehome.com/business/wordproc.html
+
+Would anyone like to proof Walter Scott's Guy Mannering?
+scotgmw.txt is the one, needs work. . .headers are funny,
+lots of double spaces, probably from trying margination.
+
+We need a pre-1923 edition of Billy Budd, Sailor.
+Please email Eric Sugar <bisb@aol.com> and cc: me.
+
+We need a copy that says it is pre-1923:
+Swords of Mars, and, Synthetic men of Mars
+Burroughs, Edgar Rice, 1875-1950. [1909]
+Garden City, N.Y. : Nelson Doubleday,
+
+
+
+"Kampung Buku Malaysia (Malaysia Book Village) is a manifestation of the Kedah
+State Government's ( a state in Malaysia) initiative in promoting reading to
+the people of Malaysia. Through the book village, we hope to make available
+cheap reading materials through the sales of second and remainder books.
+However, as part of the Worldwide Book Village and Book Towns Movement,
+we also sell antiquarian and rare books.
+
+"We believe that our aspirations in bringing reading materials to the public
+at large will be further enhanced through Etext under Project Gutenberg.
+We, at the Book Village are making efforts to spearhead PG in Malaysia
+and South East Asia (Malaysia. Singapore, Indonesia & Brunei),
+to publish Etexts in the Malay Language. We will, in our endeavor
+try to recruit retired librarians, government servants, students,
+historians, government and non-government bodies to volunteer
+in this wonderful program.
+
+"We may be contacted at buku@kampungbukumalaysia.com
+or visit our website at www.kampungbukumalaysia.com  "
+
+
+And I have my own request for assistance:
+I still very much need public relationtions people,
+both for contacting the media and the Billionaire
+Boys Club. . .hart@pobox.com
+
+
+
+Comments About Our New Files
+
+We are closing in on being a year ahead of schedule,
+this is the first time I have really announced the
+releases of Etexts in the same month they will be
+officially released a year later!!!  We should be
+able to reach 3,333 Etext by the end of 2001. . .
+
+We have released the six volume series
+"The Origins of Contemporary France"
+by Hippolyte A. Taine.
+
+Due to popular requests, we have released four new
+math constants [yes, there are still nerds and geeks
+out there in InternetLand. . ..
+
+We posted Crime and Punishment, by Fyodor Dostoevsky.
+
+We have started releasing Aristophanes.
+
+And plenty more Bret Harte, Elizabeth Gaskell,
+Robert Louis Stevenson,
+
+
+
+Index Listings for the New Files
+
+
+Mon Year    Title and Author                               [filename.ext]####
+*****A "C" Following a Project Gutenberg Etext Number Indicates Copyright****
+
+New versions of the following were posted:
+Jan 2000 The American Republic, by O. A. Brownson          [amrepxxx.xxx]2053
+
+
+Mar 2001 Two Men of Sandy Bar, by Bret Harte[Bret Harte#27][tmosbxxx.xxx]2570
+Mar 2001 The Day's Work [Vol. 1], by Rudyard Kipling[RK#14][dyswkxxx.xxx]2569
+Mar 2001 Trent's Last Case, by E.C.(Edmund Clerihew)Bentley[trentxxx.xxx]2568
+[This was the British title, US title was The Woman in Black]
+Mar 2001 The Woman in Black by E.C.(Edmund Clerihew)Bentley[trentxxx.xxx]2568
+Mar 2001 A Plea for Captain John Brown, by Thoreau [HDT #4][apcjbxxx.xxx]2567
+[Author:  Henry David Thoreau]
+Jan 2001 Mary-'Gusta by Joseph C. Lincoln [J.C. Lincoln #4][mrygtxxx.xxx]2473
+
+Mar 2001 How to Fail in Literature, by Andrew Lang[Lang#26][fllitxxx.xxx]2566
+Mar 2001 The Story of the Glittering Plain, by Wm. Morris 4[gltplxxx.xxx]2565
+Mar 2001 Wanderings Among South Sea Savages by H. W. Walker[wasssxxx.xxx]2564
+[Title: Wanderings Among South Sea Savages And in Borneo and the Philippines]
+[Author: H. Wilfrid Walker]
+Mar 2001 Memoirs of the Comtesse du Barry by Lamothe-Langon[8dbryxxx.xxx]2563
+Mar 2001 Memoirs of the Comtesse du Barry by Lamothe-Langon[7dbryxxx.xxx]2563
+[Full title:  Memoirs of the Comtesse du Barry With Minute Details of Her
+Entire Career as Favorite of Louis XV]
+[Author's full name:  Baron Etienne Leon Lamothe-Langon]
+[We are posting two versions, 8 bit with accents, 7 bit plain standard text.]
+
+Mar 2001 The Clouds, by Aristophanes      [Aristophanes #1][cloudxxx.xxx]2562
+Mar 2001 Robert Falconer, by George MacDonald[MacDonald#10][rflcnxxx.xxx]2561
+Mar 2001 The Three Partners, by Bret Harte [Bret Harte #26][tpartxxx.xxx]2560
+Mar 2001 Man of Property, by John Galsworthy[Forsyte#1JG#4][mnprpxxx.xxx]2559
+
+Mar 2001 Poems, by George P. Morris                        [mrrspxxx.xxx]2558
+Mar 2001 Old Mother West Wind, by Thornton W. Burgess[TB#4][ldmwwxxx.xxx]2557
+Mar 2001 Mr. Jack Hamlin's Mediation, by Bret Harte [BH#25][jhmlnxxx.xxx]2556
+Mar 2001 Under the Redwoods, by Bret Harte[Bret Harte [#24][unrdwxxx.xxx]2555
+Contains:
+JIMMY'S BIG BROTHER FROM CALIFORNIA
+THE YOUNGEST MISS PIPER
+A WIDOW OF THE SANTA ANA VALLEY
+THE MERMAID OF LIGHTHOUSE POINT
+UNDER THE EAVES
+HOW REUBEN ALLEN "SAW LIFE" IN SAN FRANCISCO
+THREE VAGABONDS OF TRINIDAD
+A VISION OF THE FOUNTAIN
+A ROMANCE OF THE LINE
+BOHEMIAN DAYS IN SAN FRANCISCO
+UNDER THE REDWOODS
+
+Mar 2001 Crime and Punishment, by Fyodor Dostoevsky [FD #4][7crmpxxx.xxx]2554
+Mar 2001 Crime and Punishment, by Fyodor Dostoevsky [FD #4][8crmpxxx.xxx]2554
+Mar 2001 Jeanne d'Arc, Her Life and Death, by Mrs. Oliphant[7jnrcxxx.xxx]2553
+Mar 2001 Jeanne d'Arc, Her Life and Death, by Mrs. Oliphant[8jnrcxxx.xxx]2553
+[We are posting two versions, 8 bit with accents, 7 bit plain standard text.]
+Mar 2001 Thankful's Inheritance, by Joseph C. Lincoln[JL#5][thkinxxx.xxx]2552
+Mar 2001 Droll Stories [V. 3], by Honore de Balzac[HdB #95][3drllxxx.xxx]2551
+Also see:
+Sep 2000 Droll Stories [V. 2], by Honore de Balzac[HdB #92][2drllxxx.xxx]2318
+Oct 1999 Droll Stories [V. 1], by Honore de Balzac[HdB #82][1drllxxx.xxx]1925
+
+Mar 2001 Tales of Trail and Town, by Bret Harte [Harte #23][totatxxx.xxx]2550
+Mar 2001 Doom of the Griffiths, by Elizabeth Gaskell[EG#10][dmgrfxxx.xxx]2549
+Mar 2001 The Poor Clare, by Elizabeth Gaskell[E. Gaskell#9][prclrxxx.xxx]2548
+Mar 2001 Half a Life-time Ago, by Elizabeth Gaskell[E.G.#8][hlflfxxx.xxx]2547
+
+Mar 2001 Hopalong Cassidy's Rustler Round-Up, by CE Mulford[hcrruxxx.xxx]2546
+Mar 2001 BAR-20[Alternate Title],by Clarence Edward Mulford[hcrruxxx.xxx]2546
+
+Mar 2001 When God Laughs et al, by Jack London [JL #98-109][gdlghxxx.xxx]2545
+Contains:
+98.  WHEN GOD LAUGHS
+99.  THE APOSTATE
+100. A WICKED WOMAN
+101. JUST MEAT
+102. CREATED HE THEM
+103. THE CHINAGO
+104. MAKE WESTING
+105. SEMPER IDEM
+106. A NOSE FOR THE KING
+107. THE "FRANCIS SPAIGHT"
+108. A CURIOUS FRAGMENT
+109. A PIECE OF STEAK
+
+
+Mar 2001 From Sand Hill to Pine, by Bret Harte[B Harte #22][fshtpxxx.xxx]2544
+Mar 2001 Polyeucte, by Pierre Corneille[Tr by T. Constable][plyctxxx.xxx]2543
+
+Mar 2001 The Doll's House, by Henrik Ibsen[Henrik Ibsen #5][dlshsxxx.xxx]2542
+Mar 2001 Character, by Samuel Smiles     [Samuel Smiles #6][crctrxxx.xxx]2541
+Mar 2001 Father and Son [Autobiography], by Edmund Gosse   [ftrsnxxx.xxx]2540
+Mar 2001 The Malay Archipelago, by Alfred Russel Wallace V2[2malayxx.xxx]2539
+Also see:
+Feb 2001 The Malay Archipelago, by Alfred Russel Wallace V1[1malayxx.xxx]2530
+
+Mar 2001 My Birthday. . .if you find something cute.   :-) [     xxx.xxx]2538
+Mar 2001 The Pocket R.L.S., by Robert Louis Stevenson [#39][pkrlsxxx.xxx]2537
+Mar 2001 Amphitryon, A play by Moliere, Tr. by Waller [M#2][amphixxx.xxx]2536
+Mar 2001 Openings in the Old Trail, by Bret Harte[Harte#21][oitotxxx.xxx]2535
+
+Mar 2001 Eugene Pickering, by Henry James       [James #29][eugpkxxx.xxx]2534
+Mar 2001 Round the Sofa, by Elizabeth Gaskell          [#8][rndsfxxx.xxx]2533
+Mar 2001 The Half-Brothers, by Elizabeth Gaskell       [#7][hlfbrxxx.xxx]2532
+Mar 2001 An Accursed Race, by Elizabeth Gaskell        [#6][accrcxxx.xxx]2531
+
+Also released:
+Jan 2001 Repertory of the Comedie Humaine, Pt 2 [Balzac#94][2rthcxxx.xxx]2469
+Also see:
+Jan 2001 Repertory of the Comedie Humaine, Pt 1 [Balzac#93][1rthcxxx.xxx]2468
+
+And. . .we have these already prepared for next month:
+
+Apr 2001 The first 498 Bernoulli Numbers[Math Constant #22][brnllxxx.xxx]2586
+Apr 2001 The first 1001 Fibonacci Numbers[Math Constant#21][fbnccxxx.xxx]2585
+Apr 2001 The first 1000 Euler Numbers   [Math Constant #20][eulerxxx.xxx]2584
+Apr 2001 The Value of Zeta(3) to 1,000,000 Places[Math #19][zeta3xxx.xxx]2583
+
+
+The next six Etexts comprise the series "The Origins of Contemporary France"
+by Hippolyte A. Taine.  "The Origins of Contemporary France" = ocf
+
+Apr 2001 The Modern Regime V2, by Hippolyte A. Taine OCF V6[06ocfxxx.xxx]2582
+Apr 2001 The Modern Regime V1, by Hippolyte A. Taine OCF V5[05ocfxxx.xxx]2581
+Apr 2001 The French Revolution V3, by Hippolyte Taine OCFV4[04ocfxxx.xxx]2580
+Apr 2001 The French Revolution V2, by Hippolyte Taine OCFV3[03ocfxxx.xxx]2579
+
+Apr 2001 The French Revolution V1, by Hippolyte Taine OCFV2[02ocfxxx.xxx]2578
+Apr 2001 The Ancient Regime, by Hippolyte A. Taine  OCF V1 [01ocfxxx.xxx]2577
+
+Apr 2001 Alps and Sanctuaries, by Samuel Butler [Butler #5][alpsnxxx.xxx]2576
+[Full Title:  Alps and Sanctuaries of Piedmont and the Canton Ticino]
+Apr 2001 Confessions of an Inquiring Spirit, by Colerige #2[cfinqxxx.xxx]2575
+[Full:  Confessions of an Inquiring Spirit etc., by Samuel Taylor Coleridge]
+
+Apr 2001 On the Frontier, by Bret Harte    [Bret Harte #28][frntrxxx.xxx]2574
+Apr 2001 The Caged Lion, by Charlotte M. Yonge  [Yonge #2] [cgdlnxxx.xxx]2573
+Apr 2001 On the Decay of the Art of Lying, by Mark Twain 17[lyingxxx.xxx]2572
+Apr 2001 Peace, by Aristophanes           [Aristophanes #2][peacexxx.xxx]2571
+
+
+
+Notes from Edupage and News Scan
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+MICROSOFT TO ADOPT BIOMETRIC TECHNOLOGY
+[See Neal Stephenson's Cryptonomicon for details,
+but be forewarned, there is no ending to the book.]
+Microsoft says it plans to incorporate biometric technology in its Windows
+software that will enable users to sign on by brushing their fingertips
+across a scanner rather than typing in a password. Biometric technology
+scans the details of a person's fingerprints, iris patterns, facial
+structure or other physical characteristics and compares them against a
+database of stored user information. The company will use authentication
+technology from I/O Software Inc. (Reuters/Los Angeles Times 3 May 2000)
+http://www.latimes.com/business/20000503/t000041568.html
+
+WHO WANTS TO BE A MILLIONAIRE? DISNEY, SAYS TIME WARNER
+Three and a half million homes cable customers across the U.S. were shut
+out of ABC affiliate TV stations Monday as a result of a dispute between
+Time Warner Inc. and The Walt Disney Co. The two media giants have been
+negotiating for several months to form a new long-term agreement for Time
+Warner's cable systems to carry channels from Disney, including ABC, the
+Disney Channel and ESPN. Disney wants Time Warner to feature two new
+channels and to make the Disney Channel part of its basic package. Time
+Warner agreed but balked at the price and dropped affiliates in New York
+City; Los Angeles; Houston; Raleigh-Durham, N.C.; Toledo, Ohio; parts of
+Fresno, Calif., and Philadelphia. Each company blames the other for the
+stalemate, witha Disney executive blasting, "Some deranged individual has
+deprived all of these people of ABC. These people are arrogant
+manipulators." A Time Warner spokesman says Disney is trying to extract
+"excessive and unreasonable terms" for its cable TV channels. Until the
+matter is settled, viewers are tuning into "Who Wants to be Millionaire"
+the old-fashioned way -- by fiddling with their antennae.
+(Washington Post 1 May 2000)
+
+WEB PORTALS RETHINK THEIR BROADBAND PROMISES
+[Big Bandwidth is so far 98% vaporware. . . .]
+Faced with the reality that only a relative handful of Web surfers have
+access to high-speed 'Net connections, portal sites Yahoo and Lycos have
+quietly scaled back their plans for new applications and content designed
+specifically for those users. Spurred by the merger of Excite.com with the
+@Home Network last year, Lycos began development of a service dubbed "Lycos
+Lightning" aimed at high-speed surfers. But that initiative has been moved
+to the back burner, as has a similar effort by Yahoo. "We look at the
+marketplace and say, 'Well, broadband certainly is important, but there's
+50 narrowband connections still in the United States for every broadband
+connection, so let's be careful about how much energy we put into
+broadband,'" says one Lycos exec. Despite broadband's limited availability
+today, analysts expect high-speed connections in the U.S. to reach as many
+as 12.9 million households in two years. When that kind of critical mass is
+reached, site operators will have no choice but to play to the broadband
+market. (New York Times 1 May 2000)
+http://www.nytimes.com/cnet/CNET_0_4_1779432_00.html
+
+INTERNET TELEPHONY IS COMING INTO ITS OWN
+[You can read about this in Cryptonomicon, too.]
+If you think Internet communication is limited to e-mail and instant
+messaging, think again. Last year, Internet Protocol (IP) networks carried
+2.7 billion minutes of phone calls worldwide, and International Data Corp.
+says that number could jump to 135 billion minutes by 2004, with nearly a
+quarter of that usage occurring in Asia. One company hitching its wagon to
+the IP telephony star is OCen Communications. OCen -- which stands for open
+communications enterprise network and means "profound telecommunications"
+in Chinese -- has built a private IP network linking Los Angeles to Asia,
+enabling customers in California to place IP voice and fax calls to Japan,
+South Korea, the Philippines, Taiwan and eastern China. Now, the company
+plans to sell its services to corporate customers in Asia for resale to
+consumers. Thought OCen faces a slew of competition from Internet phone
+carriers, it's the first to target the Asian business community, where
+quality is more of a factor than cost. Other IP phone companies have made
+price their big selling point. OCen is offering customers what amounts to a
+virtual private network -- ensuring high-quality service and four-digit
+dialing between company locations, even when those locations span several
+national borders. (Los Angeles Times 1 May 2000)
+http://www.latimes.com/business/20000501/t000040913.html
+
+CAN SCRATCH 'N SNIFF COMPUTERS BE FAR BEHIND?
+[You heard it first from me. . .hee hee]
+Shopping online for a Mother's Day gift and can't decide which perfume to
+choose? Not a problem any more. TriSenx has patented a technology that will
+let you click and smell. Using a device something like a desktop printer,
+you can download a smell or taste from the Internet. A picture of a
+strawberry, for example, both smells and tastes like, well, a strawberry.
+The scent technology, which several companies have been working on, works
+by mixing chemicals to create the desired smell. The scents are printed on
+a cardstock paper now, but future plans call for them to print to a
+communion-like wafer that would make it easier to sample tastes from the
+Web. Will it catch on? At its current price of $398, skeptics abound. "If
+it's going to be a couple of hundred bucks I'd be hard-pressed to see who's
+going to go out and buy a smell generator," says one analyst. Numerous
+businesses have expressed interest in the idea, including fragrance makers
+and cookie companies. (San Jose Mercury News 1 May 2000)
+http://www.sjmercury.com/svtech/news/breaking/ap/docs/481779l.htm
+
+NEW EU ENCRYPTION EXPORT RULE LOOSER THAN U.S.
+The European Union has agreed to relax the rules for exporting encryption
+software, lifting almost all restrictions on encryption exports among the 15
+EU countries and 10 other countries -- the U.S., Japan, Canada, Switzerland,
+Australia, New Zealand, Norway, Czech Republic, Hungary and Poland -- which
+together make up over 80% of the world market. The new EU rules eliminate
+the need to secure approval from national licensing bodies and do away with
+security checks for all encryption products with the exception of so-called
+crypto-analytic tools, which can be used to test systems and crack codes.
+Companies will need only to promise that the end user of the encryption
+product is in one of the 25 countries approved. Exports to countries outside
+that group will be subject to current restrictions. The move puts U.S.
+encryption companies once again at a disadvantage, despite a liberalization
+of export rules that took effect in January. And although U.S. companies are
+likely to respond by pushing for further reforms, it's not likely that the
+government will oblige. (Wall Street Journal 28 Apr 2000)
+http://interactive.wsj.com/articles/SB956867771608897487.htm
+
+LOSING INTERNET WEALTH AT INTERNET SPEED
+Among the many technology entrepreneurs who have seen market gyrations cause
+their stock holdings to plummet is MicroStrategy founder and chief executive
+Michael J. Saylor, who made news two months ago when he announced that he
+was putting $100 million of his personal funds into the creation of an
+online university.  A MicroStrategy spokesman says that Saylor will continue
+his plans to make that donation, even though the market value of his
+personal stake in the company has dropped from a high of $13.6 billion to
+$1.07 billion at close of the market yesterday. (Washington Post 28 Apr 2000)
+http://www.washingtonpost.com/wp-dyn/articles/A29010-2000Apr27.html
+
+JUDGE WANTS HACKER OFF THE LECTURE CIRCUIT
+[Is this EX POST FACTO as prohibited in the US Constitution?]
+When he was released on probation after having been imprisoned almost five
+years for network vandalism, Kevin Mitnick was ordered to stay completely
+away from computers, cell phones, and the Internet for three years. The
+judge, assuming that Mitnick would have to find some minimum-wage job,
+didn't think of ordering him not to give speeches about his knowledge of
+hacking. To rectify her oversight, U.S. District Judge Mariana Pfaelzer is
+now telling him she'll send him back to jail if he doesn't get off the
+lecture circuit. Mitnick says, "They're saying I can no longer write or
+speak about technology issues. I think it is an abrogation of my First
+Amendment rights... Probation is not supposed to be punitive...They don't
+like the idea of my being a celebrity. They are trying to chill my free
+speech in hopes that my notoriety will die down." (AP/San Jose Mercury News
+28 Apr 2000)
+
+JUSTICE APPROVES VIACOM-CBS MERGER
+[More Merger Mania]
+The Justice Department has okayed Viacom's $47-billion purchase of CBS, and
+the Federal Communications Commission has indicated it, too, plans to
+approve the megamerger. In its recommendation for approval, the FCC's Mass
+Media Bureau  said the combined company should be given a year to comply
+with the 35% audience limit and six months to sell off two radio stations or
+a TV station in Dallas, in order to comply with media ownership rules. The
+Bureau also recommended that Viacom-CBS be allowed to keep UPN for one year,
+during which time the FCC likely will relax its dual-network prohibition.
+(Hollywood Reporter 27 Apr 2000)
+http://www.hollywoodreporter.com/frontpage/index.asp?ee
+
+MICROSOFT COUNTS ON TEEN WHIZZES FOR THE FUTURE
+Microsoft has seen the future and it is young.  So it's hired two teenagers
+-- Michael Furdyk, 17, and Jennifer Corriero, 19 -- to explain to Microsoft
+executives the new generation's philosophy of work and play. "People's lives
+used to be all about education, then work, then retirement or fun or
+whatever," says Corriero. "But what's happening with us is that all three of
+these things are all mixed in together. We're always learning, we like our
+work so we're working more, and we're working when we want to, and we're
+having fun now as opposed to later." One example of how things are changing
+is that younger people seem to prefer online chat meetings as opposed to
+conference room get-togethers. They feel they can communicate more
+thoughtfully by writing, can work on other projects while waiting for a
+response, and can walk away from the meeting with a written record of all
+that was discussed. (AP/Los Angeles Times 27 Apr 2000)
+http://www.latimes.com/business/20000427/t000039487.html
+
+COMPUTER GIANTS SEEK SAVINGS THROUGH B2B PARTNERSHIP
+Taking their cue from "old economy" veterans who have formed
+business-to-business partnerships to help reduce supply costs, three of the
+top five computer companies -- Compaq, Hewlett-Packard and Gateway --
+announced they have joined with nine suppliers to launch a new "online
+marketplace company." The enterprise initially will be a catalog of
+products from each participant and later will link buyers and sellers.
+Eventually it's expected to speed up the design and manufacture of new
+products and will include telecom and consumer electronics components.
+Backers, who estimate savings will be between 5% to 7%, are actively
+seeking other players, including Internet software and services suppliers.
+Pioneer partners are chipmakers Advanced Micro Devices Inc., Samsung
+Electronics, Infineon Technologies, NEC Corp. and Hitachi Ltd.; disk-drive
+makers Quantum Corp. and Western Digital; and printed circuit-board makers
+Solectron Corp. and SCI Systems Inc. The new company is expected to be up
+and running in 90 days. IBM announced it is developing a similar exchange.
+(San Jose Mercury News 1 May 2000)
+
+SCI FI WRITER WINS PRIZE CREATED FOR ONLINE VISUAL ARTISTS
+[No. . .I swear. . .I didn't get to this one until just now, didn't know!]
+By-passing 250 official entries in the Internet category of the Prix Ars
+Electronica international computer-arts competition sponsored by the
+Austrian Broadcasting Company, the jurors gave the prize to science fiction
+author Neal Stephenson ("Snow Crash" and "Cryptonomicon'), who didn't even
+enter the contest and isn't even a visual artist.  One juror said
+off-the-record: "It was a good way to make the comment that the work we were
+seeing wasn't as original, and also to credit Neal Stephenson because he's
+directly inspired so many developers." (New York Times 27 Apr 2000)
+http://www.nytimes.com/library/tech/00/04/cyber/artsatlarge/27artsatlarge.html
+
+OPPOSITION TO PROPOSED AOL-TIME WARNER MERGER
+The Consumers Union, the Consumer Federation of America, the Center for
+Media Education, and the Media Access Project will file petitions with the
+Federal Communications Commission and the Federal Trade Commission in
+opposition to the proposed merger of America Online and Time Warner, which
+the groups say will add "a dangerous new dimension to the merging structure
+of the cable TV-broadband-Internet industry." AOL and Time Warner say that,
+to the contrary, the merger "will deliver tremendous benefits to consumers,
+bringing people around the world more choice and more convenience and
+accelerating the rollout of broadband services." (Washington Post 26 Apr 2000)
+http://www.washingtonpost.com/wp-dyn/articles/A13380-2000Apr25.html
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+NEW VOICE IN PORTALS
+A number of Internet startups are creating voice portals that
+allow users to access the Internet using a telephone rather than
+a computer.  Users call a toll-free number and speak commands to
+navigate the Internet.  Tellme Networks has built a voice portal
+that allows users to choose from various categories of
+information, including stock quotes, weather reports, and
+restaurant and movie listings.  Using speech recognition
+technology, the portal takes in a caller's selection, finds the
+requested information online, and reads the information aloud.
+Voice portal developers expect to eventually create voice sites
+that users would navigate by speaking keywords.  The market for
+using the phone to provide Internet access and direct users to
+businesses could reach $5.5 billion, says Mark Plakias of Kelsey
+Group.  Voice portals could help narrow the digital divide since
+telephones are so widely available and easy to use.
+(SiliconValley.com, 30 April 2000)
+
+EPA TO LIMIT WEB INFORMATION
+[Beaten to death from both sides.]
+The Environmental Protection Agency has decided that it will not
+publish specific information on the Internet about toxic waste
+sites and other dangerous chemicals residing in manufacturing
+plants for fear that terrorists will use the information to
+launch an attack.  The EPA had previously planned to make such
+information public, but objections were raised by FBI and Justice
+Department officials, who felt that the information could be used
+by people with bad intent to facilitate an attack on a chemical
+plant.  New EPA and Justice Department regulations will be
+released today.  Omitted from the Internet will be information
+relating to the size of the population surrounding chemical
+plants, the type and breadth of a toxic cloud that could develop
+if there were an accident at a chemical plant, and disaster
+scenarios that could occur if such an accident took place.
+(Washington Post, 27 April 2000)
+
+A LAPTOP FOR EVERY KID
+Four years after the principal of a Bloomfield, Conn., school
+initiated an effort to supply all of its students and teachers
+with laptops and wireless Internet access, other school systems
+across the country are seeking to act on bold plans of their own
+to provide their students with such technology.  In Maine, the
+state legislature will vote this week on a proposal by Gov. Angus
+King that would supply all of the state's 17,000 seventh-graders
+with laptops, as well as the new seventh-graders of each school
+year.  Although King wanted to use as much as $50 million of the
+state's budget surplus to wire students, a compromise has reduced
+that amount to $30 million, which would also be used to establish
+a permanent endowment with its interest to be used to help buy
+the computers.  In New York City, the board of education has
+already voted to pursue an initiative that could fund laptop
+purchases for every student in fourth grade and higher in nine
+years.  With its April 12 unanimous vote, a school Internet
+portal will be created, and the Web site will make money by
+selling ads and licensing e-commerce sites.  New York's 1.1
+million public school students will obtain e-mail service through
+the portal. (Time, 1 May 2000)
+
+COMPANIES, SCHOOLS DO MATH: TECH PAYS
+The effects of the digital divide are perhaps most evident in
+Silicon Valley, where high-tech workers are regularly becoming
+millionaires while many non-tech workers cannot afford to pay
+rent.  With local workers filling only two-thirds of high-tech
+labor needs, the industry is losing $3 billion a year in
+productivity and high salaries needed to keep workers, according
+to the business, government, and education think tank Joint
+Venture: Silicon Valley.  Although Silicon Valley is renowned for
+technology, the region's schools are unable to meet demand for
+technical classes because of poor funding and a lack of qualified
+teachers.  Schools have had to cancel technology classes because
+teachers, frustrated with low salaries, are entering the
+high-tech field.  Some companies are trying to create a skilled
+labor pool by providing training and equipment to local high
+schools and community colleges.  Meanwhile, Joint Venture:
+Silicon Valley urges local high-tech companies to send workers to
+teach at community colleges to "spread the wealth" of Silicon
+Valley. (Investor's Business Daily, 26 April 2000)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+Mac users can download our .txt files in binary mode
+to avoid the double spacing cr/lf line ends creates.
+Or download the .zip files, which unzip properly for
+nearly any operating system they are unzipped for...
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+

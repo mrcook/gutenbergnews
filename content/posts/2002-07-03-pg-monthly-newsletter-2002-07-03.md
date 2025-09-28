@@ -1,0 +1,916 @@
+---
+params:
+  id: 1878
+title: PG Monthly Newsletter (2002-07-03)
+date: 2002-07-03T13:27:33+00:00
+author: Michael Cook
+layout: post
+url: /20020703/pg-monthly-newsletter-2002-07-03/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre># - # - # - # - #   [ JUNE 2002 ]
+
+
+                     !!!Our 31st Anniversay Issue!!!
+
+**The Project Gutenberg Monthly Newsletter For Wednesday, July 3, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+***Today We Have The Honor To Announce Project Gutenberg Of Portugal!***
+Last Year We Managed to Bring You Over 1,200 New Project Gutenberg eBooks
+This Year We Hope We Can Bring You Over 2,400 New Project Gutenberg eBooks
+Next Year We Hope We Can Bring You Over 3,600 New Project Gutenberg eBooks
+
+
+         1,216 New eBooks IN THE FIRST 6 MONTHS OF 2002!!!
+
+             It took us 27 years for the first 1,200!!!
+
+             That's 6 MONTHS as Compared to 27 YEARS!!!
+
+
+               From July 4th, 1971 to July 3, 2002
+
+
+At Around 1,200 eBooks We Were Doing A Pretty Nice Selection:
+
+Feb 1998 Nada the Lily, by H. Rider Haggard   [Haggard #2] [ndllyxxx.xxx]1207
+Feb 1998 The Flying U Ranch, by B. M. Bower   [Bower #5]   [flurnxxx.xxx]1206
+Feb 1998 The Colour of Life, by Alice Meynell [Meynell #2] [clrlfxxx.xxx]1205
+
+Feb 1998 Cabin Fever, by B. M. Bower    [B. M. Bower #4]   [cabfvxxx.xxx]1204
+Feb 1998 Dolly Dialogues by Anthony Hope [Anthony Hope #4] [dlydlxxx.xxx]1203
+Feb 1998 Tales of Unrest, by Joseph Conrad   [Conrad #20]  [tnrstxxx.xxx]1202
+Feb 1998 Essay on the Trial By Jury, by Lysander Spooner[1][tbjryxxx.xxx]1201
+
+Feb 1998 Gargantua and Pantagruel, by Francis Rabelais     [ggpntxxx.xxx]1200
+Feb 1998 An Anthology of Australian Verse, Bertram Stevens [ozvrsxxx.xxx]1199
+Feb 1998 Robbery Under Arms, by Rolf Boldrewood[T.A.Browne][robryxxx.xxx]1198
+Feb 1998 Taras Bulba, et. al, by Nikolai Gogol [Gogol #2-7][tarasxxx.xxx]1197
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 184th Day of 2002
+181 Days/26 Weeks Left Until 2003
+
+Ending our 26th Week Of The Year
+
+We did 1240 eBooks in 2001
+We did 1216 In The Last 6 Months
+
+
+The 12th Week Of Our SECOND 5,000 eBooks
+
+20-24 Months From Today, Perhaps Our 10,000th eBook!
+
+At 5500+ eBooks in 31 Years We Averaged
+   177 Per Year
+    15 Per Month
+    .5 Per Day
+
+At 1200+ eBooks Done In 2002 We Averaged
+   6.5 eBooks Per Day
+    46 eBooks Per Week
+   200 eBooks Per Month!!!
+
+
+1,890   New eBooks In The Last Year
+3,618   eBooks This Week Last Year
+5,508   Tree-Friendly Titles Now Online
+
+     69   New This Week [23rd week of 2002]
+     52   New Last Week
+     47   Weekly Average This Year
+     29   New This Week Last Year
+    200   Monthly Average This Year
+    201   New This Month [6th month of 2002]
+   1216   New This Year!!!
+    391   New At This Time Last Year
+
+     77   eBooks From Project Gutenberg of Australia
+     39   Only 39 Numbers Left On Our Reserved Numbers list
+          [Last Year It Was Well Over 100]
+
+
+***] Announcements [***
+
+--Update On Music Site
+
+Gutenberg Music Web Site Launch  [NEW EMAIL ADDRESS] gpawlicki@earthlink.net
+
+Project Gutenberg is proud to inaugurate the Music Website
+http://ibiblio.org/gutenberg/music/ as the principle outlet for the Chamber
+Music Archive. You'll find free scores and parts of public domain music,
+digitized in a variety of printable, playable and editable formats.
+The initial postings are classical chamber music, including quartets by
+Beethoven, Mozart, Haydn and Brahms in Coda Music's Finale (.MUS) format.
+For further information regarding procedures, the files, and the site,
+please see entries in the FAQ
+&lt;http://ibiblio.org/gutenberg/music/music_helpex.html&gt;
+and Volunteer &lt;http://ibiblio.org/gutenberg/music/music_volunteer.html&gt; pages,
+or contact Geof Pawlicki &lt;MAILTO:geof@ibiblio.net&gt; directly.
+
+--Project Gutenberg in Portugal
+
+We have received word from Joao Marques in Portugal that there will soon
+be a Project Gutenberg site in that country, that will be similar to the
+Project Gutenberg site in Australia, allowing the people of Portugal to
+access Ebooks which are in the public domain in that country.  This is
+still in early development, and we will provide more details as soon as
+they become available.
+
+And a huge PG welcome to the new associates in Portugal!
+
+***
+
+--Requests for Assistance:
+
+Programmers familiar with the Palm OS are needed to help write a
+freeware application which will allow the contents of
+GUTINDEX.ALL (all the books loaded into Project Gutenberg) to be
+synched to a Palm (or similar) handheld computer.  This would
+allow volunteers to check whether a book is already in the system
+before picking one up at a library or garage sale.  Additionally,
+the system is intended to allow volunteers to track texts they
+have acquired and are in the process of preparing for Project
+Gutenberg.  Please contact William Fishburne
+(william.fishburne@verizon.net) if you are able to help.  Access
+to a compiler which can generate code for the Palm OS and/or a
+compiler for generating conduits (PC, Mac, Lynix, Beos, whatever)
+would be necessary.  Thanks!
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+--Two new PG Mirror Sites!  Welcome to:
+
+Location:  Universidad Pedagogica Nacional
+Mexico City, Mexico
+URL: ftp://gutenberg.upn.mx/pub/gutenberg
+FTP only, no HTTP.
+
+Location: Grahamstown, South Africa
+Sponsor: Rhodes University
+Address: http://gutenberg.ru.ac.za/    and
+          ftp://gutenberg.ru.ac.za/pub/
+NOTE: Only available to South Africa and the surrounding regions
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro and Announcements (above)
+- Request For Assistance From [above]
+- Making Donations
+- Where To Get eBooks
+- Information About Mirror Sites
+- Weekly eBook update:
+    Updates/corrections
+    6 New eBooks from Project Gutenberg of Australia
+     201 new U.S. eBooks
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+   or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world, and http://promo.net/pg can
+get you to the nearest one.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+         http://ibiblio.org/gutenberg/etext04
+or      ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our Ebooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new Etext number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, and
+    as well as a new Etext number.
+
+--Please note the following changes, corrections and improvements:
+
+The following ebooks have been audio-enabled by Mike Eschman; the
+audio performances of these public domain eBooks are copyrighted
+by him; readme files are posted for all:
+Apr 2001 The Hunchback of Notre Dame, by Victor Hugo [VH#3][hbackxxx.xxx]2610
+May 1998 Riders of the Purple Sage, by Zane Grey  [Grey #7][prpsgxxx.xxx]1300
+May 1997 De Profundis, by Oscar Wilde  [Oscar Wilde #13]   [dprofxxx.xxx] 921
+Oct 1996 The Atomic Bombings of Hiroshima and Nagasaki     [abombxxx.xxx] 685
+Oct 1995 Dracula, by Bram Stoker [Halloween Request #5]    [dracuxxx.xxx] 345
+Oct 1993 A Connecticut Yankee, Mark Twain [Twain #4]       [yankexxx.xxx]  86
+Aug 1993 Tarzan of the Apes, Edgar Rice Burroughs[Tarzan#1][tarznxxx.xxx]  78
+[Multiple *.mp3 files for each eBook, also available in *.zip]
+
+
+The following previously posted Ebook is being re-indexed to
+correct series numbering:
+Mar 2004 The Eye of Zeitoon, by Talbot Mundy      [Mundy#4][zeitoxxx.xxx]5241
+(Originally posted incorrectly as Mundy #3)
+
+
+The following has been posted at PG of Australia in a new format as
+indicated, zipped file only, with graphics:
+June 2002 The Journal of Gregory Blaxland--1813     [GB#01][020041xx.xxx]0075A
+[Editor: Frank Walker (1861-1948)]
+[HTML in http://gutenberg.net.au/0200411h.ZIP]
+
+We have posted the following Ebooks in new formats as indicated:
+Mar 2004 The Long Vacation, by Charlotte M. Yonge[Yonge#30][lvacaxxx.xxx]5251
+[HTML files posted:  lvaca10h.htm/.zip]
+Jan 2004 Australia Twice Traversed, by Ernest Giles        [strttxxx.xxx]4974
+[HTML with images posted in zip only:  strtt10h.zip]
+Dec 2003 Pecheur d'Islande, by Pierre Loti         [Loti#8][?pchsxxx.xxx]4785
+[HTML posted:  8pchs10h.htm/.zip]
+Mar 2003 Balzac, Frederick Lawton                          [balzaxxx.xxx]3822
+[HTML in balza10h.htm/.zip]
+Apr 2001 Grimms' Fairy Tales, by the Grimm Brothers        [grimmxxx.xxx]2591
+[PDF in grimm10pa.zip; TeX in grimm10ta.zip]
+Jun 1998 Pride and Prejudice, by Jane Austen    [Austen #8][pandpxxx.xxx]1342
+[LaTeX in pandp12t.tex/.zip, PDF in pandp12p.pdf/.zip]
+[PDF Folio in pandp12p2.pdf/.zip]
+(Also minor changes to the plain text file pandp12.txt/.zip)
+Sep 1994 Sense and Sensibility, by Jane Austen [Austen #5] [sensexxx.xxx] 161
+[Tex in sense11t.txt/.zip, PDF in sense11p.pdf/.zip]
+(Also minor changes to sense11.txt)
+
+
+We have posted the following in an improved 11th edition, as well
+as in a new format as indicated:
+Feb 2004 South, by Sir Ernest Shackleton                   [southxxx.xxx]5199
+[Subtitle: The Story of Shackleton's Last Expedition 1914-1917]
+[Plain text in south11.txt/.zip, HTML in  south11h.htm/.zip]
+
+We have posted an updated 12th edition of the following, plain text only:
+Jul 2003 Ulysses, by James Joyce                  [Joyce#4][ulyssxxx.xxx]4300
+
+We have posted an improved 11th edition of the following:
+Feb 2000 The Little Shepherd of Kingdom Come by John Fox Jr[lsokcxxx.xxx]2059
+Mar 1999 1492, by Mary Johnston [For Columbus Day, 1998]   [c1492xxx.xxx]1692
+
+We have posted the 10th edition of the following, replacing the
+previously posted 9th edition:
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 2  [#2][?ldv2xxx.xxx]4999
+
+
+***] 6 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+June 2002 Dodsworth, by Sinclair Lewis              [SL#04][020043xx.xxx]0077A
+[http://gutenberg.net.au/0200431.txt or .ZIP]
+June 2002 An American Tragedy, Theodore Dreiser     [TD#01][020042xx.xxx]0076A
+[http://gutenberg.net.au/0200421.txt or .ZIP]
+
+June 2002 The Journal of Gregory Blaxland--1813     [GB#01][020041xx.xxx]0075A
+[http://gutenberg.net.au/0200411.txt or .ZIP]
+[Editor: Frank Walker (1861-1948)]
+June 2002 The Crowned Skull, by Fergus Hume         [FH#01][020040xx.xxx]0074A
+[http://gutenberg.net.au/0200401.txt or .ZIP]
+June 2002 The Road to Wigan Pier, by George Orwell  [GO#10][020039xx.xxx]0073A
+[http://gutenberg.net.au/0200391.txt or .ZIP]
+June 2002 Queen of the Dawn, by H Rider Haggard     [HH#04][020038xx.xxx]0072A
+[http://gutenberg.net.au/0200381.txt or .ZIP]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 201 NEW U.S. POSTS [***
+
+(Note:  Etext #'s 5517 thru 5600 reserved for balance of Georg Ebers
+         series.)
+
+Apr 2004 Arachne,               by Ebers, Complete  [GE#77][ge77vxxx.xxx]5516
+[Author: Georg Ebers] [Contains eBooks #5508-5515]
+
+Apr 2004 Arachne,               by Georg Ebers, v8  [GE#76][ge76vxxx.xxx]5515
+Apr 2004 Arachne,               by Georg Ebers, v7  [GE#75][ge75vxxx.xxx]5514
+Apr 2004 Arachne,               by Georg Ebers, v6  [GE#74][ge74vxxx.xxx]5513
+Apr 2004 Arachne,               by Georg Ebers, v5  [GE#73][ge73vxxx.xxx]5512
+Apr 2004 Arachne,               by Georg Ebers, v4  [GE#72][ge72vxxx.xxx]5511
+
+Apr 2004 Arachne,               by Georg Ebers, v3  [GE#71][ge71vxxx.xxx]5510
+Apr 2004 Arachne,               by Georg Ebers, v2  [GE#70][ge70vxxx.xxx]5509
+Apr 2004 Arachne,               by Georg Ebers, v1  [GE#69][ge69vxxx.xxx]5508
+
+
+Apr 2004 Complete PG Edition of Winston Churchill   [WC#63][wc63wxxx.xxx]5400
+   Contents:
+     The Crossing
+     The Dwelling Place of Light
+     Mr. Crewe's Career
+     A Far Country
+     Coniston
+     The Inside of the Cup
+     Richard Carvel
+     A Modern Chronicle
+     The Celebrity
+     The Crisis
+     Dr. Jonathan (Play)
+     A Traveller in Wartime
+     An Essay on the American Contribution and the Democratic Idea]
+(Note:  the text file is 9.16mb, and the zip file is 3.59mb)
+Mar 2004 Essay On American Contribution, Churchill  [WC#62][wc62wxxx.xxx]5399
+[Title: Essay On The American Contribution And The Democratic Idea]
+[Author' full name: Winston Churchill]
+Mar 2004 A Traveller in War-Time,  by W. Churchill  [WC#61][wc61wxxx.xxx]5398
+[Author's full name: Winston Churchill
+Mar 2004 Dr. Jonathan, (Play) by Winston Churchill  [WC#60][wc60wxxx.xxx]5397
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 The Crisis, by Winston Churchill, Complete [WC#59][wc59wxxx.xxx]5396
+[Contains: eBooks #5388 to 5395]
+Mar 2004 The Crisis,       by Winston Churchill, V8 [WC#58][wc58wxxx.xxx]5395
+Mar 2004 The Crisis,       by Winston Churchill, V7 [WC#57][wc57wxxx.xxx]5394
+Mar 2004 The Crisis,       by Winston Churchill, V6 [WC#56][wc56wxxx.xxx]5393
+Mar 2004 The Crisis,       by Winston Churchill, V5 [WC#55][wc55wxxx.xxx]5392
+Mar 2004 The Crisis,       by Winston Churchill, V4 [WC#54][wc54wxxx.xxx]5391
+Mar 2004 The Crisis,       by Winston Churchill, V3 [WC#53][wc53wxxx.xxx]5390
+Mar 2004 The Crisis,       by Winston Churchill, V2 [WC#52][wc52wxxx.xxx]5389
+Mar 2004 The Crisis,       by Winston Churchill, V1 [WC#51][wc51wxxx.xxx]5388
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 The Celebrity,   by W. Churchill, Complete [WC#50][wc50wxxx.xxx]5387
+[Author's full name: Winston Churchill]
+[Contains: eBooks #5383 to 5386]
+Mar 2004 The Celebrity,    by Winston Churchill, V4 [WC#49][wc49wxxx.xxx]5386
+Mar 2004 The Celebrity,    by Winston Churchill, V3 [WC#48][wc48wxxx.xxx]5385
+Mar 2004 The Celebrity,    by Winston Churchill, V2 [WC#47][wc47wxxx.xxx]5384
+Mar 2004 The Celebrity,    by Winston Churchill, V1 [WC#46][wc46wxxx.xxx]5383
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 A Modern Chronicle, by Churchill, Complete [WC#45][wc45wxxx.xxx]5382
+[Contains: eBooks #5374 to 5381]
+Mar 2004 A Modern Chronicle,    by W. Churchill, V8 [WC#44][wc44wxxx.xxx]5381
+Mar 2004 A Modern Chronicle,    by W. Churchill, V7 [WC#43][wc43wxxx.xxx]5380
+Mar 2004 A Modern Chronicle,    by W. Churchill, V6 [WC#42][wc42wxxx.xxx]5379
+Mar 2004 A Modern Chronicle,    by W. Churchill, V5 [WC#41][wc41wxxx.xxx]5378
+Mar 2004 A Modern Chronicle,    by W. Churchill, V4 [WC#40][wc40wxxx.xxx]5377
+Mar 2004 A Modern Chronicle,    by W. Churchill, V3 [WC#39][wc39wxxx.xxx]5376
+Mar 2004 A Modern Chronicle,    by W. Churchill, V2 [WC#38][wc38wxxx.xxx]5375
+Mar 2004 A Modern Chronicle,    by W. Churchill, V1 [WC#37][wc37wxxx.xxx]5374
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 Richard Carvel,  by W. Churchill, Complete [WC#36][wc36wxxx.xxx]5373
+[Contains: eBooks #5365 to 5372]
+Mar 2004 Richard Carvel,   by Winston Churchill, V8 [WC#35][wc35wxxx.xxx]5372
+Mar 2004 Richard Carvel,   by Winston Churchill, V7 [WC#34][wc34wxxx.xxx]5371
+
+Mar 2004 Richard Carvel,   by Winston Churchill, V6 [WC#33][wc33wxxx.xxx]5370
+Mar 2004 Richard Carvel,   by Winston Churchill, V5 [WC#32][wc32wxxx.xxx]5369
+Mar 2004 Richard Carvel,   by Winston Churchill, V4 [WC#31][wc31wxxx.xxx]5368
+Mar 2004 Richard Carvel,   by Winston Churchill, V3 [WC#30][wc30wxxx.xxx]5367
+Mar 2004 Richard Carvel,   by Winston Churchill, V2 [WC#29][wc29wxxx.xxx]5366
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+Mar 2004 Richard Carvel,   by Winston Churchill, V1 [WC#28][wc28wxxx.xxx]5365
+
+Mar 2004 Inside Of The Cup,  by Churchill, Complete [WC#27][wc27wxxx.xxx]5364
+[Title: The Inside Of The Cup]
+Mar 2004 Inside Of The Cup,     by W. Churchill, V8 [WC#26][wc26wxxx.xxx]5363
+Mar 2004 Inside Of The Cup,     by W. Churchill, V7 [WC#25][wc25wxxx.xxx]5362
+Mar 2004 Inside Of The Cup,     by W. Churchill, V6 [WC#24][wc24wxxx.xxx]5361
+Mar 2004 Inside Of The Cup,     by W. Churchill, V5 [WC#23][wc23wxxx.xxx]5360
+Mar 2004 Inside Of The Cup,     by W. Churchill, V4 [WC#22][wc22wxxx.xxx]5359
+Mar 2004 Inside Of The Cup,     by W. Churchill, V3 [WC#21][wc21wxxx.xxx]5358
+Mar 2004 Inside Of The Cup,     by W. Churchill, V2 [WC#20][wc20wxxx.xxx]5357
+Mar 2004 Inside Of The Cup,     by W. Churchill, V1 [WC#19][wc19wxxx.xxx]5356
+[Author's Full Name:  Winston Churchill]
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+
+Mar 2004 Understood Betsy, by Dorothy Canfield             [ndrbtxxx.xxx]5347
+
+Mar 2004 Expeditions into Central Australia, by E. J. Eyre [xpcscxxx.xxx]5346
+Mar 2004 Expeditions into Central Australia V2, by E.J.Eyre[xpcscxxx.xxx]5345
+Mar 2004 Expeditions into Central Australia V1, by E.J.Eyre[xpcscxxx.xxx]5344
+[Full title: Journals Of Expeditions Of Discovery Into Central Australia]
+[And Overland From Adelaide To King George's Sound In The Years 1840-1]
+[Full author: Edward John Eyre]
+
+Mar 2004 Rainbow Valley, by Lucy Maud Montgomery   [LMM#11][rnbvlxxx.xxx]5343
+Mar 2004 The Story Girl, by Lucy Maud Montgomery   [LMM#10][strglxxx.xxx]5342
+Mar 2004 Kilmeny of the Orchard,by Lucy Maud Montgomery[#9][klmnrxxx.xxx]5341
+
+Mar 2004 Further Chronicles of Avonlea, L.M. Montgomery[#8][fcrvnxxx.xxx]5340
+Mar 2004 Peter Schlemihl etc.,Chamisso et. al.              [ptscxxx.xxx]5339
+[Plain text version in ptscxxxx.txt/.zip, HTML in ptscxxh.htm/.zip]
+   Contains:
+     Peter Schlemihl by Adelbert Chamisso
+     The Story Without An End by Carode translated by Sarah Austin
+     Hymns To Night by Novalis translated by Henry Morley
+Mar 2004 Mark Rutherford's Deliverance,by M. Rutherford [#2][mkrdxxx.xxx]5338
+[Real name: White, William Hayle]
+[Plain text version in mkrdxxxx.txt/.zip, HTML in mkrdxxh.htm and .zip]
+Mar 2004 31 Yrs on the Plains and In the Mountains, Drannan[toypixxx.xxx]5337
+[Full Title: Thirty-One Years on the Plains and In the Mountains]
+[Author's Full Name: William F. Drannan]
+[Subtitle: Or, the Last Voice From the Plains.  An Authentic Record of]
+[a Life Time of Hunting, Trapping, Scouting and Indian Fighting in the]
+[Far West.]
+Mar 2004 Stories by Foreign Authors:  Scandinavian,Various [strsbxxx.xxx]5336
+[Authors:  Bjornson, Bjornstjerne; Aho, Juhani; Goldschmidt, M; Kielland,]
+[Alexander; Bremer, Fredrika]
+   Contains:
+     The Father
+     When Father Brought Home the Lamp
+     The Flying Mail
+     The Railroad and the Churchyard
+     Two Friends
+     Hopes
+
+Mar 2004 Raspberry Jam, by Carolyn Wells       [C. Wells#3][rspbjxxx.xxx]5335
+Mar 2004 Expeditions into New South Wales, by John Oxley   [xpnswxxx.xxx]5334
+[Full title: Journals of Two Expeditions into the Interior of New South Wales]
+Mar 2004 Every Man In His Humor, by Ben Jonson  [Jonson#10][emihhxxa.xxx]5333
+(Note:  This is acompletely different VERSION from our earlier posting:
+(Jan 2003 Every Man In His Humour, Ben Jonson [Jonson #1][emihhxxx.xxx]3694)
+Mar 2004 The Love Sonnets of a Car Conductor, W. Irwin [#2][tlsccxxx.xxx]5332
+[Author's Full Name: Wallace Irwin]
+
+Mar 2004 NATURAE, by Dom                           [Dom #3][domnaxxx.xxx]5331C
+[Plain text in domna10.txt/.zip, RTF in domna10r.rtf/.zip]
+Mar 2004 Rhyme and Reason, by Dom                  [Dom #2][domrhxxx.xxx]5330C
+[Full title: Rhyme And Reason - A Compilation Of Verses, Rhymes And Senses]
+[Plain text in domrh10.txt/.zip, RFT in domrh10r.rtf/.zip]
+Mar 2004 PoPHILO, by Dom                           [Dom #1][dompoxxx.xxx]5329C
+[Plain text in dompo10.txt/.zip, RTF in dompo10r.rtf/.zip]
+[Note: Dom is a pen name for L.M. Wong]
+
+Mar 2004 Writing for Vaudeville, by Brett Page             [vaudexxx.xxx]5328
+Mar 2004 Pinocchio in Africa, Cherubini                    [pnocaxxx.xxx]5327
+[Plain text in pnoca10.txt/.zip; HTML WITH images and links in pnoca10hw.zip]
+[HTML without images/links in pnocal10h.htm/.zip]
+Mar 2004 Venetianische Epigramme, by J. Goethe  [Goethe#34][?vepixxx.xxx]5326
+[Author's Full Name: Johann Wolfgang Goethe]
+[Subtitle: Venetian Epigrams]   [Language: German]
+[7-bit version with non-accented characters in 7vepi10.txt/.zip]
+[8-bit version with accented characters in 8vepi10.txt/.zip]
+
+Mar 2004 Roemische Elegien, by J. Goethe        [Goethe#33][?rmelxxx.xxx]5325
+[Author's Full Name: Johann Wolfgang Goethe]
+[English title: Roman Elegies]   [Language: German]
+[7-bit version with non-accented characters in 7rmel10.txt/.zip]
+[8-bit version with accented characters in 8rmel10.txt/.zip]
+Mar 2004 The Book of Were-Wolves, by Sabine Baring-Gould   [bofwwxxx.xxx]5324
+[Plain text in bofww10.txt/.zip, HTML in  bofww10h.htm/.zip]
+Mar 2004 Effi Briest, by Theodor Fontane                   [?effixxx.xxx]5323
+[Language: German]
+[7-bit version with non-accented characters in 7effi10.txt/.zip]
+[8-bit version with accented characters in 8effi10.txt/.zip]
+Mar 2004 Woyzeck, by Georg B|chner (Buchner)    [Buchner#2][?woyzxxx.xxx]5322
+[Language: German]
+[7-bit version with non-accented characters in 7woyz10.txt/.zip]
+[8-bit version with accented characters in 8woyz10.txt/.zip]
+Mar 2004 Concerning the Spiritual in Art, Wassily Kandinsky[cnsprxxx.xxx]5321
+
+Mar 2004 Taken Alive, by E. P. Roe                  [Roe#5][tknlvxxx.xxx]5320
+Mar 2004 Pagan Papers, by Kenneth Grahame                  [paganxxx.xxx]5319
+[Plain text in pagan10.txt/.zip, HTML in pagan10h.htm/.zip]
+Mar 2004 Les Precieuses Ridicules, by Moliere  [Moliere #7][?precxxx.xxx]5318
+[Author AKA Jean-Baptiste Poquelin]   [Language: French]
+[7-bit version with non-accented characters in 7prec10.txt/.zip]
+[8-bit version with accented characters in 8prec10.txt/.zip]
+Mar 2004 Through the Magic Door, by Arthur Conan Doyle[#32][ttmgdxxx.xxx]5317
+Mar 2004 Krasavitse, Kotoraya Niuhala Tabak, A. Pushkin[#3][kkntaxxx.xxx]5316
+[Author's Full Name: Alexander Pushkin]
+[Language: Russian]
+[Plain text in kknta10.txt/.zip, PDF in kknta10p.zip, tex in kknta10t.zip]
+[HTML in kknta10h.htm/.zip]
+
+Mar 2004 Told in the East, by Talbot Mundy        [Mundy#5][tintexxx.xxx]5315
+Mar 2004 Household Tales by Brothers Grimm, Grimm Brothers [grimmxxa.xxx]5314
+[Subtitle: Also known as Grimm's Fairy Tales.  200 tales and 10 legends]
+[Note: See also eBook #2591]
+[Plain text in grimm10a.txt/.zip, PDF in grimm10ap.pdf, TeX in grimm10at.zip]
+Mar 2004 The Herd Boy and His Hermit, by C. M. Yonge  [#32][hrdbhxxx.xxx]5313
+[Both plain-text and HTML files posted.]
+Mar 2004 Mother Goose in Prose, by L. Frank Baum  [Baum#21][mtgspxxx.xxx]5312
+Mar 2004 Parnassus on Wheels, by Christopher Morley  [CM#4][prnswxxx.xxx]5311
+
+Mar 2004 The Point of View, by Elinor Glyn                 [tpntvxxx.xxx]5310
+Mar 2004 Miss Lou, by E. P. Roe                     [Roe#4][mssluxxx.xxx]5309
+Mar 2004 The Paradise Mystery, by J. S. Fletcher           [tprdmxxx.xxx]5308
+Mar 2004 The Letters of Wolfgang Amadeus Mozart, V.1.  [#4][lwam1xxx.xxx]5307
+[Translated by Lady Wallace]
+Mar 2004 Down the Ravine, Charles Egbert Craddock      [#1][dnrvxxxx.xxx]5306
+[Author's real name: Murfree, Mary Noailles]
+[Plain text version in dnrvxxxx.txt/.zip, HTML in dnrvxxh.htm and .zip]
+
+Mar 2004 Travels in the Interior of Africa, Vol.2, M. Park [mng2xxxx.xxx]5305
+[Author's name: Mungo Park]
+[Plain text version in mng2xxxx.txt/.zip, HTML in mng2xxh.htm and .zip]
+Mar 2004 My Robin, by Frances Hodgson Burnett  [Burnett#13][myrbnxxx.xxx]5304
+Mar 2004 Little Hunchback Zia, Frances Hodgson Burnett[#12][lthbzxxx.xxx]5303
+[Full title: The Little Hunchback Zia]
+Mar 2004 The Land of the Blue Flower, by F. H. Burnett[#11][blfldxxx.xxx]5302
+Mar 2004 The Imperialist, by Sara Jeannette Duncan  [SJD#4][mprlsxxx.xxx]5301
+[Author AKA: Mrs. Everard Cotes]
+
+Mar 2004 Tales and Novels of J. De La Fontaine, All [LF#26][lf26wxxx.xxx]5300
+Mar 2004 The Nightingale &c,       by De La Fontaine[LF#25][lf25wxxx.xxx]5299
+   Contains
+     The Dress-maker
+     The Gascon
+     The Pitcher
+     To Promise is One Thing, to Keep it, Another
+     The Nightengale
+     Epitaph of Fontaine
+Mar 2004 The Quid Pro Quo &c,      by De La Fontaine[LF#24][lf24wxxx.xxx]5298
+   Contains
+     The Indiscreet Confession
+     The Contract
+     The Quid Pro Quo, or The Mistakes
+Mar 2004 The River Scamander &c,   by De La Fontaine[LF#23][lf23wxxx.xxx]5297
+   Contains
+     The River Scamander
+     The Confidant Without Knowing It, or The Strategem
+     The Clyster
+Mar 2004 The Picture &c,           by De La Fontaine[LF#22][lf22wxxx.xxx]5296
+   Contains
+     The Picture
+     The Pack-Saddle
+     The Ear-maker, and The Mould-Mender
+
+Mar 2004 The Spectacles &c,        by De La Fontaine[LF#21][lf21wxxx.xxx]5295
+   Contains
+     The Spectacles
+     The Bucking Tub
+     The Impossible Thing
+Mar 2004 Neighbor Peter's Mare &c, by De La Fontaine[LF#20][lf20wxxx.xxx]5294
+   Contains
+     The Devil in Hell
+     Neighbor Peter's Mare
+Mar 2004 King Candaules &c,        by De La Fontaine[LF#19][lf19wxxx.xxx]5293
+   Contains
+     The Psalter
+     King Candaules and the Doctor of Laws
+Mar 2004 Feronde &c,               by De La Fontaine[LF#18][lf18wxxx.xxx]5292
+   Contains
+     The Case of Conscience
+     The Devil of Pope-fig Island
+     Feronde
+Mar 2004 The Progress of Wit &c,   by De La Fontaine[LF#17][lf17wxxx.xxx]5291
+   Contains
+     The Progress of Wit
+     The Sick Abbess
+     The Truckers
+
+Mar 2004 The Amorous Courtesan & Nicaise,   Fontaine[LF#16][lf16wxxx.xxx]5290
+Mar 2004 The Mandrake & The Rhemese,  by La Fontaine[LF#15][lf15wxxx.xxx]5289
+Mar 2004 The Hermit &c,            by De La Fontaine[LF#14][lf14wxxx.xxx]5288
+   Contains
+     The Countryman Who Sought His Calf
+     Hans Carvel's Ring
+     The Hermit
+     The Convent Gardener of Lamporechio
+Mar 2004 St. Julian's Prayer,      by De La Fontaine[LF#13][lf13wxxx.xxx]5287
+Mar 2004 Monks of Catalonia & The Cradle,   Fontaine[LF#12][lf12wxxx.xxx]5286
+   Contains
+     The Monks of Catalonia
+     The Cradle
+
+Mar 2004 Friar Philip's Geese & Minutolo,   Fontaine[LF#11][lf11wxxx.xxx]5285
+   Contains
+     Preface to The Second Book
+     Friar Philips Geese
+     Richard Minutolo
+Mar 2004 Imitation of Anacreon &c, by De La Fontaine[LF#10][lf10wxxx.xxx]5284
+   Contains
+     The Two Friends
+     The Country Justice
+     Alice Sick
+     The Kiss Returned
+     Sister Jane
+     An Imitation of Anacreon
+     Another Imitation of Anacreon
+Mar 2004 Belphegor & Little Bell &c,  De La Fontaine[LF#09][lf09wxxx.xxx]5283
+   Contains
+     Belphegor
+     The Little Bell
+     The Glutton
+Mar 2004 The Ephesian Matron &c,   by De La Fontaine[LF#08][lf08wxxx.xxx]5282
+   Contains
+     The Eel Pie
+     The Magnificent
+     The Ephesian Matron
+Mar 2004 The Falcon & Little Dog,  by De La Fontaine[LF#07][lf07wxxx.xxx]5281
+   Contains
+     The Falcon
+     The Little Dog
+
+Mar 2004 The Magick Cup,           by De La Fontaine[LF#06][lf06wxxx.xxx]5280
+Mar 2004 Princess Bethrothed to Garba,   La Fontaine[LF#05][lf05wxxx.xxx]5279
+[Title: The Princess Bethrothed to the King of Garba
+Mar 2004 Old Man's Calendar &c,    by De La Fontaine[LF#04][lf04wxxx.xxx]5278
+   Contains
+     The Old Man's Calendar
+     The Avaricious Wife and Tricking Galant
+     The Jealous Husband
+     The Gascon Unpunished
+Mar 2004 Muleteer & Three Gossips, by De La Fontaine[LF#03][lf03wxxx.xxx]5277
+   Contains
+     The Muleteer
+     The Servant Girl Justified
+     The Three Gossips' Wager
+Mar 2004 Contented Cuckold &c,     by De La Fontaine[LF#02][lf02wxxx.xxx]5276
+   Contains
+     The Cudgelled and Contented Cuckold
+     The Husband Confessor
+     The Cobbler
+     The Peasant and His Angry Lord
+
+Mar 2004 Joconde,                  by De La Fontaine[LF#01][lf01wxxx.xxx]5275
+   Contains
+     La Fontaine's Life
+     Preface
+     Jaconde
+Mar 2004 The Chaplet of Pearls, by Charlotte M Yonge  [#31][chpltxxx.xxx]5274
+[Plain text version in chpltxxx.txt/.zip, HTML in chpltxxh.htm/.zip]
+Mar 2004 Darwiniana, by Asa Gray                           [drwnaxxx.xxx]5273
+Mar 2004 The Sea Fogs, by Robert Louis Stevenson   [RLS#40][seafoxxx.xxx]5272
+Mar 2004 Marjorie's Vacation, by Carolyn Wells    [Wells#2][mrjrexxx.xxx]5271
+
+Mar 2004 The Film Mystery, by Arthur B. Reeve    [Reeve#12][flmmsxxx.xxx]5270
+Mar 2004 Driven Back to Eden, by E. P. Roe          [Roe#3][drvbkxxx.xxx]5269
+Mar 2004 Courts and Criminals, by Arthur Train             [crtcrxxx.xxx]5268
+Mar 2004 Sister Carrie, by Theodore Dreiser [Dreiser #1]   [scarrxxa.xxx]5267
+(See also #233 from a different source)
+Mar 2004 Travels in the Interior of Africa, Vol.1, M. Park [mng1xxxx.xxx]5266
+[Author's name: Mungo Park]
+[Plain text version in mng1xxxx.txt/.zip, HTML in mng1xxh.htm and .zip]
+
+Mar 2004 The Ball and The Cross, by G.K. Chesterton [GC#15][bllcrxxx.xxx]5265
+Mar 2004 Patty's Butterfly Days, by Carolyn Wells          [ptbfdxxx.xxx]5264
+Mar 2004 The Girl Scout Pioneers, by Lillian C Garis       [gspnrxxx.xxx]5263
+Mar 2004 Curly and Floppy Twistytail,by Howard R. Garis[#2][crfltxxx.xxx]5262
+Mar 2004 Constance Dunlap, by Arthur B. Reeve    [Reeve#11][cnsdpxxx.xxx]5261
+
+Mar 2004 A Duet, by Arthur Conan Doyle            [Doyle#32][duetxxx.xxx]5260
+[Subtitle: with an occasional chorus]
+[Plain text version in duetxxxx.txt/.zip, HTML in duetxxh.htm and .zip]
+Mar 2004 Hildegarde's Neighbors, by Laura E. Richards  [#4][4hldgxxx.xxx]5259
+Mar 2004 Ainsi Parlait Zarathoustra, Frederic Nietzsche[#3][?nszrxxx.xxx]5258
+Also posted: HTML version in 8nszr10h.htm and 8nszr10h.zip
+Mar 2004 The Broad Highway, by Jeffery Farnol    [Farnol#3][brhgwxxx.xxx]5257
+Mar 2004 Jonathan Wild, by Henry Fielding      [Fielding#3][thllmxxx.xxx]5256
+[Full title: The History of the Life of the Late Mr. Jonathan Wild the Great]
+
+Mar 2004 The Book of Good Manners, by W. C. Green          [tbkgmxxx.xxx]5255
+Mar 2004 Apple Tree Island, by Mabel C. Hawley             [flbatxxx.xxx]5254
+[Full title: Four Little Blossoms on Apple Tree Island]
+Mar 2004 The Maid of the Whispering Hills, by Vingie E. Roe[tmwhlxxx.xxx]5253
+Mar 2004 The Voyage of Verrazzano, by Henry C. Murphy      [verraxxx.xxx]5252
+[Subtitle: A Chapter in the Early History of Maritime Discovery in America]
+Mar 2004 The Long Vacation, by Charlotte M. Yonge[Yonge#30][lvacaxxx.xxx]5251
+
+Mar 2004 Nana, by Emile Zola                       [Zola#7][7zolaxxx.xxx]5250
+[Language: French]
+Mar 2004 Travels in England in 1782, by Charles P. Moritz  [tengxxxx.xxx]5249
+[Author AKA:  Karl Philipp Moritz]
+[Plain text version in tengxxxx.txt/.zip, HTML in tengxxh.htm and .zip]
+Mar 2004 The Dock Rats of New York, by "Old Sleuth"        [dckrtxxx.xxx]5248
+[Author's real name: Harlan Page Halsey]
+Mar 2004 The Old Wives' Tale, by Arnold Bennett [Bennett#5][thldwxxx.xxx]5247
+Mar 2004 Modern French Philosophy, J. Alexander Gunn       [mfphixxx.xxx]5246
+[Subtitle: A Study of the Development Since Comte]
+[Plain text version in mfphi10.txt/.zip, HTML in mfphi10h.htm/.zip]
+
+Mar 2004 Tales from the Arabic Volumes 1-3, John Payne [#5][tftaaxxx.xxx]5245
+Mar 2004 Tales from the Arabic Volume 3, by John Payne [#4][tfta3xxx.xxx]5244
+Mar 2004 Tales from the Arabic Volume 2, by John Payne [#3][tfta2xxx.xxx]5243
+Mar 2004 Tales from the Arabic Volume 1, by John Payne [#2][tfta1xxx.xxx]5242
+Mar 2004 The Eye of Zeitoon, by Talbot Mundy      [Mundy#3][zeitoxxx.xxx]5241
+
+Mar 2004 Confessions of Harry Lorrequer, Complete    [HL#7][chl7wxxx.xxx]5240
+[Author:Charles James Lever (1806-1872)][Includes: EBook #5234 to 5239]
+Mar 2004 Confessions of Harry Lorrequer, v6, Ch.42-55[HL#6][chl6wxxx.xxx]5239
+Mar 2004 Confessions of Harry Lorrequer, v5, Ch.29-41[HL#5][chl5wxxx.xxx]5238
+Mar 2004 Confessions of Harry Lorrequer, v4, Ch.24-28[HL#4][chl4wxxx.xxx]5237
+Mar 2004 Confessions of Harry Lorrequer, v3, Ch.18-23[HL#3][chl3wxxx.xxx]5236
+Mar 2004 Confessions of Harry Lorrequer, v2, Ch.11-17[HL#2][chl2wxxx.xxx]5235
+Mar 2004 Confessions of Harry Lorrequer, v1, Ch. 1-10[HL#1][chl1wxxx.xxx]5234
+
+Mar 2004 The Iron Trail, by Rex Beach             [Beach#6][rntrlxxx.xxx]5233
+Mar 2004 Sejanus: His Fall, by Ben Jonson        [Jonson#9][sjnsfxxx.xxx]5232
+Mar 2004 The Way We Live Now, by Anthony Trollope   [AT#36][wwlvnxxx.xxx]5231
+
+Mar 2004 The Invisible Man, by H.G. Wells        [Wells#23][nvsblxxx.xxx]5230
+Mar 2004 Felix O'Day, by F. Hopkinson Smith       [Smith#7][flxdyxxx.xxx]5229
+Mar 2004 Ayesha, by H. Rider Haggard           [Haggard#38][ayshaxxx.xxx]5228
+Mar 2004 Sant' Ilario, by F. Marion Crawford   [Crawford#2][silarxxx.xxx]5227
+Mar 2004 Thomas Henry Huxley Vol. 2, by Leonard Huxley [#2][llth2xxx.xxx]5226
+[Full title: The Life and Letters of Thomas Henry Huxley Volume 2]
+
+Mar 2004 The Satyricon of Petronius Arbiter, Complete[PA#8][pas8wxxx.xxx]5225
+[Translator: W. C. Firebaugh][Includes Etexts #5218 to 5224]
+Mar 2004 Satyricon of Petronius, v7, Marchena Notes  [PA#7][pas7wxxx.xxx]5224
+Mar 2004 Satyricon of Petronius, v6, Editor's Notes  [PA#6][pas6wxxx.xxx]5223
+Mar 2004 Satyricon of Petronius, v5, Crotona Affairs [PA#5][pas5wxxx.xxx]5222
+Mar 2004 Satyricon of Petronius, v4, Escape by Sea   [PA#4][pas4wxxx.xxx]5221
+Mar 2004 Satyricon of Petronius, v3, Encolpius et al [PA#3][pas3wxxx.xxx]5220
+Mar 2004 Satyricon of Petronius, v2, Trimalchio      [PA#2][pas2wxxx.xxx]5219
+Mar 2004 Satyricon of Petronius, v1, Introduction    [PA#1][pas1wxxx.xxx]5218
+
+Mar 2004 Tales, by George Crabbe                 [Crabbe#7][gcrgxxxx.xxx]5217
+[Plain text version in gcrgxxxx.txt/.zip, HTML in gcrgxxh.htm and .zip]
+
+Mar 2003 Film: Set of 4 Atomic Bomb Test Films             [atom4xxx.xxx]5216
+[Posted as atom410m.mpg and .zip]
+Mar 2003 Film: Several Different Atomic Detonations        [atomixxx.xxx]5215
+[Posted as atomi10m.mpg and .zip]
+Mar 2003 Film: The Bikini Island BAKER Atomic Test         [bbakexxx.xxx]5214
+[Posted as bbake10m.mpg and .zip]
+Mar 2003 Film: The Bikini Island ABLE Atomic Test          [bablexxx.xxx]5213
+[Posted as bable10m.mpg and .zip]
+Mar 2003 Film: The Trinity Shot (first US Atomic Test)     [tshotxxx.xxx]5212
+[Posted as tshot10m.mpg and .zip]
+[The films above are in MPEG format and are short (9-60 seconds).
+(See "atomi10m-readme.txt", also in the .zip files, for further information)
+[See also eBooks #277, 279, 279 and 548]
+
+Mar 2004 The Famous Missions of California, by W. Hudson[2][fmcalxxx.xxx]5211
+[Author's Full Name: William Henry Hudson]
+
+Mar 2004 The Borough, by George Crabbe           [Crabbe#6][gcrfxxxx.xxx]5210
+[Plain text version in gcrfxxxx.txt/.zip, HTML in gcrfxxh.htm and .zip]
+Mar 2004 Miscellaneous Poems, by George Crabbe   [Crabbe#5][gcrexxxx.xxx]5209
+[Plain text version in gcrexxxx.txt/.zip, HTML in gcrexxh.htm and .zip]
+
+
+Nov 2003 Pilgrimage to Al-Madinah & Meccah 2, R Burton[#18][pnpa2xxx.xxx]4658
+[Full title and author name: Personal Narrative of a Pilgrimage to
+  Al-Madinah and Meccah, Volumes 1 and 2, by Sir Richard Francis Burton]
+
+
+May 2002 Leviathan, by Thomas Hobbes                       [lvthnxxx.xxx]3207
+[Subtitle: Or, the Matter, Forme, & Power of a Common-Wealth Eclesiastical]
+[and Civill]
+
+***
+
+       Total PG ebooks available online **AS OF 07/03/02**:  5,508
+(This number includes the 77 etexts posted at the PG Australia web site)
+
+In the first 26 weeks of the new year, we have produced 1,216 new eBooks.
+Note: it took us from 1971 to 1998 to produce our *FIRST* 1,200 eBooks!!!
+
+              That's 26 WEEKS as Compared to 27 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,508 eTexts online as of July 3rd, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.82 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.82 when we had 3548 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.99 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+</pre>
+
+<a href="/nl_archives/2002/pgmonthly_2002_07_03.txt" target="_blank" rel="nofollow">pgmonthly_2002_07_03.txt</a>

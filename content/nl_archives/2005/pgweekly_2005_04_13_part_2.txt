@@ -1,0 +1,443 @@
+The Project Gutenberg Weekly Newsletter 13 Apr 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 48 New U.S. eBooks this week
+    - 2 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 13 Apr 2005: 15998 (incl. 431 Aus.).
+
+Last week the Total Count was 15948, including 429 at PG of Australia.
+This week we added 50 new.
+
+RESERVED/PENDING count: 41
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+[Several corrections from George inserted here between ***'s]
+
+***
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Diary of a Goose Girl, by Kate Douglas Wiggin                         1867
+    [Updated edition of: etext99/gsgrl10.txt]
+    [Link: http://www.gutenberg.org/1/8/6/1867 ]
+    [Files: 1867.txt; 1867-h.htm]
+
+The Life of Charlotte Bronte - Volume 1, by Elizabeth Gaskell             1827
+    [Updated edition of: etext99/1locb10.txt]
+    [Link: http://www.gutenberg.org/1/8/2/1827 ]
+    [Files: 1827.txt; 1827-h.htm]
+
+A Monk of Fife, by Andrew Lang                                            1631
+    [Subtitle: Being the chronicle written by Norman Leslie of Pitcullo,
+     concerning marvellous deeds that befell in the realm of France, in
+     the years of our redemption, MCCCCXXIX-XXXI.  Now first done into
+     English out of the French]
+    [Updated edition of: etext99/mnkff10.txt]
+    [Link: http://www.gutenberg.org/1/6/3/1631 ]
+    [Files: 1631.txt; 1631-h.htm]
+
+:: GUTINDEX.ALL is being corrected to add note about the contents of the
+following two eBooks:
+
+La Fiammetta, by Giovanni Boccaccio                                      10006
+    [Tr.: James C. Brogan]
+    (Note: contains introduction, prologue, and chapter 1 only)
+
+Nov 1996 Hackers/Computer Revolution Heroes, by Steven Levy[hckrsxxx.xxx]  729C
+    [Title: Hackers, Heroes of the Computer Revolution]
+    (Note: contains only chapters 1 and 2)
+
+
+[<G>eorge]
+
+***
+
+-=-=-=-=[  48 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+First Love (Little Blue Book #1195), by Various                          15610
+   [Subtitle: And Other Fascinating Stories of Spanish Life]
+   [Editor: E. Haldeman-Julius]
+   [Link: http://www.gutenberg.net/1/5/6/1/15610 ]
+   [Files: 15610.txt; 15610-8.txt; 15610-h.htm]
+
+The American Missionary -- Vol. 44, No. 4, April, 1890, by Various       15609
+   [Link: http://www.gutenberg.net/1/5/6/0/15609 ]
+   [Files: 15609.txt; 15609-h.htm]
+
+In the Days of Poor Richard, by Irving Bacheller                         15608
+   [Link: http://www.gutenberg.org/1/5/6/0/15608 ]
+   [Files: 15608.txt; 15608-8.txt; 15608-h.htm; ]
+
+Family Pride, by Mary J. Holmes                                          15607
+   [Subtitle: Or, Purified by Suffering]
+   [Link: http://www.gutenberg.net/1/5/6/0/15607 ]
+   [Files: 15607.txt; 15607-8.txt; 15607-h.htm]
+
+The Life of the Truly Eminent and Learned Hugo Grotius, by Burigny       15606
+   [Author: Jean L�vesque de Burigny]
+   [Subtitle: Containing a Copious and Circumstantial History of the]
+   [Several Important and Honourable Negotiations in Which He Was Employed;]
+   [together with a Critical Account of His Works]
+   [Link: http://www.gutenberg.org/1/5/6/0/15606 ]
+   [Files: 15606.txt; 15606-8.txt; 15606-h.htm; ]
+
+Punch, or the London Charivari, Vol. 103, October 29, 1892, by Various   15605
+   [Editor: F. C. Burnand]
+   [Link: http://www.gutenberg.org/1/5/6/0/15605 ]
+   [Files: 15605.txt; 15605-8.txt; 15605-h.htm; ]
+
+Piano Mastery, by Harriette Brower                                       15604
+   [Subtitle: Talks with Master Pianists and Teachers]
+   [Link: http://www.gutenberg.org/1/5/6/0/15604 ]
+   [Files: 15604.txt; 15604-8.txt; 15604-h.htm; ]
+
+One Man in His Time, by Ellen Glasgow                                    15603
+   [Author AKA: Ellen Anderson Gholson Glasgow (1873-1945)]
+   [Link: http://www.gutenberg.org/1/5/6/0/15603 ]
+   [Files: 15603.txt; 15603-8.txt; 15603-h.htm; ]
+
+New South Wales, by William Charles Wentworth                            15602
+   [Full title: Statistical, Historical and Political Description of the Colony of New]
+   [South Wales and its Dependent Settlements in Van Diemen's Land]
+   [Subtitle: With a Particular Enumeration of the Advantages Which These Colonies Offer]
+   [for Emigration, and Their Superiority in Many Respects Over Those Possessed by the]
+   [United States of America]
+   [Link: http://www.gutenberg.net/1/5/6/0/15602 ]
+   [Files: 15602.txt; 15602-8.txt; 15602-h.htm]
+
+The Great Round World, Vol. 1, No. 29, by Various                        15601
+   [Full title: The Great Round World and What Is Going On In It, Vol. 1, No. 29, May 27,]
+   [1897]
+   [Subtitle: A Weekly Magazine for Boys and Girls]
+   [Editor: Julia Truitt Bishop]
+   [Link: http://www.gutenberg.net/1/5/6/0/15601 ]
+   [Files: 15601.txt; 15601-8.txt; 15601-h.htm]
+
+Matisse Picasso and Gertrude Stein, by Gertrude Stein                    15600
+   [Subtitle: With Two Shorter Stories]
+   [Link: http://www.gutenberg.net/1/5/6/0/15600 ]
+   [Files: 15600.txt; 15600-h.htm]
+
+The Collected Works of Ambrose Bierce, Volume 8, by Ambrose Bierce       15599
+   [Subtitle: Epigrams, On With the Dance, Negligible Tales]
+   [Link: http://www.gutenberg.net/1/5/5/9/15599 ]
+   [Files: 15599.txt; 15599-8.txt; 15599-h.htm]
+
+Advis de la deffaicte des Anglois, by Monseigneur le duc de Mercure      15598
+   [Full title: Advis de la deffaicte des Anglois et autres heretiques]
+   [venuz en Bretaigne, pour le Roy de Navarre, pres]
+   [Chasteau-bourg.]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/5/5/9/15598 ]
+   [Files: 15598-8.txt; 15598-8.txt ]
+
+Stories of American Life and Adventure, by Edward Eggleston              15597
+   [Link: http://www.gutenberg.org/1/5/5/9/15597 ]
+   [Files: 15597.txt; 15597-8.txt; 15597-h.htm; ]
+
+Bressant, by Julian Hawthorne                                            15596
+   [Link: http://www.gutenberg.org/1/5/5/9/15596 ]
+   [Files: 15596.txt; 15596-8.txt; 15596-h.htm; ]
+
+Vocational Guidance for Girls, by Marguerite Stockman Dickson            15595
+   [Link: http://www.gutenberg.org/1/5/5/9/15595 ]
+   [Files: 15595.txt; 15595-8.txt; 15595-h.htm; ]
+
+Punch, or the London Charivari, Vol. 103, October 22, 1892, by Various   15594
+   [Editor: F. C. Burnand]
+   [Link: http://www.gutenberg.org/1/5/5/9/15594 ]
+   [Files: 15594.txt; 15594-8.txt; 15594-h.htm; ]
+
+Les aventures de M. Colin-Tampon, by Jules Girardin                      15593
+   [Illustrator: R. Tinant]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/5/9/15593 ]
+   [Files: 15593-8.txt; 15593-h.htm]
+
+Old-Fashioned Fairy Tales, by Juliana Horatia Gatty Ewing                15592
+   [Link: http://www.gutenberg.org/1/5/5/9/15592 ]
+   [Files: 15592.txt; 15592-8.txt; 15592-h.htm; ]
+
+A Woman Named Smith, by Marie Conway Oemler                              15591
+   [Link: http://www.gutenberg.org/1/5/5/9/15591 ]
+   [Files: 15591.txt; 15591-8.txt; 15591-h.htm; ]
+
+Rough Stone Monuments and Their Builders, by T. Eric Peet                15590
+   [Link: http://www.gutenberg.net/1/5/5/9/15590 ]
+   [Files: 15590.txt; 15590-8.txt; 15590-h.htm]
+
+Les vies encloses, by Georges Rodenbach                                  15589
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/5/8/15589 ]
+   [Files: 15589-8.txt; 15589-r.rtf]
+
+The Pilot and his Wife, by Jonas Lie                                     15588
+   [Translator: G. L. Tottenham]
+   [Link: http://www.gutenberg.net/1/5/5/8/15588 ]
+   [Files: 15588.txt; 15588-8.txt]
+
+Macleod of Dare, by William Black                                        15587
+   [Link: http://www.gutenberg.net/1/5/5/8/15587 ]
+   [Files: 15587.txt; 15587-8.txt; 15587-h.htm]
+
+India, Old and New, by Sir Valentine Chirol                              15586
+   [Link: http://www.gutenberg.net/1/5/5/8/15586 ]
+   [Files: 15586.txt; 15586-8.txt; 15586-h.htm]
+
+Humorous Masterpieces from American Literature, by Various               15585
+   [Editor: Edward T. Mason]
+   [Link: http://www.gutenberg.net/1/5/5/8/15585 ]
+   [Files: 15585.txt; 15585-8.txt; 15585-h.htm]
+
+Jean Ziska, by George Sand                                               15584
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/5/8/15584 ]
+   [Files: 15584-8.txt; 15584-h.htm]
+
+Beadle's Boy's Library, Vol. I, No. 1., by Prentiss Ingraham             15583
+   [Full title: Beadle's Boy's Library of Sport, Story and Adventure,]
+   [Vol. I, No. 1.]
+   [Subtitle: Adventures of Buffalo Bill from Boyhood to Manhood]
+   [Link: http://www.gutenberg.org/1/5/5/8/15583 ]
+   [Files: 15583.txt; 15583-h.htm]
+
+Chartvlarivm Ecclesiae Sancti Petri de Bvrgo, by Ulysse Chevalier        15582
+   [Full title: Chartvlarivm Ecclesiae Sancti Petri de Bvrgo Valentiae]
+   [Ordinis Sancti Avgvstini]
+   [Language: Latin]
+   [Link: http://www.gutenberg.org/1/5/5/8/15582 ]
+   [Files: 15582-8.txt; 15582-h.htm]
+
+Life of Tecumseh, and of His Brother the Prophet, by Benjamin Drake      15581
+   [Subtitle: With a Historical Sketch of the Shawanoe Indians]
+   [Link: http://www.gutenberg.org/1/5/5/8/15581 ]
+   [Files: 15581.txt; 15581-8.txt; 15581-h.htm; ]
+
+The Rustlers of Pecos County, by Zane Grey                               15580
+   [Link: http://www.gutenberg.org/1/5/5/8/15580 ]
+   [Files: 15580.txt; 15580-h.htm; ]
+
+L'affaire Lerouge, by Emile Gaboriau                                     15579
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/5/7/15579 ]
+   [Files: 15579-8.txt; 15579-r.rtf]
+
+The Miracle Man, by Frank L. Packard                                     15578
+   [Link: http://www.gutenberg.net/1/5/5/7/15578 ]
+   [Files: 15578.txt; 15578-8.txt; 15578-h.htm]
+
+A History of the McGuffey Readers, by Henry H. Vail                      15577
+   [Link: http://www.gutenberg.net/1/5/5/7/15577 ]
+   [Files: 15577.txt; 15577-h.htm]
+
+System of Instruction in the Practical Use of the Blowpipe, by Anonymous 15576
+   [Subtitle: Being A Graduated Course Of Analysis For The Use Of Students]
+   [And All Those Engaged In The Examination Of Metallic]
+   [Combinations]
+   [Link: http://www.gutenberg.org/1/5/5/7/15576 ]
+   [Files: 15576.txt; 15576-8.txt; 15576-h.htm]
+
+The Tale of Samuel Whiskers, by Beatrix Potter                           15575
+   [Subtitle: The Roly-Poly Pudding]
+   [Link: http://www.gutenberg.org/1/5/5/7/15575 ]
+   [Files: 15575.txt; 15575-h.htm; ]
+
+Le capitaine Paul, by Alexandre Dumas                                    15574
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/5/5/7/15574 ]
+   [Files: 15574-8.txt; 15574-r.rtf]
+
+Judith of the Plains, by Marie Manning                                   15573
+   [Link: http://www.gutenberg.net/1/5/5/7/15573 ]
+   [Files: 15573.txt; 15573-8.txt; 15573-h.htm]
+
+A Leap in the Dark, by A.V. Dicey                                        15572
+   [Subtitle: A Criticism of the Principles of Home Rule as Illustrated by]
+   [          the Bill of 1893]
+   [Link: http://www.gutenberg.net/1/5/5/7/15572 ]
+   [Files: 15572.txt; 15572-8.txt; 15572-h.htm]
+
+Mary Cary, by Kate Langley Bosher                                        15571
+   [Subtitle: "Frequently Martha"]
+   [Link: http://www.gutenberg.net/1/5/5/7/15571 ]
+   [Files: 15571.txt; 15571-8.txt; 15571-h.htm]
+
+Paradise Garden, by George Gibbs                                         15570
+   [Subtitle: The Satirical Narrative of a Great Experiment]
+   [Link: http://www.gutenberg.net/1/5/5/7/15570 ]
+   [Files: 15570.txt; 15570-8.txt; 15570-h.htm]
+
+The Cuckoo Clock, by Mrs. Molesworth                                     15569
+   [Author AKA: Mary Louisa S. Molesworth (1839-1921)]
+   [Ill.: Walter Crane]
+   [Link: http://www.gutenberg.org/1/5/5/6/15569 ]
+   [Files: 15569.txt; 15569-8.txt; 15569-h.htm; ]
+
+The Law and the Word, by Thomas Troward                                  15568
+   [Link: http://www.gutenberg.org/1/5/5/6/15568 ]
+   [Files: 15568.txt; 15568-8.txt; 15568-h.htm]
+
+Customs And Manners Of The Micmakis And Maricheets, by Maillard          15567
+   [Full title: An Account Of The Customs And Manners Of The Micmakis And]
+   [Maricheets Savage Nations, Now Dependent On The Government]
+   [Of Cape-Breton]
+   [Full author: Antoine Simon Maillard]
+   [Link: http://www.gutenberg.org/1/5/5/6/15567 ]
+   [Files: 15567.txt; 15567-8.txt; 15567-h.htm]
+
+Notes to Shakespeare, Volume III: The Tragedies, by Samuel Johnson       15566
+   [Editor: Arthur Sherbo]
+   [Link: http://www.gutenberg.org/1/5/5/6/15566 ]
+   [Files: 15566.txt; 15566-8.txt; 15566-h.htm]
+
+Sir John Constantine, by Prosper Paleologus Constantine                  15565
+   [Subtitle: Memoirs Of His Adventures At Home And Abroad And]
+   [Particularly In The Island Of Corsica: Beginning With The]
+   [Year 1756]
+   [Editor: "Q" (A. T. Quiller-Couch)]
+   [Link: http://www.gutenberg.org/1/5/5/6/15565 ]
+   [Files: 15565.txt]
+
+The Philippine Islands, 1493-1898: Volume XVIII, 1617-1620, by Various   15564
+   [Subtitle: Explorations By Early Navigators, Descriptions Of The]
+   [Islands And Their Peoples, Their History And Records Of]
+   [The Catholic Missions, As Related In Contemporaneous Books]
+   [And Manuscripts, Showing The Political, Economic, Commercial]
+   [And Religious Conditions Of Those Islands From Their]
+   [Earliest Relations With European Nations To The Close Of]
+   [The Nineteenth Century]
+   [Editor: E. H. Blair and James Alexander Robertson; Historical]
+   [introduction and additional notes by Edward Gaylord Bourne]
+   [Link: http://www.gutenberg.org/1/5/5/6/15564 ]
+   [Files: 15564.txt; 15564-8.txt; 15564-h.htm]
+
+Reason and Faith; Their Claims and Conflicts, by Henry Rogers            15563
+   [Subtitle: From The Edinburgh Review, October 1849, Volume 90,]
+   [No. CLXXXII. (Pages 293-356)]
+   [Link: http://www.gutenberg.org/1/5/5/6/15563 ]
+   [Files: 15563.txt; 15563-8.txt]
+
+
+-=-=-=-=[ 2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2005 Random Harvest, by James Hilton                   [050034xx.xxx] 0429A
+   [http://gutenberg.net.au/ebooks05/0500341.txt or .zip ]
+   [ and http://gutenberg.net.au/ebooks05/0500341h.html ]
+
+Apr 2005 The Marquis of Carabas, by Rafael Sabatini        [050033xx.xxx] 0428A
+   [http://gutenberg.net.au/ebooks05/0500331.txt or .zip ]
+   [  and http://gutenberg.net.au/ebooks05/0500331h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+
+~ ~ ~
+
+Education: that which reveals to the wise, and conceals from the stupid,
+the vast limits of their knowledge. - Mark Twain
+
+=============================================================================

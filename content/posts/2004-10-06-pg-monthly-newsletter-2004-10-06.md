@@ -1,0 +1,2922 @@
+---
+params:
+  id: 2102
+title: PG Monthly Newsletter (2004-10-06)
+date: 2004-10-06T16:38:21+00:00
+author: Michael Cook
+layout: post
+url: /20041006/pg-monthly-newsletter-2004-10-06/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter 06 Oct 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+The Project Gutenberg Monthly Newsletter:
+   - Current procedures for accessing Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 271 New U.S. eBooks this month
+   - 7 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+And if you haven't done so lately, please visit the website at
+http://gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+</pre>
+
+<pre>=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 06 Oct 2004:  13,948 (incl. 380 Aus.).
+
+Last month the Total Count was 13,677, including 373 at PG of Australia.
+This month we added 271 new (including 7 at PG of Australia).
+
+RESERVED/PENDING count:   43 (No change this week).
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Buried Cities: Pompeii, Olympia, Mycenae, by Jennie Hall                  9628
+   [Updated edition of: etext06/8bct410.txt and 8bct410h.htm]
+   [Link: http://www.gutenberg.net/9/6/2/9628 ]
+   [Files: 9628.txt; 9628-8.txt; 9628-h.htm]
+Buried Cities, Part 3, Mycenae, by Jennie Hall                            9627
+   [Updated edition of: etext06/8bct310.txt and 8bct310h.htm]
+   [Link: http://www.gutenberg.net/9/6/2/9627 ]
+   [Files: 9627.txt; 9627-8.txt; 9627-h.htm]
+Buried Cities, Part 2, Olympia, by Jennie Hall                            9626
+   [Updated edition of: etext06/8bct210.txt and 8bct210h.htm]
+   [Link: http://www.gutenberg.net/9/6/2/9626 ]
+   [Files: 9626.txt; 9626-h.htm]
+Buried Cities, Part 1, Pompeii, by Jennie Hall                            9625
+   [Updated edition of: etext06/8bct110.txt and 8bct110h.htm]
+   [Link: http://www.gutenberg.net/9/6/2/9625 ]
+   [Files: 9625.txt; 9625-8.txt; 9625-h.htm]
+
+The Boy Life of Napoleon, by Eugenie Foa                                  9479
+   [Subtitle: Afterwards Emperor Of The French]
+   [Illustrated By Vesper L. George]
+   [Updated edition of: etext05/8bnap10.txt or 8bnap10h.htm]
+   [Link: http://www.gutenberg.net/9/4/7/9479 ]
+   [Files: 9479.txt; 9479-8.txt; 9479-h.htm]
+
+Grandma's Memories, by Mary D. Brine                                      9382
+   [Updated edition of: etext05/grndm10.txt or grndm10h.htm]
+   [Link: http://www.gutenberg.net/9/3/8/9382 ]
+   [Files: 9382.txt; 9382-h.htm]
+
+Ranald Bannerman's Boyhood, by George MacDonald                           9301
+   [Coloured Illustrations by A.V. Wheelhouse]
+   [Black-and-White Illustrations by Arthur Hughes]
+   [Updated edition of: etext05/8bboy10.txt or 8bboy10h.htm]
+   [Link: http://www.gutenberg.net/9/3/0/9301 ]
+   [Files: 9301.txt; 9301-8.txt; 9301-h.htm]
+
+English Villages, by P. H. Ditchfield                                     9197
+   [Updated edition of: etext05/8vilg10.txt or 8vilg10h.htm]
+   [Link: http://www.gutenberg.net/9/1/9/9197 ]
+   [Files: 9197.txt; 9197-8.txt; 9197-h.htm]
+
+Quotes and Images From Memoirs of Marguerite de Valois, by M. de Valois   7566
+   [Full author: Marguerite de Valois]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw50w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7566 ]
+   [Files: 7566.txt; 7566-h.htm]
+
+Quotes and Images From Memoirs of Louis XIV., by Duke of Saint-Simon      7565
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw49w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7565 ]
+   [Files: 7565.txt; 7565-h.htm]
+
+Quotes and Images From Memoirs of Cardinal De Retz, by Cardinal De Retz   7564
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw48w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7564 ]
+   [Files: 7564.txt; 7564-h.htm]
+
+Quotes and Images From Memoirs of Louis XIV., by Duchesse d'Orleans       7563
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw47w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7563 ]
+   [Files: 7563.txt; 7563-h.htm]
+
+Quotes and Images From Memoirs of Madame De Montespan, by Montespan       7562
+   [Full author: Madame De Montespan]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw46w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7562 ]
+   [Files: 7562.txt; 7562-h.htm]
+
+Quotes and Images From Memoirs of Louis XV. and XVI., by Hausett          7561
+   [Full author: Madame du Hausset an "Unknown English Girl"
+    and Princess Lamballe]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw45w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7561 ]
+   [Files: 7561.txt; 7561-h.htm]
+
+Quotes and Images From Memoirs of Count Grammont, by Anthony Hamilton     7560
+   [With notes by Sir Walter Scott]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw44w10h.html]
+   [Link: http://www.gutenberg.net/7/5/6/7560 ]
+   [Files: 7560.txt; 7560-h.htm]
+
+Quotes and Images From The Court of St. Cloud, by Stewarton               7559
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw43w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7559 ]
+   [Files: 7559.txt; 7559-h.htm]
+
+Quotes and Images From Memoirs of Marie Antoinette, by Madam Campan       7558
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw42w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7558 ]
+   [Files: 7558.txt; 7558-h.htm]
+
+Quotes and Images From The Works of Charles Dudley Warner, by Warner      7557
+   [Author: Charles Dudley Warner]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw41w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7557 ]
+   [Files: 7557.txt; 7557-h.htm]
+
+Quotes and Images From The Works of Mark Twain, by Mark Twain             7556
+   [Author: Mark Twain (Samuel Clemens)]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw40w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7556 ]
+   [Files: 7556.txt; 7556-h.htm]
+
+Quotes and Images From The Confessions of J. J. Rousseau, by Rousseau     7555
+   [Author: Jean Jacques Rousseau]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw39w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7555 ]
+   [Files: 7555.txt; 7555-h.htm]
+
+Quotes and Images From The Diary of Samuel Pepys, by Samuel Pepys         7554
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw38w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7554 ]
+   [Files: 7554.txt; 7554-h.htm]
+
+Quotes and Images From The Works of Gilbert Parker, by Gilbert Parker     7553
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw37w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7553 ]
+   [Files: 7553.txt; 7553-h.htm]
+
+Quotes and Images From Motley's History of the Netherlands, by Motley     7552
+   [Author: John Lothrop Motley]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw36w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7552 ]
+   [Files: 7552.txt; 7552-h.htm]
+
+Quotes and Images From The Works of Michel De Montaigne, by Montaigne     7551
+   [Author: Michel De Montaigne]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw35w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7551 ]
+   [Files: 7551.txt; 7551-h.htm]
+
+Quotes and Images From The Works of George Meredith, by George Meredith   7550
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw34w10h.html]
+   [Link: http://www.gutenberg.net/7/5/5/7550 ]
+   [Files: 7550.txt; 7550-h.htm]
+
+Quotes and Images From The Short Stories of Maupassant, by Maupassant     7549
+   [Full author: Guy de Maupassant]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw33w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7549 ]
+   [Files: 7549.txt; 7549-h.htm]
+
+Quotes and Images From The Confessions of Harry Lorrequer, by Lever       7548
+   [Author: Charles James Lever]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw32w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7548 ]
+   [Files: 7548.txt; 7548-h.htm]
+
+Quotes and Images From The Writings of Abraham Lincoln, Abraham Lincoln   7547
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw31w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7547 ]
+   [Files: 7547.txt; 7547-h.htm]
+
+Quotes and Images From The Works of William Dean Howells, by Howells      7546
+   [Author: William Dean Howells]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw30w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7546 ]
+   [Files: 7546.txt; 7546-h.htm]
+
+Quotes and Images From Oliver Wendell Holmes Sr., by Holmes               7545
+   [Author: Oliver Wendell Holmes Sr.]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw29w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7545 ]
+   [Files: 7545.txt; 7545-h.htm]
+
+Quotes and Images From The Works of John Galsworthy, by John Galsworthy   7544
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw28w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7544 ]
+   [Files: 7544.txt; 7544-h.htm]
+
+Quotes and Images From Jean de La Fontaine, by Jean de La Fontaine        7543
+   [Title: Quotes and Images From The Tales and Novels of Jean de La Fontaine]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw27w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7543 ]
+   [Files: 7543.txt; 7543-h.htm]
+
+Quotes and Images From The Novels of Georg Ebers, by Georg Ebers          7542
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw26w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7542 ]
+   [Files: 7542.txt; 7542-h.htm]
+
+Quotes and Images From "Celebrated Crimes", by Alexander Dumas (Pere)     7541
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw25w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7541 ]
+   [Files: 7541.txt; 7541-h.htm]
+
+Quotes and Images From Christopher Columbus, by Filson Young              7540
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw24w10h.html]
+   [Link: http://www.gutenberg.net/7/5/4/7540 ]
+   [Files: 7540.txt; 7540-h.htm]
+
+Quotes and Images From Chesterfield's Letters to His Son, Chesterfield    7539
+   [Subtitle: On the Fine Art of Becoming a Man of the World and a Gentleman]
+   [Author: The Earl of Chesterfield]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw23w10h.html]
+   [Link: http://www.gutenberg.net/7/5/3/7539 ]
+   [Files: 7539.txt; 7539-h.htm]
+
+Quotes and Images From Jacques Casanova de Seingalt, by Casanova          7538
+   [Title: Quotes and Images From The Memoirs of Jacques Casanova de Seingalt]
+   [Author: Giacomo Casanova (AKA Jacques Casanova de Seingalt)]
+   [Edited and Arranged by David Widger]
+   [Updated edition of: etext05/dw22w10h.html]
+   [Link: http://www.gutenberg.net/7/5/3/7538 ]
+   [Files: 7538.txt; 7538-h.htm]
+
+The Thirteen, by Honore de Balzac                                         7416
+   [Translators: Ellen Marriage and Katharine Prescott Wormeley]
+   [A trilogy including etexts #469, #1649 and # 1659]
+   [Introduction by George Saintsbury]
+   [Updated edition of: etext05/thrtn10.txt]
+   [Link: http://www.gutenberg.net/7/4/1/7416 ]
+   [Files: 7416.txt]
+
+Rob Roy, Complete, by Sir Walter Scott [Illustrated]                      7025
+   [Updated edition of: etext04/rob3w10.txt or rob3w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/2/7025 ]
+   [Files: 7025.txt; 7025-h.htm]
+Rob Roy, Volume 2, by Sir Walter Scott [Illustrated]                      7024
+   [Updated edition of: etext04/rob2w10.txt or rob2w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/2/7024 ]
+   [Files: 7024.txt; 7024-h.htm]
+Rob Roy, Vol. 1, by Sir Walter Scott, [Illustrated]                       7023
+   [Updated edition of: etext04/rob1w10.txt or rob1w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/2/7023 ]
+   [Files: 7023.txt; 7023-h.htm]
+
+The Antiquary, Complete, by Sir Walter Scott  [Illustrated]               7005
+   [Updated edition of: etext04/ant3w10.txt or ant3w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/0/7005 ]
+   [Files: 7005.txt; 7005-h.htm]
+The Antiquary, Vol. 2, by Sir Walter Scott  [Illustrated]                 7004
+   [Updated edition of: etext04/ant2w10.txt or ant2w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/0/7004 ]
+   [Files: 7004.txt; 7004-h.htm]
+The Antiquary, Vol. 1, by Sir Walter Scott  [Illustrated]                 7003
+   [Updated edition of: etext04/ant1w10.txt or ant1w10h.htm]
+   [Link: http://www.gutenberg.net/7/0/0/7003 ]
+   [Files: 7003.txt; 7003-h.htm]
+
+The Heart of Mid-Lothian, Complete, by Sir Walter Scott [Illustrated]     6944
+   [Updated edition of: etext04/mid3w10.txt or mid3w10h.html]
+   [Link: http://www.gutenberg.net/6/9/4/6944 ]
+   [Files: 6944.txt; 6944-h.htm]
+The Heart of Mid-Lothian, Vol. 2, by Sir Walter Scott [Illustrated]       6943
+   [Updated edition of: etext04/mid2w10.txt or mid2w10h.html]
+   [Link: http://www.gutenberg.net/6/9/4/6943 ]
+   [Files: 6943.txt; 6943-h.htm]
+The Heart of Mid-Lothian, Vol. 1, by Sir Walter Scott  [Illustrated]      6942
+   [Updated edition of: etext04/mid1w10.txt or mid1w10h.html]
+   [Link: http://www.gutenberg.net/6/9/4/6942 ]
+   [Files: 6942.txt; 6942-h.htm]
+
+Old Mortality, Complete, by Sir Walter Scott  [Illustrated]               6941
+   [Updated edition of: etext04/mrt3w10.txt or mrt3w10h.html]
+   [Link: http://www.gutenberg.net/6/9/4/6941 ]
+   [Files: 6941.txt; 6941-h.htm]
+Old Mortality, Vol. 2, by Sir Walter Scott                                6940
+   [Illustrated]
+   [Updated edition of: etext04/mrt2w10.txt or mrt2w10h.html]
+   [Link: http://www.gutenberg.net/6/9/4/6940 ]
+   [Files: 6940.txt; 6940-h.htm]
+Old Mortality, Vol. 1, by Sir Walter Scott                                6939
+   [Illustrated]
+   [Updated edition of: etext04/mrt1w10.txt or mrt1w10h.html]
+   [Link: http://www.gutenberg.net/6/9/3/6939 ]
+   [Files: 6939.txt; 6939-h.htm]
+
+Guy Mannering, or The Astrologer, Complete, by Sir Walter Scott [Illus.]  5999
+   [Updated edition of: etext04/gmnng11ha.htm]
+   [Link: http://www.gutenberg.net/5/9/9/5999 ]
+   [Files: 5999.txt; 5999-h.htm]
+
+The Adventures of Ferdinand Count Fathom, Complete, by Tobias Smollett    6761
+   [Updated edition of: etext04/tsm8w10.txt or tsm8w10h.html]
+   [Link: http://www.gutenberg.net/6/7/6/6761 ]
+   [Files: 6761.txt; 6761-h.htm]
+
+The Adventures of Sir Launcelot Greaves, by Tobias Smollett               6758
+   [Updated edition of: etext04/tsm5w10.txt or tsm5w10h.htm]
+   [Link: http://www.gutenberg.net/6/7/5/6758 ]
+   [Files: 6758.txt; 6758-h.htm]
+
+Waverley, Or 'Tis Sixty Years Hence, Complete, by Sir Walter Scott        5998
+   [Introduction and Notes by Andrew Lang] [Illustrated ]
+   [Updated edition of: etext04/wvrly11hb.html]
+   [Link: http://www.gutenberg.net/5/9/9/5998 ]
+   [Files: 5998.txt; 5998-h.htm]
+
+The British North America Act, 1867, by Anonymous                         5984
+    [Updated edition of: etext04/tbnaa10.txt
+    [Link: http://www.gutenberg.net/5/9/8/5984 ]
+    [Files: 5984.txt]
+
+Little Sister Snow, by Frances Little                                     5960
+   [Illustrations By Genjiro Kataoka]
+   [Updated edition of: etext04/ltsss10.txt or ltsss10h.htm]
+   [Link: http://www.gutenberg.net/5/9/6/5960 ]
+   [Files: 5960.txt]
+
+Farewell, by Honore de Balzac  [Tr.: Ellen Marriage]                      5873
+   [Updated edition of: etext04/frwll10.txt]
+   [Link: http://www.gutenberg.net/5/8/7/5873 ]
+   [Files: 5873.txt]
+
+Successful Exploration Through the Interior of Australia, by Wills        5816
+   [Subtitle: From Melbourne To The Gulf Of Carpentaria, From The Journals
+    And Letters Of William John Wills]
+   [Author: William John Wills] [Edited By His Father, William Wills]
+   [Updated edition of: etext04/sccxp10.txt]
+   [Link: http://www.gutenberg.net/5/8/1/5816 ]
+   [Files: 5816.txt; 5816-h.htm]
+
+Ragged Dick, by Horatio Alger                                             5348
+    [Updated edition of etext04/rgddk10.txt]
+    [Link: http://www.gutenberg.net/5/3/4/5348 ]
+    [Files: 5348.txt]
+
+Journals of Expeditions Into Central Australia, Vol. 2, Edward John Eyre  5345
+   [Title: Journals Of Expeditions Of Discovery Into Central Australia And
+    Overland From Adelaide To King George's Sound In The Years 1840-1: Sent
+    By The Colonists Of South Australia, With The Sanction And Support Of
+    The Government: Including An Account Of The Manners And Customs Of The
+    Aborigines And The State Of Their Relations With Europeans. Volume II.]
+   [Updated edition of: etext04/xpcs210.txt]
+   [Link: http://www.gutenberg.net/5/3/4/5345 ]
+   [Files: 5345.txt; 5345-h.htm]
+
+Journals of Expeditions Into Central Australia, Vol. 1, Edward John Eyre  5344
+   [Title: Journals Of Expeditions Of Discovery Into Central Australia And
+    Overland From Adelaide To King George's Sound In The Years 1840-1: Sent
+    By The Colonists Of South Australia, With The Sanction And Support Of
+    The Government: Including An Account Of The Manners And Customs Of The
+    Aborigines And The State Of Their Relations With Europeans. Volume I.]
+   [Updated edition of: etext04/xpcs110.txt]
+   [Link: http://www.gutenberg.net/5/3/4/5344 ]
+   [Files: 5344.txt; 5344-h.htm]
+
+The Tales and Novels, Complete, by Jean de La Fontaine                    5300
+   [Updated edition of: etext04/lf26w10.txt or lf26w10h.htm]
+   [Link: http://www.gutenberg.net/5/3/0/5300 ]
+   [Files: 5300.txt; 5300-h.htm]
+
+Journal of an Overland Expedition in Australia, by Ludwig Leichhardt      5005
+   [Updated edition of: etext04/xpvld10.txt]
+   [Link: http://www.gutenberg.net/5/0/0/5005 ]
+   [Files: 5005.txt; 5005-h.htm]
+
+Expedition into Central Australia, Vols. 1 and 2, by Charles Sturt        4976
+   [Updated edition of: etext04/xpcst10.txt]
+   [Link: http://www.gutenberg.net/4/9/7/4976 ]
+   [Files: 4976.txt; 4976-h.htm]
+
+The Confessions of J. J. Rousseau, Complete, by Jean Jacques Rousseau     3913
+   [Illustrations by Maurice Q. de La Tour and Maurice Leloir]
+   [Updated edition of: etext03/jj13b10.txt or jj13b10h.htm]
+   [Link: http://www.gutenberg.net/3/9/1/3913 ]
+   [Files: 3913.txt; 3913-h.htm]
+
+Memoirs of the Court of St. Cloud, Complete, by Stewarton                 3899
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm62b10.txt or cm62b10h.html]
+   [Link: http://www.gutenberg.net/3/8/9/3899 ]
+   [Files: 3899.txt; 3899-h.htm]
+
+Memoirs Of The Court Of Marie Antoinette, by Madame Campan                3891
+   [Title: Memoirs Of The Court Of Marie Antoinette, Queen Of France]
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm54b10.txt or cm54b10h.html]
+   [Link: http://www.gutenberg.net/3/8/9/3891 ]
+   [Files: 3891.txt; 3891-h.htm]
+
+Secret Memoirs of Louis XV/XVI, Complete, by Madame du Hausset, et al     3883
+   [Author: Madame du Hausset, an "Unknown English Girl", and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm46b10.txt or cm46b10h.html]
+   [Link: http://www.gutenberg.net/3/8/8/3883 ]
+   [Files: 3883.txt; 3883-h.htm]
+
+The Memoirs of Louis XIV, by Duc de Saint-Simon                           3875
+   [Title: The Memoirs of Louis XIV, His Court and The Regency, Complete]
+   [Updated edition of: etext03/cm38b10.txt or cm38b10h.htm]
+   [Link: http://www.gutenberg.net/3/8/7/3875 ]
+   [Files: 3875.txt; 3875-h.htm]
+
+Memoirs of the Louis XIV and The Regency, Complete, Duchesse d'Orleans    3859
+   [Author: Elizabeth-Charlotte, Duchesse d'Orleans]
+   [Updated edition of: etext03/cm22b10.txt or cm22b10h.html]
+   [Link: http://www.gutenberg.net/3/8/5/3859 ]
+   [Files: 3859.txt; 3859-h.htm]
+
+The Memoirs of Madame de Montespan, Complete, by Madame de Montespan      3854
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm17b10.txt or cm17b10h.html]
+   [Link: http://www.gutenberg.net/3/8/5/3854 ]
+   [Files: 3854.txt; 3854-h.htm]
+
+The Memoirs of Cardinal de Retz, Complete, by Cardinal de Retz            3846
+   [Author: Jean Francois Paul de Gondi, Cardinal de Retz]
+   [Updated edition of: etext03/cm09b10.txt or cm09b10h.html]
+   [Link: http://www.gutenberg.net/3/8/4/3846 ]
+   [Files: 3846.txt; 3846-h.htm]
+
+Memoirs of Marguerite de Valois, Complete, by Queen of Navarre            3841
+   [Author: Marguerite de Valois, Queen of Navarre]
+   [Updated edition of: etext03/cm04b10.txt or cm04b10h.html]
+   [Link: http://www.gutenberg.net/3/8/4/3841 ]
+   [Files: 3841.txt; 3841-h.htm]
+
+The Private Life of Napoleon Bonaparte, Complete, by Constant             3580
+   [Translated By Walter Clark]
+   [Updated edition of: etext02/nc13v11.txt or nc13v11h.html]
+   [Link: http://www.gutenberg.net/3/5/8/3580 ]
+   [Files: 3580.txt; 3580-h.htm]
+
+Memoirs of Napoleon Bonaparte, Complete, by Bourrienne                    3567
+   [Full author: Louis Antoine Fauvelet de Bourrienne]
+   [Illustrated]
+   [Edited by R. W. Phipps, Colonel, Late Royal Artillery]
+   [Updated edition of: etext02/nb17v11.txt or nb17v11h.html]
+   [Link: http://www.gutenberg.net/3/5/6/3567 ]
+   [Files: 3567.txt; 3567-h.htm]
+
+The Man That Corrupted Hadleyburg and Other Stories, by Mark Twain        3251
+   [Author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext02/mthdb11.txt]
+   [Link: http://www.gutenberg.net/3/2/5/3251 ]
+   [Files: 3251.txt]
+
+How Tell a Story and Others, by Mark Twain (Samuel Clemens)               3250
+   [Updated edition of: etext02/mthts11.txt]
+   [Link: http://www.gutenberg.net/3/2/5/3250 ]
+   [Files: 3250.txt]
+
+Entire Project Gutenberg Works of Mark Twain, Mark Twain (Samuel Clemens) 3200
+   [Updated edition of: etext02/mtent13.txt]
+   [Link: http://www.gutenberg.net/3/2/0/3200 ]
+   [Files: 3200.txt]
+
+The Letters Of Mark Twain, Complete, by Mark Twain (Samuel Clemens)       3199
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mtclt12.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3199 ]
+   [Files: 3199.txt]
+Letters Of Mark Twain, Volume 6, 1907-1910, Mark Twain (Samuel Clemens)   3198
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt6lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3198 ]
+   [Files: 3198.txt]
+Letters Of Mark Twain, Volume 5, 1901-1906, Mark Twain (Samuel Clemens)   3197
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt5lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3197 ]
+   [Files: 3197.txt]
+Letters Of Mark Twain, Volume 4, 1886-1900, Mark Twain (Samuel Clemens)   3196
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt4lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3196 ]
+   [Files: 3196.txt]
+Letters Of Mark Twain, Volume 3, 1876-1885, Mark Twain (Samuel Clemens)   3195
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt3lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3195 ]
+   [Files: 3195.txt]
+Letters Of Mark Twain, Volume 2, 1867-1875, Mark Twain (Samuel Clemens)   3194
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt2lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3194 ]
+   [Files: 3194.txt]
+Letters Of Mark Twain, Volume 1, 1853-1866, Mark Twain (Samuel Clemens)   3193
+   [Arranged With Comment By Albert Bigelow Paine]
+   [Updated edition of: etext02/mt1lt11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3193 ]
+   [Files: 3193.txt]
+
+The Curious Republic of Gondour and Other Whimsical Sketches, by Twain    3192
+   [Author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext02/mtcrg12.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3192 ]
+   [Files: 3192.txt]
+
+Goldsmiths Friend Abroad Again, by Mark Twain (Samuel Clemens)            3191
+   [Updated edition of: etext02/mtgfa11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3191 ]
+   [Files: 3191.txt]
+
+1601, by Mark Twain (Samuel Clemens)                                      3190
+   [Subtitle: Conversation As it was by the Social Fireside in the Time of
+    the Tudors]
+   [Updated edition of: etext02/mtsxn11.txt]
+   [Link: http://www.gutenberg.net/3/1/9/3190 ]
+   [Files: 3190.txt]
+
+Mark Twain's Speeches, by Mark Twain (Samuel Clemens)                     3188
+   [Updated edition of: etext02/mtmts11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3188 ]
+   [Files: 3188.txt]
+
+Christian Science, by Mark Twain (Samuel Clemens)                         3187
+   [Updated edition of: etext02/mtcsc11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3187 ]
+   [Files: 3187.txt]
+
+Mysterious Stranger and Other Stories, by Mark Twain (Samuel Clemens)     3186
+   [Updated edition of: etext02/mtmst11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3186 ]
+   [Files: 3186.txt]
+
+Those Extraordinary Twins, by Mark Twain (Samuel Clemens)                 3185
+   [Updated edition of: etext02/mtext11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3185 ]
+   [Files: 3185.txt]
+
+Alonzo Fitz and Other Stories, by Mark Twain (Samuel Clemens)             3184
+   [Updated edition of: etext02/mtlaf12.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3184 ]
+   [Files: 3184.txt]
+
+Facts Concerning The Recent Carnival Of Crime In Connecticut, by Twain    3183
+   [Author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext02/mtccc11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3183 ]
+   [Files: 3183.txt]
+
+Some Rambling Notes of an Idle Excursion, by Mark Twain (Samuel Clemens)  3182
+   [Updated edition of: etext02/mtrid12.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3182 ]
+   [Files: 3182.txt]
+
+The Stolen White Elephant, by Mark Twain (Samuel Clemens)                 3181
+   [Updated edition of: etext02/mtswe11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3181 ]
+   [Files: 3181.txt]
+
+A Double Barrelled Detective, by Mark Twain (Samuel Clemens)              3180
+   [Updated edition of: etext02/mtdbd11.txt]
+   [Link: http://www.gutenberg.net/3/1/8/3180 ]
+   [Files: 3180.txt]
+
+A Burlesque Autobiography, by Mark Twain (Samuel Clemens)                 3175
+   Contents:
+     Mark Twain's (Burlesque) Auto-Biography
+     First Romance
+   [Updated edition of: etext02/mtbbg11.txt]
+   [Link: http://www.gutenberg.net/3/1/7/3175 ]
+   [Files: 3175.txt]
+
+Essays on Paul Bourget, by Mark Twain (Samuel Clemens)                    3173
+   [Updated edition of: etext02/mtpbg11.txt]
+   [Link: http://www.gutenberg.net/3/1/7/3173 ]
+   [Files: 3173.txt]
+
+Fennimore Cooper's Literary Offences, by Mark Twain (Samuel Clemens)      3172
+   [Updated edition of: etext02/mtfco11.txt]
+   [Link: http://www.gutenberg.net/3/1/7/3172 ]
+   [Files: 3172.txt]
+
+In Defense of Harriet Shelley, by Mark Twain (Samuel Clemens)             3171
+   [Updated edition of: etext02/mtdhs11.txt]
+   [Link: http://www.gutenberg.net/3/1/7/3171 ]
+   [Files: 3171.txt]
+
+Desperate Remedies, by Thomas Hardy                                       3044
+   [Updated edition of: etext02/desrm10.txt]
+   [Link: http://www.gutenberg.net/3/0/4/3044 ]
+   [Files: 3044.txt]
+
+Personal Recollections of Joan of Arc, Volume 2, by Mark Twain            2875
+   [Author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext01/2prja10.txt]
+   [Link: http://www.gutenberg.net/2/8/7/2875 ]
+   [Files: 2875.txt; 2875-8.txt]
+Personal Recollections of Joan of Arc, Volume 1, by Mark Twain            2874
+   [Author: Mark Twain (Samuel Clemens)]
+   [Updated edition of: etext01/1prja10.txt]
+   [Link: http://www.gutenberg.net/2/8/7/2874 ]
+   [Files: 2874.txt; 2874-8.txt]
+
+Celebrated Crimes, Complete, by Alexandre Dumas, Pere                     2760
+   [Updated edition of: etext01/dcrim11.txt]
+   [Link: http://www.gutenberg.net/2/7/6/2760 ]
+   [Files: 2760.txt; 2760-h.htm]
+
+Marquise de Ganges, by Alexandre Dumas, Pere                              2758
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/gange11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2758 ]
+   [Files: 2758.txt]
+Vaninka, by Alexandre Dumas, Pere                                         2757
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/vanin11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2757 ]
+   [Files: 2757.txt]
+Marquise de Brinvilliers, by Alexandre Dumas, Pere                        2756
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/brinv11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2756 ]
+   [Files: 2756.txt]
+Murat, by Alexandre Dumas, Pere                                           2755
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/murat11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2755 ]
+   [Files: 2755.txt]
+The Countess of Saint Geran, by Alexandre Dumas, Pere                     2754
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/geran11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2754 ]
+   [Files: 2754.txt]
+Ali Pacha, by Alexandre Dumas, Pere                                       2753
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/alpac10.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2753 ]
+   [Files: 2753.txt]
+Martin Guerre, by Alexandre Dumas, Pere                                   2752
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/mguer11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2752 ]
+   [Files: 2752.txt]
+The Man in the Iron Mask [An Essay], by Alexandre Dumas, Pere             2751
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/emask12.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2751 ]
+   [Files: 2751.txt]
+Joan of Naples, by Alexandre Dumas, Pere                                  2750
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/jonap11.txt]
+   [Link: http://www.gutenberg.net/2/7/5/2750 ]
+   [Files: 2750.txt]
+La Constantin, by Alexandre Dumas, Pere                                   2749
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/const11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2749 ]
+   [Files: 2749.txt]
+Derues, by Alexandre Dumas, Pere                                          2748
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/derus11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2748 ]
+   [Files: 2748.txt]
+Nisida, by Alexandre Dumas, Pere                                          2747
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/nisid11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2747 ]
+   [Files: 2747.txt]
+Urbain Grandier, by Alexandre Dumas, Pere                                 2746
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/ugran11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2746 ]
+   [Files: 2746.txt]
+Karl Ludwig Sand, by Alexandre Dumas, Pere                                2745
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/ksand11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2745 ]
+   [Files: 2745.txt]
+Mary Stuart, by Alexandre Dumas, Pere                                     2744
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/marys11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2744 ]
+   [Files: 2744.txt]
+Massacres Of The South (1551-1815), by Alexandre Dumas, Pere              2743
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/mssth12.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2743 ]
+   [Files: 2743.txt]
+The Cenci, by Alexandre Dumas, Pere                                       2742
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/cenci11.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2742 ]
+   [Files: 2742.txt]
+The Borgias, by Alexandre Dumas, Pere                                     2741
+   [Subtitle: Celebrated Crimes]
+   [Updated edition of: etext01/borgs12.txt]
+   [Link: http://www.gutenberg.net/2/7/4/2741 ]
+   [Files: 2741.txt]
+
+On the Decay of the Art of Lying, by Mark Twain (Samuel Clemens)          2572
+   [Updated edition of: etext01/lying10.txt]
+   [Link: http://www.gutenberg.net/2/5/7/2572 ]
+   [Files: 2572.txt]
+
+Sonnets from the Portuguese, by Elizabeth Barrett Browning                2002
+   [Link: http://www.gutenberg.net/2/0/0/2002 ]
+   [Updated edition of: etext99/snprg10.txt]
+   [Files: 2002.txt; 2002-h.htm]
+
+Extracts From Adam's Diary, by Mark Twain (Samuel Clemens)                1892
+   [Updated edition of: etext99/xadam10.txt]
+   [Link: http://www.gutenberg.net/1/8/9/1892 ]
+   [Files: 1892.txt]
+
+The Exiles, by Honore de Balzac                                           1884
+   [Translated by Clara Bell and James Waring]
+   [Updated edition of: etext99/xiles10.txt]
+   [Link: http://www.gutenberg.net/1/8/8/1884 ]
+   [Files: 1884.txt]
+
+Facino Cane, by Honore de Balzac                                          1737
+   [Translated by Clara Bell and Others]
+   [Updated edition of: etext99/fcane10.txt]
+   [Link: http://www.gutenberg.net/1/7/3/1737 ]
+   [Files: 1737.txt]
+
+Eugenie Grandet, by Honore de Balzac                                      1715
+   [Translated by Katharine Prescott Wormeley]
+   [Updated edition of: etext99/gngnd10.txt or gngnd10h.htm]
+   [Link: http://www.gutenberg.net/1/7/1/1715 ]
+   [Files: 1715.txt; 1715-h.htm]
+
+The Girl with the Golden Eyes, by Honore de Balzac                        1659
+   [Third part of the trilogy "The Thirteen", etext #7416]
+   [Translated by Ellen Marriage]
+   [Updated edition of: etext99/gwtgi10.txt]
+   [Link: http://www.gutenberg.net/1/6/5/1659 ]
+   [Files: 1659.txt]
+
+Ferragus, by Honore de Balzac                                             1649
+   [First part of the trilogy "The Thirteen" etext #7416]
+   [Translated by Katharine Prescott Wormeley]
+   [Updated edition of: etext99/frrgs10.txt or frrgs10h.htm]
+   [Link: http://www.gutenberg.net/1/6/4/1649 ]
+   [Files: 1649.txt; 1649-h.htm]
+
+An Episode Under the Terror, by Honore de Balzac                          1456
+   [Tr.: Clara Bell & Others]
+   [Updated edition of: etext98/aeutt10.txt]
+   [Link: http://www.gutenberg.net/1/4/5/1456 ]
+   [Files: 1456.txt]
+
+The Spirit of the Border, by Zane Grey                                    1239
+   [Link: http://www.gutenberg.net/1/2/3/1239 ]
+   [Files: 1239.txt]
+
+Father Goriot, by Honore de Balzac                                        1237
+   [Translator:  Ellen Marriage]
+   [Updated edition of: etext98/frgrt11.txt]
+   [Link: http://www.gutenberg.net/1/2/3/1237 ]
+   [Files: 1237.txt]
+
+The Duchesse de Langeais, by Honore de Balzac                              469
+   [Second part of the Trilogy, "The Thirteen", etext #7416]
+   [Translated by Ellen Marriage]
+   [Updated edition of: etext96/dlang10.txt]
+   [Link: http://www.gutenberg.net/4/6/469 ]
+   [Files: 469.txt]
+
+The $30,000 Bequest and Other Stories, by Mark Twain (Samuel Clemens)      142
+   [Updated edition of: etext94/beqst12.txt]
+   [Link: http://www.gutenberg.net/1/4/142 ]
+   [Files: 142.txt]
+
+The Tragedy of Pudd'nhead Wilson, by Mark Twain (Samuel Clemens)           102
+   [Updated edition of: etext94/puddn10.txt]
+   [Link: http://www.gutenberg.net/1/0/102 ]
+   [Files: 102.txt]
+
+A Tale of Two Cities, by Charles Dickens                                    98
+   [Link: http://www.gutenberg.net/9/98 ]
+   [Files: 98.txt]
+
+Tom Sawyer, Detective, by Mark Twain (Samuel Clemens)                       93
+   [Updated edition of: etext93/sawy311.txt]
+   [Link: http://www.gutenberg.net/9/93 ]
+   [Files: 93.txt]
+
+Tom Sawyer Abroad, by Mark Twain (Samuel Clemens)                           91
+   [Updated edition of: etext93/sawy210.txt]
+   [Link: http://www.gutenberg.net/9/91 ]
+   [Files: 91.txt]
+
+What Is Man?, by Mark Twain (Samuel Clemens)                                70
+   [Updated edition of: etext93/wman11.txt]
+   [Link: http://www.gutenberg.net/7/70 ]
+   [Files: 70.txt]
+
+A Christmas Carol, A Ghost Story of Christmas, by Charles Dickens           46
+   [Illustrations by John Leech from an 1843 First Edition]
+   [Updated edition of: etext92/carol14.txt and carol14h.htm]
+   [Link: http://www.gutenberg.net/4/46 ]
+   [Files: 46.txt; 46-8.txt; 46-h.htm]
+
+The War of the Worlds, by H. G. Wells                                       36
+    [Updated edition of etext92/warw12.txt]
+    [Link: http://www.gutenberg.net/3/36 ]
+    [Files: 36.txt; 36-h.htm]
+
+The Time Machine, by H. G. (Herbert George) Wells                           35
+     [Updated edition of etext92/timem11.txt]
+     [Link: http://www.gutenberg.net/3/35 ]
+     [Files: 35.txt]
+
+
+.:: GUTINDEX.ALL is being re-indexed to include and correct supplemental
+information, such as translator, author info, title/subtitle etc. for the
+following:
+
+Vanguards of the Plains, by Margaret McCarter                            13345
+   [Subtitle: A Romance of the Old Santa Fe Trail]
+
+Mr. Isaacs, A Tale of Modern India, by F. Marion Crawford                13340
+
+Conversations of Alexis de Tocqueville, Vol. 2, by Alexis de Tocqueville 13333
+   [Title: Correspondence & Conversations of Alexis de Tocqueville with
+    Nassau William Senior from 1834 to 1859, Vol. 2]
+   [Edited by M.C.M. Simpson]
+
+Selected Poems, by William Francis Barnard                               13322
+   [Subtitle: The Tongues of Toil And Other Poems]
+
+Theological Tractates and The Consolation of Philosophy, by Boethius     13316
+   [Author: Anicius Manlius Severinus Boethius]
+   Contains:
+     The Theological Tractates with an English Translation, by H.F. Stewart
+       E.K. Rand
+     The Consolation Of Philosophy With The English Translation Of "I.T.",
+       Revised by H.F. Stewart
+   [Language:  English and Latin]
+
+Barford Abbey, by Susannah Minific Gunning                               13314
+   [Title: Barford Abbey, A Novel: In A Series Of Letters. In Two Volumes]
+
+Alfgar the Dane or the Second Chronicle of Aescendune, by A. D. Crake    13305
+   [Subtitle: A Tale of the Days of Edmund Ironside]
+
+The Curly-Haired Hen, by Auguste Vimar                                   13302
+   [Translated by Nora K. Hills]
+
+The Certainty of a Future Life in Mars, by L. P. Gratacap                13289
+   [Subtitle: Being the Posthumous Papers of Bradford Torrey Dodd]
+   [Includes:  The Planet Mars, by Giovanni Schiaparelli]
+   [Link: http://www.gutenberg.net/1/3/2/8/13289 ]
+   [Files: 13289.txt]
+
+The Threshold Grace, by Percy C. Ainsworth                               13267
+   [Subtitle: Meditations in the Psalms]
+
+Ylosnousemus III, by Leo Tolstoi                                         13259
+   [Tr.: Arvid Jarnefelt]
+   [Language: Finnish]
+
+The Chums of Scranton High on the Cinder Path, by Donald Ferguson        13251
+   [Subtitle: or, The Mystery of the Haunted Quarry]
+
+OEuvres Completes De Alfred De Musset (Tome Sixieme), Alfred De Musset   13231
+   [Language: French]
+   [Subtitle.  Nouvelles et Contes I]
+
+The Lord of Dynevor, by Evelyn Everett-Green                             13227
+   [Subtitle: A Tale of the Times of Edward the First]
+
+OEuvres Completes De Alfred De Musset (Tome Septieme), Alfred De Musset  13221
+   [Subtitle: Nouvelles et Contes II]
+   [Language: French]
+
+Les Ordres De Chevalerie, Les Ordres Serbes, by Brasier & Brunet         13219
+   [Authors: L. Brasier & J. L. Brunet]
+   [Language: French]
+
+Edwy the Fair or the First Chronicle of Aescendune, by A. D. Crake       13215
+   [Subtitle: A Tale of the Days of Saint Dunstan]
+
+The Pearl, by Sophie Jewett                                              13211
+   [Subtitle: A Middle English Poem, A Modern Version in the Metre of the
+    Original]
+
+Supreme Personality, by Delmer Eugene Croft                              13193
+   [Subtitle: Fun in Living.  A Doubt, Fear, and Worry Cure]
+
+Oeuvres de Napoleon Bonaparte, Tome IV, by Napoleon Bonaparte            13192
+   [Editor: C. L. F. Panckoucke]
+   [Language: French]
+
+The Cross of Berny, by Emile de Girardin &c                              13191
+   [Subtitle: or Irene's Lovers]
+   [Authors: Madame Emile de Girardin, Mm. Theophile Gautier, Jules Sandeau
+    and Mery]
+   [Translated by Miss Florence Fendall and Miss Florence Holcomb]
+
+De l'importance des livres de raison, by Louis Guibert                   13190
+   [Subtitle: au point de vue archologique]
+   [Language: French]
+
+Dialogue aux enfers entre Machiavel et Montesquieu, by Maurice Joly      13187
+   [Subtitle: ou la politique de Machiavel au XIXe Siecle par un contemporain]
+   [Language: French]
+
+In the Days of Chivalry, by Evelyn Everett-Green                         13183
+   [Subtitle: A Tale of the Times of the Black Prince]
+
+Prefaces and Prologues to Famous Books, by Charles W. Eliot              13182
+   [Title: Prefaces and Prologues to Famous Books with Introductions,
+    Notes and Illustrations]
+   (Note: Vol. 39 of the Harvard Classics, Edited by Charles W. Eliot)
+
+The Prose Works of Jonathan Swift, D. D., Volume IX, by Jonathan Swift   13169
+   [Title: The Prose Works of Jonathan Swift, D. D., Volume IX;
+    Contributions to The Tatler, The Examiner, The Spectator, and The
+    Intelligencer]
+   [Ed.: Temple Scott]
+
+An Iron Will, by Orison Swett Marden                                     13160
+   [With the Assistance of Abner Bayley]
+
+The Lives of John Donne, &C, Vol. II, by Izaak Walton                    13139
+   [Title: The Lives of John Donne, Henry Wotton, Rich'd Hooker, George
+    Herbert, &C, Volume Two]
+   [Supplementary Material added by Austin Dobson]
+
+Corea or Cho-sen, by A. (Arnold) Henry Savage-Landor                     13128
+   [Subtitle: The Land of the Morning Calm]
+
+The Philippine Islands, 1493-1898, V6 (1583-1588), by Emma Helen Blair   13120
+   [Ed.:  Emma Helen Blair and James Alexander Robertson]
+   [Intro. and Notes:  Edward Gaylord Bourne]
+
+Raphael, by Alphonse de Lamartine                                        13019
+   [Subtitle: Pages Of The Book Of Life At Twenty]
+   [Illustrated By Sandoz] [Introduction: C. C. Starkweather]
+
+The Rough Riders, by Theodore Roosevelt                                  13000
+
+Rescuing the Czar, by James P. Smythe                                    12983
+   [Subtitle: Two Authentic Diaries Arranged and Translated]
+   [Foreword by W.E. Aughinbaugh, M.D., LL.B., LL.M.]
+
+The Thirsty Sword, by Robert Leighton                                    12981
+   [Subtitle: A Story of the Norse Invasion of Scotland (1262-1263)]
+
+The Chums of Scranton High Out for the Pennant, by Donald Ferguson       12940
+   [Subtitle: or, In the Three Town League]
+
+Out with Gun and Camera, by Ralph Bonehill                               12937
+   [Subtitle: or, The Boy Hunters in the Mountains]
+
+Young Hunters of the Lake, by Ralph Bonehill                             12936
+   [Subtitle: or, Out with Rod and Gun]
+
+The Song Of The Blood-Red Flower, by Johannes Linnankoski                12935
+   [Tr.: W. Worster]
+
+The Moon-Voyage, by Jules Verne                                          12901
+   [Illustrated By Henry Austin]
+
+Chief of Scouts, by W.F. Drannan                                         12895
+   [Illustrated by E. Bert Smith]
+
+Oeuvres de Napoleon Bonaparte, Tome III, by Napoleon Bonaparte           12893
+   [Editor: C. L. F. Panckoucke]
+   [Language: French]
+
+Campaign of the Indus, by T.W.E. Holdsworth                              12863
+   [Introduction by A. H. Holdsworth]
+
+Good Stories from The Ladies' Home Journal, by Various                   12836
+
+Oeuvres de Napoleon Bonaparte, Tome II, by Napoleon Bonaparte            12782
+   [Editor: C. L. F. Panckoucke]
+   [Language: French]
+
+Feb 2005 The Koran, Translated by George Sale              [koranxxb.xxx] 7440
+   [Other Title AKA:  Al-Qur'an; Q'uran; Quraan]
+   (Note: previously incorrectly listed as The Koran, by Mohammed/Mohammad)
+   (See also:  #3434, #2800)
+
+Sep 2002 The Koran, Translated by J.M Rodwell              [koranxxa.xxx] 3434
+   [Other Title AKA:  Al-Qur'an; Q'uran; Quraan]
+   [Intro. by G. Margoliouth]
+   (Note: previously incorrectly listed as The Koran, by Mohammed/Mohammad)
+   (See also:  #2800, #7440)
+
+Sep 2001 The Koran, Translated by J.M. Rodwell             [koranxxx.xxx] 2800
+   [Other Title AKA:  Al-Qur'an; Q'uran; Quraan]
+   [Intro. by Rev. G. Margoliouth, M.A.]
+   (Note:  previously incorrectly listed as The Koran, by Mohammed/Mohammad)
+   (See also:  #3434, #7440)
+
+Aug 2001 Jewel, by Clara Louise Burnham                    [jewelxxx.xxx] 2778
+   [Subtitle: A Chapter In Her Life]
+
+Aug 2001 The Lady From The Sea, by Henrik Ibsen [Ibsen #7] [ldysexxx.xxx] 2765
+   [Translated by Eleanor Marx-Aveling]
+
+Jul 2001 The History of Herodotus V1 by Herodotus/ Macaulay[1hofhxxx.xxx] 2707
+   [Tr.:  G. C. Macaulay] (See also: see #2456 for Vol. 2)
+
+May 2001 Isaac Bickerstaff, by Richard Steele              [iscbkxxx.xxx] 2644
+   [Ed.: Henry Morley]
+
+May 2001 The Idiot, by Fyodor Dostoyevsky [Dostoieffsky #5][idiotxxx.xxx] 2638
+   [Also spelled:  Dostoevsky, and several other variants, and Feodor]
+   [Translated by Eva Martin]
+
+May 2001 Youth, by Leo Tolstoy/Tolstoi[Tolstoy/Tolstoi #10][youthxxx.xxx] 2637
+   [Translated by C. J. Hogarth]
+
+Mar 2001 Amphitryon, A play by Moliere, Tr. by Waller [M#2][amphixxx.xxx] 2536
+   [Translated by A. R. Waller, M.A.]
+
+Jan 2001 Movements and Habits of Climbing Plants, by Darwin[cplntxxx.xxx] 2485
+   [Author: Charles Darwin]
+
+Jan 2001 The Boys' and Girls' Plutarch's "Lives", by White [tbagpxxx.xxx] 2484
+   [Author: John S. White]
+
+Jan 2001 Sermons on the Card, by Hugh Latimer              [srmcdxxx.xxx] 2458
+   [Title: Sermons on the Card and Other Discourses]
+   [Introduction by H. M. (Henry Morley)]
+
+Dec 2000 Boyhood, by Leo Tolstoy/Tolstoi   [Leo Tolstoy #8][boyhdxxx.xxx] 2450
+   [Translated by CJ Hogarth]
+
+Dec 2000 An Enemy of the People, by Henrik Ibsen [Ibsen #3][aeotpxxx.xxx] 2446
+   [Translated by Farquharson Sharp]
+
+Dec 2000 Letters on England, by Voltaire      [Voltaire #1][ltengxxx.xxx] 2445
+   [Introduction: Henry Morley]
+
+Dec 2000 History of the Impeachment of Andrew Johnson[Pres][hioajxxx.xxx] 2442
+   [Author: Edmund G. Ross]
+
+Dec 2000 The Burgess Animal Book for Children, by Burgess 2[babfcxxx.xxx] 2441
+   [Author: Thornton W. Burgess]
+
+Dec 2000 Essay on Man, by Alexander Pope[Alexander Pope #1][esymnxxx.xxx] 2428
+   [Title: An Essay on Man. Moral essays and satires]
+   [Introduction by Henry Morley]
+
+Nov 2000 The Conquest of the Old Southwest, by Henderson   [cnqswxxx.xxx] 2390
+   [Author: Archibald Henderson, Ph.D., D.C.L.]
+
+Nov 2000 Theodore Roosevelt; An Intimate Biography, Thayer [teddyxxx.xxx] 2386
+   [Author: William Roscoe Thayer]
+
+Nov 2000 Canterbury Tales and Other Poems, Geoffrey Chaucer[cbtlsxxx.xxx] 2383
+   [Edited for Popular Perusal by D. Laing Purves]
+
+Oct 2000 Select Epigrams from the Greek Anthology, Mackail [?efgmxxx.xxx] 2378
+   [Author: J. W. Mackail]
+
+Oct 2000 Incognita, by William Congreve[William Congreve#5][ncogaxxx.xxx] 2363
+   [Subtitle: or, Love & Duty Reconcil'd]
+
+Sep 2000 Critical and Historical Essays, by Macaulay V2[#8][2cahexxx.xxx] 2333
+   [Editor:  Alexander James Grieve]
+Sep 2000 Critical and Historical Essays, by Macaulay V1[#7][1cahexxx.xxx] 2332
+   [Editor's Note by Alexander James Grieve]
+
+Sep 2000 Travels through France & Italy, by Tobias Smollett[ttfaixxx.xxx] 2311
+   [Introduction by Thomas Seccombe]
+
+Aug 2000 Poor Folk, by Fyodor Dostoyevsky  [Dostoyevsky #3][prflkxxx.xxx] 2302
+   [Tr.: C.J. Hogarth]
+
+Aug 2000 Pillars of Society, by Henrik Ibsen[Henrik Ibsen2][pllrsxxx.xxx] 2296
+   [Tr.: R. Farquharson Sharp]
+
+
+Dates of the following previously incorrectly listed as "1964/65":
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1664/65     [SP#40][sp40gxxx.xxx] 4155
+   [Ed.: Henry B. Wheatley] [Tr.: Mynors Bright] [Notes by Lord Braybrooke]
+Jun 2003 Diary of Samuel Pepys, Jan/Feb 1664/65     [SP#39][sp39gxxx.xxx] 4154
+   [Ed.: Henry B. Wheatley] [Tr.: Mynors Bright] [Notes by Lord Braybrooke]
+
+The following have been re-indexed to add the language identifier:
+The Khasis, by P. R. T. Gurdon                                           12786
+   [Language: Khasi] [Language: English]
+Ancient Nahuatl Poetry, by Daniel G. Brinton                             12219
+   [Subtitle: Brinton's Library of Aboriginal American Literature Number VII]
+   [Language: Nahuatl]
+Book of the Mutsun Language, by Father Felipe Arroyo de la Cuesta        11081
+   [Title: A Vocabulary or Phrase Book of the Mutsun Language,
+    Spoken at the Mission of San Juan Bautista, Alta California]
+   [Shea's Library of American Linguistics, Volume IV.]
+   [Language: North American Indian]
+May 2004 A Korean--English Dictionary, Leon Kuperman       [kedctxxx.xxx] 5739C
+   [Language: Korean] [Language: English]
+
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Add the volume number:
+Life of Thomas, Lord Cochrane, Volume 1, by Thomas Cochrane              13351
+
+Correct the author's name (Belasco, not Moses), and add the editor:
+The Return of Peter Grimm, by David Belasco                              13319
+    [Edited by Montrose J. Moses]
+
+Title correction (Christian, not Cristian):
+A Vertuous or Christian life, by Lady Damaris Masham                     13285
+   [Title: Occasional Thoughts in Reference to a Vertuous or Christian life]
+
+Correct the author's name (Flemming, not Fleming):
+Putnam's Word Book, by Louis A. Flemming                                 13188
+
+The following is being re-indexed to clarify the title and the contents,
+also authorship:
+Chocolate and Cocoa Recipes, by Parloa, and Home Made Candy, by Hill     13177
+   [Title:  Chocolate and Cocoa Recipes, by Miss Parloa, and Home Made
+    Candy Recipes, by Mrs. Janet McKenzie Hill]
+   [Author: Maria Parloa]
+
+The following has been re-posted in an updated edition, and an HTML format
+added:
+Runoja, by Aaro Hellaakoski                                              13099
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/0/9/13099 ]
+   [Files: 13099.txt; 13099-8.txt; 13099-h.htm]
+
+Title correction:
+Mr. Trunnell, Mate of the Ship "Pirate", by T. Jenkins Hains             13073
+
+Author correction and add supplemental contributor information:
+Common Sense, How To Exercise It, by Yoritomo-Tashi                      13072
+   [Translated by Mme. Leon J. Berthelot De La Boileverie]
+   [Annotated by B. Dangennes]
+   [Link: http://www.gutenberg.net/1/3/0/7/13072 ]
+   [Files: 13072.txt; 13072-8.txt]
+
+Author correction ("Russell", not "Rusell"):
+Sydney Smith, by George W. E. Rusell                                     12994
+
+Add second author:
+The Naval Pioneers of Australia, by Louis Becke & Walter Jeffery         12992
+Our Government: Local, State, & National: Idaho Edn., by James & Sanford 12968
+   [Authors:  J. A. James & A. H. Sanford]
+
+Title correction:
+Newton Forster, or The Merchant Service, by Frederick Marryat            12959
+
+Add "Pt. 1" and second author:
+The Morris Book, Pt. 1, by Cecil J. Sharp and Herbert C. Macilwaine      12926
+
+Title correction:
+The Laird's Luck and Other Stories, by Arthur Quiller-Couch              12923
+
+Correct author's last name:
+Simon Magus, by George Robert Stow Mead                                  12892
+
+Add reference to additional material:
+Laugh and Live, by Douglas Fairbanks                                     12887
+   [Includes: A "Close-Up" of Douglas Fairbanks, by George Creel]
+
+Title correction (Burgundy, not Burgandy):
+Yolanda: Maid of Burgundy, by Charles Major                              12057
+
+Volume number corrected (20, not 19):
+The Mirror of Literature, Amusement, and Instruction, Vol. 20, No. 568   11887
+
+Correct errors in authors' names:
+Philippine Folk-Tales, by Bayliss et al.                                 11028
+   [Full author: Clara Kern Bayliss, Berton L. Maxfield, W. H. Millington,
+    Fletcher Gardner, Laura Watson Benedict]
+
+Correct issue number (32, not 22):
+Dec 2005 Atlantic Monthly, Vol. 5, No. 32, by Various [#22][?05a6xxx.xxx] 9486
+   [Title: Atlantic Monthly, Vol. 5, No. 32, June, 1860]
+
+The following file has been reindexed to include the authors real name:
+Sep 2005 Queechy, Susan Warner (AKA Elizabeth Wetherell)   [?queexxx.xxx] 8874
+   [Also posted:  illustrated HTML in 8quee10h.htm/.zip]
+
+Correct volume number for each file:
+Aug 2005 Le Capitaine Arena:  Vol. 1, by Alexandre Dumas   [?cpt2xxx.xxx] 8693
+   [Author AKA: Alexandre Dumas, Pere] [Language: French]
+Aug 2005 Le Capitaine Arena:  Vol. 2, by Alexandre Dumas   [?cpt1xxx.xxx] 8692
+   [Author AKA: Alexandre Dumas, Pere] [Language: French]
+
+Title correction:
+Oct 2004 Politics: A Treatise on Government, by Aristotle  [tgovtxxx.xxx] 6762
+   [Translator: William Ellis]
+
+We have posted an improved 11th edition of:
+Jun 2002 Wealth of Nations, by Adam Smith  [Adam Smith #1] [wltntxxx.xxx] 3300
+
+We have posted an improved edition 13 of the following:
+Jun 1992 The Scarlet Letter, Nathaniel Hawthorne [#1]      [scrltxxx.xxx]   33
+
+The following are being re-indexed to standardize the listings for
+uniformity with current and future postings, and add supplemental
+information:
+
+Society for Pure English, Tract 11, E.B., H.W. Fowler & A. Clutton-Brock 13311
+   Contents: Three Articles on Metaphor
+Society for Pure English, Tract 5, by Brander Matthews & Robert Bridges  12524
+   Contents:
+     The Englishing of French Words, by Brander Matthews
+     The Dialectal Words in Blunden's Poems, etc., by Robert Bridges
+Society for Pure English, Tract 3, by Logan Pearsall Smith               12390
+   Contents: A Few Practical Suggestions
+Society for Pure English, Tract 1, by Society for Pure English           12358
+   Contents:  Preliminary Announcement & List of Members
+
+Little Journeys to the Homes of Good Men and Great, by Elbert Hubbard    12933
+   [From: Little Journeys to the Homes of the Great, Vol. 1 of 14]
+   [Edited and Arranged by Fred Bann]
+   [Publication Note: The Roycrofters Memorial Edition]
+Sep 2004 Little Journeys. . .Great Reformers, by Hubbard   [hmgrfxxx.xxx] 6449
+   [Title: Little Journeys to the Homes of the Great Reformers]
+   [From: Little Journeys to the Homes of the Great, Vol. 9 of 14]
+   [Author: Elbert Hubbard]
+Aug 2004 Little Journeys. . .Eminent Artists, by Hubbard   [hmmnnxxx.xxx] 6306
+   [Title: Little Journeys to the Homes of Eminent Artists]
+   [From: Little Journeys to the Homes of the Great, Vol. 6 of 14]
+   [Author: Elbert Hubbard]
+</pre>
+
+<pre>-=-=-=-=[ 264 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+International Weekly Miscellany, Vol. I, No. 6, by Various               13661
+   [Subtitle: Of Literature, Art, And Science, New York, August 5, 1850]
+   [Link: http://www.gutenberg.net/1/3/6/6/13661 ]
+   [Files: 13661.txt; 13661-8.txt; 13661-h.htm]
+
+The Correspondence of Carlyle and Emerson, Vol II., Carlyle and Emerson  13660
+   [Title: The Correspondence of Thomas Carlyle and Ralph Waldo Emerson,
+    1834-1872, Vol II.]
+   [Author: Thomas Carlyle and Ralph Waldo Emerson]
+   [Edited and Arranged by Charles E. Norton]
+   [Link: http://www.gutenberg.net/1/3/6/6/13660 ]
+   [Files: 13660.txt]
+
+Der Todesgruss der Legionen, Dritter Band, by Meding                     13659
+   [Author: Johann Ferdinand Martin Oskar Meding, AKA Gregor Samarow]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/3/6/5/13659 ]
+   [Files: 13659.txt; 13659-8.txt; 13659-0.txt]
+
+Der Todesgruss der Legionen, Zweiter Band, by Meding                     13658
+    [Author: Johann Ferdinand Martin Oskar Meding, AKA Gregor Samarow]
+    [Language: German]
+    [Link: http://www.gutenberg.net/1/3/6/5/13658 ]
+    [Files: 13658.txt; 13658-8.txt; 13658-0.txt]
+
+Der Todesgruss der Legionen, Erster Band, by Meding                      13657
+   [Author: Johann Ferdinand Martin Oskar Meding, AKA Gregor Samarow]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/3/6/5/13657 ]
+   [Files: 13657.txt; 13657-8.txt; 13657-0.txt]
+
+A Series of Lessons in Raja Yoga, by Yogi Ramacharaka                    13656
+   [Link: http://www.gutenberg.net/1/3/6/5/13656 ]
+   [Files: 13656.txt]
+
+Lippincott's Magazine, Vol. XVII, No. 99, March, 1876, by Various        13655
+    [Link: http://www.gutenberg.net/1/3/6/5/13655 ]
+    [Files: 13655.txt; 13655-8.txt; 13655-h.htm]
+
+Ida et Carmelita, by Hector Malot                                        13654
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/6/5/13654 ]
+   [Files: 13654.txt; 13654-8.txt; 13654-h.htm]
+
+Elle et lui, by George Sand                                              13653
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/6/5/13653 ]
+   [Files: 13653.txt; 13653-8.txt; 13653-0.txt]
+
+Exposition of the Apostles Creed, by James Dodds                         13652
+   [Link: http://www.gutenberg.net/1/3/6/5/13652 ]
+   [Files: 13652.txt; 13652-h.htm]
+
+Catalogue of Books in Fiction and General Literature, by Various         13651
+   [Title: Chatto & Windus Alphabetical Catalogue of Books in Fiction and
+    General Literature, Sept. 1905]
+   [Link: http://www.gutenberg.net/1/3/6/5/13651 ]
+   [Files: 13651.txt; 13651-8.txt; 13651-h.htm]
+
+
+Ambrosius, by Chris K.F. Molbech                                         13599
+   [Language: Danish]
+   [Link: http://www.gutenberg.net/1/3/5/9/13599 ]
+   [Files: 13599.txt; 13599-8.txt; 13599-h.htm]
+
+Jim l'indien, by Gustave Aimard and Jules Berlioz d'Auriac               13598
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/9/13598 ]
+   [Files: 13598.txt; 13598-8.txt]
+
+A Tale of a Lonely Parish, by F. Marion Crawford                         13597
+   [Author AKA: Francis Marion Crawford]
+   [Link: http://www.gutenberg.org/1/3/5/9/13597 ]
+   [Files: 13597.txt; 13597-8.txt; ]
+
+Bavo en Lieveken, by Hendrik Conscience                                  13596
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/5/9/13596 ]
+   [Files: 13596.txt; 13596-8.txt; 13596-h.htm]
+
+Avondstonden, by Hendrik Conscience                                      13595
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/5/9/13595 ]
+   [Files: 13595.txt; 13595-8.txt; 13595-h.htm]
+
+Portraits litteraires, Tome I, by C.-A. Sainte-Beuve                     13594
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/9/13594 ]
+   [Files: 13594.txt; 13594-8.txt; 13594-h.htm]
+
+Yksin, by Juhani Aho                                                     13593
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/9/13593 ]
+   [Files: 13593-8.txt]
+
+L'Uscoque, by George Sand                                                13592
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/9/13592 ]
+   [Files: 13592.txt; 13592-8.txt; 13592-0.txt]
+
+Noorwegens Letterkunde in de Negentiende Eeuw, by R.C. Boer              13591
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/5/9/13591 ]
+   [Files: 13591.txt; 13591-8.txt; 13591-h.htm]
+
+British Folk-Music -- "Shepherd's Hey", by Percy Grainger                13590
+   [Title: British Folk-Music Settings Nr. 4, "Shepherd's Hey"]
+   [Author: Anonymous, Arranged for piano by Percy Grainger]
+   (Note: This is a musical score in MIDI, PDF and Finale's MUS formats)
+   [Link: http://www.gutenberg.net/1/3/5/9/13590 ]
+   [Files: 13590.txt; 13590-mid.mid; 13590-mus.mus; 13590-pdf.pdf]
+
+The Theory of the Theatre, by Clayton Hamilton                           13589
+   [Link: http://www.gutenberg.net/1/3/5/8/13589 ]
+   [Files: 13589.txt; 13589-8.txt; 13589-h.htm]
+
+The Young Gentleman and Lady's Monitor..., by John Hamilton Moore        13588
+   [Full title: The Young Gentleman and Lady's Monitor, and English
+    Teacher's Assistant]
+   [Link: http://www.gutenberg.net/1/3/5/8/13588 ]
+   [Files: 13588.txt; 13588-8.txt; 13588-h.htm]
+
+Mirror of Literature, Amusement, and Instruction, Vol. 10, No. 290       13587
+   [December 29, 1827]
+   [Link: http://www.gutenberg.net/1/3/5/8/13587 ]
+   [Files: 13587.txt; 13587-h.htm]
+
+Poems, by Samuel Rogers                                                  13586
+   [Link: http://www.gutenberg.net/1/3/5/8/13586 ]
+   [Files: 13586.txt; 13586-8.txt]
+
+De profundis, by Oscar Wilde                                             13585
+   [Translated by P.C. Boutens]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/5/8/13585 ]
+   [Files: 13585.txt; 13585-8.txt; 13585-h.htm]
+
+American Missionary, Volume XLII, No. 11, November 1888, by Various      13584
+   [Link: http://www.gutenberg.net/1/3/5/8/13584 ]
+   [Files: 13584.txt; 13584-8.txt; 13584-h.htm]
+
+The Correspondence of Carlyle and Emerson, by Carlyle and Emerson        13583
+   [Title: The Correspondence of Thomas Carlyle and Ralph Waldo Emerson,
+    1834-1872, Vol. I]
+   [Author: Thomas Carlyle and Ralph Waldo Emerson]
+   [Link: http://www.gutenberg.net/1/3/5/8/13583 ]
+   [Files: 13583.txt]
+
+The Excavations of Roman Baths at Bath, by Charles E. Davis              13582
+   [Link: http://www.gutenberg.org/1/3/5/8/13582 ]
+   [Files: 13582.txt; 13582-8.txt; 13582-h.htm; ]
+
+Hellmannin herra; Esimerkin vuoksi; Maailman murjoma, by Juhani Aho      13581
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/8/13581 ]
+   [Files: 13581-8.txt]
+
+Helsinkiin, by Juhani Aho                                                13580
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/8/13580 ]
+   [Files: 13580-8.txt]
+
+Slave Narratives: Indiana, by Work Projects Administration               13579
+   [Title: Slave Narratives: A Folk History of Slavery in the United States
+    From Interviews with Former Slaves, Vol. V: Indiana Narratives]
+   [Link: http://www.gutenberg.net/1/3/5/7/13579 ]
+   [Files: 13579.txt; 13579-8.txt; 13579-h.htm]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 13, No. 361   13578
+   [Supplementary Issue (1829)]
+   [Author: Various]
+   [Link: http://www.gutenberg.org/1/3/5/7/13578 ]
+   [Files: 13578.txt; 13578-8.txt; 13578-h.htm; ]
+
+The Meadow-Brook Girls Afloat, by Janet Aldridge                         13577
+   [Subtitle: The Stormy Cruise of the Red Rover]
+   [Link: http://www.gutenberg.org/1/3/5/7/13577 ]
+   [Files: 13577.txt; 13577-h.htm; ]
+
+The Poor Gentleman, by Hendrik Conscience                                13576
+   [Link: http://www.gutenberg.org/1/3/5/7/13576 ]
+   [Files: 13576.txt; 13576-8.txt; 13576-h.htm; ]
+
+How to Observe in Archaeology, by Various                                13575
+   [Subtitle: Suggestions for Travellers in the Near and Middle East]
+   [Link: http://www.gutenberg.org/1/3/5/7/13575 ]
+   [Files: 13575.txt; ]
+
+Keeping Fit All the Way, by Walter Camp                                  13574
+   [Subtitle: How to Obtain and Maintain Health, Strength and Efficiency]
+   [Link: http://www.gutenberg.org/1/3/5/7/13574 ]
+   [Files: 13574.txt; 13574-h.htm; ]
+
+Elizabeth's Campaign, by Mrs. Humphry Ward                               13573
+   [Author AKA: Mary Augusta Arnold Ward]
+   [Illustrator: C. Allan Gilbert]
+   [Note: UK title was The War and Elizabeth]
+   [Link: http://www.gutenberg.org/1/3/5/7/13573 ]
+   [Files: 13573.txt; 13573-8.txt; 13573-h.htm; ]
+
+The Son of Clemenceau, by Alexandre Dumas (fils)                         13572
+   [Subtitle: A Novel of Modern Love and Life (A Sequel to The Clemenceau
+    Case)]
+   [Link: http://www.gutenberg.org/1/3/5/7/13572 ]
+   [Files: 13572.txt; 13572-8.txt; 13572-h.htm; ]
+
+Notes & Queries, Index of Vol. 2, May through December, 1850             13571
+   [Link: http://www.gutenberg.net/1/3/5/7/13571 ]
+   [Files: 13571.txt; 13571-8.txt; 13571-h.htm]
+
+Sketches of the Covenanters, by J. C. McFeeters                          13570
+   [Link: http://www.gutenberg.org/1/3/5/7/13570 ]
+   [Files: 13570.txt; 13570-h.htm; ]
+
+Tractus de Hermaphrodites (1718), by Giles Jacob                         13569
+   [Link: http://www.gutenberg.net/1/3/5/6/13569 ]
+   [Files: 13569.txt; 13569-8.txt; 13569-h.htm]
+
+Woman Suffrage By Federal Constitutional Amendment, by Catt (Compiler)   13568
+   [Compiler: Carrie Lane Chapman Catt]
+   [Link: http://www.gutenberg.net/1/3/5/6/13568 ]
+   [Files: 13568.txt; 13568-8.txt]
+
+Clementina, by A.E.W. Mason                                              13567
+   [Link: http://www.gutenberg.net/1/3/5/6/13567 ]
+   [Files: 13567.txt; 13567-8.txt; 13567-h.htm]
+
+Muuan markkinamies, by Juhani Aho                                        13566
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/6/13566 ]
+   [Files: 13566-8.txt]
+
+Jaakko Juteini ja hanen kirjallinen toimintansa, by Kuuno A. Talvioja    13565
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/6/13565 ]
+   [Files: 13565.txt; 13565-8.txt]
+
+Ensimmaiset novellit, by Juhani Aho                                      13564
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/5/6/13564 ]
+   [Files: 13564-8.txt]
+
+Punch, Vol. 101, July 4, 1891, Ed. by Sir Francis Burnand                13563
+   [Link: http://www.gutenberg.net/1/3/5/6/13563 ]
+   [Files: 13563.txt; 13563-8.txt; 13563-h.htm]
+
+Ghislaine, by Hector Malot                                               13562
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/6/13562 ]
+   [Files: 13562.txt; 13562-8.txt; 13562-h.htm]
+
+Browning as a Philosophical and Religious Teacher, by Henry Jones        13561
+   [Link: http://www.gutenberg.org/1/3/5/6/13561 ]
+   [Files: 13561.txt; 13561-8.txt; 13561-h.htm; ]
+
+Nancy MacIntyre, by Lester Shepard Parker                                13560
+   [Subtitle: A Tale of the Prairies]
+   [Link: http://www.gutenberg.org/1/3/5/6/13560 ]
+   [Files: 13560.txt; 13560-h.htm; ]
+
+The Backwoods of Canada, by Catharine Parr Traill                        13559
+   [Subtitle: Being Letters From The Wife Of An Emigrant Officer,
+    Illustrative Of The Domestic Economy Of British America]
+   [Link: http://www.gutenberg.net/1/3/5/5/13559 ]
+   [Files: 13559.txt]
+
+Notes & Queries, No. 14. Saturday, February 2, 1850, by Various          13558
+   [Link: http://www.gutenberg.net/1/3/5/5/13558 ]
+   [Files: 13558.txt; 13558-8.txt; 13558-h.htm]
+
+Cent-vingt jours de service actif, by Charles R. Daoust                  13557
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/5/13557 ]
+   [Files: 13557.txt; 13557-8.txt; 13557-h.htm]
+
+Behind the Line, by Ralph Henry Barbour                                  13556
+   [Subtitle: A Story of College Life and Football]
+   [Illustrator: C. M. Relyea]
+   [Link: http://www.gutenberg.org/1/3/5/5/13556 ]
+   [Files: 13556.txt; 13556-8.txt; 13556-h.htm; ]
+
+Youth and the Bright Medusa, by Willa Cather                             13555
+   [Subtitle: A Collection of Short Stories]
+   Contents:
+     Coming, Aphrodite!
+     The Diamond Mine
+     A Gold Slipper
+     Scandal
+     Paul's Case
+     A Wagner Matinee
+     The Sculptor's Funeral
+     "A Death in the Desert"
+   [Link: http://www.gutenberg.org/1/3/5/5/13555 ]
+   [Files: 13555.txt; 13555-8.txt; ]
+
+Aftermath, by James Lane Allen                                           13554
+   [Subtitle: Part Second of A Kentucky Cardinal]
+   [Link: http://www.gutenberg.net/1/3/5/5/13551 ]
+   [Files: 13551.txt; ]
+
+The Tidal Wave and Other Stories, by Ethel May Dell                      13553
+   [Author AKA: Ethel M. Dell]
+   Contents:
+     The Tidal Wave
+     The Magic Circle
+     The Looker-On
+     The Second Fiddle
+     The Woman of His Dream
+     The Return Game
+   [Link: http://www.gutenberg.org/1/3/5/5/13553 ]
+   [Files: 13553.txt; 13553-8.txt; 13553-h.htm; ]
+
+Ceylon; An Account of the Island. . ., Vol. 1 of 2, by Tennent           13552
+   [Title: Ceylon; an Account of the Island Physical, Historical, and
+    Topographical with Notices of Its Natural History, Antiquities and
+    Productions, Volume 1 (of 2)]
+   [Author: James Emerson Tennent]
+   [Link: http://www.gutenberg.net/1/3/5/5/13552 ]
+   [Files: 13552.txt; 13552-8.txt; 13552-h.htm; ]
+
+Notes & Queries, No. 50, Saturday, October 12, 1850, by Various          13551
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/5/5/13551 ]
+   [Files: 13551.txt; 13551-8.txt; 13551-h.htm]
+
+Notes & Queries, No. 6. Saturday, December 8, 1849, by Various           13550
+   [Link: http://www.gutenberg.net/1/3/5/5/13550 ]
+   [Files: 13550.txt; 13550-8.txt; 13550-h.htm]
+
+Cambridge Essays on Education, Ed. by Arthur Christopher Benson          13548
+   Contents:
+     Introduction, by Viscount Bryce
+     The Aim of Educational Reform, by J. L. Paton
+     The Training of the Reason, by W. R. Inge
+     The Training of the Imagination, by A. C. Benson
+     Religion at School, by W. W. Vaughan
+     Citizenship, by Albert Mansbridge
+     The Place of Literature in Education, by Nowell Smith
+     The Place of Science in Education, by William Bateson
+     Athletics, by F. B. Malim
+     The Use of Leisure, by J. H. Badley
+     Preparation for Practical Life, by J. D. McClure
+     Teaching as a Profession, by Frank Roscoe
+   [Link: http://www.gutenberg.org/1/3/5/4/13548 ]
+   [Files: 13548.txt; 13548-8.txt; 13548-h.htm; ]
+
+The Art of War, by Baron Henri de Jomini                                 13549
+   [Translated From The French By G.H. Mendell and W.P. Craighill]
+   [Link: http://www.gutenberg.net/1/3/5/4/13549 ]
+   [Files: 13549.txt; 13549-8.txt; 13549-h.htm]
+
+The Rocks of Valpre, by Ethel May Dell                                   13547
+   [Author AKA: Ethel M. Dell]
+   [Link: http://www.gutenberg.net/1/3/5/4/13547 ]
+   [Files: 13547.txt; 13547-8.txt; ]
+
+The Dark House, by I. A. R. Wylie                                        13546
+   [Author AKA: Ida Alexis Ross Wylie]
+   [Link: http://www.gutenberg.net/1/3/5/4/13546 ]
+   [Files: 13546.txt; ]
+
+Mary at the Farm and Book of Recipes. . ., by Edith M. Thomas            13545
+   [Title: Mary at the Farm and Book of Recipes Compiled during Her Visit
+    among the "Pennsylvania Germans"]
+   [Link: http://www.gutenberg.net/1/3/5/4/13545 ]
+   [Files: 13545.txt; 13545-8.txt; 13545-h.htm; ]
+
+Notes & Queries, No. 18. Saturday, March 2, 1850, by Various             13544
+   [Link: http://www.gutenberg.net/1/3/5/4/13544 ]
+   [Files: 13544.txt; 13544-8.txt; 13544-h.htm]
+
+People You Know, by George Ade                                           13543
+   [Link: http://www.gutenberg.net/1/3/5/4/13543 ]
+   [Files: 13543.txt; 13543-8.txt; 13543-h.htm]
+
+Left Tackle Thayer, by Ralph Henry Barbour                               13542
+   [Link: http://www.gutenberg.net/1/3/5/4/13542 ]
+   [Files: 13542.txt; 13542-8.txt; 13542-h.htm]
+
+The Collected Works of Ambrose Bierce, Vol. I, by Ambrose Bierce         13541
+   [Link: http://www.gutenberg.net/1/3/5/4/13541 ]
+   [Files: 13541.txt; 13541-8.txt; 13541-h.htm]
+
+Notes & Queries, No. 53, Saturday, November 2, 1850, by Various          13540
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/5/4/13540 ]
+   [Files: 13540.txt; 13540-8.txt; 13540-h.htm]
+
+Dr. Scudder's Tales for Little Readers, About the Heathen., by Scudder   13539
+   [Full author: Dr. John Scudder]
+   [Link: http://www.gutenberg.net/1/3/5/3/13539 ]
+   [Files: 13539.txt; 13539-8.txt; 13539-h.htm]
+
+Punch, Vol. 101, September 5, 1891, Ed. by Sir Francis Burnand           13538
+   [Link: http://www.gutenberg.net/1/3/5/3/13538 ]
+   [Files: 13538.txt; 13538-8.txt; 13538-h.htm]
+
+Library of Work and Play: Gardening and Farming, by Ellen Eddy Shaw      13537
+   [Link: http://www.gutenberg.net/1/3/5/3/13537 ]
+   [Files: 13537.txt; 13537-8.txt; 13537-h.htm]
+
+Notes & Queries, Index of Vol. 1, November 1849 through May 1850         13536
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/5/3/13536 ]
+   [Files: 13536.txt; 13536-8.txt; 13536-h.htm]
+
+Selections from Five English Poets, by Various                           13535
+   [Edited With Introduction And Notes By Mary E. Litchfield]
+   Contents:
+     Dryden
+       A Song For St. Cecilia's Day
+     Gray
+       Elegy Written In A Country Churchyard
+     Goldsmith
+       The Traveller
+       The Deserted Village
+     Burns
+       The Cotter's Saturday Night
+     Coleridge
+       The Ancient Mariner]
+   [Link: http://www.gutenberg.net/1/3/5/3/13535 ]
+   [Files: 13535.txt]
+
+Past and Present, by Thomas Carlyle                                      13534
+   [Introduction: Ralph Waldo Emerson]
+   [Link: http://www.gutenberg.net/1/3/5/3/13534 ]
+   [Files: 13534.txt]
+
+The Unfolding Life, by Antoinette Abernethy Lamoreaux                    13533
+   [Subtitle: A Study of Development with Reference to Religious Training]
+   [Introduction: Marion Lawrance]
+   [Link: http://www.gutenberg.net/1/3/5/3/13533 ]
+   [Files: 13533.txt; 13533-h.htm; ]
+
+Kindred of the Dust, by Peter B. Kyne                                    13532
+   [Link: http://www.gutenberg.net/1/3/5/3/13532 ]
+   [Files: 13532.txt; 13532-8.txt; 13532-h.htm; ]
+
+Amos Kilbright: His Adscititious Experiences, by Frank R. Stockton       13531
+   [Subtitle: With Other Stories]
+   Contents:
+     Amos Kilbright: His Adscititious Experiences
+     The Reversible Landscape
+     Dusky Philosophy--in Two Expositions:
+       First Exposition: A Story of Seven Devils
+       Second Exposition: Grandison's Quandary
+     Plain Fishing
+   [Link: http://www.gutenberg.net/1/3/5/3/13531 ]
+   [Files: 13531.txt; 13531-8.txt; 13531-h.htm; ]
+
+Halcyone, by Elinor Glyn                                                 13530
+   [Link: http://www.gutenberg.net/1/3/5/3/13530 ]
+   [Files: 13530.txt; 13530-8.txt; 13530-h.htm]
+
+The Influence of Sea Power Upon History, 1660-1783, Alfred Thayer Mahan  13529
+   [Link: http://www.gutenberg.net/1/3/5/2/13529 ]
+   [Files: 13529.txt; ]
+
+Scorched Earth, by Walter D. Petrovic                                    13528C
+   [Subtitle: A Future History of Planet Earth]
+   [Link: http://www.gutenberg.net/1/3/5/2/13528 ]
+   [Files: 13528.txt; ]
+
+Ticket No. "9672", by Jules Verne                                        13527
+   [Tr.: Laura E. Kendall]
+   [Link: http://www.gutenberg.org/dirs/1/3/5/2/13527 ]
+   [Files: 13527.txt; 13527-8.txt; 13527-h.htm ]
+
+In the Clutch of the War-God, by Milo Hastings                           13526
+   [From: Physical Culture magazine, July - September, 1911]
+   [Link: http://www.gutenberg.net/1/3/5/2/13526 ]
+   [Files: 13526.txt; 13526-h.htm; 13526-page-images]
+
+Maria Chapdelaine, by Louis Hemon                                        13525
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/2/13525 ]
+   [Files: 13525-8.txt; 13525-h.htm]
+
+Les Pardaillan, Tome 05, Pardaillan et Fausta, by Michel Zevaco          13524
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/2/13524 ]
+   [Files: 13524.txt; 13524-8.txt; 13524-h.htm]
+
+Les Pardaillan, Tome 04, Fausta Vaincue, by Michel Zevaco                13523
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/5/2/13523 ]
+   [Files: 13523.txt; 13523-8.txt; 13523-h.htm]
+
+Superseded, by May Sinclair                                              13522
+   [Link: http://www.gutenberg.net/1/3/5/2/13522 ]
+   [Files: 13522.txt; 13522-8.txt]
+
+Notes & Queries, No. 9, Saturday, December 29, 1849, by Various          13521
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/5/2/13521 ]
+   [Files: 13521.txt; 13521-8.txt; 13521-h.htm]
+
+The World's Best Literature, Ancient And Modern, Vol. 5, Ed. by Warner   13520
+   [Title: Library Of The World's Best Literature, Ancient And Modern,
+    Vol. 5]
+   [Ed.: Charles Dudley Warner]
+   [Link: http://www.gutenberg.net/1/3/5/2/13520 ]
+   [Files: 13520.txt; 13520-8.txt; 13520-h.htm]
+
+La Tierra de Todos, by Vicente Blasco Ibanez                             13519
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/5/1/13519 ]
+   [Files: 13519.txt; 13519-8.txt]
+
+The Journey to the Polar Sea, by John Franklin                           13518
+   [Introduction: Captain R.F. Scott]
+   [Link: http://www.gutenberg.net/1/3/5/1/13518 ]
+   [Files: 13518.txt]
+
+In Bohemia with Du Maurier, by Felix Moscheles                           13517
+   [Subtitle: The First Of A Series Of Reminiscences]
+   [Link: http://www.gutenberg.net/1/3/5/1/13517 ]
+   [Files: 13517.txt; 13517-8.txt; 13517-h.htm]
+
+Expedicion de Catalanes y Argoneses al Oriente, by Moncada               13516
+   [Author: D. Francisco De Moncada]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/5/1/13516 ]
+   [Files: 13516.txt; 13516-8.txt 13516-doc.doc]
+
+Bracebridge Hall, or The Humorists, by Washington Irving                 13515
+   [Link: http://www.gutenberg.net/1/3/5/1/13515 ]
+   [Files: 13515.txt; 13515-8.txt]
+
+Tales of a Traveller, by Washington Irving                               13514
+   [Link: http://www.gutenberg.net/1/3/5/1/13514 ]
+   [Files: 13514.txt; 13514-8.txt]
+
+Notes & Queries, No. 4, Saturday, November 24, 1849, by Various          13513
+   [Subtitle: A Medium Of Inter-Communication For Literary Men, Artists,
+    Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/5/1/13513 ]
+   [Files: 13513.txt; 13513-8.txt; 13513-h.htm]
+
+Three Voyages for the Discovery of a Northwest Passage, Vol. 1, by Parry 13512
+   [Title: Three Voyages for the Discovery of a Northwest Passage from the
+    Atlantic to the Pacific, and Narrative of an Attempt to Reach the North
+    Pole, Volume 1 (of 2)]
+   [Author: Sir William Edward Parry]
+   [Link: http://www.gutenberg.net/1/3/5/1/13512 ]
+   [Files: 13512.txt; 13512-8.txt; ]
+
+The Daughter of the Commandant, by Alexksandr Sergeevich Pushkin         13511
+   [Subtitle: A Russian Romance]
+   [Translator: Mrs. Milne Home]
+   [Note:  In this work Pushkin is spelled "Poushkin"]
+   [Link: http://www.gutenberg.net/1/3/5/1/13511 ]
+   [Files: 13511.txt; 13511-8.txt; ]
+
+Knots, Splices and Rope Work, by A. Hyatt Verrill                        13510
+   [Subtitle: A Practical Treatise Giving Complete and Simple Directions
+    for Making All the Most Useful and Ornamental Knots in Common Use,
+    with Chapters on Splicing, Pointing, Seizing, Serving, etc. Adapted for
+    the use of Travellers, Campers, Yachtsmen, Boy Scouts, and All Others
+    Having to Use or Handle Ropes for Any Purpose]
+   [Link: http://www.gutenberg.net/1/3/5/1/13510 ]
+   [Files: 13510.txt; 13510-h.htm; ]
+
+Grappling with the Monster, by T. S. Arthur [AKA: Timothy Shay Arthur]   13509
+   [Subtitle: The Curse and the Cure of Strong Drink]
+   [Link: http://www.gutenberg.net/1/3/5/0/13509 ]
+   [Files: 13509.txt; 13509-8.txt; 13509-h.htm; ]
+
+Weird Tales from Northern Seas, by Jonas Lie                             13508
+   [Translator: R. Nisbet Bain]
+   [Illustrator: Laurence Housman]
+   [Link: http://www.gutenberg.net/1/3/5/0/13508 ]
+   [Files: 13508.txt; 13508-8.txt; 13508-h.htm]
+
+Cuentos de Amor de Locura y de Muerte, by Horacio Quiroga                13507
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/5/0/13507 ]
+   [Files: 13507.txt; 13507-8.txt]
+
+The Story of Patsy, by Kate Douglas Smith Wiggin                         13506
+   [Link: http://www.gutenberg.net/1/3/5/0/13506 ]
+   [Files: 13506.txt; 13506-h.htm; ]
+
+The Duel and Other Stories, by Anton Chekhov                             13505
+   [Tr.: Constance Garnett]
+   Contents:
+     The Duel
+     Excellent People
+     Mire
+     Neighbours
+     At Home
+     Expensive Lessons
+     The Princess
+     The Chemist's Wife
+   [Link: http://www.gutenberg.net/1/3/5/0/13505 ]
+   [Files: 13505.txt; 13505-8.txt; ]
+
+Haydn, by John F. Runciman                                               13504
+   [Link: http://www.gutenberg.net/1/3/5/0/13504 ]
+   [Files: 13504.txt; 13504-8.txt; 13504-h.htm; ]
+
+Punch, Vol. 101, August 29, 1891, Ed. by Sir Francis Burnand             13503
+   [Link: http://www.gutenberg.net/1/3/5/0/13503 ]
+   [Files: 13503.txt; 13503-8.txt; 13503-h.htm]
+
+Punch, Vol. 101, August 22, 1891, Ed. by Sir Francis Burnand             13502
+   [Link: http://www.gutenberg.net/1/1/3/5/0/113502 ]
+   [Files: 113502.txt; 113502-8.txt; 113502-h.htm]
+
+Lady Connie, by Mrs. Humphry Ward                                        13501
+   [Author AKA: Mary Augusta Arnold Ward]
+   [Illustrator: Albert Sterner]
+   [Link: http://www.gutenberg.net/1/3/5/0/13501 ]
+   [Files: 13501.txt; 13501-8.txt; 13501-h.htm; ]
+
+A Heroine of France, The Story of Joan of Arc, by Evelyn Everett-Green   13500
+   [Link: http://www.gutenberg.net/1/3/5/0/13500 ]
+   [Files: 13500.txt; 13500-h.htm; ]
+
+Two Little Savages, by Ernest Thompson Seton                             13499
+   [Subtitle: Being the Adventures of Two Boys Who Lived as Indians and
+    What They Learned]
+   [Link: http://www.gutenberg.net/1/3/4/9/13499 ]
+   [Files: 13499.txt; 13499-8.txt; 13499-h.htm; ]
+
+The Fortieth Door, by Mary Hastings Bradley                              13498
+   [Link: http://www.gutenberg.net/1/3/4/9/13498 ]
+   [Files: 13498.txt; 13498-8.txt; 13498-h.htm; ]
+
+Greatheart, by Ethel M. Dell                                             13497
+   [Link: http://www.gutenberg.net/1/3/4/9/13497 ]
+   [Files: 13497.txt; 13497-8.txt; ]
+
+The White Morning, by Gertrude Atherton                                  13496
+   [Subtitle: A Novel of the Power of the German Women in Wartime]
+   [Author AKA: Gertrude Franklin Horn Atherton]
+   [Link: http://www.gutenberg.net/1/3/4/9/13496 ]
+   [Files: 13496.txt; 13496-8.txt; 13496-h.htm; ]
+
+Mirror of Literature, Amusement, and Instruction, Vol. 17, No. 470       13495
+   [January 8, 1831]
+   [Link: http://www.gutenberg.net/1/3/4/9/13495 ]
+   [Files: 13495.txt; 13495-8.txt; 13495-h.htm]
+
+Fables For The Times, by H. W. Phillips                                  13494
+   [Illustrated by T. R. Sullivan]
+   [Link: http://www.gutenberg.net/1/3/4/9/13494 ]
+   [Files: 13494.txt; 13494-8.txt; 13494-h.htm]
+
+The American Frugal Housewife, by Lydia M. Child                         13493
+   [Author AKA: Lydia Maria Francis Child]
+   [Link: http://www.gutenberg.net/1/3/4/9/13493 ]
+   [Files: 13493.txt; 13493-h.htm; ]
+
+Viajes por Europa y America, by Gorgonio Petano y Mazariegos             13492
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/4/9/13492 ]
+   [Files: 13492.txt; 13492-8.txt]
+
+Punch, Vol. 101, August 15, 1891, Ed. by Sir Francis Burnand             13491
+   [Link: http://www.gutenberg.net/1/3/4/9/13491 ]
+   [Files: 13491.txt; 13491-8.txt; 13491-h.htm]
+
+Corysandre, by Hector Malot                                              13490
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/9/13490 ]
+   [Files: 13490.txt; 13490-8.txt; 13490-h.htm]
+
+Brochure Series of Architectural Illustration, Vol. 1, 1895, by Various  13489
+   [Link: http://www.gutenberg.net/1/3/4/8/13489 ]
+   [Files: 13489.txt; 13489-8.txt; 13489-h.htm]
+
+An Essay on Mediaeval Economic Teaching, by George O'Brien               13488
+   [Author AKA: George Augustine Thomas O'Brien]
+   [Link: http://www.gutenberg.net/1/3/4/8/13488 ]
+   [Files: 13488.txt; 13488-8.txt; ]
+
+The Ideal Bartender, by Tom Bullock                                      13487
+   [Link: http://www.gutenberg.net/1/3/4/8/13487 ]
+   [Files: 13487.txt; 13487-h.htm; ]
+
+The Story of Sigurd the Volsung, by William Morris                       13486
+   [With Portions Condensed into Prose by Winifred Turner and Helen Scott]
+   [Biographical introduction by J. W. Mackail]
+   [Link: http://www.gutenberg.net/1/3/4/8/13486 ]
+   [Files: 13486.txt; 13486-8.txt; 13486-h.htm; ]
+
+An Enquiry Concerning the Principles of Taste, etc., by Francis Reynolds 13485
+   [Title: An Enquiry Concerning the Principles of Taste, and of the Origin
+    of our Ideas of Beauty, etc.]
+   [Introduction by James L. Clifford]
+   [Link: http://www.gutenberg.net/1/3/4/8/13485 ]
+   [Files: 13485.txt; 13485-8.txt; ]
+
+Essay upon Wit, by Sir Richard Blackmore                                 13484
+   [Subtitle: With Commentary by Joseph Addison, and an Introduction by
+    Richard C. Boys]
+   [Link: http://www.gutenberg.net/1/3/4/8/13484 ]
+   [Files: 13484.txt; 13484-8.txt; ]
+
+The Drama, by Henry Irving                                               13483
+   [Subtitle: Addresses by Henry Irving]
+   [Link: http://www.gutenberg.net/1/3/4/8/13483 ]
+   [Files: 13483.txt; 13483-8.txt; 13483-h.htm; ]
+
+What the Schools Teach and Might Teach, by John Franklin Bobbitt         13482
+   [Subtitle: Report of the Education Survey of Cleveland, Survey Committee
+    of the Cleveland Foundation, 1915 (One of 25 sections)]
+   [Link: http://www.gutenberg.net/1/3/4/8/13482 ]
+   [Files: 13482.txt; ]
+
+Roman life in the days of Cicero, by Alfred J[ohn] Church                13481
+   [Link: http://www.gutenberg.net/1/3/4/8/13481 ]
+   [Files: 13481.txt; 13481-8.txt]
+
+Notes and Queries, Number 49, Saturday, Oct. 5, 1850, by Various         13480
+   [Link: http://www.gutenberg.net/1/3/4/8/13480 ]
+   [Files: 13480.txt; 13480-8.txt; 13480-h.htm]
+
+Descripcion Geografica de Bolivia, by Alcides de Orbigny                 13479
+   [Title: Descripcion Geografica, Historica y Estadistica de Bolivia]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/4/7/13479 ]
+   [Files: 13479-8.txt]
+
+Zezette : moeurs foraines, by Oscar Metenier                             13478
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/7/13478 ]
+   [Files: 13478-8.txt; 13478-h.htm]
+
+Watts (1817-1904), by William Loftus Hare                                13477
+   [Part of the series Masterpieces in Colour, edited by T. Leman Hare]
+   [Link: http://www.gutenberg.net/1/3/4/7/13477 ]
+   [Files: 13477.txt; 13477-8.txt; 13477-h.htm; ]
+
+Experiments with Alternate Currents of High Potential and High Frequency 13476
+   [Author: Nikola Tesla]
+   [Subtitle: A Lecture Delivered before the Institution of Electrical
+    Engineers, London]
+   [Link: http://www.gutenberg.net/1/3/4/7/13476 ]
+   [Files: 13476.txt; 13476-h.htm; ]
+
+Oeuvres de Napoleon Bonaparte, Tome V, by Napoleon Bonaparte             13475
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/7/13475 ]
+   [Files: 13475-8.txt; 13475-h.htm]
+
+Women and the Alphabet, by Thomas Wentworth Higginson                    13474
+   [Subtitle: A Series of Essays]
+   [Link: http://www.gutenberg.net/1/3/4/7/13474 ]
+   [Files: 13474.txt; 13474-8.txt; 13474-h.htm; ]
+
+String Quartet No. 6 Opus 18 Ludwig von Beethoven                        13473
+    [Link: http://www.gutenberg.net/1/3/4/7/13473]
+
+Waysiders, by Seumas O'Kelly                                             13472
+   [Subtitle: Stories of Connacht]
+   [Link: http://www.gutenberg.net/1/3/4/7/13472 ]
+   [Files: 13472.txt; 13472-8.txt; 13472-h.htm; ]
+
+Letters of Ulysses S. Grant to His Father. . .Youngest Sister, by Grant  13471
+   [Title: Letters of Ulysses S. Grant to His Father and His Youngest
+    Sister, 1857-78]
+   [Author: Ulysses S. Grant]
+   [Editor: Jesse Grant Cramer]
+   [Link: http://www.gutenberg.net/1/3/4/7/13471 ]
+   [Files: 13471.txt; 13471-8.txt; 13471-h.htm; ]
+
+Bertha, by Mary Hazelton Wade                                            13470
+   [Author AKA: Mary Hazelton Blanchard Wade]
+   [Subtitle: Our Little German Cousin]
+   [Link: http://www.gutenberg.net/1/3/4/7/13470 ]
+   [Files: 13470.txt; ]
+
+A History of Pantomime, by R. J. Broadbent                               13469
+   [Link: http://www.gutenberg.net/1/3/4/6/13469 ]
+   [Files: 13469.txt; 13469-8.txt; 13469-h.htm; ]
+
+The New Jerusalem, by G. K. Chesterton                                   13468
+   [AKA: Gilbert Keith Chesterton]
+   [Link: http://www.gutenberg.net/1/3/4/6/13468 ]
+   [Files: 13468.txt; ]
+
+Study of Child Life, by Marion Foster Washburne                          13467
+   [Link: http://www.gutenberg.net/1/3/4/6/13467 ]
+   [Files: 13467.txt; 13467-h.htm; ]
+
+Punch, Vol. 101, August 1, 1891, Ed. by Sir Francis Burnand              13466
+   [Link: http://www.gutenberg.net/1/3/4/6/13466 ]
+   [Files: 13466.txt; 13466-h.htm]
+
+Punch, Vol. 101, July 25, 1891, Ed. by Sir Francis Burnand               13465
+   [Link: http://www.gutenberg.net/1/3/4/6/13465 ]
+   [Files: 13465.txt; 13465-h.htm]
+
+Essays on Taste, by John Gilbert Cooper                                  13464
+   [Authors: John Gilbert Cooper, John Armstrong, Ralph Cohen]
+   [Link: http://www.gutenberg.net/1/3/4/6/13464 ]
+   [Files: 13464.txt]
+
+Notes and Queries, Number 48, Saturday, September 28, 1850, by Various   13463
+   [Link: http://www.gutenberg.net/1/3/4/6/13463 ]
+   [Files: 13463.txt; 13463-8.txt; 13463-h.htm]
+
+Notes and Queries, Number 46, Saturday, September 14, 1850, by Various   13462
+   [Link: http://www.gutenberg.net/1/3/4/6/13462 ]
+   [Files: 13462.txt; 13462-8.txt; 13462-h.htm]
+
+Mistress and Maid, by Dinah Craik [AKA Miss Mulock]                      13461
+   [Link: http://www.gutenberg.net/1/3/4/6/13461 ]
+   [Files: 13461.txt]
+
+How to Become Like Christ, by Marcus Dods                                13460
+   [Link: http://www.gutenberg.net/1/3/4/6/13460 ]
+   [Files: 13460.txt]
+
+The Waters of Edera, by Louise de la Ramee [AKA Ouida]                   13459
+   [Link: http://www.gutenberg.net/1/3/4/5/13459 ]
+   [Files: 13459.txt; 13459-h.htm]
+
+Derroteros y Viages a la Ciudad Encantada, Ed. by Pedro de Angelis       13458
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/3/4/5/13458 ]
+   [Files: 13458-8.txt]
+
+The Bed-Book of Happiness, by Harold Begbie                              13457
+   [Link: http://www.gutenberg.net/1/3/4/5/13457 ]
+   [Files: 13457.txt; 13457-8.txt]
+
+Les deux nigauds, by Comtesse de Segur                                   13456
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/5/13456 ]
+   [Files: 13456-8.txt]
+
+The Rover Boys In The Mountains, by Arthur M. Winfield                   13455
+   [Subtitle: A Hunt for Fun and Fortune]
+   [Link: http://www.gutenberg.net/1/3/4/5/13455 ]
+   [Files: 13455.txt; 13455-h.htm; ]
+
+Aylwin, by Theodore Watts-Dunton                                         13454
+   [Includes Two Appendices: One Containing a Note on the Character of
+    D'arcy; the Other a Key to the Story, Reprinted from Notes and Queries]
+   [Link: http://www.gutenberg.net/1/3/4/5/13454 ]
+   [Files: 13454.txt; 13454-8.txt; ]
+
+The Testing of Diana Mallory, by Mrs. Humphry Ward                       13453
+   [Author AKA: Mary Augusta Arnold Ward]
+   [Illustrated by: W. Hatherell]
+   [Link: http://www.gutenberg.net/1/3/4/5/13453 ]
+   [Files: 13453.txt; 13453-8.txt; 13453-h.htm; ]
+
+Kontrovers-Predigt ueber H. Clauren Und Den Mann Im Mond, by W. Hauff    13452
+   [Title: Kontrovers-Predigt ueber H. Clauren und den Mann im Mond
+    gehalten vor dem deutschen Publikum in der Herbstmesse 1827]
+   [Author: Wilhelm Hauff]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/3/4/5/13452 ]
+   [Files: 13452.txt; 13452-8.txt; ]
+
+Der Mann im Mond, by Wilhelm Hauff                                       13451
+   [Subtitle: oder der Zug des Herzens ist des Schicksals Stimme, nebst der
+    Kontrovers-Predigt ueber H. Clauren und den Mann im Mond]
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/3/4/5/13451 ]
+   [Files: 13451.txt; 13451-8.txt; ]
+
+The Motor Maids in Fair Japan, by Katherine Stokes                       13450
+   [Link: http://www.gutenberg.net/1/3/4/5/13450 ]
+   [Files: 13450.txt]
+
+The Plain Man and His Wife, by Arnold Bennett                            13449
+   [Link: http://www.gutenberg.net/1/3/4/4/13449 ]
+   [Files: 13449.txt]
+
+The Pleasures of Ignorance, by Robert Lynd                               13448
+   [Link: http://www.gutenberg.net/1/3/4/4/13448 ]
+   [Files: 13448.txt]
+
+Philosophy and Fun of Algebra, by Mary Everest Boole                     13447
+   [Link: http://www.gutenberg.net/1/3/4/4/13447 ]
+   [Files: 13447-t.tex; 13447-pdf.pdf]
+
+Punch, Vol. 101, July 18, 1891, Ed. by Sir Francis Burnand               13446
+   [Editor: Francis Burnand]
+   [Link: http://www.gutenberg.net/1/3/4/4/13446 ]
+   [Files: 13446.txt; 13446-8.txt; 13446-h.htm]
+
+Suomalaisia kirjailijoita, by Eino Leino                                 13445
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/4/4/13445 ]
+   [Files: 13445-8.txt]
+
+Searchlights on Health, by B. G. Jefferis and J. L. Nichols              13444
+   [Subtitle: The Science of Eugenics]
+   [Link: http://www.gutenberg.net/1/3/4/4/13444 ]
+   [Files: 13444.txt; 13444-h.htm]
+
+Scientific American Supplement, No. 795, March 28, 1891, by Various      13443
+   [Link: http://www.gutenberg.net/1/3/4/4/13443 ]
+   [Files: 13443.txt; 13443-8.txt; 13443-h.htm]
+
+Henry Hudson, by Thomas A. Janvier                                       13442
+   [Subtitle: A Brief Statement Of His Aims And His Achievements]
+   [Link: http://www.gutenberg.net/1/3/4/4/13442 ]
+   [Files: 13442.txt; 13442-8.txt; 13442-h.htm]
+
+The Sunny Side, by A. A. Milne                                           13441
+   [Link: http://www.gutenberg.net/1/3/4/4/13441 ]
+   [Files: 13441.txt; 13441-8.txt]
+
+Lippincott's Magazine, Vol. XV., No. 85., by Various                     13440
+   [Full title: Lippincott's Magazine of Popular Literature
+    and Science Vol. XV., No. 85. January, 1875.]
+   [Link: http://www.gutenberg.net/1/3/4/4/13440 ]
+   [Files: 13440.txt; 13440-8.txt; 13440-h.htm]
+
+Divine Songs, by Isaac Watts                                             13439
+   [Link: http://www.gutenberg.net/1/3/4/3/13439 ]
+   [Files: 13439.txt]
+
+A King's Comrade, by Charles Whistler                                    13438
+   [Subtitle: A Story of Old Hereford]
+   [Link: http://www.gutenberg.net/1/3/4/3/13438 ]
+   [Files: 13438.txt; 13438-h.htm]
+
+Best Russian Short Stories, by Various                                   13437
+   [Compiled and Edited by Thomas Seltzer]
+   [Link: http://www.gutenberg.net/1/3/4/3/13437 ]
+   [Files: 13437.txt; 13437-8.txt]
+
+Authorised Guide to the Tower of London, by W. J. Loftie                 13436
+   [Link: http://www.gutenberg.net/1/3/4/3/13436 ]
+   [Files: 13436.txt; 13436-8.txt; 13436-h.htm]
+
+On the Choice of Books, by Thomas Carlyle                                13435
+   [Biographical Introduction by Richard Herne Shepherd]
+   [Link: http://www.gutenberg.net/1/3/4/3/13435 ]
+   [Files: 13435.txt; 13435-8.txt]
+
+Regeneration, by H. Rider Haggard                                        13434
+   [Link: http://www.gutenberg.net/1/3/4/3/13434 ]
+   [Files: 13434.txt; 13434-8.txt]
+
+A Reply to Dr. Lightfoot's Essays, by Walter R. Cassels                  13433
+   [Link: http://www.gutenberg.net/1/3/4/3/13433 ]
+   [Files: 13433.txt; 13433-8.txt]
+
+Miss Bretherton, by Mrs. Humphry Ward                                    13432
+   [Link: http://www.gutenberg.net/1/3/4/3/13432 ]
+   [Files: 13432.txt; 13432-8.txt]
+
+Andre, by George Sand                                                    13431
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/3/13431 ]
+   [Files: 13431.txt; 13431-8.txt; 13431-h.htm]
+
+A Librarian's Open Shelf, by Arthur E. Bostwick                          13430
+   [Link: http://www.gutenberg.net/1/3/4/3/13430 ]
+   [Files: 13430.txt; 13430-8.txt; 13430-h.htm]
+
+Nimettomia lauluja, by Aaro Hellaakoski                                  13429
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/4/2/13429 ]
+   [Files: 13429.txt; 13429-8.txt; 13429-h.htm]
+
+Valitut teokset 1910-1922, by Eino Kaila                                 13428
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/4/2/13428 ]
+   [Files: 13428-8.txt]
+
+Notes & Queries, No. 45, Saturday, September 7, 1850, by Various         13427
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/4/2/13427 ]
+   [Files: 13427.txt; 13427-8.txt; 13427-h.htm]
+
+Notes & Queries, No. 44, Saturday, August 31, 1850, by Various           13426
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/4/2/13426 ]
+   [Files: 13426.txt; 13426-8.txt; 13426-h.htm]
+
+Wit Without Money, by Francis Beaumont                                   13425
+   [From: The Works of Francis Beaumont and John Fletcher]
+   [Link: http://www.gutenberg.net/1/3/4/2/13425 ]
+   [Files: 13425.txt; 13425-h.htm]
+
+Honoring Parents, by Anonymous                                           13424
+   [Link: http://www.gutenberg.net/1/3/4/2/13424 ]
+   [Files: 13424.txt; 13424-h.htm]
+
+Zarlah the Martian, by R. Norman Grisewood                               13423
+   [Link: http://www.gutenberg.net/1/3/4/2/13423 ]
+   [Files: 13423.txt; 13423-8.txt; 13423-h.htm]
+
+Punch, Vol. 100, June 20, 1891, Ed. by Sir Francis Burnand               13422
+   [Link: http://www.gutenberg.net/1/3/4/2/13422 ]
+   [Files: 13422.txt; 13422-8.txt; 13422-h.htm]
+
+Punch, Vol. 100, June 27, 1891, Ed. by Sir Francis Burnand               13421
+   [Link: http://www.gutenberg.net/1/3/4/2/13421 ]
+   [Files: 13421.txt; 13421-8.txt; 13421-h.htm]
+
+Across China on Foot, by Edwin Dingle                                    13420
+   [Link: http://www.gutenberg.net/1/3/4/2/13420 ]
+   [Files: 13420.txt; 13420-8.txt; 13420-h.htm]
+
+The Bishop and Other Stories, by Anton Chekhov                           13419
+   [Translated by Constance Garnett]
+   [Contents:
+      The Bishop
+      The Letter
+      Easter Eve
+      A Nightmare
+      The Murder
+      Uprooted
+      The Steppe]
+   [Link: http://www.gutenberg.net/1/3/4/1/13419 ]
+   [Files: 13419.txt; 13419-8.txt]
+
+The Chorus Girl and Other Stories, by Anton Chekhov                      13418
+   [Translated by Constance Garnett]
+   [Contents:
+      The Chorus Girl
+      Verotchka
+      My Life
+      At A Country House
+      A Father
+      On The Road
+      Rothschild's Fiddle
+      Ivan Matveyitch
+      Zinotchka
+      Bad Weather
+      A Gentleman Friend
+      A Trivial Incident]
+   [Link: http://www.gutenberg.net/1/3/4/1/13418 ]
+   [Files: 13418.txt; 13418-8.txt]
+
+The Cook's Wedding and Other Stories, by Anton Chekhov                   13417
+   [Translated by Constance Garnett]
+   [Contents:
+      The Cook's Wedding
+      Sleepy
+      Children
+      The Runaway
+      Grisha
+      Oysters
+      Home
+      A Classical Student
+      Vanka
+      An Incident
+      A Day In The Country
+      Boys
+      Shrove Tuesday
+      The Old House
+      In Passion Week
+      Whitebrow
+      Kashtanka
+      A Chameleon
+      The Dependents
+      Who Was To Blame?
+      The Bird Market
+      An Adventure
+      The Fish
+      Art
+      The Swedish Match]
+   [Link: http://www.gutenberg.net/1/3/4/1/13417 ]
+   [Files: 13417.txt; 13417-8.txt]
+
+The Darling and Other Stories, by Anton Chekhov                          13416
+   [Translated by Constance Garnett]
+   [Contents:
+      The Darling
+      Ariadne
+      Polinka
+      Anyuta
+      The Two Volodyas
+      The Trousseau
+      The Helpmate
+      Talent
+      An Artist's Story
+      Three Years]
+   [Link: http://www.gutenberg.net/1/3/4/1/13416 ]
+   [Files: 13416.txt; 13416-8.txt]
+
+The Lady with the Dog and Other Stories, by Anton Chekhov                13415
+   [Translated by Constance Garnett]
+   [Contents:
+      The Lady With The Dog
+      A Doctor's Visit
+      An Upheaval
+      Ionitch
+      The Head Of The Family
+      The Black Monk
+      Volodya
+      An Anonymous Story
+      The Husband
+   [Link: http://www.gutenberg.net/1/3/4/1/13415 ]
+   [Files: 13415.txt; 13415-8.txt]
+
+Love, and Other Stories, by Anton Chekhov                                13414
+    [Translated by Constance Garnett]
+    [Contents
+      Love
+      Lights
+      A Story Without An End
+      Mari D'elle
+      A Living Chattel
+      The Doctor
+      Too Early!
+      The Cossack
+      Aborigines
+      An Inquiry
+      Martyrs
+      The Lion And The Sun
+      A Daughter Of Albion
+      Choristers
+      Nerves
+      A Work Of Art
+      A Joke
+      A Country Cottage
+      A Blunder
+      Fat And Thin
+      The Death Of A Government Clerk
+      A Pink Stocking
+      At A Summer Villa]
+    [Files: 13414.txt; 13414-8.txt]
+    [Link: http://www.gutenberg.net/1/3/4/1/13414 ]
+
+The Party, and Other Stories by Anton Chekhov                            13413
+    [Translated by Constance Garnett]
+    [Contents:
+      The Party
+      Terror
+      A Woman's Kingdom
+      A Problem
+      The Kiss
+      'Anna On The Neck'
+      The Teacher Of Literature
+      Not Wanted
+      Typhus
+      A Misfortune
+      A Trifle From Life  ]
+    [Link: http://www.gutenberg.net/1/3/4/1/13413 ]
+    [Files: 13413.txt; 13413-8.txt]
+
+The Schoolmaster and Other Stories, by Anton Chekhov                     13412
+    [Translated by Constance Garnett]
+    [Contents:
+      The Schoolmaster
+      Enemies
+      The Examining Magistrate
+      Betrothed
+      From The Diary Of A Violent-Tempered Man
+      In The Dark
+      A Play
+      A Mystery
+      Strong Impressions
+      Drunk
+      The Marshal's Widow
+      A Bad Business
+      In The Court
+      Boots
+      Joy
+      Ladies
+      A Peculiar Man
+      At The Barber's
+      An Inadvertence
+      The Album
+      Oh! The Public
+      A Tripping Tongue
+      Overdoing It
+      The Orator
+      Malingerers
+      In The Graveyard
+      Hush!
+      In An Hotel
+      In A Strange Land]
+    [Link: http://www.gutenberg.net/1/3/4/1/13412 ]
+    [Files: 13412.txt; 13412-8.txt]
+
+Notes & Queries, No. 42, Saturday, August 17, 1850, by Various           13411
+   [Subtitle: A Medium Of Inter-Communication
+    For Literary Men, Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/4/1/13411 ]
+   [Files: 13411.txt; 13411-8.txt; 13411-h.htm]
+
+Some Private Views, by James Payn                                        13410
+   [Link: http://www.gutenberg.net/1/3/4/1/13410 ]
+   [Files: 13410.txt; 13410-8.txt; 13410-h.htm]
+
+The Horse-Stealers and Other Stories, by Anton Chekhov                   13409
+   [Translated By Constance Garnett]
+   [Contents:
+      The Horse-Stealers
+      Ward No. 6
+      The Petchenyeg
+      A Dead Body
+      A Happy Ending
+      The Looking-Glass
+      Old Age
+      Darkness
+      The Beggar
+      A Story Without A Title
+      In Trouble
+      Frost
+      A Slander
+      Minds In Ferment
+      Gone Astray
+      An Avenger
+      The Jeune Premier
+      A Defenceless Creature
+      An Enigmatic Nature
+      A Happy Man
+      A Troublesome Visitor
+      An Actor's End]
+   [Link: http://www.gutenberg.net/1/3/4/0/13409 ]
+   [Files: 13409.txt; 13409-8.txt]
+
+Our Stage and Its Critics, by "E.F.S." of The Westminster Gazette        13408
+   [Link: http://www.gutenberg.net/1/3/4/0/13408 ]
+   [Files: 13408.txt; 13408-8.txt; 13408-h.htm]
+
+A Series of Lessons in Gnani Yoga, by Yogi Ramacharaka                   13407
+   [Link: http://www.gutenberg.net/1/3/4/0/13407 ]
+   [Files: 13407.txt]
+
+Notes & Queries, No. 43, Saturday, August 24, 1850, by Various           13406
+   [Subtitle: A Medium Of Inter-Communication For Literary Men,
+    Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/4/0/13406 ]
+   [Files: 13406.txt; 13406-8.txt; 13406-h.htm]
+
+Monsieur Violet, by Frederick Marryat                                    13405
+   [Link: http://www.gutenberg.net/1/3/4/0/13405 ]
+   [Files: 13405.txt; 13405-8.txt; 13405-h.htm]
+
+Tom Tufton's Travels, by Evelyn Everett-Green                            13404
+   [Link: http://www.gutenberg.net/1/3/4/0/13404 ]
+   [Files: 13404.txt; 13404-h.htm]
+
+English Travellers of the Renaissance, by Clare Howard                   13403
+   [Link: http://www.gutenberg.net/1/3/4/0/13403 ]
+   [Files: 13403.txt; 13403-8.txt; 13403-h.htm]
+
+The Hindu-Yogi Science Of Breath, by Yogi Ramacharaka                    13402
+   [Link: http://www.gutenberg.net/1/3/4/0/13402 ]
+   [Files: 13402.txt]
+
+Scientific American Supplement, No. 520, December 19, 1885, by Various   13401
+   [Link: http://www.gutenberg.net/1/3/4/0/13401 ]
+   [Files: 13401.txt; 13401-8.txt; 13401-h.htm]
+
+Conscience, by Hector Malot                                              13400
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/4/0/13400 ]
+   [Files: 13400.txt; 13400-8.txt; 13400-h.htm]
+
+Scientific American Supplement, No. 530, February 27, 1886, by Various   13399
+   [Link: http://www.gutenberg.net/1/3/3/9/13399 ]
+   [Files: 13399.txt; 13399-8.txt; 13399-h.htm]
+
+The Evolution of Dodd, by William Hawley Smith                           13398
+   [Link: http://www.gutenberg.net/1/3/3/9/13398 ]
+   [Files: 13398.txt]
+
+Comstock Patent Medicine Business, by Robert B. Shaw                     13397
+   [Full title: History of the Comstock Patent Medicine Business and
+    Dr. Morse's Indian Root Pills]
+   [Link: http://www.gutenberg.net/1/3/3/9/13397 ]
+   [Files: 13397.txt; 13397-8.txt; 13397-h.htm]
+
+Sweetapple Cove, by George van Schaick                                   13396
+   [Link: http://www.gutenberg.net/1/3/3/9/13396 ]
+   [Files: 13396.txt; 13396-8.txt]
+
+Since Cezanne, by Clive Bell                                             13395
+   [Link: http://www.gutenberg.net/1/3/3/9/13395 ]
+   [Files: 13395.txt; 13395-8.txt; 13395-h.htm]
+
+Elaman meri, by Arvid Jarnefelt                                          13394
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/3/3/9/13394 ]
+   [Files: 13394.txt; 13394-8.txt]
+
+Notes & Queries, No. 41, August 10, 1850, by Various                     13393
+   [Subtitle: A Medium Of Inter-Communication For Literary Men, Artists,
+    Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/3/9/13393 ]
+   [Files: 13393.txt; 13393-8.txt; 13393-h.htm]
+
+A Woman's Impression of the Philippines, by Mary Helen Fee               13392
+   [Link: http://www.gutenberg.net/1/3/3/9/13392 ]
+   [Files: 13392.txt; 13392-8.txt]
+
+Punch, Vol. 100, June 6, 1891, Ed. by Sir Francis Burnand                13391
+   [Link: http://www.gutenberg.net/1/3/3/9/13391 ]
+   [Files: 13391.txt; 13391-8.txt; 13391-h.htm]
+
+Punch, Vol. 100, May 30, 1891, Ed. by Sir Francis Burnand                13390
+   [Link: http://www.gutenberg.net/1/3/3/9/13390 ]
+   [Files: 13390.txt; 13390-8.txt; 13390-h.htm]
+
+Notes & Queries, No. 40, August 3, 1850, by Various                      13389
+   [Subtitle: A Medium Of Inter-Communication For Literary Men, Artists,
+    Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/3/8/13389 ]
+   [Files: 13389.txt; 13389-8.txt; 13389-h.htm]
+
+The Religious Spirit of the Slavs (1916), by Nikolai Velimirovic         13388
+   [Subtitle: Sermons On Subjects Suggested By The War, Third Series]
+   [Link: http://www.gutenberg.net/1/3/3/8/13388 ]
+   [Files: 13388.txt; 13388-8.txt; 13388-0.txt; 13388-h.htm]
+
+Shakespeare: His Life, Art, And Characters, Volume I, by H. N. Hudson    13387
+   [Subtitle: With An Historical Sketch Of The Origin And Growth Of The
+    Drama In England]
+   [Link: http://www.gutenberg.net/1/3/3/8/13387 ]
+   [Files: 13387.txt; 13387-8.txt; 13387-h.htm]
+
+Vechter, by Hermannus Angelkot                                           13386
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/3/8/13386 ]
+   [Files: 13386.txt; 13386-8.txt; 13386-h.htm]
+
+Comte du Pape, by Hector Malot                                           13385
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/3/8/13385 ]
+   [Files: 13385.txt; 13385-8.txt; 13385-h.htm]
+
+The Covered Wagon, by Emerson Hough                                      13384
+   [Link: http://www.gutenberg.net/1/3/3/8/13384 ]
+   [Files: 13384.txt; 13384-8.txt; 13384-h.htm]
+
+
+Les Pardaillans--Tome 03, La Fausta, by Michel Zevaco                    13383
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/3/8/13383 ]
+   [Files: 13383.txt; 13383-8.txt; 13383-h.htm]
+
+Mirror Of Literature, Amusement, And Instruction, No. 496, by Various    13382
+   [Subtitle: Vol. 17, No. 496, June 27, 1831]
+   [Link: http://www.gutenberg.net/1/3/3/8/13382 ]
+   [Files: 13382.txt; 13382-8.txt; 13382-h.htm]
+
+Voyages and Travels, Vol. XIV, by Robert Kerr                            13381
+   [Title: A General History and Collection of Voyages and Travels, Vol. VIX]
+   Contents Of Vol. XIV.
+     Part III. Book II.
+   [Link: http://www.gutenberg.net/1/3/3/8/13381 ]
+   [Files: 13381.txt; 13381-8.txt]
+
+Gabriel, by George Sand                                                  13380
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/3/8/13380 ]
+   [Files: 13380.txt; 13380-8.txt; 13380-h.htm]
+
+The Two Elsies, by Martha  Finley                                        13379
+   [Subtitle: A Sequel to Elsie at Nantucket, Book 10]
+   [Link: http://www.gutenberg.net/1/3/3/7/13379 ]
+   [Files: 13379.txt; 13379-8.txt]
+
+De baanwachter, by Hendrik Conscience                                    13378
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/3/3/7/13378 ]
+   [Files: 13378.txt; 13378-8.txt; 13378-h.htm]
+
+A Tour, by Richard Boyle Bernard                                         13377
+   [Title: A tour through some parts of France, Switzerland, Savoy,
+    Germany and Belgium]
+   [Link: http://www.gutenberg.net/1/3/3/7/13377 ]
+   [Files: 13377.txt; 13377-8.txt; 13377-h.htm]
+
+Our Legal Heritage, 5th Ed., by S. A. Reilly                             13376C
+   (See also: #6603C and 1694C)
+   [Link: http://www.gutenberg.net/1/3/3/7/13376 ]
+   [Files: 13376.txt; 13376-h.htm]
+
+The Rival Heirs, by A. D. Crake                                          13375
+   [Title: The Rival Heirs being the Third and Last Chronicle of Aescendune]
+   [Link: http://www.gutenberg.net/1/3/3/7/13375 ] [Files: 13375.txt;
+   13375-8.txt; 13375-h.htm]
+
+Consuelo, Vol. 3 (1861), by George Sand                                  13374
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/3/3/7/13374 ]
+   [Files: 13374-8.txt; 13374-0.txt]
+
+Punch, or the London Charivari, Volume 100, 13 June 1891, by Various     13373
+   [Link: http://www.gutenberg.net/1/3/3/7/13373 ]
+   [Files: 13373.txt; 13373-8.txt; 13373-h.htm]
+
+The Gloved Hand, by Burton E. Stevenson                                  13372
+   [Link: http://www.gutenberg.net/1/3/3/7/13372 ]
+   [Files: 13372.txt; 13372-8.txt; 13372-h.htm]
+
+Folkungatradet, by Verner von Heidenstam                                 13371
+   [Language: Swedish]
+   [Link: http://www.gutenberg.net/1/3/3/7/13371 ]
+   [Files: 13371.txt; 13371-8.txt; 13371-h.htm]
+
+Q. E. D., or New Light on the Doctrine of Creation, by Price             13370
+   [Full author: George McCready Price]
+   [Link: http://www.gutenberg.net/1/3/3/7/13370 ]
+   [Files: 13370.txt; 13370-8.txt; 13370-h.htm]
+
+The Lost Ambassador, by E. Phillips Oppenheim                            13369
+   [Subtitle: The Search For The Missing Delora]
+   [Link: http://www.gutenberg.net/1/3/3/6/13369 ]
+   [Files: 13369.txt; 13369-h.htm]
+
+Korea's Fight for Freedom, by F.A. McKenzie                              13368
+   [Link: http://www.gutenberg.net/1/3/3/6/13368 ]
+   [Files: 13368.txt; 13368-8.txt]
+
+Hills and the Sea, by H. Belloc                                          13367
+   [Link: http://www.gutenberg.net/1/3/3/6/13367 ]
+   [Files: 13367.txt; 13367-8.txt; 13367-h.htm]
+
+Voyages and Travels, Vol. VIII., by Robert Kerr                          13366
+   [Full title: A General History and Collection of
+    Voyages and Travels, Vol. VIII.]
+   [Link: http://www.gutenberg.net/1/3/3/6/13366 ]
+   [Files: 13366.txt; 13366-8.txt]
+
+The Ethics of Drink and Other Social Questions, by James Runciman        13365
+   [Subtitle: Joints In Our Social Armour]
+   [Link: http://www.gutenberg.net/1/3/3/6/13365 ]
+   [Files: 13365.txt; 13365-8.txt; 13365-h.htm]
+
+Matthew Arnold's Sohrab and Rustum and Other Poems, by Matthew Arnold    13364
+   [Edited by Justus Collins Castleman]
+   [Link: http://www.gutenberg.net/1/3/3/6/13364 ]
+   [Files: 13364.txt; 13364-8.txt; 13364-h.htm]
+
+The Parish Clerk (1907), by Peter Hampson Ditchfield                     13363
+   [Link: http://www.gutenberg.net/1/3/3/6/13363 ]
+   [Files: 13363.txt; 13363-8.txt; 13363-h.htm]
+
+Notes & Queries, No. 38, Saturday, July 20, 1850, by Various             13362
+   [Subtitle: A Medium Of Inter-Communication For Literary Men, Artists,
+    Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/3/6/13362 ]
+   [Files: 13362.txt; 13362-8.txt; 13362-h.htm]
+
+Notes & Queries, No. 36. Saturday, July 6, 1850, by Various              13361
+   [Subtitle: A Medium Of Inter-Communication For Literary Men,
+    Artists, Antiquaries, Genealogists, Etc.]
+   [Link: http://www.gutenberg.net/1/3/3/6/13361 ]
+   [Files: 13361.txt; 13361-8.txt; 13361-h.htm]
+
+Missionary Survey, by Roland Allen                                       13360
+   [Full title: Missionary Survey As An Aid To
+    Intelligent Co-Operation In Foreign Missions]
+   [Link: http://www.gutenberg.net/1/3/3/6/13360 ]
+   [Files: 13360.txt; 13360-8.txt]
+
+The Mirror Of Literature, Amusement, And Instruction, Vol. 14, No. 391   13359
+   [September 26, 1829]
+   [Link: http://www.gutenberg.net/1/3/3/5/13359 ]
+   [Files: 13359.txt; 13359-8.txt; 13359-h.htm]
+
+Scientific American Supplement, No. 803, May 23, 1891, by Various        13358
+   [Link: http://www.gutenberg.net/1/3/3/5/13358 ]
+   [Files: 13358.txt; 13358-8.txt; 13358-h.htm]
+
+Cactus Culture For Amateurs, by W. Watson                                13357
+   [Subtitle: Being Descriptions Of The Various Cactuses Grown In This
+    Country, With Full And Practical Instructions For Their Successful
+    Cultivation]
+   [Link: http://www.gutenberg.net/1/3/3/5/13357 ]
+   [Files: 13357.txt; 13357-8.txt; 13357-h.htm]
+
+The Captain's Toll-Gate, by Frank R. Stockton                            13356
+   [Link: http://www.gutenberg.net/1/3/3/5/13356 ]
+   [Files: 13356.txt; 13356-8.txt; 13356-h.htm]
+
+Happy Jack, by Thornton Burgess                                          13355
+   [Link: http://www.gutenberg.net/1/3/3/5/13355 ]
+   [Files: 13355.txt; 13355-h.htm]
+
+The Boy Knight, by G.A. Henty                                            13354
+   [Link: http://www.gutenberg.net/1/3/3/5/13354 ]
+   [Files: 13354.txt; 13354-8.txt]
+
+Four Psalms, by George Adam Smith                                        13353
+   [Link: http://www.gutenberg.net/1/3/3/5/13353 ]
+   [Files: 13353.txt]
+
+Punch, Or The London Charivari, Vol. 100, May 23, 1891, by Various       13352
+   [Link: http://www.gutenberg.net/1/3/3/5/13352 ]
+   [Files: 13352.txt; 13352-8.txt; 13352-h.htm]
+
+Life of Thomas, Lord Cochrane, by Thomas Cochrane, Earl of Dundonald     13351
+   [Title: The Life of Thomas, Lord Cochrane, Tenth Earl of Dundonald,
+    G.C.B., Admiral of the Red, Rear-Admiral of the Fleet, Etc., Etc.]
+   [Link: http://www.gutenberg.net/1/3/3/5/13351 ]
+   [Files: 13351.txt; 13351-8.txt]
+
+The Vanity of Human Wishes, and Two _Rambler_ papers, by Samuel Johnson  13350
+   [Introduction by Bertrand H. Bronson]
+   [Link: http://www.gutenberg.net/1/3/3/5/13350 ]
+   [Files: 13350.txt]
+
+
+String Quartet No. 15 Opus 132, Ludwig von Beethoven                     13153
+   [Link: http://www.gutenberg.net/1/3/1/5/13153
+
+
+The History Of Rome, Book V, by Theodor Mommsen                          10705
+   [Subtitle: The Establishment Of The Military Monarchy]
+   [Translator: William Purdie Dickson]
+   [Link: http://www.gutenberg.net/1/0/7/0/10705 ]
+   [Files: 10705.txt; ]
+
+The History Of Rome, Book IV, by Theodor Mommsen                         10704
+   [Subtitle: The Revolution]
+   [Translator: William Purdie Dickson]
+   [Link: http://www.gutenberg.net/1/0/7/0/10704 ]
+   [Files: 10704.txt; ]
+</pre>
+
+<pre>=-=-=-=[ 7 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+
+Sep 2004 The Naulahka, by Rudyard Kipling                  [040072xx.xxx] 0380A
+   [http://gutenberg.net.au/ebooks04/0400721.txt or .zip ]
+Sep 2004 Australian Tales, by Marcus Clarke                [040071xx.xxx] 0379A
+   [http://gutenberg.net.au/ebooks04/0400711.txt or .zip ]
+Sep 2004 Hudson River Bracketed, by Edith Wharton          [040070xx.xxx] 0378A
+   [http://gutenberg.net.au/ebooks04/0400701.txt or .zip ]
+   [and http://gutenberg.net.au/ebooks04/0400701h.html ]
+Sep 2004 Something of Myself, by Rudyard Kipling           [040069xx.xxx] 0377A
+   [http://gutenberg.net.au/ebooks04/0400691.txt or .zip ]
+Sep 2004 West Australian Orchids, by Emily H Pelloe        [040068xx.xxx] 0376A
+   [http://gutenberg.net.au/ebooks04/0400681h.html ]
+
+Sep 2004 The New World Order, by H G Wells                 [040067xx.xxx] 0375A
+   [http://gutenberg.net.au/ebooks04/0400671.txt or .zip]
+   [http://gutenberg.net.au/ebooks04/0400671h.html ]
+Sep 2004 The Passing of the Aborigines, by Daisy Bates     [040066xx.xxx] 0374A
+   [http://gutenberg.net.au/ebooks04/0400661.txt or .zip]
+
+
+The following have been re-posted in HTML format:
+Sep 2004 The Letters of Gertrude Bell Vol 2, Gertrude Bell [040046xx.xxx] 0354A
+   [http://gutenberg.net.au/ebooks04/0400461h.html or .zip ]
+Sep 2004 The Letters of Gertrude Bell, Vol 1, Gertrude Bell[040034xx.xxx] 0342A
+   [http://gutenberg.net.au/ebooks04/0400341h.html or .zip ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+</pre>
+
+<pre>=============================================================================
+
+A conference is a gathering of important people who individually can't
+do anything but together can decide that nothing can be done.
+
+A friend is someone who thinks you're a good egg even though you're
+slightly cracked.
+
+A drop of ink may make a million think.
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2004/pgmonthly_2004_10_06.txt" target="_blank" rel="nofollow">pgmonthly_2004_10_06.txt</a>

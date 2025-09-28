@@ -1,0 +1,694 @@
+PGWeekly_June_12_2002.txt
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, June 12, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+
+*Yes!  We Have Recounted, And There Really Were 1015 New Index Listings*
+*Filled In The Project Gutenberg Collection In The 1st 5 Months of 2002*
+
+
+         1,000 New eBooks IN THE FIRST 5 MONTHS OF 2002!!!
+
+         It took us more than 26 years for the first 1,000
+
+             That's 22 WEEKS as Compared to 26 YEARS!!!
+
+Our 1,000th eBook was:
+
+Oct 1997 1st PG Collection of Edgar Allan Poe[E. A. Poe #2][1epoexxx.xxx]1062
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 163th Day of 2002
+202 Days/30 Weeks Left Until 2003
+
+Ending our 23nd Week Of The Year
+
+
+The 9th Week Of Our SECOND 5,000 eBooks
+
+20-30 Months From Today, Perhaps Our 10,000th eBook!
+
+
+1,823   New eBooks In The Last Year
+3,531   eBooks This Week Last Year
+5,354   Tree-Friendly Titles Now Online
+
+    47   New This Week [23rd week]
+    41   New Last Week
+    46   Weekly Average This Year
+    17   New This Week Last Year
+   203   Monthly Average This Year
+    47   New This Month [6th month]
+  1062   New This Year!!! [31st year]
+   321   New At This Time Last Year
+
+    74   eBooks From Project Gutenberg of Australia
+    39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Last Year It Was Well Over 100]
+
+***
+
+Announcement:
+
+Gutenberg Music Web Site Launch
+Project Gutenberg is proud to inaugurate the Music Website
+http://ibiblio.org/gutenberg/music/ as the principle outlet for the Chamber
+Music Archive. You'll find free scores and parts of public domain music,
+digitized in a variety of printable, playable and editable formats.
+The initial postings are classical chamber music, including quartets by
+Beethoven, Mozart, Haydn and Brahms in Coda Music's Finale (.MUS) format.
+For further information regarding procedures, the files, and the site,
+please see entries in the FAQ.
+<http://ibiblio.org/gutenberg/music/music_helpex.html> and Volunteer
+<http://ibiblio.org/gutenberg/music/music_volunteer.html> pages, or contact
+Geof Pawlicki <MAILTO:geof@ibiblio.net> directly.
+
+
+Request for Assistance:
+
+Perhaps a statistician would be willing to help with our counting    ;-)
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+Spanish eBooks. . .we have several opportunities to expand our Spanish
+eBook collection, please let us know if you can find us any mor help!
+
+I have a couple of copies of these tales in Spanish, but I lack the time
+and courage to do the scanning. If you have a volunteer near Buenos Aires,
+in Argentina, we could arrange somehow to get it scanned.
+Gaston H. Picard <ghpicard@fibertel.com.ar>
+
+***
+
+Try The Newest PG Mirror Site
+
+Location:  Houston, Texas, USA
+URL: http://www.spishak.com/pg
+HTTP only, no FTP
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+   3 New eBooks from Project Gutenberg of Australia
+   44 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+  or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+
+***] ETEXT PROGRESS [***
+
+RESERVED count:   40
+
+LAST WEEK -- TOTAL COUNT **as of Tue 06/05/02**:  5,307 (incl. 71 Aus.)
++ 45  New this week:
+
+TOTAL COUNT **as of Wed 06/12/02 Noon CDT**:    5,354 (incl. 74 Aus.)
+
+
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, and
+   sometimes a new Etext number.
+
+Please note the following changes, corrections and improvements:
+
+The following ebooks have been audio-enabled by Mike Eschman; the
+audio performances of these public domain eBooks are copyrighted
+by him; readme files are posted for all:
+Apr 2001 The Hunchback of Notre Dame, by Victor Hugo [VH#3][hbackxxx.xxx]2610
+May 1998 Riders of the Purple Sage, by Zane Grey  [Grey #7][prpsgxxx.xxx]1300
+May 1997 De Profundis, by Oscar Wilde  [Oscar Wilde #13]   [dprofxxx.xxx] 921
+Oct 1996 The Atomic Bombings of Hiroshima and Nagasaki     [abombxxx.xxx] 685
+Oct 1995 Dracula, by Bram Stoker [Halloween Request #5]    [dracuxxx.xxx] 345
+Oct 1993 A Connecticut Yankee, Mark Twain [Twain #4]       [yankexxx.xxx]  86
+Aug 1993 Tarzan of the Apes, Edgar Rice Burroughs[Tarzan#1][tarznxxx.xxx]  78
+[Multiple *.mp3 files for each eBook, also available in *.zip]
+
+We have posted the following etexts in new formats as indicated:
+Apr 2001 Grimms' Fairy Tales, by the Grimm Brothers        [grimmxxx.xxx]2591
+[PDF in grimm10pa.zip; TeX in grimm10ta.zip]
+
+We have posted an improved 11th edition of the following:
+Feb 2000 The Little Shepherd of Kingdom Come by John Fox Jr[lsokcxxx.xxx]2059
+Mar 1999 1492, by Mary Johnston [For Columbus Day, 1998]   [c1492xxx.xxx]1692
+
+We have posted a new version of the following:
+Mar 1995 Sister Carrie, by Theodore Dreiser [Dreiser #1]   [scarrxxx.xxx] 233
+(Files added to etext95: scarr10a.txt scarr10a.zip)
+
+Jul 2003 The South Pole, Vols 1 and 2, Roald Amundsen  [#3][?tsp12xx.xxx]4229
+
+Files added to etext03: tsp12013.mp3 tsp12063.mp3 tsp12113.mp3
+tsp12163.mp3 tsp12213.mp3 tsp12023.mp3 tsp12073.mp3 tsp12123.mp3
+tsp12173.mp3 tsp12033.mp3 tsp12083.mp3 tsp12133.mp3 tsp12183.mp3
+tsp12043.mp3 tsp12093.mp3 tsp12143.mp3 tsp12193.mp3 tsp12053.mp3
+tsp12103.mp3 tsp12153.mp3 tsp12203.mp3 tsp12a3.zip tsp123-readme.txt
+
+(tsp12a3.zip contains all 21 parts + the readme)
+
+
+***] 3 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+June 2002 The Crowned Skull, by Fergus Hume         [FH#01][020040xx.xxx]0074A
+[http://gutenberg.net.au/0200401.txt or .ZIP]
+June 2002 The Road to Wigan Pier, by George Orwell  [GO#10][020039xx.xxx]0073A
+[http://gutenberg.net.au/0200391.txt or .ZIP]
+June 2002 Queen of the Dawn, by H Rider Haggard     [HH#04][020038xx.xxx]0072A
+[http://gutenberg.net.au/0200381.txt or .ZIP]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 44 NEW U.S. POSTS [***
+
+Nov 2003 Pilgrimage to Al-Madinah & Meccah 2, R Burton[#18][pnpa2xxx.xxx]4658
+[Full title and author name: Personal Narrative of a Pilgrimage to
+ Al-Madinah and Meccah, Volumes 1 and 2, by Sir Richard Francis Burton]
+
+***
+
+Mar 2004 The Voyage of the Verrazzano, by Henry C. Murphy  [verraxxx.xxx]5252
+Mar 2004 The Long Vacation, by Charlotte M. Yonge[Yonge#30][lvacaxxx.xxx]5251
+*
+Mar 2004 Nana, by Emile Zola                       [Zola#7][7zolaxxx.xxx]5250
+[Language: French]
+Mar 2004 Travels in England in 1782, by Charles P. Moritz  [tengxxxx.xxx]5249
+[Plain text version in tengxxxx.txt/.zip, HTML in tengxxh.htm and .zip]
+Mar 2004 The Dock Rats of New York, by "Old Sleuth"        [dckrtxxx.xxx]5248
+[Author's real name: Harlan Page Halsey]
+Mar 2004 The Old Wives' Tale, by Arnold Bennett [Bennett#5][thldwxxx.xxx]5247
+Mar 2004 Modern French Philosophy, J. Alexander Gunn       [mfphixxx.xxx]5246
+[Subtitle: A Study of the Development Since Comte]
+[Plain text version in mfphi10.txt/.zip, HTML in mfphi10h.htm/.zip]
+
+Mar 2004 Tales from the Arabic Volumes 1-3, John Payne [#5][tftaaxxx.xxx]5245
+Mar 2004 Tales from the Arabic Volume 3, by John Payne [#4][tfta3xxx.xxx]5244
+Mar 2004 Tales from the Arabic Volume 2, by John Payne [#3][tfta2xxx.xxx]5243
+Mar 2004 Tales from the Arabic Volume 1, by John Payne [#2][tfta1xxx.xxx]5242
+Mar 2004 The Eye of Zeitoon, by Talbot Mundy      [Mundy#3][zeitoxxx.xxx]5241
+
+Mar 2004 Confessions of Harry Lorrequer, Complete    [HL#7][chl7wxxx.xxx]5240
+[Author:Charles James Lever (1806-1872)][Includes: EBook #5234 to 5239]
+Mar 2004 Confessions of Harry Lorrequer, v6, Ch.42-55[HL#6][chl6wxxx.xxx]5239
+Mar 2004 Confessions of Harry Lorrequer, v5, Ch.29-41[HL#5][chl5wxxx.xxx]5238
+Mar 2004 Confessions of Harry Lorrequer, v4, Ch.24-28[HL#4][chl4wxxx.xxx]5237
+Mar 2004 Confessions of Harry Lorrequer, v3, Ch.18-23[HL#3][chl3wxxx.xxx]5236
+Mar 2004 Confessions of Harry Lorrequer, v2, Ch.11-17[HL#2][chl2wxxx.xxx]5235
+Mar 2004 Confessions of Harry Lorrequer, v1, Ch. 1-10[HL#1][chl1wxxx.xxx]5234
+
+Mar 2004 The Iron Trail, by Rex Beach             [Beach#6][rntrlxxx.xxx]5233
+Mar 2004 Sejanus: His Fall, by Ben Jonson        [Jonson#9][sjnsfxxx.xxx]5232
+Mar 2004 The Way We Live Now, by Anthony Trollope   [AT#36][wwlvnxxx.xxx]5231
+
+Mar 2004 The Invisible Man, by H.G. Wells        [Wells#23][nvsblxxx.xxx]5230
+Mar 2004 Felix O'Day, by F. Hopkinson Smith       [Smith#7][flxdyxxx.xxx]5229
+Mar 2004 Ayesha, by H. Rider Haggard           [Haggard#38][ayshaxxx.xxx]5228
+Mar 2004 Sant' Ilario, by F. Marion Crawford   [Crawford#2][silarxxx.xxx]5227
+Mar 2004 Thomas Henry Huxley Vol. 2, by Leonard Huxley [#2][llth2xxx.xxx]5226
+[Full title: The Life and Letters of Thomas Henry Huxley Volume 2]
+
+Mar 2004 The Satyricon of Petronius Arbiter, Complete[PA#8][pas8wxxx.xxx]5225
+[Translator: W. C. Firebaugh][Includes Etexts #5218 to 5224]
+Mar 2004 Satyricon of Petronius, v7, Marchena Notes  [PA#7][pas7wxxx.xxx]5224
+Mar 2004 Satyricon of Petronius, v6, Editor's Notes  [PA#6][pas6wxxx.xxx]5223
+Mar 2004 Satyricon of Petronius, v5, Crotona Affairs [PA#5][pas5wxxx.xxx]5222
+Mar 2004 Satyricon of Petronius, v4, Escape by Sea   [PA#4][pas4wxxx.xxx]5221
+Mar 2004 Satyricon of Petronius, v3, Encolpius et al [PA#3][pas3wxxx.xxx]5220
+Mar 2004 Satyricon of Petronius, v2, Trimalchio      [PA#2][pas2wxxx.xxx]5219
+Mar 2004 Satyricon of Petronius, v1, Introduction    [PA#1][pas1wxxx.xxx]5218
+
+Mar 2004 Tales, by George Crabbe                 [Crabbe#7][gcrgxxxx.xxx]5217
+[Plain text version in gcrgxxxx.txt/.zip, HTML in gcrgxxh.htm and .zip]
+
+Mar 2003 Film: Set of 4 Atomic Bomb Test Films             [atom4xxx.xxx]5216
+[Posted as atom410m.mpg and .zip]
+Mar 2003 Film: Several Different Atomic Detonations        [atomixxx.xxx]5215
+[Posted as atomi10m.mpg and .zip]
+Mar 2003 Film: The Bikini Island BAKER Atomic Test         [bbakexxx.xxx]5214
+[Posted as bbake10m.mpg and .zip]
+Mar 2003 Film: The Bikini Island ABLE Atomic Test          [bablexxx.xxx]5213
+[Posted as bable10m.mpg and .zip]
+Mar 2003 Film: The Trinity Shot (first US Atomic Test)     [tshotxxx.xxx]5212
+[Posted as tshot10m.mpg and .zip]
+[The films above are in MPEG format and are short (9-60 seconds).
+(See "atomi10m-readme.txt", also in the .zip files, for further information)
+[See also eBooks #277, 279, 279 and 548]
+
+Mar 2004 The Famous Missions of California, by W. Hudson[2][fmcalxxx.xxx]5211
+[Author's Full Name: William Henry Hudson]
+
+Mar 2004 The Borough, by George Crabbe           [Crabbe#6][gcrfxxxx.xxx]5210
+[Plain text version in gcrfxxxx.txt/.zip, HTML in gcrfxxh.htm and .zip]
+Mar 2004 Miscellaneous Poems, by George Crabbe   [Crabbe#5][gcrexxxx.xxx]5209
+[Plain text version in gcrexxxx.txt/.zip, HTML in gcrexxh.htm and .zip]
+
+
+***
+
+      Total PG ebooks available online **AS OF 06/12/02**:  5,352
+(This number includes the 74 etexts posted at the PG Australia web site)
+
+In the first 22 weeks of the new year, we have produced 1,062 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 1,062 eBooks!!!
+
+             That's 23 WEEKS as Compared to 26 YEARS!!!
+
+Here's what we were doing around #106x:
+
+Oct 1997 1st PG Collection of Emile Zola  [Emile Zola #1]  [1zolaxxx.xxx]1069
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V2 [2musgxxx.xxx]1068
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V1 [1musgxxx.xxx]1067
+Oct 1997 William the Conqueror by E.A. Freeman[Saved #1066][wlmcnxxx.xxx]1066
+Oct 1997 The Cask of Amontillado, by Edgar Allan Poe[Poe#5][1epoexxx.xxx]1065
+
+Oct 1997 The Masque of the Red Death by Edgar Allan Poe[#4][1epoexxx.xxx]1064
+Oct 1997 The Raven, by Edgar Allan Poe  [E. A. Poe #3]     [1epoexxx.xxx]1063
+Oct 1997 1st PG Collection of Edgar Allan Poe[E. A. Poe #2][1epoexxx.xxx]1062
+Oct 1997 Myths and Myth-Makers, by John Fiske              [mythmxxx.xxx]1061
+
+Oct 1997 Grass of Parnassus, by Andrew Lang  [Lang #7]     [grprnxxx.xxx]1060
+Oct 1997 The World Set Free, by H.G. Wells [H.G. Wells #12][twsfrxxx.xxx]1059
+Oct 1997 The Mirror of the Sea, by Joseph Conrad[Conrad#16][tmotsxxx.xxx]1058
+Oct 1997 Poems, by Oscar Wilde [Etext #16 by Oscar Wilde]  [pmwldxxx.xxx]1057
+Oct 1997 Ballad of Reading Gaol, by Oscar Wilde [re: above][pmwldxxx.xxx]1057
+
+Sep 1997 Martin Eden, by Jack London   [Jack London #10]   [medenxxx.xxx]1056
+Sep 1997 'Twixt Land & Sea, by Joseph Conrad  [Conrad #15] [twxlsxxx.xxx]1055
+Sep 1997 A Collection of Ballads, by Andrew Lang [Lang #6] [cbladxxx.xxx]1054
+Sep 1997 Within The Tides, by Joseph Conrad  [Conrad #14]  [wthntxxx.xxx]1053
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,354 eTexts online as of June 12, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.87 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.82 when we had 3548 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.95 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+
+***
+
+Headlines From Newsscan
+
+CALCULATORS vs. HANDHELD COMPUTERS
+As handheld computers become increasingly competitive with Texas Instrument
+(TI) calculators for mathematical graphing, TI has been busy adding features
+such as address books, organizers, and a large variety of spreadsheet
+programs. The main advantage of handhelds, of course, is that they are
+general-purpose devices. Nelson Heller, who publishes the Heller Report
+newsletter on education technology, says that both calculators and handheld
+computers are getting better but adds: "The question I see is whether a
+specialized appliance like the graphing calculator will in the long run lose
+out to a more generalized appliance like a PDA." Calculators, however, still
+have two advantages: lower cost (about half of a PDA's cost) and
+acceptability in testing situations, in that students are permitted to use
+calculators but not handheld computers when taking the Scholastic Aptitude
+Test. The reason? Fear that some students might use the infrared messaging
+capability of handhelds to cheat on the test.
+(AP/San Jose Mercury-News 12 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3453135.htm
+
+[Of course, this doesn't mean PDA's aren't "better" than calcuators,
+it just means that THEY have outlawed them for certain applications.]
+
+
+IBM BREAKTHROUGH DOUBLES DATA STORAGE
+IBM researchers have developed a way to double the amount of data it can
+store per square inch, using what essentially are microscopic punch cards.
+The new nanotechnology storage system, code-named Millipede, could be
+capable of storing 25 million printed textbook pages on a surface the size
+of a postage stamp -- about 20 times what is possible with techniques used
+in today's hard drives. Millipede uses thousands of nanometer-scale tips to
+punch indentations into a thin plastic film, in a technique reminiscent of
+the punch cards used decades ago. Unlike the punch cards, however, the
+plastic film can be erased and written over through techniques that
+transform the heated film back into its original shape. IBM says the new
+probe-storage technology could be used to boost the capacity of cell
+phones, digital cameras and handheld computers in a few years. (Wall Street
+Journal 11 Jun 2002)
+http://online.wsj.com/article/0,,SB1023769076577387160.djm,00.html (sub req'd)
+
+DETECTING CELL PHONES USED AS BUGGING DEVICES
+An Israeli company has developed a device that can detect when a room is
+being bugged by a modified cell phone, which an intruder could call from
+anywhere in the world without it emitting a ringing tone. The phone's
+screen remains blank and it appears to be turned off. A co-designer of the
+device says, "The beauty of the cell phone as a bug is that it's an
+innocent looking and ubiquitous object. People trust cell phones, but
+modified and left in idle mode the cell phone can be used as a transmitter
+for up to a week. If it's connected to a power supply it can provide
+endless intelligence. Professional bugsweepers will ignore the cell phone
+frequency since the phones are so common and not suspicious."
+(Reuters 11 Jun 2002)
+http://story.news.yahoo.com/news?tmpl=story&cid=581&ncid=581&e=4&u=/nm/20020611/
+tc_nm/tech_israel_netline_dc_1
+
+ONLINE AUCTIONS THE NEWEST WAY TO FENCE STOLEN GOODS
+Online auctions such as eBay are the newest way to fence stolen property,
+because they're so anonymous and so simple. A Santa Clara prosecutor says:
+"There's no need for the pawnbroker. Internet auctions have suddenly become
+a really easy way to fence stuff." But law enforcement officials agree that
+eBay is extremely diligent in helping authorities track down criminals, by
+running sophisticated anti-fraud operations and by helping prosecutors
+build legal cases. An executive of the National Consumer League reminds us:
+"As we always say, if the deal is too good to be true, it usually isn't."
+(San Jose Mercury-News 10 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3443962.htm
+
+[I Can Tell You It Took Lots More Effort To Get eBay To Cooperate In Getting
+Rid Of Spurious Project Gutenberg Products Than _I_ Could Provide. . .We Had
+To Get Real "Gunslingers" On eBay's Case Before They Came Around.  Michael]
+
+DYSON SAY ICANN HAS BECOME 'A REAL CESSPOOL'
+Esther Dyson, tech celeb and former chair of ICANN (the Internet
+Corporation for Assigned Names and Numbers), told an audience at the
+Wharton business school that "ICANN has become a real cesspool," because
+of its tangled disputes about authority, accountability, and openness.
+The independent agency is in charge of managing policy for the Internet's
+name and address systems. "When I was a young student, I thought grown-ups
+would come and make things work. Now I realize that grown-ups are just kids
+with wrinkles. I only see juvenile behavior at ICANN."
+(Public Policy & Management Emory, Jun 2002)
+http://knowledge.emory.edu/articles.cfm?catid=9&articleid=517&homepage=yes
+
+DANISH PUBLISHERS PROTEST DEEP LINKING
+The Danish Newspaper Publishers' Association is suing a news Web site that
+provides links directly to news stories, without going through the site's
+home page. Newsbooster editor-in-chief Nicolai Lassen says linking directly
+to the story saves the reader time: "From the home page down to the actual
+story you want to read can be a very, very long way. By using a technology
+such as Newsbooster, you save a lot of time." Newsbooster charges users a
+subscription fee to send links to news items containing user-designated
+keywords, and the Danish Newspaper Publishers' Association believes that it
+should either shut down or negotiate to share those fees. "We consider it
+unfair to base your business upon the works of others," says the group's
+managing director. But to Internet purists, the whole point of Web is to
+create linkages between relevant pages. If the Web's creators hadn't wanted
+linking, "they would have called it the World Wide Straight Line," says one
+Web site operator. In the U.S., early court decisions have sided with
+deep-linking, except in cases of framing, where a site tries to make
+information created by other sites appear to be its own. "It was one of
+those issues that people thought was more or less settled. For whatever
+reason, these last couple of months, a spate of new disputes have come up,"
+says an Internet legal expert. (AP 10 Jun 2002)
+http://apnews.excite.com/article/20020610/D7K28Q3G0.html
+
+[You May Have Noticed That Many Places, Even Such "User Friendly" Places
+Such As pbs.org, Try Their Hardest To Make You Wade Through Levels of Ads]
+
+APPLE NIBBLES AT WINDOWS MARKET
+Apple Computer is thinking "different" about how to lure new customers, and
+is launching an advertising campaign aimed at potential "switchers" --
+computer users who might be coaxed into dropping Windows PCs for Apple
+Macintoshes. The new, multimillion-dollar campaign, dubbed "Real People,"
+features testimony from individuals, some of them celebrities, talking
+about why they recently converted from PCs to Macs. In one spot, a man
+describes the Window desktop as "the blue screen of death," and in another,
+a man says using Windows was like "being stuck in a bad relationship."
+Apple CEO Steve Jobs says the Windows market is an obvious place to start
+recruiting new Mac users: "There are a lot more people out there that use
+Windows computers than no computers, so that's a very rich target for us.
+For those thinking of switching to the Mac, we'd like to help that process
+along." Nevertheless, Jobs downplays any hint of discord between the two
+companies: "We have a really good relationship with Microsoft right now.
+The way I look at it is, what's a few points of market share between
+friends?" (Wall Street Journal 10 Jun 2002)
+http://online.wsj.com/article/0,,SB1023657621925178880.djm,00.html (sub req'd)
+
+IS THERE A LAW THAT SAYS YOU HAVE TO WATCH COMMERCIALS?
+Surely there isn't -- says Rep. Rick Boucher (D-Va.) in his support for a
+consumer lawsuit seeking to confirm that users of Sonicblue's ReplayTV
+system have the lawful right to skip commercials when they record  TV
+programs for later viewing. The suit has been filed in the same federal
+court in Los Angeles that is hearing a complaint from movie and television
+studios that ReplayTV allows customers to violate their copyrights, arguing
+that skipping commercials amounts to stealing. Sonicblue's position is:
+"Basically we believe that consumers have 'fair-use' rights, and everything
+consumers do with a ReplayTV is covered with 'fair use'."
+(Reuters/USA Today 6 Jun 2002)
+http://www.usatoday.com/life/cyber/tech/2002/06/06/replaytv-sue.htm
+
+STUDENTS PROVIDE BULK OF TECH SUPPORT IN SCHOOLS
+Fifty-four percent of U.S. schools rely on students to provide technical
+support for their computer systems, according to a report titled "Are We
+There Yet?" (http://www.nsbf.org/thereyet/index.htm), released yesterday by
+the National School Boards Foundation. In 43% of the 811 districts
+surveyed, students troubleshoot for hardware, software and other problems,
+and 39% of the districts, students are tasked with setting up equipment and
+wiring. Nearly as many districts also report that students perform
+technical maintenance. The fact that students are providing so much
+hands-on assistance is viewed as a "win-win" situation by John Bailey,
+director of education technology for the Department of Education. Their
+tech savvy helps compensate for a dearth of tech support funding in school
+budgets and teachers who are "unevenly prepared for using technology as a
+tool for teaching and learning," according to the NSBF, which reports that
+69% of the survey respondents rated new teachers as average or novices in
+computer skills. The role reversal signals a shift in the relationship
+between teachers and students as online lessons become integrated into the
+school curriculum, says Anne Bryant, executive director of the National
+School Boards Association: "Teachers become the guide on the side, instead
+of the sage on the stage." (AP 5 Jun 2002)
+http://apnews.excite.com/article/20020605/D7JV8EP00.html
+
+PC GLUT PROMPTS PRICE CUTS
+PC makers are engaging in an unusually aggressive round of price cuts in
+response to the industry's recent dismal sales results. April sales were
+off 22.5%, compared with a year earlier, according to NPDTechworld, as the
+industry badly misjudged consumer demand for higher-powered machines. As a
+result, the number of unsold PCs is reaching unprecedented levels, with
+some companies reporting up to nine weeks' worth of inventory stashed in
+retailers' warehouses. The pressure to reduce inventory is exacerbated
+further by the coming release of highly integrated chips and newer
+software. For computer buyers, this confluence of unfortunate events all
+adds up to an unusually good buying opportunity. "This is a really, really
+unique time in retail," says an analyst at market watcher ARS. "Intel is in
+the position of announcing new chips and manufacturers have this inventory
+problem." (Wall Street Journal 6 Jun 2002)
+http://online.wsj.com/article/0,,SB1023308096752298720.djm,00.html (sub req'd)
+
+
+***
+
+Headlines From Edupage:
+
+NEW SERVICE BROADENS ONLINE LIBRARY RESOURCES
+QuestionPoint, a project of the Online Computer Library Center (OCLC)
+and the Library of Congress, is a new service that will provide library
+patrons with access to reference librarians worldwide. The service
+refers questions submitted through a library Web site to librarians who
+can offer help. Libraries that subscribe to QuestionPoint can choose
+either or both of two levels of service. The first works with a
+library's own staff or that of regional consortia to route questions.
+The other level of service sends questions through the Global Reference
+Network, an international group of libraries.
+Information Today, 10 June 2002
+http://www.infotoday.com/newsbreaks/nb020610-1.htm
+
+CONSUMERS GROUP SUES OVER TV RIGHTS
+The Electronic Frontier Foundation has filed a lawsuit in federal court
+to try to establish the legality of devices that let consumers watch
+television programming without commercials and send copies of programs
+over the Internet. The suit names as defendants many of the media
+companies that recently sued SonicBlue, the maker of one such device.
+Media companies, which are concerned about their revenue from
+advertising, argue that watching programs without commercials is
+tantamount to theft and that transmitting an entire program over the
+Internet, as happens now with music files, is a violation of
+intellectual property rights. An attorney with the Electronic Frontier
+Foundation said there's a difference between being in a movie theater
+and in one's living room, and that the entertainment industry is
+trying to control consumers' personal habits.
+Wall Street Journal, 6 June 2002 (sub. req'd)
+http://online.wsj.com/article/0,,SB1023398010499260640,00.html
+
+UK NEGOTIATES SOFTWARE COSTS, CONSIDERS OPEN SOURCE
+The Office of Government Commerce (OGC), an agency of the U.K.
+Treasury, in March signed a contract with Microsoft that will
+reportedly save taxpayers $147 million on software over the next three
+years. The move came after the agency realized that separate
+departments had formerly negotiated Microsoft contracts with large
+differences in cost. The united front for negotiations not only will
+save money but also opened the door for discussions about products from
+other vendors, including open-source software products. A spokesman
+from the OGC said he expects something concrete to emerge soon from the
+discussions about open source. Critics said the government is merely
+talking about changes and should do more to promote platforms such as
+Linux. The government's focus, they say, is money rather than security.
+InfoWorld, 5 June 2002
+http://www.idg.net/ic_873584_1794_9-10000.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+

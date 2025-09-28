@@ -1,0 +1,705 @@
+---
+params:
+  id: 2336
+title: "PG Weekly Newsletter: Part 1a (2005-12-21)"
+date: 2005-12-21T11:02:01+00:00
+author: Michael Cook
+layout: post
+url: /20051221/pg-weekly-newsletter-2005-12-21-part-1a/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Dec 21 08:58:34 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Dec 21 08:58:38 2005
+Subject: [gweekly] !@!New PT1a Weekly Project Gutenberg Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0512210857200.9291@pglaf.org&gt;
+
+pt1a2.d05
+Final Edition
+Weekly_December_19.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 19, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+          Progress Towards gutenberg.org's Goal Of 20,000 eBooks
+
+
+             !!!   8/9 Of The Way To 20,000 eBooks   !!!
+
+
+Imagine the 20,000 books have been separated into 9 stacks of 2,222 each,
+we have just now completed 8 stacks leaving just 1 stack to go:
+
+      9 Stacks
+GRAND TOTAL/Leaving
+Two Left To #20,000
+                                8 Stacks
+    ****_                     BOOKS DONE!!!
+   (**9**( 19,998
+    ****_                     ****_
+   (**8**( 17,776            (**8**(  17,776               1 Stack
+    ****_                     ****_                      BOOKS TO GO!!!
+   (**7**( 15,554            (**7**(  15,554
+    ****_                     ******
+   (**6**( 13,332            (**6**(  13,332
+    ****_                     ****_
+   (**5**( 11,110            (**5**(  11,110
+    ****_                     ****_
+   (**4**(  8,888            (**4**(   8,888
+    ****_                     ****_
+   (**3**(  6,666            (**3**(   6,666
+    ****_                     ****_
+   (**2**(  4,444            (**2**(   4,444
+    ****_                     ****_                      ****_
+   (**1**(  2,222            (**1**(   2,222            (**1**(   2,222
+
+
+
+GRAND TOTAL LEAVING
+Two Left To #20,000          BOOKS DONE!!!              BOOKS TO GO!!!
+       9 Stacks                 8 Stacks                    1 Stack
+
+This as of Friday, December 14, 2005
+
+***
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+&gt;&gt;&gt;   !!!People who can help with PR for our 35th Anniversary!!!  &lt;&lt;&lt;
+
+&gt;&gt;&gt;   !!!People to help us collect ALL public domain eBooks!!!  &lt;&lt;&lt;
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    2 New From PG Australia [Australian, Canadian Copyright Etc.]
+   57 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+           ***517 eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,834 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~88% of the Way to 20,000!!!
+
+               14,772 New eBooks Since The Start Of 2001
+
+              That's ~250 eBooks per Month for ~59 Months
+
+                 We Have Produced 2878 eBooks in 2005!!!
+
+                        2,166 to go to 20,000!!!
+
+                  7,834 from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+
+                 516 from Project Gutenberg of Australia
+
+                 136 from Project Gutenberg of Europe
+                [We will start including these in 2006]
+
+               We Averaged ~339 eBooks Per Month In 2004
+
+             We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~58 eBooks Per Week This Year
+
+                             59 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,500
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+[I think this is only the first or second time we ever included
+ALL the entries from a single edition of Edupage.  From here:]
+
+U.S. HOUSE REQUIRES HDTV CONVERSION IN 2009
+The U.S. House of Representatives passed legislation requiring
+complete conversion to HDTV broadcasting in early 2009.
+The bill included funding to aid consumers with analog TV sets
+who watch free TV stations to purchase converter boxes.
+Satellite and cable TV consumers would not be affected by the digital switch. The requirements and funding were
+part of a larger deficit-cutting bill still to be addressed by the Senate.
+A major goal of the digital TV requirement is to gain radio spectrum for
+emergency use.  [i.e. Homeland Security, FBI, CIA, NSA, etc?]
+Yahoo, 19 December 2005
+http://news.yahoo.com/s/ap/20051219/ap_on_hi_te/congress_digital_tv
+
+NIST SETS DATA SPECS FOR BIOMETRIC ID CARDS
+The National Institute of Standards and Technology (NIST)
+has established and published biometric data specifications,
+required for federal ID cards slated for implementation in October 2006.
+The new specs cover fingerprints and facial image recognition.
+Comments on the draft specs will be accepted until January 13, 2006.
+[Are they hoping no one will be paying attention over the holidays?]
+Federal Computer Week, 16 December 2005
+http://www.fcw.com/article91747-12-16-05-Web
+
+MEETING COMPLIANCE LAWS RAISES IT COSTS
+According to a recent Gartner study, laws on corporate governance and
+compliance, such as the U.S. Sarbanes-Oxley Act, force businesses to
+spend more on information technology. The report predicts increases in
+IT budgets from 10 to 15 percent in 2006, up from roughly 5 percent in
+2004. The survey included 326 audit, finance, and IT professionals in
+North America and Western Europe. Gartner recommended solutions that
+can support multiple regulations across a business to maximize
+effectiveness on spending for compliance.
+[Businesses are being forced to pay extra so the above listed
+agencies can spy on them?]
+ZDNet, 15 December 2005
+http://news.zdnet.com/2100-9595_22-5996670.html
+
+EXPERT-EDITED ALTERNATIVE TO WIKIPEDIA
+Larry Sanger, a co-founder of Wikipedia, plans to launch a project
+called Digital Universe that will take advantage of public input for
+its content but rely on acknowledged experts to edit the submissions.
+Material will be free, with copyrighted material available to
+subscribers for a fee. A number of institutions have already signed up
+for the project, including the American Museum of Natural History and
+the National Council for Science and the Environment. Sanger has raised
+$10 million in start-up funding.
+[Is the timing here just a coincidence?  More on Wikipedia below.]
+The Register, 19 December 2005
+http://www.theregister.co.uk/2005/12/19/sanger_onlinepedia_with_experts/
+
+GOOGLE BUYS PART OF AOL
+Google has agreed to buy a 5 percent stake in America Online (AOL) from
+parent company Time Warner for $1 billion cash. The goal is dominance
+in the online advertising market. Microsoft competed with Google for
+the partnership agreement, which must still be approved by the Time
+Warner board. As part of the deal, Google will give AOL ads special
+placement on its site, a switch from its ad auction system.
+New York Times, 17 December 2005 (registration req'd)
+http://www.nytimes.com/2005/12/17/technology/17aol.html
+
+[To here]
+
+STUDY EVALUATES WIKIPEDIA CONTENT
+According to a research study published in the journal Nature,
+Wikipedia compares favorably with the Encyclopedia Britannica in the
+accuracy of its information despite recent criticisms of its content
+and methods. The Nature study compared articles from both Web sites on
+a wide range of topics, asking field experts to review the accuracy of
+the entries. Serious errors (such as misunderstandings of vital
+concepts) were evenly distributed between the two encyclopedias, with
+four serious errors each. As for errors of fact, omissions, or
+misleading text, Wikipedia had 162 such errors and Britannica had 123.
+The study is the first to use peer review to compare the accuracy of
+the two sources' coverage of science.
+Silicon.com, 16 December 2005
+http://networks.silicon.com/webwatch/0,39024667,39155109,00.htm
+
+MICHIGAN PONDERS ONLINE REQUIREMENT
+High school students in Michigan will be required to take at least one
+online course in order to graduate under a proposal before the Michigan
+State Board of Education, which is expected to approve it. Mike
+Flanagan, the Michigan state superintendent of public instruction,
+offered the proposal as a way to help students in the state prepare for
+college and for professional lives, which he said increasingly employ
+technology. The board is expected to pass the new regulation, which
+would make Michigan the first state to require an online course for a
+high school diploma. Kathleen N. Straus, president of the board, said,
+"We think we'd be on the cutting edge" if they pass the new rule,
+which would still require the approval of the state legislature and the
+governor. The proposal would allow noncredit online courses, such as
+ACT prep classes, to count toward the requirement, but Flanagan said he
+hopes students would choose to take for-credit courses.
+Chronicle of Higher Education, 13 December 2005
+http://chronicle.com/free/2005/12/2005121301t.htm
+
+COLLEGES JOIN THE RFID BANDWAGON
+A number of colleges and universities are launching academic programs
+that focus on radio frequency identification (RFID) technology. RFID
+tools, which use small electronic devices to track physical goods, are
+seen by many as the future for management of inventories and supply
+chains. MBA students at the Kelley School of Business at Indiana
+University are using a model train equipped with tiny transmitters to
+learn about and test RFID technology in a way that simulates a conveyor
+belt in a factory. As the Kelley School's Ashok Soni said, having a
+real conveyor belt just wasn't feasible. Meanwhile, the University of
+California at Irvine announced an RFID certificate program that
+includes courses such as "Solving Business Problems with Radio
+Frequency Identification Devices." Research firm Gartner estimates that
+the market for RFID this year will be $504 million, an increase of 39
+percent over last year. The company also predicts that RFID spending
+will grow to $3 billion annually by the end of the decade.
+CNET, 13 December 2005
+http://news.com.com/2100-1039_3-5993692.html
+
+ONLINE EDUCATION BOOMING
+Analysts speaking at a conference on the business of higher education
+this week argued that the market for online learning, though often
+downplayed relative to other topics, is thriving and represents the
+future of for-profit education. Online music, for example, receives a
+lot of hype in the media, according to one analyst, but the market for
+online education is seven times larger than that for online music.
+Douglas L. Becker, CEO of Laureate Education Inc., which operates a
+network of international universities, said that in many parts of the
+world the demand for higher education far outstrips the supply.
+Moreover, while for-profit colleges enroll less than 5 percent of all
+college students, more than a third of all students taking an online
+course are enrolled at a for-profit institution. The conditions are
+ripe for online education to lead to significant growth in for-profit
+colleges in the coming years, according to analysts.
+Chronicle of Higher Education, 13 December 2005 (sub. req'd)
+http://chronicle.com/daily/2005/12/2005121305n.htm
+
+QUANTA TO PRODUCE MIT'S $100 LAPTOPS
+Computer maker Quanta has been chosen to manufacture the $100 laptops
+that are the brainchild of MIT's Nicholas Negroponte and supported by
+the One Laptop per Child (OLPC) organization. Based in Taiwan, Quanta
+is the world's largest maker of laptops, building the devices for
+companies including Dell and HP. Some believe that supplying the
+developing world with inexpensive computer technology will be a boon
+for educational and economic development of those nations, and the
+notion of an inexpensive laptop is part of that vision. Previous
+attempts to build and deploy similar technology have failed, and
+detractors argue that the $100 laptop program doesn't stand much of a
+chance. Nevertheless, recruiting a major hardware manufacturer signals
+the level of support that the project enjoys. Of the announcement,
+Negroponte said, "Any previous doubt that a very-low-cost laptop could
+be made for education in the developing world has just gone away."
+Silicon.com, 14 December 2005
+http://hardware.silicon.com/desktops/0,39024645,39155040,00.htm
+
+CSIA GIVES FEDS D+ ON CYBERSECURITY
+In a report card released by the Cyber Security Industry Alliance
+(CSIA), the federal government received a grade of D+ for
+cybersecurity. CISA gave credit to the Department of Homeland Security
+for establishing a new position, the assistant secretary for
+cybersecurity. Six months after that job was created, however, it
+remains unfilled. Paul Kurtz, executive director of CSIA, commented
+that "Cybersecurity research is in a crisis." CSIA also launched what
+it calls a Digital Confidence Index, a measure of public confidence in
+efforts to protect computers and systems. The initial rating for the
+index is 58 out of 100. CSIA issued a set of 13 recommendations, called
+the National Agenda for Information Security in 2006, designed to
+improve the nation's cybersecurity. Among the recommendations are
+calls to increase funding for cybersecurity research and to promote
+cooperation among federal agencies.
+Federal Computer Week, 13 December 2005
+http://www.fcw.com/article91710-12-13-05-Web
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+Hidden by all the rest, was the news that super-lobbiest Abramoff
+is trying to make a deal for a reduced sentence on his many charges
+by testifying against his former business and political partners.
+
+Source:  Albany Times Union
+
+*
+
+Intelligent Design Is Just Creationism Renamed, says Judge Jones
+
+"We find that the secular purposes claimed by the board
+amount to a pretext for the board's real purpose,
+which was to promote religion in the public school classroom."
+Federal judge, John E Jones III
+Appointed by President George W. Bush
+
+In the Dover School Board case, Judge Jones revealed that in 150
+instances in the book "Of Pandas and People" the term "intelligent
+design" had merely replaced terms such as "creation science" or
+"creation" or "creationism" and similar terms in a ploy to get
+around the recent major decisions against teaching creationism
+in public school science classes.
+
+Judge Jones said, Intelligent Design/Creationism "has not
+generated peer-reviewed publications, nor has it been the
+subject of testing and research."
+
+Source
+The Telegraph, UK
+PBS
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+"Any time you hear the United States government talking
+about wiretap, a wiretap requires a a court order."
+
+"Nothing has changed, by the way.  When we're talking about
+chasing down terrorists, we're talking about getting a court
+order before we do so," he added.
+
+President George W. Bush
+April 20, 2004, Buffalo, NY
+
+
+"You see, what that meant is if you got a wiretap by court order,
+and by the way, everything you hear about requires court order,
+requires there to be permission from a FISA court, for example,"
+President George W. Bush
+Hershey, Pennsylvania
+
+
+"A couple of things that are very important for you to understand
+about the Patriot Act. First of all, any action that takes place
+by law enforcement requires a court order.
+
+"In other words, the government can't move on wiretaps or roving
+wiretaps without getting a court order," he said. "What the Patriot
+Act said, is let's give our law enforcement the tools necessary,
+without abridging the Constitution of the United States, the tools
+necessary to defend America."
+President George W. Bush
+July 14, 2004
+Fond Du Lac, Wisconsin
+
+Source: [all 12/20/05 and 12/21/05]
+Los Angeles Times "Cheney Defends Domestic Spying"
+Gulf Times, Qatar "For Years, Bush Said Court Orders Required For Spying
+Baltimore Sun "Cheney Supports Wiretap Authority"
+New York Newsday "Cheney Defends Domestic Spying"
+Arkansas Democrat-Gazette "Police-State Methods No Answer To Terror"
+
+
+
+*PREDICTIONS OF THE WEEK
+
+Oil-drilling in Alaska's Arctic National Wildlife Refuge (ANWR)
+will become as much an albatross around Senator Ted Stevens neck
+as his infamous "bridge to nowhere."
+
+*
+
+Hesitating to even quote any of those mentioning impeachment.
+
+
+*STRANGE QUOTES OF THE WEEK
+
+"Watergate and a lot of the things around Watergate and Vietnam, both
+during the 1970s, served, I think, to erode the authority I think the
+president needs to be effective, especially in the national security area."
+VP Dick Cheney, to reporters traveling on Air Force Two with him.
+
+Cheney added that "the vast majority" approve of the recently revealed
+surveillance without court orders.  [Echoing Nixon's "Silent Majority."]
+
+"And so if there's a backlash pending, I think the backlash is going
+to be against those who are suggesting somehow we shouldn't take these
+steps in order to defend the country."
+
+Source:
+Los Angeles Times
+White House Press Pool
+
+*
+
+A bipartisan letter from five Senators stated for the record:
+
+"At no time, to our knowledge, did any administration representative
+ask the Congress to consider amending existing law to permit
+electronic surveillance of suspected terrorists without a warrant,"
+
+[Two Republicans, Three Democrats]
+
+[Similar letters are being made available from other members of Congress,
+some still waiting for declassification, written in 2002 when some dozen
+members were advised of the situation.  Some say the fact that they kept
+silent, as requested, was a form of tacit approval, a charge also levied
+at the New York Times, who broke the story a few days ago, after knowing
+about it for a year.  Condensed from multiple sources, apologies that my
+note taking was going to fast to get everything.]
+
+*
+
+"Why is it that President Bush went in front of the American people
+and said that a wiretap 'requires a court order' after having approved
+a wiretap program without a court order two years earlier?"
+
+Howard Dean
+
+*
+
+"When the Foreign Intelligence Surveillance Act was created in 1978,
+one of the things that the Attorney General at the time, Griffin Bell,
+testified before the intelligence committee, and he said that the current
+bill recognizes no inherent power of the President to conduct
+electronic surveillance."
+
+He said, 'This bill specifically states that the procedures in the bill
+are the exclusive means by which electronic surveillance may be conducted.'
+
+Sources:
+James Bamford
+Christian Science Monitor
+
+*
+
+"Foreign Intelligence Surveillance Act of 1978 shall be the
+exclusive means by which electronic surveillance ... may be
+conducted."      [FISA; 18 U.S.C. Sec. 2511(f)]
+
+Source:
+Bush's Use of NSA Spying and the Law
+Institute for Public Accuracy (press release), DC - Dec 19, 2005
+
+*
+
+In addition, the FBI has been reported to be spying on various groups
+supporting animal rights and other such causes, as per FBI documents
+obtained under the Freedom Of Information Act.
+
+These include:
+
+A vegan community project [vegetarians]
+A Catholic workers group
+PETA  [People for the Ethical Treatment of Animals]
+
+However, the FBI officially denies that "Just being referenced in an
+FBI file is not tantamount to being the subject of an investigation,"
+according to FBI spokesman John Miller.
+
+[However, you might notice that Mr. Miller did NOT deny that these
+people were under FBI investigation.]
+
+"The Justice Department does not comment on or confirm the existence
+of criminal investigations. All matters referred to the department
+by the intelligence agencies for purposes of further investigation
+are taken seriously and thoroughly reviewed."
+Brian Roehrkasse, Justice Dept. spokesman.
+
+"It goes back to the dark days of Nixon and the enemies list."
+Jeff Kerr, PETA General Counsel
+
+Source:
+FBI
+ACLU
+United Press International
+The Washington Post
+
+Also see:  Joint Terrorism Task Forces
+
+
+*ODD STATISTICS OF THE WEEK
+
+The WTA strike [transit strike] in New York City is costing the
+union $1 million per day in fines, and costing New York City
+$400-$660 million is lost business.
+
+Source:
+International Herald Tribune
+Bloomberg
+Voice of America
+
+*
+
+Google is trying to buy 5% of AOL.
+
+*
+
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+
+This Room
+
+This room contains us all.
+The walls stretch out to encompass
+the angry me, the wicked me,
+the mother & child me, the melancholic me,
+the sanctified self of the loving me.
+Design dating back when all things were just beginning,
+and the beginning had already begun.
+
+We are stuck here. Pinned into place onto this board.
+Past days present. Present days all here. Future hopes
+drawn like tattoos on the stretching arms of the walls.
+One finds it great to have flexible views.
+
+Feelings live in separate compartments,
+drawn in through secret passageways of senses.
+Counting rains and rainbows, I found them all,
+handily located at the trysting place between heart and soul.
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_12_21_part_1a.txt" target="_blank" rel="nofollow">pgweekly_2005_12_21_part_1a.txt</a>

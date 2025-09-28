@@ -1,0 +1,823 @@
+---
+params:
+  id: 2080
+title: "PG Weekly Newsletter: Part 1 (2003-12-10)"
+date: 2003-12-10T18:46:54+00:00
+author: Michael Cook
+layout: post
+url: /20031210/pg-weekly-newsletter-2003-12-10-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_December_10.txt
+
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 10, 2003*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+Our Newsletter Archive is available at gutenberg.net/newsletter/index.html
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Introduction:  eBook Milestones; Project Gutenberg on TechTV
+- Project Gutenberg DVD
+- Requests For Assistance, including Portuguese eBooks
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update (See Part 3 for complete listings):
+    Updates/corrections in separate section
+    52 New Public Domain eBooks Under US Copyright
+    5 New From PG Australia [Australian, Canadian Copyright Etc.]
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+
+                          eBook Milestones
+
+
+   Today Is The 10th Anniversary Of The 100th Project Gutenberg eBook
+   [The Complete Works Of William Shakespeare: Thanks World Library!]
+  [And To The Half Dozen Volunteers Who Helped Me Pull The All Nighter
+    Until The End of December 10, 1993 in the Hawaiian Time Zone!!!]
+
+
+      Project Gutenberg of Australia Passes The 300 eBook Mark!!!
+
+
+           We're ~7+% Of The Way From 10,000 To 20,000!!!
+
+
+                    10,695 eBooks As Of Today!!!
+
+
+          We're ~1/14 Of The Way From 10,000 to 20,000!!!
+
+
+             We've Done Almost 4,000 eBooks This Year!
+
+
+    A Month From Now We Should Reach A Grand Total of 11,000!!!
+
+
+    Interested in Portuguese eBooks?  See Email Address Below!
+
+
+***
+
+                  Project Gutenberg On TechTV
+
+As part of the 10th Anniversary commemoration activities this week,
+Michael Hart will be taping a segment for The Screen Savers show on
+TechTV, scheduled to be broadcast next Monday, December 15th.  This
+will also feature the Project Gutenberg DVD and CD.  Check local
+listings or the TechTV website for exact day and times.
+
+
+!!!Today Is The Official Release Of PG's "10K Special" DVD!!!
+
+
+DOWNLOADING IMAGES FOR THE PROJECT GUTENBERG DVD AND CD
+
+Note: We'll be showing these on TechTV's "Screensavers" which
+should air next Monday, December 16.
+
+This DVD image contains about 9400 of the first 10,000 eBooks.
+You can download the Project Gutenberg DVD image at the following:
+
+ftp://underdog.arsc.alaska.edu/images/pgdvd.iso
+ftp://ftp.archive.org/pub/etext/cdimages/pgdvd.iso
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/cdimages/pgdvd.iso
+
+Details:
+
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/cdimages/pgdvd.iso
+ftp://beryl.ils.unc.edu/pub/pgdvd.iso
+(location: North Carolina.  Very fast network connection)
+
+Also online on one of Greg's research servers:
+ftp://underdog.arsc.alaska.edu/images/pgdvd.iso
+rsync -rlHtSv ftp@underdog.arsc.alaska.edu::images .  (for rsync)
+(location: Alaska.  Pretty fast network connection)
+
+uploading to archive.org, too.  Once it's there:
+ftp://ftp.archive.org/pub/etext/cdimages/pgdvd.iso
+(location: San Francisco.  Fast but saturated network connection)
+
+The file size is 4139646976.
+Unix "sum" is 51222 (but there are several "sum" versions out there).
+MD5 sum is 59d8a193874349181122ff52e2e3e114
+
+
+You can download the Project Gutenberg CD image at the following:
+
+http://gutenberg.net/cdproject
+
+The image is from August 2003, by Daniel Callahan.
+This contains over 1/3 of the original 10,000 eBooks.
+
+The most recent image is available as .ISO and .zip
+(the .zip contains the ISO):
+
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/cdimages/PG2003-08.ISO
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/cdimages/PG2003-08.zip
+
+PG2003-08.ISO  MD5 sum: e448aaec6010fa03373d0f74dde5f36e size 711589888 bytes
+PG2003-08.zip  MD5 sum: 2bf96ee51d593169ee5b08202b41179d size 387828452 bytes
+
+***
+
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 23/53 Year History, We Have Now Averaged About 330 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+           We Are Averaging About 353 Per Month This Year!!!
+
+
+
+***  HOT Requests!!!
+
+We've had some requests for something like the Distributed Proofreaders
+to take up various kinds of books, varying by subject, and by language.
+
+Anyone interested in doing something like this, please contact us.
+
+"Michael S. Hart" &lt;hart@pobox.com&gt;
+Greg Newby &lt;gbnewby@pglaf.org&gt;
+
+We want to make it easier for you to volunteer for what interests you!
+
+However you want to do books, we'll try to find a way to support you.
+
+***
+
+For all those Portuguese readers out there, we have a new volunteer that
+offered to coordinate and help anyone that wants to work on Portuguese
+eBooks for project gutenberg. His name is Joco Neves and you can get in
+touch with him at gutenberg@silvaneves.org.
+
+If you don't have a specific book to work on, take a look first at
+Distributed Proofreaders &lt;http://www.pgdp.net/&gt;. There are three
+Portuguese eBooks on the first round, one in the second and two in
+post-processing. We have the National Library of Portugal as a source of
+eBooks, so how many eBooks and which books we choose is up to us.
+
+Sim, i da tua ajuda que precisamos!!!
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+ http://ibiblio.org/gutenberg/images
+
+***
+
+New site for PDA readable eBooks - now open for testing:
+
+ http://mc.clintock.com/gutenberg/
+
+The formats currently available are Plucker, iSilo, Doc, Rocket eBook,
+and zTXT (as well as regular HTML). The etexts used are the ones on the
+PG DVD image you released a few weeks ago, and they're stored in the
+same directories, with the original archive names (e.g. ETEXT05/kafk10.zip).
+
+***
+
+Volunteers Needed For Some Harder-Than-Usual Reformatting
+
+Please look at this URL, and see what we can use.  We have permission
+for all of them.  Reformatting to plain text may be a challenge.
+
+ http://www.gallup.unm.edu/~smarandache/eBooks-otherformats.htm
+ http://www.gallup.unm.edu/~smarandache/eBooksLiterature.htm
+
+
+*** Requests For Assistance ***
+
+Music Project
+
+Interested in music?  Project Gutenberg's music project
+(http://ibiblio.org/gutenberg/music) is seeking people to
+digitize musical scores.  We also have a small budget to
+work on publicity recruitment for our sheet music efforts.
+Email Greg Newby &lt;gbnewby AT pglaf.org&gt; if you would like
+more information.
+
+***
+
+Project Gutenberg DVD Needs Burners
+
+So far we have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email me
+so we can plan how many DVD's we can make with all 10,000
+Project Gutenberg eBooks on them when they are ready.  We
+can likely send you a box of CDs containing most of these
+files early, and then a final update CD in November when
+you would download the last month's/weeks' releases.
+
+I have the first test 10K Special DVD here right now!!!
+Nearly all of our first 10,000 eBooks, and multiple formats!
+
+
+*** Project Gutenberg Is Seeking Legal Beagles ***
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+
+*** CONGRATULATIONS TO PROJECT GUTENBERG OF AUSTRALIA!!!
+
+eBook #300 was posted on Tuesday, December 9th, less than
+nine months since #200 was posted, and only 28 months since
+#1.
+
+
+*** PROGRESS REPORT
+
+    In the first 11.20 months of this year, we produced 3957 new eBooks.
+
+     It took us from 1971 to 2000 to produce our first 3,957 eBooks!
+
+                That's 49 WEEKS as Compared to ~31 Years!
+
+                   57   New eBooks This Week
+                   73   New eBooks Last Week
+                   57   New eBooks This Month [December]
+
+                  353   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                 3957   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 7538   New eBooks Since Start Of 2001
+                             That's Only 35 Months!
+
+               10,695   Total Project Gutenberg eBooks
+                6,519   eBooks This Week Last Year
+                 ====
+                4,176   New eBooks In Last 12 Months
+
+                  304   eBooks From Project Gutenberg of Australia!!!
+
+
+
+* * * * * Project Gutenberg's Main URL is gutenberg.net  * * * * * *
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+***
+
+                           FLASHBACK!!!
+
+                  3952 New eBooks So Far in 2003
+
+              It took us 31 years for the first 3952 !
+
+       That's the 49 WEEKS of 2003 as Compared to ~31 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #3952
+
+
+Apr 2003 Entire PG Edition of The French Immortals  [IM#87][imewkxxx.xxx] 4000
+Apr 2003 Entire An "Attic" Philosopher by Souvestre [IM#86][im86bxxx.xxx] 3999
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v3 [IM#85][im85bxxx.xxx] 3998
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v2 [IM#84][im84bxxx.xxx] 3997
+Apr 2003 An "Attic" Philosopher by E. Souvestre, v1 [IM#83][im83bxxx.xxx] 3996
+
+Apr 2003 The Entire Madame Chrysantheme by Loti     [IM#82][im82bxxx.xxx] 3995
+Apr 2003 Madame Chrysantheme by Pierre Loti, v4     [IM#81][im81bxxx.xxx] 3994
+Apr 2003 Madame Chrysantheme by Pierre Loti, v3     [IM#80][im80bxxx.xxx] 3993
+Apr 2003 Madame Chrysantheme by Pierre Loti, v2     [IM#79][im79bxxx.xxx] 3992
+Apr 2003 Madame Chrysantheme by Pierre Loti, v1     [IM#78][im78bxxx.xxx] 3991
+
+Apr 2003 The Entire Conscience by Hector Malot      [IM#77][im77bxxx.xxx] 3990
+Apr 2003 Conscience by Hector Malot, v4             [IM#76][im76bxxx.xxx] 3989
+Apr 2003 Conscience by Hector Malot, v3             [IM#75][im75bxxx.xxx] 3988
+Apr 2003 Conscience by Hector Malot, v2             [IM#74][im74bxxx.xxx] 3987
+Apr 2003 Conscience by Hector Malot, v1             [IM#73][im73bxxx.xxx] 3986
+
+Apr 2003 The Entire Gerfaut by Charles de Bernard   [IM#72][im72bxxx.xxx] 3985
+Apr 2003 Gerfaut by Charles de Bernard, v4          [IM#71][im71bxxx.xxx] 3984
+Apr 2003 Gerfaut by Charles de Bernard, v3          [IM#70][im70bxxx.xxx] 3983
+Apr 2003 Gerfaut by Charles de Bernard, v2          [IM#69][im69bxxx.xxx] 3982
+Apr 2003 Gerfaut by Charles de Bernard, v1          [IM#68][im68bxxx.xxx] 3981
+
+Apr 2003 The Entire Fromont and Risler, by Daudet   [IM#67][im67bxxx.xxx] 3980
+Apr 2003 Fromont and Risler by Alphonse Daudet, v4  [IM#66][im66bxxx.xxx] 3979
+. . .
+Apr 2003 Fromont and Risler by Alphonse Daudet, v1  [IM#63][im63bxxx.xxx] 3976
+
+Apr 2003 Entire The Ink-Stain by Rene Bazin         [IM#62][im62bxxx.xxx] 3975
+Apr 2003 The Ink-Stain by Rene Bazin, v3            [IM#61][im61bxxx.xxx] 3974
+. . .
+Apr 2003 The Ink-Stain by Rene Bazin, v1            [IM#59][im59bxxx.xxx] 3972
+Apr 2003 Entire Jacqueline by Bentzon (Mme. Blanc)  [IM#58][im58bxxx.xxx] 3971
+
+Apr 2003 Jacqueline by Th. Bentzon (Mme. Blanc), v3 [IM#57][im57bxxx.xxx] 3970
+. . .
+Apr 2003 Jacqueline by Th. Bentzon (Mme. Blanc), v1 [IM#55][im55bxxx.xxx] 3968
+Apr 2003 Entire Cosmopolis by Paul Bourget          [IM#54][im54bxxx.xxx] 3967
+Apr 2003 Cosmopolis by Paul Bourget, v4             [IM#53][im53bxxx.xxx] 3966
+
+Apr 2003 Cosmopolis by Paul Bourget, v3             [IM#52][im52bxxx.xxx] 3965
+. . .
+Apr 2003 Cosmopolis by Paul Bourget, v1             [IM#50][im50bxxx.xxx] 3963
+Apr 2003 Entire Romance of Youth by Francois Coppee [IM#49][im49bxxx.xxx] 3962
+Apr 2003 A Romance of Youth by Francois Coppee, v4  [IM#48][im48bxxx.xxx] 3961
+. . .
+Apr 2003 A Romance of Youth by Francois Coppee, v1  [IM#45][im45bxxx.xxx] 3958
+Apr 2003 Entire L'Abbe Constantin by Ludovic Halevy [IM#44][im44bxxx.xxx] 3957
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v3    [IM#43][im43bxxx.xxx] 3956
+
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v2    [IM#42][im42bxxx.xxx] 3955
+Apr 2003 L'Abbe Constantin by Ludovic Halevy, v1    [IM#41][im41bxxx.xxx] 3954
+Apr 2003 The Entire Cinq Mars, by Alfred de Vigny   [IM#40][im40bxxx.xxx] 3953
+Apr 2003 Cinq Mars, by Alfred de Vigny, v6          [IM#39][im39bxxx.xxx] 3952
+Apr 2003 Cinq Mars, by Alfred de Vigny, v5          [IM#38][im38bxxx.xxx] 3951
+
+Apr 2003 Cinq Mars, by Alfred de Vigny, v4          [IM#37][im37bxxx.xxx] 3950
+. . .
+Apr 2003 Cinq Mars, by Alfred de Vigny, v1          [IM#34][im34bxxx.xxx] 3947
+Apr 2003 Entire Monsieur de Camors by Oct. Feuillet [IM#33][im33bxxx.xxx] 3946
+
+Apr 2003 Monsieur de Camors by Octave Feuillet, v3  [IM#32][im32bxxx.xxx] 3945
+. . .
+Apr 2003 Monsieur de Camors by Octave Feuillet, v1  [IM#30][im30bxxx.xxx] 3943
+Apr 2003 Entire Child of a Century, Alfred de Musset[IM#29][im29bxxx.xxx] 3942
+Apr 2003 Child of a Century, Alfred de Musset, v3   [IM#28][im28bxxx.xxx] 3941
+. . .
+Apr 2003 Child of a Century, Alfred de Musset, v1   [IM#26][im26bxxx.xxx] 3939
+Apr 2003 Entire A Woodland Queen, by Andre Theuriet [IM#25][im25bxxx.xxx] 3938
+Apr 2003 A Woodland Queen, by Andre Theuriet, v3    [IM#24][im24bxxx.xxx] 3937
+. . .
+Apr 2003 A Woodland Queen, by Andre Theuriet, v1    [IM#22][im22bxxx.xxx] 3935
+Apr 2003 The Entire Zebiline by Phillipe de Masa    [IM#21][im21bxxx.xxx] 3934
+Apr 2003 Zebiline by Phillipe de Masa, v3           [IM#20][im20bxxx.xxx] 3933
+. . .
+Apr 2003 Zebiline by Phillipe de Masa, v1           [IM#18][im18bxxx.xxx] 3931
+
+Apr 2003 The Entire Prince Zilah by Jules Claretie  [IM#17][im17bxxx.xxx] 3930
+Apr 2003 Prince Zilah, by Jules Claretie, v3        [IM#16][im16bxxx.xxx] 3929
+. . .
+Apr 2003 Prince Zilah, by Jules Claretie, v1        [IM#14][im14bxxx.xxx] 3927
+Apr 2003 The Entire M, Mme and Bebe, by Gustave Droz[IM#13][im13bxxx.xxx] 3926
+
+Apr 2003 Monsieur, Mme, and Bebe, by Gustave Droz v3[IM#12][im12bxxx.xxx] 3925
+. . .
+Apr 2003 Monsieur, Mme, and Bebe, by Gustave Droz v1[IM#10][im10bxxx.xxx] 3923
+[Title of the above:  Monsieur, Madame, and Bebe]
+Apr 2003 Entire The Red Lily, by Anatole France     [IM#09][im09bxxx.xxx] 3922
+Apr 2003 The Red Lily, by Anatole France, v3        [IM#08][im08bxxx.xxx] 3921
+. . .
+Apr 2003 The Red Lily, by Anatole France, v1        [IM#06][im06bxxx.xxx] 3919
+Apr 2003 The Entire Serge Panine, by Georges Ohnet  [IM#05][im05bxxx.xxx] 3918
+Apr 2003 Serge Panine, by Georges Ohnet, v4         [IM#04][im04bxxx.xxx] 3917
+. . .
+Apr 2003 Serge Panine, by Georges Ohnet, v1         [IM#01][im01bxxx.xxx] 3914
+Apr 2003 Entire Confessions of J.J.Rousseau/Book 13 [JJ#13][jj13bxxx.xxx] 3913
+. . .
+Apr 2003 The Confessions of J. J. Rousseau, Book 1  [JJ#01][jj01bxxx.xxx] 3901
+[Author:  Jean Jacques Rousseau]
+
+Mar 2003 The Entire Court Memoirs of France Series  [CM#63][cm63bxxx.xxx] 3900
+
+***
+
+Today Is Day #343 of 2003
+This Completes Week #49
+   28 Days/04 Weeks To Go  [We get 53 Wednesdays this year]
+ 9300 Books To Go To #20,000 [18 months from 7 weeks ago]
+      We're hoping to do this in 80 to 100 weeks
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #8 Of Our *SECOND* 10,000 eBooks
+
+   81   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM PROJECT GUTENBERG:
+
+Please see Part 3 of this newsletter for a listing of our most recent
+eBooks and for information on "Instant" Access, locating mirrors, etc.
+Also, be sure to visit http://gutenberg.net where you can also learn
+more about accessing the entire collection, including searching by title,
+author, language and subject.
+
+
+*** HAVE WE GIVEN AWAY A TRILLION BOOKS/DOLLARS YET???
+
+Statistical Review
+
+In the 49 weeks of this year, we have produced 3957 new eBooks.
+It took us from 1971 to 2000 to produce our FIRST 3957 eBooks!!!
+
+         That's 49 WEEKS as Compared to ~31 YEARS!!!
+
+
+With 10,700 eBooks online as of December 10, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.93 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.53 when we had 6267 eBooks A Year Ago
+
+Can you imagine 10,000 books each costing 1/3 less a year later???
+
+At 10,700 eBooks in 32 Years and 5.20 Months We Averaged
+      330 Per Year   [We do more per than that month these days!]
+       27.5 Per Month
+      .90 Per Day
+
+At 3,957 eBooks Done In The 343 Days Of 2003 We Averaged
+     11.5 Per Day
+     80.7 Per Week
+    353.3 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 1st was
+the first Wednesday of 2003, and thus ended PG's production
+year of 2002 and began the production year of 2003 at noon.
+
+This year there will be 53 Wednesdays, thus one extra week.
+
+
+***Headline News***
+
+[Michael Hart's Comments In Brackets]
+
+From Newsscan:
+
+[Another Way To Keep Anyone From Buying Their Pills For Lower Prices?]
+
+BAR CODES ON DRUGS
+Pfizer Inc. is now placing tiny versions of supermarket bar codes on blister
+packs of Dilantin, Lipitor and other pills sold to hospitals, and Abbott
+Laboratories is putting bar codes on injected drugs. The FDA will soon be
+issuing new rules forcing all manufacturers to begin phasing in bar codes on
+hospital-sold drugs, although hospitals won't be required to use the codes.
+(AP/USA Today 8 Dec 2003)
+http://www.usatoday.com/tech/news/2003-12-08-bar-coded-drugs_x.htm
+
+[Remember, You Heard It Here First, Before Now]
+[AND. . .THEY ARE ADMITTING THAT DIGITAL REPLICATION IS FOR *THEM*. . .
+BUT ALL THE WHILE THEY PASS LAWS THAT KEEP US FROM REPLICATING WHAT WAS
+*LEGAL* TO COPY BEFORE ALL THE COPYRIGHT EXTENSIONS!!!]
+
+THE NEW ECONOMY IS BACK -- BUT NOT THE JOBS
+The latest economic indicators -- rising productivity, fewer jobs -- could
+signal a vindication for all those IT managers who spent big bucks on
+technology improvements in the last decade, says Fortune columnist David
+Kirkpatrick: "We may be entering the second great technology boom. The
+first one, of the late '90s, was a boom in expectations, which pushed up
+stock valuations and investor enthusiasm in the belief that the new
+technologies born of the Internet would fundamentally transform the
+economy^E Contrary to what over-eager investors thought in the '90s, the
+users of the technology, not the producers, will be the bigger
+beneficiaries." Comparing today's corporate processes with those existing
+the last time the U.S. emerged from a recession, there are striking
+differences. Today, most large manufacturers have built a significant,
+sophisticated enterprise resource planning (ERP) infrastructure to automate
+the supply chain and provide real-time data on inventory and profits.
+E-commerce is now routine -- both for manufacturing giants and for
+consumers. Communication among workers both within corporations and between
+companies is now automated via e-mail and Web portals, speeding the
+implementation of corporate edicts and the fulfillment of business orders.
+Meanwhile the casualty of all this efficiency has been jobs -- about 2
+million eliminated in the last two years in the U.S. as companies
+streamline processes and outsource functions to overseas workers. And
+that's not likely to change, says Kirkpatrick, who warns, "To keep your job
+in this new world, you'd better be doing something that benefits from a
+digitized economy." (Fortune.com 4 Dec 2003)
+http://www.cnn.com/2003/TECH/ptech/12/04/fortune.ff.real.boom/index.html
+
+NEGOTIATORS DRAFT GLOBAL INTERNET GROUND RULES
+Participants from 192 countries have succeeded in narrowing their
+differences on the issue of how best to expand the Internet, but remain
+undecided as to whether rich nations should foot the entire bill.
+"Unfortunately, we didn't settle everything, but one has to be realistic.
+We're probably at 98%," says Marc Furrer, the Swiss official who brokered
+the negotiations prior to the start of the three-day World Summit on the
+Information Society on Wednesday. More than 60 heads of state will attend
+the U.N.-sponsored meeting and the hope has been to have draft agreements
+prepared ahead of time for approval. African nations are advocating the
+creation of a special "digital solidarity fund" to pay for expanding
+Internet access to remote villages, but the U.S., Japan and European
+countries have suggested that existing development aid should be used to
+accomplish that. Meanwhile, negotiators have agreed to include in their
+proposals wording supporting the commitment to press freedom taken from the
+U.N.'s Universal Declaration of Human Rights, and to maintain the status
+quo on Internet governance, with the core systems based in the U.S. and
+managed by ICANN. The declaration also calls on governments to work
+together to combat spam and improve Internet security. (AP 8 Dec 2003)
+http://apnews.excite.com/article/20031208/D7VA8D480.html
+
+SUMMIT PARTICIPANTS FACE 500-FOOT-HIGH VIRTUAL BILLBOARD
+Participants at this week's World Summit on the Information Society will be
+greeted by a 500-foot-high laser-light display that will beam thousands of
+SMS messages onto a wall of water formed by the shooting jets of Lake
+Geneva's Jet d'Eau, the world's tallest fountain. Internet users will be
+able to post their messages almost instantly onto the fountain display, or
+onto the northern fagade of the U.N. building in New York, a mountain face
+in Rio de Janiero, or the front of a Bombay skyscraper. It's all part of
+the Helloworld Project, the brainchild of Swiss Web designer Johannes Gees,
+and is similar to a smaller version he debuted at the 2001 World Economic
+Forum in Davos. "The idea is to use the media to allow people to get their
+message across to powerful people," says Gees. "With this project's
+intervention into public space, I give people who don't have money the
+power to be present in a big, visible way." Requests from governments to
+edit the messages have been refused, although Gees says his 12 multilingual
+editors will screen out messages with personal insults, commercial content,
+racism or sexism. He's also discouraging people from sending "Hi,
+Mom!"-type messages. (Wired.com 8 Dec 2003)
+http://www.wired.com/news/technology/0,1282,61103,00.html?tw=wn_tophead_3
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+From Edupage
+
+FEDERAL AID RULES WAIVED FOR FIVE DISTANCE-ED PROVIDERS
+The Department of Education has expanded the list of institutions
+exempt from the 50-percent rule, which denies federal aid to students
+of programs that teach more than half their courses at a distance or
+enroll more than half of their students as distance students. The rule
+was designed to discourage distance education programs that were not
+reputable, but critics have complained that the rule stifles
+development of legitimate programs. Added to the list of exempted
+institutions as part of the Distance Education Demonstration Program
+are the College of Court Reporting Inc., Graceland University, Jones
+International University, National Technological University Inc., and
+Northcentral University, bringing the total to 29. The demonstration
+program will continue through 2005, though there are currently
+proposals before Congress to permanently ease the 50-percent rule.
+Chronicle of Higher Education, 8 December 2003 (sub. req'd)
+http://chronicle.com/prm/weekly/v50/i16/16a03102.htm
+
+TASK FORCE URGES BETTER FEDERAL INFORMATION SHARING
+A report issued by the Markle Foundation calls on the federal
+government to move away from the "Cold War" mentality of its current
+approach to national security and open networks to a range of law
+enforcement officials. The report, "Creating A Trusted Information
+Network for Homeland Security," was written by a task force co-chaired
+by James Barksdale, former CEO of Netscape. The task force argues that
+the intense level of security applied by federal officials is no longer
+appropriate for the risks of today. Rather than hiding information
+inside its own networks, the federal government should share that
+information with state and local governments. The report also
+encourages cooperation with the private sector in sharing information
+to protect national security, but cautions that such sharing would need
+to protect civil liberties.
+InformationWeek, 5 December 2003
+http://www.informationweek.com/
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+MORE REASONS WHY THE U.S. JOB MARKET LOOKS SO GRIM
+
+Some recent research polls have indicated that of the jobs
+advertised in U.S. newspapers, some 90% are given to those
+who were already friends and acquaintances of the members
+of the job search panels and committees.
+
+***
+
+HUGE GOVERMENT "PORK" EARMARKING PROBLEM
+
+As you probably heard, the funding bill for thousands of
+"pork barrel" projects was NOT passed today, and so won't
+come up again until January 20.
+
+What you may NOT have heard was the literally THOUSANDS
+of reasons it wasn't passed, the silliest things money
+can buy. . .or can't, in this case.
+
+However, the Republician party leaders made a comment
+that due to this dereliction of duty by the Democrats,
+many people will not get flu vaccinations this year.
+
+Sorry to say, but as far as I know, this is pure hokum.
+
+Doctors told me several things in total contradiction:
+
+1.  Flu vaccinations are mostly given before this time.
+
+2.  The vaccines we have this year aren't particularly
+    well targeted at the the specific flu we have now.
+
+3.  It would take until well after the flu season for
+    more vaccines to be made.  It's a long slow thing.
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_12_10_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_12_10_part_1.txt</a>

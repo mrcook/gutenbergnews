@@ -1,0 +1,888 @@
+From - Thu Jan 16 08:58:09 2003
+Return-path: <bounce-gweekly-1355623@listserv.unc.edu>
+Date: Thu, 16 Jan 2003 11:40:52 -0500 (EST)
+From: Michael Hart <hart@beryl.ils.unc.edu>
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+Sender: bounce-gweekly-1355623@listserv.unc.edu
+To: Project Gutenberg Weekly Newsletter <gweekly@listserv.unc.edu>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+X-Message-Id: <Pine.GSO.4.51.0301161140220.24976@beryl.ils.unc.edu>
+List-Owner: <mailto:owner-gweekly@listserv.unc.edu>
+List-Subscribe: <mailto:subscribe-gweekly@listserv.unc.edu>
+X-List-Host: The UNC List Server
+
+PGWeekly_January_15.txt
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, January 15, 2003*
+******eBooks Readable By Both Humans and Computers For Over 31 Years******
+
+***
+
+Last Week We Said:
+
+"This is rather an *emergency* edition of the newsletter, as a LOT of email
+has been lost, and many functions of my mainframe are not back online so I
+am VERY limited in what and how I can do things right now."
+
+We ended up with one less than we thought, so last week's total was 26 and
+the grand total was 6,769.  Also reported 105 new eBooks, there were 115 !
+
+My apologies for the errors, it was a challenge just doing the Newsletter.
+
+***
+
+Also, you may note we are working up a slightly new Newsletter format, and
+your suggestions and comments are important to us; let us now how you feel.
+We have combined most of the statistical information into one section, and
+thus reduced much of the redundancy.
+
+***
+
+Over Our 31 1/2 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And This Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+Current Progress:
+                   71   New eBooks This Week
+                   26   New eBooks Last Week
+                   97   New eBooks This Month [Jan]
+
+Recent Progress:
+                   43   New This Week of 2002
+                  200   New This Month of 2002
+                  203   Average Per Month in 2002
+                  103   Average Per Month in 2001
+
+Yearly Totals:
+                   97   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+Grand Totals:
+                2,464   New eBooks In The Last 12 Months
+                4,376   eBooks This Time Last Year
+                6,840   Total Project Gutenberg eBooks
+                  151   eBooks From Project Gutenberg of Australia
+
+
+    ***Week 25 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+             It took us 22 years to do the first 97!!!
+
+         That's 2 WEEKS of 2003 as Compared to 22 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #97
+
+Jan 1994 Hacker Crackdown by Bruce Sterling                [hackxxxx.xxx] 101C
+Jan 1994 The Complete Works of William Shakespeare [LOF]   [shaksxxx.xxx] 100C
+Jan 1994 Collected Articles of Frederick Douglass, a Slave [dugl2xxx.xxx]  99
+Jan 1994 A Tale of Two Cities, by Charles Dickens [CD#1]   [2cityxxx.xxx]  98
+
+Jan 1994 Flatland, by Edwin A. Abbott [Math in Fiction]    [flatxxxx.xxx]  97
+
+Jan 1994 The Monster Men, by Edgar Rice Burroughs  [ERB #1][monstxxx.xxx]  96
+Dec 1993 The Prisoner of Zenda, by Anthony Hope            [zendaxxx.xxx]  95
+Dec 1993 Alexander's Bridge, by Willa Cather [Cather #3]   [alexbxxx.xxx]  94
+Dec 1993 Tom Sawyer Detective, by Mark Twain        [MT#06][sawy3xxx.xxx]  93
+Dec 1993 Tarzan, Jewels of Opar, E.R. Burroughs [Tarzan #5][tarz5xxx.xxx]  92
+Nov 1993 Tom Sawyer Abroad, by Mark Twain           [MT#05][sawy2xxx.xxx]  91
+Nov 1993 Son of Tarzan, Edgar Rice Burroughs    [Tarzan #4][tarz4xxx.xxx]  90
+Nov 1993 NAFTA, Treaty, Annexes, Tariffs [from September]  [naftxxxx.xxx]  89
+Nov 1993 Price/Cost Indexes from 1875 to 1989 [Est to 2010][pricexxx.xxx]  88
+Oct 1993 The 1993 CIA World Factbook, [CIA Factbook #3]    [world93x.xxx]  87
+Oct 1993 A Connecticut Yankee, by Mark Twain        [MT#04][yankexxx.xxx]  86
+Oct 1993 Beasts of Tarzan, Edgar Rice Burroughs [Tarzan #3][tarz3xxx.xxx]  85
+Oct 1993 Frankenstein, by Mary Wollstonecraft Shelley      [frankxxx.xxx]  84
+Sep 1993 From the Earth to the Moon, Jules Verne [verne#1] [moonxxxx.xxx]  83
+Sep 1993 Ivanhoe, Walter Scott [#1]  OBI/Wiretap/Gutenberg [ivnhoxxx.xxx]  82
+
+
+Today Is Day #14 of 2003
+357 Days/51 Weeks To Go
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+
+Week #38 Of Our SECOND 5,000 eBooks
+
+In December, Perhaps Our 10,000th eBook!
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+    71 New eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Project Gutenberg and other ebooks are listed in The eBook Catalog
+http://theebookcatalog.com
+
+***
+
+Requests For Assistance:
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+Contact Debbie Dvornik
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  <<<We're Doing Einstein!!!
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. <mr_der@hotmail.com> is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+From: Miranda van de Heijning <m_vandeheijning@yahoo.com>
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+century books of A'bp Whately     Please contact:  david@whateley.org
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+
+RESERVED count:   39
+
+TOTAL COUNT ***Last Week***:            6,769 (incl. 151 Aus.)
++71 New This Week
+
+TOTAL COUNT ***as of Wed 01/15/03***:   6,840 (incl. 151 Aus.)
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook is being re-indexed to reflect the author's correct
+name ("Townsend", not "Townhend"):
+Oct 2004 John Wilkes Booth, by George Alfred Townsend      [jwbthxxx.xxx]6628
+
+The following eBook is being re-indexed to reflect volume information:
+Aug 2004 American Wit And Humor, Ed. by T. L. Masson       [mrcwhxxx.xxx]6313
+[Full title: Masterpieces Of American Wit And Humor, Vol. IV]
+[Full editor: Thomas L. Masson]
+
+We have posted the following in new formats as indicated:
+Jul 2003 A Portrait of the Artist as a Young Man, Joyce[#3][prtrtxxx.xxx]4217
+[HTML available in prtrt10h.htm and prtrt10h.zip]
+Apr 1999 Story Of Waitstill Baxter, by Kate D. Wiggin [#10][tsowbxxx.xxx]1701
+[HTML version in tsowb10h.htm and tsowb10h.zip]
+
+We have posted an improved 11th Edition of the following:
+Jul 2004 Copyright Renewals 1957,US Copyright Office   [#5][r1957xxx.xxx]6161
+Jan 1997 When the Sleeper Wakes, by H.G. Wells   [Wells #7][wtslwxxx.xxx] 775
+
+
+***] 71 NEW POSTS [***
+
+Oct 2004 Revolt of Netherlands, by F. Schiller, Complete   [fs20wxxx.xxx]6780
+[Author: Frederich Schiller][Contains: Etext #6776-6779]
+Oct 2004 Revolt of Netherlands, by F. Schiller,   Book IV  [fs19wxxx.xxx]6779
+Oct 2004 Revolt of Netherlands, by F. Schiller,   Book III [fs18wxxx.xxx]6778
+Oct 2004 Revolt of Netherlands, by F. Schiller,   Book II  [fs17wxxx.xxx]6777
+Oct 2004 Revolt of Netherlands, by F. Schiller,   Book I   [fs16wxxx.xxx]6776
+
+Oct 2004 The Thirty Years War, by F. Schiller,  Complete   [1jcfsxxa.xxx]6775
+[Author: Frederich Schiller][Contains: Etext #6770-6774]
+[See also: Jun 1996 1jcfsxxx.xxx  #566]
+Oct 2004 The Thirty Years War, by F. Schiller,    Book V   [fs14wxxx.xxx]6774
+Oct 2004 The Thirty Years War, by F. Schiller,    Book IV  [fs13wxxx.xxx]6773
+Oct 2004 The Thirty Years War, by F. Schiller,    Book III [fs12wxxx.xxx]6772
+Oct 2004 The Thirty Years War, by F. Schiller,    Book II  [fs11wxxx.xxx]6771
+
+Oct 2004 The Thirty Years War, by F. Schiller,    Book I   [fs10wxxx.xxx]6770
+
+
+Oct 2004 Tales of the Jazz Age, by F. Scott Fitzgerald     [?tjzzxxx.xxx]6695
+[7-bit version with non-accented characters in 7tjzz10.txt and 7tjzz10.zip]
+[8-bit version with accented characters in 8tjzz10.txt and 8tjzz10.zip]
+[UTF-8 version with accented characters in 8tjzz10u.txt and 8tjzz10u.zip]
+Oct 2004 In Midsummer Days and Other Tales,by A. Strindberg[?mdotxxx.xxx]6694
+[Author's Full Name: August Strindberg]
+[7-bit version with non-accented characters in 7mdot10.txt and 7mdot10.zip]
+[8-bit version with accented characters in 8mdot10.txt and 8mdot10.zip]
+Oct 2004 People of Africa, by Edith A. How                 [pplffxxx.xxx]6693
+Oct 2004 Swiss Family Robinson/One Syllable, by Godolphin  [sfrosxxx.xxx]6692
+[Full Title: The Swiss Family Robinson Told in Words of One Syllable]
+[Author's Full Name: Mary Godolphin]
+Oct 2004 Discours civiques de Danton,Georges Jacques Danton[?dscsxxx.xxx]6691
+[7-bit version with non-accented characters in 7dscs10.txt and 7dscs10.zip]
+[8-bit version with accented characters in 8dscs10.txt and 8dscs10.zip]
+[UTF-8 version with accented characters in 8dscs10u.txt and 8dscs10u.zip]
+[Language: French]
+
+Oct 2004 The Revolution in Tanner's Lane,by M. Rutherford[6][rvtnxxx.xxx]6690
+[Author's Full Name: Mark Rutherford]
+[XHTML in rvtn10h.htm/.zip, text in rvtn10.txt/.zip]
+Oct 2004 Fielding, by Austin Dobson                        [fldngxxx.xxx]6689
+Oct 2004 The Mill on the Floss, by George Eliot   [Eliot#6][mlflsxxx.xxx]6688
+[Plain text in mlfls10.txt/.zip, Unicode UTF-8 in mlfls10u.txt/.zip]
+[HTML in mlfls10h.zip - zipped-file only]
+Oct 2004 From the Caves and Jungles of Hindostan, Blavatsky[cavesxxx.xxx]6687
+[Author's Full Name: Helena Pretrovna Blavatsky]
+Oct 2004 The Gardener, by Rabindranath Tagore    [Tagore#9][thgnrxxx.xxx]6686
+
+Oct 2004 Story Hour Readers Book Three, by Coe & Christie  [sthr3xxx.xxx]6685
+[Full author: Ida Coe and Alice J. Christie]
+[HTML also posted in sthr310h.htm/.zip]
+Oct 2004 Uneasy Money, by P.G. Wodehouse      [Wodehouse#9][nsmnyxxx.xxx]6684
+Oct 2004 The Little Nugget, by P.G. Wodehouse [Wodehouse#8][ltnggxxx.xxx]6683
+Oct 2004 Nets to Catch the Wind, by Elinor Wylie           [ntctwxxx.xxx]6682
+Oct 2004 Sganarelle, by Moliere                [Moliere#14][?sgnlxxx.xxx]6681
+
+Oct 2004 The Bores, by Moliere                 [Moliere#13][?thbrxxx.xxx]6680
+Oct 2004 The Old Stone House, by Anne March                [tldshxxx.xxx]6679
+Oct 2004 Nonsenseorship, by G. G. Putnam                   [nsnssxxx.xxx]6678
+Oct 2004 Seventy-Five Receipts, by Miss Leslie             [svfvrxxx.xxx]6677
+[Full title: Seventy-Five Receipts for Pastry Cakes, and Sweetmeats]
+Oct 2004 Rosy, by Mrs. Molesworth                          [rsymlxxx.xxx]6676
+
+Oct 2004 The Loss of the SS. Titanic, by Lawrence Beesley  [lsttnxxx.xxx]6675
+Oct 2004 Umbrellas and their History, by William Sangster  [mbrllxxx.xxx]6674
+Oct 2004 Young Knights of the Empire,by Robert Baden-Powell[ynkgtxxx.xxx]6673
+[Full author: Sir Robert Baden-Powell]
+Oct 2004 The Caesars, by Thomas de Quincey            [#12][?csrsxxx.xxx]6672
+Oct 2004 Life of Edward Earl of Clarendon V2,by Henry Craik[dwclrxxx.xxx]6671
+
+Oct 2004 Christmas Eve, by Robert Browning     [Browning#4][chmsvxxx.xxx]6670
+Oct 2004 Godliness, by Catherine Booth                     [gdlnsxxx.xxx]6669
+Oct 2004 Annette, The Metis Spy, by Joseph Edmund Collins  [nnmtsxxx.xxx]6668
+Oct 2004 Poems of Power, by Ella Wheeler Wilcox  [Wilcox#12][ppowxxx.xxx]6667
+[XHTML in ppow10h.htm/.zip, text in ppow10.txt/.zip]
+Oct 2004 Hello, Boys!, by Ella Wheeler Wilcox    [Wilcox#11][helbxxx.xxx]6666
+[XHTML in helb10h.htm/.zip, text in helb10.txt/.zip]
+
+Oct 2004 The United States of America Part I, by E. Sparks [?usa1xxx.xxx]6665
+[Author's Full Name: Ediwn Erle Sparks]
+[Subtitle: 1783-1830]
+[7-bit version with non-accented characters in 7usa110.txt and 7usa110.zip]
+[8-bit version with accented characters in 8usa110.txt and 8usa110.zip]
+Oct 2004 The Story of a Child, by Pierre Loti      [Loti#9][fchldxxx.xxx]6664
+Oct 2004 Life in Canada Fifty Years Ago, by Canniff Haight [lcfyaxxx.xxx]6663
+[Subtitle: Personal Recollections and Reminiscences of a Sexagenarian]
+Oct 2004 Little Citizens, by Myra Kelly                    [lttlcxxx.xxx]6662
+[Subtitle: The Humours of School Life]
+Oct 2004 The Waverley Novels, Vol. XII, by W. Scott   [#29][wvr12xxx.xxx]6661
+[Author's Full Name: Sir Walter Scott]  [Note:  Abbotsford Edition]
+   Contents:
+     Tales Of My Landlord
+       Count Robert Of Paris
+       Castle Dangerous
+       My Aunt Margaret's Mirror
+       The Mirror
+       The Tapestried Chamber; Or, The Lady In The Sacque
+
+Oct 2004 Theological Essays and Other Papers v2      [TQ#9][teop2xxx.xxx]6660
+[Author's Full Name: Thomas de Quincey]
+Oct 2004 History of King Charles II of England,by J. Abbott[hkciixxx.xxx]6659
+[Author's Full Name: Jacob Abbott]
+Oct 2004 Owindia, by Charlotte Selina Bompas               [owindxxx.xxx]6658
+[Subtitle: A True Tale of the MacKenzie River Indians, North-West America]
+Oct 2004 The Theology of Holiness, by Dougan Clark         [?thssxxx.xxx]6657
+[7-bit version with non-accented characters in 7thss10.txt and 7thss10.zip]
+[8-bit version with accented characters in 8thss10.txt and 8thss10.zip]
+[HTML version in 8thss10h.htm and 8thss10h.zip]
+Oct 2004 The Kiltartan Poetry Book, by Lady Gregory        [tkpboxxx.xxx]6656
+[Subtitle: Prose Translations From the Irish]
+[HTML also posted in tkpbo10h.htm and tkpbo10h.zip]
+
+Oct 2004 Tom Slade, by Percy K. Fitzhugh                   [?sladxxx.xxx]6655
+[Subtitle: Boy Scout of the Moving Pictures]
+[7-bit version with non-accented characters in 7slad10.txt and 7slad10.zip]
+[8-bit version with accented characters in 8slad10.txt and 8slad10.zip]
+[HTML version in 8slad10h.txt and 8slad10h.zip]
+Oct 2004 Der Verschwender, by Ferdinand Raimund            [?rvrsxxx.xxx]6654
+[7-bit version with non-accented characters in 7rvrs10.txt and 7rvrs10.zip]
+[8-bit version with accented characters in 8rvrs10.txt and 8rvrs10.zip]
+[Language: German]
+Oct 2004 Voyages of Samuel de Champlain, Vol. 1,Champlain  [?vcv1xxx.xxx]6653
+[Author's Full Name: Samuel de Champlain]
+[7-bit version with non-accented characters in 7vcv110.txt and 7vcv110.zip]
+[8-bit version with accented characters in 8vcv110.txt and 8vcv110.zip]
+[UTF-8 version with accented characters in 8vcv110u.txt and 8vcv110u.zip]
+Oct 2004 The Humourous Poetry of the English Language      [thpelxxx.xxx]6652
+[Subtitle: From Chaucer to Saxe]  [Author's Full Name: James Parton]
+Oct 2004 Immensee, by Theodor W. Storm                     [?immgxxx.xxx]6651
+[7-bit version with non-accented characters in 7immg10.txt and 7immg10.zip]
+[8-bit version with accented characters in 8immg10.txt and 8immg10.zip]
+[Language: German]
+
+Oct 2004 Immensee, by Theodore W. Storm                    [?immexxx.xxx]6650
+[7-bit version with non-accented characters in 7imme10.txt and 7imme10.zip]
+[8-bit version with accented characters in 8imme10.txt and 8imme10.zip]
+Oct 2004 Einige Gedichte, by J. Schiller                   [?nggdxxx.xxx]6649
+[Author's Full Name: Johann Christoph Friedrich von Schiller]
+[7-bit version with non-accented characters in 7nggd10.txt and 7nggd10.zip]
+[8-bit version with accented characters in 8nggd10.txt and 8nggd10.zip]
+[Language: German]
+Oct 2004 Penthesilea, by Heinrich von Kleist               [?pnthxxx.xxx]6648
+[7-bit version with non-accented characters in 7pnth10.txt and 7pnth10.zip]
+[8-bit version with accented characters in 8pnth10.txt and 8pnth10.zip]
+[Language: German]
+Oct 2004 Der zerbrochene Krug, by Heinrich von Kleist      [?rzrbxxx.xxx]6647
+[7-bit version with non-accented characters in 7rzrb10.txt and 7rzrb10.zip]
+[8-bit version with accented characters in 8rzrb10.txt and 8rzrb10.zip]
+[Language: German]
+Oct 2004 Das Kaethchen von Heilbronn,by Heinrich von Kleist[?khnnxxx.xxx]6646
+[Subtitle: Oder, die Feuerprobe]
+[7-bit version with non-accented characters in 7khnn10.txt and 7khnn10.zip]
+[8-bit version with accented characters in 8khnn10.txt and 8khnn10.zip]
+[Language: German]
+
+Oct 2004 Ausgewaehlte Schriften, by Heinrich von Kleist    [?sgwhxxx.xxx]6645
+[7-bit version with non-accented characters in 7sgwh10.txt and 7sgwh10.zip]
+[8-bit version with accented characters in 8sgwh10.txt and 8sgwh10.zip]
+[Language: German]
+Oct 2004 Der Barometermacher auf der Zauberinsel,F. Raimund[?rbrmxxx.xxx]6644
+[Author's Full Name: Ferdinand Raimund]
+[7-bit version with non-accented characters in 7rbrm10.txt and 7rbrm10.zip]
+[8-bit version with accented characters in 8rbrm10.txt and 8rbrm10.zip]
+[Language: German]
+Oct 2004 Das Maedchen aus der Feenwelt,by Ferdinand Raimund[?mfeexxx.xxx]6643
+[Subtitle: Oder, Der Bauer als Millionaer]
+[7-bit version with non-accented characters in 7mfee10.txt and 7mfee10.zip]
+[8-bit version with accented characters in 8mfee10.txt and 8mfee10.zip]
+[Language: German]
+Oct 2004 Die gefesselte Phantasie, by Ferdinand Raimund    [?gfssxxx.xxx]6642
+[7-bit version with non-accented characters in 7gfss10.txt and 7gfss10.zip]
+[8-bit version with accented characters in 8gfss10.txt and 8gfss10.zip]
+[Language: German]
+Oct 2004 Maerchen und Sagen, by Ernst Moritz Arndt         [?maerxxx.xxx]6641
+[7-bit version with non-accented characters in 7maer10.txt and 7maer10.zip]
+[8-bit version with accented characters in 8maer10.txt and 8maer10.zip]
+[Language: German]
+
+Oct 2004 Maerchen-Almanach auf das Jahr 1828, Wilhelm Hauff[?alm3xxx.xxx]6640
+[7-bit version with non-accented characters in 7alm310.txt and 7alm310.zip]
+[8-bit version with accented characters in 8alm310.txt and 8alm310.zip]
+[Language: German]
+Oct 2004 Maerchen-Almanach auf das Jahr 1827, Wilhelm Hauff[?alm2xxx.xxx]6639
+[7-bit version with non-accented characters in 7alm210.txt and 7alm210.zip]
+[8-bit version with accented characters in 8alm210.txt and 8alm210.zip]
+[Language: German]
+Oct 2004 Maerchen-Almanach auf das Jahr 1826, Wilhelm Hauff[?alm1xxx.xxx]6638
+[7-bit version with non-accented characters in 7alm110.txt and 7alm110.zip]
+[8-bit version with accented characters in 8alm110.txt and 8alm110.zip]
+[Language: German]
+Oct 2004 Der Alpenkonig und der Menschenfeind,by F. Raimund[?alpnxxx.xxx]6637
+[Author's Full Name: Ferdinand Raimund]
+[7-bit version with non-accented characters in 7alpn10.txt and 7alpn10.zip]
+[8-bit version with accented characters in 8alpn10.txt and 8alpn10.zip]
+[Language: German]
+Oct 2004 Hold Up Your Heads, Girls!, by Annie H. Ryder     [huyhgxxx.xxx]6636
+[Subtitle: Helps for Girls, In School and Out.]
+
+***
+
+Statistical Review
+
+In the 2 weeks of this year, we have produced 97 new eBooks.
+Note: it took us from 1971 to 1993 to produce our *FIRST* 97 eBooks!!!
+
+         That's 2 WEEKS as Compared to 22 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003.
+
+With 6,840 eBooks online as of January 15, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.46 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $2.29 when we had 4376 eBooks A Year Ago
+
+Can you imagine 6,000 books each costing $.83 less a year later???
+Or. . .would this say it better?
+Can you imagine 6,000 books each costing 1/3 less a year later???
+
+At 6840 eBooks in 31 1/2 Years We Averaged
+    217 Per Year   [About how many we do per month these days!]
+     18 Per Month
+     .6 Per Day
+
+At 97 eBooks Done In 2003 We Averaged
+    7 eBooks Per Day
+   49 eBooks Per Week
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+Headlines From Newsscan
+
+[You might have heard this here first, only we weren't quite as tough
+on Mr. Case as was the New York Times, though he may have deserved it.]
+
+AOL TIME WARNER: SYNERGY/SHMINERGY
+The resignation of supersalesman and high-tech "visionary" Steve Case as
+chairman of AOL Time Warner marks an obvious admission of the failure of
+that company's merger, which was intended to create synergy between an "old
+economy" publishing and media empire and a "new economy" Internet venture.
+New York Times journalist Steve Lohr says the idea was for AOL to give Time
+Warner "sex" and Time Warner to give AOL "class." Industry analysts are now
+suggesting that the company will succeed only if it undergoes a serious
+attitude adjustment; Jordan Rohan of Soundview Technology Group says:
+"If AOL continues to tilt at windmills in terms of trying to generate
+spectacular growth, I think it will be a waste of shareholders' capital.
+If they begin to treat AOL as a mature business and focus on consistent
+returns, I think they can succeed. Case's departure could accelerate
+that shift."   (New York Times 14 Jan 2003)
+http://partners.nytimes.com/2003/01/14/business/media/14AOL.html
+
+MUSIC, TECH GROUPS REACH COMPROMISE ON COPYRIGHT ISSUES
+The Recording Industry Association of America, the Business Software
+Alliance and the Computer Systems Policy Project have hammered out a
+compromise agreement that they say will protect copyrights on music and
+movies without the need for further government intervention. The pact is
+intended to head off efforts by Congress to legislate the inclusion of
+government-approved copy restriction technology in all new "digital media
+devices." This latest agreement, described by participants as a "landmark
+consensus," politically isolates the powerful Motion Picture Association of
+America, which was noticeably absent from the negotiations. MPAA has
+aggressively advocated new government requirements for built-in locking
+controls on new devices, such as DVD players. (AP 14 Jan 2003)
+http://shorl.com/hydidrostobubri
+
+VCR TO GET NEW INITIALS: R.I.P.
+
+[You definitely heard this one here first!]
+
+The VCR is dead (or dying), long live the DVD (at least for a little while,
+for crying out loud). Stores like Circuit City and Barnes & Noble's either
+are sharply reducing their inventories of VHS tapes or no longer carrying
+them at all. (The video category of Best Buy's offerings is already more
+than 80% DVD.) And the storyline is the same out in Hollywood: MGM
+Entertainment's VHS library now numbers only 200 films (compared to 1,800
+at one previous point), and Columbia TriStar Home Entertainment is phasing
+out certain VHS catalog titles once they are released on DVD. Industry
+analyst Tom Adams says, "The issue was always will VHS have the stink of
+death of the eight-track tape. By now it's pretty clear that it will."
+(USA Today 14 Jan 2003)
+http://www.usatoday.com/tech/news/2003-01-13-vcr_x.htm
+
+U.S. TECH COMPANIES RANK LOW IN RECYCLING EFFORTS
+The Silicon Valley Toxics Coalition (SVTC) has released its annual Computer
+Report Card comparing the environmental records of 28 high-tech firms, and
+reports that most U.S. companies lag behind their Japanese competitors when
+it comes to recycling equipment and safe disposal of hazardous substances
+used in the manufacturing process. Of the companies surveyed, only Fujitsu
+received a passing grade. It's one of a handful of Japanese companies that
+has sought to eliminate toxic chemicals by developing and using lead-free
+products. "The leadership continues to be by and large the Japanese
+companies, and the U.S. companies tend to be far behind," says SVTC founder
+Ted Smith. "A lot of (U.S. manufacturers') initiatives are piecemeal and
+not really designed to address the vast majority of consumer concerns.
+There is still an enormous amount of computer waste being exported to
+China." The Computer Report Card notes that some U.S. companies use a
+double standard when it comes to recycling. Divisions located in Europe and
+Japan, where safe recycling is mandated by law, have implemented programs
+but their U.S. operations have not. Meanwhile, Congressman Mike Thompson
+(D-Calif.) has introduced a bill that would require the EPA to create
+grants for private and governmental organizations to develop computer
+recycling programs and the National Electronics Product Stewardship
+Initiative is working on a nationwide plan for recycling obsolete
+electronic devices. (Wired.com 10 Jan 2003)
+http://www.wired.com/news/technology/0,1282,57151,00.html
+
+IBM RENTS OUT SUPERCOMPUTING POWER
+
+[The Return of Timesharing!]
+
+IBM has launched a new program to rent out processing power on its
+supercomputers, and has signed up Petroleum Geo-Services, a petrochemical
+company, as its first customer. PGS has about 1,000 of its own
+dual-processor Linux computers clustered into a single computing resource,
+but it's renting another 400 from Big Blue, says a company spokesman. The
+new service reflects IBM's push toward "utility computing," which enables
+companies with fluctuating needs for computing power to pay for it as they
+use it. An e-commerce operation, for instance, may need to beef up its
+processing power during the busy holiday shopping season, but that demand
+drops off in January. IBM also expects to find many of its customers in the
+petrochemical and life sciences industries. (CNet News.com 8 Jan 2003)
+http://news.com.com/2100-1001-979780.html?tag=fd_top
+
+RETINAL SCANNING AT U.K. SCHOOL
+The Venerable Bede school in London will use advanced eye-recognition
+software to determine which students are to be billed for their lunches and
+which may eat for free because they are poor. The school decided to use the
+technology to protect poor children from being ridiculed by the more
+well-off children. [As an historical aside, it might be noted that the
+concern for poor would probably please the school's namesake. Venerable
+Bede, the 8th century monk best known for his history of ecclesiastical
+history, said on his deathbed: "I have a few treasures in my box, some
+pepper and napkins and incense. Run quickly and fetch the priests of our
+monastery, and I will share among them such little presents as God has
+given me."] The school's headmaster said that the software will also be
+used in the library for book check-out and return but added: "This is not a
+James Bond school for spies... This is not science fiction. This is
+technology that exists." (USA Today 9 Jan 2003)
+www.usatoday.com/tech/news/techinnovations/2003-01-08-retina-school_xhtm
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+
+>From Edupage
+
+WRITER OF DECSS PROGRAM ACQUITTED
+In a blow to the U.S. film industry, Norwegian teen Jon Lech Johansen
+was found innocent on all counts in a complaint filed against him for
+violating computer break-in laws by the U.S. Motion Picture Association
+and the DVD Copy Control Association in January 2000. Now 19, "DVD-Jon"
+was 15 when he wrote and posted on the Internet the DeCSS software,
+which decodes the Content Scrambling System (CSS) used by the film
+industry to prevent illegal copying of DVD films. CSS also prevents
+consumers from playing DVDs on certain devices, however, and from
+making legal copies of DVDs. Head Judge Irene Sogn ruled that there was
+no proof that Johansen or others had used the program for illegal
+purposes and that consumers have rights to DVDs obtained legally "even if
+the films are played in a different way than the makers had foreseen."
+No decision has been made about an appeal in the case.
+Washington Post, 7 January 2003
+http://www.washingtonpost.com/wp-dyn/articles/A20997-2003Jan7.html
+
+
+MICROSOFT BACKS AWAY FROM .NET BRANDING STRATEGY
+
+[Could this also be due to backlash from the "real" .net community?"]
+
+Less than six months after Microsoft announced that its next major
+operating system would be called "Windows .NET Server 2003," the
+company has decided to call the product simply "Windows Server 2003."
+The change is part of Microsoft's revised approach to marketing its
+NET technology, which is designed to support Web services. After
+several months of attaching the .NET tag to most of its products,
+Microsoft now will simply refer to those products as ".NET connected,"
+indicated with a logo. Ted Schadler of Forrester Research said
+Microsoft's strategy should never have been to lump everything under
+the .NET umbrella, which many consumers did not understand and found
+mysterious. The .NET technology included in Microsoft's products will
+not change, but the ".NET connected" logo can be applied to independent
+software vendors' products based on the technology, according to an
+official from Microsoft.
+Wall Street Journal, 10 January 2003 (sub. req'd)
+http://online.wsj.com/article/0,,SB1042210597413487704,00.html
+
+IBM TO PROVIDE SUPERCOMPUTING ON DEMAND
+
+More about "The New Timesharing"]
+
+IBM recently announced its supercomputing-on-demand service, targeted
+to businesses whose computing needs are cyclical, that offers an
+alternative to the costly practice of building and maintaining computer
+infrastructure used only during busy periods. The service uses a Linux
+cluster of rack servers based on Intel's Xeon processor or a network
+of UNIX servers running IBM's Power4 processors. Customers sign a
+contract with IBM detailing the project length and resources required,
+with price contingent on these factors. PGS Data Processing, an energy
+company, has signed up for the Linux-Intel service. The clusters are
+currently located at IBM's facility in Poughkeepsie, N.Y., with plans
+to roll the technology out to IBM data centers worldwide. IBM hopes to
+evolve the technology to the point where clients could access computer
+resources like "flipping a light switch."
+IDG, 9 January 2003
+http://www.idg.net/ic_1018994_9677_1-5044.html
+
+REPORT CHARGES E-RATE PROGRAM RIDDLED WITH FRAUD
+A report from the Center for Public Integrity says that the federal
+government's E-Rate program is rife with "fraud and financial
+shenanigans." The E-Rate program gives subsidies for telecommunications
+projects and is credited with bringing Internet access to thousands of
+schools and libraries that would otherwise have difficulty affording
+them. The report is based largely on information collected by the
+Federal Communications Commission (FCC), which, according to the author
+of the report, "found problems everywhere they've looked, and they
+haven't looked very hard." A review by Arthur Anderson uncovered
+several million dollars' worth of "inappropriate" payments under the
+program, and recently the first criminal charges were filed against a
+New York company for attempting to steal millions of dollars from the
+program through misrepresentation. The inspector general of the FCC
+said the program is "subject to unacceptably high risk of malfeasance."
+Representatives from the Universal Service Administrative Company,
+which administers E-Rate for the FCC, and from the American Library
+Association defended the program, arguing that although some abuse is
+likely, the problem is not excessive and may turn out to be less than
+indicated by the Center for Public Integrity's report.
+New York Times, 10 January 2003 (registration req'd)
+http://www.nytimes.com/2003/01/10/education/10FRAU.html
+
+PUBLISHER ACCEPTING DISSERTATIONS AND THESES ONLINE
+Developers of a new online-submission tool for dissertations and
+master's theses hope the system will make the submission
+process--required by most institutions--easier for students and will
+speed availability of the papers. ProQuest Information and Learning
+receives about 55,000 dissertations and theses each year, but only
+about 3,000 are submitted online. The $55 fee for submissions is the
+same for online and paper submissions, and some observers predicted
+that the ability to submit papers electronically will encourage
+students to include less traditional features in their work, such as
+embedded databases or audio and video files. The University of Texas at
+Austin, which has one of the nation's largest populations of graduate
+students, will begin testing the system this month, and it will be
+available to other institutions later this year.
+Chronicle of Higher Education, 10 January 2003
+http://chronicle.com/free/2003/01/2003011001t.htm
+
+NEW PLAGIARISM SERVICE FOR BRITISH UNIVERSITIES
+The Plagiarism Advisory Service, based at the University of
+Northumbria, is a new electronic plagiarism-detection service available
+to all British colleges and universities. Papers are returned four
+hours after being submitted to the service and are color-coded to
+indicate the level of matching to documents available on the Internet.
+Red indicates that more than 75 percent of the text has been copied,
+blue means less than 10 percent, and other colors are spread in
+between. Instructors also see which Web site(s) the copied content
+comes from. Because of the ease with which students can cut and paste
+content from the Web, plagiarism is a growing problem in the United
+Kingdom, as well as in many other parts of the world.
+Ananova, 8 January 2003
+http://www.ananova.com/news/story/sm_737513.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+

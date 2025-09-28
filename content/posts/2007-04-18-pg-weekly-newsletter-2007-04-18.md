@@ -1,0 +1,1003 @@
+---
+params:
+  id: 2491
+title: PG Weekly Newsletter (2007-04-18)
+date: 2007-04-18T13:42:58+00:00
+author: Michael Cook
+layout: post
+url: /20070418/pg-weekly-newsletter-2007-04-18/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>pgweekly_2007_04_18.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, April 18, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, i.e. Courier New.
+      Windows NotePad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+Visit www.gutenbergnews.org to read these news items.
+
+ * New York Times article mentioning PG
+ * Congratulations to PG of Australia on their 1500th eBook
+
+
+FEATURED NEWS
+-------------
+
+Congratulations to Project Gutenberg Australia for reaching ebook number #1500
+Here are some words from both Colin Choat and Michael Hart.
+
+
+                  MILESTONES AT PROJECT GUTENBERG OF AUSTRALIA
+                                by Colin Choat
+
+Recently we added ebook #1500 to our collection. One does not usually single
+out a volunteer for mention but it seems appropriate on this occasion.
+Significantly, the ebook was provided by Don Lainson of Canada and was his
+250th contribution to Project Gutenberg of Australia. When one considers that
+many of the titles making up our 1500 titles are short stories which appeared
+in magazines and periodicals, the 'weight' of Don's contribution is even more
+impressive.
+
+Don became a volunteer in 2001, soon after Project Gutenberg of Australia was
+started. His first book (our 14th) was 'Bush Studies' by Barbara Baynton.
+He soon followed up with works by Edgar Rice Burroughs, D H Lawrence, George
+Orwell and F Scott Fitfgerald and his book list is now an impressive one of
+classics and bestsellers, interspersed with lighter works. Don's work with
+Project Gutenberg of Australia followed a period during which he submitted
+books to Project Gutenberg in the United States.
+
+One does not boast a collection of 1500 ebooks without the help of MANY
+volunteers and there have been many who have submitted many books. One does not
+usually single out one name for recognition, for fear of overlooking others.
+I could not, however, let the occasion pass without acknowledgment of Don's
+contribution to the success of Project Gutenberg of Australia.
+
+Our ebook #1500 is 'A Scot's Quair' by Lewis Grassic Gibbon, a landmark work
+in Scottish literature, set against the background of the First World War and
+the industrial unrest and poverty of the nineteen thirties. 'A Scot's Quair'
+can be accessed from http://gutenberg.net.au/plusfifty-a-m.html#gibbon.
+
+
+           CONGRATULATIONS TO PG OF AUSTRALIA ON THEIR 1500TH EBOOK.
+
+Many thanks and congratulations to Project Gutenberg of Australia on their
+1500th eBook!!! Since it took me and many volunteers the years from
+1971 to 1998 to get from 1 to 1500, I can certainly do some serious
+appreciating of the effort and stamina required, and I also know a little
+of the volunteerism of Australia, though not nearly enough, I am sure.
+
+My most heartfelt congratulations!!!
+
+Michael S. Hart
+Founder, Project Gutenberg
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the Volunteers Wanted! Section at: https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad.
+
+You can access them by visiting;
+https://www.gutenbergnews.org/component/option,com_docman/Itemid,47/
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #105/364 | Week: #15 | Month: #03.50
+
+GRAND TOTALS
+
+21,090 [+104] Project Gutenberg
+ 1,507 [+ 11] PG Australia
+    66 [+  0] PG Europe 'Unique' | 441 [+ 3] Total (See NOTES)
+   381 [+  0] PG PrePrints
+=============
+23,044 [+115] GRAND TOTAL
+
+    43 - Reserved/Pending
+
+ 6,956 to go to 30,000 eBooks.
+   ~77% of the way to 30,000
+   ~30% of the way from 20,000 to 30,000
+
+ 1,896 [+ 6] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+  875 Project Gutenberg
+   53 PG Australian
+    4 PG Europe 'Unique' | 33 Total (See NOTES)
+    0 PG PrePrints
+=====
+  932 TOTAL [2007]
+
+   28 eBooks REposted to the new filing system.
+
+    * 56 new eBooks last week
+
+    * 171 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 62 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 269 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a speadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,226 [+37] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   6 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+The Provost, by John Galt                                                 1296
+   [Updated edition of etext98/prvst10.txt]
+   [Link: http://www.gutenberg.org/1/2/9/1296 ]
+   [Files: 1296.txt; 1296-h.htm]
+
+The Adventures of Louis de Rougemont, by Louis de Rougemont               1194
+   [Subtitle: as told by Himself]
+   [Updated edition of etext98/advlr10.txt]
+   [Link: http://www.gutenberg.org/1/1/9/1194 ]
+   [Files: 1194.txt; 1194-h.htm]
+
+From London to Land's End, by Daniel Defoe                                1149
+   [Editor: Henry Morley]
+   [Subtitle: and Two Letters from the "Journey through England by a
+      Gentleman"]
+   [Updated edition of etext97/lndle10.txt]
+   [Link: http://www.gutenberg.org/1/1/4/1149 ]
+   [Files: 1149.txt; 1149-h.htm]
+
+De Profundis, by Oscar Wilde                                               921
+   [Updated edition of etext97/drpof10.txt]
+   [Link: http://www.gutenberg.org/9/2/921 ]
+   [Files: 921.txt; 921-h.htm]
+
+Love of Life, by Jack London                                               710
+   [Subtitle: and Other Stories]
+   [Ill.: Charles Livingston Bull]
+   [Updated edition of etext96/llife10.txt]
+   [Link: http://www.gutenberg.org/7/1/710 ]
+   [Files: 710.txt; 710-h.htm]
+
+The Coral Island, by R. M. Ballantyne                                      646
+   [Subtitle: a Tale of the Pacific Ocean]
+   [Ill.: Dalziel]
+   [Updated edition of etext96/coril10.txt]
+   [Link: http://www.gutenberg.org/6/4/646 ]
+   [Files: 646.txt; 646-h.htm]
+
+
+---------[   4 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Corrected to indicate this text was volume one of a two volume set.
+The Loyalists of America and Their Times, by Edgerton Ryerson            21012
+   [Subtitle: Volume I (of II), From 1620-1816]
+   [Link: http://www.gutenberg.org/2/1/0/1/21012 ]
+   [Files: 21012.txt; 21012-8.txt; 21012-h.htm]
+
+Corrected author's name.
+The Blunders of a Bashful Man, by Metta Victoria Fuller Victor           20754
+   [Link: http://www.gutenberg.org/2/0/7/5/20754 ]
+   [Files: 20754.txt; 20754-8.txt; 20754-h.htm]
+
+This file has been corrected and reposted.
+Encyclopaedia Britannica, 11th Edition, Volume 4, Part 4, by Various     19846
+  [Subtitle: "Bulgaria" to "Calgary"]
+  [Link: http://www.gutenberg.org/1/9/8/4/19846 ]
+  [Files: 19846.txt; 19846-8.txt; 19846-h.htm]
+
+This file has been corrected and reposted.
+Encyclopaedia Britannica, 11th Edition, Volume 4, Part 3, by Various     19699
+   [Subtitle: "Brescia" to "Bulgaria"]
+   [Link: http://www.gutenberg.org/1/9/6/9/19699 ]
+   [Files: 19699.txt; 19699-8.txt; 19699-h.htm]
+
+
+---------[ 104 NEW PG EBOOK(S) ]------------------------------------------------
+
+True to his Colours, by Theodore P. Wilson                               21133
+  [Subtitle: The Life that Wears Best]
+  [Illustrator: D. A. Helm]
+  [Link: http://www.gutenberg.org/2/1/1/3/21133 ]
+  [Files: 21133.txt; 21133-h.htm]
+
+Frank Oldfield, by T.P. Wilson                                           21132
+  [Subtitle: Lost and Found]
+  [Link: http://www.gutenberg.org/2/1/1/3/21132 ]
+  [Files: 21132.txt; 21132-8.txt; 21132-h.htm]
+
+Amos Huntingdon, by T.P. Wilson                                          21131
+  [Link: http://www.gutenberg.org/2/1/1/3/21131 ]
+  [Files: 21131.txt; 21131-h.htm]
+
+Book of Wise Sayings, by W. A. Clouston                                  21130
+  [Subtitle: Selected Largely from Eastern Sources]
+  [Link: http://www.gutenberg.org/2/1/1/3/21130 ]
+  [Files: 21130.txt; 21130-8.txt; 21130-0.txt; 21130-h.htm]
+
+The Heart of Una Sackville, by Mrs. George de Horne Vaizey               21129
+  [Illustrator: Peter Tarrant]
+  [Link: http://www.gutenberg.org/2/1/1/2/21129 ]
+  [Files: 21129.txt; 21129-h.htm]
+
+Twenty Years of Congress, Vol. 1 (of 2), by James Gillespie Blaine       21128
+  [Subtitle: From Lincoln to Garfield, with a Review of the Events
+             Which Led to the Political Revolution of 1860]
+  [Link: http://www.gutenberg.org/2/1/1/2/21128 ]
+  [Files: 21128.txt; 21128-8.txt]
+
+The Mystics, by Katherine Cecil Thurston                                 21127
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.org/2/1/1/2/21127 ]
+  [Files: 21127.txt; 21127-8.txt; 21127-h.htm; ]
+  [Clearance: 20050926201417thurston]
+
+Chambers's Edinburgh Journal, No. 447, by Various                        21126
+  [Subtitle: Volume 18, New Series, July 24, 1852]
+  [Editor: William Chambers and Robert Chambers]
+  [Link: http://www.gutenberg.org/2/1/1/2/21126 ]
+  [Files: 21126.txt; 21126-8.txt; 21126-h.htm]
+
+The Boy Patriot, by Edward Sylvester Ellis                               21125
+  [Link: http://www.gutenberg.org/2/1/1/2/21125 ]
+  [Files: 21125.txt; 21125-h.htm; ]
+  [Clearance: 20070102091552ellis]
+
+Le fils du Soleil (1879), by Gustave Aimard                              21124
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/1/1/2/21124 ]
+  [Files: 21124-8.txt; 21124-doc.rtf; 21124-h.htm]
+
+English Literature and Society in the Eighteenth Century, by L. Stephen  21123
+  [Full author: Leslie  Stephen]
+  [Link: http://www.gutenberg.org/2/1/1/2/21123 ]
+  [Files: 21123.txt; 21123-8.txt; 21123-h.htm]
+
+
+More about Pixie, by Mrs. George de Horne Vaizey                         21122
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/1/2/21122 ]
+  [Files: 21122.txt; 21122-h.htm]
+
+A Houseful of Girls, by Mrs. George de Horne Vaizey                      21121
+  [Illustrator: Victor Prout]
+  [Link: http://www.gutenberg.org/2/1/1/2/21121 ]
+  [Files: 21121.txt; 21121-h.htm]
+
+The Fortunes of the Farrells, by Mrs. George de Horne Vaizey             21120
+  [Link: http://www.gutenberg.org/2/1/1/2/21120 ]
+  [Files: 21120.txt; 21120-h.htm]
+
+Flaming June, by Mrs. George de Horne Vaizey                             21119
+  [Illustrator: A. Gilbert]
+  [Link: http://www.gutenberg.org/2/1/1/1/21119 ]
+  [Files: 21119.txt; 21119-h.htm]
+
+Etheldreda the Ready, by Mrs. George de Horne Vaizey                     21118
+  [Subtitle: A School Story]
+  [Illustrator: Charles Horrell]
+  [Link: http://www.gutenberg.org/2/1/1/1/21118 ]
+  [Files: 21118.txt; 21118-h.htm]
+
+Betty Trevor, by Mrs. G. de Horne Vaizey                                 21117
+  [Illustrator: Victor Prout]
+  [Link: http://www.gutenberg.org/2/1/1/1/21117 ]
+  [Files: 21117.txt; 21117-h.htm]
+
+The Easiest Way, by Eugene Walter and Arthur Hornblow                    21116
+  [Subtitle: A Story of Metropolitan Life]
+  [Ill.: Archie Gunn and Joseph Byron]
+  [This e-book is a novel by the same name as Eugene Walter's play
+   (e-book #13050).]
+  [Link: http://www.gutenberg.org/2/1/1/1/21116 ]
+  [Files: 21116.txt; 21116-8.txt; 21116-h.htm; ]
+  [Clearance: 20041201183844walter]
+
+Die Stufe, by Franziska Mann                                             21115
+  [Subtitle: Fragment einer Liebe]
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/1/1/1/21115 ]
+  [Files: 21115-8.txt; 21115-0.txt; 21115-h.htm]
+
+Heroes of Modern Europe, by Alice Birkhead                               21114
+  [Link: http://www.gutenberg.org/2/1/1/1/21114 ]
+  [Files: 21114.txt; 21114-8.txt; 21114-h.htm]
+
+Wild Bill's Last Trail, by Ned Buntline                                  21113
+  [Link: http://www.gutenberg.org/2/1/1/1/21113 ]
+  [Files: 21113.txt; 21113-h.htm]
+
+Causes of the Corruption of the Holy Gospels, by John Burgon             21112
+   [Full title: The Causes of the Corruption of the Traditional Text of
+                the Holy Gospels]
+   [Subtitle: Being the Sequel to The Traditional Text of the Holy
+              Gospels]
+   [Editor: Edward Miller]
+   [Link: http://www.gutenberg.org/2/1/1/1/21112 ]
+   [Files: 21112.txt; 21112-8.txt; 21112-h.htm]
+
+Wild Nature Won By Kindness, by Elizabeth Brightwen                      21111
+  [Illustrator: Elizabeth Brightwen]
+  [Link: http://www.gutenberg.org/2/1/1/1/21111 ]
+  [Files: 21111.txt; 21111-8.txt; 21111-h.htm]
+
+A College Girl, by Mrs. George de Horne Vaizey                           21110
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/1/1/21110 ]
+  [Files: 21110.txt; 21110-h.htm]
+
+Big Game, by Mrs. George de Horne Vaizey                                 21109
+  [Subtitle: A Story for Girls]
+  [Link: http://www.gutenberg.org/2/1/1/0/21109 ]
+  [Files: 21109.txt; 21109-h.htm]
+
+Fritz and Eric, by John Conroy Hutcheson                                 21108
+  [Subtitle: The Brother Crusoes]
+  [Link: http://www.gutenberg.org/2/1/1/0/21108 ]
+  [Files: 21108.txt; 21108-h.htm]
+
+On Board the Esmeralda, by John Conroy Hutcheson                         21107
+  [Subtitle: Martin Leigh's Log - A Sea Story]
+  [Illustrator: W.H. Overend]
+  [Link: http://www.gutenberg.org/2/1/1/0/21107 ]
+  [Files: 21107.txt; 21107-h.htm]
+
+Bob Strong's Holidays, by John Conroy Hutcheson                          21106
+  [Subtitle: Adrift in the Channel]
+  [Illustrator: John B. Greene]
+  [Link: http://www.gutenberg.org/2/1/1/0/21106 ]
+  [Files: 21106.txt; 21106-h.htm]
+
+Teddy, by J. C. Hutcheson                                                21105
+  [Subtitle: The Story of a Little Pickle]
+  [Illustrator: A.M.S.]
+  [Link: http://www.gutenberg.org/2/1/1/0/21105 ]
+  [Files: 21105.txt; 21105-h.htm]
+
+Afloat at Last, by John Conroy Hutcheson                                 21104
+  [Subtitle: A Sailor Boy's Log of his Life at Sea]
+  [Illustrator: W. H. Overend]
+  [Link: http://www.gutenberg.org/2/1/1/0/21104 ]
+  [Files: 21104.txt; 21104-h.htm]
+
+Sisters Three, by Mrs. George de Horne Vaizey                            21103
+  [Illustrator: Stanley Lloyd]
+  [Link: http://www.gutenberg.org/2/1/1/0/21103 ]
+  [Files: 21103.txt; 21103-h.htm]
+
+Tom and Some Other Girls, by Mrs. George de Horne Vaizey                 21102
+  [Subtitle: A Public School Story]
+  [Illustrator: Percy Tarrant]
+  [Link: http://www.gutenberg.org/2/1/1/0/21102 ]
+  [Files: 21102.txt; 21102-8.txt; 21102-h.htm]
+
+Pixie O'Shaughnessy, by Mrs. George de Horne Vaizey                      21101
+  [Illustrator: W.H.C. Groome]
+  [Link: http://www.gutenberg.org/2/1/1/0/21101 ]
+  [Files: 21101.txt; 21101-h.htm]
+
+Titus Andronicus, by William Shakespeare                                 21100
+  [Translator: Paavo Cajander]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/1/1/0/21100 ]
+  [Files: 21100-8.txt]
+
+More About Peggy, by Mrs G. de Horne Vaizey                              21099
+  [Illustrator: Unknown]
+  [Link: http://www.gutenberg.org/2/1/0/9/21099 ]
+  [Files: 21099.txt; 21099-h.htm]
+
+The Independence of Claire, by Mrs. George de Horne Vaizey               21098
+  [Link: http://www.gutenberg.org/2/1/0/9/21098 ]
+  [Files: 21098.txt; 21098-h.htm]
+
+Tom Finch's Monkey, by John C. Hutcheson                                 21097
+  [Subtitle: and How he Dined with the Admiral]
+  [Illustrator: Anonymous]
+  [Link: http://www.gutenberg.org/2/1/0/9/21097 ]
+  [Files: 21097.txt; 21097-h.htm]
+
+She and I, Volume 2, by John Conroy Hutcheson                            21096
+  [Subtitle: A Love Story. A Life History.]
+  [Link: http://www.gutenberg.org/2/1/0/9/21096 ]
+  [Files: 21096.txt; 21096-h.htm]
+
+She and I, Volume 1, by John Conroy Hutcheson                            21095
+  [Link: http://www.gutenberg.org/2/1/0/9/21095 ]
+  [Files: 21095.txt; 21095-h.htm]
+
+The Girl in the Golden Atom, by Raymond King Cummings                    21094
+  [Link: http://www.gutenberg.org/2/1/0/9/21094 ]
+  [Files: 21094.txt; 21094-8.txt; 21094-h.htm; ]
+  [Clearance: 20061114184916cummings]
+
+The Journal of Negro History, Volume 4, 1919, by Various                 21093
+  [Link: http://www.gutenberg.org/2/1/0/9/21093 ]
+  [Files: 21093.txt; 21093-8.txt; 21093-h.htm]
+
+On the Trail of the Space Pirates, by Carey Rockwell                     21092
+  [Illustrator: Louis Glanzman]
+  [Link: http://www.gutenberg.org/2/1/0/9/21092 ]
+  [Files: 21092.txt; 21092-8.txt; 21092-h.htm]
+
+The Life of William Ewart Gladstone, Vol. 1 (of 3), by John  Morley      21091
+  [Subtitle: 1809-1859]
+  [Link: http://www.gutenberg.org/2/1/0/9/21091 ]
+  [Files: 21091.txt; 21091-8.txt; 21091-h.htm]
+
+Brief History of English and American Literature, by Henry A. Beers      21090
+  [Author: Introduction and Supplementary Chapters on the Religious
+           and Theological Literature of Great Britain and the United
+           States by John Fletcher Hurst]
+  [Link: http://www.gutenberg.org/2/1/0/9/21090 ]
+  [Files: 21090.txt; 21090-8.txt; ]
+  [Clearance: 20070308095851beers]
+
+Young Tom Bowling, by J.C. Hutcheson                                     21089
+  [Subtitle: The Boys of the British Navy]
+  [Illustrator: John D. Greene]
+  [Link: http://www.gutenberg.org/2/1/0/8/21089 ]
+  [Files: 21089.txt; 21089-h.htm]
+
+The White Squall, by John Conroy Hutcheson                               21088
+  [Subtitle: A Story of the Sargasso Sea]
+  [Illustrator: J. Schonberg]
+  [Link: http://www.gutenberg.org/2/1/0/8/21088 ]
+  [Files: 21088.txt; 21088-h.htm]
+
+The Ghost Ship, by John C. Hutcheson                                     21087
+  [Subtitle: A Mystery of the Sea]
+  [Illustrator: Henry Austin]
+  [Link: http://www.gutenberg.org/2/1/0/8/21087 ]
+  [Files: 21087.txt; 21087-8.txt; 21087-h.htm]
+
+The Penang Pirate, by John Conroy Hutcheson                              21086
+  [Subtitle: and, The Lost Pinnace]
+  [Link: http://www.gutenberg.org/2/1/0/8/21086 ]
+  [Files: 21086.txt; 21086-8.txt; 21086-h.htm]
+
+The Wreck of the Nancy Bell, by J. C. Hutcheson                          21085
+  [Subtitle: Cast Away on Kerguelen Land]
+  [Illustrator: W. S. Stacey]
+  [Link: http://www.gutenberg.org/2/1/0/8/21085 ]
+  [Files: 21085.txt; 21085-h.htm]
+
+Jokes For All Occasions, by Anonymous                                    21084
+   [Subtitle: Selected and Edited by One of America's Foremost
+              Public Speakers]
+   [Link: http://www.gutenberg.org/2/1/0/8/21084 ]
+   [Files: 21084.txt; 21084-8.txt; 21084-h.htm]
+
+American Society of Civil Engineers, Sept. 1910, by F. Lavis             21083
+  [Full title: Transactions of the American Society of Civil Engineers,
+        vol. LXVIII, Sept. 1910]
+  [Subtitle: The Bergen Hill Tunnels. Paper No. 1154]
+  [Link: http://www.gutenberg.org/2/1/0/8/21083 ]
+  [Files: 21083-8.txt; 21083-0.txt; 21083-h.htm]
+
+Salmos do prisioneiro, by Jaime de Magalhães Lima                        21082
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/0/8/21082 ]
+  [Files: 21082-8.txt]
+
+Scientific American, Volume XLIII., No. 25, December 18, 1880, Various   21081
+  [Subtitle: A Weekly Journal of Practical Information, Art, Science,
+              Mechanics, Chemistry, and Manufactures.]
+  [Link: http://www.gutenberg.org/2/1/0/8/21081 ]
+  [Files: 21081.txt; 21081-8.txt; 21081-h.htm]
+
+The Astral Plane, by C. W. Leadbeater                                    21080
+   [Subtitle: Its Scenery, Inhabitants and Phenomena]
+   [Link: http://www.gutenberg.org/2/1/0/8/21080 ]
+   [Files: 21080.txt; 21080-8.txt; 21080-h.htm]
+
+The Trawler, by James Brendan Connolly                                   21079
+   [Link: http://www.gutenberg.org/2/1/0/7/21079 ]
+   [Files: 21079.txt; 21079-h.htm]
+
+The Tale of Miss Kitty Cat, by Arthur Scott Bailey                       21078
+   [Subtitle: Slumber-Town Tales]
+   [Illustrator: Harry L. Smith]
+   [Link: http://www.gutenberg.org/2/1/0/7/21078 ]
+   [Files: 21078.txt; 21078-8.txt; 21078-h.htm]
+
+The Mind and the Brain, by Alfred Binet                                  21077
+  [Subtitle: Being the Authorised Translation of L'me et le Corps]
+  [Link: http://www.gutenberg.org/2/1/0/7/21077 ]
+  [Files: 21077.txt; 21077-8.txt; 21077-h.htm; ]
+  [Clearance: 20060222112527binet]
+
+The First Six Books of the Elements of Euclid, by John Casey             21076
+  [Subtitle: And Propositions I.-XXI. of Book XI., and an
+             Appendix on the Cylinder, Sphere, Cone, etc.,]
+  [Link: http://www.gutenberg.org/2/1/0/7/21076 ]
+  [Files: 21076-t.tex; 21076-pdf.pdf]
+
+The Cruise of the Thetis, by Harry Collingwood                           21075
+  [Subtitle: A Tale of the Cuban Insurrection]
+  [Illustrator: Cyrus Cuneo]
+  [Link: http://www.gutenberg.org/2/1/0/7/21075 ]
+  [Files: 21075.txt; 21075-h.htm]
+
+Afloat on the Flood, by Lawrence J. Leslie                               21074
+  [Link: http://www.gutenberg.org/2/1/0/7/21074 ]
+  [Files: 21074.txt; 21074-h.htm; ]
+  [Clearance: 20070308091310leslie]
+
+
+A Pirate of the Caribbees, by Harry Collingwood                          21073
+  [Illustrator: C.J. de Lacy]
+  [Link: http://www.gutenberg.org/2/1/0/7/21073 ]
+  [Files: 21073.txt; 21073-h.htm]
+
+The Pirate Island, by Harry Collingwood                                  21072
+  [Subtitle: A Story of the South Pacific]
+  [Illustrator: C.J. Staniland and J.R. Wells]
+  [Link: http://www.gutenberg.org/2/1/0/7/21072 ]
+  [Files: 21072.txt; 21072-h.htm]
+
+The Rover's Secret, by Harry Collingwood                                 21071
+  [Subtitle: A Tale of the Pirate Cays and Lagoons of Cuba]
+  [Illustrator: W. Christian Symons]
+  [Link: http://www.gutenberg.org/2/1/0/7/21071 ]
+  [Files: 21071.txt; 21071-h.htm]
+
+A Middy of the Slave Squadron, by Harry Collingwood                      21070
+  [Subtitle: A West African Story]
+  [Illustrator: D.L. Mays]
+  [Link: http://www.gutenberg.org/2/1/0/7/21070 ]
+  [Files: 21070.txt; 21070-8.txt; 21070-h.htm]
+
+For Treasure Bound, by Harry Collingwood                                 21069
+  [Link: http://www.gutenberg.org/2/1/0/6/21069 ]
+  [Files: 21069.txt; 21069-h.htm]
+
+Under the Meteor Flag, by Harry Collingwood                              21068
+  [Subtitle: Log of a Midshipman during the French Revolutionary War]
+  [Illustrator: MLR]
+  [Link: http://www.gutenberg.org/2/1/0/6/21068 ]
+  [Files: 21068.txt; 21068-h.htm]
+
+Overdue, by Harry Collingwood                                            21067
+  [Subtitle: The Story of a Missing Ship]
+  [Illustrator: W. Herbert Holloway]
+  [Link: http://www.gutenberg.org/2/1/0/6/21067 ]
+  [Files: 21067.txt; 21067-h.htm]
+
+Harry Escombe, by Harry Collingwood                                      21066
+  [Subtitle: A Tale of Adventure in Peru]
+  [Illustrator: Victor Prout]
+  [Link: http://www.gutenberg.org/2/1/0/6/21066 ]
+  [Files: 21066.txt; 21066-8.txt; 21066-h.htm]
+
+The Log of a Privateersman, by Harry Collingwood                         21065
+  [Illustrator: W. Rainey, R.I.]
+  [Link: http://www.gutenberg.org/2/1/0/6/21065 ]
+  [Files: 21065.txt; 21065-h.htm]
+
+A Middy in Command, by Harry Collingwood                                 21064
+  [Subtitle: A Tale of the Slave Squadron]
+  [Illustrator: Edward S. Hodgson]
+  [Link: http://www.gutenberg.org/2/1/0/6/21064 ]
+  [Files: 21064.txt; 21064-8.txt; 21064-h.htm]
+
+The Missing Merchantman, by Harry Collingwood                            21063
+  [Illustrator: W.H. Overend]
+  [Link: http://www.gutenberg.org/2/1/0/6/21063 ]
+  [Files: 21063.txt; 21063-h.htm]
+
+The Cruise of the Nonsuch Buccaneer, by Harry Collingwood                21062
+  [Illustrator: John Williamson]
+  [Link: http://www.gutenberg.org/2/1/0/6/21062 ]
+  [Files: 21062.txt; 21062-h.htm]
+
+Under the Chilian Flag, by Harry Collingwood                             21061
+  [Subtitle: A Tale of War between Chili and Peru]
+  [Illustrator: W. Rainey]
+  [Link: http://www.gutenberg.org/2/1/0/6/21061 ]
+  [Files: 21061.txt; 21061-8.txt; 21061-h.htm]
+
+The Congo Rovers, by Harry Collingwood                                   21060
+  [Subtitle: A Story of the Slave Squadron]
+  [Illustrator: J. Schonberg]
+  [Link: http://www.gutenberg.org/2/1/0/6/21060 ]
+  [Files: 21060.txt; 21060-8.txt; 21060-h.htm]
+
+The Adventures of Dick Maitland, by Harry Collingwood                    21059
+  [Subtitle: A Tale of Unknown Africa]
+  [Illustrator: Alec Ball]
+  [Link: http://www.gutenberg.org/2/1/0/5/21059 ]
+  [Files: 21059.txt; 21059-h.htm]
+
+The Strange Adventures of Eric Blackburn, by Harry Collingwood           21058
+  [Illustrator: C.M. Padday, R.O.I.]
+  [Link: http://www.gutenberg.org/2/1/0/5/21058 ]
+  [Files: 21058.txt; 21058-h.htm]
+
+The Log of the Flying Fish, by Harry Collingwood                         21057
+  [Subtitle: A Story of Aerial and Submarine Peril and Adventure]
+  [Illustrator: Gordon Browne]
+  [Link: http://www.gutenberg.org/2/1/0/5/21057 ]
+  [Files: 21057.txt; 21057-h.htm]
+
+Among the Great Masters of Music, by Walter Rowlands                     21056
+  [Subtitle: Scenes in the Lives of Famous Musicians]
+  [Link: http://www.gutenberg.org/2/1/0/5/21056 ]
+  [Files: 21056.txt; 21056-8.txt; 21056-h.htm]
+
+A Mating in the Wilds, by Ottwell Binns                                  21055
+  [Link: http://www.gutenberg.org/2/1/0/5/21055 ]
+  [Files: 21055.txt; 21055-8.txt; 21055-h.htm]
+
+People's Handy Atlas of the World, by Unknown                            21054
+  [Subtitle: 1910 Census Edition]
+  [The Library of Congress seems to list this under the "main title"
+    "Handy Reference Atlas Gazetteer of the World" and shows
+    "People's Handy Atlas of the World" as a "related title."]
+  [Link: http://www.gutenberg.org/2/1/0/5/21054 ]
+  [Files: 21054.txt; 21054-8.txt; 21054-h.htm; ]
+  [Clearance: 20051229180858thegeograp]
+
+An anthology of German literature, by Calvin Thomas                      21053
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/1/0/5/21053 ]
+  [Files: 21053-8.txt; 21053-0.txt; 21053-h.htm]
+
+The Pirate Shark, by Elliott Whitney                                     21052
+  [Illustrator: Fred J Arting]
+  [Link: http://www.gutenberg.org/2/1/0/5/21052 ]
+  [Files: 21052.txt; 21052-h.htm]
+
+Skylark Three, by Edward Elmer Smith                                     21051
+  [Illustrator: Wesso]
+  [Link: http://www.gutenberg.org/2/1/0/5/21051 ]
+  [Files: 21051.txt; 21051-8.txt; 21051-h.htm]
+
+The Master of the Shell, by Talbot Baines Reed                           21050
+  [Link: http://www.gutenberg.org/2/1/0/5/21050 ]
+  [Files: 21050.txt; 21050-8.txt; 21050-h.htm]
+
+The Curlytops and Their Pets, by Howard R. Garis                         21049
+   [Subtitle: or Uncle Toby's Strange Collection]
+   [Illustrator: Julia Greene]
+   [Link: http://www.gutenberg.org/2/1/0/4/21049 ]
+   [Files: 21049.txt; 21049-h.htm]
+
+Just Patty, by Jean Webster                                              21048
+   [Illustrator: C. M. Relyea]
+   [Link: http://www.gutenberg.org/2/1/0/4/21048 ]
+   [Files: 21048.txt; 21048-8.txt; 21048-h.htm]
+
+The Nursery, No. 109, January, 1876, Vol. XIX., by Unknown               21047
+  [Subtitle: A Monthly Magazine for Youngest Readers]
+  [Link: http://www.gutenberg.org/2/1/0/4/21047 ]
+  [Files: 21047.txt; 21047-h.htm]
+
+Story Hour Readings: Seventh Year, by E.C. Hartwell                      21046
+  [Link: http://www.gutenberg.org/2/1/0/4/21046 ]
+  [Files: 21046.txt; 21046-8.txt; 21046-0.txt; 21046-h.htm]
+
+Education and the Higher Life, by J. L. Spalding                         21045
+  [Link: http://www.gutenberg.org/2/1/0/4/21045 ]
+  [Files: 21045.txt; 21045-8.txt; 21045-h.htm]
+
+The Willoughby Captains, by Talbot Baines Reed                           21044
+  [Link: http://www.gutenberg.org/2/1/0/4/21044 ]
+  [Files: 21044.txt; 21044-8.txt; 21044-h.htm]
+
+Reginald Cruden, by Talbot Baines Reed                                   21043
+  [Subtitle: A Tale of City Life]
+  [Link: http://www.gutenberg.org/2/1/0/4/21043 ]
+  [Files: 21043.txt; 21043-8.txt; 21043-h.htm]
+
+Roger Ingleton, Minor, by Talbot Baines Reed                             21042
+  [Link: http://www.gutenberg.org/2/1/0/4/21042 ]
+  [Files: 21042.txt; 21042-8.txt; 21042-h.htm]
+
+Seen and Unseen, by E. Katharine Bates                                   21041
+   [Link: http://www.gutenberg.org/2/1/0/4/21041 ]
+   [Files: 21041.txt; 21041-8.txt; 21041-h.htm]
+
+Brazilian Tales, by Joaqium Maria Machado de Assis et al.                21040
+   [Full author: Joaquim Maria Machado de Assis, José Medeiros e
+                 Albuquerque, Coelho Netto, and Carmen Dolores]
+   [Translator: Isaac Goldberg]
+   [Link: http://www.gutenberg.org/2/1/0/4/21040 ]
+   [Files: 21040.txt; 21040-8.txt; 21040-h.htm]
+
+Boycotted, by Talbot Baines Reed                                         21039
+  [Subtitle: And Other Stories]
+  [Illustrator: unknown]
+  [Link: http://www.gutenberg.org/2/1/0/3/21039 ]
+  [Files: 21039.txt; 21039-8.txt; 21039-h.htm]
+
+A Dog with a Bad Name, by Talbot Baines Reed                             21038
+  [Illustrator: A.P.]
+  [Link: http://www.gutenberg.org/2/1/0/3/21038 ]
+  [Files: 21038.txt; 21038-8.txt; 21038-h.htm]
+
+The Cock-House at Fellsgarth, by Talbot Baines Reed                      21037
+  [Link: http://www.gutenberg.org/2/1/0/3/21037 ]
+  [Files: 21037.txt; 21037-8.txt; 21037-h.htm]
+
+My Friend Smith, by Talbot Baines Reed                                   21036
+  [Subtitle: A Story of School and City Life]
+  [Link: http://www.gutenberg.org/2/1/0/3/21036 ]
+  [Files: 21036.txt; 21036-8.txt; 21036-h.htm]
+
+The Adventures of a Three-Guinea Watch, by Talbot Baines Reed            21035
+  [Link: http://www.gutenberg.org/2/1/0/3/21035 ]
+  [Files: 21035.txt; 21035-8.txt; 21035-h.htm]
+
+The Corner House Girls at School, by Grace Brooks Hill                   21034
+  [Illustrator: R. Emmett Owen]
+  [Link: http://www.gutenberg.org/2/1/0/3/21034 ]
+  [Files: 21034.txt; 21034-8.txt; 21034-h.htm]
+
+Sketch of the Mythology of the North American Indians, by J.W. Powell    21033
+  [Full author: John Wesley Powell]
+  [Subtitle: First Annual Report of the Bureau of Ethnology to the
+       Secretary of the Smithsonian Institution, 1879-80,
+       Government Printing Office, Washington, 1881, pages 17-56]
+  [Link: http://www.gutenberg.org/2/1/0/3/21033 ]
+  [Files: 21033.txt; 21033-8.txt; 21033-0.txt; 21033-h.htm]
+
+Exercises in Knitting, by Cornelia Mee                                   21032
+  [Link: http://www.gutenberg.org/2/1/0/3/21032 ]
+  [Files: 21032.txt; 21032-h.htm]
+
+Die Organisation der Rohstoffversorgung, by Walther Rathenau             21031
+  [Contributor: H. Geitner]
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/1/0/3/21031 ]
+  [Files: 21031-8.txt; 21031-0.txt; 21031-h.htm]
+
+Uotilan isäntä, by Emil Nervander                                        21030
+  [Subtitle: Rikosjuttu Suomesta]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/1/0/3/21030 ]
+  [Files: 21030-8.txt]
+
+
+---------[  11 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Apr 2007 Balthasar, Anatole France                         [070054xx.xxx] 1507A
+http://gutenberg.net.au/ebooks07/0700541.txt or .zip
+http://gutenberg.net.au/ebooks07/0700541h.html
+
+Apr 2007 Thomas Mitchell, J H L Cumpston                   [070053xx.xxx] 1506A
+http://gutenberg.net.au/ebooks07/0700531h.html
+
+Apr 2007 Tales of Long Ago, Arthur Conan Doyle             [070052xx.xxx] 1505A
+http://gutenberg.net.au/ebooks07/0700521.txt or .zip
+http://gutenberg.net.au/ebooks07/0700521h.html
+
+Apr 2007 The Man Who Passed, Edgar Wallace                 [070051xx.xxx] 1504A
+http://gutenberg.net.au/ebooks07/0700511.txt or .zip
+http://gutenberg.net.au/ebooks07/0700511h.html
+
+Apr 2007 The Council of Justice, Edgar Wallace             [070050xx.xxx] 1503A
+http://gutenberg.net.au/ebooks07/0700501.txt or .zip
+http://gutenberg.net.au/ebooks07/0700501h.html
+
+Apr 2007 The Ghost Walker, Edgar Wallace                   [070049xx.xxx] 1502A
+http://gutenberg.net.au/ebooks07/0700491.txt or .zip
+http://gutenberg.net.au/ebooks07/0700491h.html
+
+Apr 2007 The Guv'nor, Edgar Wallace                        [070048xx.xxx] 1501A
+http://gutenberg.net.au/ebooks07/0700481.txt or .zip
+http://gutenberg.net.au/ebooks07/0700481h.html
+
+Apr 2007 A Scots Quair, Lewis Grassic Gibbon               [070047xx.xxx] 1500A
+http://gutenberg.net.au/ebooks07/0700471h.html
+
+Apr 2007 John Brown's Body, Stephen Vincent Benét          [070046xx.xxx] 1499A
+http://gutenberg.net.au/ebooks07/0700461.txt or .zip
+http://gutenberg.net.au/ebooks07/0700461h.html
+
+Apr 2007 Major Wilbraham, Hugh Walpole                     [070045xx.xxx] 1498A
+http://gutenberg.net.au/ebooks07/0700451.txt or .zip
+http://gutenberg.net.au/ebooks07/0700451h.html
+
+Apr 2007 The Tarn, Hugh Walpole                            [070044xx.xxx] 1497A
+http://gutenberg.net.au/ebooks07/0700441.txt or .zip
+http://gutenberg.net.au/ebooks07/0700441h.html
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================</pre>
+
+<a href="/nl_archives/2007/pgweekly_2007_04_18.txt" target="_blank" rel="nofollow">pgweekly_2007_04_18.txt</a>

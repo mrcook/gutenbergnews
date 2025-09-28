@@ -1,0 +1,240 @@
+The Project Gutenberg Weekly Newsletter 22nd October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+
+----------------------------------------------------------------------
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 22 Oct 2003:  10,069 (incl. 282 Aus.).
+
+Last week the Total Count was 10,004, including 282 at PG of Australia.
+This week we added 65 new.(incl. 2 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being reindexed to add translator info:
+Jun 2002 The Confessions of Saint Augustine                [tcosaxxx.xxx] 3296
+[AKA:  The Confessions of St. Augustine] [Tr.: Edward Bouverie Pusey]
+
+The following is being reindexed to add "Pt 1" to the title; note that
+this is Part 1, Part 2 is in eBook #9629:
+Jul 2005 Ghost Stories of an Antiquary, Pt 1,by M. R. James[?jgstxxx.xxx] 8486
+[Full author: Montague Rhodes James] (See also #9629 for Part 2)
+
+The following is being reindexed to correct the title (Under Dog, not
+Underdog):
+Dec 2005 The Under Dog, by F. Hopkinson Smith              [?udogxxx.xxx] 9463
+
+The following are being reindexed to add translator info:
+Sep 2002 The Koran/The Q'uran, by Mohammed/Mohammad        [koranxxa.xxx] 3434
+[Author AKA:  Muhamad/Muhammad/Mohomet]
+[Tr.: J. M. Rodwell] [Intro. by G. Margoliouth] (See also #2800)
+Sep 2001 The Koran/The Q'uran, by Mohammed/Mohammad . . .  [koranxxx.xxx] 2800
+[Author AKA: Muhamad/Muhammad/Mohomet]
+[Tr.: J. M. Rodwell] [Intro. by Rev. G. Margoliouth, M.A.]
+
+
+-=-=-=-=[ 65 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Feb 2006 The Crimson Blind , by Fred M. White              [?crblxxx.xxx] 9832
+Feb 2006 The Court of the Empress Josephine, I. Saint-Amand[?cmpjxxx.xxx] 9831
+[Author's Full Name: Imbert de Saint-Amand] [Tr.: Thomas Sergeant Perry]
+
+Feb 2006 The Beautiful and the Damned,byF. Scott Fitzgerald[?batdxxx.xxx] 9830
+Feb 2006 The Jewel Merchants, by James Branch Cabell   [#7][?jmchxxx.xxx] 9829
+[Subtitle:  A Comedy In One Act]
+Feb 2006 Barnen ifran Frostmofjaellet, by Laura Fitinghoff [?bifrxxx.xxx] 9828
+[Language: Swedish]
+Feb 2006 De vandrande djaeknarne, by Viktor Rydberg        [?djakxxx.xxx] 9827
+[Language: Swedish]
+Feb 2006 Homeward Bound, by James Fenimore Cooper          [?hmbdxxx.xxx] 9826
+[Subtitle: The Chase] [Also posted HTML - 8hmbd10h.zip and 8hmbd10h.htm]
+
+Feb 2006 A Calendar of Sonnets, by Helen Hunt Jackson      [calsnxxx.xxx] 9825
+[Also posted: HTML in calsn10h.htm, Illustrated HTML in calsn10h.zip]
+Feb 2006 Observations Geologiques, by Charles Darwin       [?geolxxx.xxx] 9824
+[Full title: Observations Geologiques sur les Iles Volcaniques]
+[Language: French]
+Feb 2006 Lives of the Poets, Vol. 1, by Samuel Johnson     [?jpt1xxx.xxx] 9823
+Feb 2006 Beaux and Belles of England, by Mary Robinson     [?bebexxx.xxx] 9822
+[With the Lives of the Duchesses of Gordon and Devonshire by Grace and
+ Philip Wharton]
+[Also posted: HTML in 8bebe10h.htm, Illustrated HTML in 8bebe10h.zip]
+
+Feb 2006 A Writer's Recollections, V2, Mrs. Humphry Ward   [?wrr2xxx.xxx] 9821
+[Full Title: A Writer's Recollections (In Two Volumes), Volume II]
+[Author AKA: Mrs. Humphrey Ward; Mary Augusta Arnold Ward]
+[Also posted: HTML in 8wrr210h.htm; illustrated HTML in 8wrr210h.zip]
+Feb 2006 A Writer's Recollections, V1, Mrs. Humphry Ward   [?wrr1xxx.xxx] 9820
+[Full Title: A Writer's Recollections (In Two Volumes), Volume I]
+[Author AKA: Mrs. Humphrey Ward; Mary Augusta Arnold Ward]
+[Also posted: HTML 8wrr110h.htm; illustrated HTML in 8wrr110h.zip]
+
+Feb 2006 Punchinello, Vol. 1, No. 14, July 2, 1870, Various[?p114xxx.xxx] 9819
+[Also posted Illustrated HTML - 8p11410h.zip; and 8p11410h.htm]
+Feb 2006 Journees de la Constituante, by Albert Mathiez    [?cnstxxx.xxx] 9818
+[Full title: Les grandes journees de la Constituante] [Language: French]
+Feb 2006 Peter Ibbetson, by George du Marier               [?pibbxxx.xxx] 9817
+[With an Introduction by His Cousin Lady "Madge Plunkett"]
+[Illustrated by George du Maurier]
+Feb 2006 Lo, Michael!, by Grace Livingston Hill            [?lmchxxx.xxx] 9816
+
+Feb 2006 Principal Navigations, V8, by Richard Hakluyt[#11][?hk08xxx.xxx] 9815
+[Full title: The Principal Navigations, Voyages, Traffiques and Discoveries
+ of the English Nation. v. 8--Asia, Part I.]
+Feb 2006 Poetical Works of Akenside, by Mark Akenside      [?akenxxx.xxx] 9814
+[Edited by George Gilfillan]
+Feb 2006 Santo Domingo, by Otto Schoenrich                 [?stdmxxx.xxx] 9813
+[Subtitle: A Country With A Future]
+Feb 2006 I Spy, by Natalie Sumner Lincoln                  [?ispyxxx.xxx] 9812
+Feb 2006 The Adventures of Hugh Trevor, by Thomas Holcroft [?htrvxxx.xxx] 9811
+
+Feb 2006 Man Kann Nie Wissen, by George Bernard Shaw       [?mknwxxx.xxx] 9810
+[Subtitle: Komoedie in vier Akten] [Tr.: Siegfried Trabisch]
+[Language: German]
+Feb 2006 The Price of Things, by Elinor Glyn           [#4][?prthxxx.xxx] 9809
+Feb 2006 The Loudwater Mystery, by Edgar Jepson            [?loudxxx.xxx] 9808
+Feb 2006 Scarhaven Keep, by J. S. Fletcher                 [?sckpxxx.xxx] 9807
+Feb 2006 Mr. Justice Raffles, by E. W. Hornung         [#5][?raffxxx.xxx] 9806
+
+Feb 2006 The Second William Penn, by William H. Ryus       [wpen2xxx.xxx] 9805
+[Subtitle: A true account of incidents that happened along the old
+ Santa Fe Trail]
+Feb 2006 Stones of Venice [introductions], John Ruskin [#7][?stvnxxx.xxx] 9804
+[Introductory Chapters And Local Indices For The Use Of Travellers While
+ Staying In Venice And Verona]
+Feb 2006 Life of Henry Reeve, by John Knox Laughton, Vol. 2[?rev2xxx.xxx] 9803
+[Title: Memoirs of the Life and Correspondence of Henry Reeve, C.B., D.C.L.]
+[In Two Volumes. Vol. 2]
+Feb 2006 Der Mann des Schicksals, by George Bernard Shaw   [?dmdsxxx.xxx] 9802
+[Subtitle: Komoedie in einem Akt] [Tr.: Siegfried Trabitsch]
+[Language: German]
+Feb 2006 The Habitant and Others, by William Henry Drummond[?hbtnxxx.xxx] 9801
+[Full title: The Habitant and Other French-Canadian Poems]
+
+Jan 2006 Rape of the Lock and Other Poems,by Alexander Pope[?rplkxxx.xxx] 9800
+[Also posted HTML - 8rplk10h.zip and 8rplk10h.htm]
+Jan 2006 It Happened in Egypt, by Williamson               [?hpegxxx.xxx] 9799
+[Full author: C. N. Williamson & A. M. Williamson]
+[Also posted Illustrated HTML - 8hpeg10h.zip; and 8hpeg10h.htm]
+Jan 2006 Clarissa, Volume 2 (of 9),by Samuel Richardson[#4][clar2xxx.xxx] 9798
+Jan 2006 Punchinello, Vol. 1,  No. 15, July 9, 1870,Various[?p115xxx.xxx] 9797
+[Also posted Illustrated HTML - 8p11510h.zip; and 8p11510h.htm]
+Jan 2006 The Master Detective, by Percy James Brebner  [#2][?msdtxxx.xxx] 9796
+[Subtitle: Being Some Further Investigations of Christopher Quarles]
+
+Jan 2006 The Four Faces, by William le Queux           [#2][?fourxxx.xxx] 9795
+Jan 2006 Calvary Alley, by Alice Hegan Rice                [?calvxxx.xxx] 9794
+Jan 2006 Josephus, by Norman Bentwich                      [?jsphxxx.xxx] 9793
+Jan 2006 Redemption and Two Other Plays, by Leo Tolstoy    [?rdptxxx.xxx] 9792
+[Author AKA: Leo Tolstoi] [Introduction by Arthur Hopkins]
+  Contents:
+    Redemption
+    The Power of Darkness
+    Fruits of Culture]
+[Also posted: HTML in 8rdpt10h.htm/.zip]
+Jan 2006 Harrigan, by Max Brand                            [hrrgnxxx.xxx] 9791
+
+Jan 2006 Traffics and Discoveries, by Rudyard Kipling [#26][?tdscxxx.xxx] 9790
+  Contents:
+    The Captive
+    The Bonds Of Discipline
+    A Sahibs' War
+    "Their Lawful Occasions"
+    The Comprehension Of Private Cooper
+    Steam Tactics
+    "Wireless"
+    The Army Of A Dream
+    "They"
+    Mrs. Bathurst
+    Below The Mill Dam
+Jan 2006 Army Boys in the French Trenches, by Homer Randall[?abftxxx.xxx] 9789
+[Subtitle: Or, Hand to Hand Fighting with the Enemy]
+Jan 2006 Ned Myers, by James Fenimore Cooper               [?ndmyxxx.xxx] 9788
+[Subtitle: or, A Life Before the Mast]
+[Also posted: HTML in 8ndmy10h.htm/.zip]
+Jan 2006 In the Valley, by Harold Frederic                 [?nvalxxx.xxx] 9787
+[Also posted: HTML in 8nval10h.htm/.zip]
+Jan 2006 Love's Shadow, by Ada Leverson                    [?lvshxxx.xxx] 9786
+[Book One of the trilogy The Little Ottleys.]
+
+Jan 2006 Woodstock; or, The Cavalier, by Sir Walter Scott  [?wstkxxx.xxx] 9785
+Jan 2006 Thomas Carlyle, A Biography, by John Nichol       [?carlxxx.xxx] 9784
+Jan 2006 Female Scripture Biographies, Vol. II,by F. A. Cox[8fsb2xxx.xxx] 9783
+[Also posted HTML - 8fsb210h.zip and 8fsb210h.htm]
+Jan 2006 Female Scripture Biographies, Vol. I, by F. A. Cox[8fsb1xxx.xxx] 9782
+[Full author: Francis Augustus Cox]
+[8-bit Unicode version in 8fbs110u.txt/.zip; no 7bit version]
+[Also posted: HTML in 8fsb110h.zip/.htm]
+Jan 2006 A History of Rome, Vol 1, by A H.J. Greenidge     [?romexxx.xxx] 9781
+[Subtitle: During the late Republic and early Principate]
+
+Jan 2006 Fair Margaret, by H. Rider Haggard                [?frmgxxx.xxx] 9780
+[Also posted Illustrated HTML - 8frmg10h.zip; and 8frmg10h.htm]
+Jan 2006 The Black Bag, by Louis Joseph Vance              [?blbgxxx.xxx] 9779
+[Also posted: HTML in 8blbg10h.htm and illustrated HTML in 8blbg10h.zip]
+
+
+Dec 2005 Whittier's Tales, Sketches,  Vol. 5, Complete[#35][wit31xxx.xxx] 9590
+[Includes Etext #9586-9589]
+Dec 2005 Sketches, by Whittier,            V5,  Part 3[#34][wit30xxx.xxx] 9589
+Dec 2005 Doctor Singletary, by Whittier,   V5,  Part 2[#33][wit29xxx.xxx] 9588
+Dec 2005 Margaret Smith Journal, Whittier, V5,  Part 1[#32][wit28xxx.xxx] 9587
+
+Dec 2005 Whittier's Personal Poems,   Vol. 4, Complete[#31][wit27xxx.xxx] 9586
+Dec 2005 At Sundown, by Whittier,          V4,  Part 5[#30][wit26xxx.xxx] 9585
+[Includes Etext #9581-9584]
+Dec 2005 The Tent on the Beach, Whittier,  V4,  Part 4[#29][wit25xxx.xxx] 9584
+Dec 2005 Occasional Poems,  by Whittier,   V4,  Part 3[#28][wit24xxx.xxx] 9583
+Dec 2005 Personal Poems II, by Whittier,   V4,  Part 2[#27][wit23xxx.xxx] 9582
+Dec 2005 Personal Poems I,  by Whittier,   V4,  Part 1[#26][wit22xxx.xxx] 9581
+
+
+May 2005 Reize naar Surinamen, Complete, by J. Stedman [#5][?rns5xxx.xxx] 8100
+[Full Title: Reize naar Surinamen, En Door De Binnenste Gedeelten Van Guiana]
+[Full Author: John Gabridl Stedman] [Language: Dutch]
+[Includes eBook #8096-8099]
+
+
+=============================================================================
+
+Even if you're on the right track you'll get run over if you just sit there. 
+- Will Rogers 
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

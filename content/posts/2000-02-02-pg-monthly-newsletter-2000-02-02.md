@@ -1,0 +1,474 @@
+---
+params:
+  id: 1795
+title: PG Monthly Newsletter (2000-02-02)
+date: 2000-02-02T15:51:19+00:00
+author: Michael Cook
+layout: post
+url: /20000202/pg-monthly-newsletter-2000-02-02/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: February Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg mailing list" &lt;gutnberg@listserv.unc.edu&gt;
+Date: Wed, 2 Feb 2000 07:57:23 -0600 (CST)
+
+
+*This is the Project Gutenberg Newsletter for *Wednesday, Feb 3, 2000*
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+
+
+This is a lightly revised release of last week's Newsletter, with some
+changes to the format, to be in our normal order, as far as we can and
+to include some announcements, requests, etc.
+
+To make this editing easier, I will put these announcements, requests,
+at the end of this message.
+
+
+These are about:
+
+Translating Hesse's Siddharrtha into English. . .we DO have this in an
+already prepared GERMAN file, titled 7sidd10.* and .zip, and I will do
+what I can to get them into the listings ASAP, but you should be able,
+I hope, to get them via FTP, shortly after you receive this. . . .  mh
+
+A program to automate the "less" file reader.
+
+And a change to one of our Project Gutenberg mirror sites.
+
+***
+
+I am editing this remotely from Romania, so please forgive errors, and
+the marigination and spelling will probably not be as good.
+
+
+If anyone familiar with our Newsletters and GUTINDEX files should care
+to neaten tjhis up for me even more, and send it back to me, it should
+help me a lot when I get home this weekend.
+
+***
+
+Changes to etexts:
+
+- This file has already been posted for September 1997 as etext #1044,
+and so is withdrawn as 2232:
+
+Jun 2000 Captain Stormfield, by Mark Twain [Mark Twain
+#17][cptstxxx.xxx]2232
+
+- This file had also already been posted, for January 2000 as etext #2048,
+and so is withdrawn as 2298.
+
+Aug 2000 Sketch Book of Geoffrey Crayon, Gent, by Irving
+#6[sbogcxxx.xxx]2298
+
+- This file was never really posted.  Etext 2199 remains Homer's Iliad
+
+Jun 2000 Human Genome Project, History and Commentary
+[00hgpxxx.xxx]2199
+
+
+
+New Releases. . .and check at the very bottom for notes on some that we may
+get posted in the next 24 hours before I send this out. . . .
+
+-----------------------------------
+Dec 2000 Barchester Towers, by Anthony Trollope           [btowexxx.xxx]2432
+Dec 2000 Is Shakespeare Dead? by Mark Twain     [Twain#16][shkddxxx.xxx]2431
+Dec 2000 Romantic Ballads, by George Borrow     [Borrow#7][rmbddxxx.xxx]2430
+
+Dec 2000 Lost Face, by Jack London             [London#81][lstfcxxx.xxx]2429
+Dec 2000 Essay on Man, by Alexander Pope                  [esymnxxx.xxx]2428
+Dec 2000 The Patagonia, by Henry James          [James#22][patgnxxx.xxx]2427
+Dec 2000 The Diary of a Man of Fifty by H. James[James#21][dmnftxxx.xxx]2426
+
+Dec 2000 A Bundle of Letters, by Henry James    [James#20][bndltxxx.xxx]2425
+Dec 2000 Black Bartlemy's Treasure, by Jeffrey Farnol     [bbtrexxx.xxx]2424
+Dec 2000 Anecdotes of Johnson, by Hesther Lynch Piozzi    [andsjxxx.xxx]2423
+Dec 2000 Introduction to The Compleat Angler, Albert Lang [alcmaxxx.xxx]2422
+
+Dec 2000 The Beggar's Opera, by John Gay            [Gay1][bgoprxxx.xxx]2421
+Dec 2000 Unterhaltungen deutscher AusgewandertenGoethe[30][7untrxxx.xxx]2420
+Dec 2000 Unterhaltungen deutscher AusgewandertenGoethe[30][8untrxxx.xxx]2420
+Dec 2000 La Dame aux Camelias, by Alexandre Dumas         [8damexxx.xxx]2419
+
+Dec 2000 Oldport Days, by Thomas Wentworth Higginson  [#2][oldptxxx.xxx]2418
+Dec 2000 Okewood of the Secret Service, Valentine Williams[valenxxx.xxx]2417
+Dec 2000 The House of Pride &c., by Jack London[London#80][hsprdxxx.xxx]2416
+Dec 2000 The Son of the Wolf, by Jack London   [London#79][swolfxxx.xxx]2415
+
+Nov 2000 Cliges: A Romance, by Chretien de Troyes         [cligexxx.xxx]2414
+Nov 2000 Madame Bovary, by Gustave Flaubert   [Flaubert#4][mbovaxxx.xxx]2413
+Nov 2000 The Categories, by Aristotle                     [aristxxx.xxx]2412
+
+For German etexts, filenames starting with 8 are 8-bit versions,
+which should be usable by nearly all modern computers.  7-bit versions
+are plain ASCII (no accents or special characters).
+
+A "1" or "2" for the same etext number indicates a multi-volume set,
+as in 7wml1xxx.xxx and 7xml2xxx.xxx.
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  3[Goethe30][7wmw3xxx.xxx]2411
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  3[Goethe30][8wmw3xxx.xxx]2411
+
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  2[Goethe29][7wmw2xxx.xxx]2410
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  2[Goethe29][8wmw2xxx.xxx]2410
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  1[Goethe28][7wmw1xxx.xxx]2409
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  1[Goethe28][8wmw1xxx.xxx]2409
+Nov 2000 Die Leiden des jungen Werther, Goethe 2[Goethe27][7ljw2xxx.xxx]2408
+Nov 2000 Die Leiden des jungen Werther, Goethe 2[Goethe27][8ljw2xxx.xxx]2408
+Nov 2000 Die Leiden des jungen Werther, Goethe 1[Goethe26][7ljw1xxx.xxx]2407
+Nov 2000 Die Leiden des jungen Werther, Goethe 1[Goethe26][8ljw1xxx.xxx]2407
+
+Nov 2000 Die Geschwister, by Goethe             [Goethe25][7geswxxx.xxx]2406
+Nov 2000 Die Geschwister, by Goethe             [Goethe25][8geswxxx.xxx]2406
+Nov 2000 Italienische Reise, by Goethe vol. 2   [Goethe24][7itr1xxx.xxx]2405
+Nov 2000 Italienische Reise, by Goethe vol. 2   [Goethe24][8itr1xxx.xxx]2405
+Nov 2000 Italienische Reise, by Goethe vol. 1   [Goethe23][7itr1xxx.xxx]2404
+Nov 2000 Italienische Reise, by Goethe vol. 1   [Goethe23][8itr1xxx.xxx]2404
+Nov 2000 Die Wahlverwandtschaften, by Goethe    [Goethe22][7wahlxxx.xxx]2403
+Nov 2000 Die Wahlverwandtschaften, by Goethe    [Goethe22][8wahlxxx.xxx]2403
+
+Nov 2000 Briefe aus der Schweiz, by Goethe      [Goethe21][7schwxxx.xxx]2402
+Nov 2000 Briefe aus der Schweiz, by Goethe      [Goethe21][8schwxxx.xxx]2402
+Nov 2000 The Memoirs of General the Baron de Marbot       [marboxxx.xxx]2401
+Nov 2000 Vikram and the Vampire, by Sir Richard R. Burton [vikrvxxx.xxx]2400
+Nov 2000 Up From Slavery: An Autobiography, B.T.Washington[booktxxx.xxx]2399
+
+Nov 2000 The Path of the Law, by O.W. Holmes, Jr.         [palawxxx.xxx]2398
+Nov 2000 Story of My Life, by Helen Keller                [kellexxx.xxx]2397
+Nov 2000 History of the Catholic Church, by J. MacCaffrey [hcathxxx.xxx]2396
+Nov 2000 The Golden Fleece, by Padraic Colum              [fleecxxx.xxx]2395
+ (no, this is not the same as #1614, The Golden Fleece by Julian Hawthorne)
+
+Nov 2000 The Grand Canyon of Arizona, by George W. James  [gcoazxxx.xxx]2394
+Nov 2000 His Dog, by Albert Payson Terhune                [hsdogxxx.xxx]2393
+Nov 2000 Further Adventures of Lad, Albert Payson Terhune [faladxxx.xxx]2392
+Nov 2000 Bruce, by Albert Payson Terhune                  [brucexxx.xxx]2391
+
+Nov 2000 The Conquest of the Old Southwest, by Henderson  [cnqswxxx.xxx]2390
+Nov 2000 Bardelys the Magnificent, by Rafael Sabatini     [bardexxx.xxx]2389
+Nov 2000 The Bhagavad-Gita, translated by Sir Edwin Arnold[bgitaxxx.xxx]2388
+Nov 2000 The Voice, by Margaret Deland                    [voicexxx.xxx]2387
+
+Nov 2000 Theodore Roosevelt; An Intimate Biography, Thayer[teddyxxx.xxx]2386
+Nov 2000 Gala-Days, by Gail Hamilton (Agibail Dodge)      [galadxxx.xxx]2385
+Nov 2000 The Deliverance, by Ellen Glasgow                [delivxxx.xxx]2384
+Nov 2000 Canterbury Tales and Other Poems, GeoffreyChaucer[cbtlsxxx.xxx]2383
+
+Nov 2000 Proposed Territory of Arizona, Sylvester Mowry   [tarizxxx.xxx]2382
+Nov 2000 Actions and Reactions, by Rudyard Kiping         [actrexxx.xxx]2381
+Nov 2000 Das Maerchen von dem Myrtenfraeulein, C. Brentano[7myrtxxx.xxx]2380
+Nov 2000 Das Maerchen von dem Myrtenfraeulein, C. Brentano[8myrtxxx.xxx]2380
+Nov 2000 Chastelard, by Algernon Charles Swinburne        [chastxxx.xxx]2379
+
+
+
+
+These are for the publication month September 2000 (9 etexts):
+
+[Some of these were previously reserved, or have been updated. . .]
+
+
+Sep 2000 Wilhelm Meisters Lehrjahre 8, by Goethe[Goethe20][7wml8xxx.xxx]2342
+Sep 2000 Wilhelm Meisters Lehrjahre 8, by Goethe[Goethe20][8wml8xxx.xxx]2342
+Sep 2000 Wilhelm Meisters Lehrjahre 7, by Goethe[Goethe19][7wml7xxx.xxx]2341
+Sep 2000 Wilhelm Meisters Lehrjahre 7, by Goethe[Goethe19][8wml7xxx.xxx]2341
+Sep 2000 Wilhelm Meisters Lehrjahre 6, by Goethe[Goethe18][7wml6xxx.xxx]2340
+Sep 2000 Wilhelm Meisters Lehrjahre 6, by Goethe[Goethe18][8wml6xxx.xxx]2340
+Sep 2000 Wilhelm Meisters Lehrjahre 5, by Goethe[Goethe17][7wml5xxx.xxx]2339
+Sep 2000 Wilhelm Meisters Lehrjahre 5, by Goethe[Goethe17][8wml5xxx.xxx]2339
+
+Sep 2000 Wilhelm Meisters Lehrjahre 4, by Goethe[Goethe16][7wml4xxx.xxx]2338
+Sep 2000 Wilhelm Meisters Lehrjahre 4, by Goethe[Goethe16][8wml4xxx.xxx]2338
+Sep 2000 Wilhelm Meisters Lehrjahre 3, by Goethe[Goethe15][7wml3xxx.xxx]2337
+Sep 2000 Wilhelm Meisters Lehrjahre 3, by Goethe[Goethe15][8wml3xxx.xxx]2337
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe14][7wml2xxx.xxx]2336
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe14][8wml2xxx.xxx]2336
+
+Newly updated etexts (newer versions, such as 7wml11.txt supersedes
+7wml10.txt):
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe13][7wml1xxx.xxx]2335
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe13][8wml1xxx.xxx]2335
+
+Sep 2000 Hans Huckebein, by Wilhelm Busch [Three *Stories][7hckbxxx.xxx]2322
+Sep 2000 Hans Huckebein, by Wilhelm Busch [Three *Stories][8hckbxxx.xxx]2322
+
+
+
+These are for the publication month August 2000 (4 etexts):
+
+Aug 2000 The Descent of Man, by Charles Darwin  [Darwin#7][dscmnxxx.xxx]2300
+Aug 2000 How to Live on 24 Hours a Day, by Arnold Bennett [24hrsxxx.xxx]2274
+Aug 2000 The Discovery of Guiana, by Walter Raleigh  WR#3][guianxxx.xxx]2272
+Aug 2000 He Fell In Love With His Wife, by Edward P. Roe  [inlhwxxx.xxx]2271
+
+
+I was told there were a few typos here that have been corrected,
+so I am including these listings below again.
+
+Jun 2000 Human Genome Project, Y Chromosome Number 24    [0yhgpxxx.xxx]2224
+Jun 2000 Human Genome Project, X Chromosome Number 23    [0xhgpxxx.xxx]2223
+
+Jun 2000 Human Genome Project, Chromosome Number 22      [22hgpxxx.xxx]2222
+Jun 2000 Human Genome Project, Chromosome Number 21      [21hgpxxx.xxx]2221
+Jun 2000 Human Genome Project, Chromosome Number 20      [20hgpxxx.xxx]2220
+Jun 2000 Human Genome Project, Chromosome Number 19      [19hgpxxx.xxx]2219
+
+Jun 2000 Human Genome Project, Chromosome Number 18      [18hgpxxx.xxx]2218
+Jun 2000 Human Genome Project, Chromosome Number 17      [17hgpxxx.xxx]2217
+Jun 2000 Human Genome Project, Chromosome Number 16      [16hgpxxx.xxx]2216
+Jun 2000 Human Genome Project, Chromosome Number 15      [15hgpxxx.xxx]2215
+
+Jun 2000 Human Genome Project, Chromosome Number 14      [14hgpxxx.xxx]2214
+Jun 2000 Human Genome Project, Chromosome Number 13      [13hgpxxx.xxx]2213
+Jun 2000 Human Genome Project, Chromosome Number 12      [12hgpxxx.xxx]2212
+Jun 2000 Human Genome Project, Chromosome Number 11      [11hgpxxx.xxx]2211
+
+Jun 2000 Human Genome Project, Chromosome Number 10      [10hgpxxx.xxx]2210
+Jun 2000 Human Genome Project, Chromosome Number 09      [09hgpxxx.xxx]2209
+Jun 2000 Human Genome Project, Chromosome Number 08      [08hgpxxx.xxx]2208
+Jun 2000 Human Genome Project, Chromosome Number 07      [07hgpxxx.xxx]2207
+
+Jun 2000 Human Genome Project, Chromosome Number 06      [06hgpxxx.xxx]2206
+Jun 2000 Human Genome Project, Chromosome Number 05      [05hgpxxx.xxx]2205
+Jun 2000 Human Genome Project, Chromosome Number 04      [04hgpxxx.xxx]2204
+Jun 2000 Human Genome Project, Chromosome Number 03      [03hgpxxx.xxx]2203
+
+Jun 2000 Human Genome Project, Chromosome Number 02      [02hgpxxx.xxx]2202
+Jun 2000 Human Genome Project, Chromosome Number 01      [01hgpxxx.xxx]2201
+Jun 2000 Human Genome Project, About the Human GenomeFiles[0ahgpxxx.xxx]2200
+Jun 2000 The Iliad, by Homer, translated by Samuel Butler[iliadxxx.xxx]2199
+
+
+Newly updated etexts (newer versions, such as 8spur11.txt supersedes
+8spur10.txt):
+
+May 2000 Frau und Kindern auf der Spur, by Gerold K.Rohner[8spurxxx.xxx]2174C
+May 2000 Frau und Kindern auf der Spur, by Gerold K.Rohner[7spurxxx.xxx]2174C
+May 2000 Thoughts on Present Discontents, etc., by Burke[thdscxxx.xxx]2173
+May 2000 That Mainwaring Affair, by Maynard Barbour[mnwrnxxx.xxx]2172
+May 2000 Brother Jacob, by George Eliot   [George Eliot#5][brjcbxxx.xxx]2171
+
+May 2000 Misc Writings and Speeches, Lord Macaulay  V4 of4[4mwsmxxx.xxx]2170*
+May 2000 Misc Writings and Speeches, Lord Macaulay  V3 of4[3mwsmxxx.xxx]2169
+May 2000 Misc Writings and Speeches, Lord Macaulay  V2 of4[2mwsmxxx.xxx]2168
+May 2000 Misc Writings and Speeches, Lord Macaulay  V1 of4[1mwsmxxx.xxx]2167
+
+May 2000 King Solomon's Mines, by H. Rider Haggard [HRH#9][7kslmxxx.xxx]2166
+May 2000 King Solomon's Mines, by H. Rider Haggard [HRH#9][8kslmxxx.xxx]2166
+May 2000 The Lifted Veil, by George Eliot [George Eliot#4][lftvlxxx.xxx]2165
+May 2000 The Lumley Autograph  Susan Fenimore Cooper[SFC#2][lumlyxxx.xxx]2164
+May 2000 The Bridge-Builders, by Mark Twain[Mark Twain#16][brdgbxxx.xxx]2163
+
+
+***
+
+
+NEW etexts with numbers that were reserved for March 2000 (2 etexts):
+
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V16[16frdxxx.xxx]2116
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V15[15frdxxx.xxx]2115
+
+We are nowabout 80% done with this massive undertaking of Carlyle. . . .
+
+
+***
+
+From John Mark Ockerbloom:
+
+Due to an imminent disk space crunch on tom.cs.cmu.edu (which I can't
+do anything about directly, no longer being at CMU)
+I've moved over my Project Gutenberg
+multiplexer to our local machine.  Any URL starting with
+
+  http://tom.cs.cmu.edu/cgi-bin/book/lookup?num=
+
+can start with
+
+  http://digital.library.upenn.edu/webbin/gutbook/lookup?num=
+
+instead.  The old URLs will also continue to work,
+at least until the disk at CMU fills up.
+
+I don't know if this will be a permanent move or not (I'd really
+like to get the multiplexer maintained by PG rather than by me)
+but it will work for now (and if the tom.cs.cmu.edu links break,
+an automatic search-replace can change all your links over to the
+new form fairly quickly.)
+
+Sorry for the sudden changeover, but it looked like something needed
+to be done fast, and I wanted to give people with Web indexes a heads-up.
+
+John
+-----------------------------------------------------------------------------
+This message was sent via the Book People mailing list.
+Posting address:              spok+bookpeople@cs.cmu.edu
+Admin. & unsubscribe address: spok+bookpeople-request@cs.cmu.edu
+Charter:                      http://digital.library.upenn.edu/books/bplist/
+
+
+
+***
+
+From: Simon Kittle &lt;sjk98@doc.ic.ac.uk&gt;
+
+A quick note about an automatic "page turner" for the "less" program.
+
+
+OK, well the webpage will be at:
+
+http://www.doc.ic.ac.uk/~sjk98/sw/evenless
+
+
+It is still very early stages, I mailed the author of `less', and he
+thought of a possibly better way to do this, but I have a working
+version that is very useful to me, and will put that up in the page.
+
+So, thats the URL, and I will keep it updated with what happens.
+
+
+--
+Simon Kittle &lt;sjk98@doc.ic.ac.uk&gt;     GPG/PGP Mail welcome and prefered
+public keys:                             http://www.doc.ic.ac.uk/~sjk98
+
+
+***
+
+
+The Project Gutenberg German team has taken on a
+significant translation effort.  Hermann Hesse's Siddhartha
+has cleared the copyright boundary and we are converting
+the 1922 edition in the original German.  This work will be
+finished shortly and will become available for proofreading
+soon.
+
+But the really exciting part is the flipside translation
+into English of this book.  Yes, we know it has already
+been translated, but those publishers hold very recent
+copyrights to the English portions that won't be released
+for a long time.  So we will do our own translation!
+
+We need your assistance to get this done.  We have
+established a web page to manage this work-in-progress.
+Volunteers are asked to check in with us for an assignment
+so we know who is working on what and not overly duplicate
+efforts.  Assignments run two pages at a time.  Contact
+Stefan Langer (sl99@gmx.de), Amy Coulter
+(acoulter@teleport.com) or myself
+(globaltraveler5565@yahoo.com) for details and to get
+started.
+
+You can preview the work already done by using your web
+browser to go to the web page
+http://www.fortunecity.de/lindenpark/wallhalla/245/hesse/translation.htm
+
+We look forward to working with you on this!  This will be
+fun indeed!!
+
+Mike Pullen
+
+***
+
+Alev Akman has joined the volunteers as a cataloger for the website at
+www.promo.net/pg. Her work is greatly enhancing the usefulness of
+Pietro's newly-revised search engine. Welcome, Alev, and thank you,
+Pietro!
+
+Dianne
+beandp@primenet.com
+
+                     support
+                      online
+                      books!
+
+
+
+***
+
+Because of the increased interest in our other listservers,
+I am including the subscription information about all. . .
+
+
+***
+
+You can subscribe or unsubscribe by yourself to the listservers we
+have running. . .if you are trying to unsubscribe, please be aware
+that MANY different listservers relay the newsletters from Project
+Gutenberg and Ask Dr. Internet, and that it is quite likely you do
+not receive our newsletters directly from our listservers.  In any
+case of that nature, you would have to deal with the listserver in
+question, presuming you still wanted to unsubscribe in that case.
+
+Remember, sometimes Dr. Internet and Project Gutenberg share lists
+for mailing. . .so you may sub or unsub to both without knowing.
+
+There are now three Project Gutenberg Lists. . .volunteers are two
+of them, and the third is for announcments for the general public.
+Those of you who want the highest "signal to noise ratio, i.e. the
+fewest number of messages containing the most information may want
+to subscribe to the "gutvol-l" list AND the "gutnberg" lists; just
+by including a second line with "gutvol-l" in place of "gutnberg."
+[That is an "-L" after "gutvol" for the Volunteer's Listserver.]--
+In addition we have opened an "unmoderated list" called "gutvol-d"
+to which anyone may subscribe and post messages. . .we may have to
+limit subscriptions to actual volunteers if we start getting spam,
+but for now this will be a wide open list.
+
+Rememmber:
+"gutnberg" = General Public Announcements
+"gutvol-l" = General Private Announcements
+"gutvol-d" = Free For All Discussion
+
+To SUBSCRIBE to the Project Gutenberg mailing list, "gutnberg" please
+send an email message to: listproc@listserv.oit.unc.edu
+
+The subject line of the message will be ignored.  The body of the
+message should contain the text:
+
+	subscribe gutnberg Your True Name
+and/or
+        subscribe gutvol-l Your True Name
+and/or
+        subscribe gutvol-d Your True Name
+So, if your name were Dudley P. Duck, your message would contain:
+
+	subscribe gutnberg Dudley P. Duck
+
+You do not need to include your email address, because Listprocessor
+gets it from the header of your email message.
+
+Beware that the address must be "listproc@listserv.oit.unc.edu" You
+can't address your message to an address like "listserv" or "listprocessor"
+or "majordom"
+
+To UNSUBSCRIBE, just send this message to "listproc@listserv.oit.unc.edu"
+
+	unsubscribe gutnberg
+
+If you are having trouble with the list, send a message to
+"owner-gutnberg@listserv.oit.unc.edu" and your message will be routed
+to the person who manages the list.
+
+
+Thanks!!
+
+Michael S. Hart
+[hart@pobox.com]
+Project Gutenberg
+Executive Director
+Internet User ~#100
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_2000_02_02.txt" target="_blank" rel="nofollow">pgmonthly_2000_02_02.txt</a>

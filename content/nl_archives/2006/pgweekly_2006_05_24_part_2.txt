@@ -1,0 +1,501 @@
+From news at pglaf.org  Wed May 24 19:59:19 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Wed May 24 19:59:21 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0605241957160.5551@pglaf.org>
+
+GWeekly_May_24_part2.txt
+
+The Project Gutenberg Weekly Newsletter 24 May 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 34 New U.S. eBooks this week
+    - 2 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 24 May 2006: 18983 (incl. 582 Aus.).
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Burlesques, by William Makepeace Thackeray                                2675
+   [Updated edition of: etext01/brlsq10.txt]
+   [Link: http://www.gutenberg.org/2/6/7/2675 ]
+   [Files: 2675.txt; 2675-h.htm]
+
+The Story of a Mine, by Bret Harte                                        2661
+   [Updated edition of: etext01/tsoam10.txt]
+   [Link: http://www.gutenberg.org/2/6/6/2661 ]
+   [Files: 2661.txt; 2661-h.htm]
+
+George Cruikshank, by William Makepeace Thackeray                         2648
+   [Updated edition of: etext01/cruik10.txt]
+   [Link: http://www.gutenberg.org/2/6/4/2648 ]
+   [Files: 2648.txt; 2648-h.htm]
+
+John Leech's Pictures of Life and Character, William Makepeace Thackeray  2646
+   [Updated edition of: etext01/jlplc10.txt]
+   [Link: http://www.gutenberg.org/2/6/4/2646 ]
+   [Files: 2646.txt; 2646-h.htm]
+
+The Second Funeral of Napoleon, by William Makepeace Thackeray            2645
+   [Author AKA: Michael Angelo Titmarch]
+   [Updated edition of: etext01/2napf10.txt]
+   [Link: http://www.gutenberg.org/2/6/4/2645 ]
+   [Files: 2645.txt; 2645-h.htm]
+
+Clarence, by Bret Harte                                                   2635
+   [Updated edition of: etext01/clrnc10.txt]
+   [Link: http://www.gutenberg.org/2/6/3/2635 ]
+   [Files: 2635.txt; 2635-h.htm]
+
+Roundabout Papers, by William Makepeace Thackeray                         2608
+   [Updated edition of: etext01/rndbt10.txt]
+   [Link: http://www.gutenberg.org/2/6/0/2608 ]
+   [Files: 2608.txt; 2608-h.htm]
+
+Legends and Tales, by Bret Harte                                          2599
+   [Contents]
+   [The Legend Of Monte Del Diablo]
+   [The Adventure Of Padre Vincentio]
+   [The Legend Of Devil's Point]
+   [The Devil And The Broker]
+   [The Ogress Of Silver Land]
+   [The Ruins Of San Francisco]
+   [A Night At Wingdam]
+   [Updated edition of: etext01/landt10.txt]
+   [Link: http://www.gutenberg.org/2/5/9/2599 ]
+   [Files: 2599.txt; 2599-h.htm]
+
+Urban Sketches, by Bret Harte                                             2598
+   [Contents:]
+   [A Venerable Impostor]
+   [From A Balcony]
+   [Melons]
+   [Surprising Adventures Of Master Charles Summerton]
+   [Sidewalkings]
+   [A Boy's Dog]
+   [Charitable Reminiscences]
+   ["Seeing The Steamer Off"]
+   [Neighborhoods I Have Moved From]
+   [My Suburban Residence]
+   [On A Vulgar Little Boy]
+   [Waiting For The Ship]
+   [Updated edition of: etext01/urbns10.txt]
+   [Link: http://www.gutenberg.org/2/5/9/2598 ]
+   [Files: 2598.txt; 2598-h.htm]
+
+Mrs. Skaggs's Husbands and Other Stories, by Bret Harte                   2597
+   [Contents]
+   [Mrs. Skaggs's Husbands]
+   [How Santa Claus Came To Simpson's Bar]
+   [The Princess Bob And Her Friends]
+   [The Iliad Of Sandy Bar]
+   [Mr. Thompson's Prodigal]
+   [The Romance Or Madrono Hollow]
+   [The Poet Of Sierra Flat]
+   [The Christmas Gift That Came To Rupert]
+   [Updated edition of: etext01/skggs10.txt]
+   [Link: http://www.gutenberg.org/2/5/9/2597 ]
+   [Files: 2597.txt; 2597-h.htm]
+
+On the Frontier, by Bret Harte                                            2574
+   [Contents]
+   [At The Mission Of San Carmel]
+   [A Blue Grass Penelope]
+   [Left Out On Lone Star Mountain]
+   [Updated edition of: etext01/frntr10.txt]
+   [Link: http://www.gutenberg.org/2/5/7/2574 ]
+   [Files: 2574.txt; 2574-h.htm]
+
+The Three Partners, by Bret Harte                                         2560
+   [Updated edition of: etext01/tpart10.txt]
+   [Link: http://www.gutenberg.org/2/5/6/2560 ]
+   [Files: 2560.txt; 2560-h.htm]
+
+Mr. Jack Hamlin's Mediation and Other Stories, by Bret Harte              2556
+   [Contents]
+   [Mr. Jack Hamlin's Mediation]
+   [The Man At The Semaphore]
+   [An Esmeralda Of Rocky Canyon]
+   [Dick Spindler's Family Christmas]
+   [When The Waters Were Up At "Jules'"]
+   [The Boom In The "Calaveras Clarion"]
+   [The Secret Of Sobriente's Well]
+   [Liberty Jones's Discovery]
+   [Updated edition of: etext01/jhmln10.txt]
+   [Link: http://www.gutenberg.org/2/5/5/2556 ]
+   [Files: 2556.txt; 2556-h.htm]
+
+Under the Redwoods, by Bret Harte                                         2555
+   [Contents]
+   [Jimmy's Big Brother From California]
+   [The Youngest Miss Piper]
+   [A Widow Of The Santa Ana Valley]
+   [The Mermaid Of Lighthouse Point]
+   [Under The Eaves]
+   [How Reuben Allen "Saw Life" In San Francisco]
+   [Three Vagabonds Of Trinidad]
+   [A Vision Of The Fountain]
+   [A Romance Of The Line]
+   [Bohemian Days In San Francisco]
+   [Updated edition of: etext01/unrdw10.txt]
+   [Link: http://www.gutenberg.org/2/5/5/2555 ]
+   [Files: 2555.txt; 2555-h.htm]
+
+Thankful's Inheritance, by Joseph C. Lincoln                              2552
+   [Updated edition of: etext01/thkin10.txt]
+   [Link: http://www.gutenberg.org/2/5/5/2552 ]
+   [Files: 2552.txt; 2552-h.htm]
+
+Tales of Trail and Town, by Bret Harte                                    2550
+   [Contents]
+   [The Ancestors Of Peter Atherly]
+   [Two Americans]
+   [The Judgment Of Bolinas Plain]
+   [The Strange Experience Of Alkali Dick]
+   [A Night On The Divide]
+   [The Youngest Prospector In Calaveras]
+   [A Tale Of Three Truants]
+   [Updated edition of: etext00/totat10.txt]
+   [Link: http://www.gutenberg.org/2/5/5/2550 ]
+   [Files: 2550.txt; 2550-h.htm]
+
+>From Sand Hill to Pine, by Bret Harte                                      2544
+   [Contents:]
+   [A Niece Of Snapshot Harry's]
+   [A Treasure Of The Redwoods]
+   [A Belle Of Canada City]
+   [What Happened At The Fonda]
+   [A Jack And Jill Of The Sierras]
+   [Mr. Bilson's Housekeeper]
+   [Updated edition of: etext01/fshtp10.txt]
+   [Link: http://www.gutenberg.org/2/5/4/2544 ]
+   [Files: 2544.txt; 2544-h.htm]
+
+Openings in the Old Trail, by Bret Harte                                  2535
+   [Contents:]
+   [Openings In The Old Trail]
+   [A Mercury Of The Foot-Hills]
+   [Colonel Starbottle For The Plaintiff]
+   [The Landlord Of The Big Flume Hotel]
+   [A Buckeye Hollow Inheritance]
+   [The Reincarnation Of Smith]
+   [Lanty Foster's Mistake]
+   [An Ali Baba Of The Sierras]
+   [Miss Peggy's Proteges]
+   [The Goddess Of Excelsior]
+   [Updated edition of: etext01/oitot10.txt]
+   [Link: http://www.gutenberg.org/2/5/3/2535 ]
+   [Files: 2535.txt; 2535-h.htm]
+
+The History of Henry Esmond, Esq., by W. M. Thackeray                     2511
+   [Updated edition of: etext01/hnrye10.txt]
+   [Link: http://www.gutenberg.org/2/5/1/2511 ]
+   [Files: 2511.txt; 2511-h.htm]
+
+Stories in Light and Shadow, by Bret Harte                                2508
+   [Contents]
+   ["Unser Karl"]
+   [Uncle Jim And Uncle Billy]
+   [See Yup]
+   [The Desborough Connections]
+   [Salomy Jane's Kiss]
+   [The Man And The Mountain]
+   [The Passing Of Enriquez]
+   [Updated edition of: etext00/slgts10.txt]
+   [Link: http://www.gutenberg.org/2/5/0/2508 ]
+   [Files: 2508.txt; 2508-h.htm]
+
+Lavengro, by George Borrow                                                 452
+   [Subtitle: The Scholar, The Gypsy, The Priest]
+   [Introduction: Augustine Birrell]
+   [Illus.: E. J. Sullivan]
+   [Updated edition of: etext96/lvgro10.txt]
+   [Link: http://www.gutenberg.org/4/5/452 ]
+   [Files: 452.txt; 452-h.htm]
+
+
+-=-=-=-=[  34 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Parrot & Co., by Harold MacGrath                                         18443
+   [Ill.: Andre Castaigne]
+   [Link: http://www.gutenberg.org/1/8/4/4/18443 ]
+   [Files: 18443.txt; 18443-8.txt; 18443-h.htm; ]
+
+Fifty Famous Stories Retold, by James Baldwin                            18442
+   [Link: http://www.gutenberg.org/1/8/4/4/18442 ]
+   [Files: 18442.txt; 18442-8.txt; 18442-h.htm]
+
+Bright-Wits, Prince of Mogadore, by Burren Laughlin and L. L. Flood      18441
+   [Link: http://www.gutenberg.org/1/8/4/4/18441 ]
+   [Files: 18441.txt; 18441-h.htm]
+
+Logic, by Carveth Read                                                   18440
+   [Subtitle: Deductive and Inductive]
+   [Link: http://www.gutenberg.org/1/8/4/4/18440 ]
+   [Files: 18440.txt; 18440-8.txt; 18440-0.txt; 18440-h.htm]
+
+What the Mother of a Deaf Child Ought to Know, by John Dutton Wright     18439
+   [Link: http://www.gutenberg.org/1/8/4/3/18439 ]
+   [Files: 18439.txt; 18439-8.txt; 18439-h.htm]
+
+Explanation of Catholic Morals, by John H. Stapleton                     18438
+   [Subtitle: A Concise, Reasoned, and Popular Exposition of Catholic]
+   [Morals]
+   [Link: http://www.gutenberg.org/1/8/4/3/18438 ]
+   [Files: 18438.txt; 18438-h.htm; ]
+
+Troublesome Comforts, by Geraldine Glasgow                               18437
+   [Subtitle: A Story for Children]
+   [Link: http://www.gutenberg.org/1/8/4/3/18437 ]
+   [Files: 18437.txt; 18437-8.txt; 18437-h.htm; ]
+
+Arnold Bocklin, by Heinrich Alfred Schmid                                18436
+   [Illustrator: Arnold Bocklin]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/4/3/18436 ]
+   [Files: 18436-8.txt; 18436-0.txt; 18436-h.htm]
+
+Good Things to Eat as Suggested by Rufus, by Rufus Estes                 18435
+   [Subtitle: A Collection of Practical Recipes for Preparing Meats,]
+   [Game, Fowl, Fish, Puddings, Pastries, Etc.]
+   [Link: http://www.gutenberg.org/1/8/4/3/18435 ]
+   [Files: 18435.txt; 18435-h.htm]
+
+A Melody in Silver, by Keene Abbott                                      18434
+   [Link: http://www.gutenberg.org/1/8/4/3/18434 ]
+   [Files: 18434.txt; 18434-h.htm]
+
+Kultala, by Heinrich Zschokke                                            18433
+   [Subtitle: Hydyllinen ja huvittava historia, yhteiselle kansalle]
+   [luettavaksi annettu]
+   [Translator: Carl Niclas Keckman]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/4/3/18433 ]
+   [Files: 18433-8.txt]
+
+Fowler's Household Helps, by A. L. Fowler                                18432
+   [Subtitle: Over 300 Useful and Valuable Helps About the Home, Carefully]
+   [Compiled and Arranged in Convenient Form for Frequent Use]
+   [Link: http://www.gutenberg.org/1/8/4/3/18432 ]
+   [Files: 18432.txt; 18432-h.htm; ]
+
+Other Worlds, by Garrett P. Serviss                                      18431
+   [Subtitle: Their Nature, Possibilities and Habitability in the Light of]
+   [the Latest Discoveries]
+   [Link: http://www.gutenberg.org/1/8/4/3/18431 ]
+   [Files: 18431.txt; 18431-8.txt; 18431-h.htm; ]
+
+Our Elizabeth, by Florence A. Kilpatrick                                 18430
+   [Subtitle: A Humour Novel]
+   [Illus.: Ernest Forbes]
+   [Link: http://www.gutenberg.org/1/8/4/3/18430 ]
+   [Files: 18430.txt; 18430-8.txt; 18430-h.htm; ]
+
+Zonnestralen in School en Huis, by Henr. Dietz and Kath. Leopold         18429
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/4/2/18429 ]
+   [Files: 18429-8.txt; 18429-h.htm]
+
+The Feast at Solhoug, by Henrik Ibsen                                    18428
+   [Tr.: William Archer and Mary Morrison]
+   [Link: http://www.gutenberg.org/1/8/4/2/18428 ]
+   [Files: 18428.txt; ]
+
+Mon frere Yves, by Pierre Loti                                           18427
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/4/2/18427 ]
+   [Files: 18427-8.txt; 18427-h.htm]
+
+Sunny Slopes, by Ethel Hueston                                           18426
+   [Illus.: Arthur William Brown]
+   [Link: http://www.gutenberg.org/1/8/4/2/18426 ]
+   [Files: 18426.txt; 18426-8.txt; 18426-h.htm; ]
+
+Een Kapitein van 15 Jaar, by Jules Verne                                 18425
+   [Subtitle: De Walvischjagers]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/4/2/18425 ]
+   [Files: 18425-8.txt; 18425-h.htm]
+
+A Midsummer Holiday and Other Poems, by Algernon Charles Swinburne       18424
+   [Link: http://www.gutenberg.org/1/8/4/2/18424 ]
+   [Files: 18424.txt; 18424-8.txt; 18424-h.htm]
+
+Old Kaskaskia, by Mary Hartwell Catherwood                               18423
+   [Link: http://www.gutenberg.org/1/8/4/2/18423 ]
+   [Files: 18423.txt; 18423-8.txt; 18423-h.htm]
+
+Modern Eloquence: Vol III, After-Dinner Speeches P-Z, by Various         18422
+   [Link: http://www.gutenberg.org/1/8/4/2/18422 ]
+   [Files: 18422.txt; 18422-8.txt; 18422-h.htm]
+
+Bunny Brown and His Sister Sue Keeping Store, by Laura Lee Hope          18421
+   [Illustrator: Walter S. Rogers]
+   [Link: http://www.gutenberg.org/1/8/4/2/18421 ]
+   [Files: 18421.txt; 18421-h.htm]
+
+The Bobbsey Twins at Home, by Laura Lee Hope                             18420
+   [Link: http://www.gutenberg.org/1/8/4/2/18420 ]
+   [Files: 18420.txt; 18420-h.htm; ]
+
+Liberalism and the Social Problem, by Winston Spencer Churchill          18419
+   [Link: http://www.gutenberg.org/1/8/4/1/18419 ]
+   [Files: 18419.txt; 18419-8.txt; 18419-h.htm]
+
+A Crooked Path, by Mrs. Alexander                                        18418
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/8/4/1/18418 ]
+   [Files: 18418.txt; 18418-8.txt; 18418-h.htm]
+
+The Great Panjandrum Himself, by Samuel Foote                            18417
+   [Illustrator: Randolph Caldecott]
+   [Link: http://www.gutenberg.org/1/8/4/1/18417 ]
+   [Files: 18417.txt; 18417-h.htm]
+
+Histoires incroyables, Tome II, by Jules Lermina                         18416
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/4/1/18416 ]
+   [Files: 18416-8.txt]
+
+Histoires incroyables, Tome I, by Jules Lermina                          18415
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/4/1/18415 ]
+   [Files: 18415-8.txt]
+
+The Girl's Own Paper, Vol. VIII, No. 355, October 16, 1886, by Various   18414
+   [Editor: Charles Peters]
+   [Editor: Flora Klickmann]
+   [Link: http://www.gutenberg.org/1/8/4/1/18414 ]
+   [Files: 18414.txt; 18414-8.txt; 18414-h.htm]
+
+Prudence of the Parsonage, by Ethel Hueston                              18413
+   [Illus.: Arthur William Brown]
+   [Link: http://www.gutenberg.org/1/8/4/1/18413 ]
+   [Files: 18413.txt; 18413-8.txt; 18413-h.htm; ]
+
+De Pleiters, by Jean Baptiste Racine                                     18412
+   [Translator: Abraham Bogaert]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/4/1/18412 ]
+   [Files: 18412-8.txt; 18412-0.txt; 18412-h.htm]
+
+Sata runoa, by Various                                                   18411
+   [Subtitle: Valikoituja maailmankirjallisuudesta]
+   [Translator: Valter Juva]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/4/1/18411 ]
+   [Files: 18411-8.txt; 18411-0.txt]
+
+Isopel Berners, by George Borrow                                         18400
+   [Editor: Thomas Seccombe]
+   [Subtitle: The History of certain doings in a Staffordshire Dingle,]
+   [July, 1825]
+   [Link: http://www.gutenberg.org/1/8/4/0/18400 ]
+   [Files: 18400.txt; 18400-h.htm]
+
+
+-=-=-=-=[ 2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+May 2006 Discovery of Australia by de Quiros, by P Moran   [060064xx.xxx] 0582A
+   [http://gutenberg.net.au/ebooks06/0600641.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0600641h.html ]
+   [Author: Patrick F. Moran]
+   [Title: Discovery of Australia by de Quiros in the Year 1606]
+
+May 2006 The First Discovery of Australia, by T D Mutch    [060063xx.xxx] 0581A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

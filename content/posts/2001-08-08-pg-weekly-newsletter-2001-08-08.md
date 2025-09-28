@@ -1,0 +1,521 @@
+---
+params:
+  id: 1846
+title: PG Weekly Newsletter (2001-08-08)
+date: 2001-08-08T16:40:21+00:00
+author: Michael Cook
+layout: post
+url: /20010808/pg-weekly-newsletter-2001-08-08/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletters
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 8 Aug 2001 23:51:09 -0400 (EDT)
+
+
+My apologies if you are getting a second copy, apparently the
+first copy didn't make it to many. . .so I am sending again. . . .
+
+***
+
+**Project Gutenberg's Weekly Newsletter for Wednesday, August 8, 2001**
+
+***  Please check that your email address for me is hart@pobox.com  ***
+[This will relay to my other addresses]
+
+I haven't been able to use my normal emailbox yesterday and today,
+so the news features and some other parts of this Newsletter are
+somewhat limited. . .never let anyone forget that somehow, even
+through all the crashes, we have never actually missed a date to
+do a Newsletter, except on a few rare occasions when Wednesday
+fell on New Year's Day and the like. . .someday we will miss,
+but not yet. . .here are 20 more books for your collection.
+
+Many of you have come to rely on these Newsletters as matters of course,
+but the truth is that only _I_ know just how close we usually are to NOT
+getting the Etexts done, or not getting the Newsletters out on time.
+
+It really is *AMAZING* that we have never really missed one, or missed
+our promised goals of how many Etexts we would produce in a given month,
+even though I *intended* that we would this past month. . .to get us to
+fall back more in line with our "official" schedule. . . .
+
+I will get more detailed reports shortly, but it appears that we may
+have actually produced about 1,000 new Etexts from July 4, 2000 to
+July 4, 2001. . .please note this actually contained the work from
+13 calendar months. . .AND. . .we have cut down the number of those
+Etexts listed as *reserved*. . .so the production has been greater
+than it actually appears. . . .
+
+In addition, I would like to take a moment I have been considering
+for several weeks now to give public thanks to our two David's,
+David Widger and David Price who have pretty much single handedly
+[they did all but two of this week's contributions, as I recall]
+saved me from having to write up the shortest Newsletter of recent
+memory, especially given all the other hassles I've had this week.
+
+My HUGE Thanks!!!!!!!
+
+Michael
+
+***
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+Australia
+
+North Dakota
+
+Mailing Address For Donations
+
+OUR ONLY PAID JOB IS STILL OPEN. . .APPLICATION INFO BELOW
+
+***
+
+[As per several requests, I have included the mailing information,
+along with the states list. . . .]
+
+Please put Project Gutenberg on your Christmas list now. . . .
+
+The Project Gutenberg Literary Archive Foundation wants to put me under
+contract, which would be nice, as my gross income for the past ~32 months
+has been $1250. . .no kidding. . .but they can't do this without some $$$.
+If you can keep us running until the end of this year, they want me to be
+primarily into fundraising and public relations, since I am the only one
+willing to do that sort of thing, and we have finally found at least one
+more volunteer than Greg Newby who is willing to post Etext when I am gone.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+As of July 12, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Louisiana, Maine, Massachusetts, Minnesota,
+Missouri, Montana, Nebraska, New Mexico, Nevada, New Jersey, New York, North
+Carolina, Ohio, Oklahoma, Oregon, Rhode Island, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia,
+Wisconsin, and Wyoming.
+
+I you have questions about the other states, don't hesitate to ask. . . .
+
+
+Donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+***
+
+We STILL need a volunteer in North Dakota to be our legal presence there.
+No reply from last request. . .please ask your North Dakotan friends.
+
+***
+
+We need people in the following countries to handle "life +50" books,
+such as 1984 and Animal Farm, by George Orwell; Edgar Rice Burroughs,
+H. G. Wells, and other authors who died in 1950 or earlier. . . .
+
+We are hoping some people in these countries will make Etext sites.
+WARNING!!!  Canada is hiding it, but they are contemplating moving
+to "life +70". . .so if you want to get these and pass them on in
+a legal manner. . .now is the time!!!  We have a site starting up
+in Australia, so let me know if you would like to help it start!
+
+Angola, Argentina, Australia, Bangladesh, Barbados, Benin, Bulgaria,
+Burkina Faso, Burundi, Canada, Chile, China, Egypt, El Salvador,
+Iceland, Japan, (South) Korea, Latvia, Morocco, Nepal, New Zealand,
+Panama, the Philippines, Poland, St. Vincent and the Grenadines,
+Saudi Arabia, Singapore, South Africa, Taiwan, Thailand, Trinidad
+and Tobago, and Ukraine are all "life plus 50 years" countries,
+or were last time I checked.) and Portugal.
+
+If you would like to support this effort, either with Etexts,
+sites to post one, or to help create a Project Gutenberg group
+in Australia or other "life +50" countries please email:
+Michael Hart &lt;hart@pobox.com&gt;
+and
+Colin Choat &lt;colchoat@yahoo.com.au&gt;
+
+***
+
+Someone sent me a beautifully marginated message outlining some
+proposals to work with Project Gutenberg Etexts, and I have not
+been able to find the message again to reply. . .please resend!
+
+***
+
+Ross Werner is intersted in pursuing the Gutenberg Encyclopedia,
+please let me know if you are interested.
+
+***
+
+Please reply to:  Mary Jensen at mjensen@watervalley.net
+
+The Project Gutenberg Literary Archive Foundation has
+learned that its administrative assistant must resign
+for personal reasons.  We would like to hire a replacement
+while she is still available to help us with the transition.
+The job description is given below.  Applicants who
+applied for the original position late last year are
+encouraged to reapply.  To apply, please send a
+resume and contact information for three references
+to Trustee, Mary Jensen at mjensen@watervalley.net .
+Include a cover email message providing us with
+any information you think relevant to consideration
+of your application.  Please apply promptly as we
+hope to make a hiring decision as soon as possible.
+
+
+                   Job Description
+
+Position Title: Project Gutenberg Administrative Assistant
+Reports to:      Trustees
+Location:        Any physical location within the United States
+Time/Salary:   $10,000 a year for approximately 1/4 time; potential
+                        to develop into full time position
+
+Mission:  The mission of Project Gutenberg and the Project
+Gutenberg Literary Archive Foundation Trust is to preserve literary
+and other intellectual works for the present and future and to make
+copies of, or products based on, those works available free of
+charge or at the lowest possible cost to the people of the United
+States and ultimately the entire world.
+
+Duties:  The administrative assistant provides general support
+assistance to trustees, key employees and major volunteers.
+
+Duties include
+*    compilation, drafting and filing of reports, documents and
+     correspondence needed to comply with non-profit regulations of all
+     50 states and the U.S. government;
+*   record keeping related to donors, donations, employees,
+     finances, publications, and other activities of the Foundation;
+*   compilation, drafting, editing and distribution of documents and
+     correspondence related to grants and fund raising;
+*   compilation, drafting and maintenance of Foundation
+     policies and procedures designed to ensure compliance with federal
+     and state laws and regulations
+*    handling routine contact with public, primarily via e-mail
+*    coordinating the work of volunteers on administrative
+      aspects of running the Foundation, including
+     -      coordinating fund raising activity of volunteers
+     -      coordinating volunteer work on publications
+
+including
+
+          +    Foundation web page
+          +   Foundation newsletter
+          +    Document headers
+*    Assisting trustees, directors, other employees and major
+     volunteers, including
+    -       distribution of documents to widely dispersed
+                people
+     -      conversion of documents to various forms
+                accessible to volunteers using different software and
+                hardware
+*    Conducting research needed to find the information to carry
+       out these duties.
+
+Qualifications:   Strong self motivational, organizational,
+coordination, analytical and people skills, excellent written and
+oral communication skills; ability to work with limited
+supervision; ability to learn quickly primarily from documentation;
+an interest in the workings of non-profit organizations, comfortable
+working knowledge of software (ability to use software to
+construct and convert complex documents in WordPerfect, MS
+Word, Adobe Acrobat, HTML, and other document formats
+commonly found on the Internet); ability to coordinate the work of
+volunteers; ability to work with people over distances using
+Internet, fax and phone; willingness to learn about non-profit law
+and help implement procedures to enable volunteers and
+employees to comply with those laws, and commitment to the
+mission of Project Gutenberg.  Non profit administrative
+experience is highly desirable.
+
+Please reply to:  Mary Jensen at mjensen@watervalley.net
+
+***
+
+
+Here is a list of the 20 Etexts posted since last Wednesday.
+
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+***
+
+We have REposted significantly improved 11th editions of the following:
+
+Nov 2002 Beethoven: The Man And The Artist/Kerst & Krehbiel[lvbmaxxx.xxx]3528
+[Full Title: Beethoven: the Man and the Artist, as Revealed in his own Words]
+[Authors' Full Names:]
+[Ludwig van Beethoven, edited by Friedrich Kerst and Henry Edward Krehbiel]
+
+***
+
+And here are the 20 new releases for this week.
+20 Etext per week would yield 1040 per year, or
+about 86 per 30 day month.
+
+
+
+Mar 2003 The Entire Court Memoirs of France Series  [CM#63][cm63bxxx.xxx]3900
+Mar 2003 The Entire Memoirs of Court of St. Cloud   [CM#62][cm62bxxx.xxx]3899
+Mar 2003 Memoirs of the Court of St. Cloud, v7      [CM#61][cm61bxxx.xxx]3898
+Mar 2003 Memoirs of the Court of St. Cloud, v6      [CM#60][cm60bxxx.xxx]3897
+Mar 2003 Memoirs of the Court of St. Cloud, v5      [CM#59][cm59bxxx.xxx]3896
+95
+Mar 2003 Memoirs of the Court of St. Cloud, v4      [CM#58][cm58bxxx.xxx]3895
+Mar 2003 Memoirs of the Court of St. Cloud, v3      [CM#57][cm57bxxx.xxx]3894
+Mar 2003 Memoirs of the Court of St. Cloud, v2      [CM#56][cm56bxxx.xxx]3893
+Mar 2003 Memoirs of the Court of St. Cloud, v1      [CM#55][cm55bxxx.xxx]3892
+
+25
+Feb 2003 Famous Men of the Middle Ages, by Harren & Poland [fmtmaxxx.xxx]3725
+[Authors' Full Names:  John H. Haaren and A. B. Poland]
+[Not sure this one actually on line yet as of this writing, as this is the
+FIRST new Etext not to be posted by Greg Newby or myself since Judy Boss
+did a month of 19 for me years ago, and said:  "Never again!". . . .]
+Feb 2003 The House Of Heine Brothers by Anthony Trollope 28[hheinxxx.xxx]3724
+Feb 2003 A Ride Across Palestine, by Anthony Trollope [#27][rdpalxxx.xxx]3723
+Feb 2003 A Daughter Of The Land, by Gene Stratton-Porter #8[adotlxxx.xxx]3722
+Feb 2003 Pioneers Of France In The New World, by Parkman #2[pofnwxxx.xxx]3721
+[Full Name:  Francis Parkman, Jr., though the Jr. is often left off.]
+20
+Feb 2003 Returning Home, by Anthony Trollope [Trollope #26][rtnhmxxx.xxx]3720
+Feb 2003 The Mistletoe Bough, by Anthony Trollope  [AT #25][mstlbxxx.xxx]3719
+Feb 2003 George Walker At Suez, by Anthony Trollope[AT #24][grgwkxxx.xxx]3718
+Feb 2003 The Parson's Daughter of Oxney Colne, by Trollope [prsndxxx.xxx]3717
+Feb 2003 Mrs. General Talboys, by Anthony Trollope [AT #22][talbyxxx.xxx]3716
+15
+Feb 2003 The Parenticide Club, by Ambrose Bierce[Bierce #6][prntcxxx.xxx]3715
+Contains:
+My Favorite Murder
+Oil of Dog
+An Imperfect Conflagration
+The Hypnotist
+
+
+***
+
+Our Total For The Year Is About 690 For 220 days,
+this is 3.13 per day or 94 Per 30 day month. . . .
+This Would Yield About 1145 For The Year
+
+         Weekly Yearly
+Newsdate Etexts Avg/wk
+
+08/08/01   20    22
+08/01/01   22    22
+
+07/25/01   24    22
+07/18/01   22    22
+07/11/01   21    23
+07/04/01   29    23
+July Total 96
+
+06/27/01   22    23
+06/20/01   18    23
+06/13/01   17    23
+06/06/01   20    23
+June Total 77
+
+05/31/01   18    24
+05/23/01   16    24
+05/16/01   18    24
+05/09/01   18    25
+05/02/01   39    25
+May Total 109
+
+04/25/01   15    24
+04/18/01   11    25
+04/11/01   12    26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks   326   25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282   21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326   20.38
+
+***
+
+***News Headlines From Newsscan and Edupage***
+
+
+E-BOOKS SAID TO BE "UTTERLY UNNEEDED"
+According to publishing consultant Jim Lichtenberg, the e-book business is
+floundering: "There's no standardization in technology. It's all a big
+mess. This is like having a car in 1905. It breaks down constantly, which
+means you have to travel with your own mechanic--and since there are no
+roads, there's nowhere to go anyway." Prize-winning novelist Kurt Vonnegut
+agrees: "The e-book is a ridiculous idea. The printed book is so
+satisfactory, so responsive to our fingertips. So much of this new stuff is
+utterly unneeded."  But a spokesman for Random House [see Honorary
+Subscriber section below] thinks that reports of the demise of the e-book
+is greatly exaggerated, and that its potential is yet to be realized.(Los
+Angeles Times 6 Aug 2001)
+http://www.latimes.com/business/la-080601ebooks.story
+
+
+[Note there is no mention of compensation for performers]
+
+COURT BACKS ONLINE RADIO RULING
+The broadcasting industry suffered a setback Wednesday when a U.S. district
+judge threw out a challenge to the U.S. Copyright Office, which ruled last
+year that radio stations must pay additional royalties to stream music over
+the Internet. The National Association of Broadcasters responded that the
+ruling would upset a long-standing, mutually beneficial relationship
+between the broadcasting and recording industries. "Broadcasters currently
+pay in excess of $300 million annually in music licensing fees to
+compensate songwriters and music publishers. Any additional fee to
+compensate record companies would be unfair and unreasonable," said NAB
+president and CEO Edward O. Fritts. The ruling was hailed as a victory by
+the Recording Industry Association of America. "Any licensing fees that
+these companies would be paying would pale in comparison... to the cost to
+stream their signal over the Internet," said RIAA senior VP Steven M.
+Marks. (AP 2 Aug 2001)
+http://news.excite.com/news/ap/010802/22/online-radio
+
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+***
+
+CAMPUS CLICKS
+The Internet's role in the life of college students--from
+academic research to socializing--is growing, according to a
+survey conducted by Greenfield Online. The study found that 78
+percent of college students have been accessing the Web for at
+least three years, and 90 percent are online three hours a day.
+(Gannett News Service, 1 August 2001)
+
+
+PC MAKERS ARE READY FOR SCHOOL
+PC makers are readying for the back-to-school season early this
+year, eager to cash in on August and September sales, which
+traditionally constitute up to 20 percent of a year's total.
+Along with marketing programs are special deals struck with
+school districts, as between Hillsborough County Public School
+District in Florida and Compaq. Compaq is allowing Hillsborough
+to buy computers in bulk for resale to parents, including
+refurbished and overstocked systems, in return for a percentage
+of the profits and a discount off the retail price. Other
+manufacturers are looking to cash in on the increasing number of
+colleges and universities requiring incoming students to have PCs
+or laptop computers. Circuit City's Jim Babb said between 10
+and 15 percent of all higher education campuses now require their
+students to have computers.
+(Investor's Business Daily, 31 July 2001)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_08_08.txt" target="_blank" rel="nofollow">pgweekly_2001_08_08.txt</a>

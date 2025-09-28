@@ -1,0 +1,250 @@
+---
+params:
+  id: 1771
+title: PG Monthly Newsletter (1998-05-06)
+date: 1998-05-06T21:53:15+00:00
+author: Michael Cook
+layout: post
+url: /19980506/pg-monthly-newsletter-1998-05-06/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: May Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: Michael Hart &lt;hart@pobox.com&gt;
+Date: Wed, 6 May 1998 10:00:06 -0500 (CDT)
+
+
+This is the Project Gutenberg Newsletter for May, 1998
+
+For the first time in years we are two months ahead of schedule,
+having completed the first releases of all the June Etexts.  The
+list is appended below, with the first 6 July Etexts, since this
+is being prepared on May 6th.
+
+My thanks to all who have helped us get this far!
+
+I would also like to thank Peter Graham for pointing out that in
+the last Newsletter there may have been some errors. . .I forgot
+to put in how to send us donations. . .so that is appended below
+the list of the 43 Etexts recently completed.
+
+
+We have a new site at:
+
+ftp://ftp.muc.muohio.edu/pub/gutenberg
+
+This site will also soon be accessible via the Web.
+
+Requested:
+
+From: Mike Menzel &lt;menzelm@cadvision.com&gt;
+Subject: Ludendorff's War Memoirs
+
+***
+
+Here is the index of the 42 new Etexts:
+
+
+Mon Year    Title and Author                               [filename.ext]####
+
+
+This file has just been added retroactively
+Feb 1998 North American Species of Cactus, by John Coulter [nasocxxx.xxx]1221
+
+
+Jul 1998 Vendetta, by Honore de Balzac[Honore de Balzac#22][vndtaxxx.xxx]1374
+Jul 1998 Study of a Woman, by Honore de Balzac [Balzac #21][sowmnxxx.xxx]1373
+
+Jul 1998 The Adventures of Captain Bonneville, by Irving #4[taocbxxx.xxx]1372
+Jul 1998 Astoria, by Washinton Irving[Washington Irving #3][striaxxx.xxx]1371
+Jul 1998 Autobiography of Andrew Dickson White  Volume II  [2aadwxxx.xxx[1370
+Jul 1998 Paz, by Honore de Balzac, #20 by Honore de Balzac [pzhdbxxx.xxx]1369
+
+
+Jun 1998 When the World Shook, by H. Rider Haggard [HRH #3][wtwshxxx.xxx]1368
+Jun 1998 Findelkind, by Louise de la Ramee   ["Ouida"]     [fndkdxxx.xxx]1367
+Jun 1998 The Cloister and the Hearth, by Charles Reade     [chrthxxx.xxx]1366
+Jun 1998 The Complete Poems of Henry Wadsworth Longfellow  [cphwlxxx.xxx]1365
+
+Jun 1998 Tom Swift And His Electric Locomotive, by Appleton[25tomxxx.xxx]1364
+Jun 1998 Tom Swift Among The Fire Fighters, Victor Appleton[24tomxxx.xxx]1363
+Jun 1998 Tom Swift And His Undersea Search, Victor Appleton[23tomxxx.xxx]1362
+Jun 1998 Tom Swift And His Giant Cannon, by Victor Appleton[16tomxxx.xxx]1361
+
+Jun 1998 Historical Lectures and Essays by Charles Kingsley[hstlexxx.xxx]1360
+Jun 1998 Best Historical Novels and Tales by Jonathan Nield[bhnatxxx.xxx]1359
+Jun 1998 Enoch Arden, &c. by Alfred Tennyson  [Tennyson #3][enchrxxx.xxx]1358
+Jun 1998 Madame Firmiani, by Honore de Balzac[de Balzac#19][frmnixxx.xxx]1357
+
+Jun 1998 The Cruise of the Cachalot, by Frank T. Bullen    [cchltxxx.xxx]1356
+Jun 1998 The Underground City by Jules Verne[Jules Verne#7][ucityxxx.xxx]1355
+Jun 1998 Chronicles of Avonlea, by Lucy Maud Montgomery #6][avnlexxx.xxx]1354
+Jun 1998 Off on a Comet, by Jules Verne    [Jules Verne #7][cometxxx.xxx]1353
+
+Jun 1998 An Old Maid, by Honore de Balzac   [de Balzac #18][omaidxxx.xxx]1352
+Jun 1998 Chignecto Isthmus; First Settlers, Howard Trueman [chgntxxx.xxx]1351
+Jun 1998 The Country Doctor by Honore de Balzac[Balzac #17][ctrdrxxx.xxx]1350
+Jun 1998 Russia, by Donald Mackenzie Wallace               [rsdmwxxx.xxx]1349
+
+Jun 1998 A Master's Degree, by Margaret Hill McCarter      [amsdgxxx.xxx]1348
+Jun 1998 A New Philosophy: Henri Bergson, by Edouard le Roy[anphbxxx.xxx]1347
+Jun 1998 Eighteenth Brumaire of Louis Bonaparte, Karl Marx [mar18xxx.xxx]1346
+Jun 1998 The Vicar of Tours, by Honore de Balzac[Balzac#16][vcrtrxxx.xxx]1345
+
+Jun 1998 Secrets of the Princesse de Cadignan, Balzac [#15][sdpdcxxx.xxx]1344
+Jun 1998 Bureaucracy, by Honore de Balzac      [Balzac #14][brcrcxxx.xxx]1343
+Jun 1998 Pride and Prejudice, by Jane Austen    [Austen #8][pandpxxx.xxx]1342
+Jun 1998 The Altruist in Politics, by Benjamin Cardozo     [ltpltxxx.xxx]1341
+
+Jun 1998 Salome, by Oscar Wilde [Accents]  [Oscar Wilde #21]salmexxh.xxx]1340
+Not done!
+Jun 1998 Salome, by Oscar Wilde[No Accents][Oscar Wilde #21]salmexxx.xxx]1339
+Jun 1998 Selected Prose of Oscar Wilde     [Oscar Wilde #20]slpwlxxx.xxx]1338
+Jun 1998 Shelley, by Sydney Waterlow [Percy Bysshe Shelley][wshlyxxx.xxx]1337
+
+Jun 1998 Shelley, by Francis Thompson[Percy Bysshe Shelley][tshlyxxx.xxx]1336
+Jun 1998 The Ancien Regime, by Charles Kingsley[Kingsley#5][anrgmxxx.xxx]1335
+Jun 1998 Paul Kelver by Jerome K. Jerome [JeromeKJerome#13][pklvrxxx.xxx]1334
+Jun 1998 R F Murray: His Poems with a Memoir by Andrew Lang[rfmurxxx.xxx]1333
+
+
+And since you will probably receive this around the 6th, here are 6 more. . .
+
+Jul 1998 Vendetta, by Honore de Balzac[Honore de Balzac#22][vndtaxxx.xxx]1374
+Jul 1998 Study of a Woman, by Honore de Balzac [Balzac #21][sowmnxxx.xxx]1373
+
+Jul 1998 The Adventures of Captain Bonneville, by Irving #4[taocbxxx.xxx]1372
+Jul 1998 Astoria, by Washinton Irving[Washington Irving #3][striaxxx.xxx]1371
+Jul 1998 Autobiography of Andrew Dickson White  Volume II  [2aadwxxx.xxx[1370
+Jul 1998 Paz, by Honore de Balzac, #20 by Honore de Balzac [pzhdbxxx.xxx]1369
+
+
+And a few clippings from Edupage:
+
+13 STATES TO FILE ANTITRUST SUIT AGAINST MICROSOFT
+Thirteen states are preparing to file a joint antitrust action against
+Microsoft to prevent the company from shipping its new Windows 98 operating
+system software.  The attorneys general said they would rather have
+coordinated a federal-state action against Microsoft, but that they were
+concerned over the slower time frame within which federal government
+operates.  Microsoft plans to begin shipping Windows 98 to computer makers
+next month and to release it to the general public in June, and the states
+felt taking any action after the PC makers began installing it on their
+machines would be significantly more complicated.  Microsoft's VP for law
+and corporate affairs says:  "This case involves a fundamental principle for
+us, the freedom of high-technology companies to continue to innovate on
+behalf of our customers.  Part of innovation has to be integration.  We are
+going to continue to integrate products."  (New York Times 30 Apr 98)
+
+
+DON'T BLOCK WINDOWS 98, SAY VENDORS
+Twenty-six computer industry executives, including the chairmen of Intel
+Corp., Micron Electronics, Dell Computer, Compaq Computer and
+Hewlett-Packard, have signed a joint letter urging the Department of Justice
+not to block the planned release of Microsoft's Windows 98 operating system.
+"Interfering with the release of Windows 98 would drag down the entire
+industry's efforts to deliver value to customers and returns to
+shareholders," said the letter.  The executives were careful to point out
+that they weren't expressing "any opinion on the merits of the investigation
+of Microsoft."  The upgrade is expected to be shipped to computer makers in
+mid-May and hit retail shelves on June 25.  "The bottom line is, no computer
+manufacturer can afford to harm their relationship with Microsoft," says the
+president of the Software Publishers Association.  "When Microsoft calls and
+asks them to write a letter to Justice, they're hard-pressed not to."  (Los
+Angeles Times 1 May 98)
+
+
+U S WEST TO OFFER TV, INTERNET ACCESS OVER PHONE LINES
+For a cost "comparable" to the monthly fees charged by Cox Communications
+(the primary cable company in Phoenix), U S West plans to offer its Phoenix
+customers a video and data services package via "variable digital subscriber
+lines," or VDSL.  U S West says its service will include some 120 TV
+channels and Internet access.  In the past year, cable companies have begun
+to offer Internet access as part of their monthly service, and an analyst
+with International Data says, "If you're a phone company, you're going to
+want to roll out a package of services that will blunt the attack from the
+cable companies, which are trying to take away phone customers." (Wall
+Street Journal 20 Apr 98)
+
+SCIENTISTS DEMO INTERNET EXPRESS LANE
+Scientists at two national laboratories demonstrated a new "differentiated
+service" technology that gives certain types of electronic data higher
+priority for transmission over the Internet.  In the demo, two
+streaming-video signals were sent -- one with a high-priority mark and one
+without -- over an especially busy Internet route.  The video marked
+high-priority arrived at a speed of eight frames per second, versus one
+frame per second for the unmarked video.  Within a year, it may be possible
+for research labs and universities that need more dependable Internet
+connections to pay a higher cost for prioritized delivery.  (Chronicle of
+Higher Education 1 May 98)
+
+[This is something we have written about before. . .it basically is like
+a railroad system in which efficiently sendable text files are held over
+to sidings to wait for movies and sound files to pass on express lanes--
+the idea is that it is more important to move huge audio/video files for
+entertainment than to move books for education.  Huh??  Michael S. Hart]
+This is my own personal comment, not associated with Edupage. . . .   mh
+
+
+Edupage ... is what you've just finished reading excerpts of--
+to subscribe to Edupage: send mail to: listproc@educom.unc.edu
+with the message:           subscribe edupage Susan B. Anthony
+(if your name is Susan B. Anthony; otherwise use your own name
+To unsubscribe send a message to:      listproc@educom.unc.edu
+with the message: unsubscribe edupage.   If you have problems,
+send email to manager@educom.unc.edu.)   "I love Edupage."  mh
+Edupage is written by John Gehl (gehl@educom.edu), and Suzanne
+Douglas (douglas@educom.edu).     USA Telephone:  770-590-1017
+
+http://www.educom.edu/web/pubs/pubHomeFrame.html
+
+Edupage is supported by Educom
+
+
+***
+
+
+Project Gutenberg donations are tax deductible to the full extents
+of the law, and are handled by Carnegie Mellon University.  If you
+need a letter verifying your contribution, please reference that.
+
+
+Checks should be made out to "Project Gutenberg/CMU" and mailed to:
+
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL
+61825-2782
+
+
+Thank you so much!!
+
+
+Michael
+
+=============================================
+
+Michael S. Hart, Professor of Electronic Text
+Executive Director of Project Gutenberg Etext
+Benedictine University, Lisle, IL  60532-0900
+No official connection to U of Illinois--UIUC
+Permanent Internet Address!!!  hart@pobox.com
+
+Internet User Number 100 [approximately] [TM]
+One of the several "Ask Dr Internet" Sponsors
+
+Break Down the Bars of Ignorance & Illiteracy
+On the Carnegie Libraries' 100th Anniversary!
+
+If I don't answer in two days, please resend.
+It usually means I did not get/see your note.
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1998_05_06.txt" target="_blank" rel="nofollow">pgmonthly_1998_05_06.txt</a>

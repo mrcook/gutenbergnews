@@ -1,0 +1,756 @@
+pgweekly_2006_11_29.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, November 29, 2006
+****eBooks Readable By Both Humans And Computers Since July 4, 1971****
+
+Introduction
+------------
+Dear Subscribers,
+
+Some weeks back I emailed Michael Hart with a proposal for a new and different
+approach to the weekly PG newsletter. I am happy to say that Michael and
+Greg [Newby] have agreed for me to try out this new approach.
+
+Most, if not all the information previously included will still be available,
+although it will now be in a different format.
+
+I have rewritten the newsletter to focus more on the core statistical
+information (totals, %, averages, etc) from the various PG areas, including
+the Australian, European and PGCC figures. The Updates/Corrections/New eBook
+listings will also be included.
+
+For all the other information - wanted adverts, donation information and
+news - I have created the PG-News website, https://www.gutenbergnews.org
+
+If you have any questions or thoughts on these changes please email:
+editor_AT_gutenbergnews.org
+
+Kind Regards,
+Michael Cook
+
+
+Project Gutenberg News Website
+------------------------------
+For more statistical information and PG related news please visit the
+Project Gutenberg Newsletter website:
+
+https://www.gutenbergnews.org
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit our Volunteers Wanted! section at:
+
+https://www.gutenbergnews.org
+
+CURRENT HEADLINES:
+  * Our Distributed Proof Readers Need...
+  * Project Gutenberg Is Seeking Legal Beagles
+  * Graphics needed for PG website and publicity materials
+  * Turn eBooks into MP3
+  * Project Gutenberg Needs DVD Burners
+  * "SF" for PG Australia
+
+
+Access to all the PG eBooks
+---------------------------
+To search by title, author, language and subject visit:
+
+http://www.gutenberg.org/find
+
+If you know the file's name then try our master download sites:
+
+http://www.gutenberg.org/dirs/
+
+  or
+
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+Using your Web browser or FTP program, navigate to the appropriate directory
+and look for the first five characters of the file's name.
+
+Note that updated eBooks usually go in their original directory
+(e.g., etext99, etext00, etc.)
+
+
+=-=-=-=-=-==-=-=-==-=-=-=[ USER SUBMITTED NEWS ]=-=-=-=-=-==-=-=-==-=-=-=
+To submit a news item please email editor_AT_gutenbergnews.org.
+
+
+=-=-==-=-=-=-==-=-=-==-=-=[ PROGRESS REPORT ]=-=-==-=-=-=-==-=-=-==-=-=-=
+
+Today Is Day #329/364, 2006
+This Completes Week #47 and Month #10.75
+35 Days/6 Weeks To Go [We get 52 Wednesdays this year]
+
+TOTALS
+
+19,920 [+ 67] Project Gutenberg U.S.
+ 1,422 [+ 11] Australian eBooks
+   389 [+  9] Gutenberg Europe
+   378 [+  0] PG PrePrint Site
+============
+22,109 [+ 94] GRAND TOTAL
+
+ 7,891 Books To Go To #30,000
+ ~21% of the way from 20,000 to 30,000
+
+[Our production year begins/ends 1st Wednesday of the month/year]
+
+
+RESERVED/PENDING
+
+43 - Reserved/Pending Count
+
+
+2006 STATISTICS
+
+3,961 New eBooks [at all four sites]
+
+Averaging ~368 eBooks per month!!! [Includes: PGAu, PGEu and PrePrints]
+
+All four sites combined are averaging 84 eBooks per week in 2006.
+
+    *  94 New eBooks This Week
+    * 114 New eBooks Last Week
+    * 405 New eBooks This Month [Nov]
+
+PROGRESS REPORT (Including Distributed Proofreaders)
+
+Monthly Averages:
+
+    * 368 per month in 2006
+    * 266 per month in 2005 [Counting 216 PGEu]
+    * 248 per month in 2005 [Not Counting PGEu]
+    * 336 per month in 2004
+    * 355 per month in 2003
+    * 203 per month in 2002
+    * 103 per month in 2001
+
+Yearly Totals:
+
+    * 3961 New eBooks in 2006 (Passed 2005 total in 3/4 year)
+    * 3186 New eBooks in 2005 [Counting 216 PGeu]
+    * 2970 New eBooks in 2005 [Not Counting PGEu]
+    * 4049 New eBooks in 2004
+    * 4164 New eBooks in 2003
+    * 2441 New eBooks in 2002
+    * 1240 New eBooks in 2001
+
+19,041 New eBooks since the start of 2001,
+that's ~269 eBooks per Month for ~70.75 Months.
+
+
+NOTES:
+
+Project Gutenberg Australia total does NOT include PGAu eBooks posted at the
+U.S. site: www.gutenberg.org
+
+We have several counting methods, and they often differ by several books
+that we have to hunt down by hand to reconcile. There is also some
+duplication between these various collections. Volunteers will need to take
+these duplications into account.
+
+The totals for the four collections are eBooks that originated as created,
+edited, proofread, formatted, etc., by Project Gutenberg and its 50,000
+volunteers, while the Project Gutenberg Consortia Center with 100,000+ books
+contains entire eBook collections from 125+ eLibraries so the production
+statistics given here are for some 20,000+ eBooks created by the various
+teams of Project Gutenberg volunteers, for which we share the responsibility
+of maintaining. The Consortia Center eBooks were and are the responsibility
+of the donating eLibraries, and we would be happy to forward any suggestions
+for correction to those eLibraries, but those eBooks must be edited by the
+donating parties, as per their requests.
+
+
+=-=-=-=-=-=-==-=-=-==-=-=-=[ OTHER STATISTICS ]=-=-=-=-=-==-=-=-==-=-=-=-=
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+DISTRIBUTED PROOFREADERS:
+9,881 [+46] at Distributed Proofreaders
+
+The Distributed Proofreaders started production in October 2000 and
+currently has over 36,000 volunteers.
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+NOTE: PGDP mostly included in US eBooks
+NOTE: PGEU has its own Distributed Proofreaders whose total closely matches
+      their grand total.
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER REPORT
+137,142 eBooks at PGCC
+
+The PGCC collection at http://www.gutenberg.cc has doubled in size from the
+listings below, but we don't have exactly matching collection sizes yet for a
+new breakdown.
+
+There are ~185,000 separate downloadable files, and presuming 45% are
+redundant or are required at the level of more than one file per book:
+
+The number of individual eBooks now is about 100,000.
+
+Thus the grand total of eBooks at Project Gutenberg is 21,000+ created by
+Project Gutenberg volunteers, and 100,000 donated from over 125 other
+eLibraries, to create a downloadable library of 100,000+ eBooks plus 80,000
+donated from over 100 other eLibraries, to create a downloadable library of
+100,000+ eBooks.
+
+PGCC's current eBook and eDocument Collections listings of 18 collections with
+this week's listing as:
+
+[This list is being updated as the moment, you can get the entire list on the
+collections pages at gutenberg.cc]
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Internet Archive                  ~30,000 eBook Files [In Progress]
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,           ~34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      15,035 eBook Files
+PGCC Chinese eBook Collection        ~300 eBook files (Note Name Change)
+Renascence Editions Collection,       561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files=======  ~137,142 Total Files  ========
+
+Average Size of the Collections     8,067.18 Total Files
+
+
+DAILY PREPRINTS
+378 [+ 0] at Daily PrePrints
+
+Stats available at: http://preprints.readingroo.ms
+
+Please note that sometimes it takes a few weeks for entire collections to fully
+appear in the PrePrints Section, thus the count sometimes jumps by a large
+number when the files are eventually completed and added in. Also note that the
+PrePrint files are just that, PrePrints, and thus may move later to other
+locations, including the main collection or The Project Gutenberg Consortia
+Center, etc. For example, on June 14, 200 WAP compatible cell phone eBooks
+appeared, and will likely be moved to other collection points later.
+
+The entire process of working out the details just to send them to the PrePrints
+Section took well over a month.
+
+Even with the speeded up process of the PrePrints Section, it still takes a
+certain amount of time to collect and put such a large collection online in a
+proper manner.
+
+
+THE ONLINE BOOKS PAGE
+25,000 eBooks are listed via The Online Books Page
+
+NOTE: 6,300 of these are from PG.
+
+
+INTERNET PUBLIC LIBRARY
+22,284 entries at IPL
+
+The Internet Public Library (IPL) had a similar listing to The Online Books Page
+which is now in limbo. If anyone knows what is happening with the IPL, please
+let us know. Inquiries, made months ago, and again recently, have not turned up
+any current information.
+
+You can try a new IPL service at:
+http://www.ipl.org/div/subject/browse/hum60.60.00/
+
+It would appear that The Internet Public Library ended its first incarnation
+with about 22,284 entries, which has now been surpassed by the Online Books
+Page.
+
+We are still looking for more Internet Public Library info.
+
+
+                  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+NOTE: This Newsletter is best viewed with a fixed-width font, such as
+      Courier New or similar.
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+   None this week.
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct language (from Italian to Venetian):
+In gondoleta, by Antonio Negri                                           19894
+  [Subtitle: Barcarole e Rime Veneziane]
+  [Language: Venetian]
+
+Correct title (Moody's, not Moodys):
+Moody's Anecdotes And Illustrations, by Dwight L. Moody                  19830
+
+Correct title (Stories, not Tales):
+Struwwelpeter: Merry Stories and Funny Pictures, by Heinrich Hoffman     12116
+
+
+-=-=-=-=[  67 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Piccaninnies, by Isabel Maud Peacocke                                    19962
+   [Illustrator: Trevor Lloyd]
+   [Link: http://www.gutenberg.org/1/9/9/6/19962 ]
+   [Files: 19962.txt; 19962-h.htm]
+
+Aboriginal Remains in Verde Valley, Arizona, by Cosmos Mindeleff         19961
+   [Subtitle: Thirteenth Annual Report of the Bureau of Ethnology to the
+    Secretary of the Smithsonian Institution, 1891-92, Government Printing
+    Office, Washington, 1896, pages 179-262]
+   [Link: http://www.gutenberg.org/1/9/9/6/19961 ]
+   [Files: 19961-8.txt; 19961-0.txt; 19961-h.htm]
+
+Husabaetur a sveitabaejum, by Jon Sveinsson                              19960
+   [Subtitle: Uppdraettir og aaetlanir]
+   [Language: Icelandic]
+   [Link: http://www.gutenberg.org/1/9/9/6/19960 ]
+   [Files: 19960-8.txt; 19960-0.txt; 19960-h.htm]
+
+The Mabinogion Vol. 1 (of 3), by Owen M. Edwards                         19959
+   [Tr.: Charlotte Guest]
+   [Link: http://www.gutenberg.org/1/9/9/5/19959 ]
+   [Files: 19959.txt; 19959-h.htm]
+   [David Price, For those wishing to know: first part of a 3 volume set
+    of old Welsh tales (also see eText #5160 which is a different edition
+    but with the same translator). Owen M. Edwards provides a short
+    introduction and also some suggested corrections to Lady Charlotte
+    Guest's classic translation. There's also some black and white pictures.
+    In this volume the tales are: "The Lady of the Fountain", "Peredur the
+    son of Evrawc" and "The Dream of Rhonabwy".  King Arthur features in
+    these tales.]
+
+Some Forerunners of Italian Opera, by William James Henderson            19958
+   [Link: http://www.gutenberg.org/1/9/9/5/19958 ]
+   [Files: 19958.txt; 19958-8.txt; 19958-h.htm; ]
+
+Facing the German Foe, by Colonel James Fiske                            19957
+   [Illus.: E. A. Furman]
+   (Note: only one illustration in this book, but was not reproducible
+    due to damage.)
+   [Link: http://www.gutenberg.org/1/9/9/5/19957 ]
+   [Files: 19957.txt; 19957-h.htm; ]
+
+Histoire d'une jeune fille sauvage, by Charles-Marie de La Condamine     19956
+   [Title: Histoire d'une jeune fille sauvage trouvee dans les bois a
+    l'age de dix ans]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/9/5/19956 ]
+   [Files: 19956-8.txt; 19956-h.htm]
+
+L'institution des enfans, by Nicolas Fran.ois de Neufchateau             19955
+   [Title: L'institution des enfans, ou conseils d'un pere a son fils]
+   [Subtitle: Imites des vers que Muret a ecrits en latin, pour l'usage
+    de son neveu, et qui peuvent servir a tous les jeunes ecoliers]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/9/5/19955 ]
+   [Files: 19955-8.txt; 19955-h.htm]
+
+L'amie rustique et autres vers divers, by d'Albenas                      19954
+   [Author: Francois Berenger de La Tour d'Albenas]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/9/5/19954 ]
+   [Files: 19954-8.txt; 19954-h.htm]
+
+Form and Ornament in Ceramic Art, by William Henry Holmes                19953
+   [Title: Origin and Development of Form and Ornament in Ceramic Art]
+   [Subtitle: Fourth Annual Report of the Bureau of Ethnology to the
+    Secretary of the Smithsonian Institution, 1882-1883, Government
+    Printing Office, Washington, 1886, pages 437-466]
+   [Link: http://www.gutenberg.org/1/9/9/5/19953 ]
+   [Files: 19953.txt; 19953-8.txt; 19953-h.htm]
+
+To The Front, by Charles King                                            19952
+   [Subtitle: A Sequel to Cadet Days]
+   [Link: http://www.gutenberg.org/1/9/9/5/19952 ]
+   [Files: 19952.txt; 19952-8.txt; 19952-h.htm]
+
+Ted Strong in Montana, by Edward C. Taylor                               19951
+   [Subtitle: With Lariat and Spur]
+   [Link: http://www.gutenberg.org/1/9/9/5/19951 ]
+   [Files: 19951.txt; 19951-8.txt; 19951-h.htm; ]
+
+Summa Theologica, Part III (Tertia Pars), by Thomas Aquinas              19950
+   [Subtitle: From the Complete American Edition]
+   [Translator: Fathers of the English Dominican Province]
+   [Link: http://www.gutenberg.org/1/9/9/5/19950 ]
+   [Files: 19950.txt]
+
+Autographs for Freedom, Volume 2 (of 2) (1854), by Various               19949
+   [Editor: Julia Griffiths]
+   [Link: http://www.gutenberg.org/1/9/9/4/19949 ]
+   [Files: 19949.txt; 19949-8.txt; 19949-h.htm]
+
+Potash and Perlmutter Settle Things, by Montague Glass                   19948
+   [Link: http://www.gutenberg.org/1/9/9/4/19948 ]
+   [Files: 19948.txt; 19948-8.txt; 19948-h.htm]
+
+Compendio da relacam, que veyo da India o anno de 1691, Vicente Barbosa  19947
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/9/9/4/19947 ]
+   [Files: 19947-8.txt]
+
+Villa Elsa, by Stuart Henry                                              19946
+   [Subtitle: A Story of German Family Life]
+   [Link: http://www.gutenberg.org/1/9/9/4/19946 ]
+   [Files: 19946.txt; 19946-8.txt; 19946-h.htm]
+
+Bakemono Yashiki (The Haunted House), by James S. De Benneville          19945
+   [Subtitle: Tales of the Tokugawa, Volume 2 (of 2)]
+   [Link: http://www.gutenberg.org/1/9/9/4/19945 ]
+   [Files: 19945.txt; 19945-8.txt; 19945-h.htm]
+
+The Yotsuya Kwaidan or O'Iwa Inari, by James S. De Benneville            19944
+   [Subtitle: Tales of the Tokugawa, Volume 1 (of 2)]
+   [Link: http://www.gutenberg.org/1/9/9/4/19944 ]
+   [Files: 19944.txt; 19944-8.txt; 19944-h.htm]
+
+The Hippodrome, by Rachel Hayward                                        19943
+   [Link: http://www.gutenberg.org/1/9/9/4/19943 ]
+   [Files: 19943.txt; 19943-8.txt; ]
+
+Candide, by Voltaire                                                     19942
+   [Intro.: Philip Littell]
+   [Link: http://www.gutenberg.org/1/9/9/4/19942 ]
+   [Files: 19942.txt; 19942-8.txt; 19942-h.htm]
+
+With Our Army in Palestine, by Antony Bluett                             19941
+   [Link: http://www.gutenberg.org/1/9/9/4/19941 ]
+   [Files: 19941.txt; 19941-8.txt; 19941-h.htm]
+
+Die ungleichen Schalen, by Jakob Wassermann                              19940
+   [Subtitle: Funf einaktige Dramen]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/9/4/19940 ]
+   [Files: 19940-8.txt; 19940-0.txt; 19940-h.htm]
+
+History ... Foreign Missions ... Oriental Churches, Vol. II, by Anderson 19939
+   [Title: History Of The Missions Of The American Board Of Commissioners
+    For Foreign Missions To The Oriental Churches, Volume II.]
+   [Author: Rufus Anderson]
+   [Link: http://www.gutenberg.org/1/9/9/3/19939 ]
+   [Files: 19939.txt; 19939-8.txt]
+
+Recreations of Christopher North, Volume 2, by John Wilson               19938
+   [Link: http://www.gutenberg.org/1/9/9/3/19938 ]
+   [Files: 19938.txt; 19938-8.txt; 19938-h.htm]
+
+The Departing Soul's Address to the Body, by Anonymous                   19937
+   [Subtitle: A Fragment of a Semi-Saxon Poem, Discovered Among the
+    Archives of Worcester Cathedral]
+   [Editor: Thomas Phillips]
+   [Translator: Samuel Weller Singer]
+   [Link: http://www.gutenberg.org/1/9/9/3/19937 ]
+   [Files: 19937.txt; 19937-8.txt; 19937-0.txt; 19937-h.htm]
+
+Willie the Waif, by Minie Herbert                                        19936
+   [Link: http://www.gutenberg.org/1/9/9/3/19936 ]
+   [Files: 19936.txt]
+
+Critical Miscellanies, Vol. 1, Essay 5, Emerson, by John Morley          19935
+   [Link: http://www.gutenberg.org/1/9/9/3/19935 ]
+   [Files: 19935.txt; 19935-8.txt; 19935-h.htm]
+
+Ilman menestyksetta, by Charles Dickens and Wilkie Collins               19934
+   [Subtitle: Joulukertomus]
+   [Translator: O. G. C.]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/9/3/19934 ]
+   [Files: 19934-8.txt]
+
+Cluthe's Advice to the Ruptured, by Chas. Cluthe & Sons                  19933
+   [Link: http://www.gutenberg.org/1/9/9/3/19933 ]
+   [Files: 19933.txt; 19933-h.htm]
+
+Slave Narratives: Tennessee, by Work Projects Administration             19932
+   [Title: Slave Narratives, A Folk History of Slavery in the United
+    States From Interviews with Former Slaves, Vol. XV, Tennessee]
+   [Link: http://www.gutenberg.org/1/9/9/3/19932 ]
+   [Files: 19932.txt; 19932-h.htm]
+
+The Reckoning, by Percival Wilde                                         19931
+   [Subtitle: A Play in One Act]
+   [Link: http://www.gutenberg.org/1/9/9/3/19931 ]
+   [Files: 19931.txt]
+
+The Boy Ranchers Among the Indians, by Willard F. Baker                  19930
+   [Subtitle: or, Trailing the Yaquis]
+   [Link: http://www.gutenberg.org/1/9/9/3/19930 ]
+   [Files: 19930.txt]
+
+Cad Metti, The Female Detective Strategist, by Harlan Page Halsey        19929
+   [Subtitle: Dudie Dunne Again in the Field]
+   [Link: http://www.gutenberg.org/1/9/9/2/19929 ]
+   [Files: 19929.txt; 19929-8.txt; 19929-h.htm]
+
+Sunset Pass, by Charles King                                             19928
+   [Subtitle: or Running the Gauntlet Through Apache Land]
+   [Link: http://www.gutenberg.org/1/9/9/2/19928 ]
+   [Files: 19928.txt; 19928-8.txt; 19928-h.htm]
+
+The Continental Monthly, Vol. 2, No. 2, August, 1862, by Various         19927
+   [Subtitle: Devoted to Literature and National Policy]
+   [Link: http://www.gutenberg.org/1/9/9/2/19927 ]
+   [Files: 19927.txt; 19927-8.txt; 19927-h.htm]
+
+Standard Selections, ed. by Fulton, Trueblood and Trueblood              19926
+   [Subtitle: A Collection and Adaptation of Superior Productions From
+    Best Authors For Use in Class Room and on the Platform]
+   [Editor: Robert I. Fulton, Thomas C. Trueblood and Edwin P. Trueblood]
+   [Link: http://www.gutenberg.org/1/9/9/2/19926 ]
+   [Files: 19926.txt; 19926-8.txt; 19926-h.htm]
+
+At the Sign of the Barber's Pole, by William Andrews                     19925
+   [Subtitle: Studies In Hirsute History]
+   [Link: http://www.gutenberg.org/1/9/9/2/19925 ]
+   [Files: 19925.txt; 19925-8.txt; 19925-h.htm]
+
+Plain Facts for Old and Young, by John Harvey Kellogg                    19924
+   [Link: http://www.gutenberg.org/1/9/9/2/19924 ]
+   [Files: 19924.txt; 19924-h.htm]
+
+Ontario Readers: The High School Reader, 1886, by Ministry of Education  19923
+   [Link: http://www.gutenberg.org/1/9/9/2/19923 ]
+   [Files: 19923.txt; 19923-8.txt; 19923-h.htm]
+
+The Scientific Evidences of Organic Evolution, by George John Romanes    19922
+   [Link: http://www.gutenberg.org/1/9/9/2/19922 ]
+   [Files: 19922.txt; 19922-8.txt; 19922-h.htm]
+
+Prehistoric Textile Art of Eastern United States, William Henry Holmes   19921
+   [Subtitle: Thirteenth Annual Report of the Beaurau of American
+    Ethnology to the Secretary of the Smithsonian Institution 1891-1892,
+    Government Printing Office, Washington, 1896, pages 3-46]
+  [Link: http://www.gutenberg.org/1/9/9/2/19921 ]
+  [Files: 19921.txt; 19921-8.txt; 19921-h.htm]
+
+L'avaleur de sabres, by Paul Feval                                       19920
+   [Subtitle: Les Habits Noirs Tome VI]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/9/2/19920 ]
+   [Files: 19920-8.txt; 19920-h.htm]
+
+Maman Leo, by Paul Feval                                                 19919
+   [Subtitle: Les Habits Noirs Tome V]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/9/1/19919 ]
+   [Files: 19919-8.txt; 19919-h.htm]
+
+Uni, by Sulo M. Hytonen                                                  19918
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/9/1/19918 ]
+   [Files: 19918-8.txt]
+
+Bucolica, by Virgil                                                      19917
+   [Translator: R. Mellin]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/9/1/19917 ]
+   [Files: 19917-8.txt]
+
+Civilization, by Ellen Newbold La Motte                                  19916
+   [Subtitle: Tales of the Orient]
+   [Link: http://www.gutenberg.org/1/9/9/1/19916 ]
+   [Files: 19916.txt; 19916-8.txt; 19916-h.htm; ]
+
+Slovenly Betsy, by Heinrich Hoffman                                      19915
+   [Illus.: Walter Hayn]
+   (Joe Loewenstein writes: The illustrations in this book are lovely;
+    anyone who takes time to look at them will be richly rewarded.)
+   Contents:
+     Slovenly Betsy
+     Phoebe Ann, the Proud Girl
+     The Dreadful Story of Pauline and the Matches
+     What Happened to Lazy Charlotte
+     The Cry-Baby
+     The Story of Romping Polly
+     The Story of a Dirty Child
+     Envious Minnie
+     The Little Glutton
+     Sophie Spoilall
+   [Link: http://www.gutenberg.org/1/9/9/1/19915 ]
+   [Files: 19915.txt; 19915-h.htm; ]
+
+Arabic Authors, by F. F. Arbuthnot                                       19914
+   [Subtitle: A Manual of Arabian History and Literature]
+   [Link: http://www.gutenberg.org/1/9/9/1/19914 ]
+   [Files: 19914.txt; 19914-8.txt]
+
+Omaha Dwellings, Furniture and Implements, by James Owen Dorsey          19913
+   [Subtitle: Thirteenth Annual Report of the Beaurau of American
+    Ethnology to the Secretary of the Smithsonian Institution 1891-1892,
+    Government Printing Office, Washington, 1896, pages 263-288]
+   [Link: http://www.gutenberg.org/1/9/9/1/19913 ]
+   [Files: 19913.txt; 19913-8.txt; 19913-0.txt; 19913-h.htm]
+
+The Insurrection in Paris, by An Englishman: Davy                        19912
+   [Link: http://www.gutenberg.org/1/9/9/1/19912 ]
+   [Files: 19912.txt; 19912-8.txt; 19912-h.htm]
+
+Space Exploration, by Committee on Science and Astronautics              19911
+   [Title: The Practical Values of Space Exploration]
+   [Subtitle: Report of the Committee on Science and Astronautics, U.S.
+    House of Representatives, Eighty-Sixth Congress, Second Session]
+   [Link: http://www.gutenberg.org/1/9/9/1/19911 ]
+   [Files: 19911.txt; 19911-8.txt; 19911-h.htm]
+
+Boys' Book of Famous Soldiers, by J. Walker McSpadden                    19910
+   [Link: http://www.gutenberg.org/1/9/9/1/19910 ]
+   [Files: 19910.txt; 19910-8.txt]
+
+Good Cheer Stories Every Child Should Know, by Various                   19909
+   [Editor: Asa Don Dickinson]
+   [Link: http://www.gutenberg.org/1/9/9/0/19909 ]
+   [Files: 19909.txt; 19909-8.txt; 19909-h.htm; ]
+
+Essays on Scandinavian Literature, by Hjalmar Hjorth Boyesen             19908
+   [Link: http://www.gutenberg.org/1/9/9/0/19908 ]
+   [Files: 19908.txt; 19908-8.txt; 19908-h.htm; ]
+
+Around the World in Ten Days, by Chelsea Curtis Fraser                   19907
+   [Link: http://www.gutenberg.org/1/9/9/0/19907 ]
+   [Files: 19907.txt; 19907-8.txt; ]
+
+Winning a Cause, by John Gilbert Thompson and Inez Bigwood               19906
+   [Subtitle: World War Stories]
+   [Link: http://www.gutenberg.org/1/9/9/0/19906 ]
+   [Files: 19906.txt; 19906-8.txt; 19906-h.htm; ]
+
+Clovers and How to Grow Them, by Thomas Shaw                             19905
+   [Link: http://www.gutenberg.org/1/9/9/0/19905 ]
+   [Files: 19905.txt; 19905-8.txt; 19905-h.htm]
+
+The Noble Lord, by Percival Wilde                                        19904
+   [Subtitle: A Comedy in One Act]
+   [Link: http://www.gutenberg.org/1/9/9/0/19904 ]
+   [Files: 19904.txt]
+
+The American Missionary, Volume 49, No. 5, May 1895, by Various          19903
+   [Link: http://www.gutenberg.org/1/9/8/9/19903 ]
+   [Files: 19903.txt; 19903-8.txt; 19903-0.txt; 19903-tei.tei;
+           19903-h.htm; 19903-pdf.pdf; 19903-page-images.zip]
+
+The Affectionate Shepherd, by Richard Barnfield                          19902
+   [Editor: James Orchard Halliwell]
+   [Link: http://www.gutenberg.org/1/9/9/0/19902 ]
+   [Files: 19902.txt; 19902-8.txt; 19902-h.htm]
+
+The Castle Of The Shadows, by Alice Muriel Williamson                    19901
+   [Link: http://www.gutenberg.org/1/9/9/0/19901 ]
+   [Files: 19901.txt; 19901-8.txt; 19901-h.htm]
+
+The Mysteries of All Nations, by James Grant                             19900
+   [Subtitle: Rise and Progress of Superstition, Laws Against and Trials
+    of Witches, Ancient and Modern Delusions Together With Strange
+    Customs, Fables, and Tales]
+   [Link: http://www.gutenberg.org/1/9/9/0/19900 ]
+   [Files: 19900.txt; 19900-8.txt; 19900-0.txt; 19900-h.htm]
+
+The Honour of the Flag, by W. Clark Russell                              19899
+   [Link: http://www.gutenberg.org/1/9/8/9/19899 ]
+   [Files: 19899.txt; 19899-8.txt]
+
+La Edad de Oro, by Jose Marti                                            19898
+   [Title: La Edad de Oro: publicacion mensual de recreo e instruccion
+    dedicada a los ninos de America]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/9/8/9/19898 ]
+   [Files: 19898-8.txt; 19898-h.htm]
+
+Riley Love-Lyrics, by James Whitcomb Riley                               19897
+   [Illustrator: Will Vawter]
+   (See also #16995, by a different illustrator)
+   [Link: http://www.gutenberg.org/1/9/8/9/19897 ]
+   [Files: 19897.txt; 19897-8.txt; 19897-h.htm]
+
+
+The Great Events by Famous Historians, Vol. 10 (of 20), by Various       19893
+   [Editor: Rossiter Johnson, Charles Horne, and John Rudd]
+   [Link: http://www.gutenberg.org/1/9/8/9/19893 ]
+   [Files: 19893.txt; 19893-8.txt; 19893-h.htm]
+
+
+-=-=-=-=[ 11 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Nov 2006 The Day of the Locust, Nathanael West             [609041xx.xxx] 1422A
+   [http://gutenberg.net.au/ebooks06/0609041.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609041h.html ]
+
+Nov 2006 First Sighting of Australia by the English,Ida Lee[609031xx.xxx] 1421A
+   [http://gutenberg.net.au/ebooks06/0609031.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609031h.html ]
+
+Nov 2006 The Well of Loneliness, Radclyffe Hall            [060902xx.xxx] 1420A
+   [http://gutenberg.net.au/ebooks06/0609021.txt or .zip ]
+
+Nov 2006 Who Killed Castelvetri?, Gilbert Frankau          [060901xx.xxx] 1419A
+   [http://gutenberg.net.au/ebooks06/0609011.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609011h.html ]
+
+Nov 2006 The Resurrectionist, Samuel Warren                [060900xx.xxx] 1418A
+   [http://gutenberg.net.au/ebooks06/0609001.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0609001h.html ]
+
+Nov 2006 The Other Sense, J S Fletcher                     [060899xx.xxx] 1417A
+   [http://gutenberg.net.au/ebooks06/0608991.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608991h.html ]
+
+Nov 2006 The Most Maddening Story in the World, R Straus   [060898xx.xxx] 1416A
+   [Author: Ralph Straus]
+   [http://gutenberg.net.au/ebooks06/0608981.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608981h.html ]
+
+Nov 2006 Dawn of Flame, Stanley G Weinbaum                 [060897xx.xxx] 1415A
+   [http://gutenberg.net.au/ebooks06/0608971.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608971h.html ]
+
+Nov 2006 The Cafe of Terror, E Phillips Oppenheim          [060896xx.xxx] 1414A
+   [http://gutenberg.net.au/ebooks06/0608961.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608961h.html ]
+
+Nov 2006 Black Coffee, Jeffery Farnol                      [060895xx.xxx] 1413A
+   [http://gutenberg.net.au/ebooks06/0608951.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608951h.html ]
+
+Nov 2006 A Cool Million, Nathaniel West                    [060894xx.xxx] 1412A
+   [http://gutenberg.net.au/ebooks06/0608941.txt or .zip ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including accessing
+those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For updated information about copyright in Australia, please see the end of
+the file GUTINDEX.AUS, which can be downloaded from
+http://www.gutenberg.org/dirs/GUTINDEX.AUS
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================

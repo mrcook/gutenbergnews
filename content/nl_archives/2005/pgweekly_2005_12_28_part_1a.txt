@@ -1,0 +1,560 @@
+From hart at pglaf.org  Wed Dec 28 09:37:35 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Dec 28 09:37:38 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0512280937050.9432@pglaf.org>
+
+pt1a3.d05
+Weekly_December_28.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 28, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+
+REQUEST FOR BOOKS!!!
+
+Several of our long time volunteers are having trouble
+locating copies of the following books.  Before you do
+too much to acquire them, you might want to check from
+your own local copyright law about scanning them, as I
+presume some of these may not fit into a public domain
+status in all countries, but all should be ok in "life
++50" countries, and some perhaps even more widely.
+
+Contact cjc@gutenberg.net.au if further information is required.
+
+Deeping, Warwick:
+----------------
+Old Pybus
+Doomsday
+Roper's Row
+Exile
+The Bridge of Desire
+Old Wine and New
+
+
+Lewis, Sinclair:
+----------------
+Mantrap
+Ann Vickers
+Work of Art
+Bethel Merriday
+The God-Seeker
+
+Rawlings, Marjorie Kinnon:
+Golden Apples--1935
+Jacob's Ladder--1950
+--Short story collections
+When the Whippoorwill--1940
+
+
+Walpole, Hugh:
+--------------
+--Novels
+Wintersmoon: Passages in the Lives of Two Sisters,
+    Janet and Rosalind Grandison (1928)
+A Prayer for My Son (1936)
+John Cornelius (1937)
+The Joyful Delaneys (1938)
+The Haxtons (1939)
+The Sea Tower (1939)
+Roman Fountain (1940)
+The Blind Mans House: A Quiet Story (1941)
+The Killer and the Slain: A Strange Story (1942)
+--Short story collections
+All Souls' Night (1933)
+Head in Green Bronze: And Other Stories (1938)
+Mr Huffam: And Other Stories (1948)
+
+
+Tarkington, Booth:
+------------------
+The Midlander
+The Plutocrat
+Claire Ambler
+Mary's Neck
+
+**
+
+Portugal Has New Project Gutenberg Mirror
+
+http://eremita.di.uminho.pt/gutenberg
+or
+ftp://eremita.di.uminho.pt/pub/gutenberg/
+
+Offical data:
+Continent: Europe
+Nation: Portugal
+Location: Braga
+Provider: Universidade do Minho
+           Computer Science Dept
+Brainchild of:
+Alberto Simoes <albie@alfarrabio.di.uminho.pt>
+
+
+***
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+>>>   !!!People who can help with PR for our 35th Anniversary!!!  <<<
+
+>>>   !!!People to help us collect ALL public domain eBooks!!!  <<<
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    1 New From PG Australia [Australian, Canadian Copyright Etc.]
+   49 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+           ***519 eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,884 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~89% of the Way to 20,000!!!
+
+               14,822 New eBooks Since The Start Of 2001
+
+              That's ~250 eBooks per Month for ~59 Months
+
+                 We Have Produced 2928 eBooks in 2005!!!
+
+                        2,116 to go to 20,000!!!
+
+                  7,864 from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+
+                 517 from Project Gutenberg of Australia
+
+                  124 from Project Gutenberg of Europe
+                    Average 10.33 Per Month For 2005
+                 [We will start including these in 2006]
+                 [Apology for previously mixed numbers!]
+
+
+                We Averaged ~339 eBooks Per Month In 2004
+
+              We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~57 eBooks Per Week This Year
+
+                             50 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,500
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+JAPAN EXPLORES SEARCH ENGINE DEVELOPMENT
+The Japanese Ministry of Economy, Trade, and Industry has organized a
+study group of universities and electronics companies, including
+Hitachi and Panasonic, to consider the merits of creating a search
+engine specifically for Japan's Web users. Japanese Prime Minister
+Junichiro Koizumi has publicly stated that Japan needs to extend its
+influence in the IT arena. The government reportedly is considering
+spending up to $885 million on the search-engine plan as part of its
+efforts to become more dominant online.
+ZDNet, 21 December 2005
+http://news.zdnet.com/2100-9588_22-6004037.html
+
+
+PATENT OFFICE EXPECTED TO REJECT NTP PATENTS
+The U.S. Patent and Trademark Office notified NTP, a patent holding
+company, and Research in Motion (RIM), maker of the BlackBerry wireless
+e-mail device, that it expects to reject the five patents held by NTP.
+The two companies are involved in a patent infringement lawsuit brought
+by NTP. The patent office had issued preliminary rejections of the
+e-mail patents in the past, but speeded its review process in response
+to a request by RIM. The patent review is separate from the patent
+infringement lawsuit, which could potentially stop most BlackBerry
+service in the United States. NTP expects to appeal the final patent
+rulings, a process that could take several years.
+New York Times, 19 December 2005 (registration req'd)
+http://www.nytimes.com/2005/12/20/technology/20rim.html
+
+
+HACKERS HIT SECURITY COMPANY DATABASE
+Hackers gained access to the financial and personal data of 3,800 law
+enforcement and network security professionals when they broke into the
+customer database of Guidance Software in Pasadena, California.
+Guidance Software is a leading provider of software to diagnose hacker
+attacks, and its EnCase product is used by hundreds of security
+researchers and law enforcement agencies worldwide, including the U.S.
+Secret Service and FBI. The break-in took place in November and was
+discovered December 7. The company alerted its customers within two
+days after the discovery and assured them it would no longer store
+customer credit card data. The company is working with the Secret
+Service on a detailed investigation of the incident.
+Washington Post, 20 December 2004 (registration req'd)
+www.washingtonpost.com/wp-dyn/content/article/2005/12/19/AR2005121901525.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+INTERESTING QUOTES:
+
+"There is no question that what this platform,
+what I call the `flat world platform,'
+does is really empower individuals.
+
+"We've gone from a globalization
+that was really built around countries,
+to one built around companies,
+to one that is increasingly empowering individuals."
+
+Tom Friedman
+
+Source:  www.pbs.org/newshour/newshour_index.html
+
+*
+
+"Freedom is what promotes innovation."
+
+Reed Hastings, Netflix Founder
+
+
+*
+
+News From Other Sources
+
+Reports surfaced today that Harry Pooter and the
+Pyramid of Furmat will be the 7th and final book
+in J.K. Rowling's Harry Potter series.  However,
+similar reports indicated the title of The Half
+Blood Prince would be Harry Potter and the Pillar
+of Storge.
+
+"The Pyramids of Furmat lie a few miles east of the famous
+Fortress of Shadows, not far from the magnificent Pillar of Storge."
+According to Ms. Rowling.
+
+http://news.scotsman.com/entertainment.cfm?id=2468322005
+and
+Glasgow Daily Record, UK - Dec 26, 2005
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+Vice President Cheney removed his residence from online
+sources, says The New York Times, December 28, 2005.
+Google then replaced the tampered government photographs
+with others from a more reliable/valid private source.
+
+See Maureen Dowd's column.
+
+*
+
+Delphi auto parts has finally withdrawn from the table
+a proposal to cut workers' wages to 33%, not *by* 33%,
+in the face of asking for hundreds of millions to pay
+600 executives it wants to keep as it files bankruptcy,
+the same 600 executives who led them into bankruptcy.
+If changes at Delphi do not run smoothly, General Motors
+could also face insolvency.
+
+ABC News
+Automotive News
+Detroit Free Press
+
+*
+
+At least there was some mention of the over 200,000 deaths
+due to the tsunami in some of the "year in review" stories.
+
+*
+
+No mention of Valerie Plame, whose husband, Ambassador
+Joseph Wilson, warned before the Iraq war that the WMD
+[Weapons of Mass Destruction] cited by President Bush
+and others did not exist.  Ms. Plame was then "outed"
+as a CIA agent, presumably in response.  [No mention
+even in the Top 100 stories of the year.]
+
+*
+
+The "eminent domain" strategies of moving people out
+of their neighborhoods to move in big businesses who
+would pay more taxes got no mention either.  However,
+at least one story mentioned that most Seaside, MS.
+homes were over $1 million, and that once offshore
+floating casinos will now be rebuilt on land, land
+once owned by the poor who lived there for a number
+of generations, who will never get to rebuild.
+
+Apparently residents there are being pressured by
+the city to sell cheap rather than rebuild.
+
+Source:  msnbc.msn.com/id/10549743/
+
+*
+
+No mention of Special Agent Coleen Rowley's
+memo to the FBI about 9/11 after 21 years on the job.
+Though she was one of TIME's persons of the year, 2002,
+all of whom were whistleblowers, all of whom were women.
+The others brought down Enron and Worldcom, and not much
+mention of them, either.
+
+*
+
+What about those in Congress who were advised of wiretaps?
+Was it only a dozen?  Were they sworn to not tell anyone,
+even other members of Congress?
+
+
+*DOUBLESPEAK OF THE WEEK
+
+"We will rebuild the hurricane damage to the poor."
+
+or
+
+"We will rebuild the hurricane damage for the rich."
+
+
+
+*PREDICTIONS OF THE WEEK
+
+New Orleans WILL have Mardi Gras.
+
+
+
+*STRANGE QUOTES OF THE WEEK
+
+"The only ones complaining about trailers
+are those already living in houses."
+
+ABC World News Tonight  12/20
+
+
+*ODD STATISTICS OF THE WEEK
+
+There will be a "leap second" added between 2005
+and 2006 to correct for some slowing of rotation
+of the earth, mostly due to drag from the moon.
+
+This is a common occurance, done 7 years ago and
+some 21 times since Greenwich Mean Time began in
+1884.  [Also called Coordinated Universal Time]
+
+*
+
+Movie theater grosses are down 14% over last year
+for the holiday season, but the statistics do not
+include any reference to the fact that more money
+is coming in from video rentals than theaters.
+
+*
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+
+Prediction
+
+Facilitators again pop up at me
+through covers of books, pictures in motion,
+songs I sometimes listen to when I'm ready to listen
+
+saying things I thought I knew
+but then realized I never quite got
+growing in me a sort of feeling that resembles maturity
+as a non-profit living in a profit oriented world
+
+grey skies readily situated me
+on the brink of a paradise lost situation
+when I met this man; he sang Happy Birthday to Jesus
+every Christmas while this woman he loved was mailing
+gifts to Santa Claus
+
+the child I hold within still listens hard
+the chimes of freedom are ringing again on their
+veranda; let my soul be yours this very moment
+the new year breathes its first breaths
+
+the swing they sit on makes little squeaking noises,
+the night is chilly, their feet covered in fluffy blankets.
+A tiara of fireflies lights up an airy path
+
+thoughts wander on while reading from the classics:
+two books for a dollar again this year
+wonderers like marlins dive into the depth of each other's eyes.
+The Moon predicts they'll always keep them open.
+
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+
+

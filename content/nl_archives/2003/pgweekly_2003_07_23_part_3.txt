@@ -1,0 +1,281 @@
+The Project Gutenberg Weekly Newsletter 23rd July 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+REMINDER: GUTINDEX Has Moved to Five Digits!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 23 Jul 2003:   8,772 (incl. 249 Aus.).
+
+Last week the Total Count was 8,705, including 249 at PG of Australia.
+This week we added 67 new (incl. 0 at PG of Australia).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+
+The following are being re-indexed to correct the filename to conform
+with the new filename convention for the Scientific American series:
+Jun 2005 Scientific American Sup. No. 288, by Various      [?0288xxx.xxx] 8391
+[Full title: Scientific American Supplement, No. 288, July 9, 1881]
+Jun 2005 Scientific American Sup. No. 286, by Various      [?0286xxx.xxx] 8297
+[Full Title: Scientific American, Supplement 286, June 25, 1881]
+Jun 2005 Scientific American Sup. No. 303, by Various      [?0303xxx.xxx] 8296
+[Full title: Scientific American Supplement, No. 303, October 22, 1881]
+
+The following are being re-indexed to correct the filename (?rns, not ?rsn):
+May 2005 Reize naar Surinamen, by John Gabri‰l Stedman [#4][?rns4xxx.xxx] 8099
+[Full title: Reize naar Surinamen en door de binnenste gedeelten van Guiana]
+[Language: Dutch]
+May 2005 Reize naar Surinamen, by John Gabriel Stedman [#3][?rns3xxx.xxx] 8098
+[Full title: Reize naar Surinamen, en door de binnenste gedeelten van Guiana]
+[Language: Dutch]
+
+
+The following have been posted in new formats as indicated:
+Jan 2005 Monsieur Bergeret a Paris, by Anatole France      [mnsrbxxx.xxx] 7268
+[Subtitle: Histoire Contemporaine][Author AKA: Jacques Anatole Thibault]
+[Language: French]
+[HTML in  mnsrb10h.htm/.zip]
+Nov 1998 As You Like It, by William Shakespeare            [2ws25xxx.xxx] 1523
+[HTML in 2ws2510h.htm and 2ws2510h.zip]
+
+
+The following has been re-posted in an improved 12th Edition:
+Dec 2003 Pecheur d'Islande, by Pierre Loti                 [?pchsxxx.xxx] 4785
+[Plain text in ?pchs12.txt/.zip; HTML version in 8pchs12h.htm/.zip]
+[Language: French]
+
+
+=-=-=-=[  67 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Jul 2005 Travels in Africa, by Mungo Park                  [?trafxxx.xxx] 8564
+[Full title: Life and Travels of Mungo Park in Central Africa]
+Jul 2005 La Terre, by Emile Zola                           [?terrxxx.xxx] 8563
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+ sous le Second Empire - vol. 15] [Language: French]
+Jul 2005 Seaboard Parish, Complete,by George MacDonald[#32][?spr4xxx.xxx] 8562
+[Includes etexts #8551, 8552 and 8553]
+Jul 2005 Une Page d'Amour, by Emile Zola                   [?pdamxxx.xxx] 8561
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+ sous le Second Empire - vol. 8] [Language: French]
+(Note: The zip files contain an image of the genealogical tree of the family]
+
+Jul 2005 Le Docteur Pascal, by Emile Zola                  [?dpasxxx.xxx] 8560
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+ sous le Second Empire (vol. 20)] [Language: French]
+(Note: The file contains, at the end, a Genealogical Tree that required very
+ long lines (400 characters).
+Jul 2005 Scientific American Sup. No. 360, by Various      [?0360xxx.xxx] 8559
+[Full title: Scientific American Supplement No. 360, November 25, 1882]
+[Also posted: HTML in 8036010h.htm, and illustrated HTML in 8036010h.zip]
+Jul 2005 L'Assommoir, by Emile Zola                   [#23][?asmrxxx.xxx] 8558
+[Also posted HTML - 8asmr10h.zip and 8asmr10h.htm]
+[See also: #6497 in French]
+Jul 2005 Synge And The Ireland Of His Time, by W. B. Yeats [syngyxxx.xxx] 8557
+[Subtitle: With a Note Concerning a Walk through Connemara with Him by Jack
+ Butler Yeats]
+[Author's Full Name: William Butler Yeats]
+Jul 2005 History of England (1066-1216), by Adams          [?hengxxx.xxx] 8556
+[Full title: The History of England From the Norman Conquest to the Death
+ of John (1066-1216)]
+[Full author: George Burton Adams]
+
+Jul 2005 Initiation into Literature, by Emile Faguet       [?ilitxxx.xxx] 8555
+Jul 2005 Why Worry?, by George Lincoln Walton, M.D.        [?whwrxxx.xxx] 8554
+Jul 2005 Seaboard Parish Vol. 3, by George MacDonald[GM#31][?spr3xxx.xxx] 8553
+Jul 2005 Seaboard Parish Vol. 2, by George MacDonald[GM#30][spar2xxx.xxx] 8552
+Jul 2005 Seaboard Parish Vol. 1, by George MacDonald[GM#29][spar1xxx.xxx] 8551
+
+Jul 2005 T. Haviland Hicks Senior, by J. Raymond Elderdice [?hickxxx.xxx] 8550
+[HTML version in 8hick10h.htm and illustrated HTML in 8hick10h.zip]
+Jul 2005 The Woman With The Fan, by Robert Hichens     [#7][wmfanxxx.xxx] 8549
+Jul 2005 Pirke Avot, Traditional Text without footnotes[#2][prav2xxx.xxx] 8548
+[Subtitle: The Sayings of the Jewish Fathers]
+[Translated by Joseph I. Gorfinkle, PhD.]
+Jul 2005 Pirke Avot, Traditional Text                      [prav1xxx.xxx] 8547
+[Subtitle: Sayings of the Jewish Fathers]
+[Tr. and comments by Joseph I. Gorfinkle]
+[The original Hebrew text translated into English, with numerous comments
+ and footnotes]
+Jul 2005 Two Summers in Guyenne, by Edward Harrison Barker [?guynxxx.xxx] 8546
+
+Jul 2005 Amiel's Journal, by Henri Frederic Amiel, Tr. Ward[?ajrnxxx.xxx] 8545
+[Tr.: Mrs. Humphrey Ward]
+Jul 2005 Trivia, by Logan Pearsall Smith                   [?trivxxx.xxx] 8544
+Jul 2005 Great North-Western Conspiracy,by I. Windslow Ayer[?gnwcxxx.xxx] 8543
+[Full title: The Great North-Western Conspiracy In All Its Startling Details]
+Jul 2005 Things Mother Used To Make, by Lydia Maria Gurney [tmutmxxx.xxx] 8542
+[Subtitle: A Collection of Old Time Recipes, Some Nearly One Hundred Years
+Old and Never Published Before]
+Jul 2005 Les mains pleines de rose, par Arsène Houssaye    [?lmpdxxx.xxx] 8541
+[Full title: Les mains pleines de rose, pleines d’or et pleines de sang]
+[Language: French]
+
+Jul 2005 Life of Charles W. Dilke, Vol. 2,Stephen Gwynn[#2][?dlk2xxx.xxx] 8540
+[Full title: The Life of the Rt. Hon. Sir Charles W. Dilke, Vol. 2]
+Jul 2005 In Those Days, by Jehudah Steinberg               [oldmnxxx.xxx] 8539
+Jul 2005 A Touch Of Sun And Other Stories, by M. Foote     [?tchsxxx.xxx] 8538
+[Author's Full Name: Mary Hallock Foote]
+Jul 2005 Lonesome Land, by B. M. Bower                     [lnsmlxxx.xxx] 8537
+Jul 2005 Philip Gilbert Hamerton,byPhilip Gilbert Hamerton [?hmrtxxx.xxx] 8536
+[Subtitle: An Autobiography, 1834-1858, and a Memoir by His Wife, 1858-1894]
+[Author: E. Hamerton]
+
+Jul 2005 The Sisters-In-Law, by Gertrude Atherton      [#5][?sistxxx.xxx] 8535
+Jul 2005 Daily Strength for Daily Needs,by Mary W. Tileston[?dsdnxxx.xxx] 8534
+Jul 2005 Literary Remains, Vol. 2, by Coleridge        [#9][?rem2xxx.xxx] 8533
+Jul 2005 Andivius Hedulio, by Edward Lucas White           [?ahedxxx.xxx] 8532
+Jul 2005 Helen, by Maria Edgeworth                     [#5][?helnxxx.xxx] 8531
+[Note: from Tales And Novels, Vol. X of Ten]
+
+Jul 2005 A Study Of Hawthorne, by George Parsons Lathrop   [?sthwxxx.xxx] 8530
+Jul 2005 The World Decision, by Robert Herrick             [?wdcsxxx.xxx] 8529
+
+Jul 2005 Eve's Diary, by Mark Twain           Part 3 [#145][eve04xxx.xxx] 8528
+Jul 2005 Eve's Diary, by Mark Twain           Part 2 [#144][eve03xxx.xxx] 8527
+Jul 2005 Eve's Diary, by Mark Twain           Part 1 [#143][eve02xxx.xxx] 8526
+Jul 2005 Eve's Diary, by Mark Twain         Complete [#142][eve01xxx.xxx] 8525
+[Illustrated by Lester Ralph] [Illustrated HTML zip only in eve0?10h.zip]
+[Complete file: 4.5 mb, Parts 1-3 average 1.8 mb]
+
+Jul 2005 L'Ile des Pingouins, par Anatole France           [?ilepxxx.xxx] 8524
+Jul 2005 Val d'Arno, by John Ruskin                    [#6][?arnoxxx.xxx] 8523
+Jul 2005 The Puritans, by Arlo Bates                       [?prtnxxx.xxx] 8522
+Jul 2005 Maintaining Health, by R. L. Alsaker              [mntnnxxx.xxx] 8521
+[Subtitle: Formerly Health and Efficiency]
+
+Jul 2005 Voyage d'un Habitant de la Lune … Paris, P.Gallet [?vhlpxxx.xxx] 8520
+[Full title: Voyage d'un Habitant de la Lune a Paris a la fin du XVIIIe Siecle]
+[Full author: Pierre Gallet]
+[Language: French]
+
+Jul 2005 Fritofs Saga, by Esaias Tegner                    [?ftfsxxx.xxx] 8518
+[Language: Swedish with English notes]
+Jul 2005 Hormones and Heredity, by J. T. Cunningham        [?hormxxx.xxx] 8517
+
+Jul 2005 Three Cities Trilogy: Lourdes, Complete, Zola[#22][lour6xxx.xxx] 8516
+Jul 2005 Three Cities: Lourdes, Vol. 5, by Emile Zola [#21][lour5xxx.xxx] 8515
+Jul 2005 Three Cities: Lourdes, Vol. 4, by Emile Zola [#20][lour4xxx.xxx] 8514
+Jul 2005 Three Cities: Lourdes, Vol. 3, by Emile Zola [#19][lour3xxx.xxx] 8513
+Jul 2005 Three Cities: Lourdes, Vol. 2, by Emile Zola [#18][lour2xxx.xxx] 8512
+Jul 2005 Three Cities: Lourdes, Vol. 1, by Emile Zola [#17][lour1xxx.xxx] 8511
+[Full title: The Three Cities Trilogy: Lourdes]
+
+Jul 2005 Lucky Pehr, by August Strindberg              [#7][?pehrxxx.xxx] 8510
+Jul 2005 Among My Books, by James Russell Lowell           [?mbk2xxx.xxx] 8509
+[Subtitle: Second Series]
+Jul 2005 Evolution Of Man Scientifically Disproved,Williams[?evdsxxx.xxx] 8508
+[Full title: The Evolution Of Man Scientifically Disproved]
+[Subtitle: In 50 Arguments]
+[Author's Full Name: William A. Williams]
+[Also posted: HTML 8evds10h.htm/8evds10h.zip]
+(Note: All three zip versions include one graphic image.)
+Jul 2005 Ten Great Events in History, by James Johonnot    [?tgehxxx.xxx] 8507
+Jul 2005 In Exile and Other Stories, by Mary Hallock Foote [?exilxxx.xxx] 8506
+
+Jul 2005 Normandy, by Gordon Home                          [?normxxx.xxx] 8505
+Jul 2005 Scientific American Sup. No. 358, by Various      [?0358xxx.xxx] 8504
+[Full title: Scientific American Supplement, No. 358, November 11, 1882]
+[Also posted HTML - 8035810h.zip and 8035810h.htm]
+Jul 2005 Among My Books, by James Russell Lowell       [#6][?ambkxxx.xxx] 8503
+[Full Title: Among My Books, First Series]
+Jul 2005 Common Diseases of Farm Animals, by R. A. Craig   [dfarmxxx.xxx] 8502
+[Full author: R. A. Craig, D. V. M.]
+Jul 2005 Ice Creams and Other, by Mrs. S. T. Rorer     [#3][?iccrxxx.xxx] 8501
+[Full title: Ice Creams, Water Ices, Frozen Puddings Together with
+[ Refreshments for all Social Affairs]
+
+Jul 2005 Plays: incl. Comrades, etc., by August Strindberg [?p2asxxx.xxx] 8500
+[Full title: Plays: Comrades; Facing Death; Pariah; Easter]
+[Tr.: Edith and Warner Oland]
+[zip versions include two illustrations]
+Jul 2005 Plays: incl. The Father, etc., August Strindberg  [?p1asxxx.xxx] 8499
+[Full Title: Plays: The Father; Countess Julie; The Outlaw; The Stronger]
+[Tr.: Edith and Warner Oland]
+(Illustrations in zip files.)
+
+
+Jul 2005 Scientific American Sup. No. 363, by Various      [?0363xxx.xxx] 8452
+[Full title: Scientific American Supplement, No. 363, December 16, 1882]
+[Also posted HTML - 8036310h.zip and 8036310h.htm]
+
+
+Nov 2004 Rime,Tullia d'Aragona                             [?tldaxxx.xxx] 6938
+[Subtitle: Le Rime di Tullia d'Aragona, cortigiana del Secolo XVI]
+[Editor: Enrico Celani] [Language: Italian]
+
+
+=-=-=-=[ NO NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers, booklists and
+suggestions. Mark for the computer fixing (I do wish he would stop
+meddling), Greg, Michael, and Larry Wall. Entertainment for the
+workers provided by BBC 6music as always. And the band played on.

@@ -1,0 +1,12 @@
+name = "GutenbergNews"
+min_version = "1.0.0"
+description = "GutenbergNews is a minimal theme"
+homepage = "https://github.com/mrcook/gutenbergnews"
+licenselink = "https://github.com/mrcook/gutenbergnews/blob/master/LICENSE"
+features = ["minimal"]
+tags = ["minimal"]
+license = "MIT"
+
+[author]
+  name = "Michael R. Cook"
+  homepage = "https://github.com/mrcook"

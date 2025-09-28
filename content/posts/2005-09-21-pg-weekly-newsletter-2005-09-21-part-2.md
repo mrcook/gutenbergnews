@@ -1,0 +1,363 @@
+---
+params:
+  id: 2299
+title: "PG Weekly Newsletter: Part 2 (2005-09-21)"
+date: 2005-09-21T22:18:05+00:00
+author: Michael Cook
+layout: post
+url: /20050921/pg-weekly-newsletter-2005-09-21-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Thu Sep 22 21:34:19 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Sep 22 21:34:21 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0509222129500.29039@pglaf.org&gt;
+
+GWeekly_September_21_part2.txt
+
+The Project Gutenberg Weekly Newsletter 21 Sep 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 35 New U.S. eBooks this week
+    - 2 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 21 Sep 2005: 17167 (incl. 483 Aus.).
+
+Last week the Total Count was 17130, including 483 at PG of Australia.
+This week we added 37 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: Minor corrections have been made to the following, and a TEI master
+file for each was used to generate all included files:
+
+The Rejuvenation of Aunt Mary, by Anne Warner                            15775
+   [Link: http://www.gutenberg.org/1/5/7/7/15775 ]
+   [Files: 15775.txt; 15775-8.txt; 15775-0.txt; 15775-pdf.pdf; 15775-h.htm;
+    15775-tei.tei]
+
+True Stories of History and Biography, by Nathaniel Hawthorne            15697
+   [Link: http://www.gutenberg.org/1/5/6/9/15697 ]
+   [Files: 15697.txt; 15697-8.txt; 15697-0.txt; 15697-h.htm; 15697-pdf.pdf;
+    15697-tei.tei]
+
+Judith of the Plains, by Marie Manning                                   15573
+   [Link: http://www.gutenberg.net/1/5/5/7/15573 ]
+   [Files: 15573.txt; 15573-8.txt; 15573-0; 15573-pdf.pdf; 15573-h.htm;
+    15573-tei.tei]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+Incorrectly listed last week as #16691:
+Five Months on a German Raider, by Frederic George Trayes                16690
+   [Subtitle: Being the Adventures of an Englishman Captured by the 'Wolf']
+   [Link: http://www.gutenberg.org/1/6/6/9/16690 ]
+   [Files: 16690.txt; 16690-8.txt; 16690-h.htm; ]
+
+
+-=-=-=-=[  35 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+A Catechism of Familiar Things, by Benziger Brothers                     16728
+   [Full title: A Catechism of Familiar Things; Their History, and the]
+   [Events Which Led to Their Discovery]
+   [Subtitle: With a Short Explanation of Some of the Principal Natural]
+   [Phenomena. For the Use of Schools and Families. Enlarged]
+   [and Revised Edition.]
+   [Link: http://www.gutenberg.org/1/6/7/2/16728 ]
+   [Files: 16728.txt; 16728-8.txt; 16728-h.htm]
+
+Punch, or the London Charivari, Vol. 159, August 25th, 1920, by Various  16727
+   [Link: http://www.gutenberg.org/1/6/7/2/16727 ]
+   [Files: 16727.txt; 16727-8.txt; 16727-h.htm]
+
+Four Weird Tales, by Algernon Blackwood                                  16726
+   [Link: http://www.gutenberg.org/1/6/7/2/16726 ]
+   [Files: 16726.txt; 16726-h.htm]
+
+Sprookjes van Jean Mac, by Jean Mac                                    16725
+   [Illustrator: Jan Wiegman]
+   [Translator: Hermanna]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/6/7/2/16725 ]
+   [Files: 16725-8.txt; 16725-h.htm]
+
+The Campaign of 1760 in Canada, by Chevalier Johnstone                   16724
+   [Subtitle: A Narrative Attributed to Chevalier Johnstone]
+   [Link: http://www.gutenberg.org/1/6/7/2/16724 ]
+   [Files: 16724.txt; 16724-h.htm]
+
+Mooses ja hnen hevosensa, by Heikki Merilinen                          16723
+   [Subtitle: Romaani]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/7/2/16723 ]
+   [Files: 16723-8.txt]
+
+Americans and Others, by Agnes Repplier                                  16722
+   [Link: http://www.gutenberg.org/1/6/7/2/16722 ]
+   [Files: 16722.txt; 16722-h.htm]
+
+A Place so Foreign, by Cory Doctorow                                     16721C
+   [Link: http://www.gutenberg.org/1/6/7/2/16721 ]
+   [Files: 16721-8.txt; ]
+
+Marzio's Crucifix and Zoroaster, by F. Marion Crawford                   16720
+   [Link: http://www.gutenberg.org/1/6/7/2/16720 ]
+   [Files: 16720.txt; 16720-8.txt; 16720-h.htm; ]
+
+The Husbands of Edith, by George Barr McCutcheon                         16719
+   [Ill.: Harrison Fisher]
+   [Decorated by Theodore B Hapgood (1871-1938) designed book covers,]
+   [bookplates, posters, and a set of type ornaments, known as Hapgood]
+   [florets.]
+   [Link: http://www.gutenberg.org/1/6/7/1/16719 ]
+   [Files: 16719.txt; 16719-8.txt; 16719-h.htm; ]
+
+Mineralogia Polygotta, by Christian Keferstein                           16718
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/6/7/1/16718 ]
+   [Files: 16718-8.txt; 16718-h.htm; ]
+
+Punch, or the London Charivari, Vol. 159, September 1st, 1920, Various   16717
+   [Link: http://www.gutenberg.org/1/6/7/1/16717 ]
+   [Files: 16717.txt; 16717-8.txt; 16717-h.htm]
+
+The Going of the White Swan, by Gilbert Parker                           16716
+   [Link: http://www.gutenberg.org/1/6/7/1/16716 ]
+   [Files: 16716.txt; 16716-8.txt; 16716-h.htm]
+
+Sir Walter Scott as a Critic of Literature, by Margaret Ball             16715
+   [Link: http://www.gutenberg.org/1/6/7/1/16715 ]
+   [Files: 16715.txt; 16715-8.txt; 16715-h.htm]
+
+Under Sealed Orders, by H. A. Cody                                       16714
+   [Link: http://www.gutenberg.org/1/6/7/1/16714 ]
+   [Files: 16714.txt; 16714-8.txt; ]
+
+Amusements in Mathematics, by Henry Ernest Dudeney                       16713
+   [Link: http://www.gutenberg.org/1/6/7/1/16713 ]
+   [Files: 16713.txt; 16713-8.txt; 16713-h.htm]
+
+Some Turns of Thought in Modern Philosophy, by George Santayana          16712
+   [Subtitle: Five Essays]
+   [Link: http://www.gutenberg.org/1/6/7/1/16712 ]
+   [Files: 16712.txt; 16712-8.txt; 16712-h.htm]
+
+Life and Labors of Elder John Kline, the Martyr Missionary, John Kline   16711
+   [Subtitle: Collated from his Diary by Benjamin Funk]
+   [Editor: Benjamin Funk]
+   [Link: http://www.gutenberg.org/1/6/7/1/16711 ]
+   [Files: 16711.txt; 16711-8.txt; 16711-h.htm]
+
+Les Deux Gentilshommes de Vrone, by William Shakespeare                 16710
+   [Translator: Franois Pierre Guillaume Guizot]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/7/1/16710 ]
+   [Files: 16710-8.txt; 16710-h.htm]
+
+Contes rapides, by Franois Coppe                                       16709
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/7/0/16709 ]
+   [Files: 16709-8.txt; 16709-h.htm]
+
+Kuolleet omenapuut, by Joel Lehtonen                                     16708
+   [Subtitle: Runollista proosaa]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/7/0/16708 ]
+   [Files: 16708-8.txt]
+
+Punch, or the London Charivari, Vol. 159, August 18th, 1920, by Various  16707
+   [Link: http://www.gutenberg.org/1/6/7/0/16707 ]
+   [Files: 16707.txt; 16707-8.txt; 16707-h.htm]
+
+Fragment of the Letters of Pliny the Younger, by Lowe and Rand           16706
+   [Title: A Sixth-Century Fragment of the Letters of Pliny the Younger]
+   [Subtitle: A Study of Six Leaves of an Uncial Manuscript Preserved
+    in the Pierpont Morgan Library New York]
+   [Author: Elias Avery Lowe and Edward Kennard Rand]
+   [Link: http://www.gutenberg.org/1/6/7/0/16706 ]
+   [Files: 16706.txt; 16706-8.txt; 16706-0.txt; 16706-h.htm]
+
+A Wanderer in Venice, by E.V. Lucas                                      16705
+   [Illustrator: Harry Morley]
+   [Link: http://www.gutenberg.org/1/6/7/0/16705 ]
+   [Files: 16705.txt; 16705-8.txt; 16705-h.htm]
+
+Adventures in Southern Seas, by George Forbes                            16704
+   [Subtitle: A Tale of the Sixteenth Century]
+   [ATTENTION INDEXERS--The transcriber thinks the George Forbes who wrote]
+   [this is NOT the George Forbes in the PG catalog, although the LOC]
+   [attributes the book to Forbes 1849-1936. I cannot resolve the question.]
+   [The transcriber's note is as follows: "About the author George Forbes I]
+   [can find almost nothing. I am fairly certain that it is NOT George Forbes]
+   [(1849-1936), the Scottish engineer who wrote popular science books,]
+   [including one on astronomy in the PG list. There is a copy of "Adventures]
+   [.." in the National Library of Australia and the British Library but no]
+   [biographical information; all the many reference works I have consulted do]
+   [not mention him. From references made in his "introductory" to the]
+   [Mitchell Library in Sydney, I think he wrote the book in Australia, though]
+   [it was published in Britain. He may be the same George Forbes who]
+   [published a history of Sydney in the 1920s, but again no biographical info]
+   [- a man of mystery!"]
+   [Link: http://www.gutenberg.org/1/6/7/0/16704 ]
+   [Files: 16704.txt; ]
+
+A Comedy of Masks, by Ernest Dowson and Arthur Moore                     16703
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/6/7/0/16703 ]
+   [Files: 16703.txt; 16703-8.txt; ]
+
+New York Times Current History: The European War, Vol. 1, Jan. 9, 1915   16702
+   [Title: The New York Times Current History of the European War, Vol. 1,
+    January 9, 1915]
+   [Subtitle: What Americans Say to Europe]
+   [Link: http://www.gutenberg.org/1/6/7/0/16702 ]
+   [Files: 16702.txt; 16702-8.txt; 16702-h.htm; ]
+
+Het Leven der Dieren, by A. E. Brehm                                     16701
+   [Subtitle: Deel I, Hoofdstuk 1. De Apen]
+   [Editor: S. P. Huizinga]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/6/7/0/16701 ]
+   [Files: 16701-8.txt; 16701-h.htm]
+
+The Ancient Church, by W.D. [William Dool] Killen                        16700
+   [Subtitle: Its History, Doctrine, Worship, and Constitution]
+   [Link: http://www.gutenberg.org/1/6/7/0/16700 ]
+   [Files: 16700.txt; 16700-8.txt]
+
+Glen of the High North, by H. A. Cody                                    16699
+   [Link: http://www.gutenberg.org/1/6/6/9/16699 ]
+   [Files: 16699.txt; 16699-8.txt; ]
+
+The King's Arrow, by H. A. Cody                                          16698
+   [Subtitle: A Tale of the United Empire Loyalists]
+   [Link: http://www.gutenberg.org/1/6/6/9/16698 ]
+   [Files: 16698.txt; 16698-8.txt; ]
+
+Epistle to the Son of the Wolf, by Baha'u'llah                           16697C
+  [Link: http://www.gutenberg.org/1/6/6/6/16666 ]
+  [Files: 16697.txt; 16697-8.txt; 16697-0; 16697-h.htm; 16697-pdf.pdf;
+   16697-tei.tei]
+
+Leiarvsir  stamlum, by Jnna Sigrur Jnsdttir                   16696
+   [Subtitle: II. fyrir ungar stlkur]
+   [Language: Icelandic]
+   [Link: http://www.gutenberg.org/1/6/6/9/16696 ]
+   [Files: 16696-8.txt; 16696-0.txt; 16696-h.htm]
+
+Fighting Instructions, 1530-1816, by Julian S. Corbett                   16695
+   [Subtitle: Publications Of The Navy Records Society Vol. XXIX]
+   [Link: http://www.gutenberg.org/1/6/6/9/16695 ]
+   [Files: 16695.txt; 16695-8.txt]
+
+Fifth Avenue, by Arthur Bartlett Maurice                                 16691
+   [Illus.: Allan G. Cram]
+   [Link: http://www.gutenberg.org/1/6/6/9/16691 ]
+   [Files: 16691.txt; 16691-8.txt; 16691-h.htm; ]
+
+
+-=-=-=-=[ 2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Sep 2005 The Big Change, by Frederick Lewis Allen          [050088xx.xxx] 0483A
+
+Sep 2005 The  Courtship of Morrice Buckler, by A E W Mason [050087xx.xxx] 0482A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_09_21_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_09_21_part_2.txt</a>

@@ -1,0 +1,274 @@
+---
+params:
+  id: 1993
+title: "PG Weekly Newsletter: Part 3 (2003-05-14)"
+date: 2003-05-14T16:32:06+00:00
+author: Michael Cook
+layout: post
+url: /20030514/pg-weekly-newsletter-2003-05-14-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 14th May 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 05/14/03:   7,916 (incl. 230 Aus.).
+
+Last week the Total Count was 7,852, including 228 at PG of Australia.
+This week we added 64 new (incl. 2 Aus.).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being reindexed to correct the main entry (incorrectly
+indexed as V13, it is actually the complete 12 vols); also to add
+supplemental title and author info:
+Dec 2002 Complete Life Of Napoleon, By Constant     [NB#30][nc13vxxx.xxx]3580
+[Full Title:  The Complete Recollections Of The Private Life Of Napolean]
+[Author:  Constant, Premier Valet De Chambre] [Tr.: Walter Clark]
+
+
+The following have been re-posted in new formats as indicated:
+Nov 1999 Beatrix, by Honore de Balzac                      [btrixxxx.xxx]1957
+[HTML in btrix10h.htm/.zip]
+May 1997 Sketches of Young Gentlemen, by Dickens  [CD #26] [skygmxxx.xxx] 918
+[XHTML in skygm10h.htm/.zip]
+May 1997 Sketches of Young Couples, by Charles Dickens[#24][yngcpxxx.xxx] 916
+[XHTML in yngcp10h.htm/.zip]
+May 1997 Mudfog and Other Sketches, by Charles Dickens[#22][mdfogxxx.xxx] 912
+[XHTML in mdfog10h.htm/.zip]
+May 1997 Tales of the Fish Patrol, by Jack London[London#8][totfpxxx.xxx] 911
+[XHTML in totfp10h.htm/.zip]
+May 1997 White Fang, by Jack London  [Jack London #7]      [wtfngxxx.xxx] 910
+[XHTML in wtfng10h.htm/.zip]
+May 1997 The Happy Prince & Other Tales by Oscar Wilde[#12][hpaotxxx.xxx] 902
+[XHTML in hpaot10h.htm/.zip]
+Apr 1997 Lazy Tour of Two Idle Apprentices by Dickens [#23][lttiaxxx.xxx] 888
+[XHTML in lttia10h.htm/.zip]
+Apr 1997 Intentions, by Oscar Wilde       [Oscar Wilde #11][ntntnxxx.xxx] 887
+[XHTML in ntntn10h.htm/.zip]
+Apr 1997 Letters from the Cape, by Lady Duff Gordon        [lddfgxxx.xxx] 886
+[XHTML in lddfg10h.htm/.zip]
+Apr 1997 Sketches by Boz, pseudonym of Charles [Dickens#21][sbbozxxx.xxx] 882
+[XHTML in sbboz10h.htm/.zip]
+
+
+The following has been re-posted in an improved 11th edition
+Oct 2000 The Son of the Wolf, by Jack London      [#79-#87][snwlfxxx.xxx]2377
+[Note:  text version only updated, in snwlf111.txt/.zip]
+
+
+=-=-=-=[ 62 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Mar 2005 Tomlinsoniana,   by E. B. Lytton,         [BL#163][b163wxxx.xxx]7736
+
+Mar 2005 Paul Clifford,   by E. B. Lytton, Complete[BL#162][b162wxxx.xxx]7735
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7728-7734]
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 7  [BL#161][b161wxxx.xxx]7734
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 6  [BL#160][b160wxxx.xxx]7733
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 5  [BL#159][b159wxxx.xxx]7732
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 4  [BL#158][b158wxxx.xxx]7731
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 3  [BL#157][b157wxxx.xxx]7730
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 2  [BL#156][b156wxxx.xxx]7729
+Mar 2005 Paul Clifford,   by E. B. Lytton, Vol. 1  [BL#155][b155wxxx.xxx]7728
+
+
+Feb 2005 Roman Pronunciation of Latin, by Frances E. Lord  [?rlatxxx.xxx]7528
+Feb 2005 Englishwoman in America, by I. Lucy Bird   [ILB#6][?ewamxxx.xxx]7526
+
+Feb 2005 A History of Roman Literature, by C. T. Cruttwell [?romnxxx.xxx]7525
+[Subtitle: From The Earliest Period To The Death Of Marcus Aurelius]
+[Full author: Charles Thomas Cruttwell]
+Feb 2005 Germany and the Agricola of Tacitus,by Tacitus[#2][?aggrxxx.xxx]7524
+[Title: The Germany And The Agricola Of Tacitus]
+[Note: The Oxford Translation Revised, With Notes, With An Introduction
+  By Edward Brooks, Jr.]
+Feb 2005 Lady of the Decoration, by Frances Little         [?lddcxxx.xxx]7523
+[Plain text in 7lddc10.txt/.zip, 8-bit version in 8lddc10.txt/.zip]
+Feb 2005 King Coal, by Upton Sinclair                 [#20][?coalxxx.xxx]7522
+[Subtitle: A Novel]
+Feb 2005 The History Of Education, By Ellwood P. Cubberley [?hsedxxx.xxx]7521
+[Subtitle: Educational Practice and Progress Considered as a Phase of the
+  Development and Spread of Western Civilization]
+[Plain text in 7hsed10.txt/.zip, 8-bit version in 8hsed10.txt/.zip]
+
+Feb 2005 Snow-Blind, by Katharine Newlin Burt              [sblndxxx.xxx]7520
+Feb 2005 The Nomad of the Nine Lives, by A. Frances Friebe [nmd9lxxx.xxx]7519
+Feb 2005 More Jataka Tales, by Re-told by Ellen C. Babbitt [mrjtkxxx.xxx]7518
+[HTML version in mrjtk10h.htm, HTML with Illustrations in mrjtk10h.zip]
+Feb 2005 Sanctuary, by Edith Wharton                       [snctrxxx.xxx]7517
+Feb 2005 Crucial Instances, by Edith Wharton               [?crcixxx.xxx]7516
+[Plain text in 7crci10.txt/.zip, 8-bit version in 8crci10.txt/.zip]
+
+Feb 2005 The Glory of the Trenches, by Coningsby Dawson    [?glttxxx.xxx]7515
+[Subtitle: An Interpretation]
+[7-bit version with non-accented characters in 7gltt10.txt and 7gltt10.zip]
+[8-bit version with accented characters in 8gltt10.txt and 8gltt10.zip]
+Feb 2005 A Little Book of Stoicism, by St George Stock [#2][stoicxxx.xxx]7514
+Feb 2005 O. T., A Danish Romance, by Hans C. Andersen  [#3][?anotxxx.xxx]7513
+[Full author: Hans Christian Andersen]
+Feb 2005 Heidi, Vol. 2, by Johanna Spyri               [#5][?hid2xxx.xxx]7512
+[Full title: Heidi kann brauchen, was es gelernt hat]
+[Language: German]
+Feb 2005 Heidis Lehr- und Wanderjahre, by Johanna Spyri[#4][?heidxxx.xxx]7511
+[Language: German]
+[7-bit version in 7heid10a.txt/.zip; 8-bit version in 8heid10a.txt/.zip]
+
+Feb 2005 Keith of the Border, by Randall Parrish           [?kethxxx.xxx]7510
+[Also posted HTML - 8keth10h.zip and 8keth10h.htm]
+Feb 2005 The Logbooks of the Lady Nelson, by Ida Lee       [lgnelxxx.xxx]7509
+[Also posted: illustrated HTML - lgnel10h.zip and lgnel10h.htm]
+Feb 2005 A Mummer's Wife, by George Moore              [#4][?mumrxxx.xxx]7508
+Feb 2005 13th String Quartet, Ludwig van Beethoven [LVB #9][lv130xxx.zip]7507
+[Musical score in Finale's .MUS format]
+Feb 2005 The Huge Hunter, by Edward S. Ellis      [Ellis#3][steamxxx.xxx]7506
+[Subtitle: Or, The Steam Man of the Prairies]
+
+Feb 2005 Half-Past Seven Stories, by Robert Gordon Anderson[hfpssxxx.xxx]7505
+[Also posted illustrated HTML zip only - hfpss10h.zip]
+Feb 2005 Tom of the Raiders, by Austin Bishop              [traidxxx.xxx]7504
+Feb 2005 Mozart auf der Reise nach Prag, by Eduard Morike  [?mzrtxxx.xxx]7503
+[Language: German]
+Feb 2005 Annie Kilburn, by W. D. Howells              [#64][?annixxx.xxx]7502
+Feb 2005 Tales of the Wilderness, by Boris Pilniak (pseud.)[?wildxxx.xxx]7501
+[Author Note: Boris Pilniak is a pseudonym for Boris Andreievich Vogau]
+
+Feb 2005 Heidis Lehr- und Wanderjahre, by Johanna Spyri[#3][?heidxxx.xxx]7500
+[Language: German]
+Feb 2005 Five Republics on Horseback, by G. Whitfield Ray  [?5repxxx.xxx]7499
+[Full title: Through Five Republics on Horseback]
+Feb 2005 Five Little Peppers Grown Up, Margaret Sidney [#5][5peprxxx.xxx]7498
+Feb 2005 Further Adventures of Q. A. Sawyer,by C. F. Pidgin[?faqsxxx.xxx]7497
+[Full Title: The Further Adventures of Quincy Adams Sawyer and Mason's
+  Corner Folks]
+[Full author: Charles Felton Pidgin]
+Feb 2005 Jack Ranger's Western Trip, by Clarence Young [#2][jrwtrxxx.xxx]7496
+[Subtitle:  From Boarding School to Ranch and Range]
+
+Feb 2005 To Infidelity and Back, by Henry F. Lutz          [infidxxx.xxx]7495
+Feb 2005 Outdoor Girls in Army Service, Laura Lee Hope[#17][tdgrsxxx.xxx]7494
+[Subtitle: Doing Their Bit for the Soldier Boys]
+Feb 2005 The Daughter of the Chieftain, by Edward S. Ellis [dchefxxx.xxx]7493
+[Also posted HTML - dchef10h.zip and dchef10h.htm]
+Feb 2005 The Fighting Chance, by Robert W. Chambers        [?fghtxxx.xxx]7492
+[Also posted HTML - 8fght10h.zip and 8fght10h.htm]
+Feb 2005 De Amicitia, Scipio's Dream,Marcus Tull. Ciceronis[?amscxxx.xxx]7491
+[Full author: Marcus Tullius Ciceronis][AKA: Cicero]
+
+Feb 2005 Palamon and Arcite, by John Dryden            [#3][?paarxxx.xxx]7490
+Feb 2005 Through Central Borneo, by Carl Lumholtz          [?bornxxx.xxx]7489
+Feb 2005 Celtic Tales, by Louey Chisholm                   [celttxxx.xxx]7488
+[Also in Illustrated HTML zipped only - celtt10h.zip]
+Feb 2005 Count Alarcos, by Benjamin Disraeli           [#3][ctlrcxxx.xxx]7487
+[Also posted RTF format as ctlrc10r.rtf and ctlrc10r.zip]
+Feb 2005 The Master of Silence, by Irving Bacheller    [#2][msslnxxx.xxx]7486
+[Also posted HTML - mssln10h.zip and mssln10h.htm]
+
+Feb 2005 The Last American, by J. A. Mitchell              [lsmrcxxx.xxx]7485
+Feb 2005 Guan zi, by guan zhong, Vol. 2                [#3][?zi06xxx.xxx]7484
+[Language: Chinese]
+Feb 2005 Guan zi, by guan zhong, Vol. 1                [#2][?zi01xxx.xxx]7483
+[Language: Chinese]
+Feb 2005 Stories of the Prophets, by Isaac Landman         [prophxxx.xxx]7482
+[Subtitle: Before the Exile]
+Feb 2005 The Three Clerks, by Anthony Trollope        [#43][?tclrxxx.xxx]7481
+
+Feb 2005 The Created Legend, by Feodor Sologub             [?crlgxxx.xxx]7480
+[Authorized Translation from the Russian by John Cournos]
+Feb 2005 Dorothy Dainty at Glenmore, by Amy Brooks     [#3][ddglnxxx.xxx]7479
+Feb 2005 Toby Tyler, by James Otis                         [tbytyxxx.xxx]7478
+[Subtitle: or, Ten Weeks with a Circus]
+[HTML version in tbyty10h.htm and tbyty10h.zip]
+Feb 2005 Book of Wonder, by Edward J. M. Plunkett [EJMDP#4][?wondxxx.xxx]7477
+[Full author: Edward J. M. D. Plunkett, Lord Dunsany]
+Feb 2005 Principal Navigations, V3, by Richard Hakluyt [#6][?hk03xxx.xxx]7476
+[Full title: The Principal Navigations, Voyages, Traffiques, and
+  Discoveries of The English Nation, v3] [Ed.: Edmund Goldsmid]
+[Subtitle:  North-Eastern Europe and Adjacent Countries Part II. The
+  Muscovy Company and the North-Eastern Passage] (See also #7466 & 7182)
+
+Feb 2005 From the Easy Chair, vol. 1, George William Curtis[easchxxx.xxx]7475
+[Also posted HTML - easch10h.zip and easch10h.htm]
+
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+May 2003 Mother India, by Katherine Mayo                   [030081xx.xxx]0230A
+[http://gutenberg.net.au/ebooks03/0300811h.zip ZIPPED HTML ONLY]
+May 2003 Kanga Creek: An Australian Idyll,by Havelock Ellis[030080xx.xxx]0229A
+[http://gutenberg.net.au/ebooks03/0300801.txt or .ZIP]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+the booklists, hi guys!. Mark for the now finished beer, Greg, Michael
+and Larry Wall. Entertainment for the workers provided by Andrew
+Collins and Hortense. Back to the agriculture for me. Better watch out
+for the skindeep.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_05_14_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_05_14_part_3.txt</a>

@@ -1,0 +1,667 @@
+The Project Gutenberg Weekly Newsletter 29th October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News
+   Distributed Proofreaders Update
+3) Notes and Queries, Reviews and Features
+   Quiz
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Well, there we all were celebrating and then someone rained on the
+parade. A suggestion has been made that copyright law be changed in
+Australia from Life+50 years to Life+70, and the law be made
+retrospective. This means of course, that many of the works on PG
+Australia would have to be removed. More information below.
+
+Also, this week time to don your scary costume and mask and log on to
+DP on Friday night for Distributed Proofreaders Halloween party, I
+won't be wearing a costume personally, it'll be 7am my time, and I
+always look like death then, see you there....
+
+Happy reading,
+
+Alice
+
+send email to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://ibiblio.org/gutenberg/
+Project Gutenberg Newsletter website: http://ibiblio.org/gutenberg/newsletter
+Radio Gutenberg: http://www.radio-gutenberg.com
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://ibiblio.org/gutenberg/subs.html
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News and Comment
+
+Australia Copyright Controversy
+
+The MPAA and the APRA have commissioned a study proposing that
+copyright in Australia be extended from life+50 to life+70
+years. There are more details and a discussion of this on Slashdot
+http://yro.slashdot.org/article.pl?sid=03/10/23/2012208&amp;mode=thread&amp;tid=123&amp;tid=155&amp;tid=188&amp;tid=97&amp;tid=99
+
+One of the aspects of the proposed extension is that it would be
+retrospective. This means that existing copyrighted works would have
+their period of copyright extended. Moreover, it is our understanding
+that under this proposal, works that have entered the public domain
+within the last twenty years would return to copyright restrictions.
+
+We encourage interested people to read the proposal 
+http://www.allenconsult.com.au/resources/MPA_Draft_final.pdf. It
+is neither long nor difficult to understand. Having read it, one of
+the points to consider is the following:
+
+The report concedes that extending copyright restrictions on
+existing works has no legal or economic justification. It merely
+attempts to diminish the scale of the cost to the public of this
+extension with some highly speculative dollar projections.
+
+
+There is more information on the newsletter website, and thank you to
+William for his help on assembling the information for this article
+and the website article.
+
+                    -------------------
+
+A little more about. . .
+
+#9842:
+Anuerin (also spelt Aneirin, Neirin) was a 6th century Welsh bard who wrote 
+this poem (in Welsh) about a battle between the Celtic peoples of Britian and 
+the then-settling Germanic invaders.  The battle was probably fought near York 
+and was a total disaster for the Celtic peoples whose army was more or less 
+wiped out.
+
+The poem mainly laments the death of the Celtic nobles, with most mentioned by
+name.  There's no narrative structure so we don't find out much about what
+actually happened (the translator thinks the Celts lost because they got drunk
+the night before the battle!)
+
+This is one of the key Welsh texts being the earliest piece of Welsh
+writing still extant (with the writings of Taliesin).
+
+Thanks to David Widger
+
+                    -------------------
+
+Other news items this week
+
+PG/DP Shop
+
+That's all I'm saying, watch this space for more details.
+
+----------------------------
+
+Time to celebrate our newest Project Gutenberg mirror site in Shiraz,
+Iran. Thanks to eRamISP.
+
+You can find them at ftp://dlib.eramisp.com/gut/ and the mirror has
+been added to the Search section on the website
+
+-----------------------------
+
+Newsletter website
+
+Updates galore this week, stories being added all the time. Check out
+the indepth analysis of the Australian copyright extension saga, and
+read up on some of the features we have carried in the newsletter.
+
+                    -------------------
+
+Distributed Proofreaders Update
+
+So there we were rolling along at our normal October pace, collecting
+historic production records every few hours, when suddenly the server
+was hit by anenormous geomagnetic solar wave. The dynamic momentum of
+the past weeks was brought to screeching halt, and for several hours
+the future of world literacy seemed to be in imminent peril. Alright
+... so maybe it wasn't a magnetic storm disruption, but something
+knocked DP out of the rounds last weekend.
+
+It happens from time to time for all on-line ventures, systems crash
+and access is denied. For some reason it seems more like a crisis of
+solar proportions among the DP community when our own network goes
+down. Perhaps this is due to the fact that we don't only lose our
+involvement with the project, but we also lose our link to each other
+at such times.  Once again we are reminded that this is not a
+distributed network of machines, but rather a world-spanning
+association of unique individuals who choose to band together for a
+common endeavor. It has become easy to form strong attachments within
+this collaboration, and thus it is understandable why we miss it so
+much when the system is down.
+
+It took us a day or so to get back up to speed, but by Tuesday we were
+back above 7,000 pages a day and looking forward to greater growth and
+expansion for November. At press time for the newsletter we are within
+the final 72 hours of October. Short of another meltdown, the close of
+the month promises to be as exciting as anything we have seen over the
+past 28 days.
+
+Looking back from today, we have an abundant set of achievements to
+celebrate, and celebrate is what we are going to do...right up to
+midnight on the 31st. Just within the past couple of days we have
+passed both the milestone of pages ever proofed in a month and the
+objective of 300 texts Post Processed. After that, there is only one
+record left that October has not set. The greatest number of pages
+proofed in a single day still belongs to November 8th, 2002. That may
+change on Friday of this week, but for the present it lingers well out
+of reach of even the best day of 2003.
+
+This Friday is Halloween. Appropriate to a month as grand as this one,
+DP is holding a day/night long party for October's final 24 hour
+session. If you have been away for a while, this is a good time to
+log-in. The mad doctor is on the loose, the Wolfman has the keys and
+the gates of the asylum are wide open. Normal proofing projects will
+go undisturbed, but beware! ... all manner of texts will be roaming
+the rounds. From the enigmatically obscure to the chillingly horrific,
+content will be provided (I may not say by whom) to satisfy the tastes
+of the most ghoulish proofer. So dig up your favorite costume and
+enjoy the incanta. . .err celebrations. The fun begins (of course) at
+Midnight, Friday morning.
+
+Wrapped up within Friday's festivities is a defiant challenge to go
+after the single day record of November 8. This is quite an
+undertaking, and will only succeed with a well coordinated effort from
+all sectors of DP production. The number to surpass is 15,309. The
+most obvious need to reach this objective is the availability of
+proofable texts that could be processed in a quality manner within a
+24 hour period. Content providers, scanners and project managers have
+been busy building up a strong reserve of projects in advance, and
+from what I have learned the odds are slowly turning to Friday's
+favor. We'll be sure to let you know the outcome next week. Or...you
+could stop by on Friday and add a few pages of your own. Whether we
+catch November 8th or not, it's still likely to be the best proofing
+day of 2003, so you'll still be a key participant in making DP
+history. Besides, one could do worse than spend some time preserving
+dead authors on Halloween!
+
+So where do we go after the party, when we have finished enjoying the
+wondrous heights October took us to? All the excitement is justified
+and well worth celebrating, yet we have not lost our focus nor the
+sense of practical planning. It is important during exceptional times
+to make the most industrious use of the gifts that are placed before
+you, we have not lost our sense for this. Within the heart of this
+festive atmosphere, there is as much discussion and debate going on as
+there is proofing. While the range of topics is far and wide, what
+seems clear to me from all I measure, is that DP will not rest upon
+its many accomplishments. This talented and diverse group has met
+every challenge thus far faced, and with each the project has grown
+stronger and more innovative. The future will proudly carry on this
+tradition. That future begins November first...even as we are cleaning
+up from the night before. It seems as if I was just writing the column
+of October first. Now a new month is at the door which promises to be
+as interesting and exciting as the one which is winding down... or
+winding up, as seems to be the inclination!
+
+The 'Road Ahead' for PG/DP is very different than the one Bill Gates
+set out a few years back. It is more along the lines of the original
+promise of the Internet, before it even registered on the radar of the
+corporate world. Those of us who have chosen to support the ideals of
+Project Gutenberg would feel right at home on this road. If there is a
+common belief across the diverse communities of PG and DP it is a
+conviction that the vehicles of digital communication can change the
+world for the better. This faith is what holds many of us close to the
+objectives of PG when we would have long left the ranks of other group
+endeavors. There is something real and true going on here which is
+close to heart of what called people to the Internet in the first
+place.
+
+2003 has been a very good year for the association of Distributed
+Proofreaders with Project Gutenberg. Both projects have grown and
+reaped the benefits of a closely intertwined collaboration. The future
+is bright ahead and is already calling forth from all of us the best
+we have to offer of dedication and innovation. With the initial
+fanfare of the 10,000th title subsiding, the real meaning and
+inspiration of this accomplishment is beginning to settle in for those
+who are interested in the future of this ever-evolving world
+library. The questions which are buzzing amongst all parts of this
+community linger ever on that road ahead. These are exciting
+times. Seldom when we travel down a road do we receive the privilege
+of also building it as we go forward.
+
+Enjoy these times!  Wherever we go from here these later months of
+2003 will always retain a unique quality all their own. The
+celebrations of this week at DP will surely continue as we draw closer
+to the closing of the year. Bring the best that you have within
+yourself and participate in these celebrations and activities. Join
+together with others--for that is what has made these projects what
+they are today--and initiate discussions. Share your ideas of what the
+future can be like. Creative production, like success, is
+magnetic. Many new faces will joining us with each passing week and
+there will be a great deal of attention upon PG and DP. These are
+times of great promise and potential. Give your best to them, freely,
+and be certain in your heart that the only the best will return to you
+in its time. This medium can indeed change the world for the better,
+but it cannot do so of itself. Each of us is the catalyst for change
+when we give ourselves that one chance to act upon what we believe and
+share who and what we are with others in dedication to a common
+vision.
+
+Believe in the value of what you have to offer.
+
+For now...
+
+Thierry Alberto
+
+                    -------------------
+
+Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+Two channels of broadcasting are available again
+
+channel 1 - Sherlock Holmes "The Sign of Four"
+channel 2 - Robert Sheckley's "Bad Medicine"
+
+Both are high quality live readings from the collection.
+
+Jon and I are working on a new service for gutenberg
+to create an audio book on demand from any of the 10,000+
+books in the collection.  This service will be available at
+http://www.radio-gutenberg.org sometime this year.
+
+Anyone needing an audio book of a gutenberg book will be able to
+create it for themselves on the web, right when they have the need
+for it.
+
+We may ask for testers sometimes in November.
+
+Mike E
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. If you would
+like a weekly version of this list please email news@pglaf.org, and
+state which version you require. 
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries, Reviews and Features
+
+Notes from ...
+
+"who dares insult us with this blasphemous mockery?
+Seize him and unmask him -- that we may know whom we
+have to hang at sunrise, from the battlements!"
+E.A.Poe
+
+The proposal for Halloween piece came about two weeks ago. I was
+thinking about the fest itself - as untrue as its essence - the fake
+name, the borrowed traditions, and the less-than-perfect past were
+kind of intriguing. Of course the most appropriate time to work on the
+story is the night before the newsletter publishing day. Let us see
+what we have - internet resources for Halloween and its history are
+abundant. Flash multiplication is floating around, scary images
+filling the screen and the music is definitely nervous. Halloween
+jokes: "Q. What do you call a witch who lives at the beach? A. A
+sand-witch." Ha-ha "Q. What did the skeleton say to the vampire?
+A. You suck." Halloween.com and halloween-online.com. This link looks
+appealing - http://www.illusions.com/halloween/hallows.htm, nice
+pictures, though ... the comparision of different internet stories
+about Halloween ... migration of proto-Celts
+... witch-haunters. Interesting, however what's a point to rephrase
+somebody's else piece?  At this moment my mom entered computer room
+and saw the pumpkin on the screen. Time for a story!
+
+I've heard it at least 100 times but still enjoy the style - how my
+mother and her friends, as resourceful teenagers, fought an evil
+school manager sent to their village from metropolia. He was arrogant,
+ignorant, drunker and in addition stole the firewoods, that students
+prepared for the school on the summer vacation. One evening when the
+manager had an important meeting in the vine house till very late
+hour, they prepared the pumpkin with the candle inside and succeeded
+to attach it between the windows at manager's home. At the midnight
+they started to throw stones to his window and laugh with wild
+laughs. The effect was more than satisfactory - the guy not only
+screamed but also dashed aside and ruined a vase on the table. The
+average mark in history (that he taught) on the next day was close to
+negative, but whole school was in festive mode anyway. Mom said "Good
+night" and left the room. Oh, the time is really nighty one - 23:59
+... The right time for a Halloween story. Ghosts and the lost souls
+that are wandering outside and knocking in the window. O my ... a hand
+appeared from the dark air outside the window and tried to move the
+fold ... Two cats peacefully sleeped on TV set in the living room
+almost got a heart attack and Munk could be envy to the scream
+timbre. Behind the dark window appeared a worried face of my mother
+friend stayed for few days with visit in the house. She went to smoke
+on the balcony and checked whether the windows were closed, since it
+is not-smoking house generally ... Hands are too shaking so I'm
+missing the keys on the key board .. the door somewhere is creaking
+gloomily and there is definitely a sound of the steps in the empty
+corridor ... 
+Hope that venerable public enjoyed the story and will generously throw
+treats into the held mask.
+
+Happy Halloween! 
+
+
+Gali Sirkis
+                    -------------------
+
+Edgar Allen Poe
+
+Halloween approaches and, with it, the spectre of Edgar Allen Poe.  By and
+large, little about Poe is known for sure.  Despite claims to the contrary
+in books (although correctly cited in  "Selections from Poe" by J.
+Montgomery Gambrill http://www.ibiblio.org/gutenberg/etext05/7spoe10.txt )
+the Edgar Allan Poe Society (http://www.eapoe.org) will tell you that he was
+born in 1809 in Baltimore.  The details of Poe's life (and death for that
+matter) are interesting reading and a story in and of themselves, but not
+the topic of this short article.  This article, instead, is intended to
+persuade you to take a few moments and actually read one of his works.  The
+complete works of Poe are available on Project Gutenberg
+(http://www.ibiblio.org/gutenberg/etext00/poe1v10 is the first volume of a
+five volume set; in addition consider
+http://www.ibiblio.org/gutenberg/etext97/1epoe10.txt which is a collection
+of some of his most famous works).
+ 
+How can you not be entranced by the first line of "The Raven":
+ 
+  Once upon a midnight dreary, while I pondered, weak and weary,
+ 
+This is sort of a far more literate version of Snoopy's famous "It was a
+dark and stormy night.." (this was actually the opening of "Paul Clifford"
+by Edward George Bulwer-Lytton
+http://www.ibiblio.org/gutenberg/etext05/b162w10.txt).  Of course, suddenly,
+you are trapped.  What is the author doing at midnight?  Why is he weak?
+What did he ponder?  Two lines later we discover:
+ 
+  While I nodded, nearly napping, suddenly there came a tapping,
+ 
+So, our author is all but asleep, barely able to keep his head up--fairly
+bouncing with fatigue, yet he plows on.  SUDDENLY, not gently, not as though
+in a dream or pulled from a dream, but with an urgency that almost leaps
+from the page the author hears something.  What?  Three lines in and you can
+paint the picture in your mind.  It is a dark chamber lit with a reading
+candle.  It is light enough to read, but dark enough to nod off.  Shadows
+gather in the corners and grope out towards the reading table with blind,
+dark hands as the candle flickers almost in rhythm with the nodding head of
+a solitary reader.  This reader whose eyes are weighted heavily so that
+there is almost a palpable force drawing his eyelids down.  The reader is
+seemingly engrosed in pondorous books laid about him almost haphazardly, but
+with sufficient order that he may reference one when searching for meaning
+in another.  The silence is suddenly, calamitously, brittlely broken by a
+tap upon the door.  Later we learn that the chamber likely had a chill,
+therein (at the beginning of the next verse):
+ 
+  Ah, distinctly I remember it was in the bleak December,
+ 
+The cold permeates the page and even brings an involuntary shudder to the
+reader who now pulls up the imaginary shawl over the author's shoulders and
+tries, vainly, to help him blot out this interruption which threatens the
+studies he is only barely able to manage as it is.  By now, the reader is
+hooked, but the wonderful descriptions continue (at the beginning of the
+third verse):
+ 
+  And the silken sad uncertain rustling of each purple curtain
+ 
+So now we know about the draft in the room and the layers of curtains over
+the window blotting out both the light and the cold.  How the heavy
+movements sound sad and infrequent.  All this in a single line.  The heavy
+curtains must muffle noise from the outside (as though there were some at
+midnight, right?).
+ 
+Are you hooked?  Do you wonder why the poem is called, "The Raven?"  GO READ
+IT!  If these few lines can't convince you of the richness of language, the
+power of metaphor, and the haunting fear that runs through each line of
+Poe's work, then you are a hopeless case.
+ 
+Perhaps, however, you need a different allure.  A stirring of the soul.
+Something with more prose and less poetry.  Consider, "The Tell-Tale Heart."
+In the opening paragraphs we learn:
+ 
+  "It is impossible to say how first the idea entered my brain; but once
+conceived, it haunted me day and night."
+ 
+What, what, pray tell?  Murder, I tell you.  Foul and bedamned murder.
+Murder for money.  The task of the murder itself is told with chilling
+detail and deft wordsmith.  Here Poe tells us only of the victim's eye:
+ 
+  "It was open--wide, wide open--and I grew furious as I gazed upon it.  I
+saw it with perfect distinctness--all a dull blue, with a hideous veil over
+it that chilled the very marrow in my bones;"
+ 
+Yet, with perfect clearness we see the distress of the aged victim.  The
+murderous intent of the protagonist and the mustering of will for the
+heinous deed.  Once done we hear of the cover-up and the protagonist's effort
+to conceal his "perfect crime."  You may wonder how it could be a "perfect
+crime."  How, indeed, the protagonist would handle himself when confronted
+by men of authority and justice. And Poe will tell you.  You need only
+read.  But, beware the heart...the tell-tale heart.  Having finished reading
+think for a moment about the double meaning of the tell-tale heart.
+ 
+Now, certainly, you have left this article, walked--no, run--to your
+computer and you are coming back breathless with excitement ready to write
+Michael Hart and thank him for creating Project Gutenberg.  Right?  WHAT!!!
+There remain some doubters, some who feel that Poe is not for them?!?  Well,
+you have read this far and I must pull my trump card as space is waning.
+ 
+Many of you know "The Murders in the Rue Morgue" from the late 1950s film.
+THAT WAS A POE STORY!!!!!  It was one of the first detective stories ever
+written and, while a great detective story, is also a carefully wrought
+allegory analyzing cunning and creativity.  Read it and enjoy!
+
+Brett Fishburne
+                    -------------------
+
+This Issue's Quiz: Ghosts & Goblins!
+
+[Patrons are reminded that only entries dressed in appropriate costume
+will win the newsletter 'spooky-pants' award for this weeks quiz!-Ed]
+
+Match the 13 spooky titles with the correct first lines (you can always
+cheat by visiting the URL).
+
+Tonya Allen
+
+===Titles===
+
+1. Dr. Jekyll and Mr. Hyde / Robert Louis Stevenson
+http://www.ibiblio.org/gutenberg/etext92/hyde10.txt
+
+2. The Legend of Sleepy Hollow / Washington Irving
+http://www.ibiblio.org/gutenberg/etext92/sleep11.txt
+
+3. A Christmas Carol / Charles Dickens
+http://www.ibiblio.org/gutenberg/etext92/carol13.txt
+
+4. The Haunted Hotel / Wilkie Collins
+http://www.ibiblio.org/gutenberg/etext94/hhotl10.txt
+
+5. Ghost Stories of an Antiquary / M. R. James
+http://www.ibiblio.org/gutenberg/etext06/8jgs210.txt
+
+6. Dracula / Bram Stoker
+http://www.ibiblio.org/gutenberg/etext95/dracu12.txt
+
+7. Present at a Hanging and Other Ghost Stories / Ambrose Bierce
+http://www.ibiblio.org/gutenberg/etext03/prhg10.txt
+
+8. The Pit and the Pendulum / Edgar Allan Poe
+http://www.ibiblio.org/gutenberg/etext00/poe2v10.txt
+
+9. The Ghost and the Bone Setter / Sheridan Le Fanu
+http://www.ibiblio.org/gutenberg/etext96/pclp110.txt
+
+10. The Castle of Otranto / by Horace Walpole
+http://www.ibiblio.org/gutenberg/etext96/cotrt10.txt
+
+11. The Hound of the Baskervilles, Arthur Conan Doyle
+http://www.ibiblio.org/gutenberg/etext02/bskrv11a.txt
+
+12. Phantom 'Rickshaw & Other Ghost Stories / Rudyard Kipling
+http://www.ibiblio.org/gutenberg/etext01/phric11.txt
+
+13. Frankenstein / by Mary Wollstonecraft Shelley
+http://www.ibiblio.org/gutenberg/etext93/frank14.txt
+
+
+===First Lines===
+
+a. Marley was dead: to begin with.
+
+b. My peculiar relation to the writer of the following narratives is such
+that I must ask the reader to overlook the absence of explanation as to how
+they came into my possession.
+
+c. Mr. Utterson the lawyer was a man of a rugged countenance, that was never
+lighted by a smile; cold, scanty and embarrassed in discourse; backward in
+sentiment; lean, long, dusty, dreary, and yet somehow lovable.
+
+d. 3 May. Bistritz.--Left Munich at 8:35 P.M., on 1st May, arriving at
+Vienna early next morning; should have arrived at 6:46, but train was an
+hour late.
+
+e. I was sick -- sick unto death with that long agony; and when they at
+length unbound me, and I was permitted to sit, I felt that my senses were
+leaving me.
+
+f. In the year 1860, the reputation of Doctor Wybrow as a London physician
+reached its highest point.
+
+g. In the bosom of one of those spacious coves which indent the eastern
+shore of the Hudson, at that broad expansion of the river denominated by the
+ancient Dutch navigators the Tappan Zee, and where they always prudently
+shortened sail and implored the protection of St. Nicholas when they
+crossed, there lies a small market town or rural port, which by some is
+called Greensburgh, but which is more generally and properly known by the
+name of Tarry Town.
+
+h. Two men in a smoking-room were talking of their private-school days.
+
+i. The following work was found in the library of an ancient Catholic family
+in the north of England.
+
+j. TO Mrs. Saville, England
+   St. Petersburgh, Dec. 11th, 17-
+
+   You will rejoice to hear that no disaster has accompanied the
+commencement of an enterprise which you have regarded with such evil
+forebodings.
+
+k. One of the few advantages that India has over England is a great
+Knowability.
+
+l. Mr. Sherlock Holmes, who was usually very late in the mornings, save upon
+those not infrequent occasions when he was up all night, was seated at the
+breakfast table.
+
+m. In looking over the papers of my late valued and respected friend,
+Francis Purcell, who for nearly fifty years discharged the arduous duties of
+a parish priest in the south of Ireland, I met with the following document.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George (zzzzz) for the numbers and
+booklists. Tonya, William, Thierry, Gali, the Gutenberg Press Gang,
+Mike, Greg, Michael, Mark and Larry Wall. Entertainment for the
+workers provided by BBC 6Music and Led Zepplin.
+
+Note: Mark is currently reading Red Rabbit by Tom Clancy, published by
+a certain publishing company named after an Antartic bird, so far he's
+spotted three proof-reading mistakes! This is what you get if you pay
+people to proof-read.

@@ -1,0 +1,93 @@
+---
+params:
+  id: 847
+title: PG Newsletter 1990-05-11 – Information about Project Gutenberg
+date: 1990-05-11T23:59:42+00:00
+author: Michael Cook
+layout: post
+url: /19900511/pg-newsletter-1990-05-11-%e2%80%93-information-about-project-gutenberg/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The following is posted in response to the flood of inquiries we have had
+recently from members of various listservers which directly or indirectly
+carry messages concerning Project Gutenberg.  My apologies to those whose
+names appear on more than one of these lists as you receive two copies.
+
+***************
+
+The purpose of Project Gutenberg is to encourage the creation and
+distribution of English language electronic texts.  We prefer the
+texts to be made available in pure ASCII formats so they would be
+most easily converted to use in various hardware and software.  A
+file of this nature will also be made available in various markup
+formats as it is used in various environments.  However we accept
+files in ANY format, and will do our best to provide them in all.
+
+We assist in the selection of hardware and software as well as in
+their installation and use.  We also assist in scanning, spelling
+checkers, proofreading, etc.  Our goal is to provide a collection
+of 10,000 of the most used books by the year 2000, and to reduce,
+and we do mean reduce, the effective costs to the user to a price
+of approximately one cent per book, plus the cost of media and of
+shipping and handling.  Thus we hope the entire cost of libraries
+of this nature will be about $100 plus the price of the disks and
+CDROMS and mailing.  Currently the price of making CDROMS is said
+to be about $2,000 for mastering and then $5 per copy.  I have it
+on fairly good authority that these prices are negotiable, and as
+actual cost, the price per CDROM is about $2.
+
+To create such a library would take less than one out of ten of a
+conservatively estimated 100,000 libraries in the U.S. alone:  if
+each created one full text.  If all the libraries co-operated, it
+would be less than 10% of a volume per library.  If there were 10
+members of each library creating electronic texts, then each only
+has to do 1% of a single book to create a truly public library of
+10,000 books which would each be usable on any of the 100 million
+computers available today.
+
+So far most electronic text work has been carried out by private,
+semi-private or incorporated individuals, with several library or
+college collections being created, but being made mostly from the
+works entered by individuals on their own time and expense.  This
+labor has largely been either a labor of love, or a labor made by
+those who see future libraries as computer searchable collections
+which can be transmitted via disks, phone lines or other media at
+a fraction of the cost in money, time and paper as in present day
+paper media.  These electronic books will not have to be rebound,
+reprinted, reshelved, etc.  They will not have to be reserved and
+restricted to use by one patron at a time.  All materials will be
+available to all patrons from all locations at all times.
+
+The use of this type of library will benefit even more greatly in
+the presence of librarians, as the amount of information shall be
+so much greater than that available in present day libraries that
+the patron will benefit even more greatly than today from assists
+in their pursuit of knowledge.
+
+Therefore, we call on all interested parties to get involved with
+the creation and distribution of electronic texts, whether it's a
+commitment to typing, scanning, proofreading, collecting, or what
+ever your pleasure might be.
+
+Please do not hesitate to send any e-texts you might find to this
+address.  If you prefer sending disks, a mailing address follows.
+
+We hope to be thanking you soon for your participation.
+
+MICHAEL S. HART
+405 WEST ELM ST.
+URBANA, IL 61801
+
+Thank you for your interest,
+
+Michael S. Hart, Director, Project Gutenberg
+National Clearinghouse for Machine Readable Texts
+
+BITNET:  HART@UIUCVMD      INTERNET:  [log in to unmask]
+(*ADDRESS CHANGE FROM *VME* TO *VMD* AS OF DECEMBER 18!!**)
+(THE GUTNBERG SERVER IS LOCATED AT [log in to unmask]</pre>
+
+<a href="/nl_archives/1989-2000/other_1990_05_11_information_about_project_gutenberg.txt" target="new">other_1990_05_11_information_about_project_gutenberg.txt</a>

@@ -1,0 +1,787 @@
+---
+params:
+  id: 1961
+title: PG Weekly Newsletter (2003-02-05)
+date: 2003-02-05T17:29:08+00:00
+author: Michael Cook
+layout: post
+url: /20030205/pg-weekly-newsletter-2003-02-05/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_February_05.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, February 05, 2003*
+******eBooks Readable By Both Humans and Computers For Over 31 Years******
+
+    Please Note The Startup of Project Gutenberg--Canada [Below]
+and Project Gutenberg of Mexico &gt;&gt; Gabriela Valencia &lt;zane@axtel.net&gt;
+
+
+               2538 New eBooks In The Last 12 Months!
+
+       That's Over 1/4 of the 10,000 eBook Goal We Started On!
+
+               3299 New eBooks In The Last 18 Months!
+
+         That's ~30% of the 10,000 eBook Goal We Started On!
+
+        ***7,030 eBooks from Project Gutenberg as of today***
+
+
+
+Over Our 31 1/2 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+   In the 1st month of this year, we produced 287 new eBooks.
+
+    Our Previous Record Was 250!  The Month We Hit #5,000...
+
+
+It took us from 1971 to 1995 to produce our first 287 eBooks!
+
+            That's 5 WEEKS as Compared to 24 Years!
+
+                   50   New eBooks This Week
+                   76   New eBooks Last Week
+                  287   New eBooks This Month [Jan]
+
+                  287   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                  287   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                7,030   Total Project Gutenberg eBooks
+                4,450   eBooks This Week Last Year
+                2,538   New eBooks In The Last 12 Months &lt;&lt;&lt; !!!
+
+                  157   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 27 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+***
+
+
+                           FLASHBACK!!!
+
+
+              It took us 24 years for the first 287!!!
+
+        That's the 5 WEEKS of 2003 as Compared to 24 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #287
+
+Aug 1995 Young Adventure, by Stephen Vincent Benet         [yngadxxx.xxx] 312
+Aug 1995 Bunner Sisters by Edith Wharton  [Wharton #7]     [bunnrxxx.xxx] 311
+Aug 1995 Before Adam, by Jack London [Jack London #2]      [badamxxx.xxx] 310
+Aug 1995 Rhymes of a Rolling Stone, by Robert W. Service 3 [rolstxxx.xxx] 309
+Aug 1995 Three Men in a Boat, by Jerome K. Jerome          [3boatxxx.xxx] 308
+Aug 1995 Three Elephant Power Etc., Banjo Paterson [#3]    [3elphxxx.xxx] 307
+Aug 1995 The Early Short Fiction, Edith Wharton Part Two #6[whrt2xxx.xxx] 306
+Aug 1995 The Count's Millions, by Emile Gaboriau           [cntmixxx.xxx] 305
+Aug 1995 Rio Grande's Last Race, Etc., Banjo Paterson [#2] [rlastxxx.xxx] 304
+Jul 1995 HomeBrew HomePages Put YOU On The World Wide Web  [homebxxx.zip] 303C
+Jul 1995 The Fibonacci Number Series    [math0]            [fibnsxxx.xxx] 302
+Jul 1995 Ballad of Reading Gaol, by Oscar Wilde [Wilde #2] [rgaolxxx.xxx] 301
+Jul 1995 United States Declaration of Independence in HTML [1whenxxa.zip] 300C
+Jul 1995 Tales From Two Hemispheres, Hjalmar Hjorth Boysen [twohexxx.xxx] 299
+Jul 1995 The Market-Place by Harold Frederic [Frederic #2] [marktxxx.xxx] 298
+Jul 1995 The Flirt, by Booth Tarkington  [Tarkington #1]   [flirtxxx.xxx] 297
+Jul 1995 The Cash Boy, by Horatio Alger, Jr. [Alger #2]    [cashbxxx.xxx] 296
+Jul 1995 The Early Short Fiction, Edith Wharton #5 Part One[whrt1xxx.xxx] 295
+Jul 1995 The Captain of the Polestar, by A. Conan Doyle #5 [polstxxx.xxx] 294
+Jul 1995 Paul Prescott's Charge by Horatio Alger Jr[Alger1][prescxxx.xxx] 293
+Jul 1995 Beauty and The Beast, Etc., by Bayard Taylor      [bbetcxxx.xxx] 292
+Jul 1995 The Golden Age, by Kenneth Grahame [Grahame #3]   [gldnaxxx.xxx] 291
+Jul 1995 The Stark Munro Letters, by Arthur Conan Doyle #4 [strkmxxx.xxx] 290
+Jul 1995 The Wind in the Willows, by Kenneth Grahame [#2]  [wwillxxx.xxx] 289
+Jul 1995 The Certain Hour, by James Branch Cabell          [chourxxx.xxx] 288
+Jun 1995 Remember the Alamo, by Amelia E. Barr             [alamoxxx.xxx] 287
+Jun 1995 Laddie, by Gene Stratton Porter  [Porter #3]      [laddixxx.xxx] 286
+Jun 1995 The Lost Continent by C. J. Cutcliffe Hyne        [lostcxxx.xxx] 285
+Jun 1995 House of Mirth, by Edith Wharton  [Wharton #4]    [hmirtxxx.xxx] 284
+Jun 1995 The Reef, by Edith Wharton [Wharton #3]           [treefxxx.xxx] 283
+Jun 1995 Eothen, by A. W. Kinglake                         [eothnxxx.xxx] 282
+Jun 1995 Father Damien, Robert Louis Stevenson [RLS #5]    [frdamxxx.xxx] 281
+Jun 1995 Records of a Family of Engineers, R. L. Stevenson [rfengxxx.xxx] 280
+Jun 1995 Trinity Atomic Bomb Test Site Photographs         [3trntxxx.zip] 279
+Jun 1995 Trinity Atomic Bomb by White Sands Missle Range   [2trntxxx.xxx] 278
+Jun 1995 Trinity Atomic Bomb by the National Atomic Museum [1trntxxx.xxx] 277
+Jun 1995 Franz Haydn's 104th Symphony [1794-5] [MIDI #2]   [fh104sxx.xxx] 276C
+Jun 1995 The Augsburg Confession, 465th Anniversary Edition[augsbxxx.xxx] 275
+Jun 1995 Martin Luther's 95 Theses, In English and Latin[1][the95xxx.xxx] 274
+Jun 1995 The Smalcald Articles, by Martin Luther           [smcalxxx.xxx] 273
+Jun 1995 An Open Letter on Translating by Martin Luther    [ltranxxx.xxx] 272
+
+
+Today Is Day #35 of 2003
+336 Days/48 Weeks To Go
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #39 Of Our SECOND 5,000 eBooks
+
+Next December, Perhaps Our 10,000th eBook!
+
+   57   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+***
+
+New Features:
+
+Alice Wood would like to start two new features in the Newsletter.
+
+Firstly, Readers Correspondence. If you have any questions or comments about
+Project Gutenberg or anything in the Newsletter, please get in touch.
+
+Secondly, 'My Favourite Book', if you have a favourite from Project Gutenberg
+that you would like to bring to the attention of a wider audience, email us.
+
+All contributions welcome.
+
+If you would like to contribute your thoughts to the Project Gutenberg
+Newsletter then email newsletter@schiffwood.demon.co.uk.
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+     3 New From PG Australia
+    47 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Project Gutenberg and other ebooks are listed in The eBook Catalog
+http://theebookcatalog.com
+
+***
+
+Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+Contact Debbie Dvornik
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+Aaron Cannon is looking for any pre-1923 English/foreign Language
+dictionaries that can be added to the archive.  He is especially interested
+in English/Spanish Spanish/English dictionaries, but any language is
+acceptable.  If you have any of these lying about, or if you know where
+they can be had for less than $20, please contact Aaron at
+cannona@fireantproductions.com
+
+***
+
+From: Miranda van de Heijning &lt;m_vandeheijning@yahoo.com&gt;
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+century books of A'bp Whately     Please contact:  david@whateley.org
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+
+
+RESERVED count:   39
+
+TOTAL COUNT ***Last Week***:            6,980 (incl. 151 Aus.)
++50  New This Week
+
+TOTAL COUNT ***as of Wed 02/05/03***:   7,030 (incl. 157 Aus.)
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following eBook is being corrected to reflect correct title and
+volume information (the main entry was incorrectly listed as "Uncle
+Robert's Georgraphy):
+Sep 2004 Uncle Robert's Visit, by Parker & Helm            [ncrggxxx.xxx]6441
+[Full title: Uncle Robert's Visit (Uncle Robert's Geography), V.3)]
+[Full author: Francis W. Parker and Nellie Lathrop Helm]
+
+
+We have posted an improved 11th edition of:
+May 2004 What Every Woman Knows, by James M. Barrie    [#8][ewknoxxx.xxx]5654
+Oct 2002 The Foreigner, by Ralph Connor                [#6][frgnrxxa.xxx]3466
+Mar 1998 On the Origin of Species, by Charles Darwin   [#3][otoosxxx.xxx]1228
+
+
+
+***] ? NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Feb 2003 Peter Pan (The Play), by J M Barrie        [JB#01][030008xx.xxx]0157A
+[Full Title: Peter Pan or The Boy Who Would Not Grow Up]
+[http://gutenberg.net.au/ebooks03/0300081h.html (or zipped html)]
+Feb 2003 The General Theory of Employment, by Keynes[JK#01][030007xx.xxx]0156A
+[Full Title: The General Theory of Employment, Interest and Money]
+[Author's full name: John Maynard Keynes]
+[http://gutenberg.net.au/ebooks03/0300071h.zip (zipped html only)
+Feb 2003 The Bar Sinister, by Richard H Davis       [RD#01][030006xx.xxx]0155A
+[http://gutenberg.net.au/ebooks03/0300061.txt or .ZIP
+
+
+eBooks are held in TXT and/or ZIP formats.  To access these ebooks, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 47 NEW U.S. POSTS [***
+
+Feb 2005 Images from Works of Oliver W. Holmes, by Widger  [dw29wxxh.zip]7545
+Feb 2005 Images from Works of John Galsworthy, by D. Widger[dw28wxxh.zip]7544
+Feb 2005 Images from Novels of J. de la Fontaine, by Widger[dw27wxxh.zip]7543
+Feb 2005 Images from The Works of Georg Ebers, by D. Widger[dw26wxxh.zip]7542
+(Note:  above four eBooks posted as illustrated HTML, zipped files only)
+
+Nov 2004 Mark Twain, by Archibald Henderson         [MT#88][mthndxxh.zip]6873
+The illustrated html file with imbedded photographs is posted in mthnd10h.zip
+
+Nov 2004 The Battle Ground, by Ellen Glasgow           [#2][btlgrxxx.xxx]6872
+Nov 2004 Opus 59 Number 3,     Ludwig van Beethoven[LVB #5][lv593xxx.zip]6871
+[This is a musical score in Finale's .MUS format, PDF and Music XML]
+[Files in etext04: lv593m.zip  lv593p.zip  lv593x.zip]
+
+Nov 2004 Why We are at War, by Woodrow Wilson              [whwarxxx.xxx]6870
+Nov 2004 The American Goliah,Anon.                         [goliaxxx.xxx]6869
+Nov 2004 Why and how, by Addie Chisholm                    [whyhwxxx.xxx]6868
+[Full: Why and how: a hand-book for the use of the W.C.T. unions in Canada]
+Nov 2004 Jose Rizal, by Austin Craig                       [?jsrzxxx.xxx]6867
+[Full title: Lineage, Life and Labors of Jos Rizal, Philippine Patriot]
+Nov 2004 The Story of Siegfried, by James Baldwin      [#2][stsgfxxx.xxx]6866
+
+Nov 2004 Four Years, by William Butler Yeats           [#6][fryrsxxx.xxx]6865
+Nov 2004 Average Jones, by Samuel Hopkins Adams        [#2][vrjnsxxx.xxx]6864
+Nov 2004 The Passing of New France, by William Wood    [#3][cca10xxx.xxx]6863
+[Subtitle: A Chronicle of Montcalm] [Chronicles of Canada #10]
+[Edited by George M. Wrong and H. H. Langton]
+Nov 2004 The Belted Seas, by Arthur Colton                 [bltdsxxx.xxx]6862
+Nov 2004 Vautrin, by Honore de Balzac                [#102][vtrinxxx.xxx]6861
+
+Nov 2004 Keineth, by Jane D. Abbott                        [knethxxx.xxx]6860
+Nov 2004 Songs of Labor and Other Poems,by Morris Rosenfeld[slbpmxxx.xxx]6859
+[Also posted HTML - slbpm10h.zip and slbpm10h.htm]
+Nov 2004 Grace Harlowe's Second Year, by Jessie G Flower #3[ghlsdxxx.xxx]6858
+[Full title: Grace Harlowe's Second Year at Overton College]
+Nov 2004 Indian Games, by Andrew McFarland Davis           [ndgmsxxx.xxx]6857
+Nov 2004 Great Riots of New York 1712 to 1873, J.T. Headley[grtrtxxx.xxx]6856
+
+Nov 2004 Ideala, by Sarah Grand                            [dlshgxxx.xxx]6855
+Nov 2004 Anne Bradstreet and Her Time, by Helen Campbell   [nnbstxxx.xxx]6854
+Nov 2004 Betty Gordon in Washington,by Alice B. Emerson[#3][bgwshxxx.xxx]6853
+Nov 2004 Venus in Furs, by Leopold von Sacher-Masoch       [vnsfrxxx.xxx]6852
+Nov 2004 Ruth Fielding at Snow Camp, by Alice Emerson  [#2][rfscpxxx.xxx]6851
+
+Nov 2004 Esther, by Rosa Nouchette Carey               [#2][sthrgxxx.xxx]6850
+Nov 2004 The Prince of India, by Lew. Wallace, Vol. 2      [tpin2xxx.xxx]6849
+Nov 2004 The Prince of India, by Lew. Wallace, Vol. 1      [tpin1xxx.xxx]6848
+Nov 2004 Cytherea, by Joseph Hergesheimer                  [cthraxxx.xxx]6847
+Nov 2004 My Lady of the North, by Randall Parrish          [mldntxxx.xxx]6846
+
+Nov 2004 The Whistling Mother, by Grace S. Richmond    [#2][whlmrxxx.xxx]6845
+Nov 2004 The Poetical Works of Mrs. Leprohon               [pwlphxxx.xxx]6844
+[Full author: Rosanna Eleanor Leprohon (Mrs. R.E. Mullins)]
+[Also posted HTML - pwlph10h.zip and pwlph10h.htm]
+Nov 2004 Tecumseh: A Drama, by Charles Mair                [tcmshxxx.xxx]6843
+Nov 2004 Sadhana, by Rabindranath Tagore              [#10][sdhnaxxx.xxx]6842
+[Also posted Unicode - sdhna10u.txt and 684210u.zip]
+Nov 2004 Mosaics of Grecian History, by Willson & Willson  [?mgrhxxx.xxx]6841
+[Full author: Marcius Willson and Robert Pierpont Willson]
+
+
+Nov 2004 Queen Lucia, by E. F. Benson                  [#2][qnlcaxxx.xxx]6840
+Nov 2004 The Old Roman World, by John Lord             [#3][lrmnwxxx.xxx]6839
+Nov 2004 Le Dernier Jour d'un Condamn_, by Victor Hugo     [?ldrjxxx.xxx]6838
+[Language: French]
+[7-bit version with non-accented characters in 7ldrj10.txt and 7ldrj10.zip]
+[8-bit version with accented characters in 8ldrj10.txt and 8ldrj10.zip]
+
+
+Nov 2004 The Works of Frederich Schiller in English        [fs40wxxx.xxx]6800
+[Contains: Etext #6770-6799]
+Oct 2004 Philosophical Letters of Frederich Schiller,      [fs39wxxx.xxx]6799
+Oct 2004 Aesthetical Essays of Frederich Schiller,         [fs38wxxx.xxx]6798
+Oct 2004 Poems of Frederich Schiller, Suppressed Poems     [fs37wxxx.xxx]6797
+Oct 2004 Poems of Frederich Schiller, Third Period         [fs36wxxx.xxx]6796
+
+Oct 2004 Poems of Frederich Schiller, Second Period        [fs35wxxx.xxx]6795
+Oct 2004 Poems of Frederich Schiller, First Period         [fs34wxxx.xxx]6794
+(Note: #6794-6799 also posted as illustrated HTML, zipped files only)
+
+***
+
+
+Statistical Review
+
+In the 5 weeks of this year, we have produced 287 new eBooks.
+It took us from 1971 to 1995 to produce our FIRST 287 eBooks!!!
+
+         That's 5 WEEKS as Compared to 24 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003.
+
+With 7,055 eBooks online as of January 1, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.42 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $2.23 when we had 4492 eBooks A Year Ago
+
+Can you imagine 7,000 books each costing $.81 less a year later???
+Or. . .would this say it better?
+Can you imagine 7,000 books each costing 1/3 less a year later???
+
+At 7030 eBooks in 31 1/2 Years We Averaged
+    223 Per Year   [About how many we do per month these days!]
+     19 Per Month
+     .6 Per Day
+
+At 287 eBooks Done In 2003 We Averaged
+      8 Per Day
+     57 Per Week
+    287 Per Month
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+[From Project Gutenberg's Very Own Janis Ian, Recording Superstar]
+
+"Janis Ian ... has written this editorial in the Los Angeles Times.
+Janis says, "After I first posted downloadable music, my merchandise
+sales went up 300%. They're still double what they were before the MP3s
+went online." And the RIAA's stated goal in preventing this type of
+activity with their lawsuit against Verizon is to increase sales..."
+
+And don't miss the original at
+http://www.janisian.com/article-internet_debacle.html
+
+
+Headlines From Newsscan
+
+INTERNET WORM TOOK ONLY 10 MINUTES TO CAUSE GLOBAL HAVOC
+The "SQL Slammer" worm that slowed Internet traffic significantly last week
+managed to infect computer servers worldwide in about 10 minutes, making it
+the fastest such virus seen, according to a University of California at San
+Diego team. "At its peak, achieved approximately three minutes after it was
+released, the worm scanned 55 million Internet hosts per second. It infect
+ed at least 750,000 victims, and probably considerably more," says one team
+member. The SQL Slammer worm was only the third of its type seen on the
+Net, and managed to spread nearly 100 times faster than the Code Red
+infection 18 months ago. (The Independent 4 Feb 2003)
+http://news.independent.co.uk/digital/news/story.jsp?story=375374
+
+NEW $2.1B DEBT MAY LOWER AOL TIME WARNER'S CREDIT RATING
+Standard & Poor analyst Heather M. Goodchild says that AOL Time Warner's
+announcement of plans to add $2.1 billion to restructure finances of its
+cable operations may result in a lower credit rating for the company:
+"Deferral of a cable IPO, loss of momentum with other de-leveraging or a
+weakening of the operating outlook could lead to a downgrade."
+(Washington Post 4 Feb 2003)
+http://www.washingtonpost.com/wp-dyn/articles/A20897-2003Feb3.html
+
+AOL TIME WARNER: "CAN ANYONE HERE RUN THIS COMPANY?
+With AOL Time Warner humiliated by two years of failure (declining
+revenues, subscribers and advertisers), one close observer remarks: "It's
+sort of like Casey Stengel in his first year at the Mets. If you remember,
+they were a bunch of boobs and Casey asked, 'Can anyone here play this
+game?' With AOL, it's 'Can anyone run this company?'" Just about everyone
+agrees that AOL Time Warner needs a new corporate vision -- and quick! Will
+the company's chief executive and (soon-to-be) chairman Richard D. Parsons
+be up to the task. Everyone hopes so, but one institutional investor who
+sold his stock pointed out all the company's current problems "happened
+under his watch." Parsons said the company is on track for meeting its
+goals, which include substantial reduction of a $27 billion debt --
+possibly by selling such assets as AOL itself, its half interests in the
+Comedy Central and Court TV cable networks, or its money-losing Atlanta
+sports teams, the Braves, Hawks, and Thrashers. (New York Times 2 Feb 2003)
+http://www.nytimes.com/2003/02/02/business/yourmoney/02AOLL.html
+
+CHESS MOVES: HAVE COMPUTERS DUMBED-DOWN THE ANCIENT GAME?
+The current closely-contested match between world chess champion Garry
+Kasparov and a computer has been the occasion for some chess fans to
+complain that computers are ruining the game. Chess master Evgeni Bareev
+says, "We don't work at chess anymore. We just look at the stupid computer,
+we follow the latest games and find small improvements. We have lost
+depth." In agreement with Bareev are Maurice Ashley, a grandmaster from New
+York, and Hans Berliner, a former world correspondence chess champion.
+Ashley: "People don't experiment as much anymore. That's a loss." Berliner:
+"What's happening with chess is it's gradually losing its place as the par
+excellence intellectual activity. Chess is winding down." But Frederic
+Freidel, the founder of the leading chess software company, strenuously
+disagrees, and says that chess-play is now better than ever: "The
+combination of man and computer is much more powerful than either on its
+own." Freidel has been promoting "advance chess," in which human players
+openly use computer software as they compete against each other in games.
+(International Herald-Tribune 1 Feb 2003)
+http://www.iht.com/articles/85343.html
+
+AO-HELL
+Will the bad news from AOL Time Warner ever stop? Hard on the heels of huge
+new losses ($98.2 billion) and continuing high-level executive defections
+(Ted Turner being the latest), the company now has the embarrassment of
+revealing that in the last three months of 2002 the number of subscribers
+to its America Online component dropped by 170,000. That's the first time
+AOL's subscription numbers have ever fallen, and the fall has come despite
+a recent $1 billion advertising and promotion campaign and on top of a
+plunge in the company's advertising revenue. CNBC has referred to the
+situation as AO-Hell, and the J.P. Morgan Chase investment firm warned its
+clients that "the modest decline in AOL's subscription base will spark
+renewed fears over AOL's long-term viability." But it concluded its
+investment advisory on a more positive note: "We continue to believe that
+the AOL business is fixable and that the core Time Warner businesses remain
+valuable." (Washington Post 31 Jan 2003)
+http://www.washingtonpost.com/wp-dyn/articles/A3669-2003Jan30.html
+
+VERIZON GOES TO COURT TO DEFEND CUSTOMER PRIVACY
+Verizon Communications is asking a federal appeals court to declare
+unconstitutional a lower-court decision that ordered it to reveal the
+identity of a customer suspected of downloading copyrighted music files
+over the Internet. Verizon deputy general counsel John Thorne says, "I see
+a great jeopardy of privacy for people who are not doing anything wrong,"
+and notes the lower court's ruling would make it possible for "strangers,
+stalkers, telemarketers, pollsters, creditor and anybody else" to obtain
+the identity of almost any Internet user. "No matter where you go, your
+identity can be compelled to be revealed under this process." (Reuters/USA
+Today 30 Jan 2003)
+http://www.usatoday.com/tech/news/techpolicy/2003-01-30-verizon-appeal_x.htm
+
+WHAT'S GOING ON? AOL TIME WARNER LOSES $98.7B & ANOTHER BIG-WIG
+Ever since the much-ballyhooed merger two years ago of "new media" America
+Online with "old media" publishing, music, and movie empire Time Warner,
+there's been nothing but corporate recriminations, infighting, and anguish
+there. The two men who created the merger, Gerald Levin and Steve Case,
+have already departed, as has Bob Pittman. And now vice-chairman Ted Turner
+has resigned, following announcement that the company's taking a $98.7
+billion loss for 2002, the worst annual loss ever. Turner says he will
+devote more time to personal interests and to several "socially responsible
+business efforts." (Atlanta Journal-Constitution 30 Jan 2003)
+http://partners.nytimes.com/2003/01/30/business/30AOL.html
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+
+From Edupage
+
+MICROSOFT AGREES TO CHANGE PASSPORT FOR EU
+Responding to concerns from the European Union (EU) over its .NET
+Passport authentication system, Microsoft this week agreed to various
+changes including "a radical change of the information flow." EU
+members had expressed concern that Microsoft's system, which is
+designed to share authentication information with affiliated sites so
+users are not required to re-enter names and passwords, did not
+adequately protect personal information, such as addresses, ages, phone
+numbers, and credit card numbers. The changes agreed to will allow
+users to see information that would be shared among systems and to
+decide which of those pieces of personal data they will allow to be
+shared. A spokesman for Microsoft said the company welcomes the changes
+and that the process of deciding on the changes was an example of
+"necessary collaboration between government and industry in order to
+achieve a common goal."
+New York Times, 30 January 2003 (registration req'd)
+http://www.nytimes.com/2003/01/31/business/worldbusiness/30CND-SOFT.html
+
+[What Was That We Were Saying About Everything Becoming Pay-Per-Whatever?]
+PAYING FOR RADIO?
+Two start-up companies, Sirius Satellite Radio and XM Satellite Radio
+Holdings, are heavily promoting radio-for-pay in private homes and
+cars. XM Satellite launched a $100-million national campaign in August
+of 2001 to sell the service to the public. Its partners, General
+Motors, which offers cars with satellite receivers, and Delphi
+Corporation, which sells a $200 portable car boombox, have also
+promoted the service. Sirius lags far behind its rival in spending and
+subscribers. With 30,000 members compared to XM Satellite's 360,000,
+Sirius has hired a prestigious Miami-based advertising firm to launch a
+late-night talk show TV campaign to build its customer base. In
+addition to more than 100 music channels, Sirius offers news, sports,
+religious, and comedy channels for $12.95 a month. Capitalizing on the
+notion of music as "social currency," the ads promote Sirius as
+anti-establishment by offering subscribers commercial-free, alternative
+music. Still far from the two million subscribers needed to break even,
+XM Satellite hopes the Sirius campaign will boost its membership as
+well by raising consumer awareness.
+New York Times, 3 February 2003 (registration req'd)
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_02_05.txt" target="_blank" rel="nofollow">pgweekly_2003_02_05.txt</a>

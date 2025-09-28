@@ -1,0 +1,73 @@
+From hart at pglaf.org  Tue Nov  1 07:41:56 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Sat Nov  5 11:42:10 2005
+Subject: [gweekly] Cheap Portable Terabytes
+Message-ID: <Pine.LNX.4.60.0511010737210.28487@pglaf.org>
+
+
+
+                  CHEAP PORTABLE TERABYTES
+
+
+Every Word In The Library Of Congress In A $100-$150 DVD Notebook?
+
+
+It's possible.
+
+
+Less than 24 hours ago I bought a couple notebooks at Fry's
+that hold 200 and 320 CDs and/or DVDs respectively with one
+of the Project Gutenberg Directors.
+
+On the way home he calculated just how much data we will be
+able to put in these notebooks.
+
+Based on a 4.3G standard storage rate, and a 10.25G zipped,
+with zip operating at about 59% compression you will now be
+able to carry data as follows:
+
+
+For ~$88:
+
+200 DVDs    Standard       200 x  4.3G =  .86 Terabytes
+200 DVDs    Zipped Text    200 x 10.25 = 2.05 Terabytes
+
+
+For ~$140
+
+320 DVDs    Standard       320 x  4.3G = 1.376 Terabytes
+320 DVDs    Zipped Text    320 x 10.25 = 3.28 Terabytes
+
+
+At a cost of two for a dollar, 200 DVDs would cost $100
+At a cost of three for a dollar, 200 DVDs would cost $67
+
+At a cost of two for a dollar, 320 DVDs would cost $160
+At a cost of three for a dollar, 320 DVDs would cost $107
+
+
+The actual retail prices we paid is between at $.39 each,
+or about 2.5 DVDs per dollar.
+
+$.39 per DVD
+$10 for the #200 notebooks
+$15 for the #320 notebooks
+$78 for 200 DVDs
+$125 for 320 DVDs
+
+Thus a notebook full of 200 DVDs costs $78 + $10 = $88
+
+Thus a notebook full of 320 DVDs costs $125 + $15 = $140 today,
+and could probably hold every plain text eBook that will be out
+from all the various eBook projects combined for who knows just
+how many years.
+
+However, by the time you manage to fill such a notebook you can
+be sure something will be available that will let you carry two
+or three times as much just as easily and inexpensively.
+
+
+Michael S. Hart
+Founder
+Project Gutenberg
+

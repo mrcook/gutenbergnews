@@ -1,0 +1,475 @@
+---
+params:
+  id: 1764
+title: PG Monthly Newsletter (1997-11-02)
+date: 1997-11-02T12:24:04+00:00
+author: Michael Cook
+layout: post
+url: /19971102/pg-monthly-newsletter-1997-11-02/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: Project Gutenberg Newsletter for November, 1997
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: Michael Hart &lt;hart@pobox.com&gt;
+Date: Sun, 2 Nov 1997 03:45:44 -0600 (CST)
+
+
+This is the Project Gutenberg Newsletter for Wednesday, November 5, 1977
+
+Below are listed the 32 October PG Etexts, and 4 more to start November.
+We will be releasing separate files of the Complete Works of Shakespeare
+starting with Etext #1100 and continuing to approximately Etext #1137 to
+release our previous single file Complete Shakespeare, as was requested.
+We will also be releasing corrected versions of these files and versions
+of Shakespeare from other editions in the near future.
+
+Michael Hart will be hard to reach for most of November, please contact:
+Dianne Bean and David Price, our Directors of Production, this month, to
+get answers to your normal questions.  I am hoping for a deluge of xerox
+copyright pages to work on over the holidays, as most of you know I have
+a tendency to get a huge amount of work done just after Thanksgiving and
+through the rest of the holiday season, so please keep my mailbox filled
+with books we can do.  I can usually handle twice as many books over the
+holidays, but sometimes there aren't that many to work on.
+
+***
+
+We have been experiencing problems with our listserver, so we are trying
+to send this out now, on Sunday, November 2, so we will have time to try
+another listserver on Wednesday if this fails.  The only listserver this
+effects is the direct subscription to the "gutnberg@prairienet.org" one.
+Many of the rest of you should receive this normally even if that list's
+recipients do not.  If that one fails again, some of you may receive the
+new copy on or after Wednesday, the 5th.
+
+In other notes of interest, I spoke with the Dean of Computer Science of
+Carnegie Mellon University, and apparently I should soon receive letters
+indicating that Project Gutenberg should be able to continue to operated
+from Carnegie Mellon University for three more years and I will continue
+on as a Carnegie Mellon visiting scientist for that period.
+
+Therefore, you will also hopefully shortly be receiving email requesting
+that you put Project Gutenberg on your Christmas list; donations will be
+made out to "Project Gutenberg/CMU", P.O. Box 2782, Champaign, Illinois,
+61825-2782, the same as before.  If you do not receive this message, you
+can hopefully get it by sending email to Dianne Bean, as above, who will
+forward it to Greg Newby, who will be running our other listserver tries
+while I am away.
+
+A note below these Etext entries indicates that we are updating sites to
+our new addresses, around the world, as the old "vmd" address we had for
+so many years, will no longer forward to us after another month or so.
+
+If you are still emailing us at any "vmd" address, please update address
+books now, and let us know where sites are that contain the vmd address,
+OTHER than uiarchive.cso.uiuc.edu, and in the Etext files themselves.
+
+Now, here are the 32 [actually 31] October Etexts, and 4 for November.
+
+We hope you enjoy them.
+
+***
+
+Mon Year    Title and Author  [# of PG books by the author][filename.ext] ###
+
+A "C" following the Etext number indicates a copyrighted work.
+
+Oct 1997 Rolf in the Woods, by Ernest Thompson Seton       [rolfwxxx.xxx]1088
+Oct 1997 Baartock, by Lewis Roth                           [brtckxxx.xxx]1087C
+Oct 1997 A Horse's Tale, by Mark Twain [Clemens][Twain #12][hrstlxxx.xxx]1086
+Oct 1997 Life of John Sterling, by Thomas Carlyle  [TC#2]  [strlgxxx.xxx]1085
+
+Oct 1997 Recipes Tried and True by Presbyterian Ladies' Aid[tandtxxx.xxx]1084
+Oct 1997 The Arrow of Gold, by Joseph Conrad [Conrad #17]  [argldxxx.xxx]1083
+Oct 1997 Voyage of The Paper Canoe, by Nathaniel H. Bishop [pprcnxxx.xxx]1082
+Oct 1997 Dead Souls, by Nikolai Vasilievich Gogol          [dsolsxxx.xxx]1081
+
+Oct 1997 A Modest Proposal, by Jonathan Swift  [Swift #3]  [mdprpxxx.xxx]1080
+Oct 1997 Life of Tristram Shandy, by Laurence Sterne       [shndyxxx.xxx]1079
+Oct 1997 The Scouts of the Valley, by Joseph A. Altsheler  [sctvlxxx.xxx]1078
+Oct 1997 The Mirror of Kong Ho, by Ernest Bramah [Bramah#2][konghxxx.xxx]1077
+
+Oct 1997 The Wallet of Kai Lung, by Ernest Bramah[Bramah#1][wklngxxx.xxx]1076
+Oct 1997 Samuel, by Jack London         [Jack London #18]  [sstrgxxx.xxx]1075
+Oct 1997 The Sea-Farmer, by Jack London [Jack London #17]  [sstrgxxx.xxx]1075
+Oct 1997 The Dream of Debs, by Jack London   [London #16]  [sstrgxxx.xxx]1075
+Oct 1997 The Enemy of All the World, by Jack London [#15]  [sstrgxxx.xxx]1075
+Oct 1997 The Unparalleled Invasion, by Jack London  [#14]  [sstrgxxx.xxx]1075
+Oct 1997 South of the Slot, by Jack London   [London #13]  [sstrgxxx.xxx]1075
+Oct 1997 The Strength of the Strong, by Jack London [#12]  [sstrgxxx.xxx]1075
+Oct 1997 The Sea Wolf, by Jack London   [Jack London #11]  [cwolfxxx.xxx]1074
+Oct 1997 The Death of Olivier Becaille, by Emile Zola [#4] [1zolaxxx.xxx]1073
+
+Oct 1997 The Miller's Daughter, by Emile Zola  [Zola #3]   [1zolaxxx.xxx]1072
+Oct 1997 Captain Burle, by Emile Zola  [Emile Zola #2]     [1zolaxxx.xxx]1071
+Oct 1997 Nana, by Emile Zola   [Emile Zola #1] [See note]  [1zolaxxx.xxx]1070
+Oct 1997 1st PG Collection of Emile Zola  [Emile Zola #1]  [1zolaxxx.xxx]1069
+
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V2 [2musgxxx.xxx]1068
+Oct 1997 Personal Memoirs of U. S. Grant [US President] V1 [1musgxxx.xxx]1067
+Oct 1997 1066 is reserved for "The Battle of Hastings"     [     xxx.xxx]1066
+Oct 1997 The Cask of Amontillado, by Edgar Allan Poe[Poe#5][1epoexxx.xxx]1065
+
+
+This is our second experimental effort at cataloguing multiple
+items in a single file.  In the first instance we use the same
+index number for each item, and just used multiple entries for
+that file in the index.  In this, the second instance, we have
+used separate index numbers for the collection and for all the
+entries in that collection.  Let us know which you prefer.  We
+have traditionally used the smallest number of index entries--
+as somewhat of a protest against others who have copied Etexts
+and wanted it to appear as if they had more Etext than Project
+Gutenberg or various other etext collections.  We want to make
+our Etexts as easy as possible to find and work with, but, not
+to "pad" our work.  However, we prefer to post short works for
+you in collections, to eliminate you having to download all 11
+kilobytes of our header and "legal fine print" to get files of
+sizes less than the headers. Please email me on this.  Thanks!
+Michael S. Hart, hart@pobox.com [Maybe something in between??]
+[PS. . .we also try not to post many files larger than 1.44M.]
+
+
+Oct 1997 The Masque of the Red Death by Edgar Allan Poe[#4][1epoexxx.xxx]1064
+Oct 1997 The Raven, by Edgar Allan Poe  [E. A. Poe #3]     [1epoexxx.xxx]1063
+Oct 1997 1st PG Collection of Edgar Allan Poe[E. A. Poe #2][1epoexxx.xxx]1062
+Oct 1997 Myths and Myth-Makers, by John Fiske              [mythmxxx.xxx]1061
+
+Oct 1997 Grass of Parnassus, by Andrew Lang  [Lang #7]     [grprnxxx.xxx]1060
+Oct 1997 The World Set Free, by H.G. Wells [H.G. Wells #12][twsfrxxx.xxx]1059
+Oct 1997 The Mirror of the Sea, by Joseph Conrad[Conrad#16][tmotsxxx.xxx]1058
+Oct 1997 Poems, by Oscar Wilde [Etext #16 by Oscar Wilde]  [pmwldxxx.xxx]1057
+Oct 1997 Ballad of Reading Gaol, by Oscar Wilde [re: above][pmwldxxx.xxx]1057
+
+[This is a new indexing effort to make it easier to look up shorter materials
+without having to actually make separate short files.  Comments encouraged!!]
+
+and
+
+Nov 1997 The Description of Wales, by Geraldus Cambrensis  [dscwlxxx.xxx]1092
+Nov 1997 Heroes and Hero Worship, by Thomas Carlyle [TC#3] [herosxxx.xxx]1091
+Nov 1997 Bickerstaff-Partridge Papers by Jonathan Swift[#4][bstafxxx.xxx]1090
+Nov 1997 Moon-Face and Other Stories by Jack London[#19-26][mfacexxx.xxx]1089
+[This one will probably appear with a more detailed listing next month....mh]
+
+***
+
+My apologies, as the message below indicates; there are a number of very
+old Project Gutenberg files scattered around the world and we appreciate
+any efforts you could make to help us update them.  Many sites say their
+location is the official center of Project Gutenberg, but the truth is a
+real center of Project Gutenberg is a more or less mythical thing, as we
+have always been an Unlimited Distribution concept, in which anyone will
+be allowed to put up a Project Gutenberg site wherever they want as long
+as it is non-profit.
+
+
+Bringing Things Up To Date
+
+As many of you know, Project Gutenberg is the oldest general
+information provider on the Internet, having begun in 1971--
+when there were only about 100 people on the whole Internet.
+Since we allow our files to be reposted anywhere people want
+to post them, there are hundreds, perhaps thousands of sites
+around the world containing our files. . .which we consider,
+most whole-heartedly, the best way to provide Public Domain,
+and other information, to the world.
+
+However, as many of you Web users know, one of the problems,
+probably the biggest problem, with the Web, is that no files
+are updated in a given year on surprisingly large numbers of
+Web sites, once they have been established.
+
+Therefore, since many of our files date back many years, the
+problem occurs that people read files such as "newuser.gut,"
+from some of these sites, and receive information about some
+of our email addresses and listservers that have been out of
+date for years.
+
+Right now, I would ask you to let me know the locations, and
+filenames [other than the Etext files themselves, of course]
+that we should make an effort to get replaced.  We realize a
+number of these locations are not "active" in the real sense
+of the word, but we can certainly make reasonable efforts to
+at least update the locations we can.
+
+Many of these sites mention "vmd" addresses.  vmd has been a
+discontinued service for quite some time now, and if looking
+for "vmd" on these sites yields a "hit". . .other than in an
+Etext file [which will be updated in a separate effort] then
+we ask you to email the people at that site [and cc: us] for
+the purpose of asking them to update their files if possible
+or to contact us if this can't be easily done.
+
+Thanks for your help!
+
+Happy Holidays to you all!!!
+
+Michael S. Hart
+[hart@pobox.com]
+Project Gutenberg
+Executive Director
+Internet User ~#100
+
+
+New sites "down under" are carrying the Project Gutenberg Etexts:
+
+The Sydney PC Users Group was formed approximately 10 years ago
+to cater to home computer users.  It has currently 2600 members,
+prints a monthly magazine called "PrintScreen", & runs Special
+Interest Groups (or SIGs) on various topics (OS/2, Windows,
+Networks etc), runs a couple of local based groups and 3 BBSs
+IBM (61 2 9804 8677), Gateway Mail Exchange (61 2 9984 8022)
+and Macarthur (61 2 4628 3722).
+
+*
+
+Scanning Needed for Balzac Works
+We have a volunteer interested in preparing English versions of Honore
+de Balzac's works, but volunteers are needed to provide scanned files.
+She'd like to begin with _Cousin Betty_, _The Chouans_, _The Wild Ass's
+Skin_, or _About Catherine de Medici_ but is prepared to work on others
+if they are more readily available. If you can help scan in some of the
+materials, please contact Daphne Schor &lt;dschor@erols.com&gt; for details.
+
+*
+
+I wanted to inform you that Gutenberg-DE (Germany) has moved. The page
+you are linking to still exists but it's no longer the home site. The
+new URL is http://gutenberg.aol.de (Yes, AOL is sponsoring them!) Thanks
+
+AAP INTRODUCES ELECTRONIC TAGGING SYSTEM FOR INTERNET
+The Association of American Publishers, in cooperation with the Corporation
+for National Research Initiatives, has developed a "digital object
+identifier" system that would make it easier for would-be users of
+electronic information to find out about the origin and ownership of the
+online material, and about copyright restrictions on its use.  The voluntary
+system would enable users to "recognize intellectual property even on the
+fastest of highways," says a consultant who helped develop the system.  The
+system is designed around a numeric tag that would be embedded in books,
+articles and even chapters.  When users clicked on an icon, they would be
+transported to the information owner's home page, which would contain
+information for obtaining permission to use the work.  The system would be
+maintained by a new, nonprofit D.O.I. Foundation, supported by fees from
+publishers.  (Chronicle of Higher Education 3 Oct 97)
+
+There are many sites around the world containing Project Gutenberg Etexts,
+only two of which we actually maintain directly:  prairienet.org and also
+archive.org.  uiarchive.cso.uiuc.edu mirrors prairienet at 3AM & 3PM, and
+is a much faster site.  You may find that some of these sites are faster,
+much faster, from you location, but you may also find that some sites are
+easier for you to use, depending on how you like to search our collection
+of electronic book.  Of course, you can always download GUTINDEX.* files,
+and do you own searching with your own favorite program.  That's my way!!
+But many people really like the indexing and added information available,
+especially from promo.net and sailor, as below.
+
+
+You can get the Project Gutenberg books via FTP and the Web:
+
+[This site is in Urbana, Illinois, and is quite fast]
+ftp uiarchive.cso.uiuc.edu or ftp 128.174.5.14
+login:  anonymous
+password:  yourname@your.machine
+cd pub
+cd etext
+cd gutenberg
+[or just cd /pub/etext/gutenberg/etext97]
+cd etext97  [96, 95,94, 93, 92, 91 or 90.  70's and 80's are in /etext90]
+get filename  (be sure to set bin, if you get the .zip files)
+get more files
+quit
+
+get GUTINDEX.96 to see all Project Gutenberg Etexts to date.
+get GUTINDEX.97 to see current releases.
+New files in etext97, of course.
+
+ftp prairienet.org
+*** [This is usually the first site they appear in, but is slow]
+[This site is in Champaign, Illinois]
+ftp ftp.prairienet.org or ftp 192.17.3.4
+username:  anonymous
+password:  yourlogin@your.machine.domain
+[this is your email address where you are]
+
+cd pub/providers/gutenberg/etext97  [etc, as above]
+
+ls or dir for a listing of files
+
+get filename.txt (ascii files)
+get filename.zip (binary zipped files)
+
+be sure to type "binary" before retrieving the .zip files!
+
+We are working on several sites "down under" in Australia,
+here is a note for those near Sydney.
+
+The Sydney PC Users Group was formed approximately 10 years ago
+to cater to home computer users.  It has currently 2600 members,
+prints a monthly magazine called "PrintScreen", & runs Special
+Interest Groups (or SIGs) on various topics (OS/2, Windows, Nets
+etc), runs a few local based groups and 3 BBSs: IBM (61 2 9804 8677),
+Gateway Mail Exchange (61 2 9984 8022) & Macarthur (61 2 4628 3722).
+
+***
+
+Our Latest FTP Site Is In Portugal
+
+gutenberg.esoterica.pt
+ftp.esoterica.pt/dir?mirrors/gutenberg
+ftp.esoterica.pt/gutenberg
+ftp.esoterica.pt/pub/mirrors/gutenberg
+gutenberg.esoterica.pt/pub/mirrors/gutenberg
+ftp.esoterica.pt/pub/mirrors/gutenberg
+
+***
+
+New major sites for Eastern United States!
+
+For those on the East Coast of the United States we have
+sailor.gutenberg.org or 198.76.201.198 in Baltimore, MD.
+This site should provide very fast service for both WWW
+and FTP service.
+
+and
+
+ftp://sunsite.unc.edu/pub/docs/books/gutenberg
+***
+
+In Europe, please try our site at:
+Bucharest High School of Computer Science
+Serving Central and Eastern Europe
+ftp://ftp.lbi.ro/pub/Books/Gutenberg
+
+and a new site up at:
+
+http://www.informika.ru -- official server of the
+Ministry of Education of Russia (the Russian part
+of the server not equivalent to the English one).
+
+http://www.informika.ru/windows/books/gutenb/list.html
+
+This is only available on the Russian language side of
+their system, but is pretty easy to see.  Click on the
+WINDOWS icon at the bottom of the main menu.  Then, on
+the lower left selection [the web names will pop up in
+English] which is /books.  The first one of that list,
+The Palms Russian Public Library, is Project Gutenberg
+Etexts in .zip format as mirrored from uiarchive.
+
+
+and our newest:
+
+ftp://ftp.pinknet.cz/pub/etext/gutenberg/  in the Czech Republic.
+
+***
+
+http://www.mirrors.org.sg/pg
+in Singapore
+
+The Gutenberg archive can also be accessed from Singapore at
+http://www.sol.com.sg/pg
+
+These two addresses reflect the same database in Singapore.
+and others are starting soon in Japan and Taiwan.
+
+***
+
+Project Gutenberg Web Sites can now be reached at:
+[This site is in Nevada]
+http://promo.net/pg/   [This is the definitive site for now]
+ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/pg_home.html
+http://www.prairienet.org/pg
+
+and from Silicon Valley at
+ftp://cdrom.com/pub/gutenberg
+and
+ftp://archive.org/pub/gutenberg/etext/etext97
+and etext96/95/94/93/92/91 and etext90, of course.
+
+and from Dallas, Texas at
+ftp://viemeister.com/pub/gutenberg
+
+And for you Gopher types:
+
+gopher://spinaltap.micro.umn.edu:70/11/Gutenberg
+
+**
+And our newest sites:
+ftp://ftp.ihug.co.nz/pub/mirror/gutenberg
+Adam Moore &lt;sickboy@ihug.co.nz&gt; and Sydney, AU
+
+Our Newest Site Is In Taiwan
+ftp transend.com.tw/mirrors/gutenberg/etext
+or, with your browser, the URL is:
+ftp://ftp.transend.com.tw/mirrors/gutenberg/etext
+
+Please let me know if you need more information.
+
+Michael S. Hart
+Project Gutenberg
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL 61825-2782
+[Check should be made out to "Project Gutenberg/CMU"]
+
+Thanks!
+
+Michael
+
+
+
+To subscribe or unsubscribe to or from the Project Gutenberg Newsletter
+or change your subscription address to Project Gutenberg's Newsletter:
+
+send email to:
+listproc@prairienet.org
+say:
+unsub gutnberg
+unsub gutvol-l
+Message MUST be sent from the address you subbed from, of course.
+
+To sub from a new address, send message from there:
+sub gutnberg [yourfirstname] [yourlastname]
+If you want the volunteers' list
+sub gutvol-l [yourfirstname] [yourlastname]
+[That is "gutvol-L" NOT "gutvol-1"]
+
+*
+
+We are starting another listserver called "gutnberg" at:
+
+majordomo@sailor.lib.md.us
+
+If you want to make sure you are directly subscribed to that list,
+send email to that address, nothing required in the subject line,
+and the only contents of the message need to be:
+
+subscribe gutnberg
+
+*
+
+Thanks so much to you all,
+
+Again my wishes for the happiest of holidays!
+
+Michael S. Hart
+&lt;hart@pobox.com&gt;
+Project Gutenberg
+Executive Director
+Internet User ~#100
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1997_11_02.txt" target="_blank" rel="nofollow">pgmonthly_1997_11_02.txt</a>

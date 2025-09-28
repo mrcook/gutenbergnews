@@ -1,0 +1,308 @@
+---
+params:
+  id: 2278
+title: "PG Weekly Newsletter: Part 2 (2005-07-27)"
+date: 2005-07-27T13:19:47+00:00
+author: Michael Cook
+layout: post
+url: /20050727/pg-weekly-newsletter-2005-07-27-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Thu Jul 28 21:23:20 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Jul 28 21:23:22 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0507282120570.3369@pglaf.org&gt;
+
+GWeekly_July_27_part2.txt
+
+The Project Gutenberg Weekly Newsletter 27 Jul 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 30 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 27 Jul 2005: 16783 (incl. 463 Aus.).
+
+Last week the Total Count was 16752, including 462 at PG of Australia.
+This week we added 31 new.
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Winter's Tale, by William Shakespeare                                 1539
+   [Craig, Oxford Edition]
+
+The Door in the Wall And Other Stories, by H. G. Wells                     456
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  30 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+New York Times Current History of the European War, by Various           16363
+   [Full title: The New York Times Current History of the European War,
+         Vol 1, Issue 4, January 23, 1915]
+   [Link: http://www.gutenberg.org/1/6/3/6/16363 ]
+   [Files: 16363.txt; 16363-8.txt; 16363-h.htm]
+
+The Glugs of Gosh, by C. J. Dennis                                       16362
+   [Link: http://www.gutenberg.org/1/6/3/6/16362 ]
+   [Files: 16362.txt; 16362-h.htm]
+
+Lippincott's Magazine, October, 1877, Vol. XX. No. 118, by Various       16361
+   [Full title: Lippincott's Magazine  of Popular Literature and Science,
+         October, 1877, Vol. XX. No. 118]
+   [Link: http://www.gutenberg.org/1/6/3/6/16361 ]
+   [Files: 16361.txt; 16361-8.txt; 16361-h.htm]
+
+Scientific American Supplement, No. 561, October 2, 1886, by Various     16360
+   [Link: http://www.gutenberg.org/1/6/3/6/16360 ]
+   [Files: 16360.txt; 16360-8.txt; 16360-h.htm]
+
+Sir Thomas Browne and his 'Religio Medici', by Alexander Whyte           16359
+   [Subtitle: an Appreciation]
+   [Link: http://www.gutenberg.org/1/6/3/5/16359 ]
+   [Files: 16359.txt; 16359-h.htm]
+
+The English Gipsies and Their Language, by Charles G. Leland             16358
+   [Link: http://www.gutenberg.org/1/6/3/5/16358 ]
+   [Files: 16358.txt; 16358-h.htm]
+
+Mary, by Mary Wollstonecraft                                             16357
+   [Subtitle: A Fiction]
+   [Link: http://www.gutenberg.org/1/6/3/5/16357 ]
+   [Files: 16357.txt; 16357-8.txt; 16357-h.htm; ]
+
+Brannon's Picture of The Isle of Wight, by George Brannon                16356
+   [Subtitle: The Expeditious Traveller's Index to Its Prominent Beauties &]
+   [Objects of Interest. Compiled Especially with Reference to Those Numerous]
+   [Visitors Who Can Spare but Two or Three Days to Make the Tour of the]
+   [Island.]
+   [Link: http://www.gutenberg.org/1/6/3/5/16356 ]
+   [Files: 16356.txt; 16356-8.txt; 16356-h.htm; ]
+
+Combed Out, by Fritz August Voigt                                        16355
+   [The author is listed on the title page of this book as F.A.V. The LOC]
+   [catalog lists Fritz August Voight as the author, and the source for this]
+   [work (Internet Archive/Canadian Libraries) has the book indexed under F.]
+   [A. Voight. While Voigt was christened Fritz, he chose to be called]
+   [Frederick.]
+   [Link: http://www.gutenberg.org/1/6/3/5/16355 ]
+   [Files: 16355.txt; 16355-8.txt; 16355-h.htm; ]
+
+Scientific American Supplement, No. 620,  November 19,1887, by Various   16354
+   [Link: http://www.gutenberg.org/1/6/3/5/16354 ]
+   [Files: 16354.txt; 16354-8.txt; 16354-h.htm]
+
+Scientific American Supplement, No. 421,  January 26, 1884, by Various   16353
+   [Link: http://www.gutenberg.org/1/6/3/5/16353 ]
+   [Files: 16353.txt; 16353-8.txt; 16353-h.htm]
+
+The Great Events by Famous Historians, Vol. 1, by Various                16352
+   [Editor: Rossiter Johnson, Charles Horne And John Rudd]
+   [Link: http://www.gutenberg.org/1/6/3/5/16352 ]
+   [Files: 16352.txt; 16352-8.txt; 16352-h.htm]
+
+Critical & Historical Essays, by Edward MacDowell                        16351
+   [Subtitle: Lectures delivered at Columbia University]
+   [Editor: W. J. Baltzell]
+   [Link: http://www.gutenberg.org/1/6/3/5/16351 ]
+   [Files: 16351.txt; 16351-8.txt; 16351-h.htm]
+   [Midi and Lilypond files are included in 16352-h]
+
+Curiosities of Literature,  Vol. II (of 3), by Isaac  Disraeli           16350
+   [Subtitle: Edited, With Memoir And Notes,]
+   [By His Son, The Earl Of Beaconsfield]
+   [Link: http://www.gutenberg.org/1/6/3/5/16350 ]
+   [Files: 16350.txt; 16350-8.txt; 16350-0.txt; 16350-h.htm]
+
+The Book of the Bush, by George Dunderdale                               16349
+   [Subtitle: Containing Many Truthful Sketches Of The Early Colonial]
+   [Life Of Squatters, Whalers, Convicts, Diggers, And Others]
+   [Who Left Their Native Land And Never Returned]
+   [Illustrator: J. Macfarlane]
+   [Link: http://www.gutenberg.org/1/6/3/4/16349 ]
+   [Files: 16349.txt; 16349-8.txt; 16349-h.htm]
+
+Dreamland, by Julie M. Lippmann                                          16348
+   [Link: http://www.gutenberg.org/1/6/3/4/16348 ]
+   [Files: 16348.txt; 16348-8.txt; ]
+
+Miscellanea, by Juliana Horatia Ewing                                    16347
+   [Link: http://www.gutenberg.org/1/6/3/4/16347 ]
+   [Files: 16347.txt; 16347-8.txt; 16347-h.htm]
+
+Preface to the Works of Shakespeare (1734), by Lewis Theobald            16346
+   [Commentator: Hugh G. Dick]
+   [Link: http://www.gutenberg.org/1/6/3/4/16346 ]
+   [Files: 16346.txt; 16346-8.txt; 16346-0.txt; 16346-h.htm]
+
+Ellen Walton, by Alvin Addison                                           16345
+   [Subtitle: The Villain and His Victims]
+   [Link: http://www.gutenberg.org/1/6/3/4/16345 ]
+   [Files: 16345.txt; 16345-h.htm]
+
+The Waif of the "Cynthia", by Andre Laurie and Jules Verne               16344
+   [Link: http://www.gutenberg.org/1/6/3/4/16344 ]
+   [Files: 16344.txt; 16344-8.txt; 16344-h.htm]
+
+Beth Woodburn, by Maud Petitt                                            16343
+   [Link: http://www.gutenberg.org/1/6/3/4/16343 ]
+   [Files: 16343.txt; 16343-8.txt; 16343-h.htm]
+
+Treatise on Simple Counterpoint in Forty Lessons, Friedrich J. Lehmann   16342
+   [Link: http://www.gutenberg.org/1/6/3/4/16342 ]
+   [Files: 16342.txt; 16342-8.txt; 16342-h.htm]
+
+Poems, by William Cullen Bryant                                          16341
+   [Link: http://www.gutenberg.org/1/6/3/4/16341 ]
+   [Files: 16341.txt; 16341-8.txt; 16341-h.htm]
+
+A Cynic Looks at Life, by Ambrose Bierce                                 16340
+   [Subtitle: Little Blue Book #1099]
+   [Editor: E. Haldeman-Julius]
+   [Link: http://www.gutenberg.org/1/6/3/4/16340 ]
+   [Files: 16340.txt; 16340-8.txt; 16340-h.htm]
+
+The Passenger from Calais, by Arthur Griffiths                           16339
+   [Link: http://www.gutenberg.org/1/6/3/3/16339 ]
+   [Files: 16339.txt; 16339-8.txt; 16339-h.htm]
+
+The Homeric Hymns, by Andrew Lang                                        16338
+   [Subtitle: A New Prose Translation; and Essays, Literary and]
+   [Mythological]
+   [Link: http://www.gutenberg.org/1/6/3/3/16338 ]
+   [Files: 16338.txt; 16338-h.htm]
+
+&gt;From Capetown to Ladysmith, by G. W. Steevens                            16337
+   [Subtitle: An Unfinished Record of the South African War]
+   [Editor: Vernon Blackburn]
+   [Link: http://www.gutenberg.org/1/6/3/3/16337 ]
+   [Files: 16337.txt; 16337-8.txt; 16337-h.htm]
+
+Pour la patrie, by Jules-Paul Tardivel                                   16336
+   [Subtitle: Roman du XXe siecle]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/6/3/3/16336 ]
+   [Files: 16336-8.txt; 16336-h.htm]
+
+Essays on the Stage, by Thomas D'Urfey and Bossuet                       16335
+   [Subtitle: Preface to the Campaigners (1689) and Preface to the]
+   [Translation of Bossuet's Maxims and Reflections on Plays]
+   [(1699) by an Anonymous Writer]
+   [Commentator: Joseph Wood Krutch]
+   [Link: http://www.gutenberg.org/1/6/3/3/16335 ]
+   [Files: 16335.txt; 16335-8.txt; 16335-h.htm]
+
+Sundown Slim, by Henry Hubert Knibbs                                     16334
+   [Illustrator: Anton Fischer]
+   [Link: http://www.gutenberg.org/1/6/3/3/16334 ]
+   [Files: 16334.txt; 16334-8.txt; 16334-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Jul 2005 An Australian in China, by G E Morrison           [050068xx.xxx] 0463A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_07_27_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_07_27_part_2.txt</a>

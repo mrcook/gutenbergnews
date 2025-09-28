@@ -1,0 +1,653 @@
+========
+Subject: March Project Gutenberg Newsletter
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg mailing list" <gutnberg@listserv.unc.edu>
+Date: Wed, 7 Mar 2001 13:31:19 -0500 (EST)
+
+
+
+This Newsletter is being sent from an alternate address, so please be
+careful to reply to hart@pobox.com. . .more below on this.  Apologies
+. . .prairienet.org doesn't seem to be working properly. . . .
+
+
+This is the Project Gutenberg Newsletter for Wednesday, March 7, 2001
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+Well, it's almost another set of minor miracles that have me here this
+morning writing another Project Gutenberg Newsletter to you, filled up
+not only with the 50+ Etexts you have come to expect, but with a great
+collection of dictionaries, as well, for a total of about 75 Etexts.
+
+A week ago I had no idea we would actually be able to present any more
+than a handful of Etexts today, but we actually managed to add 53 more
+just in the last 7 days, and some of them were posted more than once--
+to present a more integrated index format for the dictionaries.
+
+We are going to be working on some PERL scripts, etc., to automate the
+process, so if you are a script writer or programmer with ideas on how
+to add our header to Etexts and "fill in the blanks," please email me.
+
+hart@pobox.com is usually the best address to email me at, rather than
+just hitting the "reply" key. . .the reason is that right now I divide
+my day between hart@prairienet.org for doing most of my email, and for
+posting the books I tend to use hart@beryl.ils.unc.edu and then send a
+few emails from there while I am directly working on the Etexts. . .it
+is ok to send to BOTH hart@pobox.com these other addresses, I will get
+two copies.
+
+and
+
+We have copyright clearances for a few people who didn't include their
+email addresses with their title page xeroxes. . . .
+
+Please include your email address when you send us snailmail. . .!
+
+
+***
+
+
+
+Headline News:
+
+***
+
+We are considering a Portuguese Etext, Os Lusiadas, for Etext #3333.
+This will likely also be our 30th Anniversary Edition Etexts!!!!!!!
+If you can help with this, please let me know.  We received xeroxes:
+Os Lusiadas, by de Luis de Camoes from  Maria Helena Moreira 02/20/01
+[Full Names:  Maria Helena Moreira Rodriques and Victor Calha, so if
+you know either of these people, please try to get me in touch. . .
+If you are in Portugal, please email, I have more information. . . .
+
+
+***
+
+New Sites
+
+
+New Site In Croatia
+and for Projekt Dubravka in Croatian
+http://gutenberg.ssivanic.hr
+HTTP only (no FTP)
+
+
+New site in Germany
+ftp://ftp.tu-ilmenau.de/project_gutenberg
+
+This site has been established around six weeks ago.
+It updates on a daily base and has a good connection
+(155Mbit) to the german research network where all
+universities in germany are connected.
+
+
+Our San Francisco site has a new address:
+movie0.archive.org
+cd pub/etext/etext02
+
+
+By the time most of you read this, it will be my birthday. . . .
+I was 24 when I started Project Gutenberg. . .so do the math....
+
+;-)
+
+
+You can read a "Slashdot" interview with me about Project Gutenberg:
+
+http://slashdot.org/article.pl?sid=01/03/02/1422244&mode=nested
+
+and
+
+You can see me on Japanese public television [NHK] on March 31, 11PM.
+
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+
+You will need the first five letters of the filenames listed below.
+
+
+With 3225 eTexts online it now takes an average of 100,000,000 readers
+gaining a nominal value of $3.10 from each book, for Project Gutenberg
+to have given away $1,000,000,000,000 [One Trillion Dollars] in books.
+*100,000,000 readers is one to two percent of the world's population!*
+
+Next month we will try to reach #3333 for a "price" of $3.00 per copy
+to have given away our goal of $1,000,000,000,000 [One Trillion Dollars]
+with a total of 833 Etext titles from April, 2000 to April, 2001. . . .
+
+This "cost" is down from $3.17 when we had 3150 Etexts on February 6
+This "cost" is down from $3.23 when we had 3100 Etexts on January 3
+This "cost" is down from $3.33 when we had 3000 Etexts on December 6
+This "cost" is down from $3.40 when we had 2870 Etexts on October 18/Nov 1
+This "cost" is down from $3.48 when we had 2870 Etexts on September 3
+This "cost" is down from $3.55 when we had 2820 Etexts on August 16
+This "cost" is down from $3.60 when we had 2775 Etexts on August 2
+This "cost" is down from $3.70 when we had 2650 Etexts in July
+This "cost" is down from $3.77 when we had 2650 Etexts in June
+This "cost" is down from $3.92 when we had 2550 Etexts in May
+This "cost" is down from $4.00 when we had 2500 Etexts in April
+
+Can you imagine each one of thousands of books reduced by 90 cents???
+In a period of only 11 calendar months???  When we complete the July
+2002 Etexts, we should have this "cost" down to under $3.00!!!
+
+***
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3).
+
+Presently, contributions are only being solicited from people in:
+Colorado, Connecticut, Idaho, Indiana, Iowa,
+Kentucky, Louisiana, Massachusetts, Nevada,
+Montana, Nevada, Oklahoma, South Carolina,
+South Dakota, Texas, Vermont, and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund
+raising will begin in the additional states.
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or even
+if they CAN be made deductible, and
+don't have the staff to handle it
+even if there are ways.
+
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+
+***
+
+
+"Life is an open-book test,
+and there is no time limit,
+so let's supply more books."
+
+There is no end to the great things we can accomplish
+if we don't worry about who gets the credit.  - Anon.
+
+"Only wimps use backup: _real_ men just upload their important stuff
+on FTP, and let the rest of the world mirror it ;)" - Linus Torvalds
+
+"Life is no brief candle to me.  It is a sort of splendid
+torch which I have got hold of for the moment, and I want
+to make it burn as brightly as possible before handing it
+on to future generations."            George Bernard Shaw
+
+"Everything should be made as simple as possible, but not simpler."
+(Albert Einstein)
+
+***
+
+
+Table of Contents:
+
+
+Headline News  [Headlines listed above]
+
+
+
+***
+
+Requests For Assistance
+
+Would someone like to volunteer to create an HTML version with
+the header, so we can also post a copy with illustrations???
+Samantha at Saratoga  by  Josiah Allen's Wife  (Marietta Holley)
+http://www.mindspring.com/~pstratton/
+
+***
+
+The Online Distributed Proofreading Team is always looking for new
+volunteers. All proofreading is done on-line through your web browser.
+Stop on by and give us a hand!  http://charlz.dynip.com/gutenberg
+
+***
+
+"David J. Cole" <david_j_cole@yahoo.com> has a scanner and would like
+to scan books for Project Gutenberg volunteers.  If you want to ship
+him books, that would be fine. . .he is in Massachusetts. . . .
+***
+
+
+From: Michael Lynch <lynchm@johnmarshall.edu>
+
+          I have an interest in the works of Joseph Altsheler, an
+author of adventure stories for boys whose works are all public domain.
+I am particularly interested in the Young Trailer series (as was Saul
+Bellow who refers to two od the characters, Henry Ware and Timendiquas
+in The Adventures of Augie March).  One title (Scouts of the Valley)
+is already in Gutenberg.  Several others are:
+The Young Trailers
+The Free Rangers
+Forest Runners: A Story of the Great War Trail in Early Kentucky
+The Keepers of the Trail
+The Border Watch
+
+I can't scan right now, but would be happy to proof read if anyone else can
+find and scan the texts.
+
+***
+
+
+Comments About Our New Files
+
+We are trying out our first ".lit" files. . .more below on this in
+our "Index Listings for the New Files."
+
+
+
+Index Listings for the New Files
+
+
+Our first ".lit" file.
+
+Jun 1997 Tom Swift & his Electric Runabout, by V. Appleton [05tomxxx.xxx] 950
+Just posted 05tom11l.lit and 05tom11l.zip, and working on a few more.
+
+The l stands for .lit, the new MicroSoft Open Book Format,
+which apparent is now being called Microsoft Readre Format.
+
+This is our first try at this, and we need help improving how it looks.
+We also need help getting the related .txt file into our own format.
+If you would like the related .txt file, or to help with the .lit files,
+please email me and Michael Lampi <lampi@halcyon.com>  !!!***
+
+***
+
+
+****Here are the listings for 5 Project Gutenberg Etexts for August, 2002****
+[The reason for this is that August will be taken up by two large collections]
+
+
+Aug 2002 Letters to His Son 1751, by Chesterfield   [LC#05][lc05sxxx.xxx]3355
+Aug 2002 Letters to His Son 1750, by Chesterfield   [LC#04][lc04sxxx.xxx]3354
+Aug 2002 Letters to His Son 1749, by Chesterfield   [LC#03][lc03sxxx.xxx]3353
+Aug 2002 Letters to His Son 1748, by Chesterfield   [LC#02][lc02sxxx.xxx]3352
+Aug 2002 Letters to His Son 1746-47, by Chesterfield[LC#01][lc01sxxx.xxx]3351
+[Full Name:  The Earl of Chesterfield]
+
+
+****Here are the listings for 20 Project Gutenberg Etexts for June, 2002****
+
+20
+Jun 2002 The Jerusalem Sinner Saved, by John Bunyan [JB #4][jrsnsxxx.xxx]3270
+Full Title: The Jerusalem Sinner Saved; or Good News for the Vilest Men]
+
+Jun 2002 The Autobiography of Mark Rutherford, Rutherford  [mrkrtxxx.xxx]3269
+Jun 2002 The Mysteries of Udolpho, by Ann Radcliffe        [udolfxxx.xxx]3268
+Jun 2002 Old Love Stories Retold, by Richard Le Gallienne  [hnmtlxxx.xxx]3267
+[This is currently only the chapter/story of Heinrich Heine and his Mathilda]
+Jun 2002 Miss Billy, by Eleanor H. Porter[Eleanor Porter#5][msblyxxx.xxx]3266
+Also see:
+Nov 1995 Miss Billy's Decision, by Eleanor H. Porter [EHP2][msbidxxx.xxx] 362
+Nov 1995 Miss Billy Married, by Eleanor H. Porter  [EHP#1] [msbimxxx.xxx] 361
+[Please note that some editions spell her name as "Miss Billie."]
+
+15
+Jun 2002 The Re-Creation of Brian Kent, Harold Bell Wright [trcbkxxx.xxx]3265
+Jun 2002 Dennison Grant, by Robert Stead                   [dnsngxxx.xxx]3264
+[Full Title:  Dennison Grant:  A Novel of To-day]
+Jun 2002 The Portygee, by Joseph C. Lincoln[J.C. Lincoln#7][prtgexxx.xxx]3263
+Jun 2002 The Pilgrims of Hope, by William Morris[Morris #9][plghpxxx.xxx]3262
+Contents:
+The Message of the March Wind
+The Bridge and the Street
+Sending to the War
+Mother and Son
+New Birth
+The New Proletarian
+In Prison and at Home
+The Half of Life Gone
+A New Friend
+Ready to Depart
+A Glimpse of the Coming Day
+Meeting The War-Machine
+The Story's Ending
+
+Jun 2002 News from Nowhere, by William Morris[Wm Morris #8][nwsnwxxx.xxx]3261
+10
+Jun 2002 Short History of Wales, by Owen M. Edwards        [hstwlxxx.xxx]3260
+Jun 2002 Countess Kate, by Charlotte M. Yonge [CM Yonge #8][cntktxxx.xxx]3259
+Jun 2002 A Laodicean, by Thomas Hardy    [Thomas Hardy #21][laodcxxx.xxx]3258
+[Full Title:  A Laodicean:  A Story of To-day]
+Jun 2002 New Thought Pastels, by Ella Wheeler Wilcox[EWW#3][nwthpxxx.xxx]3257
+Jun 2002 Books and Bookmen, by Ian Maclaren[IanMaclaren #1][bkbmnxxx.xxx]3256
+[Ian Maclaren is a pseudonym of the Rev. John Watson]
+5
+Jun 2002 Moments of Vision, by Thomas Hardy[ThomasHardy#20][mntvsxxx.xxx]3255
+Jun 2002 Entire PG Galsworthy Files, by Galsworthy  [GL#34][glentxxx.xxx]3254
+Jun 2002 The Entire Gutenberg Abraham Lincoln files  [AL#8][lnentxxx.xxx]3253
+CONTENTS:
+ Introduction by Theodore Roosevelt
+ Editor's Preface by Arthur Brooks Lapsley
+ Abraham Lincoln.  An Essay by Carl Shurz
+ Abraham Lincoln. Memorial Address by Joseph H. Choate
+ The Writings of Abraham Lincoln
+
+
+Jun 2002 The Entire Gutenberg Holmes, by Holmes,Sr.[OWH#10][ohentxxx.xxx]3252
+[Full Name:  Oliver Wendell Holmes, Sr.]
+CONTENTS:
+The Autocrat of the Breakfast-table
+The Professor at the Breakfast-table
+The Poet at the Breakfast Table
+Over the Teacups
+Elsie Venner
+The Guardian Angel
+A Mortal Antipathy
+Pages from an Old Volume of Life
+  Bread and the Newspaper
+  My Hunt after "The Captain"
+  The Inevitable Trial
+  Cinders from Ashes
+  The Pulpit and the Pew
+Medical Essays
+  Homeopathy and its Kindred Delusions
+  The Contagiousness of Puerperal Fever
+  Currents and Counter-currents in Medical Science
+  Border Lines of Knowledge in Some Provinces of Medical Science
+  Scholastic and Bedside Teaching
+  The Medical Profession in Massachusetts
+  The Young Practitioner
+Medical Libraries
+Some of My Early Teachers
+
+Jun 2002 Hadleyburg and Other Stories, by Mark Twain       [mthdbxxx.xxx]3251
+[Full Title: The Man that Corrupted Hadleyburg and Other Stories]
+[Please note this book as been published under both "that" and "Who" titles]
+[Full Title: The Man that Corrupted Hadleyburg and Other Stories]
+or
+[Full Title: The Man Who Corrupted Hadleyburg and Other Stories]
+CONTENTS:
+The Man that Corrupted Hadleyburg
+My First Lie, and How I Got out of it
+The Esquimaux Maiden's Romance
+Christian Science and The Book of Mrs. Eddy
+Is He Living or Is He Dead?
+My Debut as a Literary Person
+At The Appetite-cure
+Concerning The Jews
+From The 'London Times' of 1904
+About Play-acting
+Travelling with a Reformer
+Diplomatic Pay and Clothes
+Luck
+The Captain's Story
+Stirring Times in Austria
+Meisterschaft
+My Boyhood Dreams
+  To The above Old People
+In Memoriam--Olivia Susan Clemens
+
+
+Here are the 50 Project Gutenberg Etexts for May, 2002
+
+****Here are the listings for 49 Project Gutenberg Etexts for May, 2002****
+[One dictionary is still reserved at this moment]
+
+
+Mon Year    Title              Author        # by Author   [filename.ext]####
+[A "C" following the Etext #### indicated that one is still under copyright.]
+[Please note that all the "Mr. Honey's Dictionaries are still copyrighted!!!]
+[Many thanks to Herr Hoenig for letting us present them to our readers...!!!]
+
+
+50
+May 2002 How Tell a Story and Others, by Mark Twain [MT#31][mthtsxxx.xxx]3250
+[Full Title: How to Tell a Story and other Essays, 1899]
+CONTENTS:
+HOW TO TELL A STORY
+  THE WOUNDED SOLDIER
+  THE GOLDEN ARM
+MENTAL TELEGRAPHY AGAIN
+THE INVALID'S STORY
+
+May 2002 The Major, by Ralph Connor       [Ralph Connor #9][majorxxx.xxx]3249
+May 2002 The Sky Pilot, by Ralph Connor   [Ralph Connor #8][skyptxxx.xxx]3248
+[Full Title:  Sky Pilot:  A Tale of the Foothills]
+May 2002 The Patrol of the Sun Dance Trail, by Ralph Connor[tpsdtxxx.xxx]3247
+May 2002 The Foreigner, by Ralph Connor   [Ralph Connor #6][frgnrxxx.xxx]3246
+[Full Title:  The Foreigner:  A Tale of Saskatchewan]
+45
+May 2002 Black Rock, by Ralph Connor      [Ralph Connor #5][blkrkxxx.xxx]3245
+[Full Title:  Black Rock:  A Tale of the Selkirks]
+May 2002 To Him That Hath, by Ralph Connor[Ralph Connor #4][ththtxxx.xxx]3244
+[Full Title: To Him That Hath:  A Tale of the West of Today]
+May 2002 Glengarry Schooldays, by Ralph Connor[R.Connor #3][ggysdxxx.xxx]3243
+May 2002 The Doctor, by Ralph Connor      [Ralph Connor #2][tdoctxxx.xxx]3242
+[Full Title:  The Doctor; A Tale of the Rockies]
+May 2002 Corporal Cameron, by Ralph Connor[Ralph Connor #1][cplcnxxx.xxx]3241
+Full Title:
+Corporal Cameron of the North West Mounted Police/A Tale of the Macleod Trail
+40
+'May 2002 Cap'n Eri, by Joseph Crosby Lincoln[JCLincoln #6][cnerixxx.xxx]3240
+May 2002 The Puppet Crown, by Harold MacGrath              [ppptcxxx.xxx]3239
+May 2002 Poems of Cheer, by Ella Wheller Wilcox [Wilcox #2][pmchrxxx.xxx]3238
+May 2002 The Garotters, by William D. Howells [Howells [#7][garttxxx.xxx]3237
+May 2002 Mr. Bonaparte of Corsica, by John Kendrick Bangs 5[bncorxxx.xxx]3236
+35
+May 2002 First Year in Canterbury Settlement, Samuel Butler[frcanxxx.xxx]3235
+[Full Title: A First Year in Canterbury Settlement][Our 6th by Samuel Butler]
+May 2002 The Letters of the Younger Pliny, various, Vol. 1 [ltplnxxa.xxx]3234
+May 2002 The Letters of Pliny the Younger, various, Vol. 1 [ltplnxxa.xxx]3234
+[Teubner edition, Edited by Keil, Essay and Translation by John B. Firth]
+[For those unfamiliar with our filenaming:  ltpln10a.txt and ltpln10a.zip]
+Also see:
+Sep 2001 Letters of Pliny the Younger, Tr. William Melmoth [ltplnxxx.xxx]2811
+[revised by F. C. T. Bosanquet]
+May 2002 In the Heart of Africa, by Samuel White Baker [#4][ithoaxxx.xxx]3233
+Garry Gill <garrygill@hotmail.com>
+May 2002 Songs of the Ridings, by F. W. Moorman            [rdngsxxx.xxx]3232
+[This is also available in HTML as rdngs10h.htm and rdngs10.zip]
+May 2002 The Rifle and Hound in Ceylon, by Samuel Baker[#3][riflexxx.xxx]3231
+[Full:  The Rifle and the Hound in Ceylong, by Samuel White Baker]
+30
+May 2002 The Counterpane Fairy, by Katharine Pyle          [cpfryxxx.xxx]3230
+[This is available in plain text as cpfry10.*, and in HTML as cpfry10h.zip]
+
+May 2002 Helen of Troy, by Andrew Lang    [Andrew Lang #31][hlntyxxx.xxx]3229
+May 2002 Poems of Progress, by Ella W. Wilcox   [Wilcox #1][pmprgxxx.xxx]3228
+May 2002 The Defenders of Democracy by The Militia of Mercy[xdfdmxxx.xxx]3227
+[This Etext is available with French accents as 8dfdm10 & without as 7dfdm10]
+[Full:  The Gift Book Committee of The Militia of Mercy]
+
+May 2002 Albrecht Durer's Memoirs of Journeys to Venice....[admjvxxx.xxx]3226
+[Full:  Albrect Durer's Memoirs of Journeys to Venice and the Low Countries]
+
+[The Following Set of Dictionaries all have the full title: "Mr. Honey's..."]
+25
+May 2002 Mr. Honey's Work Study Dictionary English-German  [8woedxxx.xxx]3225C
+May 2002 Mr. Honey's Work Study Dictionary German-English  [8wodexxx.xxx]3224C
+May 2002 Honey's Correspondence Dictionary English-German  [8coedxxx.xxx]3223C
+May 2002 Honey's Correspondence Dictionary German-English  [8codexxx.xxx]3222C
+May 2002 Honey's Large Business Dictionary English-German  [8lgedxxx.xxx]3221C
+20
+May 2002 Honey's Large Business Dictionary German-English  [8lgdexxx.xxx]3220C
+May 2002 Mr. Honey's Tourist Dictionary English-German     [8tredxxx.xxx]3219C
+May 2002 Mr. Honey's Tourist Dictionary German-English     [8trdexxx.xxx]3218C
+May 2002 Honey's Small Business Dictionary English-German  [8smedxxx.xxx]3217C
+May 2002 Honey's Small Business Dictionary German-English  [8smdexxx.xxx]3216C
+15
+May 2002 Mr. Honey's Insurance Dictionary English-German   [8inedxxx.xxx]3215C
+May 2002 Mr. Honey's Insurance Dictionary German-English   [8indexxx.xxx]3214C
+May 2002 Mr. Honey's Beginner's Dictionary English-German  [8bgedxxx.xxx]3213C
+May 2002 Mr. Honey's Beginner's Dictionary German-English  [8bgdexxx.xxx]3212C
+May 2002 Honey's Small Banking Dictionary English-German   [8baedxxx.xxx]3211C
+10
+May 2002 Honey's Small Banking Dictionary German-English   [8badexxx.xxx]3210C
+May 2002 Honey's Medium Business Dictionary, English-German[8meedxxx.xxx]3209C
+May 2002 Honey's Medium Business Dictionary, German-English[8medexxx.xxx]3208C
+May 2002 *RESERVED*  for yet another dictionary            [     xxx.xxx]3207*
+
+[The following is the set of what is known as "The Moby Dictionaries. . . .]
+May, 2002 Moby Multiple Language Lists of Common Words     [mlangxxx.xxx]3206
+5
+May, 2002 Moby Pronunciation List                          [mpronxxx.xxx]3205
+May, 2002 Moby Hyphenation List                            [mhyphxxx.xxx]3204
+May, 2002 Moby Part of Speech List                         [mpospxxx.xxx]3203
+May, 2002 Moby Thesaurus List                              [mthesxxx.xxx]3202
+May, 2002 Moby Word Lists                                  [mwordxxx.xxx]3201
+[These Moby files have been released in .zip format only, as originally were]
+
+
+
+
+Notes from News Scan and Edupage
+
+SMARTPHONE PDA OFFERS C-PHONE, BROWSER, ORGANIZER
+Verizon Wireless is introducing a new $499 7.3-ounce device called the
+Kyocera Smartphone, which combines a cell phone with a personal digital
+assistant based on the Palm operating system. It is one of the first phones
+to include a mobile Internet browser that can access the Web either through
+the wireless carrier or through the same Internet service the device's
+owner uses on his or her desktop, and that can download full-text versions
+of texts in the HTML language. (AP/USA Today 2 Mar 2001)
+http://www.usatoday.com/life/cyber/tech/review/2001-03-02-smartphone.htm
+[I'll bet it will do plain text Etexts, too!  mh]
+
+PUBLISHERS' SPAT HIGHLIGHTS E-BOOK DEBATE
+Random House has filed suit against e-book startup RosettaBooks, accusing
+it of illegally selling electronic versions of books by Random House
+authors Kurt Vonnegut, William Styron and Robert B. Parker. RosettaBooks
+CEO Arthur Klebanoff countered that his company has contracts with the
+three authors to publish electronic versions of their works, and that
+Random House is "wrong" to think it automatically has rights to publish
+e-books just because it has the rights to the print versions. The suit goes
+to the heart of a long-simmering debate between publishers and authors over
+whether publishers have an automatic right to publish electronic versions
+of books. Authors argue that the right must be specified in a contract,
+much like foreign rights. (Wall Street Journal 28 Feb 2001)
+http://interactive.wsj.com/articles/SB983320054682172823.htm (sub req'd)
+
+VERISIGN EXPANDS DOMAIN NAMES
+VeriSign's Network Solutions Internet registrar is tripling the number of
+com, .net and .org Internet addresses available by processing
+registrations in 60 additional languages. The new languages, including
+Swedish, French, Spanish and German, cover 40 countries and will enable
+organizations to register names with the accents and local characters of
+their native languages. "One of the criticisms of the Internet over many
+years is that it is too English," says Network Solutions executive Phil
+Callan. "This is the internationalization of the Internet and provides an
+opportunity for thousands of European businesses to get local domain names
+in local languages." (Financial Times 25 Feb 2001)
+http://news.ft.com/news/industries/infotechnology
+[WARNING:  Verisign also intends to stop dealing in .net and .org domains]
+
+
+
+
+
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+> PUBLISHING INDUSTRY AIMS TO ESTABLISH WEB PRESENCE WITHOUT
+> GETTING 'BLINDSIDED'
+> Even as literary publishers have created a new niche for
+> themselves on the Internet, they have had to confront the
+> traditional problems of piracy and hackers. Publishers are
+> carefully laying the ground rules for their e-book Internet
+> operations and keeping a wary eye on the potential for piracy.
+> "We want to deal with issues like intellectual property from day
+> one, rather than try to get it back in the box after it is too
+> late," says Pat Schroeder, CEO of the American Association of
+> Publishers. Ignoring the potential market value of the Internet
+> is not an option for publishers; the new technology has motivated
+> them to develop different consumer goods based on content they
+> already own. By starting with an unblemished record, unlike the
+> music industry, literary publishers may well set the standard
+> for online consumer interaction. Digital Goods CEO Scott Griffith
+> says the publishing industry is facing the Internet and e-book
+> business with their priorities straight. "First you take care of
+> your security and you protect your intellectual property" by
+> constructing a well designed digital rights management system.
+> After that, "you can go out and really sell."
+> (Boston Globe, 11 February 2001)
+
+Translation: first you get a complete lock on the market,
+then you can go out and screw the consumer for every penny
+you can squeeze out of them.
+
+                        Martin
+
+Martin.Ward@durham.ac.uk http://www.dur.ac.uk/martin.ward/ Erdos number: 4
+G.K.Chesterton web site: http://www.dur.ac.uk/martin.ward/gkc/
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+Mac users can download our .txt files in binary mode
+to avoid the double spacing cr/lf line ends creates.
+Or download the .zip files, which unzip properly for
+nearly any operating system they are unzipped for...
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+***More Notes
+
+
+http://www.oprah.com/email/reach/email_reach_suggest.html
+
+This is the url for show suggestions. There is a form that can be filled
+online that requires only the mail and email address, phone number and
+age. Did you want to mention something in the newsletter?
+
+
+http://www.studiosusa.com/sally/dearsally.html for the Sally Jessy
+Raphael show suggestions.
+
+For Rose O'Donnell, please call:
+1-212-506-3288
+
+
+
+
+
+Please note, our entries for THIS Newsletter have mostly been indexed!
+Thanks to Alev Akman.
+
+
+
+
+
+
+
+

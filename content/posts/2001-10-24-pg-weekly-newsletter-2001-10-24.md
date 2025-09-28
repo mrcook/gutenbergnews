@@ -1,0 +1,391 @@
+---
+params:
+  id: 1857
+title: PG Weekly Newsletter (2001-10-24)
+date: 2001-10-24T19:03:32+00:00
+author: Michael Cook
+layout: post
+url: /20011024/pg-weekly-newsletter-2001-10-24/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 24 Oct 2001 12:48:51 -0400 (EDT)
+
+
+Project Gutenberg's Weekly Newsletter for Wednesday, October 24, 2001
+
+***Over 4000 Titles***
+
+*31 More Listed In This Newsletter, Plus Updated Files and PDA files*
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+If you are waiting on copyright research from me, and you don't
+get it by this weekend, please contact:
+
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+. . .as I plan to be away until after Thanksgiving.
+
+***
+
+Fourth Request!!!!
+
+Any volunteers around Salt Lake City?
+We need someone who can help out there.
+Please reply to:
+Anne Wingate &lt;gutenberg77@aol.com&gt;
+
+***
+
+
+As of 10/17/01 contributions are only being solicited from people in:
+Alabama, Arkansas, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan, Missouri,
+Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York,
+North Carolina, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island,
+South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia,
+Washington, Wisconsin, and Wyoming
+
+International donations are accepted,
+but we don't know ANYTHING about how
+to make them tax-deductible, or even
+if they CAN be made deductible, and
+don't have the staff to handle it
+even if there are ways.
+
+
+These donations should be made out to the:
+
+"Project Gutenberg Literary Archive Foundation"
+
+and sent to our mailing address:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+USA
+
+***
+
+Here Are Your 31 New Project Gutenberg eTexts For This Week:
+
+For "instant" access to our new Etexts you can surf to:
+
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+You will need the first five letters of the filenames listed below.
+
+***
+
+We have posted this file in a new format:
+Mar 2003 Robur the Conqueror, Jules Verne       [Verne #18][xrobcxxx.xxx]3808
+[The HTML version is available in robc10h.htm and robc10h.zip]
+
+We have posted a newly improved 11th editions of:
+Sep 2002 The Koran/The Q'uran, by Mohammed/Mohammad . . .  [koranxxx.xxx]3434
+Sep 2002 The Q'uran, by Muhamad/Muhammad/Mohomet    . . .  [koranxxx.xxx]3434
+[This is version 11a from a completely different edition than our Etext 2800]
+[The new files are koran11a.txt and koran11a.zip]
+Feb 2003 The Voyage of the Beagle, by Charles Darwin[CD#18][vbglexxx.xxx]3704
+[Actual Full Title:  A Naturalist's Voyage Round the World]
+[The new version is vbgle11a.txt and .zip]
+
+***
+
+We have posted LOTS of Tom Swift files in PRC format
+(for viewing on a hand-held ebook reader)
+.prc = Palm ResourCe:
+
+Aug 2000 Tom Swift And His Motor-Boat, by Victor Appleton  [02tomxxx.xxx]2273
+[the ebook version is in 02tom10p.prc and 02tom10p.zip]
+Feb 2003 Tom Swift & His Electric Rifle, by Victor Appleton[10tomxxx.xxx]3777
+[The PRC version is in 10tom10p.prc and 10tom10p.zip]
+Feb 2003 Tom Swift in the Caves of Ice, by Victor Appleton [08tomxxx.xxx]3734
+[The PRC version is in 08tom10p.prc and 08tom10p.zip]
+Jan 2002 Tom Swift and His Airship, by Victor Appleton     [03tomxxx.xxx]3005
+[The PRC version is in 03tom10p.prc and 03tom10p.zip]
+Jun 1998 Tom Swift Among The Fire Fighters, Victor Appleton[24tomxxx.xxx]1363
+[The PRC version is in 24tom10p.prc and 24tom10p.zip]
+Jun 1998 Tom Swift And His Undersea Search, Victor Appleton[23tomxxx.xxx]1362
+[The PRC version is in 23tom10p.prc and 23tom10p.zip]
+Jun 1998 Tom Swift And His Giant Cannon, by Victor Appleton[16tomxxx.xxx]1361
+[The PRC version is in 16tom10p.prc and 16tom10p.zip]
+Apr 1998 Tom Swift and His Air Scout, by Victor Appleton   [22tomxxx.xxx]1284
+[The PRC version is in 22tom10p.prc and 22tom10p.zip]
+Apr 1998 Tom Swift and His Wizard Camera by Victor Appleton[14tomxxx.xxx]1283
+[The PRC version is in 14tom10p.prc and 14tom10p.zip]
+Apr 1998 Tom Swift Among the Diamond Makers, by V. Appleton[07tomxxx.xxx]1282
+[The PRC version is in 07tom10p.prc and 07tom10p.zip]
+Apr 1998 Tom Swift & His Aerial Warship, by Victor Appleton[18tomxxx.xxx]1281
+[The PRC version is in 18tom10p.prc and 18tom10p.zip]
+Jun 1997 Tom Swift & his War Tank, by Victor Appleton      [21tomxxx.xxx] 954
+[The PRC version is in 21tom10p.prc and 21tom10p.zip]
+Jun 1997 Tom Swift & his Air Glider, by Victor Appleton    [12tomxxx.xxx] 952
+[The PRC version is in 12tom10p.prc and 12tom10p.zip]
+Jun 1997 Tom Swift & his Sky Racer, by Victor Appleton     [09tomxxx.xxx] 951
+[The PRC version is in 09tom10p.prc and 09tom10p.zip]
+Jun 1997 Tom Swift & his Electric Runabout, by V. Appleton [05tomxxx.xxx] 950
+[The PRC version is in 05tom10p.prc and 05tom10p.zip]
+Jun 1997 Tom Swift & his Submarine Boat, by Victor Appleton[04tomxxx.xxx] 949
+[The PRC version is in 04tom10p.prc and 04tom10p.zip
+Apr 1996 Tom Swift / Land of Wonders, by Victor Appleton   [tom20xxx.xxx] 499
+[The PRC version is in tom2010p.prc and tom2010p.zip]
+
+[We may have to change this one to 20tom*.*]
+
+
+And Here Are Your 31 New Project Gutenberg Etexts:
+
+Jun 2003 Diary of Samuel Pepys, 1660 N.S. Complete  [SP#10][sp10gxxx.xxx]4125
+Jun 2003 Diary of Samuel Pepys, Oct/Nov/Dec 1660    [SP#09][sp09gxxx.xxx]4124
+Jun 2003 Diary of Samuel Pepys, Aug/Sep 1660        [SP#08][sp08gxxx.xxx]4123
+Jun 2003 Diary of Samuel Pepys, Jun/Jul 1660        [SP#07][sp07gxxx.xxx]4122
+Jun 2003 Diary of Samuel Pepys, May 1660            [SP#06][sp06gxxx.xxx]4121
+20
+Jun 2003 Diary of Samuel Pepys, Mar/Apr 1659/60     [SP#05][sp05gxxx.xxx]4120
+Jun 2003 Diary of Samuel Pepys, Feb 1659/60         [SP#04][sp04gxxx.xxx]4119
+Jun 2003 Diary of Samuel Pepys, Jan 1659/60         [SP#03][sp03gxxx.xxx]4118
+Jun 2003 Diary of Samuel Pepys, Preface and Life    [SP#02][sp02gxxx.xxx]4117
+
+
+[The above are Jun 2003 = 4100's listings, those below are May 2003 - 4000's]
+
+
+May 2003 The Future of the Colored Race in America, Aikman [tfcraxxx.xxx]4055
+[Author's Full Name:  William Aikman]
+[Filenames are tfcra10.txt and tfcra10.zip and tfcra10x.xml and tfcra10x.zip]
+May 2003 Gold Diggings of Australia, by Ellen Clacy        [lvtgdxxx.xxx]4054
+[Full title: A Lady's Visit to the Gold Diggings of Australia in 1852-53]
+[Full Author: Mrs Charles (Ellen) Clacy]
+May 2003 Nuttie's Father, Charlotte M. Yonge    [Yonge #14][xnuttxxx.xxx]4053
+[8-bit accents are included in 8nutt10.*, plain characters are in 7nutt10.*]
+May 2003 Address to the Inhabitants, by Richard Johnson    [nswnixxx.xxx]4052
+May 2003 Lady Bridget in the Never-Never Land by Rosa Praed[lbnnlxxx.xxx]4051
+
+May 2003 Mates at Billabong, by Mary Grant Bruce           [mtsbbxxx.xxx]4050
+May 2003 Piccolissima, by Eliza Lee Follen      [Follen #9][pcclsxxx.xxx]4049
+May 2003 The Talkative Wig, by Eliza Lee Follen     [ELF#8][tktvwxxx.xxx]4048
+May 2003 The Leavenworth Case, by Anna Katherine Green [#6][lvnwrxxx.xxx]4047
+May 2003 The Garden of Survival, by Algernon Blackwood     [grdnsxxx.xxx]4046
+
+May 2003 Omoo, by Herman Melville              [Melville#5][omoosxxx.xxx]4045
+[Full Title: Omoo: Adventures in the South Seas]
+May 2003 What the Animals Do and Say, by E.L.Follen [ELF#7][wtnmlxxx.xxx]4044
+May 2003 The Dynasts, by Thomas Hardy            [Hardy#24][dynstxxx.xxx]4043
+May 2003 Mozart:The Man and the Artist, by Kerst & Krehbiel[wammaxxx.xxx]4042
+[Full Title: Mozart: The Man and the Artist, as revealed in his own words]
+[Author: Friedrich Kerst, translated by Henry Edward Krehbiel]
+May 2003 Conscience, by Eliza Lee Follen         [Follen#6][cnscnxxx.xxx]4041
+
+May 2003 The Pedler of Dust Sticks, by Eliza Lee Follen[#5][pdlrdxxx.xxx]4040
+May 2003 Volpone; Or, The Fox, Ben Jonson       [Jonson #5][vlpnrxxx.xxx]4039
+May 2003 Imagionary Portraits, Walter Horatio Pater    [#6][ximagxxx.xxx]4038
+[unaccented version in 7imag10.txt and 7imag10.zip, accented versions in ]
+[ 8imag10.txt and 8imag10.zip]
+May 2003 Appreciations, With An Essay on Style, Pater  [#5][xawaexxx.xxx]4037
+[Author's full name:  Walter Horatio Pater]
+[unaccented version in 7awae10.txt and 7awae10.zip, accented versions in ]
+[ 8awae10.txt and 8awae10.zip]
+May 2003 Essays From 'The Guardian', Walter Pater      [#4][xessgxxx.xxx]4036
+[Author's full name:  Walter Horatio Pater]
+[unaccented version in 7essg10.txt and 7essg10.zip, accented versions in ]
+[ 8essg10.txt and 8essg10.zip]
+
+May 2003 Greek Studies:A Series of Essays,Walter Pater [#3][xgsasxxx.xxx]4035
+May 2003 The Untilled Field, George Moore                  [tullfxxx.xxx]4034
+
+***
+
+We created 31 new eTexts for you this week.
+
+With 4038 eTexts online as of October 24, it now takes an average of
+100,000,000 readers gaining a nominal value of $2.48 from each book,
+for Project Gutenberg to have alreacy given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+***100,000,000 readers is only 1.6% of the world's population!***
+
+***
+
+[Possible new factoid...not sure if the ratios/figures make sense;
+maybe too mathematical or too much confusing dimensional analysis:]
+
+How much shelf space would all of Project Gutenberg's e-texts occupy
+if they were physical books? There are about 2,260,000,000 bytes worth
+of ASCI texts online. Assuming that each page contains 2,000 bytes,
+and 100,000 pages would be 1 meter thick, and the front and back
+covers of a book total about 1/2 a centimeter in thickness, calculate:
+
+(4,020 books) x (0.005 meters total cover thickness per book) x
+(1 meter thickness per 100,000 pages) x (2,260,000,000 bytes / 2000 bytes
+per page) = 227.13 meters of shelf space.
+
+
+We currently have 58 *reserved* slots, which is why the total number
+of titles is not as high as the Etext ####'s might indicate. . .and
+we are also working on two sections now, the 4000's and the 4100's
+
+Our Total For The Year Is About 993 For 296 days,
+this is 3.35 per day or 101 Per 30 day month. . . .
+This Would Yield About 1225 For The Year. . . .
+We are about 43 weeks through the year. . . .
+counting each Wednesday as ending one week.
+
+
+Weekly Yearly
+Newsdate Etexts Avg/wk
+
+10/24/01 31 23.09
+10/17/01 31 22.90
+10/10/01 22 22.70
+10/03/01 29 22.74
+October total 113
+
+09/26/01 27 22.59
+09/19/01 31 22.47
+09/12/01 31 22.3
+09/05/01 27 22.2
+September total 116
+
+
+08/29/01 25 22
+08/22/01 21 22
+08/15/01 30 22
+08/08/01 20 22
+08/01/01 22 22
+August total 117
+
+07/25/01 24 22
+07/18/01 22 22
+07/11/01 21 23
+07/04/01 29 23
+July Total 96
+
+06/27/01 22 23
+06/20/01 18 23
+06/13/01 17 23
+06/06/01 20 23
+June Total 77
+
+05/31/01 18 24
+05/23/01 16 24
+05/16/01 18 24
+05/09/01 18 25
+05/02/01 39 25
+May Total 109
+
+04/25/01 15 24
+04/18/01 11 25
+04/11/01 12 26
+Weekly Started Here
+April total 137
+
+1st Qtr 04/04/01 Avg
+13 Weeks 326 25.08
+And for the 13 Weeks
+Ending on 07/25/01
+We totaled 282 21.69
+And for the 16 Weeks
+Ending on 07/25/01
+We totaled 326 20.38
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+[insert edupage articles here]
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month. But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_10_24.txt" target="_blank" rel="nofollow">pgweekly_2001_10_24.txt</a>

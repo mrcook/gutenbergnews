@@ -1,0 +1,681 @@
+---
+params:
+  id: 1877
+title: PG Monthly Newsletter (2002-06-05)
+date: 2002-06-05T20:04:23+00:00
+author: Michael Cook
+layout: post
+url: /20020605/pg-monthly-newsletter-2002-06-05/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Wed Jun 05 11:47:35 2002
+Date: Wed, 05 Jun 2002 12:58:54 -0400 (EDT)
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: Project Gutenberg Monthly Newsletter &lt;gmonthly@listserv.unc.edu&gt;
+Subject: [gmonthly] Project Gutenberg Monthly Newsletter
+X-Message-Id: &lt;Pine.GSO.4.44.0206051258110.1113-100000@beryl&gt;
+List-Owner: &lt;mailto:owner-gmonthly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gmonthly@listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+
+
+PGMonthly_June_05_2002.txt
+
+***The Project Gutenberg Monthly Newsletter For Wednesday, June 5, 2002***
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+        1,000 New eBooks IN THE FIRST 5 MONTHS OF 2002!!!
+
+        It took us more than 26 years for the first 1,000
+
+            That's 22 WEEKS as Compared to 26 YEARS!!!
+
+Our 1,000th eBook was:
+
+Aug 1997 La Divina Commedia di Dante in Italian, 7-bit text[0ddcdxxx.xxx]1000
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 156th Day of 2002
+209 Days/30 Weeks Left Until 2003
+
+Ending our 22nd Week Of The Year
+
+
+The 8th Week Of Our SECOND 5,000 eBooks
+
+20-30 Months From Today, Perhaps Our 10,000th eBook!
+
+However, things have slowed down a lot since we hit 5,000,
+so please let me know if there is anything we can do to
+help you get going with some new books.  Thanks!  Michael
+
+
+1,779   New eBooks In The Last Year
+3,531   eBooks This Month Last Year
+5,310   Tree-Friendly Titles Now Online
+
+   41   New This Week [22nd week]
+   46   Weekly Average This Year
+  160   New This Month [5th month]
+        This includes the 7 "found" Shakespeare files
+        At 1,000, We Have Averaged 200 Per Month in 2002
+ 1010   New This Year!!! [31st year]
+        [Our eBook Counters Range from:
+        975 [Me] to 1005+10=1015 [George] to 1018 [Brett's Program]
+        So obviously we will be tidying up the accounting, more below]
+   119  New This Month Last Year
+
+   71   eBooks From Project Gutenberg of Australia
+   40   Only 40 Numbers On Our Reserved Numbers list
+
+***
+
+Request for Assistance:
+
+Perhaps a statistician would be willing to help with our counting    ;-)
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+Spanish eBooks. . .we have several opportunities to expand our Spanish
+eBook collection, please let us know if you can find us any mor help!
+
+I have a couple of copies of these tales in Spanish, but I lack the time
+and courage to do the scanning. If you have a volunteer near Buenos Aires,
+in Argentina, we could arrange somehow to get it scanned.
+Gaston H. Picard &lt;ghpicard@fibertel.com.ar&gt;
+
+***
+
+Try The Newest PG Mirror Site
+
+Location:  Houston, Texas, USA
+URL: http://www.spishak.com/pg
+HTTP only, no FTP
+
+***
+
+In this issue of the Project Gutenberg Monthly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Monthly etext update:
+  1 new eBook from PG of Australia
+  Updates/corrections
+  158 new U.S. eBooks [including 7 "found" Shakespears]
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+RESERVED count:   40
+
+***
+
+*Here Are The New Files We Have Done In The Past Month*
+
+
+LAST MONTH -- TOTAL COUNT **as of Wed 05./01/02**:  5,150 (incl. 71 Aus.)
+
+Plus 159 this month.
+
+TOTAL COUNT **as of Mon 06/05/02 6:30am PDT**:  5,309
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new Etext number.
+
+Please note the following changes, corrections and improvements:
+
+We have revised the entries for the following files to reflect corrected
+author and number information, when we fixed the previous errors, we got
+the numbers wrong, sorry.
+
+Jan 2004 Maj. Roger Sherman Potter, by F. Colburn Adams[#5][shrptxxx.xxx]4959
+[Full Title: The Life and Adventures of Maj. Roger Sherman Potter][FCA#5]
+[Written under the pseudonym "Pheleg van Trusedale"]
+[Author's Full Name:  Francis Colburn Adams]
+Jan 2004 Justice in the By-Ways, by F. Colburn Adams[FCA#4][jstcbxxx.xxx]4958
+[Author's Full Name:  Francis Colburn Adams]
+Nov 2003 Manuel Pereira, by Francis Colburn Adams   [FCA#3][mnlprxxx.xxx]4680
+Nov 2003 Our World, by Francis Colburn Adams        [FCA#2][owtsdxxx.xxx]4677
+[Full title: Our World, or, The Slaveholders Daughter]
+Nov 2003 Siege of Washington, D.C., F. Colburn Adams[FCA#1][sgedcxxx.xxx]4668
+[Author's Full Name:  Francis Colburn Adams]
+
+
+The following listing has been corrected, author's name changed from
+"Sir Richard R. Burton" to "Sir Richard F. Burton"; the etexts have
+also been corrected:
+Nov 2000 Vikram And The Vampire, Sir Richard F. Burton [#1][vikrvxxx.xxx]2400
+
+We have posted new formats of the following etext:
+Apr 2001 Grimms' Fairy Tales, by the Grimm Brothers        [grimmxxx.xxx]2591
+[A PDF format is posted as grimm10.pdf, a Post Script format as grimm10.ps]
+
+The following etext is now available in text, HTML, .pdb, TeX,
+PostScript and PDF formats:
+Jan 1991 Alice in Wonderland, Lewis Carroll [Carroll #1]   [alicexxx.xxx]  11
+
+The following etext is now available in text, PDF, PostScript
+and TeX formats:
+Nov 1998 Hamlet, by William Shakespeare                    [2ws26xxx.xxx]1524
+
+
+We have posted the following etexts in HTML format:
+Jan 2004 L'Escalier d'Or, by Edmond Jaloux                 [?ledoxxx.xxx]4933
+We have posted the following etexts in HTML format:
+Apr 2001 The Ancient Regime, by Hippolyte A. Taine    OCFV1[01ocfxxx.xxx]2577
+Oct 2003 Poil De Carotte, By Jules Renard                  [?plcrxxx.xxx]4559
+
+Feb 1997 Gulliver's Travels, by Jonathan Swift [Swift #2]  [gltrvxxx.xxx] 829
+[HTML gltrv10h..htm/.zip]
+(Also:  minor update to text, no change to edition number.)
+
+Oct 2003 Cinq Semaines En Ballon, By Jules Verne[Verne #20][?cinqxxx.xxx]4548
+[HTML in 8cinq10h.htm/.zip]
+
+Feb 2003 The Student's Elements of Geology, Charles Lyell  [geogyxxx.xxx]3772
+[HTML in geogy10h.htm/.zip]
+(Note:  the HTML edition is in .zip format only, includes many image
+(files; this is an 8.6MB download.)
+
+
+We have posted an improved 11th edition of the following, also
+posted in HTML format:
+
+Jun 1993 Civil Disobedience, Henry David Thoreau[thoreau#1][civilxxx.xxx]  71
+[Full title: On the Duty of Civil Disobedience]
+
+Jul 1996 Catriona (Kidnapped2) by Robt L. Stevenson[RLS#25][ctrnaxxx.xxx] 589
+[Plain text version in ctrna11.txt/.zip, HTML in ctrna11h.htm/.zip]
+
+
+We have posted the following etext in LaTeX format:
+Apr 2001 Grimms' Fairy Tales, by the Grimm Brothers        [grimmxxx.xxx]2591
+[LaTeX version in grimm10t.tex/.zip]
+
+We have posted the following etext in MP3 audio format (voice
+readings); and we have also posted an improved 11th edition,
+as indicated:
+Jul 1992 The Time Machine, H.G. Wells   [Herbert George #1][timemxxx.xxx]  35
+[timem11s.zip is the text divided into sub-parts]
+[MP3 audio format available in timem?3.mp3 where ? is a-m; all 13
+[parts are in timemam3.zip]
+
+We have posted an improved 11th edition of the following:
+Sep 2001 Eben Holden, by Irving Bacheller                  [bnhldxxx.xxx]2799
+Feb 2000 The Blithedale Romance, by Nathaniel Hawthorne[#7][blthdxxx.xxx]2081
+May 1998 The Virginian, Horseman Of The Plains, Owen Wister[vrgnnxxx.xxx]1298
+Jan 1996 The Crossing by Winston Churchill[US Churchill #1][tcrosxxx.xxx] 388
+
+
+
+***] RESERVED LIST UPDATE [***
+
+Recently, a major cleanup and reconciliation of the etext directories has
+resulted in several Shakespeare etexts being "found", which had previously
+been listed as "Reserved", and not counted in the overall etext total.
+Here is the list of those seven Shakespeare etexts:
+
+Jun 1999 Macbeth, by William Shakespeare                   [1ws3411x.xxx]1795
+Jun 1999 Othello, by William Shakespeare                   [1ws3211x.xxx]1793
+Jun 1999 Measure for Measure, by William Shakespeare       [1ws3111x.xxx]1792
+Jun 1999 A Midsummer Night's Dream, by Shakespeare         [1ws1711x.xxx]1778
+Jun 1999 Romeo and Juliet, by Shakespeare                  [1ws1611x.xxx]1777
+Jun 1999 Sir John Oldcastle, Shakespeare Apocrypha         [1ws0911x.xxx]1771
+Jun 1999 Henry the Sixth, Part One, Shakespeare            [1ws0111x.xxx]1765
+
+As this process continues, we will announce any additional changes and
+corrections.
+
+
+***] 1 NEW ETEXT FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+May 2002 The Eternal Lover, by Edgar Rice Burroughs [EB#07][020037xx.xxx]0071A
+[http://gutenberg.net.au/0200371.txt or .ZIP]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 159 NEW U.S. POSTS [***
+
+Apr 2004 Serapis,               by Ebers, Complete  [GE#68][ge68vxxx.xxx]5507
+[Author: Georg Ebers] [Contains eBooks #5501-5506]
+Apr 2004 Serapis,               by Georg Ebers, v6  [GE#67][ge67vxxx.xxx]5506
+
+Apr 2004 Serapis,               by Georg Ebers, v5  [GE#66][ge66vxxx.xxx]5505
+Apr 2004 Serapis,               by Georg Ebers, v4  [GE#65][ge65vxxx.xxx]5504
+Apr 2004 Serapis,               by Georg Ebers, v3  [GE#64][ge64vxxx.xxx]5503
+Apr 2004 Serapis,               by Georg Ebers, v2  [GE#63][ge63vxxx.xxx]5502
+Apr 2004 Serapis,               by Georg Ebers, v1  [GE#62][ge62vxxx.xxx]5501
+
+#5500 is *reserved*
+
+Apr 2004 Homo Sum,              by Ebers, Complete  [GE#61][ge61vxxx.xxx]5499
+[Author: Georg Ebers] [Contains eBooks #5494-5498]
+Apr 2004 Homo Sum,              by Georg Ebers, v5  [GE#60][ge60vxxx.xxx]5498
+Apr 2004 Homo Sum,              by Georg Ebers, v4  [GE#59][ge59vxxx.xxx]5497
+Apr 2004 Homo Sum,              by Georg Ebers, v3  [GE#58][ge58vxxx.xxx]5496
+
+Apr 2004 Homo Sum,              by Georg Ebers, v2  [GE#57][ge57vxxx.xxx]5495
+Apr 2004 Homo Sum,              by Georg Ebers, v1  [GE#56][ge56vxxx.xxx]5494
+Apr 2004 The Emperor,     by Georg Ebers, Complete  [GE#55][ge55vxxx.xxx]5493
+[Contains eBooks #5483-5492]
+Apr 2004 The Emperor,           by Georg Ebers, v10 [GE#54][ge54vxxx.xxx]5492
+Apr 2004 The Emperor,           by Georg Ebers, v9  [GE#53][ge53vxxx.xxx]5491
+
+Apr 2004 The Emperor,           by Georg Ebers, v8  [GE#52][ge52vxxx.xxx]5490
+Apr 2004 The Emperor,           by Georg Ebers, v7  [GE#51][ge51vxxx.xxx]5489
+Apr 2004 The Emperor,           by Georg Ebers, v6  [GE#50][ge50vxxx.xxx]5488
+Apr 2004 The Emperor,           by Georg Ebers, v5  [GE#49][ge49vxxx.xxx]5487
+Apr 2004 The Emperor,           by Georg Ebers, v4  [GE#48][ge48vxxx.xxx]5486
+
+Apr 2004 The Emperor,           by Georg Ebers, v3  [GE#47][ge47vxxx.xxx]5485
+Apr 2004 The Emperor,           by Georg Ebers, v2  [GE#46][ge46vxxx.xxx]5484
+Apr 2004 The Emperor,           by Georg Ebers, v1  [GE#45][ge45vxxx.xxx]5483
+Apr 2004 Cleopatra,             by Ebers, Complete  [GE#44][ge44vxxx.xxx]5482
+[Author: Georg Ebers] [Contains eBooks #5473-5481]
+Apr 2004 Cleopatra,             by Georg Ebers, v9  [GE#43][ge43vxxx.xxx]5481
+
+Apr 2004 Cleopatra,             by Georg Ebers, v8  [GE#42][ge42vxxx.xxx]5480
+Apr 2004 Cleopatra,             by Georg Ebers, v7  [GE#41][ge41vxxx.xxx]5479
+Apr 2004 Cleopatra,             by Georg Ebers, v6  [GE#40][ge40vxxx.xxx]5478
+Apr 2004 Cleopatra,             by Georg Ebers, v5  [GE#39][ge39vxxx.xxx]5477
+Apr 2004 Cleopatra,             by Georg Ebers, v4  [GE#38][ge38vxxx.xxx]5476
+
+Apr 2004 Cleopatra,             by Georg Ebers, v3  [GE#37][ge37vxxx.xxx]5475
+Apr 2004 Cleopatra,             by Georg Ebers, v2  [GE#36][ge36vxxx.xxx]5474
+Apr 2004 Cleopatra,             by Georg Ebers, v1  [GE#35][ge35vxxx.xxx]5473
+Apr 2004 Joshua,                by Ebers, Complete  [GE#34][ge34vxxx.xxx]5472
+[Author: Georg Ebers] [Contains eBooks #5467-5471]
+Apr 2004 Joshua,                by Georg Ebers, v5  [GE#33][ge33vxxx.xxx]5471
+
+Apr 2004 Joshua,                by Georg Ebers, v4  [GE#32][ge32vxxx.xxx]5470
+Apr 2004 Joshua,                by Georg Ebers, v3  [GE#31][ge31vxxx.xxx]5469
+Apr 2004 Joshua,                by Georg Ebers, v2  [GE#30][ge30vxxx.xxx]5468
+Apr 2004 Joshua,                by Georg Ebers, v1  [GE#29][ge29vxxx.xxx]5467
+Apr 2004 The Sisters,           by Ebers, Complete  [GE#28][ge28vxxx.xxx]5466
+[Author: Georg Ebers] [Contains eBooks #5461-5465]
+
+Apr 2004 The Sisters,           by Georg Ebers, v5  [GE#27][ge27vxxx.xxx]5465
+Apr 2004 The Sisters,           by Georg Ebers, v4  [GE#26][ge26vxxx.xxx]5464
+Apr 2004 The Sisters,           by Georg Ebers, v3  [GE#25][ge25vxxx.xxx]5463
+Apr 2004 The Sisters,           by Georg Ebers, v2  [GE#24][ge24vxxx.xxx]5462
+Apr 2004 The Sisters,           by Georg Ebers, v1  [GE#23][ge23vxxx.xxx]5461
+
+Apr 2004 An Egyptian Princess,  by Ebers, Complete  [GE#22][ge22vxxx.xxx]5460
+[Author: Georg Ebers] [Contains eBooks #5450-5459]
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v10 [GE#21][ge21vxxx.xxx]5459
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v9  [GE#20][ge20vxxx.xxx]5458
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v8  [GE#19][ge19vxxx.xxx]5457
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v7  [GE#18][ge18vxxx.xxx]5456
+
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v6  [GE#17][ge17vxxx.xxx]5455
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v5  [GE#16][ge16vxxx.xxx]5454
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v4  [GE#15][ge15vxxx.xxx]5453
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v3  [GE#14][ge14vxxx.xxx]5452
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v2  [GE#13][ge13vxxx.xxx]5451
+
+Apr 2004 An Egyptian Princess,  by Georg Ebers, v1  [GE#12][ge12vxxx.xxx]5450
+
+
+Mar 2004 The Parish Register, by George Crabbe    [Crabbe#4][gcrdxxx.xxx]5208
+Mar 2004 The Guns of Shiloh, by Joseph A. Altsheler [JAA#4][tgnshxxx.xxx]5207
+Mar 2004 Fires and Firemen, Anon.                    [EM#1][firemxxx.xxx]5206
+[Subtitle: From the Eclectic Magazine of Foreign Literature, Science and Art
+  Vol XXXV No. 1, May 1855]
+
+Mar 2004 Speeches of the Honorable Jefferson Davis, 1858   [sphjdxxx.xxx]5205
+[Full title: Speeches of the Hon. Jefferson Davis, of Mississippi,
+  Delivered During the Summer of 1858]
+[Plain text version in sphjd10.txt/.zip, HTML in sphjd10h.htm/.zip]
+Mar 2004 The Inns and Taverns of "Pickwick", by B.W. Matz  [nspwkxxx.xxx]5204
+Mar 2004 The Village and The Newspaper, by George Crabbe[#3][gcrcxxx.xxx]5203
+Mar 2004 The Golden Lion of Granpere, by Trollope      [#35][gldlxxx.xxx]5202
+[Plain text version in gldlxxxx.txt/.zip, HTML in gldlxxhx.htm/.zip]
+Mar 2004 Don Juan Tenorio, by Jose Zorrilla                [8djtnxxx.xxx]5201C
+[Translated by N. K. Mayberry & A. S. Kline]
+
+
+Feb 2004 Metamorphosis, Franz Kafka, trans. by David Wyllie[metamxxx.xxx]5200C
+[Plain text version in metam10.txt/.zip, RTF in metam10r.rtf/.zip]
+[HTML in metam10h.htm/.zip]
+Feb 2004 South, by Sir Ernest Shackleton                   [southxxx.xxx]5199
+[Subtitle: The Story of Shackleton's Last Expedition 1914-1917]
+
+Feb 2004 The Library, George Crabbe                     [#2][gcrbxxx.xxx]5198
+[Plain text version in gcrbxxxx.txt/.zip, HTML in gcrbxxhx.htm/.zip]
+Feb 004  My Life, Volume I, by Richard Wagner              [wglf1xxx.xxx]5197
+Feb 2004 Their Mariposa Legend, by Charlotte Herr          [maripxxx.xxx]5196
+[Subtitle: A Romance of Santa Catalina]
+
+Feb 2004 Cape Cod Stories, by Joseph C. Lincoln[Lincoln#11][cacodxxx.xxx]5195
+[Note: Also published under the title "The Old Home House"]
+Feb 2004 The Ivory Trail, by Talbot Mundy         [Mundy#3][ivtraxxx.xxx]5194
+Feb 2004 The Double Widowing, R. Dufresny, Morlock tr. [#3][douwixxx.xxx]5193C
+[Author's full name: Riviere Dufresny, translated by Frank Morlock]
+20
+Feb 2004 On a Dynamical Top, by James Clerk Maxwell [JCM#2][dytopxxx.xxx]5192
+[Full title: On a Dynamical Top, for exhibiting the phenomena of the
+  motion of a system of invariable form about a fixed point, with some
+  suggestions as to the Earth's motion]
+(Note:  There is no plain text, due to the large number of equations
+  that do not display correctly in plain text.  Files are in PDF,
+  TeX and HTML; they're all zipped, because each includes multiple
+  files:)
+[PDF in dytop10p.zip; TeX in dytop10t.zip; HTML in  dytop10h.zip]
+Feb 2004 The Case of Summerfield, by William Henry Rhodes  [casumxxx.xxx]5191
+(Also note:  We are working to make more eBooks with mathematics and
+  special symbols available, and appreciate any feedback you might have.)
+
+Feb 2004 Brandenburg Concerto No. 5 in D Major, BWV 1050[2][jbbb5xxx.xxx]5190
+[Author's Full Name: Johann Sebastian Bach]
+[Musical score in Finale MUS format, zip file only in jbbb510.zip]
+Feb 2004 String Quartet C minor, Op. 51 no. 1, J. Brahms[1][jb511xxx.xxx]5189
+[Author's Full Name: Johannes Brahms]
+[Musical score in Finale MUS format, zip file only in jb51110.zip]
+Feb 2004 String Quarted in C Major, Op. 71 no. 1, Haydn[#2][fh741xxx.xxx]5188
+[Author's Full Name: Franz Josef Haydn]
+[Musical score in Finale MUS format, see README.TXT for instructions;]
+[Zip file only in fh74110.zip]
+15
+Feb 2004 Miss Minerva and William Green Hill,by F.B.Calhoun[mmwghxxx.xxx]5187
+[Full author: Frances Boyd Calhoun]
+
+Feb 2004 The Kalevala (complete), John Crawford, trans.    [kalecxxx.xxx]5186
+Feb 2004 The Kalevala book 2, John Martin Crawford, trans. [kale2xxx.xxx]5185
+Feb 2004 The Kalevala book 1, John Martin Crawford, trans. [kale1xxx.xxx]5184
+[Subtitle: The Epic Poem of Finland]
+
+Feb 2004 Unexpurgated Case Against Woman Suffrage, Wright  [wsuffxxx.xxx]5183
+[Full title: The Unexpurgated Case Against Woman Suffrage]
+[Author's Full Name: Almroth E. Wright]
+Feb 2004 The Old English Baron, by Clara Reeve             [oebarxxx.xxx]5182
+Feb 2004 Inebriety and the Candidate, George Crabbe     [#1][gcraxxx.xxx]5181
+[Plain text version in gcraxxxx.txt/.zip, HTML in gcraxxhx.htm/.zip]
+
+Feb 2004 Children's Internet Protection Act (CIPA) Ruling  [ciparxxx.xxx]5180
+[Author:  United States District Court for the Eastern District
+[of Pennsylvania]
+[Authors AKA: Judges Becker, Fullam and Bartle]
+[Subtitle: Dated May 31, 2002]
+[Plain text in cipar10.txt/.zip, RTF in cipar10r.rtf/.zip]
+(Note: This is an important ruling for Project Gutenberg, in that is
+  removes the necessity for US libraries to run filtering software
+  as had been ordered by the CIPA legislation.  PG doesn't usually
+  distribute legislation and rulings, but in this case it seemed
+  worthwhile.  At 195 pages, the ruling is an extensive and informed
+  look at Internet use and censorship.)
+
+Feb 2004 A Siren, by Thomas Adolphus Trollope              [sirenxxx.xxx]5179
+(Note:  This is the brother to Anthony Trollope, who authored 34 books
+  in the PG collection.)
+Feb 2004 Le Mariage Force, by Moliere          [Moliere #6][?marfxxx.xxx]5178
+[Author AKA Jean-Baptiste Poquelin]  [Language: French]
+[7-bit plain text in 7marf10.txt/.zip, 8-bit accented in 8marf10.txt/.zip]
+Feb 2004 Birds and Poets, by John Burroughs   [Burroughs#3][?bpoexxx.xxx]5177
+[Subtitle: With Other Papers]
+[7-bit version with non-accented characters in 7bpoe10.txt/.zip]
+[8-bit version with accented characters in 8bpoe10.txt/.zip]
+Feb 2004 Corpus of a Siam Mosquito, Steven Sills           [siammxxx.xxx]5176C
+[Plain text version in siamm10.txt/.zip, HTML in siamm10h.htm/.zip]
+
+Feb 2004 Pearl-Maiden, by H. Rider Haggard     [Haggard#37][prlmaxxx.xxx]5175
+[Subtitle: A Tale of the Fall of Jerusalem]
+Feb 2004 Allan and the Holy Flower, H. Rider Haggard  [#36][allhfxxx.xxx]5174
+Feb 2004 The Religion of the Samurai, by Kaiten Nukariya   [samurxxx.xxx]5173
+[Subtitle: A Study of Zen Philosophy and Discipline in China and Japan]
+Feb 2004 Aladdin O'Brien, by Gouverneur Morris             [lddnbxxx.xxx]5172
+Feb 2004 Thomas Hariot, by Henry Stevens                   [tharixxx.xxx]5171
+[Subtitle: The Mathematician, the Philosopher and the Scholar]
+
+Feb 2004 Poems of Experience, by Ella Wheeler Wilcox   [#7][pexpxxxx.xxx]5170
+[Plain text version in pexpxxxx.txt/.zip, HTML in pexpxxh.htm and .zip]
+Feb 2004 Hardscrabble, by John Richardson    [Richardson#8][hrdscxxx.xxx]5169
+Feb 2004 The Land Of Heart's Desire, by W. B. Yeats    [#2][lnhtdxxx.xxx]5168
+Feb 2004 The Countess Cathleen, by William Butler Yeats[#1][cntscxxx.xxx]5167
+Feb 2004 The Poetaster, by Ben Jonson            [Jonson#8][ptstrxxx.xxx]5166
+
+Feb 2004 Innocent, by Marie Corelli            [Corelli#10][nncntxxx.xxx]5165
+Feb 2004 The Beetle, by Richard Marsh                      [thbtlxxx.xxx]5164
+Feb 2004 Guy Garrick, by Arthur B. Reeve         [Reeve#10][gygrrxxx.xxx]5163
+Feb 2004 Agatha Webb, by Anna Katherine Green     [Green#9][gthwbxxx.xxx]5162
+[Author AKA: Mrs. Charles Rohlfs]
+Feb 2004 The Treasure, by Selma Lagerlof                   [thtrsxxx.xxx]5161
+
+Feb 2004 The Mabinogion (trans. Lady Charlotte Guest)      [mbngxxxx.xxx]5160
+[Plain text version in mbngxxxx.txt/.zip, HTML in mbngxxh.htm and .zip]
+Feb 2004 Celtic Literature, by Matthew Arnold    [Arnold#2][celtxxxx.xxx]5159
+[Plain text version in celtxxxx.txt/.zip, HTML in celtxxhx.htm/.zip]
+Feb 2004 Le Lutrin, by Boileau                              [?lutrxx.xxx]5158
+[Author AKA: Nicolas Boileau-Despr_aux]
+[7-bit version with non-accented characters in 7lutr10.txt/.zip]
+[8-bit version with accented characters in 8lutr10.txt/.zip]
+Feb 2004 How I Found Livingstone, by Sir Henry M. Stanley  [hiflixxx.xxx]5157
+[Subtitle: Travels, Adventures and Discoveries in Central Africa including
+[four months residence with Dr. Livingstone.  Abridged.]
+Feb 2004 Beechcroft at Rockstone, by C. Yonge    [Yonge#29][brockxxx.xxx]5156
+[Author's Full Name: Charlotte M. Yonge]
+[Plain text version in brock10.txt/.zip, HTML in brock10h.htm/.zip]
+
+Feb 2004 Caesar's Column, by Ignatius Donnelly [Donnelly#2][?ccolxxx.xxx]5155
+[7-bit version with non-accented characters in 7ccol10.txt and 7ccol10.zip]
+[8-bit version with accented characters in 8ccol10.txt and 8ccol10.zip]
+[HTML in 8ccol10h.htm/.zip]
+Feb 2004 La b_te humaine, by Emile Zola            [Zola#6][?bhumxxx.xxx]5154
+[Language: French][#17 in the "Les Rougon-Macquart" series]
+[7-bit version with non-accented characters in 7bhum10.txt/.zip]
+[8-bit version with accented characters in 8bhum10.txt/.zip]
+Feb 2004 Rung Ho!, by Talbot Mundy                [Mundy#2][runghxxx.xxx]5153
+Feb 2004 One Thousand Questions in California Agriculture  [calagxxx.xxx]5152
+[Full Title: One Thousand Questions in California Agriculture Answered]
+[Author: E.J. Wickson]
+Feb 2004 The Exploits of Elaine, Arthur B. Reeve  [Reeve#9][eelaixxx.xxx]5151
+
+Feb 2004 The Ear in the Wall, by Arthur B. Reeve  [Reeve#8][earwaxxx.xxx]5150
+Feb 2004 The Gold of the Gods, by Arthur B. Reeve [Reeve#7][goldgxxx.xxx]5149
+Feb 2004 Rodney Stone, by Arthur Conan Doyle     [Doyle#31][rdstxxxx.xxx]5148
+[Plain text version in rdst10.txt/.zip, HTML in rdst10h.htm/.zip]
+Feb 2004 Le Jardin d'Epicure, by Anatole France  [France#8][?jrdcxxx.xxx]5147
+Feb 2004 The Fighting Governor, by Charles W. Colby  [Ca#7][cca07xxx.xxx]5146
+[This is #7 in our series Chronicles of Canada, edited by George M. Wrong
+[and H. H. Langton, #2 by Charles W. Colby]
+[Subtitle: A Chronicle of Frontenac]
+
+Feb 2004 The Heart Of The Hills, by John Fox, Jr    [JFJ#8][hrthlxxx.xxx]5145
+Feb 2004 My Life, Volume II, by Richard Wagner   [Wagner#2][wglf2xxx.xxx]5144
+Feb 2004 The Auction Block, by Rex Beach          [Beach#5][ctnbkxxx.xxx]5143
+Feb 2004 Graustark, by George Barr McCutcheon[McCutcheon#2][grstkxxx.xxx]5142
+Feb 2004 What Katy Did At School, by Susan Coolidge  [SC#2][ktyscxxx.xxx]5141
+
+Feb 2004 He Knew He Was Right, by Anthony Trollope  [AT#34][hknrtxxx.xxx]5140
+Feb 2004 Tales by Carl Ewald, Translated by Dawid Wiskott  [8cewaxxx.xxx]5139C
+[In Hebrew.  In Unicode as 8cewa10.txt/zip and RTF at 8cewa10r.rtf/zip]
+Feb 2004 Le Monde comme il va, vision de Babouc,Voltaire 12[?baboxxx.xxx]5138
+[Author AKA: Jean-Marie Arouet] [Language: French]
+Feb 2004 Fair Em, Shakespeare Apocrypha             [ws#54][fairmxxx.xxx]5137
+Feb 2004 Around the World on a Bicycle V1,Thomas Stevens[1][awbv1xxx.xxx]5136
+[Subtitle: From San Francisco to Teheran]
+
+Feb 2004 The Fortune of the Rougons, by Emile Zola [Zola#5][frougxxx.xxx]5135
+Feb 2004 Discoveries and Some Poems, by Ben Jonson[Jonson#7][dscvxxx.xxx]5134
+[Plain text version in dscv10.txt/.zip, HTML in dscv10h.htm/.zip]
+Feb 2004 Quotations From John L. Motley, by D. Widger [#19][dwqjmxxx.xxx]5133
+[Quotations from the PG History of the Netherlands of John Lotrop Motley]
+Feb 2004 Letters to Sir William Windham and Mr. Pope    [#1][ltwwxxx.xxx]5132
+[Author's Full Name:  Lord Bolingbroke]
+Feb 2004 Childe Harold's Pilgrimage, Lord Byron    [Byron#1][chplxxx.xxx]5131
+
+Feb 2004 Don Juan, ou le Festin de pierre, by Moliere  [#5][?djuaxxx.xxx]5130
+[Author AKA Jean-Baptiste Poquelin]
+[7-bit version with non-accented characters in 7djuaxxx.txt and .zip]
+[8-bit version with accented characters in 8djuaxxx.txt and .zip]
+Feb 2004 The Prodigal Judge, by Vaughan Kester             [projuxxx.xxx]5129
+Feb 2004 The Young Carthaginian, by G.A. Henty    [Henty#9][yocarxxx.xxx]5128
+[Subtitle: A Story of the Times of Hannibal]
+Feb 2004 Shakespeare, Bacon and the Great Unknown,Lang [#36][sbunxxx.xxx]5127
+[Author's Full Name: Andrew Lang]
+[Plain text version in sbunxxxx.txt/.zip, HTML in sbunxxh.htm and .zip]
+Feb 2004 Robur-le-Conquerant, Jules Verne       [Verne #27][?robuxxx.xxx]5126
+[Language: French]
+[7-bit version with non-accented characters in 7xxxxxxx.txt and .zip]
+[8-bit version with accented characters in 8xxxxxxx.txt and .zip]
+[HTML version in xxxxxxh.htm and .zip]
+
+Feb 2004 Last Poems, by Laurence Hope                      [lpoemxxx.xxx]5125
+[Author AKA: Adela Florence Cory "Violet" Nicolson]
+[Subtitle: Translations from the Book of Indian Love]
+Feb 2004 Henrietta's Wish, by Charlotte M. Yonge [Yonge#28][hwishxxx.xxx]5124
+Feb 2004 The Context in America, John Stuart Mill          [conamxxx.xxx]5123
+[Plain text version in conamxxx.txt/.zip, HTML in conamxxh.htm/.zip]
+Feb 2004 The Trail of the Lonesome Pine, by John Fox,Jr[#7][lnspnxxx.xxx]5122
+Feb 2004 Dark Hollow, by Anna Katherine Green     [Green#8][drkhlxxx.xxx]5121
+
+Feb 2004 Vandrad the Viking, by J. Storer Clouston         [vndrdxxx.xxx]5120
+Feb 2004 The Lion and the Mouse, by Charles Klein          [lnmsexxx.xxx]5119
+Feb 2004 The American Senator, by Anthony Trollope  [AT#33][mrcsnxxx.xxx]5118
+
+
+***
+
+     Total PG ebooks available online **AS OF 06/05/02**:  5,310
+(This number includes the 71 etexts posted at the PG Australia web site)
+
+In the first 22 weeks of the new year, we have produced over 1,000 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 1,000 eBooks!!!
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+year for 2001, so the 9th was the end of the first production week.
+
+With 5,309 eTexts online as of June 5, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.88 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.83 when we had 3531 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.95 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+</pre>
+
+<a href="/nl_archives/2002/pgmonthly_2002_06_05.txt" target="_blank" rel="nofollow">pgmonthly_2002_06_05.txt</a>

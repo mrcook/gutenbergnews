@@ -1,0 +1,1317 @@
+---
+params:
+  id: 1945
+title: "PG Monthly Newsletter: Part 1 (2003-08-06)"
+date: 2003-08-06T18:42:06+00:00
+author: Michael Cook
+layout: post
+url: /20030806/pg-monthly-newsletter-2003-08-06-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter 6th August 2003 Part 1
+eBooks Readable By Both Humans and Computers For Since 1971
+
+In this issue of the Project Gutenberg Monthly newsletter:
+
+1) Monthly eBook update:
+   Updates/corrections
+   New U.S. eBooks
+   New books From PG Australia
+2) Mailing list information
+
+----------------------------------------------------------------------
+
+1) Monthly eBook update
+
+REMINDER: GUTINDEX Has Moved to Five Digits!
+
+As we have recently posted our first eBook with a five digit eBook number
+(#10701), we have made an adjustment to the GUTINDEXes to accomodate this
+change. Basically, the alignment of eBook numbers less than 10,000 have
+been moved one space to the right.  This change is also reflected in the
+eBook listings below.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+        or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Month ]            =
+=============================================================================
+
+TOTAL COUNT as of today, 06 Aug 2003:   8,961 (incl. 262 Aus.).
+
+Last month the Total Count was 8,411, including 242 at PG of Australia.
+This month we added 550 new (incl. 20 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7- & 8- bit versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct author's name (Samuel,
+not Saumuel):
+Feb 2000 Journey Scotland's Western Isles, Samuel Johnson  [jwsctxxx.xxx] 2064
+
+The following is being re-indexed to include translator info:
+Oct 1996 The Kreutzer Sonata, et al, by Leo Tolstoy/Tolstoi[krsonxxx.xxx]  689
+[Tr.: Benjamin R. Tucker]
+
+The following is being re-indexed to correct the authors name
+(F. F. Rockwell, not F. P. Rockwell)
+Dec 2004 Home Vegetable Gardening, by F. F. Rockwell       [?hmvgxxx.xxx] 7123
+
+The following is also being re-indexed to correct the author's name
+("Kirke", not "Kirk"):
+Dec 2004 Poetical Works, by Henry Kirke White               [?pwhwxxx.xxx]7149
+[Full title: The Poetical Works of Henry Kirke White With a Memoir by
+  Sir Harris Nicolas]
+
+The following is being re-indexed to correct the title (from "XIV and XV"
+to "XIV and XVI"):
+Feb 2005 Images from Hausset's Louis XV and XVI, by Widger [dw45wxxh.xxx] 7561
+
+
+The following are being re-indexed to correct the filename (to reflect the
+supplement number):
+Jun 2005 Scientific American Sup. No. 288, by Various      [?0288xxx.xxx] 8391
+[Full title: Scientific American Supplement, No. 288, July 9, 1881]
+Jun 2005 Scientific American Sup. No. 286, by Various      [?0286xxx.xxx] 8297
+[Full Title: Scientific American, Supplement 286, June 25, 1881]
+Jun 2005 Scientific American Sup. No. 303, by Various      [?0303xxx.xxx] 8296
+[Full title: Scientific American Supplement, No. 303, October 22, 1881]
+May 2005 Scientific American Supplement 275, by Various    [?0275xxx.xxx] 8195
+[Full title: Scientific American Supplement, No. 275, April 9, 1881]
+[HTML version in 8027510h.htm and illustrated HTML in 8027510h.zip]
+
+
+The following are being re-indexed to correct the filename (?rns, not ?rsn):
+May 2005 Reize naar Surinamen, by John Gabriël Stedman [#4][?rns4xxx.xxx] 8099
+[Full title: Reize naar Surinamen en door de binnenste gedeelten van Guiana]
+[Language: Dutch]
+May 2005 Reize naar Surinamen, by John Gabriel Stedman [#3][?rns3xxx.xxx] 8098
+[Full title: Reize naar Surinamen, en door de binnenste gedeelten van Guiana]
+[Language: Dutch]
+
+
+The following have been re-posted in new formats as indicated:
+Jul 2005 Normandy, by Gordon Home                          [?normxxx.xxx] 8505
+[Illustrated HTML zip only in 8norm10h.zip][6 mb]
+[Smaller individual files available in #8593, 8594 and 8595]
+Jan 2005 Monsieur Bergeret a Paris, by Anatole France      [mnsrbxxx.xxx] 7268
+[Subtitle: Histoire Contemporaine][Author AKA: Jacques Anatole Thibault]
+[Language: French]
+[HTML in  mnsrb10h.htm/.zip]
+Dec 2004 Sur la pierre blanche, by Anatole France          [srlprxxx.xxx] 7173
+[HTML in srlpr10h.zip and srlpr10h.htm]    [Language: French]
+Nov 2004 Mosaics of Grecian History, by Willson & Willson  [?mgrhxxx.xxx] 6841
+[Full author: Marcius Willson and Robert Pierpont Willson]
+[HTML version in 8mgrh10h.htm and illustrated HTML in 8mgrh10h.zip]
+Apr 2002 Roughing It, by Mark Twain                 [MT#29][mtritxxx.xxx] 3177
+[Illustrated HTML zip only in mtrit11h.zip][21 mb]
+[Also available in eight smaller individual files: #8582-8589 in etext 05]
+Nov 1998 As You Like It, by William Shakespeare            [2ws25xxx.xxx] 1523
+[HTML in 2ws2510h.htm and 2ws2510h.zip]
+
+
+We have posted the following in two new formats, TomeRaider Desktop in
+shaks12.tr and TomeRaider/Palm in shaks12.pdb:
+Jan 1994 The Complete Works of William Shakespeare [LOF]   [shaksxxx.xxx]  100C
+[Note: shaks12.tr and shaks12.pdb both in shaks12.zip only]
+
+
+We have posted a much corrected and updated 12th edition, and also an
+illustrated html version:
+Apr 1995 Life on the Mississippi, by Mark Twain     [MT#10][lmissxxx.xxx]  245
+[Plain text in lmiss12.txt/.zip; Illustrated HTML zip only in lmiss12h.zip]
+[Illustrated HTML file size: 30 mb]
+
+
+The following have been re-posted in an updated 12th Edition:
+Dec 2003 Russian Roulette, by Sam Vaknin         [Vaknin#6][rroulxxx.xxx] 4779C
+[Subtitle: Russia's Economy in Putin's Era]
+[Also posted:  RTF in rroul12r.zip - zip only]
+Dec 2003 Pecheur d'Islande, by Pierre Loti                 [?pchsxxx.xxx] 4785
+[Plain text in ?pchs12.txt/.zip; HTML version in 8pchs12h.htm/.zip]
+[Language: French]
+
+
+We have posted an updated 11th edition of:
+Jun 2004 The BYU Solar Cooker/Cooler, by Steven E. Jones   [cookrxxx.xxx] 5889
+(Note:  The .zip file contains 11 images as well as the text file.)
+
+
+=-=-=-=[ 530 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Aug 2005 Robert Elsmere, by Mrs. Humphry Ward          [#2][?relsxxx.xxx] 8737
+Aug 2005 Gaspar Ruiz, by Joseph Conrad                [#29][?ruizxxx.xxx] 8736
+
+Aug 2005 The Revolutions of Time, by Jonathan Dunn         [rvtimxxx.xxx] 8735
+[Also posted HTML - rvtim10h.zip and rvtim10h.htm]
+Aug 2005 East of Paris, by Matilda Betham-Edwards          [?eparxxx.xxx] 8734
+
+
+Aug 2005 Through the Fray, by G. A. Henty                  [tfrayxxx.xxx] 8732
+[Also posted HTML - tfray10h.zip and tfray10h.htm]
+Aug 2005 Five Sermons, by H.B. Whipple                     [5sermxxx.xxx] 8731
+
+Aug 2005 A Little Bush Maid, by Mary Grant Bruce       [#3][?maidxxx.xxx] 8730
+
+
+Aug 2005 The Dancing Mouse, by Robert M. Yerkes            [?mousxxx.xxx] 8729
+Aug 2005 The Winning of Canada, by William Wood[#4][cca#11][cca11xxx.xxx] 8728
+[Full title: The Winning of Canada: A Chronicle of Wolf]
+[This is #11 in our series Chronicles of Canada,
+[edited by George M. Wrong and H. H. Langton]
+Aug 2005 The Last Galley, by Arthur Conan Doyle            [?gallxxx.xxx] 8727
+[Full title: The Last Galley Impressions and Tales]
+
+Aug 2005 Three Cities Trilogy: Rome, Complete, Zola   [#28][rome6xxx.xxx] 8726
+Aug 2005 Three Cities: Rome, Vol. 5, by Emile Zola    [#27][rome5xxx.xxx] 8725
+Aug 2005 Three Cities: Rome, Vol. 4, by Emile Zola    [#26][rome4xxx.xxx] 8724
+Aug 2005 Three Cities: Rome, Vol. 3, by Emile Zola    [#25][rome3xxx.xxx] 8723
+Aug 2005 Three Cities: Rome, Vol. 2, by Emile Zola    [#24][rome2xxx.xxx] 8722
+Aug 2005 Three Cities: Rome, Vol. 1, by Emile Zola    [#23][rome1xxx.xxx] 8721
+[Full title: The Three Cities Trilogy: Rome]
+
+Aug 2005 Tales & Novels, Vol. 2, by Maria Edgeworth    [#6][?tal2xxx.xxx] 8720
+Aug 2005 Monsieur Lecoq, Vol.2, by Emile Gaboriau          [?lcq2xxx.xxx] 8719
+[Subtitle: L'honneur du nom] [Language: French]
+Aug 2005 Scientific American Sup. No. 401, by Various      [?0401xxx.xxx] 8718
+[Full title: Scientific American Supplement, No. 401, September 8, 1883]
+[Also posted HTML - 8040110h.zip and 8040110h.htm]
+Aug 2005 Scientific American Sup. No. 344, by Various      [?0344xxx.xxx] 8717
+[Full title: Scientific American Supplement, No. 344, August 5, 1882]
+[Also posted HTML - 8034410h.zip and 8034410h.htm]
+Aug 2005 The Strong Arm, by Robert Barr                    [?stamxxx.xxx] 8716
+
+Aug 2005 Gallantry, by James Branch Cabell             [#2][?gtryxxx.xxx] 8715
+Aug 2005 Suppliant Maidens and Other Plays,by AEschylus[#2][?aespxxx.xxx] 8714
+Aug 2005 A Man of Means, by P. G. Wodehouse           [#31][mnmnsxxx.xxx] 8713
+Aug 2005 La Conquete De Plassans, by Emile Zola            [?cplzxxx.xxx] 8712
+[7-bit version with non-accented characters in 7cplz10.txt and 7cplz10.zip]
+[8-bit version with accented characters in 8cplz10.txt and 8cplz10.zip]
+[Language: French]
+Aug 2005 The Living Link, by James De Mille            [#3][lvlnkxxx.xxx] 8711
+
+Aug 2005 The Bible Gallery, by Gustave Dore,  Complete[#52][dor10xxx.xxx] 8710
+[Illustrated HTML zip only in dor1010h.zip][20 mb]
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  9 [#51][dor09xxx.xxx] 8709
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  8 [#50][dor08xxx.xxx] 8708
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  7 [#49][dor07xxx.xxx] 8707
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  6 [#48][dor06xxx.xxx] 8706
+[Illustrated HTML zip only in dor0?10h.zip][Avg. file size: 3mb]
+
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  5 [#47][dor05xxx.xxx] 8705
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  4 [#46][dor04xxx.xxx] 8704
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  3 [#45][dor03xxx.xxx] 8703
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  2 [#44][dor02xxx.xxx] 8702
+Aug 2005 The Bible Gallery, by Gustave Dore,  Vol.  1 [#43][dor01xxx.xxx] 8701
+[Illustrated HTML zip only in dor0?10h.zip][Avg. file size: 3mb]
+
+Aug 2005 The Evolution of Man, by Ernst Haeckel      [EH#3][evlmnxxx.xxx] 8700
+[Illustrated HTML zip only in evlmn10h.zip; note filesize 10mb]
+(See also: #6430 and #6710)
+Aug 2005 Woman And Her Savior In Persia, by Unknown        [wmprsxxx.xxx] 8699
+[Author Note: "A Returned Missionary"]
+Aug 2005 O Livro de Cesario Verde, by Cesario Verde        [?olcvxxx.xxx] 8698
+[Language: Portuguese]
+Aug 2005 Guns And Snowshoes, by Captain Ralph Bonehill     [gnsssxxx.xxx] 8697
+[Subtitle: Or, The Winter Outing of the Young Hunters]
+Aug 2005 The Jew And Other Stories, by Ivan Turgenev       [?tjewxxx.xxx] 8696
+[Tr.: Constance Garnett]
+[Also posted:  HTML with accented characters in 8tjew10h.htm/.zip]
+
+Aug 2005 Works of Beattie, Blair, Falconer, ed. Gilfillan  [?pbbfxxx.xxx] 8695
+[Full title: The Poetical Works of Beattie, Blair, and Falconer]
+[Subtitle: With Lives, Critical Dissertations, and Explanatory Notes]
+[Ed.: Rev. George Gilfillan]
+[Also posted HTML - 8pbbf10h.zip and 8pbbf10h.htm]
+Aug 2005 The Abbot's Ghost, by A. M. Barnard               [?abghxxx.xxx] 8694
+[Full Title: The Abbot's Ghost, Or Maurice Treherne's Temptation]
+[Subtitle: A Christmas Story] [Author AKA: Louisa May Alcott]
+Aug 2005 Le Capitaine Arena:  Volume 2, by Alexandre Dumas [?cpt2xxx.xxx] 8693
+[Author AKA: Alexandre Dumas, Pere] [Language: French]
+Aug 2005 Le Capitaine Arena:  Volume 1, by Alexandre Dumas [?cpt1xxx.xxx] 8692
+[Author AKA: Alexandre Dumas, Pere] [Language: French]
+Aug 2005 The American Judiciary, by Simeon E. Baldwin, LLD [?amjdxxx.xxx] 8691
+
+Aug 2005 American Institutions, by Alexis de Tocqueville   [?aminxxx.xxx] 8690
+[Full title: American Institutions And Their Influence]
+Aug 2005 The Eleven Comedies:  Volume 2, Aristophanes      [?rst2xxx.xxx] 8689
+[Author: Athenian Society Edition]
+Aug 2005 Scientific American Sup. No. 362, by Various      [?0362xxx.xxx] 8687
+[Full title: Scientific American Supplement, No. 362, December 9, 1882]
+[Also posted: illustrated HTML in 8036210h.zip only; HTML in 8036210h.htm]
+Aug 2005 The Eleven Comedies:  Volume 1, Aristophanes      [?rst1xxx.xxx] 8688
+[Author: Athenian Society Edition]
+Aug 2005 The Delicious Vice, by Young E. Allison           [?tdvcxxx.xxx] 8686
+
+Aug 2005 Memoirs of Henry Hunt, Esq. Vol. 1, by Henry Hunt [?hnt1xxx.xxx] 8685
+Aug 2005 The Conquest of America, by Cleveland Moffett     [?conqxxx.xxx] 8684
+Aug 2005 The Columbiad, by Joel Barlow                     [?clmbxxx.xxx] 8683
+[Also posted HTML - 8clmb10h.zip and 8clmb10h.htm]
+Aug 2005 The Naturalist on the Thames, by C. J. Cornish    [?thmsxxx.xxx] 8682
+[Also posted illustrated HTML only- 8thms10h.zip; and 8thms10h.htm]
+Aug 2005 The Face And The Mask, by Robert Barr             [?fmskxxx.xxx] 8681
+
+Aug 2005 The Story Of Kennett, by Bayard Taylor            [?sknnxxx.xxx] 8680
+Aug 2005 By England's Aid, by G. A. Henty                  [?bengxxx.xxx] 8679
+[Subtitle: Or, the Freeing of the Netherlands, 1585-1604]
+Aug 2005 The English Governess At The Siamese Court        [?egrlxxx.xxx] 8678
+[Author's Full Name: Anna Harriette Leonowens]
+[Subtitle: Being Recollections of Six Years in the Royal Palace at Bangkok]
+Aug 2005 Behind A Mask, Or A Woman's Power,byA. M. Barnard [?bhmkxxx.xxx] 8677
+[Author AKA: Louisa May Alcott]
+Aug 2005 The Heavenly Twins, by Madame Sarah Grand         [?htwnxxx.xxx] 8676
+
+Aug 2005 Welsh Fairy-Tales, by Edited by P. H. Emerson     [?wftlxxx.xxx] 8675
+[Full title: Welsh Fairy-Tales And Other Stories]
+Aug 2005 Charles O'Malley, Vol. 2, by Charles Lever    [#3][?mly2xxx.xxx] 8674
+[Etchings and Drawings by Phiz]
+[Also posted: HTML in 8mly210h.htm, illustrated HTML in 8mly210h.zip]
+Aug 2005 A Columbus of Space, by Garrett P. Serviss    [#3][?spcexxx.xxx] 8673
+Aug 2005 Poems Chiefly From Manuscript, by John Clare      [?pmclxxx.xxx] 8672
+Aug 2005 The Pagans, by Arlo Bates                         [?pagnxxx.xxx] 8671
+
+Aug 2005 In The Heart Of The Rockies, by G. A. Henty       [?htrkxxx.xxx] 8670
+Aug 2005 Hanna, by J. L. Runeberg                          [?hanaxxx.xxx] 8669
+[Language: Finnish]
+Aug 2005 Revenge!, by Robert Barr                          [?revnxxx.xxx] 8668
+Aug 2005 Cetywayo and his White Neighbours, by Haggard[#48][cetwyxxx.xxx] 8667
+[Full author: H. Rider Haggard]
+Aug 2005 Security in Your Old Age, by Social Security Board[?soscxxx.xxx] 8666
+[Full title: Security in Your Old Age (Informational Service Circular No. 9)]
+[Also posted HTML - 8sosc10h.zip and 8sosc10h.htm]
+
+Aug 2005 A Strange Discovery, by Charles Romyn Dake        [?sdscxxx.xxx] 8665
+
+Aug 2005 The Glory Of The Conquered, by Susan Glaspell     [glcnqxxx.xxx] 8664
+[Subtitle: The Story of a Great Love]
+Aug 2005 Tales of Two Countries, by Alexander Kielland     [?totcxxx.xxx] 8663
+Aug 2005 Camp Fire Girls at Sunrise Hill, by M. Vandercook [cfgshxxx.xxx] 8662
+[Full title: The Camp Fire Girls at Sunrise Hill]
+[Full author: Margaret Vandercook]
+Aug 2005 An Algonquin Maiden, by G. Mercer Adam            [amaidxxx.xxx] 8661
+
+Aug 2005 Woman and the New Race, by Margaret Sanger    [#2][?wmnrxxx.xxx] 8660
+Aug 2005 Sabbath in Puritan New England, Alice Morse Earle [?sabbxxx.xxx] 8659
+[Also posted HTML - 8sabb10h.zip and 8sabb10h.htm]
+
+Aug 2005 The Thousand Nights And One Night, Vol 4, by Anon [41001xx?.xxx] 8658
+[Full Title: The Book Of The Thousand Nights And One Night, Volume IV]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Note: Plain text in 41001107a.txt/.zip; 8-bit version in 41001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 3, by Anon [31001xx?.xxx] 8657
+[Full Title: The Book Of The Thousand Nights And One Night, Volume III]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 31001107a.txt/.zip; 8-bit version in 31001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 2, by Anon [21001xx?.xxx] 8656
+[Full Title: The Book Of The Thousand Nights And One Night, Volume II]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 21001107a.txt/.zip; 8-bit in 21001108a.txt/.zip)
+Aug 2005 The Thousand Nights And One Night, Vol 1, by Anon [11001xx?.xxx] 8655
+[Full Title: The Book Of The Thousand Nights And One Night, Volume I]
+[Subtitle: Now First Completely Done into English Prose and Verse, from the
+  Original Arabic, in Nine Volumes]
+[Full Author: Anonymous] [Tr.: John Payne]
+(Plain text in 11001107a.txt/.zip; 8-bit version in 11001108a.txt/.zip)
+(Note: see also #'s 3435-3450; the above four files are new versions, note
+  the complete filenames with each listing.)
+
+Aug 2005 The Fallen Star, by E. L. Bulwer                  [flnstxxx.xxx] 8654
+[Subtitle: or, The History of a False Religion and a Dissertation on the
+  Origin of Evil] [Author AKA: Lord Brougham]
+[HTML version in flnst10h.htm and flnst10h.zip]
+Aug 2005 East O' the Sun, by Gudrun Thorne-Thomsen         [eandwxxx.xxx] 8653
+[Full title: East O' the Sun and West O' the Moon]
+[With Other Norwegian Folk Tales Illustrated by Frederick Richardson]
+[Also posted illustrated HTML, zip only - eandw10h.zip, and eandw10h.htm]
+Aug 2005 Crowded Out! and Other Sketches, Susie F. Harrison[?crotxxx.xxx] 8652
+Aug 2005 With Moore At Corunna, by G. A. Henty             [?crnnxxx.xxx] 8651
+[Also posted: HTML with accented characters in 8crnn10h.htm/.zip]
+[HTML zip file includes four images.]
+
+Aug 2005 Monsieur Lecoq, vol.I, L'enquete by E. Gaboriau   [?mlcqxxx.xxx] 8650
+Aug 2005 Indian Tales, by Rudyard Kipling                  [?indtxxx.xxx] 8649
+[HTML version with accented characters in 8indt10h.htm/.zip]
+Aug 2005 War Poetry of the South, by Various               [?wrpmxxx.xxx] 8648
+[Also posted HTML - 8wrpm10h.zip and 8wrpm10h.htm]
+Aug 2005 Afloat And Ashore, by James Fenimore Cooper       [?afasxxx.xxx] 8647
+[Subtitle: A Sea Tale]
+Aug 2005 History of Civil Society, by Adam Ferguson, L.L.D [?hcivxxx.xxx] 8646
+[Full title: An Essay on the History of Civil Society, Eighth Edition]
+
+Aug 2005 Prue and I, by George William Curtis          [#5][?pruexxx.xxx] 8645
+Aug 2005 The Story of Ab, by Stanley Waterloo              [?stabxxx.xxx] 8644
+[Also posted: HTML in 8stab10h.htm, illustrated HTML in 8stab10h.zip]
+Aug 2005 Punch, 1917.07.04, Vol. 153, Issue No. 1, Various[?p153axxx.xxx] 8643
+[Also posted in illustrated HTML - 8p153a10h.zip only]
+Aug 2005 Woman in the Ninteenth Century, Margaret F. Ossoli[womanxxx.xxx] 8642
+[Subtitle: and Kindred Papers Relating to the Sphere, Condition and
+  Duties, of Woman]
+[Full author: Margaret Fuller Ossoli]
+[Ed. by her brother, Arthur B. Fuller; introduction by Horace Greeley]
+[Also posted HTML - woman10h.zip and woman10h.htm]
+Aug 2005 Concord and Appledore,by Frank Preston Stearns[#3][conapxxx.xxx] 8641
+[Full title: Sketches from Concord and Appledore]
+
+Aug 2005 The Mirror, 1828.07.05, Issue No. 321, by Various [?m321xxx.xxx] 8640
+[Also posted HTML - 8m32110h.zip and 8m32110h.htm]
+Aug 2005 Poems, 1799, by Robert Southey                    [?spm2xxx.xxx] 8639
+[Also posted HTML - 8spm210h.zip and 8spm210h.htm]
+Aug 2005 Jack in the Forecastle, by John Sherburne Sleeper [jforexxx.xxx] 8638
+[Subtitle: or, Incidents in the Early Life of Hawser Martingale]
+Aug 2005 Audio: Through the Magic Door, Arthur Conan Doyle [ttmgdxxx.mp3] 8637C
+[Computer-generated audio performance]
+Aug 2005 Audio: Songs of Action, Arthur Conan Doyle        [sgactxxx.mp3] 8636C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Hound of the Baskervilles, AC Doyle    [bskrvxxx.mp3] 8635C
+[Computer-generated audio performance]
+Aug 2005 Audio: His Last Bow, Arthur Conan Doyle           [lstbwxxx.mp3] 8634C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adv. of The Devil's Foot, AC Doyle     [dvlftxxx.mp3] 8633C
+[Computer-generated audio performance]
+Aug 2005 Audio: Disappearance of Lady Frances Carfax, ACD  [lcrfxxxx.mp3] 8632C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Dying Detective, ACD  [dydetxxx.mp3] 8631C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Adv. of The Bruce-Partington Plans, ACD[bplanxxx.mp3] 8630C
+[Computer-generated audio performance]
+Aug 2005 Audio: Sir Nigel, Arthur Conan Doyle              [nigelxxx.mp3] 8629C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Red Circle, AC Doyle  [rcrclxxx.mp3] 8628C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of The Cardboard Box, Doyle  [crdbdxxx.mp3] 8627C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventure of Wisteria Lodge, AC Doyle  [wstraxxx.mp3] 8626C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Sign of the Four, Arthur Conan Doyle   [sign4xxx.mp3] 8625C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Adventures of Sherlock Holmes, AC Doyle[advshxxx.mp3] 8624C
+[Computer-generated audio performance]
+Aug 2005 Audio: Adventures of Gerard, Arthur Conan Doyle   [agrrdxxx.mp3] 8623C
+[Computer-generated audio performance]
+Aug 2005 Audio: The New Revelation, Arthur Conan Doyle     [nrvlnxxx.mp3] 8622C
+[Computer-generated audio performance]
+Aug 2005 Audio: Tales of Terror & Mystery, Arthur C. Doyle [totamxxx.mp3] 8621C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: The Vital Message, Arthur Conan Doyle      [vtmsgxxx.mp3] 8620C
+[Computer-generated audio performance]
+Aug 2005 Audio: Round The Red Lamp, Arthur Conan Doyle     [rrlmpxxx.mp3] 8619C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Parasite, Arthur Conan Doyle           [prsitxxx.mp3] 8618C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Captain of the Polestar, AC Doyle      [polstxxx.mp3] 8617C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Stark Munro Letters, Arthur Conan Doyle[strkmxxx.mp3] 8616C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: A Study In Scarlet, Arthur Conan Doyle     [studyxxx.mp3] 8615C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Lost World, Arthur Conan Doyle         [lostwxxx.mp3] 8614C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Poison Belt, Arthur Conan Doyle        [poisnxxx.mp3] 8613C
+[Computer-generated audio performance]
+Aug 2005 Audio: Through Space to Mars, by Roy Rockwood     [spmrsxxx.mp3] 8612C
+[Computer-generated audio performance]
+Aug 2005 Audio: The Prince and the Pauper, by Mark Twain   [prpprxxx.mp3] 8611C
+[Computer-generated audio performance]
+
+Aug 2005 Audio: Howard Pyle's Book of Pirates, Howard Pyle [hpprtxx3.mp3] 8610C
+[Computer-generated audio performance]
+Aug 2005 Audio: A Midsummer Night's Dream, Wm. Shakespeare [2ws17xx3.mp3] 8609C
+[Computer-generated audio performance]
+Aug 2005 Audio: Great Expectations, Charles Dickens        [grexpxx3.mp3] 8608C
+[Computer-generated audio performance]
+Aug 2005 In The Forest, by Catherine Parr Traill           [ldmrnxxa.xxx] 8607
+[Subtitle: Or, Pictures of Life and Scenery in the Woods of Canada; a Tale
+  by Mrs. Traill] [Note: 19 Illustrations in zip file only.]
+[Author AKA: Mrs. Traill] (See also:  #6479)
+Aug 2005 The Blue Bird, by Maurice Maeterlinck         [#5][?birdxxx.xxx] 8606
+[Full title: The Blue Bird: A Fairy Play in Six Acts]
+
+Aug 2005 Unitarianism in America, by George Willis Cooke   [?unitxxx.xxx] 8605
+[Also posted HTML - 8unit10h.zip and 8unit10h.htm]
+Aug 2005 The House of Atreus, by AEschylus                 [?atrsxxx.xxx] 8604
+Aug 2005 Notes And Queries, Series 1, Issue 1, by Various  [?n1001xx.xxx] 8603
+[Full title: Notes And Queries, (Series 1, Vol. 1, Issue 1), Saturday,
+  November 3, 1849.]
+[Illustrated HTML in 8n100110h.zip only, note exact filename]
+Aug 2005 The Uninhabited House, by Mrs. J. H. Riddell      [?unhsxxx.xxx] 8602
+Aug 2005 Early Poems of Alfred Lord Tennyson, by Tennyson  [?eptnxxx.xxx] 8601
+[Ed. by Collins]
+[Also posted: HTML in 8eptn10h.zip and 8eptn10h.htm]
+
+Aug 2005 L'Assommoir, by Emile Zola                   [#18][lasmrxxx.xxx] 8600
+(See also #8558, which is a different translation.)
+Jul 2005 Fairy Tales From The Arabian Nights, by E. Dixon  [ftarbxxx.xxx] 8599
+Jul 2005 Intro. Dramas of Balzac, by Wilson and McSpadden  [drblzxxx.xxx] 8598
+[Full title: Introduction to the Dramas of Balzac]
+[Full author: Epiphanius Wilson, J Walker McSpadden]
+Jul 2005 A Sportsman's Sketches, by Ivan Turgenev      [#6][?ivn1xxx.xxx] 8597
+[Subtitle: Works of Ivan Turgenev, Vol. I]
+Jul 2005 The Wheel O' Fortune, by Louis Tracy              [?wfrtxxx.xxx] 8596
+[Author AKA: Gordon Holmes]
+
+Jul 2005 Normandy, Illustrated, Part 3. by Gordon Home     [norm3xxx.xxx] 8595
+Jul 2005 Normandy, Illustrated, Part 2. by Gordon Home     [norm2xxx.xxx] 8594
+Jul 2005 Normandy, Illustrated, Part 1. by Gordon Home     [norm1xxx.xxx] 8593
+[Illustrated HTML zip only in norm?10h.zip]
+[Note: #8505 8norm10h.zip which includes the complete set in one 6 mb file]
+Jul 2005 Poetical Works, by Charles Churchill              [?chpmxxx.xxx] 8592
+[Editor: George Gilfillan]
+Jul 2005 French Lyrics, by Arthur Graves Canfield          [?flyrxxx.xxx] 8591
+
+Jul 2005 Auld Licht Idyls, by J.M. Barrie             [#10][?auldxxx.xxx] 8590
+
+Jul 2005 Roughing It, by Mark Twain,          Vol. 8 [#129][rit8wxxh.zip] 8589
+Jul 2005 Roughing It, by Mark Twain,          Vol. 7 [#128][rit7wxxh.zip] 8588
+Jul 2005 Roughing It, by Mark Twain,          Vol. 6 [#127][rit6wxxh.zip] 8587
+Jul 2005 Roughing It, by Mark Twain,          Vol. 5 [#126][rit5wxxh.zip] 8586
+
+Jul 2005 Roughing It, by Mark Twain,          Vol. 4 [#125][rit4wxxh.zip] 8585
+Jul 2005 Roughing It, by Mark Twain,          Vol. 3 [#124][rit3wxxh.zip] 8584
+Jul 2005 Roughing It, by Mark Twain,          Vol. 2 [#123][rit2wxxh.zip] 8583
+Jul 2005 Roughing It, by Mark Twain,          Vol. 1 [#122][rit1wxxh.zip] 8582
+[Illustrated HTML zip only in rit?w10h.zip][Average size: 3 mb]
+[The complete file available in etext 02/mtrit11h.zip: 21 mb]
+
+Jul 2005 The Art of Money Getting, by P. T. Barnum         [barnmxxx.xxx] 8581
+[Subtitle: or Golden Rules for Making Money]
+
+Jul 2005 Reminiscences of Coleridge and Southey, J. Cottle [?cosoxxx.xxx] 8580
+[Full title: Reminiscences of Samuel Taylor Coleridge and Robert Southey]
+[Full author: Joseph Cottle]
+Jul 2005 Daughters of the Cross, by Daniel C. Eddy         [?dcrsxxx.xxx] 8579
+[Full title: Daughters of the Cross: or Woman's Mission]
+Jul 2005 The Grand Inquisitor, by Feodor Dostoevsky    [#6][inqusxxx.xxx] 8578
+[An extract from "The Brothers Karamazof"] [Tr.: H.P. Blavatsky]
+Jul 2005 Charles O'Malley, Vol. 1, by Charles Lever    [#2][?mly1xxx.xxx] 8577
+[Etchings and Drawings by Phiz]
+[HTML in 8mly110h.htm, illustrated HTML in 8mly110h.zip]
+Jul 2005 By Sheer Pluck, by G. A. Henty                    [shplkxxx.xxx] 8576
+[Subtitle: A Tale of the Ashanti War]
+[Also posted HTML - shplk10h.zip and shplk10h.htm]
+
+Jul 2005 Empress Marie Louise, by Imbert De Saint-Amand    [?hdelxxx.xxx] 8575
+[Full title: The Happy Days of the Empress Marie Louise]
+Jul 2005 Racketty-Packetty House, by Frances H. Burnett    [rkpkhxxx.xxx] 8574
+[Also posted illustrated HTML, zipped only - rkpkh10h.zip]
+Jul 2005 Mungo Park in Central Africa, by Mungo Park       [?mprkxxx.xxx] 8573
+[Full title: Life and Travels of Mungo Park in Central Africa]
+Jul 2005 Cord and Creese, by James de Mille            [#3][?cordxxx.xxx] 8572
+Jul 2005 Wolfert's Roost, by Washington Irving        [#10][?wrstxxx.xxx] 8571
+[Full title: Wolfert's Roost and Miscellanies]
+
+Jul 2005 The Philistines, by Arlo Bates                    [tphlsxxx.xxx] 8570
+Jul 2005 The Far Horizon, by Lucas Malet                   [?farhxxx.xxx] 8569
+[Author AKA: Mrs. Mary St. Leger Harrison]
+Jul 2005 Des Meeres Und Der Liebe Wellen, Franz Grillparzer[?mlbwxxx.xxx] 8568
+[Subtitle: Trauerspiel in fuenf Aufzuegen]
+[Language: German]
+Jul 2005 The Iroquois Book of Rites, by Horatio Hale       [?irbrxxx.xxx] 8567
+[Also posted HTML - 8irbr10h.zip and 8irbr10h.htm]
+Jul 2005 Value of the Old Testament, by Charles Foster Kent[?vlotxxx.xxx] 8566
+[Full title: The Origin & Permanent Value of the Old Testament]
+
+Jul 2005 A Book Of German Lyrics,Various                   [?glyrxxx.xxx] 8565
+[Editor: Friedrich Bruns]
+[Language: German, with English comments]
+(Comment: This is a textbook for American students of German and was compiled
+(by Friedrich Bruns.  It consists mostly of poetry by a variety of German
+(poets.  Thus the designation of "author" as "various".)
+Jul 2005 Travels in Africa, by Mungo Park                  [?trafxxx.xxx] 8564
+[Full title: Life and Travels of Mungo Park in Central Africa]
+Jul 2005 La Terre, by Emile Zola                           [?terrxxx.xxx] 8563
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+  sous le Second Empire - vol. 15] [Language: French]
+Jul 2005 Seaboard Parish, Complete,by George MacDonald[#32][?spr4xxx.xxx] 8562
+[Includes etexts #8551, 8552 and 8553]
+Jul 2005 Une Page d'Amour, by Emile Zola                   [?pdamxxx.xxx] 8561
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+  sous le Second Empire - vol. 8] [Language: French]
+(Note: The zip files contain an image of the genealogical tree of the family]
+
+Jul 2005 Le Docteur Pascal, by Emile Zola                  [?dpasxxx.xxx] 8560
+[Subtitle: Les Rougon-Macquart. Histoire Naturelle et Sociale d'une Famille
+  sous le Second Empire (vol. 20)] [Language: French]
+(Note: The file contains, at the end, a Genealogical Tree that required very
+  long lines (400 characters).
+Jul 2005 Scientific American Sup. No. 360, by Various      [?0360xxx.xxx] 8559
+[Full title: Scientific American Supplement No. 360, November 25, 1882]
+[Also posted: HTML in 8036010h.htm, and illustrated HTML in 8036010h.zip]
+Jul 2005 L'Assommoir, by Emile Zola                   [#23][?asmrxxx.xxx] 8558
+[Also posted HTML - 8asmr10h.zip and 8asmr10h.htm]
+[See also: #6497 in French]
+Jul 2005 Synge And The Ireland Of His Time, by W. B. Yeats [syngyxxx.xxx] 8557
+[Subtitle: With a Note Concerning a Walk through Connemara with Him by Jack
+  Butler Yeats]
+[Author's Full Name: William Butler Yeats]
+Jul 2005 History of England (1066-1216), by Adams          [?hengxxx.xxx] 8556
+[Full title: The History of England From the Norman Conquest to the Death
+  of John (1066-1216)]
+[Full author: George Burton Adams]
+
+Jul 2005 Initiation into Literature, by Emile Faguet       [?ilitxxx.xxx] 8555
+[Tr.: Sir Home Gordon, Bart.]
+Jul 2005 Why Worry?, by George Lincoln Walton, M.D.        [?whwrxxx.xxx] 8554
+Jul 2005 Seaboard Parish Vol. 3, by George MacDonald[GM#31][?spr3xxx.xxx] 8553
+Jul 2005 Seaboard Parish Vol. 2, by George MacDonald[GM#30][spar2xxx.xxx] 8552
+Jul 2005 Seaboard Parish Vol. 1, by George MacDonald[GM#29][spar1xxx.xxx] 8551
+
+Jul 2005 T. Haviland Hicks Senior, by J. Raymond Elderdice [?hickxxx.xxx] 8550
+[HTML version in 8hick10h.htm and illustrated HTML in 8hick10h.zip]
+Jul 2005 The Woman With The Fan, by Robert Hichens     [#7][wmfanxxx.xxx] 8549
+Jul 2005 Pirke Avot, Traditional Text without footnotes[#2][prav2xxx.xxx] 8548
+[Subtitle: The Sayings of the Jewish Fathers]
+[Translated by Joseph I. Gorfinkle, PhD.]
+Jul 2005 Pirke Avot, Traditional Text                      [prav1xxx.xxx] 8547
+[Subtitle: Sayings of the Jewish Fathers]
+[Tr. and comments by Joseph I. Gorfinkle]
+[The original Hebrew text translated into English, with numerous comments
+  and footnotes]
+Jul 2005 Two Summers in Guyenne, by Edward Harrison Barker [?guynxxx.xxx] 8546
+
+Jul 2005 Amiel's Journal, by Henri Frederic Amiel, Tr. Ward[?ajrnxxx.xxx] 8545
+[Tr.: Mrs. Humphrey Ward]
+Jul 2005 Trivia, by Logan Pearsall Smith                   [?trivxxx.xxx] 8544
+Jul 2005 Great North-Western Conspiracy,by I. Windslow Ayer[?gnwcxxx.xxx] 8543
+[Full title: The Great North-Western Conspiracy In All Its Startling Details]
+Jul 2005 Things Mother Used To Make, by Lydia Maria Gurney [tmutmxxx.xxx] 8542
+[Subtitle: A Collection of Old Time Recipes, Some Nearly One Hundred Years
+Old and Never Published Before]
+Jul 2005 Les mains pleines de rose, par Arsene Houssaye    [?lmpdxxx.xxx] 8541
+[Full title: Les mains pleines de rose, pleines d'or et pleines de sang]
+[Language: French]
+
+Jul 2005 Life of Charles W. Dilke, Vol. 2,Stephen Gwynn[#2][?dlk2xxx.xxx] 8540
+[Full title: The Life of the Rt. Hon. Sir Charles W. Dilke, Vol. 2]
+Jul 2005 In Those Days, by Jehudah Steinberg               [oldmnxxx.xxx] 8539
+Jul 2005 A Touch Of Sun And Other Stories, by M. Foote     [?tchsxxx.xxx] 8538
+[Author's Full Name: Mary Hallock Foote]
+Jul 2005 Lonesome Land, by B. M. Bower                     [lnsmlxxx.xxx] 8537
+Jul 2005 Philip Gilbert Hamerton,byPhilip Gilbert Hamerton [?hmrtxxx.xxx] 8536
+[Subtitle: An Autobiography, 1834-1858, and a Memoir by His Wife, 1858-1894]
+[Author: E. Hamerton]
+
+Jul 2005 The Sisters-In-Law, by Gertrude Atherton      [#5][?sistxxx.xxx] 8535
+Jul 2005 Daily Strength for Daily Needs,by Mary W. Tileston[?dsdnxxx.xxx] 8534
+Jul 2005 Literary Remains, Vol. 2, by Coleridge        [#9][?rem2xxx.xxx] 8533
+Jul 2005 Andivius Hedulio, by Edward Lucas White           [?ahedxxx.xxx] 8532
+Jul 2005 Helen, by Maria Edgeworth                     [#5][?helnxxx.xxx] 8531
+[Note: from Tales And Novels, Vol. X of Ten]
+
+Jul 2005 A Study Of Hawthorne, by George Parsons Lathrop   [?sthwxxx.xxx] 8530
+Jul 2005 The World Decision, by Robert Herrick             [?wdcsxxx.xxx] 8529
+
+Jul 2005 Eve's Diary, by Mark Twain           Part 3 [#145][eve04xxx.xxx] 8528
+Jul 2005 Eve's Diary, by Mark Twain           Part 2 [#144][eve03xxx.xxx] 8527
+Jul 2005 Eve's Diary, by Mark Twain           Part 1 [#143][eve02xxx.xxx] 8526
+Jul 2005 Eve's Diary, by Mark Twain         Complete [#142][eve01xxx.xxx] 8525
+[Illustrated by Lester Ralph] [Illustrated HTML zip only in eve0?10h.zip]
+[Complete file: 4.5 mb, Parts 1-3 average 1.8 mb]
+
+Jul 2005 L'Ile des Pingouins, par Anatole France           [?ilepxxx.xxx] 8524
+Jul 2005 Val d'Arno, by John Ruskin                    [#6][?arnoxxx.xxx] 8523
+Jul 2005 The Puritans, by Arlo Bates                       [?prtnxxx.xxx] 8522
+Jul 2005 Maintaining Health, by R. L. Alsaker              [mntnnxxx.xxx] 8521
+[Subtitle: Formerly Health and Efficiency]
+
+Jul 2005 Voyage d'un Habitant de la Lune a Paris, P.Gallet [?vhlpxxx.xxx] 8520
+[Full title: Voyage d'un Habitant de la Lune a Paris a la fin du XVIIIe Siecle]
+[Full author: Pierre Gallet]
+[Language: French]
+Jul 2005 Voyages of Columbus Vol. II,Washington Irving[#11][?col2xxx.xxx] 8519
+[Full title: The Life and Voyages of Christopher Columbus (Vol. II)]
+Jul 2005 Fritofs Saga, by Esaias Tegner                    [?ftfsxxx.xxx] 8518
+[Language: Swedish with English notes]
+Jul 2005 Hormones and Heredity, by J. T. Cunningham        [?hormxxx.xxx] 8517
+Jul 2005 Three Cities Trilogy: Lourdes, Complete, Zola[#22][lour6xxx.xxx] 8516
+
+Jul 2005 Three Cities: Lourdes, Vol. 5, by Emile Zola [#21][lour5xxx.xxx] 8515
+Jul 2005 Three Cities: Lourdes, Vol. 4, by Emile Zola [#20][lour4xxx.xxx] 8514
+Jul 2005 Three Cities: Lourdes, Vol. 3, by Emile Zola [#19][lour3xxx.xxx] 8513
+Jul 2005 Three Cities: Lourdes, Vol. 2, by Emile Zola [#18][lour2xxx.xxx] 8512
+Jul 2005 Three Cities: Lourdes, Vol. 1, by Emile Zola [#17][lour1xxx.xxx] 8511
+[Full title: The Three Cities Trilogy: Lourdes]
+
+Jul 2005 Lucky Pehr, by August Strindberg              [#7][?pehrxxx.xxx] 8510
+Jul 2005 Among My Books, by James Russell Lowell           [?mbk2xxx.xxx] 8509
+[Subtitle: Second Series]
+Jul 2005 Evolution Of Man Scientifically Disproved,Williams[?evdsxxx.xxx] 8508
+[Full title: The Evolution Of Man Scientifically Disproved]
+[Subtitle: In 50 Arguments]
+[Author's Full Name: William A. Williams]
+[Also posted: HTML 8evds10h.htm/8evds10h.zip]
+(Note: All three zip versions include one graphic image.)
+Jul 2005 Ten Great Events in History, by James Johonnot    [?tgehxxx.xxx] 8507
+Jul 2005 In Exile and Other Stories, by Mary Hallock Foote [?exilxxx.xxx] 8506
+
+Jul 2005 Normandy, by Gordon Home                          [?normxxx.xxx] 8505
+Jul 2005 Scientific American Sup. No. 358, by Various      [?0358xxx.xxx] 8504
+[Full title: Scientific American Supplement, No. 358, November 11, 1882]
+[Also posted HTML - 8035810h.zip and 8035810h.htm]
+Jul 2005 Among My Books, by James Russell Lowell       [#6][?ambkxxx.xxx] 8503
+[Full Title: Among My Books, First Series]
+Jul 2005 Common Diseases of Farm Animals, by R. A. Craig   [dfarmxxx.xxx] 8502
+[Full author: R. A. Craig, D. V. M.]
+Jul 2005 Ice Creams and Other, by Mrs. S. T. Rorer     [#3][?iccrxxx.xxx] 8501
+[Full title: Ice Creams, Water Ices, Frozen Puddings Together with
+[ Refreshments for all Social Affairs]
+
+Jul 2005 Plays: incl. Comrades, etc., by August Strindberg [?p2asxxx.xxx] 8500
+[Full title: Plays: Comrades; Facing Death; Pariah; Easter]
+[Tr.: Edith and Warner Oland]
+[zip versions include two illustrations]
+Jul 2005 Plays: incl. The Father, etc., August Strindberg  [?p1asxxx.xxx] 8499
+[Full Title: Plays: The Father; Countess Julie; The Outlaw; The Stronger]
+[Tr.: Edith and Warner Oland]
+(Illustrations in zip files.)
+Jul 2005 The Atlantic Monthly, Vol. I, No. 1, Nov. 1857    [?01a1xxx.xxx] 8498
+[Subtitle: A Magazine of Literature, Art, and Politics]
+[Author's Full Name:  Various]
+Jul 2005 The Poems And Prose Of Ernest Dowson,Ernest Dowson[?ppedxxx.xxx] 8497
+[Author: Memoir by Arthur Symons]
+Jul 2005 The Quest, by Pio Baroja                      [#2][?qustxxx.xxx] 8496
+
+Jul 2005 Life of St. Frances and Others,Georgiana Fullerton[?stfrxxx.xxx] 8495
+[Full title: The Life of St. Frances of Rome, and Others]
+Jul 2005 Omatunto, by Juhani Aho                           [?omatxxx.xxx] 8494
+[Language: Finnish]
+[Also posted HTML - 8omat10h.zip and 8omat10h.htm]
+Jul 2005 The Last Hope, by Henry Seton Merriman            [lshpxxxx.xxx] 8493
+[Text in lshp10.txt/.zip, XHTML in lshp10h.htm/.zip]
+Jul 2005 The King In Yellow, by Robert W. Chambers         [?kngyxxx.xxx] 8492
+Jul 2005 Chronicle Of The Cid, Various                     [?ccidxxx.xxx] 8491
+[Tr.: Robert Southey]
+
+Jul 2005 Actes et Paroles, Vol. IV, by Victor Hugo    [#11][?act4xxx.xxx] 8490
+[Language: French]
+Jul 2005 Table Talk of S.T.Coleridge, by Coleridge     [#7][?tabcxxx.xxx] 8489
+[Full title: Specimens of the Table Talk of S.T.Coleridge]
+Jul 2005 Literary Remains, by Coleridge                    [?lremxxx.xxx] 8488
+[Also posted HTML - 8lrem10h.zip and 8lrem10h.htm]
+Jul 2005 Dame Care, by Hermann Sudermann                   [?damexxx.xxx] 8487
+[Tr.: Bertha Overbeck]
+Jul 2005 Ghost Stories of an Antiquary,by Montague R. James[?jgstxxx.xxx] 8486
+[Full author: Montague Rhodes James]
+
+Jul 2005 Books Fatal to Their Authors, by P. H. Ditchfield [?bkftxxx.xxx] 8485
+Jul 2005 Scientific American Sup. No. 430, by Various      [?0430xxx.xxx] 8484
+[Full title: Scientific American Supplement, No. 430, March 29, 1884]
+[Also posted HTML - 8043010h.zip and 8043010h.htm]
+Jul 2005 Scientific American Sup. No. 324,       by Various[?0324xxx.xxx] 8483
+[Full title: Scientific American Supplement, No. 324, March 18, 1882]
+[Also posted HTML - 8032410h.zip and 8032410h.htm]
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol.12[#141][mis12xxx.xxx] 8482
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol.11[#140][mis11xxx.xxx] 8481
+
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol.10[#139][mis10xxx.xxx] 8480
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 9[#138][mis09xxx.xxx] 8479
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 8[#137][mis08xxx.xxx] 8478
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 7[#136][mis07xxx.xxx] 8477
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 6[#135][mis06xxx.xxx] 8476
+
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 5[#134][mis05xxx.xxx] 8475
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 4[#133][mis04xxx.xxx] 8474
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 3[#132][mis03xxx.xxx] 8473
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 2[#131][mis02xxx.xxx] 8472
+Jul 2005 Life on The Mississippi, Mark Twain,  Vol. 1[#130][mis01xxx.xxx] 8471
+[Illustrated HTML zip only in mis??10h.zip][Average file size: 2.5mb]
+(Note: This series contains all the original illustrations scanned from a
+  first edition.)
+
+Jul 2005 The Life of John Clare, by Frederick Martin       [?jclrxxx.xxx] 8470
+Jul 2005 Harlequinade, D. C. Calthrop and Granville Barker [?harqxxx.xxx] 8469
+[Full author: Dion Clayton Calthrop and Granville Barker]
+[Also posted HTML - 8harq10h.zip and 8harq10h.htm]
+Jul 2005 De ondergang der Eerste Wareld, Willem Bilderdijk [?erstxxx.xxx] 8468
+[Language: Dutch]
+Jul 2005 Frost's Laws, by Sarah Annie Frost                [frlawxxx.xxx] 8467
+[Full title: Frost's Laws and By-Laws of American Society]
+Jul 2005 Musa Pedestris, by John S. Farmer                 [?mpedxxx.xxx] 8466
+[Full title: Musa Pedestris - Three Centuries of Canting Songs and Slang
+  Rhymes (1536 - 1896)]
+
+Jul 2005 Russian Revolution, by Petrunkevitch and others   [?rrjsxxx.xxx] 8465
+[Full title: The Russian Revolution; The Jugo-Slav Movement]
+[Full author: Alexander Petrunkevitch, Samuel Northrup Harper, Frank
+  Alfred Golder, Robert Joseph Kerner]
+Jul 2005 Rest Harrow, By Maurice Hewlett               [#2][Rharrxxx.Xxx] 8464
+[Subtitle: A Comedy Of Resolution]
+Jul 2005 Memoirs of Henry Hunt, V3, by Henry Hunt      [#2][?hnt3xxx.xxx] 8463
+[Full title: Memoirs of Henry Hunt, Esq. Volume 3]
+Jul 2005 The Man in Gray, by Thomas Dixon              [#3][mgrayxxx.xxx] 8462
+Jul 2005 Memoirs of Henry Hunt, Esq. Volume 2,by Henry Hunt[?hnt2xxx.xxx] 8461
+
+Jul 2005 Marse Henry, Complete, by Henry Watterson         [?hnr3xxx.xxx] 8460
+[Also posted: HTML in 8hnr310h.htm, illustrated HTML in 8hnr310h.zip]
+Jul 2005 Marse Henry (Vol. 2), by Henry Watterson          [?hnr2xxx.xxx] 8459
+[Also posted: HTML in 8hnr210h.htm, illustrated HTML in 8hnr210h.zip]
+Jul 2005 Marse Henry (Vol. 1), by Henry Watterson          [?hnr1xxx.xxx] 8458
+[Also posted: HTML in 8hnr110h.htm, illustrated HTML in 8hnr110h.zip]
+Jul 2005 Frenzied Fiction, by Stephen Leacock         [#10][frzfcxxx.xxx] 8457
+Jul 2005 Patty Fairfield, by Carolyn Wells                 [?pfldxxx.xxx] 8456
+
+Jul 2005 The Saint, by Antonio Fogazzaro               [#2][?santxxx.xxx] 8455
+Jul 2005 Actes et Paroles, vol. III, by Victor Hugo   [#10][?act3xxx.xxx] 8454
+[Language: French]
+Jul 2005 Actes et Paroles vol. II, by Victor Hugo      [#9][?act2xxx.xxx] 8453
+[Subtitle: Pendant l'exil 1852-1870] [Language: French]
+Jul 2005 Scientific American Sup. No. 363, by Various      [?0363xxx.xxx] 8452
+[Full title: Scientific American Supplement, No. 363, December 16, 1882]
+[Also posted HTML - 8036310h.zip and 8036310h.htm]
+Jul 2005 Aarniometsaen Sydaen, by Charles G. D. Roberts    [?aarnxxx.xxx] 8451
+[Tr.:  I.K. Inha] [Language: Finnish]
+[Also posted HTML - 8aarn10h.zip and 8aarn10h.htm]
+
+Jul 2005 The Elements of Character, by Mary G. Chandler    [?charxxx.xxx] 8450
+Jul 2005 Traveler from Altruria: Romance,W. D. Howells[#67][?altrxxx.xxx] 8449
+Jul 2005 Honor Edgeworth, by Vera                          [?hedgxxx.xxx] 8448
+[Subtitle: Ottawa's Present Tense]
+Jul 2005 The Romance of Morien, by Jessie L. Weston    [#2][?mrinxxx.xxx] 8447
+[Note: Arthurian Romance--Unrepresented in Malory's "Morte d'Arthur"]
+Jul 2005 The Enormous Room, by Edward Estlin Cummings      [?enrmxxx.xxx] 8446
+[Author AKA:  e.e. cummings]
+
+Jul 2005 Look Back on Happiness, by Knut Hamsun            [?lbhpxxx.xxx] 8445
+[Tr.: Paula Wiking]
+[Also posted HTML - 8lbhp10h.zip and 8lbhp10h.htm]
+Jul 2005 Caesar or Nothing, by Pio Baroja                  [?csarxxx.xxx] 8444
+[Tr.: Louis How]
+Jul 2005 The Mysteries of Montreal, by Charlotte Fuhrer    [?mystxxx.xxx] 8443
+[Subtitle: Being Recollections of a Female Physician]
+Jul 2005 Europe and the Faith, by Hilaire Belloc       [#5][rpnftxxx.xxx] 8442
+Jul 2005 Between Friends, by Robert W. Chambers        [#5][btwfrxxx.xxx] 8441
+
+Jul 2005 Men in War, by Andreas Latzko                     [?mwarxxx.xxx] 8440
+Jul 2005 Games for Everybody, by May C. Hofmann            [gamesxxx.xxx] 8439
+[Also posted HTML - games10h.zip and games10h.htm]
+Jul 2005 Ethics, by Aristotle                          [#5][?ethcxxx.xxx] 8438
+Jul 2005 The Path of Life, by Stijn Streuvels              [?lifexxx.xxx] 8437
+Jul 2005 Speculations from Political Economy, C. B. Clarke [?specxxx.xxx] 8436
+
+Jul 2005 The Sturdy Oak, by Samuel Merwin et al            [?soakxxx.xxx] 8435
+[Subtitle: A composite Novel of American Politics by fourteen American authors]
+[Other Authors: Harry Leon Wilson, Fannie Hurst, Dorothy Canfield, Kathleen
+  Norris, Henry Kitchell Webster, Anne O'Hagan, Mary Heaton Vorse, Alice Duer
+  Miller, Ethel Watts Mumford, Marjorie Benton Cooke, William Allen White,
+  Mary Austin, Leroy Scott ]
+Jul 2005 The Ladies, by E. Barrington                      [?tldsxxx.xxx] 8434
+[Also posted HTML - 8tlds10h.zip and 8tlds10h.htm]
+Jul 2005 Vagabond and Other Poems from Punch, R. C. Lehmann[?vagbxxx.xxx] 8433
+Jul 2005 Black Rebellion, by Thomas Wentworth Higginson[#5][?brebxxx.xxx] 8432
+Jul 2005 Liesilauluja, by L. Onerva                        [?lsjaxxx.xxx] 8431
+[Language: Finnish]
+
+Jul 2005 The Mountebank, by William J. Locke               [?mbnkxxx.xxx] 8430
+[Also posted HTML - 8mbnk10h.zip and 8mbnk10h.htm]
+Jul 2005 Ancestral Footstep, by Nathaniel Hawthorne [NH#27][?ancfxxx.xxx] 8429
+Jul 2005 Afghan Wars 1839-42 and 1878-80, Archibald Forbes [?afghxxx.xxx] 8428
+Jul 2005 Home Missions In Action, by Edith H. Allen        [missnxxx.xxx] 8427
+Jul 2005 Poems of Paul Verlaine, by Paul Verlaine          [?pvrlxxx.xxx] 8426
+[Tr.: Gertrude Hall]
+[Also posted:  HTML in 8pvrl10h.htm; Illustrated HTML in 8pvrl10h.zip only]
+[Note:  both 7pvrl10.zip & 8pvrl10.zip also include images]
+
+Jul 2005 Caesar: A Sketch, by James Anthony Froude         [?cesrxxx.xxx] 8425
+[Also posted HTML - 8cesr10h.zip and 8cesr10h.htm]
+Jul 2005 Mohun, or, The Last Days of Lee, John Esten Cooke [?dleexxx.xxx] 8424
+Jul 2005 Blood Brothers, by Colonel Eugene C. Jacobs       [blbroxxx.xxx] 8423C
+[Subtitle: A Medic's Sketch Book] [Ed.: Sam Rohlfing]
+Jul 2005 Moral Deliberations in Modern Cinema, S Vaknin[17][mfilmxxx.xxx] 8422C
+[Author's Full Name: Sam Vaknin]
+[Also posted:  RTF in mfilm10r.zip]
+Jul 2005 The First Book of Factoids, by Sam Vaknin    [#16][ffactxxx.xxx] 8421C
+[Also posted: RTF in ffact10r.zip]
+
+Jul 2005 Issues in Population and Bioethics, Sam Vaknin[15][isbioxxx.xxx] 8420C
+[Also posted:  RTF in isbio10r.zip]
+Jul 2005 The Journals of Lewis and Clarke 1804-1806        [lcjnlxxx.xxx] 8419
+[Authors: Meriwether Lewis & William Clark]
+[Also posted:  RTF in lcjnl10r.zip, Word .doc in lcnjl10w.zip]
+Jul 2005 Hippolytus/The Bacchae, by Euripides              [?uripxxx.xxx] 8418
+Jul 2005 Discovery of the Source Of The Nile, John Speke   [?wlsnxxx.xxx] 8417
+[Full Title: What Led To The Discovery of the Source Of The Nile]
+[Full Author: John Hanning Speke]
+[Also posted: 8-bit version maps in 8wlsn10m.zip only]
+(See also:  #3284)
+Jul 2005 Nouveaux Contes a Ninon, by Emile Zola            [nvxcnxxx.xxx] 8416
+[Language: French]
+
+Jul 2005 The Magician's Show Box, by Lydia Maria Child     [?magcxxx.xxx] 8415
+[Full title: The Magician's Show Box and Other Stories]
+Jul 2005 Freedom Talks No. II, by Julia Seton, M.D         [ftalkxxx.xxx] 8414
+[Also posted: HTML in ftalk10h.zip and ftalk10h.htm]
+Jul 2005 The Bishop's Shadow, by I. T. Thurston            [thbshxxx.xxx] 8413
+[HTML version in thbsh10h.htm and thbsh10h.zip]
+[HTML zip contains 6 .png files which were not included on first copy
+  of thbsh10h.zip to etext05 but were included on second copy]
+Jul 2005 Seeing Europe with Famous Authors, Volume 3       [?eur3xxx.xxx] 8412
+[Subtitle: France and The Netherlands]
+[Author: Various] [Ed.: Francis W. Halsey]
+[Also posted: HTML with accented characters in 8eur310h.htm/.zip]
+Jul 2005 Forest & Frontiers, by G. A. Henty           [#18][?frfrxxx.xxx] 8411
+
+Jul 2005 Jack of the Pony Express, by Frank V. Webster     [jpexpxxx.xxx] 8410
+Jul 2005 Love-Letters, by Aphra Behn                       [?lvlrxxx.xxx] 8409
+[Full title: Love-Letters Between a Nobleman and His Sister]
+[Also posted HTML - 8lvlr10h.zip and 8lvlr10h.htm]
+Jul 2005 Scientific American Suppl. No. 299,Various        [?0299xxx.xxx] 8408
+[Subtitle: September 24, 1881]
+[Also posted: HTML with accented characters in 8029910h.htm/.zip]
+[Illustrated HTML in 8029910h.zip only]
+Jul 2005 The Christian, by Hall Caine                  [#2][?chrsxxx.xxx] 8407
+Jul 2005 Subterranean Brotherhood, by Julian Hawthorn[JH#8][?sbbrxxx.xxx] 8406
+
+Jul 2005 Journalism for Women, by E.A. Bennett             [?jrnwxxx.xxx] 8405
+[Subtitle: A Practical Guide]
+[Also posted HTML - 8jrnw10h.zip and 8jrnw10h.htm]
+Jul 2005 Jane Talbot, by Charles Brockden Brown            [jntlbxxx.xxx] 8404
+[Also posted: HTML in jntlb10h.htm and jntlb10h.zip]
+Jul 2005 Young People's Pride, by Stephen Vincent Benet[#2][?ypprxxx.xxx] 8403
+Jul 2005 East and West, by Bret Harte                      [?eswsxxx.xxx] 8402
+[Also posted: HTML in 8esws10h.zip and 8esws10h.htm]
+Jul 2005 Germany History, V4, by Wolfgang Menzel           [?grm4xxx.xxx] 8401
+[Full title: Germany from the Earliest Period Vol. 4]
+[Full author: Wolfgang Menzel, Trans. Mrs. George Horrocks]
+
+Jun 2005 Selections from Erasmus, by Erasmus Roterodamus   [?erasxxx.xxx] 8400
+[Subtitle: Principally from his Epistles]
+[Ed.: by P.S. Allen] [Language: English and Latin]
+Jun 2005 Manners and Social Usages, Mrs. J.M.E.W. Sherwood [?msusxxx.xxx] 8399
+[Full author: Mrs. John M. E. W. Sherwood]
+Jun 2005 The Sign at Six, by Stewart Edward White      [#6][sign6xxx.xxx] 8398
+Jun 2005 Expositions of Holy Scripture, Alex. Maclaren [#9][exp09xxx.xxx] 8397
+[Full title: Expositions of Holy Scripture: The Acts]
+[Full author: Alexander Maclaren]
+Jun 2005 The Gentleman, by Alfred Ollivant             [#2][?gentxxx.xxx] 8396
+[Subtitle: A Romance of the Sea]
+Jun 2005 The Gods of Pegana, by E.J.M.D. Plunkett      [#5][?gpegxxx.xxx] 8395
+[Full author: Lord Dunsany [Edward J. M. D. Plunkett]]
+Jun 2005 The Doings Of Raffles Haw,bySir Arthur Conan Doyle[rafflxxx.xxx] 8394
+Jun 2005 Life in the Backwoods, by Susanna Moodie      [#4][?bkwdxxx.xxx] 8393
+Jun 2005 Hin Und Her, by H. H. Fick                        [?hnhrxxx.xxx] 8392
+[Subtitle: Ein Buch fuer die Kinder]
+[Language: German]
+Jun 2005 Scientific American Sup. No. 288, by Various      [?0288xxx.xxx] 8391
+[Full title: Scientific American Supplement, No. 288, July 9, 1881]
+[Also posted HTML - 8sa0410h.zip and 8sa0410h.htm]
+
+Jun 2005 Buddhism and Buddhists in China, by Lewis Hodus   [?bdsmxxx.xxx] 8390
+Jun 2005 Lectures Of Col. Ingersoll, V2,R. G. Ingersoll[#2][ingr2xxx.xxx] 8389
+[Full title: Lectures of Col. R.G. Ingersoll - Latest]
+[Full author: Col. Robert Green Ingersoll]
+Jun 2005 Poems By Walt Whitman, by Walt Whitman            [?pwwtxxx.xxx] 8388
+[Editor: William Rossetti]
+Jun 2005 Hunger, by Knut Hamsun                            [?hngrxxx.xxx] 8387
+[Author: with introduction by Edwin Bjorkman]
+[Tr. from Norwegian: George Egerton]
+[Also posted: accented HTML in 8hngr10h.htm/.zip]
+Jun 2005 Ptomaine Street, by Carolyn Wells             [#8][?ptomxxx.xxx] 8386
+
+Jun 2005 The Short Line War, by Merwin and Webster         [shwarxxx.xxx] 8385
+[Full Author: Samuel Merwin and Henry Kitchell Webster]
+Jun 2005 Pauline's Passion and Punishment,L. M. Alcott[#16][?ppauxxx.xxx] 8384
+[Full author: Louisa May Alcott]
+Jun 2005 Monsieur Maurice, by Amelia B. Edwards        [#2][?maurxxx.xxx] 8383
+Jun 2005 Canadian Crusoes, by Catherine Parr Traill    [#3][?cacrxxx.xxx] 8382
+Jun 2005 Expositions of Holy Scripture, Alex. Maclaren [#8][exp08xxx.xxx] 8381
+[Full title: Expositions of Holy Scripture: St. John Chaps. XV to XXI]
+[Full author: Alexander Maclaren]
+
+Jun 2005 Cuba in War Time, by Richard Harding Davis   [#37][?cubaxxx.xxx] 8380
+Jun 2005 Shakespeare's Bones, by C. M. Ingleby             [shbnxxxx.xxx] 8379
+[Subtitle: The proposal to disinter them, considered in relation to their
+  possible bearing on his portraiture]
+[Text in shbn10.txt/.zip, XHTML in shbn10h.htm/.zip]
+Jun 2005 Selected Polish Tales, by Various                 [?pltlxxx.xxx] 8378
+[Tr.: Else C. M. Benecke and Marie Busch]
+Jun 2005 Water Ghost and Others, by John K. Bangs   [JKB#9][wghstxxx.xxx] 8377
+Jun 2005 Correspondence of Lafayette, by Lafayette     [#2][?laftxxx.xxx] 8376
+[Full title: Memoirs, Correspondence and Manuscripts of General Lafayette]
+
+Jun 2005 Der Streit Ueber Die Tragoedie, by Theodor Lipps  [?sttrxxx.xxx] 8375
+[Language: German]
+Jun 2005 Alton Locke, Tailor And Poet,Rev. Charles Kingsley[?allkxxx.xxx] 8374
+[Subtitle: An Autobiography]
+[Author Note: with a Prefatory Memoir by Thomas Hughes, Esq., Q.C.]
+Jun 2005 The Bible, Douay-Rheims, Apocalypse       Book 73 [drb73xxx.xxx] 8373
+Jun 2005 The Bible, Douay-Rheims, Jude             Book 72 [drb72xxx.xxx] 8372
+Jun 2005 The Bible, Douay-Rheims, 3 John           Book 71 [drb71xxx.xxx] 8371
+
+Jun 2005 The Bible, Douay-Rheims, 2 John           Book 70 [drb70xxx.xxx] 8370
+Jun 2005 The Bible, Douay-Rheims, 1 John           Book 69 [drb69xxx.xxx] 8369
+Jun 2005 The Bible, Douay-Rheims, 2 Peter          Book 68 [drb68xxx.xxx] 8368
+Jun 2005 The Bible, Douay-Rheims, 1 Peter          Book 67 [drb67xxx.xxx] 8367
+Jun 2005 The Bible, Douay-Rheims, James            Book 66 [drb66xxx.xxx] 8366
+
+Jun 2005 The Bible, Douay-Rheims, Hebrews          Book 65 [drb65xxx.xxx] 8365
+Jun 2005 The Bible, Douay-Rheims, Philemon         Book 64 [drb64xxx.xxx] 8364
+Jun 2005 The Bible, Douay-Rheims, Titus            Book 63 [drb63xxx.xxx] 8363
+Jun 2005 The Bible, Douay-Rheims, 2 Timothy        Book 62 [drb62xxx.xxx] 8362
+Jun 2005 The Bible, Douay-Rheims, 1 Timothy        Book 61 [drb61xxx.xxx] 8361
+
+Jun 2005 The Bible, Douay-Rheims, 2 Thessalonians  Book 60 [drb60xxx.xxx] 8360
+Jun 2005 The Bible, Douay-Rheims, 1 Thessalonians  Book 59 [drb59xxx.xxx] 8359
+Jun 2005 The Bible, Douay-Rheims, Colossians       Book 58 [drb58xxx.xxx] 8358
+Jun 2005 The Bible, Douay-Rheims, Philippians      Book 57 [drb57xxx.xxx] 8357
+Jun 2005 The Bible, Douay-Rheims, Ephesians        Book 56 [drb56xxx.xxx] 8356
+
+Jun 2005 The Bible, Douay-Rheims, Galatians        Book 55 [drb55xxx.xxx] 8355
+Jun 2005 The Bible, Douay-Rheims, 2 Corinthians    Book 54 [drb54xxx.xxx] 8354
+Jun 2005 The Bible, Douay-Rheims, 1 Corinthians    Book 53 [drb53xxx.xxx] 8353
+Jun 2005 The Bible, Douay-Rheims, Romans           Book 52 [drb52xxx.xxx] 8352
+Jun 2005 The Bible, Douay-Rheims, Acts             Book 51 [drb51xxx.xxx] 8351
+
+Jun 2005 The Bible, Douay-Rheims, John             Book 50 [drb50xxx.xxx] 8350
+Jun 2005 The Bible, Douay-Rheims, Luke             Book 49 [drb49xxx.xxx] 8349
+Jun 2005 The Bible, Douay-Rheims, Mark             Book 48 [drb48xxx.xxx] 8348
+Jun 2005 The Bible, Douay-Rheims, Matthew          Book 47 [drb47xxx.xxx] 8347
+Jun 2005 The Bible, Douay-Rheims, 2 Machabees      Book 46 [drb46xxx.xxx] 8346
+
+Jun 2005 The Bible, Douay-Rheims, 1 Machabees      Book 45 [drb45xxx.xxx] 8345
+Jun 2005 The Bible, Douay-Rheims, Malachias        Book 44 [drb44xxx.xxx] 8344
+Jun 2005 The Bible, Douay-Rheims, Zacharias        Book 43 [drb43xxx.xxx] 8343
+Jun 2005 The Bible, Douay-Rheims, Aggeus           Book 42 [drb42xxx.xxx] 8342
+Jun 2005 The Bible, Douay-Rheims, Sophonias        Book 41 [drb41xxx.xxx] 8341
+
+Jun 2005 The Bible, Douay-Rheims, Habacuc          Book 40 [drb40xxx.xxx] 8340
+Jun 2005 The Bible, Douay-Rheims, Nahum            Book 39 [drb39xxx.xxx] 8339
+Jun 2005 The Bible, Douay-Rheims, Micheas          Book 38 [drb38xxx.xxx] 8338
+Jun 2005 The Bible, Douay-Rheims, Jonas            Book 37 [drb37xxx.xxx] 8337
+Jun 2005 The Bible, Douay-Rheims, Abdias           Book 36 [drb36xxx.xxx] 8336
+
+Jun 2005 The Bible, Douay-Rheims, Amos             Book 35 [drb35xxx.xxx] 8335
+Jun 2005 The Bible, Douay-Rheims, Joel             Book 34 [drb34xxx.xxx] 8334
+Jun 2005 The Bible, Douay-Rheims, Osee             Book 33 [drb33xxx.xxx] 8333
+Jun 2005 The Bible, Douay-Rheims, Daniel           Book 32 [drb32xxx.xxx] 8332
+Jun 2005 The Bible, Douay-Rheims, Ezechiel         Book 31 [drb31xxx.xxx] 8331
+
+Jun 2005 The Bible, Douay-Rheims, Barruch          Book 30 [drb30xxx.xxx] 8330
+Jun 2005 The Bible, Douay-Rheims, Lament. Jeramias Book 29 [drb29xxx.xxx] 8329
+Jun 2005 The Bible, Douay-Rheims, Jeramias         Book 28 [drb28xxx.xxx] 8328
+Jun 2005 The Bible, Douay-Rheims, Isaias           Book 27 [drb27xxx.xxx] 8327
+Jun 2005 The Bible, Douay-Rh., Ecclesiasticus      Book 26 [drb26xxx.xxx] 8326
+
+Jun 2005 The Bible, Douay-Rheims, Book of Wisdom   Book 25 [drb25xxx.xxx] 8325
+Jun 2005 The Bible, Douay-Rheims, Solomon's Cant.  Book 24 [drb24xxx.xxx] 8324
+Jun 2005 The Bible, Douay-Rheims, Ecclesiastes     Book 23 [drb23xxx.xxx] 8323
+Jun 2005 The Bible, Douay-Rheims, Proverbs         Book 22 [drb22xxx.xxx] 8322
+Jun 2005 The Bible, Douay-Rheims, Psalms           Book 21 [drb21xxx.xxx] 8321
+
+Jun 2005 The Bible, Douay-Rheims, Job              Book 20 [drb20xxx.xxx] 8320
+Jun 2005 The Bible, Douay-Rheims, Esther           Book 19 [drb19xxx.xxx] 8319
+Jun 2005 The Bible, Douay-Rheims, Judith           Book 18 [drb18xxx.xxx] 8318
+Jun 2005 The Bible, Douay-Rheims, Tobias           Book 17 [drb17xxx.xxx] 8317
+Jun 2005 The Bible, Douay-Rheims, 2 Esdras         Book 16 [drb16xxx.xxx] 8316
+
+Jun 2005 The Bible, Douay-Rheims, 1 Esdras         Book 15 [drb15xxx.xxx] 8315
+Jun 2005 The Bible, Douay-Rheims, 2 Paralipomenon  Book 14 [drb14xxx.xxx] 8314
+Jun 2005 The Bible, Douay-Rheims, 1 Paralipomenon  Book 13 [drb13xxx.xxx] 8313
+Jun 2005 The Bible, Douay-Rheims, 4 Kings          Book 12 [drb12xxx.xxx] 8312
+Jun 2005 The Bible, Douay-Rheims, 3 Kings          Book 11 [drb11xxx.xxx] 8311
+
+Jun 2005 The Bible, Douay-Rheims, 2 Kings          Book 10 [drb10xxx.xxx] 8310
+Jun 2005 The Bible, Douay-Rheims, 1 Kings          Book  9 [drb09xxx.xxx] 8309
+Jun 2005 The Bible, Douay-Rheims, Ruth             Book  8 [drb08xxx.xxx] 8308
+Jun 2005 The Bible, Douay-Rheims, Judges           Book  7 [drb07xxx.xxx] 8307
+Jun 2005 The Bible, Douay-Rheims, Josue            Book  6 [drb06xxx.xxx] 8306
+
+Jun 2005 The Bible, Douay-Rheims, Deuteronomy      Book  5 [drb05xxx.xxx] 8305
+Jun 2005 The Bible, Douay-Rheims, Numbers          Book  4 [drb04xxx.xxx] 8304
+Jun 2005 The Bible, Douay-Rheims, Leviticus        Book  3 [drb03xxx.xxx] 8303
+Jun 2005 The Bible, Douay-Rheims, Exodus           Book  2 [drb02xxx.xxx] 8302
+Jun 2005 The Bible, Douay-Rheims, Genesis          Book  1 [drb01xxx.xxx] 8301
+
+Jun 2005 The Bible, Douay-Rheims, Complete                 [drb00xxx.xxx] 8300
+[Plain text in drb??10.txt/.zip; HTM version in drb??10h.htm/.zip]
+[drb0010h.htm contains an active index to all the htm files]
+Jun 2005 Filipino Popular Tales, by Dean S. Fansler        [?filpxxx.xxx] 8299
+Jun 2005 Komik und Humor, by Theodor Lipps                 [?kmikxxx.xxx] 8298
+[Subtitle: Eine Psychologische-Aesthetische Untersuchung]
+[Language: German]
+Jun 2005 Scientific American Sup. No. 286, by Various      [?0286xxx.xxx] 8297
+[Full Title: Scientific American, Supplement 286, June 25, 1881]
+[Also posted HTML - 8sa0210h.zip and 8sa0210h.htm]
+Jun 2005 Scientific American Sup. No. 303, by Various      [?0303xxx.xxx] 8296
+[Full title: Scientific American Supplement, No. 303, October 22, 1881]
+[Also posted HTML - 8sa0310h.zip and 8sa0310h.htm]
+
+Jun 2005 Through the Eye of the Needle, W. D. Howells [#69][?eyndxxx.xxx] 8295
+Jun 2005 The World English Bible (WEB): Complete           [web67xxx.xxx] 8294
+Jun 2005 The World English Bible (WEB): Revelation         [web66xxx.xxx] 8293
+Jun 2005 The World English Bible (WEB): Jude               [web65xxx.xxx] 8292
+Jun 2005 The World English Bible (WEB): 3 John             [web64xxx.xxx] 8291
+
+Jun 2005 The World English Bible (WEB): 2 John             [web63xxx.xxx] 8290
+Jun 2005 The World English Bible (WEB): 1 John             [web62xxx.xxx] 8289
+Jun 2005 The World English Bible (WEB): 2 Peter            [web61xxx.xxx] 8288
+Jun 2005 The World English Bible (WEB): 1 Peter            [web60xxx.xxx] 8287
+Jun 2005 The World English Bible (WEB): James              [web59xxx.xxx] 8286
+
+Jun 2005 The World English Bible (WEB): Hebrews            [web58xxx.xxx] 8285
+Jun 2005 The World English Bible (WEB): Philemon           [web57xxx.xxx] 8284
+Jun 2005 The World English Bible (WEB): Titus              [web56xxx.xxx] 8283
+Jun 2005 The World English Bible (WEB): 2 Timothy          [web55xxx.xxx] 8282
+Jun 2005 The World English Bible (WEB): 1 Timothy          [web54xxx.xxx] 8281
+
+Jun 2005 The World English Bible (WEB): 2 Thessalonians    [web53xxx.xxx] 8280
+Jun 2005 The World English Bible (WEB): 1 Thessalonians    [web52xxx.xxx] 8279
+Jun 2005 The World English Bible (WEB): Colossians         [web51xxx.xxx] 8278
+Jun 2005 The World English Bible (WEB): Philippians        [web50xxx.xxx] 8277
+Jun 2005 The World English Bible (WEB): Ephesians          [web49xxx.xxx] 8276
+
+Jun 2005 The World English Bible (WEB): Galatians          [web48xxx.xxx] 8275
+Jun 2005 The World English Bible (WEB): 2 Corinthians      [web47xxx.xxx] 8274
+Jun 2005 The World English Bible (WEB): 1 Corinthians      [web46xxx.xxx] 8273
+Jun 2005 The World English Bible (WEB): Romans             [web45xxx.xxx] 8272
+Jun 2005 The World English Bible (WEB): Acts               [web44xxx.xxx] 8271
+
+Jun 2005 The World English Bible (WEB): John               [web43xxx.xxx] 8270
+Jun 2005 The World English Bible (WEB): Luke               [web42xxx.xxx] 8269
+Jun 2005 The World English Bible (WEB): Mark               [web41xxx.xxx] 8268
+Jun 2005 The World English Bible (WEB): Matthew            [web40xxx.xxx] 8267
+Jun 2005 The World English Bible (WEB): Malachi            [web39xxx.xxx] 8266
+
+Jun 2005 The World English Bible (WEB): Zechariah          [web38xxx.xxx] 8265
+Jun 2005 The World English Bible (WEB): Haggai             [web37xxx.xxx] 8264
+Jun 2005 The World English Bible (WEB): Zephaniah          [web36xxx.xxx] 8263
+Jun 2005 The World English Bible (WEB): Habakkuk           [web35xxx.xxx] 8262
+Jun 2005 The World English Bible (WEB): Nahum              [web34xxx.xxx] 8261
+
+Jun 2005 The World English Bible (WEB): Micah              [web33xxx.xxx] 8260
+Jun 2005 The World English Bible (WEB): Jonah              [web32xxx.xxx] 8259
+Jun 2005 The World English Bible (WEB): Obadiah            [web31xxx.xxx] 8258
+Jun 2005 The World English Bible (WEB): Amos               [web30xxx.xxx] 8257
+Jun 2005 The World English Bible (WEB): Joel               [web29xxx.xxx] 8256
+
+Jun 2005 The World English Bible (WEB): Hosea              [web28xxx.xxx] 8255
+Jun 2005 The World English Bible (WEB): Daniel             [web27xxx.xxx] 8254
+Jun 2005 The World English Bible (WEB): Ezekiel            [web26xxx.xxx] 8253
+Jun 2005 The World English Bible (WEB): Lamentations       [web25xxx.xxx] 8252
+Jun 2005 The World English Bible (WEB): Jeremiah           [web24xxx.xxx] 8251
+
+Jun 2005 The World English Bible (WEB): Isaiah             [web23xxx.xxx] 8250
+Jun 2005 The World English Bible (WEB): Song of Solomon    [web22xxx.xxx] 8249
+Jun 2005 The World English Bible (WEB): Ecclesiastes       [web21xxx.xxx] 8248
+Jun 2005 The World English Bible (WEB): Proverbs           [web20xxx.xxx] 8247
+Jun 2005 The World English Bible (WEB): Psalms             [web19xxx.xxx] 8246
+
+Jun 2005 The World English Bible (WEB): Job                [web18xxx.xxx] 8245
+Jun 2005 The World English Bible (WEB): Esther             [web17xxx.xxx] 8244
+Jun 2005 The World English Bible (WEB): Nehemiah           [web16xxx.xxx] 8243
+Jun 2005 The World English Bible (WEB): Ezra               [web15xxx.xxx] 8242
+Jun 2005 The World English Bible (WEB): 2 Chronicles       [web14xxx.xxx] 8241
+
+Jun 2005 The World English Bible (WEB): 1 Chronicles       [web13xxx.xxx] 8240
+Jun 2005 The World English Bible (WEB): 2 Kings            [web12xxx.xxx] 8239
+Jun 2005 The World English Bible (WEB): 1 Kings            [web11xxx.xxx] 8238
+Jun 2005 The World English Bible (WEB): 2 Samuel           [web10xxx.xxx] 8237
+Jun 2005 The World English Bible (WEB): 1 Samuel           [web09xxx.xxx] 8236
+
+Jun 2005 The World English Bible (WEB): Ruth               [web08xxx.xxx] 8235
+Jun 2005 The World English Bible (WEB): Judges             [web07xxx.xxx] 8234
+Jun 2005 The World English Bible (WEB): Joshua             [web06xxx.xxx] 8233
+Jun 2005 The World English Bible (WEB): Deuteronomy        [web05xxx.xxx] 8232
+Jun 2005 The World English Bible (WEB): Numbers            [web04xxx.xxx] 8231
+
+Jun 2005 The World English Bible (WEB): Leviticus          [web03xxx.xxx] 8230
+Jun 2005 The World English Bible (WEB): Exodus             [web02xxx.xxx] 8229
+Jun 2005 The World English Bible (WEB): Genesis            [web01xxx.xxx] 8228
+
+Jun 2005 Audio: Middlemarch, by George Eliot               [mdmarxx3.xxx] 8227C
+[Computer-generated audio files in MP3 format]
+[87 mp3 files: mdmar003.mp3-mdmar863.mp3; mdmar3-readme.txt, mdmar3-index.htm]
+(Note:  individual files only, no .zip)
+Jun 2005 Fairy Tales; Their Origin and Meaning, by J. Bunce[frtomxxx.xxx] 8226
+[Subtitle: With Some Account of Dwellers in Fairyland]
+[Author's Full Name: John Thackray Bunce]
+[HTML version in frtom10h.zip only; contains 7 individual HTML files.]
+
+Jun 2005 Defence of Divine Revelation, by Hosea Ballou     [?drevxxx.xxx] 8225
+[Full title: A Series of Letters In Defence of Divine Revelation]
+Jun 2005 Fundamenta Krestomatio, by L. Zamenhof            [?esprxxx.xxx] 8224
+[Language: Esperanto]
+[Also posted: HTML in 8espr10h.zip and 8espr10h.htm]
+Jun 2005 Edgar Huntly, by Charles Brockden Brown           [edhntxxx.xxx] 8223
+[Title note:  alternate spelling "Edgar Huntley"]
+[HTML version in edhnt10h.htm and edhnt10h.zip]
+Jun 2005 Early Letters of George Wm. Curtis, ed. G.W. Cooke[lcurtxxx.xxx] 8222
+[Full author: G. W. Curtis, ed. George Willis Cooke]
+Jun 2005 A Study of Poetry, by Bliss Perry             [#2][?stptxxx.xxx] 8221
+
+Jun 2005 Remarks, by Bill Nye                              [?rmrkxxx.xxx] 8220
+Jun 2005 The Desert and The Sown, by Mary Hallock Foote    [?dsrtxxx.xxx] 8219
+Jun 2005 Wars and Empire, by Sam Vaknin         [Vaknin#14][wandexxx.xxx] 8218C
+[Also posted:  RTF in wande10r.rtf]
+Jun 2005 The Belgian Curtain, by Sam Vaknin     [Vaknin#13][belgcxxx.xxx] 8217C
+[Subtitle: Europe after Communism]
+[Also posted:  RTF in belgc10r.zip - zip only]
+Jun 2005 Issues in Ethics, by Sam Vaknin        [Vaknin#12][isethxxx.xxx] 8216C
+[Also posted:  RTF in iseth10r.zip - zip only]
+
+Jun 2005 The Development Psychology of Psychopathology[#11][dppsyxxx.xxx] 8215C
+[Author's Full Name: Sam Vaknin]
+[Also posted: RTF in dppsy10r.zip - zip only]
+Jun 2005 Capitalistic Musings, by Sam Vaknin    [Vaknin#10][capmuxxx.xxx] 8214C
+[Also posted:  RTF in capmu10r.zip - zip only]
+Jun 2005 Three Years in Tristan da Cunha, by K. M. Barrow  [?trisxxx.xxx] 8213
+Jun 2005 Poems, by Robert Southey                      [#3][spoemxxx.xxx] 8212
+Jun 2005 Outdoor Girls at Wild Rose Lodge,by Laura Lee Hope[?gwrlxxx.xxx] 8211
+[Subtitle: or, The Hermit of Moonlight Falls]
+[Also posted: HTML - 8gwrl10h.zip and 8gwrl10h.htm]
+
+
+May 2005 Reize naar Surinamen, by John Gabriel Stedman [#4][?rns4xxx.xxx] 8099
+[Full title: Reize naar Surinamen, en door de binnenste gedeelten van Guiana]
+[Language: Dutch]
+May 2005 Reize naar Surinamen, by John Gabriel Stedman [#3][?rns3xxx.xxx] 8098
+[Full title: Reize naar Surinamen, en door de binnenste gedeelten van Guiana
+  (deel 3)] [Language: Dutch]
+May 2005 Reize naar Surinamen, by John Gabriel Stedman [#2][?rns2xxx.xxx] 8097
+[Full title: Reize naar Surinamen, en door de binnenste gedeelten van Guiana
+  (vol. II of IV)] [Language: Dutch]
+
+Nov 2004 Rime,Tullia d'Aragona                             [?tldaxxx.xxx] 6938
+[Subtitle: Le Rime di Tullia d'Aragona, cortigiana del Secolo XVI]
+[Editor: Enrico Celani] [Language: Italian]
+
+
+=-=-=-=[ 20 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Aug 2003 The Unobstructed Universe, by Stewart Edward White[030113xx.xxx] 0262A
+[http://gutenberg.net.au/ebooks03/0301131.txt or ZIP]
+Aug 2003 World So Wide, by Sinclair Lewis                  [030112xx.xxx] 0261A
+[http://gutenberg.net.au/ebooks03/0301121.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301121h.html HTML]
+
+Aug 2003 The Betty Book, by Stewart Edward White           [030111xx.xxx] 0260A
+[http://gutenberg.net.au/ebooks03/0301111.txt or ZIP]
+Aug 2003 The Virgin and the Gypsy, by D H Lawrence         [030110xx.xxx] 0259A
+[http://gutenberg.net.au/ebooks03/0301101.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301101h.html HTML]
+Aug 2003 The Stars Are Still There, by Stewart Edward White[030109xx.xxx] 0258A
+[http://gutenberg.net.au/ebooks03/0301091.txt or ZIP]
+Aug 2003 The Road I Know, by Stewart Edward White          [030108xx.xxx] 0257A
+[http://gutenberg.net.au/ebooks03/0301081.txt or ZIP]
+Aug 2003 The Prodigal Parents, by Sinclair Lewis           [030107xx.xxx] 0256A
+[http://gutenberg.net.au/ebooks03/0301071.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301071h.html HTML]
+
+Jul 2003 The History of Spiritualism Vol II, by A. C. Doyle[030106xx.xxx] 0255A
+[Full author:  Arthur Conan Doyle]
+[http://gutenberg.net.au/ebooks03/0301061.txt or ZIP]
+Jul 2003 The History of Spiritualism Vol I, A. C. Doyle    [030105xx.xxx] 0254A
+[http://gutenberg.net.au/ebooks03/0301051.txt or ZIP]
+Jul 2003 Flush: A Biography, by Virginia Woolf             [030104xx.xxx] 0253A
+[http://gutenberg.net.au/ebooks03/0301041.txt or ZIP]
+and http://gutenberg.net.au/ebooks03/0301041h.html HTML]
+Jul 2003 Cymbeline Refinished, by George Bernard Shaw      [030103xx.xxx] 0252A
+[Subtitle: A Variation on Shakespear's Ending]
+[http://gutenberg.net.au/ebooks03/0301031.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301031h.zip ZIPPED HTML]
+Jul 2003 Of Time and the River, by Thomas Wolfe            [030102xx.xxx] 0251A
+[http://gutenberg.net.au/ebooks03/0301021.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301021h.zip ZIPPED HTML]
+
+Jul 2003 Titanic and Other Ships, by Charles Lightoller    [030101xx.xxx] 0250A
+[http://gutenberg.net.au/ebooks03/0301011.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301011h.zip ZIPPED HTML]
+Jul 2003 It Can't Happen Here, by Sinclair Lewis           [030100xx.xxx] 0249A
+[http://gutenberg.net.au/ebooks03/0301001.txt or ZIP]
+  and http://gutenberg.net.au/ebooks03/0301001h.html]
+Jul 2003 The Road Away from Revolution, by Woodrow Wilson  [030099xx.xxx] 0248A
+[http://gutenberg.net.au/ebooks03/0300991.txt]
+Jul 2003 The Land of Hidden Men, by Edgar Rice Burroughs   [030098xx.xxx] 0247A
+[http://gutenberg.net.au/ebooks03/0300981h.html HTML]
+[Originally published as Jungle Girl]
+Jul 2003 Belshazzar, by H Rider Haggard                    [030097xx.xxx] 0246A
+[http://gutenberg.net.au/ebooks03/0300971.txt or ZIP]
+
+Jul 2003 Old-Ugly Face, by Talbot Mundy                    [030096xx.xxx] 0245A
+[http://gutenberg.net.au/ebooks03/0300961.txt or ZIP]
+Jul 2003 The Interpreters, by A.E.                         [030095xx.xxx] 0244A
+[http://gutenberg.net.au/ebooks03/0300951.txt or ZIP]
+[Real name: George William Russell]
+Jul 2003 The House of the Titans, by A.E.                  [030094xx.xxx] 0243A
+[http://gutenberg.net.au/ebooks03/0300941.txt or ZIP]
+[Real name: George William Russell]
+
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+
+----------------------------------------------------------------------
+
+2) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Mark for the beer, no computers this week - too 'ot, Greg,
+Michael, and Larry Wall. Entertainment for the workers provided by BBC 6music.
+</pre>
+
+<a href="/nl_archives/2003/pgmonthly_2003_08_06_part_1.txt" target="_blank" rel="nofollow">pgmonthly_2003_08_06_part_1.txt</a>

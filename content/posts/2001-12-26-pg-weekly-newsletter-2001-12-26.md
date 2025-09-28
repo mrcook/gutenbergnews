@@ -1,0 +1,1011 @@
+---
+params:
+  id: 1867
+title: PG Weekly Newsletter (2001-12-26)
+date: 2001-12-26T16:28:38+00:00
+author: Michael Cook
+layout: post
+url: /20011226/pg-weekly-newsletter-2001-12-26/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+To: "Project Gutenberg Weekly Newsletter" &lt;gweekly@listserv.unc.edu&gt;
+Date: Wed, 26 Dec 2001 14:40:39 -0500 (EST)
+
+
+
+PROJECT GUTENBERG WEEKLY NEWSLETTER FOR  WEDNESDAY, DECEMBER 26, 2001
+
+***4,261 Tree-Friendly Titles Online***
+
+***29 New Listings This Week***
+
+***119 New Listings This Month***
+
+***1,209 New Listings This Year***
+
+Your suggestions are encouraged as to the way we divide years and months.
+
+The first Newsletter of 2001 was 01/03/01, and the next one is 01/02/02.
+We have always counted our production from the middle of the week, as we
+send out the Newsletters on Wednesdays.  However, since we changed to a
+new format including both weekly and monthly Newsletters, we have to set
+a format for how to count monthly production, and we need to make sure
+that fits well with how we count weekly production.  Of course, this is
+all likely to become historical when we produce so many eBooks per day
+that we have to send out a daily Newsletter, as well.
+
+However, back to the present for the moment. . .sometimes we will count
+52 Wednesdays per year, and sometimes 53. . .since 52 weeks only add up
+to 364 days, and thus every 7th year we would get 53 Wednesdays, and we
+are not counting leap years, which cause this to happen even more.
+
+This year the 365 days starting from 01/03/01 would end on 01/04/02,
+including 01/01/01, and thus we would have 53 weeks counted. . . .
+
+The question is!!!
+
+How would you create a bookkeeping system that handles this best.
+
+Right now the default would be that we counted the 01/03/01
+Newsletter as part of the year 2000, since most of that was
+produced during December, 2000 [remember, monthly back then],
+so we should obviously include 01/02/02 in the year 2001.
+
+But what will we do when we actually have to count 53 weeks?
+
+
+Happy New Year!!!
+
+
+Michael
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+     - Intro
+     - Copyright research contact info
+     - Online proofreading team
+     - Making Donations
+     - Access to the collection
+     - Non-English Texts
+     - Information about Mirrors
+     - "Life + 50" Copyright Countries Listing
+     - Weekly etext update:
+       - 12 new U.S. etexts
+     - Statistics
+     - Newsscan news
+     - Information about mailing lists
+     - Tagline
+
+***
+
+ANYONE WILLING TO HELP TRANSLATE A VERY GREAT SHORT BOOK INTO ITALIAN???
+
+I'm an italian teenager of 17 and I visited your website more and more
+times to search some books, but i can't read whole books in English!!
+Can you tell me where I can find an italian translation of your
+telematic books?  In particular, I'd want to read "Flatland"
+by Edwin A. Abbott.  My compliments and greetings to you all.
+I hope you'll write me soon. Tommaso Landi ( nlandi@val.it )
+
+***
+
+Please put Project Gutenberg on your Holiday Gift Giving list
+I've been advised we have just enough to get to month's end.
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com &lt;mailto:hart@pobox.com&gt;
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+If you need to follow-up on materials sent in for copyright research,
+contact Michael Hart at hart@pobox.com.  Also send him a message if
+you recently sent in an etext to be posted, and haven't seen it
+announced yet.
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+Please note the NEW FASTER ADDRESS for distributed proofreading:
+       http://charlz.dns2go.com/gutenberg
+
+***
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search" feature at:
+
+http//promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+etexts in Bulgarian, Chinese, Danish, Dutch/Flemish, French,
+German, Italian, Japanese, Latin, Portuguese, Swedish and
+Welsh.  And, of course, English; and there are some who would
+count the language of DNA/GATC. . .
+
+And very-recently we added our first etext in Greek.
+
+Let's do even more languages. . .
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 12/26/01**:  4,261
+(This number includes the 34 etexts posted at the PG Australia web site.)
+
+Thru 12/26/01:  51 Weeks & 3 Days (360 days)
+                1,209 total new etexts, yr-to-date.
+                Weekly avg.:  23.71
+                Daily avg:     3.36
+
+The above translates to the following;
+Our Total For The Year Is About 1209 For 360 days,
+this is 3.36 per day or 100.8 Per 30 day month. . . .
+We are about 51 weeks through the year. . . .
+
+These statistics are calculated based on full weeks of production,
+each production-week ending on a Wednesday, starting with the first
+Wednesday in Jan.  In 2001, Jan 3rd was the first Wednesday, and
+Jan 10th was the end of the first week of production.  And on this
+basis, etexts announced between Dec 26, 2001 and Jan 2, 2002 will
+be counted as the last production of 2001.
+
+Five years ago, in Dec 1996, we announced etext #768; this
+represented the output for the first 25 years of Project
+Gutenberg.  Five years later there are more than 4,250
+Project Gutenberg eBooks online.
+
+***
+
+
+Correction
+May 2003 Atlantis:The Antideluvian World, Ignatius Donnelly[xatawxxx.xxx]4032
+                         ^
+Should be this:
+May 2003 Atlantis:The Antediluvian World, Ignatius Donnelly[7atawxxx.xxx]4032
+May 2003 Atlantis:The Antediluvian World, Ignatius Donnelly[8atawxxx.xxx]4032
+
+New Sigificatnly Improved Files posted:
+        7ataw11.txt 7ataw11.zip
+        8ataw11.txt 8ataw11.zip
+        ataw11h.htm ataw11h.zip
+
+
+***29 New eBooks For Project Gutenberg Readers This Week***
+
+Sep 2003 The Shaving of Shagpat by G. Meredith, all [GM#11][gm11vxxx.xxx]4405
+Sep 2003 The Shaving of Shagpat by G. Meredith, v4  [GM#10][gm10vxxx.xxx]4404
+Sep 2003 The Shaving of Shagpat by G. Meredith, v3  [GM#09][gm09vxxx.xxx]4403
+Sep 2003 The Shaving of Shagpat by G. Meredith, v2  [GM#08][gm08vxxx.xxx]4402
+Sep 2003 The Shaving of Shagpat by G. Meredith, v1  [GM#07][gm07vxxx.xxx]4401
+
+
+
+Jul 2003 Two Years Before the Mast, by Richard Henry Dana  [2yb4mxxx.xxx]4277
+[The new editions are listed as 2ybrm10a [ASCII Plain] and 10b [accents, etc]
+Also see:
+Feb 2000 Two Years Before the Mast, by Richard Henry Dana  [2yb4mxxx.xxx]2055
+
+Jul 2003 North and South, Elizabeth C Gaskell [Gaskell #14][ecgnsxxx.xxx]4276
+[Author's full name: Elizabeth Cleghorn Gaskell]
+
+Jul 2003 Ruth, by Elizabeth Cleghorn Gaskell  [Gaskell #13][gruthxxx.xxx]4275
+Jul 2003 Wives and Daughters, E. C. Gaskell   [Gaskell #12][wivedxxx.xxx]4274
+Jul 2003 A Briefe and True Report, Thomas Hariot [Hariot 2][7brtrxxx.xxx]4273
+Jul 2003 The Christian Year, Rev. John Keble               [chryrxxx.xxx]4272
+Jul 2003 A Modern Telemachus, Charlotte M Yonge  [Yonge#17][abchrxxx.xxx]4271
+
+Jul 2003 The Ragged Lady, complete,  by W.D. Howells[WH#53][wh3rlxxx.xxx]4270
+Also see:
+Sep 2002 Ragged Lady, by William Dean Howells Vol 2 [WH#52][wh2rlxxx.xxx]3406
+Sep 2002 Ragged Lady, by William Dean Howells Vol 1 [WH#51][wh1rlxxx.xxx]3405
+
+Jul 2003 The Complete Plays of John Galsworthy      [JG#37][gplayxxx.xxx]4269
+Also see:
+Nov 2001 Four Short Plays, by John Galsworthy      [JG #33][shplyxxx.xxx]2920
+Through:
+Nov 2001 The Silver Box, by John Galsworthy        [JG #19][silbxxxx.xxx]2906
+
+Jul 2003 Cousin Phillis, Elizabeth C. Gaskell [Gaskell #11][cphilxxx.xxx]4268
+Jul 2003 Abbeychurch, by Charlotte M Yonge       [Yonge#15][abchrxxx.xxx]4267
+Jul 2003 Woman's Way Through Unknown Labrador, Mrs. Hubbard[wwlbrxxx.xxx]4266
+[Full title: A Woman's Way Through Unknown Labrador]
+[Full author: Mina Benson Hubbard (Mrs. Leonidas Hubbard, Junior)]
+Jul 2003 Heroes Every Child Should Know, by Hamilton Mabie [hrchkxxx.xxx]4265
+[Full author: Hamilton Wright Mabie]
+Jul 2003 The Golden Bowl, Complete, by Henry James  [HJ#44][gbwlcxxx.xxx]4264
+Jul 2003 The Golden Bowl, Volume II, by Henry James [HJ#43][gbwl2xxx.xxx]4263
+Jul 2003 The Golden Bowl, Volume I, by Henry James  [HJ#42][gbwl1xxx.xxx]4262
+
+
+
+Jul 2003 The Complete Essays of John Galsworthy     [JG#36][jgessxxx.xxx]4261
+Jul 2003 Andersonville, Volume 4       [#6 by John McElroy][an04vxxx.xxx]4260
+Jul 2003 Andersonville, Volume 3       [#5 by John McElroy][an03vxxx.xxx]4259
+Jul 2003 Andersonville, Volume 2       [#4 by John McElroy][an02vxxx.xxx]4258
+Jul 2003 Andersonville, Volume 1       [#3 by John McElroy][an01vxxx.xxx]4257
+[One more new listing below]
+[1.  The Complete Andersonville was previously posted under this listing:]
+Feb 2002 Andersonville, by John McElroy[#2 by John McElroy][andvlxxx.xxx]3072
+[2.  The Essays of John Galsworthy have been previously posted as:]
+Nov 2001 Quality and Others, by John Galsworthy    [JG #17][qualtxxx.xxx]2904
+Nov 2001 Inn of Tranquility et al, by John Galsworthy [#16][inntrxxx.xxx]2903
+Nov 2001 Concerning Letters, by John Galsworthy    [JG #15][cnlet10x.xxx]2902
+Nov 2001 Censorship and Art, by John Galsworthy    [JG #14][cnart10x.xxx]2901
+
+Jul 2003 Stammering, Its Cause and Cure, Benjamin N. Bogue [stammxxx.xxx]4256
+[Author's full name: Benjamin Nathaniel Bogue]
+
+Thanks to Robert Rowe, Charles Franks and the Online Distributed
+Proofreading Team for the following:
+
+Jul 2003 Stammering, Its Cause and Cure, Benjamin N. Bogue [stammxxx.xxx]4256
+[Author's full name: Benjamin Nathaniel Bogue]
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,261 eTexts online as of December 26, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.35 from each book,
+for Project Gutenberg to have already given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.40 when we had 4161 Etexts on Dec 5
+This "cost" is down from $2.46 when we had 4059 Etexts on Nov 1
+This "cost" is down from $2.53 when we had 3951 Etexts on Oct 3
+This "cost" is down from $2.61 when we had 3828 Etexts on Sep 5
+This "cost" is down from $2.70 when we had 3709 Etexts on Aug 1
+This "cost" is down from $2.76 when we had 3620 Etexts on Jul 4
+This "cost" is down from $2.83 when we had 3534 Etexts on Jun 6
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2
+This "cost" is down from $2.97 when we had 3367 Etexts on Apr 4
+[This was the month we released two full Newsletters at one time]
+[Also just after this changeover, we subtracted out reserved ##s]
+This "cost" is down from $3.00 when we had 3333 Etexts on Apr 4
+This "cost" is down from $3.10 when we had 3225 Etexts on Mar 7
+This "cost" is down from $3.17 when we had 3150 Etexts on Feb 6
+This "cost" is down from $3.23 when we had 3100 Etexts on Jan 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on Dec 6, 2000
+
+Month     ###     Yearly Total
+
+12/26/01   12       1192
+12/19/01   32       1180
+12/12/01   39       1148
+12/05/01   19       1109    (counted these in Nov gmonthly 12/05/01)
+Dec Total 119
+[SubTotal]
+
+Nov Total  82       1090            11 Month Average  99.09
+Oct Total 107       1008            10 Month Average 100.80
+Sep Total 119        901             9 Month Average 100.11
+Aug Total 123        782             8 Month Average  97.75
+Jul Total  93        659             7 Month Average  94.14
+Jun Total 107        566             6 Month Average  94.33
+May Total  70        459             5 Month Average  91.80
+Apr Total  82        389             4                97.25
+Mar Total 132        307             3               102.33
+Feb Total  75        175             2                87.50
+Jan Total 100        100             1               100.00
+
+1st Qtr ending 04/04/01 (13 weeks):
+    307 total for an avg. of 23.62/wk
+2nd Qtr ending 07/04/01 (13 weeks):
+    259 total for an avg. of 19.952/wk
+3rd Qtr ending 10/03/01 (13 weeks):
+    335 total for an avg. of 25.77/wk
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+    gmonthly (for monthly newsletters)
+    gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+          subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+          subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+          unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+***
+
+"Mistakes are the portals of discovery."  -- James Joyce
+
+***
+--=====================_48605239==_
+Content-Type: text/plain; charset="us-ascii"
+Content-Disposition: attachment; filename="nl_1226.txt"
+
+PROJECT GUTENBERG WEEKLY NEWSLETTER FOR  WEDNESDAY, BDECEMBER 26, 2001
+
+***4,244 Tree-Friendly Titles Online******12 New Listings This Week***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+    - Intro
+    - Copyright research contact info
+    - Online proofreading team
+    - Making Donations
+    - Access to the collection
+    - Non-English Texts
+    - Information about Mirrors
+    - "Life + 50" Copyright Countries Listing
+    - Weekly etext update:
+      - 12 new U.S. etexts
+    - Statistics
+    - Newsscan news
+    - Information about mailing lists
+    - Tagline
+
+***
+
+Please put Project Gutenberg on your Holiday Gift Giving list
+I've been advised we have just enough to get to month's end.
+
+We need your support more than ever. . .donation information follows!
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+Main URL is promo.net Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+hart@pobox.com &lt;mailto:hart@pobox.com&gt;
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+***
+
+If you need to follow-up on materials sent in for copyright research,
+contact Michael Hart at hart@pobox.com.  Also send him a message if
+you recently sent in an etext to be posted, and haven't seen it
+announced yet.
+
+***
+
+Get involved with Project Gutenberg by joining the Proofreading Team!
+Please note the NEW FASTER ADDRESS for distributed proofreading:
+      http://charlz.dns2go.com/gutenberg
+
+***
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03&gt;
+
+You will need the first five letters of the filenames listed below.
+Note that updated etexts usually go in their original
+directory (e.g., etext01, etext02, etc.).
+
+***
+
+Looking for non-English etexts?  Try the "advanced search"
+feature at:
+
+http//promo.net/cgi-promo/pg/t9.cgi
+
+This allows you to search by language. Currently, there are
+etexts in Bulgarian, Chinese, Danish, Dutch/Flemish, French,
+German, Italian, Japanese, Latin, Portuguese, Swedish and
+Welsh.  And, of course, English; and there are some who would
+count the language of DNA/GATC. . .
+
+And very-recently we added our first etext in Greek.
+
+Let's do even more languages. . .
+
+***
+
+For a list of mirrors (copies) of the Project Gutenberg
+collection, view http://promo.net/pg/list.html
+
+We're always looking for new mirrors, especially outside
+of North America.  For information about how to set one
+up, contact Greg Newby &lt;gbnewby@ils.unc.edu&gt;
+
+***
+
+The most recent list we received indicated these were all "life +50"
+countries for copyright expiration:
+
+Angola, Argentina, Australia, Bahrain, Bangladesh, Barbados, Belize,
+Benin, Bulgaria, Burkina Faso, Burundi, Canada, Chile, China, the Czech
+Republic, Egypt, El Salvador, Fiji, Ghana, Iceland, Indonesia, Japan,
+(South) Korea, Latvia, Lebanon, Malawi, Morocco, Nepal, New Zealand,
+Oman, Pakistan, Panama, the Philippines, Poland, Qatar, St. Vincent
+and the Grenadines, Saudi Arabia, Singapore, Solomon Islands, South
+Africa, Taiwan, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia,
+and Ukraine.
+
+Works which are in the public domain in Australia and other "Life +50"
+countries may remain copyrighted in other countries. People may not
+download, or read online, such books if they are in a country where
+copyright protections extend more than 50 years past an author's death.
+The author's estate and publishers still retain their legal and moral
+rights to oversee the work in those countries. That still leaves a lot
+of readers out there to enjoy etexts of some of the greatest literary
+works of the twentieth century.
+
+For more information, visit http://onlinebooks.library.upenn.edu/okbooks.html
+
+***
+
+And now the weekly Etext update:
+
+Total PG ebooks available online **AS OF 12/26/01**:  4,244
+(This number includes the 34 etexts posted at the PG Australia web site.)
+
+Thru 12/26/01:  51 Weeks & 3 Days (360 days)
+                1,192 total new etexts, yr-to-date.
+                Weekly avg.:  23.18
+                Daily avg:     3.31
+
+The above translates to the following;
+Our Total For The Year Is About 1,192 For 360 days,
+this is 3.31 per day or 99.33 Per 30 day month. . . .
+We are about 51 weeks through the year. . . .
+
+These statistics are calculated based on full weeks of production,
+each production-week ending on a Wednesday, starting with the first
+Wednesday in Jan.  In 2001, Jan 3rd was the first Wednesday, and
+Jan 10th was the end of the first week of production.  And on this
+basis, etexts announced between Dec 26, 2001 and Jan 2, 2002 will
+be counted as the last production of 2001.
+
+Five years ago, in Dec 1996, we announced etext #768; this
+represented the output for the first 25 years of Project
+Gutenberg.  Five years later there are more than 4,200 etexts
+on line.
+
+--=={ 12 NEW U.S. POSTS }==--
+
+Sep 2003 The Shaving of Shagpat by G. Meredith, all [GM#11][gm11vxxx.xxx]4405
+Sep 2003 The Shaving of Shagpat by G. Meredith, v4  [GM#10][gm10vxxx.xxx]4404
+Sep 2003 The Shaving of Shagpat by G. Meredith, v3  [GM#09][gm09vxxx.xxx]4403
+Sep 2003 The Shaving of Shagpat by G. Meredith, v2  [GM#08][gm08vxxx.xxx]4402
+Sep 2003 The Shaving of Shagpat by G. Meredith, v1  [GM#07][gm07vxxx.xxx]4401
+
+Jul 2003 Abbeychurch, by Charlotte M Yonge       [Yonge#15][abchrxxx.xxx]4267
+Jul 2003 Woman's Way Through Unknown Labrador, Mrs. Hubbard[wwlbrxxx.xxx]4266
+[Full title: A Woman's Way Through Unknown Labrador]
+[Full author: Mina Benson Hubbard (Mrs. Leonidas Hubbard, Junior)]
+
+Jul 2003 Heroes Every Child Should Know, by Hamilton Mabie [hrchkxxx.xxx]4265
+[Full author: Hamilton Wright Mabie]
+Jul 2003 The Golden Bowl, Complete, by Henry James  [HJ#44][gbwlcxxx.xxx]4264
+Jul 2003 The Golden Bowl, Volume II, by Henry James [HJ#43][gbwl2xxx.xxx]4263
+Jul 2003 The Golden Bowl, Volume I, by Henry James  [HJ#42][gbwl1xxx.xxx]4262
+
+
+Thanks to Robert Rowe, Charles Franks and the Online Distributed
+Proofreading Team for the following:
+
+Jul 2003 Stammering, Its Cause and Cure, Benjamin N. Bogue [stammxxx.xxx]4256
+[Author's full name: Benjamin Nathaniel Bogue]
+
+
+--=={ ETEXT "COST" $$$: }==--
+
+With 4,244 eTexts online as of December 26, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.36 from each book,
+for Project Gutenberg to have already given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+This "cost" is down from $2.40 when we had 4161 Etexts on Dec 5
+This "cost" is down from $2.46 when we had 4059 Etexts on Nov 1
+This "cost" is down from $2.53 when we had 3951 Etexts on Oct 3
+This "cost" is down from $2.61 when we had 3828 Etexts on Sep 5
+This "cost" is down from $2.70 when we had 3709 Etexts on Aug 1
+This "cost" is down from $2.76 when we had 3620 Etexts on Jul 4
+This "cost" is down from $2.83 when we had 3534 Etexts on Jun 6
+This "cost" is down from $2.90 when we had 3444 Etexts on May 2
+This "cost" is down from $2.97 when we had 3367 Etexts on Apr 4
+[This was the month we released two full Newsletters at one time]
+This "cost" is down from $3.00 when we had 3333 Etexts on Apr 4
+This "cost" is down from $3.10 when we had 3225 Etexts on Mar 7
+This "cost" is down from $3.17 when we had 3150 Etexts on Feb 6
+This "cost" is down from $3.23 when we had 3100 Etexts on Jan 3, 2001
+This "cost" is down from $3.33 when we had 3000 Etexts on Dec 6, 2000
+
+Month     ###     Yearly Total
+
+12/26/01   12       1192
+
+12/19/01   32       1180
+12/12/01   39       1148
+
+Nov Total  82       1090            11 Month Average  99.09
+Oct Total 107       1008            10 Month Average 100.80
+Sep Total 119        901             9 Month Average 100.11
+Aug Total 123        782             8 Month Average  97.75
+Jul Total  93        659             7 Month Average  94.14
+Jun Total 107        566             6 Month Average  94.33
+May Total  70        459             5 Month Average  91.80
+Apr Total  82        389             4                97.25
+Mar Total 132        307             3               102.33
+Feb Total  75        175             2                87.50
+Jan Total 100        100             1               100.00
+
+1st Qtr ending 04/04/01 (13 weeks):
+   307 total for an avg. of 23.62/wk
+2nd Qtr ending 07/04/01 (13 weeks):
+   259 total for an avg. of 19.952/wk
+3rd Qtr ending 10/03/01 (13 weeks):
+   335 total for an avg. of 25.77/wk
+
+***
+
+[edupage/newsscan]
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+The Project Gutenberg Mailing Lists
+
+Project Gutenberg has five mailing lists.  Here is information about
+how to subscribe, unsubscribe, get your list configuration settings,
+and retrieve back issues.
+
+These are the Project Gutenberg mailing lists.  People interested in
+receiving regulary newsletters and other announcements about the
+Project Gutenberg etexts should subscribe to gweekly or gmonthly:
+
+"gweekly"  = Weekly General Public Announcements, including the newsletter
+"gmonthly" = Monthly General Public Announcements, including the newsletter
+"gutvol-l" = General Private Announcements for active volunteers
+"gutvol-d" = Discussion among active volunteers
+"hhelpers" = Heroic Helpers: Work tasks for active volunteers (approval needed)
+
+The "hhelpers" list requires an invitation or approval to subscribe,
+the others are open for anyone to subscribe.
+
+In May 2001, Michael Hart requested to divide the old "gutnberg" list
+into two new lists:
+
+   gmonthly (for monthly newsletters)
+   gweekly  (for weekly newsletters)
+
+Instead of "gutnberg", which has been inactivated, please subscribe to
+one of these two lists.  Both receive the Project Gutenberg newsletter
+on a monthly basis, but "gweekly" also receives weekly updates, which
+help people to hear sooner about the latest books that were published
+by Project Gutenberg.  Each list receives periodic announcements about
+Project Gutenberg, as well.  Traffic is quite light on both.
+
+
+To subscribe:
+
+To SUBSCRIBE to any of the Project Gutenberg mailing lists, send an
+email message to "lyris@listserv.unc.edu"
+
+The subject line of the message will be ignored.  The body of the
+message should contain text such as:
+
+         subscribe gmonthly Your True Name
+
+Where "gmonthly" is the list to subscribe to, and "Your True Name" is
+replaced by your actual name.  So if your name were Dudley P. Duck,
+your message might contain:
+
+         subscribe gmonthly Dudley P. Duck
+
+You do not need to include your email address, because Lyris gets it
+from the header of your email message.
+
+Beware that the address must be "lyris@listserv.unc.edu" You can't
+address your message to an address such as "listserv" or
+"listprocessor" or "majordom".  However, for backward compatibility,
+"listproc@lyris.unc.edu" still works, as does "lyris@lyris.unc.edu".
+
+
+To Unsubscribe:
+
+If you are trying to unsubscribe, please be aware that MANY different
+mailing lists relay the Newsletters from Project Gutenberg and Ask
+Dr. Internet, and that it is possible you do not receive our
+newsletters directly from us.  In any case of that nature, you would
+have to deal with that mailing list directly.  If you look through the
+email header information, you should be able to tell how you got it.
+
+But if you are on OUR lists, unsubscribing is easy.  Send email to
+"lyris@listserv.unc.edu" with the text:
+
+         unsubscribe gmonthly
+
+where "gmonthly" is replaced by the list you want to unsubscribe from.
+In addition, personalized unsubscribe information is appended to every
+message you get from all of the Project Gutenberg mailing lists.
+
+***
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+***
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with anything
+else related to the mailing lists, please email
+"owner-gutenberg@listserv.unc.edu" to contact the lists' (human)
+administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+Thanks for your interest in Project Gutenberg's mailing lists!  If you
+would like more information about Project Gutenberg, including an easy
+search tool to find and read our etexts, visit the Official Web Pages
+at http://promo.net/pg
+
+***
+
+"Mistakes are the portals of discovery."  -- James Joyce
+
+***
+
+INTERNET: NOW A MARKET PLACE BUT STILL A MEETING PLACE
+Since 1991, when the National Science Foundation opened the Internet to
+commercial uses, the Net has obviously changed its character from a "clubby"
+meeting place for scientists and other professionals to a fast-paced
+marketplace for the masses ... and for mass commerce. Is that good or bad?
+Both. Vint Cerf, known as the "Father of the Internet" for his role in
+creating the Internet nonproprietary communications protocol TCP/IP, admits
+that nonproprietary systems for commercialization are "not consistent with
+the spirit in which the Internet was born," but adds: "I'm pragmatic. The
+Internet has to pay for itself. Otherwise it wouldn't work anymore." Barbara
+Simmons, past president of the Association for Computing Machinery (ACM)
+says that the Internet "is the last remaining communications medium that
+allows the small person to participate. To lose that would be a great
+tragedy." (Los Angeles Times 25 Dec 2001)
+http://www.latimes.com/technology/wire/
+
+
+[If Honest???  . . .  from a Politico?]
+
+FCC CHAIRMAN PREDICTS MORE BIG TELECOM MERGERS
+Michael C. Powell, chairman of the Federal Communications Commission, says
+that more telecom mergers are necessary and inevitable, and that they can be
+accomplished without damage to maintenance of a competitive environment: "If
+we were honest, we would have to know and admit that network businesses
+always drive to size, scope and scale. To realize, at some level, the kind
+of extraordinary benefits we keep wanting on a national mass-market scale,
+there's bigness involved." And the effect on competition? "There's a big
+difference between big and market power or anti-competitive power, but
+sometimes we confuse the two... There's going to be an orbit of major global
+providers who will garner all the attention, but along their value chain
+there will be hundreds of important companies providing pieces of what the
+consumer needs." (Financial Times 20 Dec 2001)  http://news.ft.com/ft/
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+***
+
+SECURITY FLAW COMPROMISES WINDOWS XP
+Windows XP contains several security flaws that could further
+stymie sales for the new system, which has sold significantly
+less than previous Windows releases despite being billed as the
+best version yet. Hackers can remotely commandeer the target
+computer, crash it, redirect it to a Web site, or even use it in
+a denial-of-service attack. The flaws involve the "universal plug
+and play" feature that connects to other devices via the Internet.
+Windows Millennium Edition and Windows 98 also share the flaw
+when loaded with special Windows XP compatibility software.
+Microsoft and security consultants from eEye, the company who
+discovered the flaws, have released patches, which are now
+available on the Microsoft Web site.
+(Washington Post, 21 December 2001)
+
+[If this is true, why can't we contact anyone on the talk shows?]
+USING E-MAIL TO COUNT CONNECTIONS
+Columbia University sociologists are working to create
+algorithms that could speed peer-to-peer networks by modeling
+them after complex personal connections. Based on the popular
+"six degrees of separation" theory developed in the 1960s,
+Dr. Duncan Watts plans to prove that everyone on the globe is
+connected by six personal connections at most, via e-mail.
+Whether or not it is true, Watts said his research will help
+scientists understand how people form connections based on
+social links, and hopes that the research will also help
+computer network developers pioneer new, more efficient
+file-sharing systems. Cornell University associate professor
+of computer science Jon Kleinberg said the experiment will
+help researchers in his field capitalize on the strategies
+people use to locate others through personal links.
+(New York Times, 20 December 2001)
+
+SENATE PASSES EDUCATION BILL
+The Senate voted 87-10 to pass an education reform bill that
+would allow parents to prohibit companies from gathering
+information about their children at school. The legislation
+was originally proposed by Sens. Richard Shelby (R-Ala.) and
+Christopher Dodd (D-Conn.) as the Student Privacy Protection Act
+last year, but including it in the more comprehensive reform bill
+significantly improves its chances of being signed by President
+Bush. Companies frequently offer IT equipment and Internet access
+to public schools in exchange for the right to monitor students'
+usage and collect information about what they view and buy online.
+Consumer advocates and parents groups warned that marketers were
+exploiting children in this way, and the privacy language seeks
+to curtail such practices. The bill would give parents the choice
+to opt out of such data collection services. The education
+package will also earmark $7 billion for state technology
+initiatives, $450 million for math and science partnerships,
+and $250 million for school libraries to boost literacy
+through technology acquisitions.  (Newsbytes, 18 December 2001)
+
+A CALL TO END COPYRIGHT CONFUSION
+Jack Valenti of the Motion Picture Association of America warned
+technology firms that if they do not encrypt their digital
+content to ensure copy protection, then the federal government
+will institute its own standards. Congress may be preparing to
+pass the Security Systems Standards and Certification Act (SSSCA)
+proposed by Sen. Fritz Hollings (D-S.C.) as early as next year.
+The SSSCA requires digital rights management to be incorporated
+in any "interactive digital device" and prohibits the creation,
+sale, or distribution of any such device that lacks "certified
+security technologies" authorized by the Commerce Department.
+Free speech proponents such as the Electronic Frontier Foundation
+are opposed to the bill, which they claim will choke technology
+and act against fair-use rights. However, the Commerce
+Department's Bruce Mehlman believes that a government-instituted
+digital rights management standard would offer more fair-use
+rights than a standard created by the private sector.
+(Wired News, 18 December 2001)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_12_26.txt" target="_blank" rel="nofollow">pgweekly_2001_12_26.txt</a>

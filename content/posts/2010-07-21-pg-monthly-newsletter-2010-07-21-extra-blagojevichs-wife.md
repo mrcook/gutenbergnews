@@ -1,0 +1,44 @@
+---
+params:
+  id: 2580
+title: "PG Monthly Newsletter: Extra Blagojevichs Wife (2010-07-21)"
+date: 2010-07-21T15:53:11+00:00
+author: Michael Cook
+layout: post
+url: /20100721/pg-monthly-newsletter-2010-07-21-extra-blagojevichs-wife/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter Extra--Jul. 21, 2010
+eBooks Readable By Both Humans And Computers Since 1971
+
+
+We are making it!!!
+
+
+http://news.yahoo.com/s/ap/us_blagojevich_trial_sherlock_holmes
+
+Blagojevich's wife reads Sherlock Holmes at trial Mon Jul 19, 3:01 pm ET
+
+CHICAGO  The wife of former Illinois governor Rod Blagojevich has been
+engrossed in mysteries. But they have nothing to do with her husband's
+corruption trial.
+
+Patti Blagojevich said during a break Monday that she's been reading "The
+Adventures of Sherlock Holmes," a short story collection by Arthur Conan
+Doyle, on her cell phone.
+
+The fictional, pipe-smoking detective also appeared in a defense motion
+seeking Blagojevich's acquittal. Lawyers cited Doyle's caution against
+twisting facts to suit theories rather than the other way around.
+
+Patti Blagojevich has been seen reading from her phone during several
+less-riveting stretches of the case. She says she's also fond of Jane Austen.
+
+Her husband has pleaded not guilty to charges including that he schemed to
+sell President Barack Obama's former Senate seat.
+</pre>
+
+<a href="/nl_archives/2010/pgmonthly_2010_07_21-extra-blagojevichs-wife.txt" target="_blank" rel="nofollow">pgmonthly_2010_07_21-extra-blagojevichs-wife.txt</a>

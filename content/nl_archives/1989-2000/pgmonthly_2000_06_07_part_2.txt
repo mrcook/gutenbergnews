@@ -1,0 +1,608 @@
+========
+Subject: Project Gutenberg Newsletter Pt 2
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg mailing list" <gutnberg@listserv.unc.edu>
+Date: Wed, 7 Jun 2000 16:23:13 -0500 (CDT)
+
+
+**This is Project Gutenberg's Newsletter for Wednesday, June 7, 2001**
+[This is such a long Newsletter is is broken into 2 parts, this is #2]
+
+[Moderators. . .while I feel this news is an important part of this
+Newsletter. . .you have my permission not to include this portion.]
+
+Notes from News Scan
+
+[MCI] WORLDCOM PAYS $3.5 MILLION TO SETTLE "SLAMMING COMPLAINT"
+Long-distance company WorldCom Inc. is paying $3.5 million to settle an
+inquiry by the Federal Communications Commission into 2,900 complaints from
+persons charging that WorldCom telemarketers switched them away from other
+phone service carriers using a deceptive practice known as "slamming."
+WorldCom president Bernard J. Ebbers says the slamming incidents "were
+perpetrated by a few sales employees who have since been terminated."
+(Washington Post 7 Jun 2000)  [Not a cent went to the "slammees."]
+http://www.washingtonpost.com/wp-dyn/articles/A10351-2000Jun6.html
+
+CHINA ARRESTS WEB SITE OPERATOR
+Police in the Chinese city of Chengu have arrested 36-year-old Huang Qi on
+suspicion of "subverting state power" by operating the Web site
+www.6-4tianwang.com, which publishes information about human rights problems
+and corruption in China. If tried and convicted Huang could be imprisoned
+for more than ten years. (Reuters/San Jose Mercury News 7 Jun 2000)
+http://www.sjmercury.com/svtech/news/breaking/internet/docs/72937l.htm
+
+AT&T WINS APPROVAL FOR PURCHASE OF MEDIAONE
+The Federal Communications Commission gave conditional approval of AT&T's
+$58-billion planned acquisition of the MediaOne cable group, but will
+require the combined entity to comply with a rule barring any company from
+serving more than 30% of the nation's market for subscription-TV services,
+including cable and satellite. To meet that requirement, AT&T could sell off
+its stake in the Liberty Media Group, or its 25% share of Time Warner cable
+systems, or its own cable systems serving almost 10 million customers. But
+even after AT&T complies with the FCC's requirement to pare itself down, the
+company will be the nation's largest provider of long-distance telephone and
+cable TV service. (Washington Post 6 June 2000)
+http://www.washingtonpost.com/wp-dyn/articles/A3009-2000Jun5.html
+
+BRUSSELS LOOKING TO CLOSE WEB TAX LOOPHOLE
+The European Commission is expected to adopt a proposal this week that would
+eliminate a loophole used by merchants outside the EU to avoid levying the
+Value Added Tax (VAT) on their customers. Currently, U.S. companies can sell
+intangible items such as digital music, software and information over the
+Web to buyers in Europe without having to worry about being accountable for
+the VAT. The Commission now wants to treat sales of those items in the same
+way it does books, CDs and other tangible purchases, which are already
+subject to the VAT. The U.S. has pushed for relief for American companies,
+but the director of tax policy at the EC says e-commerce should be treated
+like any other form of commerce and no concessions should be made.
+"Obviously, the U.S. will have a problem with this as American companies
+will be taxed despite having no physical presence (in the EU)," says the
+president of KPMG-European VAT & Customs Services. (Financial Times 5 Jun 2000)
+http://www.ft.com/
+
+INFOTECH IS DRIVING THE AMERICAN ECONOMY
+A new report from the U.S. Commerce Department says that digital
+technologies have become the driving force of the American economy,
+accounting for one-third of overall economic growth in the last five years
+and making the country more productive. During that time computer prices
+fell 26% a year, infotech investment doubled, technology industries invested
+$45 billion in R&D, and the number of people in the world with Internet
+access increased a hundred-fold, to more than 300 million. (New York Times
+Cybertimes 6 Jun 2000)
+http://www.nytimes.com/library/tech/00/06/cyber/capital/06capital.html
+
+BOOKSELLERS IN WARY TRUCE WITH DIGITAL COMPANIES
+There are 60 digital providers at this year's BookExpo America convention in
+Chicago, Amazon.com founder Jeff Bezos is the feature speaker, and the
+convention offerings include seminars with titles such as "ePublishing
+Today" and "Retailing eBooks and Books on Demand." Although some booksellers
+are in shock about the decision to ask Bezos to be the keynote speaker, the
+president of the American Booksellers Association says that most people
+acknowledge that the choice of Bezos "reflects some of the changes in the
+book industry." (AP/San Jose Mercury News 31 May 2000)
+htp://www.sjmercury.com/svtech/news/breaking/ap/docs/51596l.htm
+
+LAWSUIT CHARGES CBS WITH STEALING IDEAS FROM WEB COMPANY
+Entertainment Network Inc., which operates a Florida-based Web site that
+paid college tuition for a half dozen women who agreed to have cameras
+situated throughout their group house sending 24-hour-a-day live video feeds
+of all aspects of their daily lives, is suing CBS and Infinity Broadcasting
+for allegedly stealing the site's marketing strategies and technical
+expertise. CBS and Infinity, who are developing a similar program called
+"Big Brother," say the suit is frivolous. (AP/New York Times 1 June 2000)
+http://www.nytimes.com/library/tech/00/06/biztech/articles/01voyeur-lawsuit.html
+
+ ##MITNICK LAWYERS SAY SPEAKING BAN VIOLATES FIRST AMENDMENT
+Ex-convict network hacker Kevin Mitnick, out on parole but forbidden by the
+court to write or speak about the computer industry, is being represented by
+New York attorney Floyd Abrams, an expert on the First Amendment to the
+Constitution, which guarantees freedom of speech.
+Abrams has been retained by publisher Steven Brill, who wants to use Mitnick
+as a columnist for the Contentville Web site. (CNet/New York Times 25 May 2000)
+http://www.nytimes.com/cnet/CNET_0_4_1951220_00.html
+
+LATIN AMERICA BETS ON WIRELESS
+Latin America's population lags behind Europe and the U.S. in terms of
+online users, but that may soon change.  The new users won't be logging on
+via a PC, however -- they're much more likely to access the Internet via
+wireless phones, a market that's growing at an impressive 30%. The switch to
+wireless access eliminates the need to plunk down $1,000 or more on a new
+PC, and could jump-start the Internet revolution in that region. While 90%
+of Latin American households have a television set and cable penetration
+approaches 50% in most countries, only a small percentage of middle-income
+households are online -- a statistic that has stymied the expansion of
+e-commerce in the region. "As a businessman, I want to be able to invest in
+a place where I will be able to sell the Internet to most people, not just
+the few that are rich," says one Argentine-born entrepreneur. "What I love
+about investing in Europe is that it has the richest poor people of the
+world." (The Standard 9 May 2000)
+http://www.thestandard.com/article/display/0,1151,14920,00.html
+
+INTEL COURTS "OPEN-SOURCE" MOVEMENT WITH NEW CHIP
+In an uncharacteristic move, Intel plans to release over the Internet
+technical details of its new Itanium microprocessor, in a effort to boost
+the use of the Linux operating system with its chips. The Itanium Processor
+Microarchitecture Reference, to be released today, includes nitty-gritty
+details such as how the chip manages data memory. Previously, details like
+this were closely guarded secrets, made available only to a few partners,
+like Microsoft, who were forced to sign nondisclosure agreements. Linux, an
+"open-source" operating system whose technical details are made freely
+available to software developers and engineers, is increasingly found on the
+servers that Intel hopes will soon be using its chips. Itanium, previously
+code-named Merced, is due for release in the second half of this year and
+marks Intel's first major new microprocessor design in nearly 15 years.
+(Wall Street Journal 10 May 2000)
+http://interactive.wsj.com/articles/SB957908075498923116.htm
+
+BILL CRIMINALIZES DRUG LINKS
+The House Judiciary Committee is expected to vote this morning on
+the Methamphetamine Anti-Proliferation Act, legislation that
+would affect some Web sites because it restricts the publication
+of information about illegal drugs.  Marv Johnson, legislative
+counsel for the ACLU, says the act raises serious First Amendment
+concerns.  A section of the bill prohibits teaching or
+demonstrating how controlled substances are manufactured.  The
+House and Senate both have their own versions of the bill.  A
+number of House Judiciary Committee members are in favor of the
+Senate version.  The Senate version would require ISPs and other
+hosting companies to respond to government complaints by
+shuttering offending Web sites on 48 hours notice.
+(Wired News, 9 May 2000)
+
+DOT-COMS INVADE THE DORMITORY
+In the tradition of Dell Computer and Microsoft, more and more
+college students are running dot-com businesses out of their dorm
+rooms--despite some school polices forbidding such enterprises. Past
+prohibitions on student business stemmed from the noise and confusion
+created in merchandise-based transactions - a student selling T-shirts out
+of a dorm room, for example. But today's student entrepreneurs use computers
+and cell phones to conduct business quietly and their activities are less
+disturbing to their roommates. Some school tech staff watch levels of
+Internet traffic to try to ferret out those doing business online.  But
+student entrepreneurs set up off-campus post office boxes, use cell phones
+and non-school Internet addresses, and meet prospective investors in
+restaurants to avoid detection.  And even when they are caught, some schools
+do little more than lecture them. (Newsweek, 15 May 2000)
+
+BATTLE OVER DVD CODE MOVES TO HYPERLINKS
+In a case that could hold widespread ramifications for free
+speech on the Internet, the Motion Picture Association of America
+and other top movie studios are requesting a federal judge grant an
+injunction that would force 2600 Magazine to remove controversial hyperlinks
+from its Web site.  The hyperlinks provide information about DVD encryption.
+The movie studios contend that the encryption codes are trade secrets, but
+civil liberties advocates such as the Electronic Frontier
+Foundation argue that the codes are free speech protected by the
+First Amendment.  This is just the latest round in the battle
+between the movie studios and New York-based 2600 Magazine.
+Months ago the studios were granted an injunction that prohibited
+the Web site from displaying information about the DVD
+encryption.  Electronic Frontier Foundation attorney Robin Gross
+says the injunction the movie studios are seeking would chill
+free speech. (Newsbytes, 4 May 2000)
+
+INTERNET GENDER GAP HAS CLOSED IN U.S.
+According to a study by the Pew Research Center, 46% of Web surfers are now
+female, compared with just 18% in 1996. Much of the "gender gap" has closed
+in the last six months, during which 9 million American women went online
+for the first time. After surveying 3,533 adults in March, Pew researchers
+concluded that men and women spent roughly equal time online, with women
+tending to frequent health and medical sites, and men using the Net to
+research product information and trade stocks. The findings mirror those of
+another market research study released last month by the Angus Reid Group of
+Vancouver, Canada, which said American men and women spend equal time
+surfing the Net and placing online shopping orders. And in contrast to some
+earlier reports, the two recent studies found that being online contributes
+to social interaction and family connections, rather than fueling isolation
+and depression. "The Internet is not isolationist; it's 'connectionist,'"
+says Pew official Lee Rainie. (Los Angeles Times 11 May 2000)
+http://www.latimes.com/business/20000511/t000044476.html
+
+U.S. HOUSE VOTES TO EXTEND NET TAX BAN
+The U.S. House of Representatives voted 352 to 75 yesterday to extend the
+moratorium on Internet-specific taxes for another five years. The current
+ban was set to expire in October 2001. The Internet Nondiscrimination Act
+also repealed a "grandfather" clause that had allowed 11 states to collect
+Internet access fees imposed before the ban was enacted. The moratorium does
+not prohibit a state from collecting taxes on sales of goods by sellers who
+have a physical presence in that state.  The legislation has sparked sharp
+disagreement between those who feel the moratorium hurts small
+bricks-and-mortar retailers and states that need the sales tax revenue, and
+those who want to foster the fledgling e-commerce industry. (ECommerce Times
+11 May 2000)
+http://www.ecommercetimes.com/news/articles20000/00511-3.shtml
+
+NETWORK SOLUTIONS TO OFFER "PRE-OWNED" NAMES
+Network Solutions is expanding its Internet domain name registration
+business to include "pre-owned" names ending in .com, .net and .org. Dozens
+of Web sites have entered the resale market in the last few years, giving
+cyberspeculators a venue for auctioning off names they've registered,
+sometimes for millions of dollars. Network Solutions says it will offer its
+new service for free during an introductory period, and later plans to fold
+its resale business into its existing name search and registration process.
+(Los Angeles Times 15 May 2000)
+http://www.latimes.com/business/20000515.t000045842.html
+
+CHINESE FINANCIAL SITE PUNISHED FOR "SPREADING RUMORS"
+The China Finance Information Network, a local Web site, has come under fire
+from the country's Internet Information Management Bureau, which was
+established in April to monitor Internet content. The site was fined
+US$1,800 and suspended for 15 days for "spreading rumors" damaging to the
+government's image. The transgression appears to be the publication in March
+of a Hong Kong newspaper article about corruption by a provincial official
+in Hubei. Bureau chief Wang Qingchun was quoted in the Liberation Daily
+saying that pending rules on Internet content could limit Chinese Web sites
+to publication of news originating only from authorized reports in the state
+media. (Financial Times 15 May 2000)   http://www.ft.com/
+
+
+WHEN IS A DATABASE MORE THAN A DATABASE?
+Upstart Jurisline.com is being sued by legal publisher Lexis for copying the
+CDs containing court opinions and related documents that Lexis sells and
+distributing the same information free on its Web site. For decades, the
+database of legal material has been marketed by two companies -- Reed
+Elsevier's Lexis and Thomson Corp.'s West Publishing -- which charge premium
+rates for access to a single document and reap millions of dollars a year in
+subscription fees from the nation's law firms. Jurisline.com, on the other
+hand, distributes the information for free, making its revenue on
+advertising. At issue in the court case is whether Lexis's license agreement
+prohibiting the purchaser from developing "a database, infobase or other
+information resource" is legally enforceable, given that the materials in
+question were written on the taxpayer's dime and can't be copyrighted. A
+federal judge is expected to rule today in the case. (Wall Street Journal 15
+May 2000)
+http://interactive.wsj.com/articles/SB958348989291026253.htm
+
+TRADEMARK-THIS DOT-COM
+A study of trademark applications submitted to the U.S. Patent & Trademark
+Office shows that the number of applications between 1994 and 1999 increased
+more than a thousand-fold, from just 307 in 1994 to 33,731 in 1999. In
+addition, the number of trademark applications with the ".com" domain name
+went from 4 in 1994 to 12,000 last year. A partner in the Philadelphia law
+firm that conducted the study sees some confusion up ahead: "There are
+similar trademarks pending with garden.com, pets.com and others of that ilk.
+The real question will be what happens when you have a generic.com and
+someone else comes real close. What happens when you stick on an i, or an e,
+or make it a plural?" The government's trademark policies are posted on
+www.uspto.gov. (New York Times 15 May 2000)
+http://partners.nytimes.com/library/tech/00/05/biztech/articles/15pate.html
+
+BRITS UNFAZED BY DOT-COM FRENZY
+A new survey by FT.com shows the British public has little interest in
+Internet startups -- only 7% of the 2,000 people questioned said they
+aspired to be part of the dot-com industry, and only 3% said they'd give up
+their current jobs if they had a good idea for a startup. Most people
+surveyed did not think the Internet will have much of an impact on their
+jobs, with only 5% worrying that changes brought about by the Net could
+affect the future of their careers. Even the get-rich-quick scenario failed
+to draw much interest -- only 12% of respondents said they envied dot-com
+millionaires, while 22% said they were overrated and overhyped and 18% said
+they were just opportunists looking for a quick buck. "Too many people by
+far are alienated by the Internet rather than empowered by it," says Michael
+Foster, managing director of FT.com. "They don't want to be part of the
+dotcom revolution, they don't want to invest in it and they don't understand
+the technology. It is the responsibility of business and the media to
+communicate the rewards the Internet can offer in a way which connects with
+people." (Financial Times 22 May 2000)  http://www.ft.com/
+
+JAPANESE PREFER TO LOG ON VIA PHONE
+Figures released by Japan's three cell phone operators -- NTT DoCoMo, Nippon
+Ido Tsushin Corp. and J-Phone -- indicate the number of Japanese cell phone
+users with Internet access will top 10 million by the end of this month,
+making the mobile phone Japan's most popular means for accessing the Web.
+DoCoMo says it has 6.92 million subscribers to its iMode service, and is
+adding about 20,000 new users a day. iMode subscribers can exchange e-mail,
+do online banking and surf among more than 7,000 Internet sites set up for
+mobile phone access. (Reuters/TechWeb 22 May 2000)
+http://www.techweb.com/wire/story/reuters/REU20000522S0002
+
+
+GROUP TO PROPOSE DIGITAL COPYRIGHT CHANGES
+
+[Right. . .this is "Progressive Policy". . .talk about hiding
+your true ideology behind an extremely evasive oxymoron. . .]
+
+The Progressive Policy Institute is expected to meet with Congress on
+Wednesday to deliver its proposed remedy for the current legal wranglings
+over copyright infringements via the Internet. The changes include:
+requiring Internet companies to collect personally identifiable and
+verifiable information from their users, rather than allowing them to sign
+on anonymously; setting a specific time frame for removing
+copyright-infringing materials off the Net; and allowing judges to grant
+injunctions against companies such as Napster whose services are
+substantially used for exchanging pirated material. (Los Angeles Times 22
+May 2000)  http://www.latimes.com/business/20000522/t000048299.html
+
+G-8 TACKLES CYBERCRIME
+[In case you wondered why Gnutella has gotten so much air time. . . .]
+Envoys from the world's leading industrialized nations and private business
+met this week in Paris to discuss cooperation in fighting Internet-based
+crime, but widespread differences in national approaches could stymie
+efforts. At the heart of those differences is the degree to which
+governments are willing to monitor the Net for illegal behavior, which
+inevitably occurs at the expense of citizens' privacy. In addition,
+e-commerce businesses tend to discourage more government involvement, which
+they view as a menace to both economic growth and individual liberty. On
+April 27, the Council of Europe published a draft treaty proposing uniform
+international law enforcement standards in cyberspace, including the
+requirement that all messages and content sent via the Internet be stored
+for three months before deleting. That proposal has met with mixed reactions
+among both governments and industry representatives. The U.S., which held
+observer status during the drafting, has not endorsed that proposal. (Los
+Angeles Times 18 May 2000)
+http://www.latimes.com/business/20000518/t000046914.html
+
+RECOMMENDATION COULD DERAIL WORLDCOM-SPRINT DEAL
+[Not that MCI-Worldcom and Sprint aren't already way too powerful. . .]
+Federal antitrust lawyers have sent the U.S. Justice Department a formal
+recommendation against WorldCom's $115-billion buyout of Sprint, arguing
+that the deal would harm competition by combining the nation's second and
+third largest long-distance carriers and creating a dominant entity in
+Internet switching services. Justice's antitrust chief, Joel Klein, who has
+not yet taken a position on the merger, has asked to meet with the
+companies' lawyers next week to hear their side of the story. The deal could
+still be consummated if WorldCom and Sprint are willing to agree to
+significant divestitures to protect competition. A spokesman for the
+companies said he's confident the deal will "go through and that all of the
+various regulatory reviews will be concluded by the fall." The acquisition
+is also under scrutiny by the Federal Communications Commission and the;24r
+European Commission. (Wall Street Journal 18 May 2000)
+http://interactive.wsj.com/articles/article1.htm
+
+LYCOS ACQUIRED BY TERRA NETWORKS
+[More mergers. . .in case you didn't realize this happens EVERY day!!!]
+Internet portal company Lycos will be acquired in a $10 billion or more
+stock swap by Terra Networks, the Internet arm of Spanish telephone company
+Telefonica, with German company Bertelsmann taking a stake in the combined
+company. Annika Alford, an industry analyst with the research firm IDC, says
+that Terra's interest in Lycos represents a shift from its current efforts
+to dominate Latin America to "a broader international focus." (Washington
+Post 16 May 2000)
+http://www.washingtonpost.com/wp-dyn/articles/A9121-2000May16.html
+
+AOL TO LAUNCH FREE ONLINE SERVICE FOR SCHOOLS
+[Let's not forget it was kids who "invented" the Internet as we know it]
+[Let's also not forget that AOL "invented" Gnutella, and once the genie
+was out of the bottle, hastily reversed their direction. . . .]
+America Online is set to launch its new AOL@School service -- a free version
+of its regular service that will include e-mail, instant messaging, and
+information resources designed for elementary, middle-school and high-school
+students. The free service does not include Internet access, but rather is
+targeting schools that are already wired with high-speed hook-ups. The
+AOL@School service will not feature advertising, but will offer marketing
+pitches for school supplies and other goods in areas aimed at teachers and
+administrators. (Wall Street Journal 16 May 2000)
+http://interactive.wsj.com/articles/SB958436442629078285.htm
+
+NOTICING MARCH TO E-PUBLISHING, MAJOR FIRMS CHOOSE TO LEAD PARADE
+A burst of announcements today will signal that the electronic publishing
+revolution is just a few years away. Best-selling author Michael Crichton's
+new thriller "Timeline" will be made available through an arrangement
+between Microsoft and the publishing companies Simon & Schuster (a unit of
+Viacom) and Random House (a unit of Bertelsmann). In a separate development,
+Time Warner's publishing group is creating two new startups, iPublish.com
+and iWrite to seek authors of material to be published in electronic form.
+Robert E. Baensch of New York University says: "The large conglomerates
+realize now that they better learn by doing rather than to continue to
+observe not one, not 5, not 50, but hundreds of startup.coms that are
+entering this market." (New York Times 23 May 2000)
+http://partners.nytimes.com/library/tech/00/05/biztech/articles/23books.html
+
+
+
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+E-NOVEL APPROACH PROMISES NEW CHAPTER FOR BOOK LOVERS
+Electronic books might look and feel just like traditional books
+within the next several years, due to companies such as E Ink
+that are advancing the technology.  E Ink, a small company
+founded by MIT researchers, is working on flexible electronic
+paper that looks and feels like standard paper, and electronic
+ink that can change into different characters.  E-book users
+would be able to change the book's content by plugging the device
+into a phone line or wireless receiver.  Currently, E Ink is
+using its technology to make indoor signs, since large letters
+are much easier to produce than the small letters required for a
+book.  J.C. Penney, Eckerd drugstores, and Yahoo! are all using E
+Ink signs.  As E Ink refines its technology, it believes e-books
+will be possible by 2003 or 2004.  E Ink's displays are more
+readable than any electronic display, and require little power to
+change content.  In addition, the displays stay on even when the
+power is off, so an E Ink book would not need to be powered after
+the user has loaded content.  Xerox's Palo Alto Research Center
+is also working on e-book technology, but E Ink appears to be in
+the lead. (USA Today, 9 May 2000)
+
+INTERNET OFFERING ECONOMIC LIFELINE TO RURAL SOUTH
+The rural South is starting to reverse its low-tech image as many
+small towns work to provide Internet access for residents and
+businesses that see the region's growth potential.  The historic
+town of Thomasville, Ga., recently purchased its local utilities
+to provide inexpensive, reliable Internet access.  Thomasville's
+high-tech push led food-processing firm Flower Industries to move
+its data-processing business to the town.  Another small Southern
+town, Conway, Ark., is home to a top database-marketing service
+called Acxiom with more than $700 million in annual sales.
+Meanwhile, Blacksburg, Va., gave all of its residents free
+Internet access in the early 1990s and now has over 70 percent of
+its population using the Internet on a regular basis.  Rural
+markets are eager for access to technology, since utilities such
+as cable companies have traditionally neglected these regions in
+favor of more densely populated and therefore profitable areas.
+Building up technology in small towns is also viewed as a way to
+alleviate some of the overcrowding in urban areas.
+(Christian Science Monitor Online, 3 May 2000)
+
+E-WORDS ARE TOUGH FOR FRANCE TO SWALLOW
+French officials are trying to prevent American terms associated
+with the Internet from entering the French language.  Officials,
+particularly those from the Academie Francaise, which has been
+defending the French language since 1635, are afraid that if firm
+action is not taken to protect the language, French translations
+of Internet terms will be rejected in favor of American versions.
+Recently, the French Finance Ministry produced a list of
+acceptable French vocabulary for the Internet age, which was
+created by a government commission after long talks with the
+Academie Francaise.  The list provides correct versions for
+increasingly common words.  Although these terms are just
+recommendations for the majority of French people, they are
+mandatory for public declarations and official documents.
+Meanwhile, the Academie Francaise has been working on its own
+"Dictionary of Official Terms," which will be mandatory for
+government use, including public schools, where many children
+encounter the Internet for the first time. (USA Today, 1 May 2000)
+
+
+RURAL SCHOOL IS NOW WIRED TO THE WORLD
+The Internet is helping rural schools overcome isolation in
+Wyoming, a state so sparsely populated that 19 of its 234
+elementary schools have fewer than 10 students this year.  This
+school year Wyoming became the first state to provide Internet
+access in all of its public schools.  One beneficiary of the
+technology is nine-year-old Diamond Forbes, the only student in a
+one-room elementary school in Kaycee, Wyo., who uses an iMac to
+surf the Web to keep up with third graders in larger schools.
+Wyoming, where job growth is slow and many college graduates
+leave the state, has not yet capitalized on the tech-driven
+economy.  Recognizing the need to provide children with job
+skills, Gov. Jim Geringer five years ago spearheaded the effort
+to bring Internet access to all Wyoming schools, which has cost
+$25 million so far.  By next month, Wyoming plans to have all of
+its high schools connected to a two-way interactive video system
+that will allow students to participate remotely in classes their
+schools do not offer. (New York Times, 4 May 2000)
+
+
+
+
+UNIVERSITIES SEE WEB AS TOOL TO SELL INTELLECTUAL PROPERTY
+Hoping to supplement waning federal research funds, universities
+are selling their intellectual property online.  Using
+traditional means, universities have been largely unsuccessful in
+their efforts to sell their research; in 1998, just three cents
+of revenue was generated from every dollar spent on research
+initiatives.  Universities attribute this poor return to
+inexperience in the market and an emphasis on department
+interests rather than market requirements when performing
+research.  A new online intellectual marketplace, called
+UVentures.com, aims to improve university efforts to sell
+intellectual property by connecting buyers and sellers online.
+The marketplace is expected to generate more purchases than
+traditional methods, because it links a greater variety of
+interested parties.  The marketplace is also expected to make it
+easier for companies to search for available intellectual
+properties.  "We welcome with open arms this ability to find
+technology by browsing a single site," says Bob Johnson, a
+commercial analyst at biotechnology firm Onyvax Limited.
+(InternetWeek Online, 1 May 2000)
+
+
+
+EDUCATION REASSESSED IN WORKER SHORTAGE DEBATE
+The high-tech industry, complaining of a severe labor shortage,
+is reconsidering the importance of a four-year college degree for
+certain types of IT workers.  Four-year universities are often
+unable to keep up with rapidly changing technology.  As a result,
+lobbyists and recruiters are turning to community colleges and
+for-profit schools, which seem to be more flexible and less
+expensive than traditional schools, says Harris Miller, president
+of the Information Technology Association of America.  Industry
+observers say some technicians and support staff do not need the
+same level of education as software developers, for example.
+(EE Times Online, 4 May 2000)
+
+COLLEGES GET BAD GRADES FOR WEB SITES
+Prospective college students say, on average, university and
+college Web sites do not provide the information they need.
+BreathingLife.com Director of Operations Bonnie Matheney says
+higher education Web sites often have big files and badly placed
+scripts, as well as high-resolution pictures, which make
+downloads much longer.  Her company intends to offer assistance
+and information to college and graduate applicants.  Case Western
+Reserve University dean of admissions Bill Conley says college
+Web pages tend to be bandwidth-heavy because the schools have
+faster connections than their audiences, so even a focus group
+reviewing the site on campus will get a different picture than
+those elsewhere.  Student Stacey Recarba researched schools
+online, and found--after waiting for the pages to download--that
+she could easily find information about the schools' athletic
+programs, but application information was much more difficult.
+Matheney notes that schools have so many different groups within
+themselves and so many different groups they want to reach that
+forming a coherent message can be a major challenge.  She
+recommends that someone from the information services support
+staff be appointed Webmaster to track usage, assign URLs, and
+keep the system running. (Interactive Week, 1 May 2000)
+
+E-MAIL PRODUCTIVITY GAINS = $9,000 PER EMPLOYEE
+Ferris Research has released the results of a study designed to quantify the
+costs and benefits of e-mail, and estimates that the overall benefit in
+terms of increased productivity equals about $9,000 per employee. Rather
+than treading into the murky area of nonquantifiable benefits, such as
+improved decision-making, Ferris attempted to focus on items that delivered
+a tangible benefit, like time not spent on addressing snail mail envelopes,
+operating postage and fax machines, etc. It derived a 15% to 20%
+productivity improvement, with an overall increase of 326 hours per employee
+on the average. Ferris then attempted to quantify those hours, giving them a
+value of $13,000. Then came the downside: Ferris found that employees waste
+on an average 115 hours dealing with nonproductive e-mail, translating to a
+loss of about $4,000 per worker a year. Subtract the loss from the gain, and
+the result is an overall benefit of $9,000 per employee, or a 15%
+productivity gain. Ferris says that rate can be raised to 20% by more
+actively managing company e-mail systems: discouraging personal e-mail,
+shortening e-mail distribution lists, and helping workers identify and trash
+spam. (Investor's Business Daily 25 May 2000)
+
+AOL, WORLDCOM TEAM UP
+America Online and WorldCom have signed an agreement to market AOL's
+Internet services to WorldCom's residential local and long-distance
+customers. WorldCom's Internet subscribers will be offered at least six
+months to convert to AOL. (Bloomberg/Los Angeles Times 25 May 2000)
+http://www.latimes.com/business/20000525/t000049364.html
+
+LOAFER-TRACKING SATELLITES IN DENVER
+Following a TV news report showing some city employees playing cards and
+sleeping on the job, Denver officials want to spend $1.5 million to track
+Public Works Department and other city vehicles through Global Positioning
+System (GPS) satellites originally developed for the military. Denver labor
+lawyer Ellen Kelman opposes the plan: "There is no system that will prevent
+some individuals from engaging in abuse. But do we want to infringe on the
+rights of all to catch a few scofflaws?" (AP/USA Today 23 May 2000)
+http://www.usatoday.com/life/cyber/tech/cth959.htm
+
+OUTSMARTED, TOYSMART PULLS THE PLUG
+The most recent of several online toy merchants to shut down, the
+Massachusetts-based educational toy retailer Toysmart.com, owned in large
+part by Walt Disney Co., has announced it is going out of business.
+Forrester Research industry analyst Seema Williams says, "Toysmart.com never
+even came close. They didn't do anything wrong, but they were just the wrong
+company selling the wrong product at the wrong time." The company was unable
+to compete with larger companies such as eToys, Amazon.com, and ToysRUs.com,
+which offered wider selections of merchandise and had larger advertising
+budgets. (AP/Washington Post 23 May 2000)
+http://www.washingtonpost.com/wp-dyn/articles/A53319-2000May23.html
+
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+
+
+
+
+

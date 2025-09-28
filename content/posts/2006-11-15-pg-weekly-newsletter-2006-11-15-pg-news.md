@@ -1,0 +1,858 @@
+---
+params:
+  id: 2461
+title: "PG Weekly Newsletter: Pg News (2006-11-15)"
+date: 2006-11-15T15:07:38+00:00
+author: Michael Cook
+layout: post
+url: /20061115/pg-weekly-newsletter-2006-11-15-pg-news/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>pgweekly_2006_11_15.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, November 15, 2006
+****eBooks Readable By Both Humans And Computers Since July 4, 1971****
+
+
+Project Gutenberg News Website
+------------------------------
+For more statistical information and PG related news please visit the
+Project Gutenberg Newsletter website:
+
+https://www.gutenbergnews.org
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit our Volunteers Wanted! section at:
+
+https://www.gutenbergnews.org
+
+CURRENT HEADLINES:
+  * Our Distributed Proof Readers Need...
+  * Project Gutenberg Is Seeking Legal Beagles
+  * Graphics needed for PG website and publicity materials
+  * Turn eBooks into MP3
+  * Project Gutenberg Needs DVD Burners
+  * "SF" for PG Australia
+
+
+Access to all the PG eBooks
+---------------------------
+To search by title, author, language and subject visit:
+
+http://www.gutenberg.org/find
+
+If you know the file's name then try our master download sites:
+
+http://www.gutenberg.org/dirs/
+
+  or
+
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+Using your Web browser or FTP program, navigate to the appropriate directory
+and look for the first five characters of the file's name.
+
+Note that updated eBooks usually go in their original directory
+(e.g., etext99, etext00, etc.)
+
+
+=-=-=-=-=-==-=-=-==-=-=-=[ USER SUBMITTED NEWS ]=-=-=-=-=-==-=-=-==-=-=-=
+None this week.
+
+
+=-=-==-=-=-=-==-=-=-==-=-=[ PROGRESS REPORT ]=-=-==-=-=-=-==-=-=-==-=-=-=
+
+Today Is Day #315/364, 2006
+This Completes Week #45 and Month #10.25
+49 Days/8 Weeks To Go [We get 52 Wednesdays this year]
+
+
+TOTALS
+
+19,776 [+ 82] Project Gutenberg U.S. [NOT Including PG Australia]
+ 1,378 [+ 17] Australian eBooks [NOT Included in above line]
+   376 [+  3] Gutenberg Europe [NOT Included in above lines]
+   378 [+  0] PG PrePrint Site [NOT Included in above lines]
+============
+21,897 [+102] GRAND TOTAL
+
+21,895 [+102] By Hand Count
+21,901 [+102] By Programmed Count
+
+ 8,099 Books To Go To #30,000
+ ~19% of the way from 20,000 to 30,000
+
+[Our production year begins/ends 1st Wednesday of the month/year]
+
+
+RESERVED/PENDING
+
+44 - Reserved/Pending Count
+
+
+2006 STATISTICS
+
+3,753 New eBooks [at all four sites]
+
+Averaging ~366 eBooks per month!!! [Includes: PGAu, PGEu and PrePrints]
+
+All four sites combined are averaging 83 eBooks per week in 2006.
+
+    * 102 New eBooks This Week
+    *  95 New eBooks Last Week
+    * 197 New eBooks This Month [Nov]
+
+PROGRESS REPORT (Including Distributed Proofreaders)
+
+In the first 10.25 months of this year, PG produced 3,753 new eBooks.
+It took us from Jul 1971 to Jan 2003 to produce our first 3,753 eBooks!
+
+                That's 45 WEEKS as Compared to ~32 Years!!!
+
+
+17,527 eBooks this week last year
+4,374 New eBooks in last 12 Months [Incl. PGAu, PGEu & PrePrints]
+
+Monthly Averages:
+
+    * 366 per month in 2006
+    * 266 per month in 2005 [Counting 216 PGEu]
+    * 248 per month in 2005 [Not Counting PGEu]
+    * 336 per month in 2004
+    * 355 per month in 2003
+    * 203 per month in 2002
+    * 103 per month in 2001
+
+Yearly Totals:
+
+    * 3753 New eBooks in 2006 (Passed 2005 total in 3/4 year)
+    * 3186 New eBooks in 2005 [Counting 216 PGeu]
+    * 2970 New eBooks in 2005 [Not Counting PGEu]
+    * 4049 New eBooks in 2004
+    * 4164 New eBooks in 2003
+    * 2441 New eBooks in 2002
+    * 1240 New eBooks in 2001
+
+18,833 New eBooks since the start of 2001,
+that's ~268 eBooks per Month for ~70.25 Months.
+
+
+NOTES:
+
+Project Gutenberg Australia total does NOT include PGAu eBooks posted at the
+U.S. site: www.gutenberg.org
+
+We have several counting methods, and they often differ by several books
+that we have to hunt down by hand to reconcile. There is also some
+duplication between these various collections. Volunteers will need to take
+these duplications into account.
+
+The totals for the four collections are eBooks that originated as created,
+edited, proofread, formatted, etc., by Project Gutenberg and its 50,000
+volunteers, while the Project Gutenberg Consortia Center with 100,000+ books
+contains entire eBook collections from 125+ eLibraries so the production
+statistics given here are for some 20,000+ eBooks created by the various
+teams of Project Gutenberg volunteers, for which we share the responsibility
+of maintaining. The Consortia Center eBooks were and are the responsibility
+of the donating eLibraries, and we would be happy to forward any suggestions
+for correction to those eLibraries, but those eBooks must be edited by the
+donating parties, as per their requests.
+
+
+=-=-=-=-=-=-==-=-=-==-=-=-=[ OTHER STATISTICS ]=-=-=-=-=-==-=-=-==-=-=-=-=
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+DISTRIBUTED PROOFREADERS:
+9,368 [+48] at Distributed Proofreaders
+
+The Distributed Proofreaders started production in October 2000 and
+currently has over 36,000 volunteers.
+
+For more complete DP statistics, visit:
+http://www.pgdp.net/c/stats/stats_central.php
+
+NOTE: PGDP mostly included in US eBooks
+NOTE: PGEU has its own Distributed Proofreaders whose total closely matches
+      their grand total.
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER REPORT
+137,142 eBooks at PGCC
+
+The PGCC collection at http://www.gutenberg.cc has doubled in size from the
+listings below, but we don't have exactly matching collection sizes yet for a
+new breakdown.
+
+There are ~185,000 separate downloadable files, and presuming 45% are
+redundant or are required at the level of more than one file per book:
+
+The number of individual eBooks now is about 100,000.
+
+Thus the grand total of eBooks at Project Gutenberg is 21,000+ created by
+Project Gutenberg volunteers, and 100,000 donated from over 125 other
+eLibraries, to create a downloadable library of 100,000+ eBooks plus 80,000
+donated from over 100 other eLibraries, to create a downloadable library of
+100,000+ eBooks.
+
+PGCC's current eBook and eDocument Collections listings of 18 collections with
+this week's listing as:
+
+[This list is being updated as the moment, you can get the entire list on the
+collections pages at gutenberg.cc]
+
+Alex-Wire Tap Collection,           2,036 HTML eBook Files
+Black Mask Collection,             12,000 HTML eBook Files
+The Coradella Bookshelf Collection,   141 eBook Files
+DjVu Collection,                      272 PDF and DJVU eBook Files
+eBooks@Adelaide Collection,        27,709 eBook Files
+Himalayan Academy,                  3,400 HTML eBook Files
+Internet Archive                  ~30,000 eBook Files [In Progress]
+Literal Systems Collection,            68 MP3 eBook Files
+Logos Group Collection,           ~34,000 TXT eBook Files
+Poet's Corner Poetry Collection,    6,700 Poetry Files
+Project Gutenberg Collection,      15,035 eBook Files
+PGCC Chinese eBook Collection        ~300 eBook files (Note Name Change)
+Renascence Editions Collection,       561 HTML eBook Files
+Swami Center Collection,               78 HTML eBook Files
+Tony Kline Collection,                223 HTML eBook Files
+Widger Library,                     2,600 HTML eBook Files
+CIA's Electronic Reading Room,      2,019 Reference Files
+=======Grand Total Files=======  ~137,142 Total Files  ========
+
+Average Size of the Collections     8,067.18 Total Files
+
+
+DAILY PREPRINTS
+378 [+ 0] at Daily PrePrints
+
+Stats available at: http://preprints.readingroo.ms
+
+Please note that sometimes it takes a few weeks for entire collections to fully
+appear in the PrePrints Section, thus the count sometimes jumps by a large
+number when the files are eventually completed and added in. Also note that the
+PrePrint files are just that, PrePrints, and thus may move later to other
+locations, including the main collection or The Project Gutenberg Consortia
+Center, etc. For example, on June 14, 200 WAP compatible cell phone eBooks
+appeared, and will likely be moved to other collection points later.
+
+The entire process of working out the details just to send them to the PrePrints
+Section took well over a month.
+
+Even with the speeded up process of the PrePrints Section, it still takes a
+certain amount of time to collect and put such a large collection online in a
+proper manner.
+
+
+THE ONLINE BOOKS PAGE
+25,000 eBooks are listed via The Online Books Page
+
+NOTE: 6,300 of these are from PG.
+
+
+INTERNET PUBLIC LIBRARY
+22,284 entries at IPL
+
+The Internet Public Library (IPL) had a similar listing to The Online Books Page
+which is now in limbo. If anyone knows what is happening with the IPL, please
+let us know. Inquiries, made months ago, and again recently, have not turned up
+any current information.
+
+You can try a new IPL service at:
+http://www.ipl.org/div/subject/browse/hum60.60.00/
+
+It would appear that The Internet Public Library ended its first incarnation
+with about 22,284 entries, which has now been surpassed by the Online Books
+Page.
+
+We are still looking for more Internet Public Library info.
+
+
+                  ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+NOTE: This Newsletter is best viewed with a fixed-width font, such as
+      Courier New or similar.
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Locusts and Wild Honey, by John Burroughs                                 6355
+   [Updated edition of etext04/lwhon10.txt]
+   [Link: http://www.gutenberg.net/6/3/5/6355 ]
+   [Files: 6355.txt; 6355-8.txt; 6355-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct title ("Carrados", not "Carrodos"):
+Four Max Carrados Detective Stories, by Ernest Bramah 12932
+  [Link: http://www.gutenberg.net/1/2/9/3/12932 ]
+  [Files: 12932.txt; 12932-8.txt; ]
+
+
+-=-=-=-=[  81 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Milton's Comus, by John Milton                                           19819
+   [Editor: William Bell]
+   [Link: http://www.gutenberg.org/1/9/8/1/19819 ]
+   [Files: 19819.txt; 19819-8.txt; 19819-0.txt; 19819-h.htm]
+
+Dixie Hart, by Will N. Harben                                            19818
+   [Link: http://www.gutenberg.org/1/9/8/1/19818 ]
+   [Files: 19818.txt; 19818-8.txt; 19818-h.htm]
+
+The Heroic Enthusiasts, (1 of 2) (Gli Eroici Furori), by Giordano Bruno  19817
+   [Subtitle: An Ethical Poem]
+   [Translator: L. Williams]
+   [Link: http://www.gutenberg.org/1/9/8/1/19817 ]
+   [Files: 19817.txt; 19817-8.txt; 19817-h.htm]
+
+Six Little Bunkers at Cowboy Jack's, by Laura Lee Hope                   19816
+   [Link: http://www.gutenberg.org/1/9/8/1/19816 ]
+   [Files: 19816.txt; 19816-8.txt; 19816-h.htm]
+
+Roy Blakely, Pathfinder, by Percy Keese Fitzhugh                         19815
+   [Illus.: Howard L. Hastings]
+   [Link: http://www.gutenberg.org/1/9/8/1/19815 ]
+   [Files: 19815.txt; 19815-h.htm; ]
+
+Three years in France with the Guns, by C. A. Rose                       19814
+   [Subtitle: Being Episodes in the life of a Field Battery]
+   [Link: http://www.gutenberg.org/1/9/8/1/19814 ]
+   [Files: 19814.txt; 19814-8.txt; 19814-h.htm]
+
+Ade's Fables, by George Ade                                              19813
+   [Link: http://www.gutenberg.org/1/9/8/1/19813 ]
+   [Files: 19813.txt]
+
+The South and the National Government, by William Howard Taft            19812
+   [Link: http://www.gutenberg.org/1/9/8/1/19812 ]
+   [Files: 19812.txt; 19812-h.htm]
+
+A Book of English Prose, by Percy Lubbock                                19811
+   [Subtitle: Part II, Arranged for Secondary and High Schools]
+   [Link: http://www.gutenberg.org/1/9/8/1/19811 ]
+   [Files: 19811.txt; 19811-8.txt]
+
+My Antonia, by Willa Sibert Cather                                       19810
+   (See also: #242, from a different print edition)
+   (Note: all formats of this eBook have been generated from a TEI master file)
+   [Link: http://www.gutenberg.org/1/9/8/1/19810 ]
+   [Files: 19810.txt; 19810-8.txt; 19810-0.txt; 19810-tei.tei;
+    19810-h.htm; 19810-pdf.pdf; 19810-page-images.zip]
+
+The Story of a Dewdrop, by J. R. Macduff                                 19809
+   [Link: http://www.gutenberg.org/1/9/8/0/19809 ]
+   [Files: 19809.txt; 19809-h.htm]
+
+Della storia d'Italia, v. 1-2, by Cesare Balbo                           19808
+   [Subtitle: dalle origini fino ai nostri giorni - Sommario]
+   [Editor: Fausto Nicolini]
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/9/8/0/19808 ]
+   [Files: 19808-8.txt]
+
+Sketch of Grammar of the Chippeway Languages, by John Summerfield        19807
+   [Subtitle: To Which is Added a Vocabulary of some of the Most Common Words]
+   [Link: http://www.gutenberg.org/1/9/8/0/19807 ]
+   [Files: 19807.txt; 19807-h.htm]
+
+Everyman's Land, by C. N. Williamson and A. M. Williamson                19806
+   [Link: http://www.gutenberg.org/1/9/8/0/19806 ]
+   [Files: 19806.txt; 19806-8.txt; 19806-h.htm]
+
+The Tale of Mr. Tod, by Beatrix Potter                                   19805
+   [Link: http://www.gutenberg.org/1/9/8/0/19805 ]
+   [Files: 19805.txt; 19805-h.htm]
+
+Three Centuries of a City Library, by George A. Stephen                  19804
+   [Subtitle: an Historical and Descriptive Account of the Norwich Public
+    Library Established in 1608 and the present Public Library opened
+    in 1857]
+   [Link: http://www.gutenberg.org/1/9/8/0/19804 ]
+   [Files: 19804.txt; 19804-h.htm]
+   (From David Price, For those wishing to know: George A. Stephen (1880-1934)
+    was the City Librarian of Norwich, England.  This is an account of the
+    development of libraries within Norwich.  Sadly in 1994 a major fire wiped
+    out many of the items described in this book, which was published in 1917)
+
+Popolmalamiko, by Henrik Ibsen                                           19803
+   [Subtitle: Dramo en kvin aktoj]
+   [Translator: Odd Tangerud]
+   [Language: Esperanto]
+   [Link: http://www.gutenberg.org/1/9/8/0/19803 ]
+   [Files: 19803.txt; 19803-0.txt; 19803-h.htm]
+
+Cobwebs and Cables, by Hesba Stretton                                    19802
+   [Link: http://www.gutenberg.org/1/9/8/0/19802 ]
+   [Files: 19802.txt; 19802-8.txt; 19802-h.htm]
+
+The Drummer's Coat, by J. W. Fortescue                                   19801
+   [Link: http://www.gutenberg.org/1/9/8/0/19801 ]
+   [Files: 19801.txt; 19801-h.htm]
+
+London and the Kingdom (Volume 1 of 3), by Reginald Sharpe               19800
+  [Subtitle: A History Derived Mainly  From  The Archives At Guildhall In
+   The Custody Of The Corporation Of The City Of London]
+  [Link: http://www.gutenberg.org/1/9/8/0/19800 ]
+  [Files: 19800.txt; 19800-8.txt; 19800-0.txt; 19800-h.htm;
+          19800-pdf.pdf; 19800-tei.tei]
+
+The Rural Motor Express, by US Government                                19799
+   [Subtitle: Highway Transport Commitee Council of National Defence,
+    Bulletin No. 2]
+   [Link: http://www.gutenberg.org/1/9/7/9/19799 ]
+   [Files: 19799.txt; 19799-h.htm]
+
+The Farringdons, by Ellen Thorneycroft Fowler                            19798
+   [Link: http://www.gutenberg.org/1/9/7/9/19798 ]
+   [Files: 19798.txt; 19798-8.txt; 19798-h.htm]
+
+
+Audio: Dracula, Bram Stoker                                              19797
+   [Link: http://www.gutenberg.org/1/9/7/9/19797 ]
+   [Files: 19797.txt; 19797-mp3.mp3; 19797-ogg.ogg; 19797-m4b.m4b;
+    19797-spx.spx ]
+
+Audio: Conducting One's Reason/Seeking Truth in the Sciences, Descartes  19796
+   [Title: Discourse on the Method of Rightly Conducting One's Reason and
+    of Seeking Truth in the Sciences]
+   [Author: Rene Descartes]
+   [Link: http://www.gutenberg.org/1/9/7/9/19796 ]
+   [Files: 19796.txt; 19796-mp3.mp3; 19796-ogg.ogg; 19796-m4b.m4b;
+    19796-spx.spx ]
+
+Audio: Die schwarze Galeere, by Wilhelm Raabe                            19795
+   [Link: http://www.gutenberg.org/1/9/7/9/19795 ]
+   [Files: 19795.txt; 19795-mp3.mp3; 19795-ogg.ogg; 19795-m4b.m4b;
+    19795-spx.spx ]
+
+Audio: Die Leiden des jungen Werther, by Johann Wolfgang von Goethe      19794
+   [Link: http://www.gutenberg.org/1/9/7/9/19794 ]
+   [Files: 19794.txt; 19794-mp3.mp3; 19794-ogg.ogg; 19794-m4b.m4b;
+    19794-spx.spx ]
+
+Audio: Der tolle Mensch, by Friedrich Nietzsche                          19793
+   [Link: http://www.gutenberg.org/1/9/7/9/19793 ]
+   [Files: 19793.txt; 19793-mp3.mp3; 19793-ogg.ogg; 19793-m4b.m4b;
+    19793-spx.spx ]
+
+Audio: Der Struwwelpeter, by Heinrich Hoffman                            19792
+   [Link: http://www.gutenberg.org/1/9/7/9/19792 ]
+   [Files: 19792.txt; 19792-mp3.mp3; 19792-ogg.ogg; 19792-m4b.m4b;
+    19792-spx.spx ]
+
+Audio: Der Struwwelpeter, by Heinrich Hoffman                            19791
+   [Link: http://www.gutenberg.org/1/9/7/9/19791 ]
+   [Files: 19791.txt; 19791-mp3.mp3; 19791-ogg.ogg; 19791-m4b.m4b;
+    19791-spx.spx ]
+
+Audio: Der Schimmelreiter, by Theodor Storm                              19790
+   [Link: http://www.gutenberg.org/1/9/7/9/19790 ]
+   [Files: 19790.txt; 19790-mp3.mp3; 19790-ogg.ogg; 19790-m4b.m4b;
+    19790-spx.spx ]
+
+Audio: Der kleine Hawelmann, by Theodor Storm                            19789
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/7/8/19789 ]
+   [Files: 19789.txt; 19789-mp3.mp3; 19789-ogg.ogg; 19789-m4b.m4b;
+    19789-spx.spx ]
+
+Audio: Denslow's Three Bears, by W.W. Denslow                            19788
+   [Link: http://www.gutenberg.org/1/9/7/8/19788 ]
+   [Files: 19788.txt; 19788-mp3.mp3; 19788-ogg.ogg; 19788-m4b.m4b;
+    19788-spx.spx ]
+
+Audio: Declaration of Rights, by Stamp Act Congress                      19787
+   [Link: http://www.gutenberg.org/1/9/7/8/19787 ]
+   [Files: 19787.txt; 19787-mp3.mp3; 19787-ogg.ogg; 19787-m4b.m4b;
+    19787-spx.spx ]
+
+
+Audio: Declaration of Independence of the United States of America       19785
+   [Link: http://www.gutenberg.org/1/9/7/8/19785 ]
+   [Files: 19785.txt; 19785-mp3.mp3; 19785-ogg.ogg; 19785-m4b.m4b;
+    19785-spx.spx ]
+
+Audio: Death Be Not Proud, by John Donne                                 19784
+   [Link: http://www.gutenberg.org/1/9/7/8/19784 ]
+   [Files: 19784.txt; 19784-mp3.mp3; 19784-ogg.ogg; 19784-m4b.m4b;
+    19784-spx.spx ]
+
+Audio: Danse Russe, by Williams Carlos Williams                          19783
+   [Link: http://www.gutenberg.org/1/9/7/8/19783 ]
+   [Files: 19783.txt; 19783-mp3.mp3; 19783-ogg.ogg; 19783-m4b.m4b;
+    19783-spx.spx ]
+
+Audio: Daddy-Long-Legs, by Jean Webster                                  19782
+   [Link: http://www.gutenberg.org/1/9/7/8/19782 ]
+   [Files: 19782.txt; 19782-mp3.mp3; 19782-ogg.ogg; 19782-m4b.m4b;
+    19782-spx.spx ]
+
+Sketches, by Benjamin Disraeli                                           19781
+   [Subtitle: The Carrier Pigeon, The Consul's Daughter, Walstein--Or A
+    Cure For Melancholy, The Court Of Egypt, The Valley Of Thebes,
+    Egyptian Thebes, Shoubra Eden And Lebanon, A Syrian Sketch, The
+    Bosphorus, An Interview With A Great Turk, Munich, The Spirit Of
+    Whiggism]
+   [Link: http://www.gutenberg.org/1/9/7/8/19781 ]
+   [Files: 19781.txt; 19781-8.txt; 19781-h.htm]
+
+Report of the National Library Service, by Alley et al                   19780
+   [Title: Report of the National Library Service for the Year Ended
+    31 March 1958]
+   [Author: G. T. Alley and National Library Service (New Zealand)]
+   [Link: http://www.gutenberg.org/1/9/7/8/19780 ]
+   [Files: 19780.txt; 19780-8.txt; 19780-h.htm]
+
+Atlantic Monthly, Volume 20, No. 118, August, 1887, by Various           19779
+   [Link: http://www.gutenberg.org/1/9/7/7/19779 ]
+   [Files: 19779.txt; 19779-8.txt; 19779-h.htm]
+
+Alice's Abenteuer im Wonderland, by Lewis Carroll                        19778
+   [Illustrator: John Tenniel]
+   [Translator: Antonie Zimmerman]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/7/7/19778 ]
+   [Files: 19778-8.txt; 19778-h.htm]
+
+Aids to the Study of the Maya Codices, by Cyrus Thomas                   19777
+   [Subtitle: Sixth Annual Report of the Bureau of Ethnology to the
+    Secretary of the Smithsonian Institution, 1884-85, Government Printing
+    Office, Washington, 1888, pages 253-372]
+   [Link: http://www.gutenberg.org/1/9/7/7/19777 ]
+   [Files: 19777.txt; 19777-8.txt; 19777-0.txt; 19777-h.htm]
+
+The Ordeal, by Charles Egbert Craddock                                   19776
+   [Subtitle: A Mountain Romance of Tennessee]
+   [Illustrator: Douglas Duer]
+   [Link: http://www.gutenberg.org/1/9/7/7/19776 ]
+   [Files: 19776.txt; 19776-8.txt; 19776-h.htm]
+
+Vaughan's Vegetable Cook Book (4th edition), by Anonymous                19775
+   [Subtitle: How to Cook and Use Rarer Vegetables and Herbs]
+   [Link: http://www.gutenberg.org/1/9/7/7/19775 ]
+   [Files: 19775.txt; 19775-h.htm]
+
+Geschiedenis der Europeesche Volken, by J.G. Kohl                        19774
+   [Illustrator: A. Kretschmer]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/7/7/19774 ]
+   [Files: 19774-8.txt; 19774-h.htm]
+
+Suuren hiljaisuuden miehia, by Pascal, Emerson, Tolstoi, et al           19773
+   [Subtitle: Pascal, Emerson, Tolstoi, Maeterlinck, Muller, Larsson]
+   [Editor: Yrjo Karilas]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/9/7/7/19773 ]
+   [Files: 19773-8.txt; 19773-h.htm]
+
+Denslow's Three Bears, by W.W. Denslow                                   19772
+   [Illustrator: W.W. Denslow]
+   [Link: http://www.gutenberg.org/1/9/7/7/19772 ]
+   [Files: 19772.txt; 19772-h.htm]
+
+Henrietta Temple, by Benjamin Disraeli                                   19771
+   [Subtitle: A Love Story]
+   [Link: http://www.gutenberg.org/1/9/7/7/19771 ]
+   [Files: 19771.txt; 19771-8.txt; 19771-h.htm]
+
+Spherical Trigonometry, by I. Todhunter                                  19770
+   [Subtitle: For the use of colleges and schools ]
+   [Link: http://www.gutenberg.org/1/9/7/7/19770 ]
+   [Files: 19770-t.tex; 19770-pdf.pdf]
+
+Architectural Illustration, Vol. 1, No. 8, August, 1895                  19769
+   [Title: The Brochure Series of Architectural Illustration]
+   [Subtitle: Fragments of Greek Detail]
+   [Link: http://www.gutenberg.org/1/9/7/6/19769 ]
+   [Files: 19769.txt; 19769-8.txt; 19769-h.htm]
+
+A Public Appeal for Redress to Harvard University, by F. A. Abbot        19768
+   [Title: A Public Appeal for Redress to the Corporation and Overseers
+    of Harvard University]
+   [Subtitle: Professor Royce's Libel]
+   [Author: Francis Ellingwood Abbot]
+   [Link: http://www.gutenberg.org/1/9/7/6/19768 ]
+   [Files: 19768.txt; 19768-8.txt; 19768-h.htm]
+
+George Borrow and His Circle, by Clement King Shorter                    19767
+   [Subtitle: Wherein May Be Found Many Hitherto Unpublished Letters Of
+    Borrow And His Friends]
+   [Link: http://www.gutenberg.org/1/9/7/6/19767 ]
+   [Files: 19767.txt; 19767-8.txt; 19767-h.htm]
+
+Young Lucretia and Other Stories, by Mary E. Wilkins                     19766
+   Contents:
+     Young Lucretia
+     How Fidelia Went to the Store
+     Ann Mary; Her Two Thanksgivings
+     Ann Lizy's Patchwork
+     The Little Persian Princess
+     Where the Christmas-Tree Grew
+     Where Sarah Jane's Doll Went
+     Seventoes' Ghost
+     Little Mirandy, and How She Earned Her Shoes
+     A Parsnip Stew
+     The Dickey Boy
+     A Sweet-Grass Basket
+     Mehitable Lamb
+   [Link: http://www.gutenberg.org/1/9/7/6/19766 ]
+   [Files: 19766.txt; 19766-8.txt; 19766-h.htm; ]
+
+Vikings of the Pacific, by Agnes C. Laut                                 19765
+   [Subtitle: The Adventures of the Explorers Who Came from the West,
+    Eastward]
+   [Link: http://www.gutenberg.org/1/9/7/6/19765 ]
+   [Files: 19765.txt; 19765-8.txt; 19765-h.htm; ]
+
+The Moccasin Ranch, by Hamlin Garland                                    19764
+   [Subtitle: A Story of Dakota]
+   [Link: http://www.gutenberg.org/1/9/7/6/19764 ]
+   [Files: 19764.txt; 19764-8.txt; 19764-h.htm]
+
+Overland Red, by Henry Herbert Knibbs                                    19763
+   [Subtitle: A Romance of the Moonstone Canon Trail]
+   [Illustrator: Anton Fischer]
+   [Link: http://www.gutenberg.org/1/9/7/6/19763 ]
+   [Files: 19763.txt; 19763-8.txt; 19763-h.htm]
+
+How to Eat, A Cure for "Nerves", by Thomas Clark Hinkle                  19762
+   [Link: http://www.gutenberg.org/1/9/7/6/19762 ]
+   [Files: 19762.txt; 19762-8.txt; 19762-h.htm]
+
+A Girl in Ten Thousand, by L. T. Meade                                   19761
+   [Link: http://www.gutenberg.org/1/9/7/6/19761 ]
+   [Files: 19761.txt; 19761-8.txt; 19761-h.htm]
+
+Auf Gottes Wegen, by Bjornstjerne Bjornson                               19760
+   [Editor: Julius Elias]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/7/6/19760 ]
+   [Files: 19760-8.txt; 19760-h.htm]
+
+Address by Honorable Franklin K. Lane, by US Government                  19759
+   [Title: Address by Honorable Franklin K. Lane, Secretary of the
+    Interior at Conference of Regional Chairmen of the Highway Transport
+    Committee Council of National Defence; Bulletin 5]
+   [Link: http://www.gutenberg.org/1/9/7/5/19759 ]
+   [Files: 19759.txt; 19759-h.htm]
+
+Address by Honorable William C. Redfield, by US Government               19758
+   [Title: Address by Honorable William C. Redfield, Secretary of Commerce
+    at Conference of Regional Chairmen of the Highway Transport Committee
+    Council of National Defence; Bulletin 4]
+   [Link: http://www.gutenberg.org/1/9/7/5/19758 ]
+   [Files: 19758.txt; 19758-h.htm]
+
+'Return Loads' to Increase Transport Resources, by US Government         19757
+   [Title: 'Return Loads' to Increase Transport Resources by Avoiding
+    Waste of Empty Vehicle Running; Highway Transport Commitee, Council
+    of National Defence; Bulletin 5]
+   [Link: http://www.gutenberg.org/1/9/7/5/19757 ]
+   [Files: 19757.txt; 19757-h.htm]
+
+La reforme postale en France, by M. Barrillon                            19756
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/9/7/5/19756 ]
+   [Files: 19756-8.txt; 19756-h.htm]
+
+Gesammelte Abhandlungen III, by Ernst Abbe                               19755
+   [Subtitle: Vortr.ge, Reden und Schriften sozialpolitischen und
+    und verwandten Inhalts]
+   [Editor: S. Czapski]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/9/7/5/19755 ]
+   [Files: 19755-8.txt; 19755-0.txt; 19755-h.htm]
+
+Debit and Credit, by Gustav Freytag                                      19754
+   [Subtitle: Translated from the German of Gustav Freytag]
+   [Translator: 'L. C. C.']
+   [Link: http://www.gutenberg.org/1/9/7/5/19754 ]
+   [Files: 19754.txt; 19754-8.txt; 19754-h.htm]
+
+The Youth of Goethe, by Peter Hume Brown                                 19753
+   [Link: http://www.gutenberg.org/1/9/7/5/19753 ]
+   [Files: 19753.txt; 19753-8.txt; 19753-h.htm]
+
+Quisante, by Anthony Hope                                                19752
+   [Link: http://www.gutenberg.org/1/9/7/5/19752 ]
+   [Files: 19752.txt; 19752-8.txt; 19752-h.htm]
+
+The Mayor of Troy, by Sir Arthur Thomas Quiller-Couch                    19751
+   [Link: http://www.gutenberg.org/1/9/7/5/19751 ]
+   [Files: 19751.txt; 19751-h.htm; ]
+
+The Waif Woman, by Robert Louis Stevenson                                19750
+   (David Price "For those wishing to know": this story was found and
+    published in 1916, many years after Stevenson's death.  It's a
+    retelling of the story of Thorgunna from Iceland.  Andrew Lang also
+    retells the story in Dreams and Ghosts (eText 12621).
+   [Link: http://www.gutenberg.org/1/9/7/5/19750 ]
+   [Files: 19750.txt; 19750-h.htm]
+
+Thury Zoltan osszes muvei, Vol. I, by Zoltan Thury                       19749
+   [Subtitle: Ketty es egyeb elbeszelesek]
+   [Language: Hungarian]
+   [Link: http://www.gutenberg.org/1/9/7/4/19749 ]
+   [Files: ; 19749-0.txt; 19749-h.htm]
+
+Story-Lives of Great Musicians, by Francis Jameson Rowbotham             19748
+   [Link: http://www.gutenberg.org/1/9/7/4/19748 ]
+   [Files: 19748.txt; 19748-8.txt; 19748-h.htm]
+
+Where the Sun Swings North, by Barrett Willoughby                        19747
+   [Link: http://www.gutenberg.org/1/9/7/4/19747 ]
+   [Files: 19747.txt; ]
+
+The Colonel's Dream, by Charles W. Chesnutt                              19746
+   [Link: http://www.gutenberg.org/1/9/7/4/19746 ]
+   [Files: 19746.txt; 19746-8.txt; 19746-h.htm; ]
+
+Something of Men I Have Known, by Adlai E. Stevenson                     19745
+   [Subtitle: With Some Papers of a General Nature, Political, Historical,
+    and Retrospective]
+   [Link: http://www.gutenberg.org/1/9/7/4/19745 ]
+   [Files: 19745.txt; ]
+
+A mester, by Miklos Suranyi                                              19744
+  [Language: Hungarian]
+  [Link: http://www.gutenberg.org/1/9/7/4/19744 ]
+  [Files: 19744-8 (iso-8859-2); 19744-0.txt; 19744-h.htm]
+
+The Outdoor Chums at Cabin Point, by Quincy Allen                        19743
+   [Subtitle: or The Golden Cup Mystery]
+   [Link: http://www.gutenberg.org/1/9/7/4/19743 ]
+   [Files: 19743.txt; 19743-h.htm]
+
+The Heather-Moon, by C. N. Williamson and A. M. Williamson               19742
+   [Link: http://www.gutenberg.org/1/9/7/4/19742 ]
+   [Files: 19742.txt; 19742-8.txt; 19742-h.htm]
+
+Altenahr en zijn omgeving, by Eduard Neuhauser                           19741
+   [Subtitle: De Aarde en haar Volken, 1907--Also includes a short article
+    "Bekoring van het Matterhornland" by J. C. Heer]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/9/7/4/19741 ]
+   [Files: 19741-8.txt; 19741-h.htm]
+
+Make Your Own Hats, by Gene Allen Martin                                 19740
+   [Illus.: E. E. Martin]
+   [Link: http://www.gutenberg.org/1/9/7/4/19740 ]
+   [Files: 19740.txt; 19740-8.txt; 19740-h.htm; ]
+
+Modern American Prose Selections, by Various                             19739
+   [Editor: Byron Johnson Rees]
+   [Link: http://www.gutenberg.org/1/9/7/3/19739 ]
+   [Files: 19739.txt; 19739-8.txt; 19739-h.htm]
+
+
+
+Audio: Chapters from My Autobiography, by Mark Twain                     19682
+   [Human-read audio eBook provided by Librivox]
+   [Link: http://www.gutenberg.org/1/9/6/8/19682 ]
+   [Files: 19682.txt; 19682-mp3.mp3; 19682-ogg.ogg; 19682-m4b.m4b;
+    19682-spx.spx ]
+
+
+-=-=-=-=[ 17 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]-=-=-=-=-=-=-=-=-=-
+
+Nov 2006 Evil Deeds at Red Cougar, Robert E Howard         [060860xx.xxx] 1378A
+   [http://gutenberg.net.au/ebooks06/0608601.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608601h.html ]
+
+Nov 2006 Dark Shanghai, Robert E Howard                    [060859xx.xxx] 1377A
+   [http://gutenberg.net.au/ebooks06/0608591.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608591h.html ]
+
+Nov 2006 Breed of Battle, Robert E Howard                  [060858xx.xxx] 1376A
+   [http://gutenberg.net.au/ebooks06/0608581.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608581h.html ]
+
+Nov 2006 Blow the Chinks Down!, Robert E Howard            [060857xx.xxx] 1375A
+   [http://gutenberg.net.au/ebooks06/0608571.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608571h.html ]
+
+Nov 2006 Forgive us our Trespasses, Lloyd C Douglas        [060856xx.xxx] 1374A
+   [http://gutenberg.net.au/ebooks06/0608561.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608561h.html ]
+
+Nov 2006 The Wild Swans at Coole, William Butler Yeats     [060855xx.xxx] 1373A
+   [http://gutenberg.net.au/ebooks06/0608551.txt or .zip ]
+
+Nov 2006 The Tower, William Butler Yeats                   [060854xx.xxx] 1372A
+   [http://gutenberg.net.au/ebooks06/0608541.txt or .zip ]
+
+Nov 2006 Michael Robartes and The Dancer, W B Yeats        [060853xx.xxx] 1371A
+   [Author: William Butler Yeats]
+   [http://gutenberg.net.au/ebooks06/0608531.txt or .zip ]
+
+Nov 2006 Six Characters in Search of an Author, Pirandello [060852xx.xxx] 1370A
+   [Author: Luigi Pirandello]
+   [http://gutenberg.net.au/ebooks06/0608521.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608521h.html ]
+
+Nov 2006 Billy Budd, Sailor, Herman Melville               [060851xx.xxx] 1369A
+   [http://gutenberg.net.au/ebooks06/0608511.txt or .zip
+
+Nov 2006 The Wings of the Dove, Henry James                [060850xx.xxx] 1368A
+   [http://gutenberg.net.au/ebooks06/0608501.txt or .zip ]
+
+Nov 2006 The Professor's House, Willa Cather               [060849xx.xxx] 1367A
+   [http://gutenberg.net.au/ebooks06/0608491.txt or .zip ]
+
+Nov 2006 Collected Poetry, John Keats                      [060848xx.xxx] 1366A
+   [http://gutenberg.net.au/ebooks06/0608481.txt or .zip ]
+
+Nov 2006 The Ring and the Book, Robert Browning            [060847xx.xxx] 1365A
+   [http://gutenberg.net.au/ebooks06/0608471.txt or .zip ]
+
+Nov 2006 Peer Gynt, Henrik Ibsen                           [060846xx.xxx] 1364A
+   [http://gutenberg.net.au/ebooks06/0608461.txt or .zip ]
+
+Nov 2006 Roxana, Daniel Defoe                              [060845xx.xxx] 1363A
+   [http://gutenberg.net.au/ebooks06/0608451.txt or .zip ]
+
+Nov 2006 Life with Mother, Clarence Day                    [060844xx.xxx] 1362A
+   [http://gutenberg.net.au/ebooks06/0608441.txt or .zip
+   [http://gutenberg.net.au/ebooks06/0608441h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including accessing
+those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For updated information about copyright in Australia, please see the end of
+the file GUTINDEX.AUS, which can be downloaded from
+
+http://www.gutenberg.org/dirs/GUTINDEX.AUS
+
+For more information about copyright restrictions in other countries,
+please visit:
+
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2006/pgweekly_2006_11_15_pg-news.txt" target="_blank" rel="nofollow">pgweekly_2006_11_15_pg-news.txt</a>

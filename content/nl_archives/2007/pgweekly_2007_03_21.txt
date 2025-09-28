@@ -1,0 +1,684 @@
+pgweekly_2007_03_21.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, March 21, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, i.e. Courier New.
+      Windows NotePad is a good a program to use for viewing.
+
+
+THIS WEEKS NEWS
+---------------
+
+THE OPENLEARN PROJECT
+
+The openlearn project makes educational resources, taken from Open University
+courses, freely available to anyone, anywhere in the world with access to the
+internet. Published under a Creative Commons copyright license, users are
+free to download, remix and share the material under the same license.
+
+The Open University itself was founded in the late 1960’s with a mission to
+make higher education available to those who had previously been excluded.
+Similar to Project Gutenberg’s aim to "break down the bars of ignorance and
+illiteracy" openlearn seeks to make its educational material globally
+available to those wish to use it.
+
+Openlearn units cover all manner of subjects from Arts & History, to Study
+Skills, to IT and Computing. A full list of subject areas is available at
+http://openlearn.open.ac.uk.
+
+Areas of interest to those involved in the creation of ebooks might include
+Design, Accessibility in Interaction Design, Presenting Information and
+ICTs: Device to Device Communication. Units that might be effectively turned
+into ebooks include Hume, Living with the Internet: Keeping It safe,
+Evolution Through Natural Selection, Global Warming and Learning How to Learn
+Anyone wishing to reuse openlearn material should consult the openlearn FAQs
+on Intellectual Property or contact Stuart Brown at s.a.brown@open.ac.uk.
+
+
+FIRST CEBUANO EBOOK ON PROJECT GUTENBERG
+
+Project Gutenberg of the Philippines (http://www.gutenberg.ph) is happy to
+announce the release of the first Cebuano Ebook, Larawan: Mga Sugilanon ug
+Dinalídalí, a collection of short stories by Vicente Rama (1887-1956).
+Originally, these stories where published in Cebu in 1921.
+
+The stories give a humorous glimpse back into the life in Cebu in the early
+twenties of the last century, and, besides that provide a nice reader for
+students of the Cebuano language.
+
+The book can be downloaded from http://www.gutenberg.org/etext/20820.
+Due to their age, the copyright on these stories has expired, which means that
+Project Gutenberg can make them available for free, and with hardly any
+restrictions on their use and re-use.
+
+This addition also marks the addition of a third Philippine language to
+Project Gutenberg (next to Tagalog and Iloko) and the 51st language to
+Project Gutenberg.
+
+...READ THE FULL ARTICLE at https://www.gutenbergnews.org/content/view/198/34/
+
+
+POLL: RESULTS
+
+Should PG 'officially' adopt a XML, TEI or similar Master File?
+
+NO, we should stick with Plain-Vanilla ASCII files.
+  29 (49.2%)
+YES, this is a must!
+  23 (39%)
+I haven't a clue what you're talking about.
+   4 (6.8%)
+It's really not that important.
+   3 (5.1%)
+
+Except for the last few days it's been a close call between those in favour
+and those against, with each taking it in turn for the top spot. With a total
+of only 59 votes it's difficult to take a real hard stance on the subject but
+there is certainly a good percentage of people in favour of this approach.
+
+As for an official statement - Michael Hart has been noted as saying that he
+doesn't want to 'enforce' any one format but is happy for any one to
+contribute their own formats to the PG collection.
+
+So, if you are one of those in favour then the best thing you can do now is
+start converting over those PG texts.
+
+Marking up texts in the TEI format not only makes it easier to convert to
+other formats (PDF, HTML, etc) but can also produce Plain-Vanilla texts.
+Over the coming weeks I am hoping to present some information on the PG-TEI
+implementation, tools to help in creating the PG-TEI mark-up and web links.
+
+
+NEWS HEADLINES -- Visit www.gutenbergnews.org to read the following news items.
+
+ * The Openlearn Project
+ * Diaries of Charles Darwin's wife have been published online
+ * Lost voices of Victorian working class uncovered in political protest poems
+ * Microsoft Takes Google to Task over Copyright
+ * First Cebuano Language eBook on Project Gutenberg
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the Volunteers Wanted! Section at: https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+  * Our Distributed Proof Readers Need...
+  * Project Gutenberg Is Seeking Legal Beagles
+  * Graphics needed for PG website and publicity materials
+  * Turn eBooks into MP3
+  * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a hosts of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad.
+
+You can access them by visiting;
+https://www.gutenbergnews.org/component/option,com_docman/Itemid,47/
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #077/364 | Week: #11 | Month: #02.54
+287 days / 41 weeks of the year remaining.
+
+GRAND TOTALS
+
+20,826 [+ 53] Project Gutenberg
+ 1,493 [+  5] PG Australia
+    67 [+  0] PG Europe 'Unique' | 427 [+ 1] Total (See NOTES)
+   381 [+  0] PG PrePrints
+=============
+22,767 [+ 58] GRAND TOTAL
+
+    43 - Reserved/Pending
+
+ 7,233 to go to 30,000 eBooks.
+
+   ~76% of the way to 30,000
+   ~28% of the way from 20,000 to 30,000
+
+ 1,884 [+ 0] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+  611 Project Gutenberg
+   39 PG Australian
+    4 PG Europe 'Unique' | 19 Total (See NOTES)
+    0 PG PrePrints
+=====
+  654 TOTAL [2007]
+
+   16 eBooks REposted to the new filing system.
+
+    * 55 new eBooks last week
+
+    *194 new eBooks in March
+    *199 new eBooks in February
+    *260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 59 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 258 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a speadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Grand Total and not the overall PG-EU
+total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,084 [+47] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   0 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been manually updated and reposted with the indicated
+filenames and transferred into the corresponding new directories:
+
+None this week.
+
+
+---------[   0 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+None this week.
+
+
+---------[  53 NEW PG EBOOK(S) ]------------------------------------------------
+
+The Skylark of Space, by Edward Elmer Smith and Lee Hawkins Garby        20869
+  [Link: http://www.gutenberg.org/2/0/8/6/20869 ]
+  [Files: 20869.txt; 20869-8.txt; 20869-h.htm; ]
+  [Clearance: 20060608074533smith]
+
+Cat and Dog, by Julia Charlotte Maitland                                 20868
+  [Subtitle: Memoirs of Puss and the Captain]
+  [Ill.: Harrison Weir]
+  [Link: http://www.gutenberg.org/2/0/8/6/20868 ]
+  [Files: 20868.txt; 20868-8.txt; 20868-h.htm; ]
+  [Clearance: 20060520075245maitland]
+
+Bolivia, by Emile Barbier                                                20867
+   [Full title: Bolivia.--Een in wording zijnde Staat aan den
+                Stillen Oceaan]
+   [Subtitle: De Aarde en haar Volken, 1907-1908]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/2/0/8/6/20867 ]
+   [Files: 20867-8.txt; 20867-h.htm]
+
+Infantry Drill Regulations, United States Army, 1911, by Department      20866
+  [Author: United States War Department]
+  [Subtitle: Corrected to April 15, 1917 (Changes Nos. 1 to 19)]
+  [Link: http://www.gutenberg.org/2/0/8/6/20866 ]
+  [Files: 20866.txt; 20866-8.txt; 20866-h.htm; ]
+  [Clearance: 20050212221644none]
+
+Bulletin de Lille, 1916.07, by Anonymous                                 20865
+  [Subtitle: publié sous le contrôle de l'autorité allemande]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/6/20865 ]
+  [Files: 20865-8.txt; 20865-h.htm]
+
+La foire aux vanités, Tome II, by William Makepeace Thackeray            20864
+  [Translator: Georges Guiffrey]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/6/20864 ]
+  [Files: 20864-8.txt; 20864-h.htm]
+
+Major Vigoureux, by A. T. Quiller-Couch                                  20863
+  [Link: http://www.gutenberg.org/2/0/8/6/20863 ]
+  [Files: 20863.txt; 20863-8.txt; 20863-h.htm]
+
+Jerry's Reward, by Evelyn Snead Barnett                                  20862
+   [Illustrator: Etheldred B. Barry]
+   [Link: http://www.gutenberg.org/2/0/8/6/20862 ]
+   [Files: 20862.txt; 20862-8.txt; 20862-h.htm]
+
+Friendship, by Hugh Black                                                20861
+   [Link: http://www.gutenberg.org/2/0/8/6/20861 ]
+   [Files: 20861.txt; 20861-8.txt]
+
+The Butterfly's Ball and the Grasshopper's Feast, by Mr. Roscoe          20860
+  [Commentator: Charles Welsh]
+  [Link: http://www.gutenberg.org/2/0/8/6/20860 ]
+  [Files: 20860.txt; 20860-8.txt; 20860-h.htm]
+
+Wandl the Invader, by Raymond King Cummings                              20859
+  [Link: http://www.gutenberg.org/2/0/8/5/20859 ]
+  [Files: 20859.txt; 20859-8.txt; 20859-h.htm]
+
+Ang Bagong Robinson (Tomo 1), by Joachim Heinrich Campe                  20858
+  [Translator: Tomas de Iriarte and Joaquin Tuason]
+  [Language: Tagalog]
+  [Link: http://www.gutenberg.org/2/0/8/5/20858 ]
+  [Files: 20858-8.txt; 20858-h.htm]
+
+Spacehounds of IPC, by Edward Elmer Smith                                20857
+  [Link: http://www.gutenberg.org/2/0/8/5/20857 ]
+  [Files: 20857.txt; 20857-8.txt; 20857-h.htm]
+
+Ten From Infinity, by Paul W. Fairman                                    20856
+  [Link: http://www.gutenberg.org/2/0/8/5/20856 ]
+  [Files: 20856.txt; 20856-8.txt; 20856-h.htm]
+
+Estatuto de la L.F (Liga Filipina), by Jose Rizal                        20855
+  [Language: Spanish]
+  [Link: http://www.gutenberg.org/2/0/8/5/20855 ]
+  [Files: 20855-8.txt; 20855-h.htm]
+
+Muuan suomalainen soturi Kristiina kuningattaren aikakaudella, Jahnsson  20854
+  [Full author: Evald Ferdinand Jahnsson]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/0/8/5/20854 ]
+  [Files: 20854-8.txt]
+
+Northland Heroes, by Florence Holbrook                                   20853
+  [Link: http://www.gutenberg.org/2/0/8/5/20853 ]
+  [Files: 20853.txt; 20853-8.txt; 20853-h.htm]
+
+Descripcion del rio Paraguay, by Jose P. Quiroga                         20852
+  [Full title: Descripcion del rio Paraguay, desde la boca del Xauru
+               hasta la confluencia del Parana]
+  [Language: Spanish]
+  [Link: http://www.gutenberg.org/2/0/8/5/20852 ]
+  [Files: 20852-8.txt; 20852-h.htm]
+
+Character Sketches of Romance, Fiction and the Drama, by E. Cohen Brewer 20851
+  [Subtitle: A Revised American Edition of the Reader's Handbook, Vol. 3]
+  [Link: http://www.gutenberg.org/2/0/8/5/20851 ]
+  [Files: 20851.txt; 20851-8.txt; 20851-0.txt; 20851-h.htm]
+
+Prince Prigio, by Andrew Lang                                            20850
+   [Ill.: Gordon Browne]
+   [Link: http://www.gutenberg.org/2/0/8/5/20850 ]
+   [Files: 20850.txt; 20850-h.htm]
+
+The Big Brother, by George Cary Eggleston                                20849
+  [Subtitle: A Story of Indian War]
+  [Link: http://www.gutenberg.org/2/0/8/4/20849 ]
+  [Files: 20849.txt; 20849-8.txt; 20849-h.htm; ]
+  [Clearance: 20050810120852eggleston]
+
+An Elementary Study of Chemistry, by McPherson and Henderson             20848
+  [Full author: William McPherson and William Edwards Henderson]
+  [Link: http://www.gutenberg.org/2/0/8/4/20848 ]
+  [Files: 20848.txt; 20848-8.txt; 20848-h.htm]
+
+India: What can it teach us?, by F. Max Müller                           20847
+  [Subtitle: A Course of Lectures Delivered
+             before the University Of Cambridge]
+  [Commentator: Alexander Wilder]
+  [Link: http://www.gutenberg.org/2/0/8/4/20847 ]
+  [Files: 20847.txt; 20847-8.txt; 20847-0.txt; 20847-h.htm]
+
+Handwork in Wood, by William Noyes                                       20846
+  [Link: http://www.gutenberg.org/2/0/8/4/20846 ]
+  [Files: 20846.txt; 20846-8.txt; 20846-h.htm; ]
+  [Clearance: 20050316123535noyes]
+
+The Knickerbocker, or New-York Monthly Magazine, April 1844, by Various  20845
+  [Subtitle: Volume 23, Number 4]
+  [Editor: Lewis Gaylord Clark]
+  [Link: http://www.gutenberg.org/2/0/8/4/20845 ]
+  [Files: 20845.txt; 20845-8.txt; 20845-h.htm]
+
+Critical Miscellanies (Vol. 3 of 3), by John Morley                      20844
+   [Subtitle: Essay 5: On Pattison's Memoirs]
+   [Link: http://www.gutenberg.org/2/0/8/4/20844 ]
+   [Files: 20844.txt; 20844-8.txt; 20844-h.htm]
+
+Works of Fiction in Modern Times, by Thomas Hill Green                   20843
+   [Full title: An Estimate of the Value and Influence of Works of
+                Fiction in Modern Times]
+   [Editor: Fred Newton Scott]
+   [Link: http://www.gutenberg.org/2/0/8/4/20843 ]
+   [Files: 20843.txt; 20843-8.txt; 20843-h.htm]
+
+Dreams, by Henri Bergson                                                 20842
+   [Translator: Edwin E. Slosson]
+   [Link: http://www.gutenberg.org/2/0/8/4/20842 ]
+   [Files: 20842.txt; 20842-8.txt; 20842-h.htm]
+
+Os Pobres, by Raul Brandão                                               20841
+   [Contributor: Guerra Junqueiro]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/0/8/4/20841 ]
+   [Files: 20841-8.txt]
+
+Rebel Spurs, by Andre Norton                                             20840
+  [Link: http://www.gutenberg.org/2/0/8/4/20840 ]
+  [Files: 20840.txt; 20840-8.txt; 20840-0.txt; 20840-tei.tei;
+          20840-h.htm; 20840-pdf.pdf]
+
+The Mountain Chant, A Navajo Ceremony, by Washington Matthews            20839
+  [Subtitle: Fifth Annual Report of the Bureau of Ethnology to the
+       Secretary of the Smithsonian Institution, 1883-84,
+       Government Printing Office, Washington, 1887, pages 379-468]
+  [Link: http://www.gutenberg.org/2/0/8/3/20839 ]
+  [Files: 20839-8.txt; 20839-0.txt; 20839-h.htm]
+
+The Infra-Medians, by Sewell Peaslee Wright                              20838
+  [Link: http://www.gutenberg.org/2/0/8/3/20838 ]
+  [Files: 20838.txt; 20838-8.txt; 20838-h.htm; ]
+  [Clearance: 20061114061952wright]
+
+Peggy in Her Blue Frock, by Eliza Orne White                             20837
+   [Illustrator: Alice B. Preston]
+   [Link: http://www.gutenberg.org/2/0/8/3/20837 ]
+   [Files: 20837.txt; 20837-h.htm]
+
+Ting-a-ling, by Frank Richard Stockton                                   20836
+  [Ill.: E. B. Bensell]
+  [Link: http://www.gutenberg.org/2/0/8/3/20836 ]
+  [Files: 20836.txt; 20836-8.txt; 20836-h.htm; ]
+  [Clearance: 20060807193806stockton]
+
+The Monctons: A Novel, Volume I, by Susanna Moodie                       20835
+   [Link: http://www.gutenberg.org/2/0/8/3/20835 ]
+   [Files: 20835.txt; 20835-8.txt; 20835-h.htm]
+
+Ruth Fielding at the War Front, by Alice B. Emerson                      20834
+   [Subtitle: or, The Hunt for the Lost Soldier]
+   [Link: http://www.gutenberg.org/2/0/8/3/20834 ]
+   [Files: 20834.txt; 20834-8.txt; 20834-h.htm]
+
+Exciting Adventures of Mister Robert Robin, by Ben Field                 20833
+   [Link: http://www.gutenberg.org/2/0/8/3/20833 ]
+   [Files: 20833.txt; 20833-h.htm]
+
+Campfire Girls at Twin Lakes, by Stella M. Francis                       20832
+   [Subtitle: The Quest of a Summer Vacation]
+   [Link: http://www.gutenberg.org/2/0/8/3/20832 ]
+   [Files: 20832.txt; 20832-h.htm]
+
+Short Stories of Various Types, by Various                               20831
+  [Editor: Laura F. Freck]
+  [Contents: The Gift of the Magi, by O. Henry]
+  [          A Reward of Merit, by Booth Tarkington]
+  [          "American, Sir!", by Mary Raymond Shipman Andrews]
+  [          John G., by Katherine Mayo]
+  [          Friends, by Myra Kelly]
+  [          A Camping Trip, by Hamlin Garland]
+  [          A Thread Without a Knot, by Dorothy Canfield Fisher]
+  [          Chu Chu, by Francis Bret Harte]
+  [          Feathertop, by Nathaniel Hawthorne]
+  [          The Red-Headed League, by Arthur Conan Doyle]
+  [          The Inconsiderate Waiter, by James Matthew Barrie]
+  [          The Siege of Berlin, by Alphonse Daudet]
+  [          The Silver Mine, by Selma Lagerlf]
+  [Link: http://www.gutenberg.org/2/0/8/3/20831 ]
+  [Files: 20831.txt; 20831-8.txt; 20831-h.htm; ]
+  [Clearance: 20050909184316freck]
+
+The Good Housekeeping Marriage Book, by Various                          20830
+  [Editor: William F. Bigelow]
+  [Link: http://www.gutenberg.org/2/0/8/3/20830 ]
+  [Files: 20830.txt; 20830-8.txt; 20830-h.htm]
+
+Souvenirs de voyage, by M. et Mme Mercier-Thoinnet                       20829
+  [Subtitle: dans le midi de la France... dans la Ligurie, à Gênes,
+       Rome, Naples... sur l'Adriatique, dans l'Albanie... la
+       Dalmatie, l'Illyri]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/2/20829 ]
+  [Files: 20829-8.txt]
+
+Traditions of the North American Indians, Vol. 3 (of 3), by J. A. Jones  20828
+  [Full author: James Athearn Jones]
+  [Link: http://www.gutenberg.org/2/0/8/2/20828 ]
+  [Files: 20828.txt; 20828-8.txt; 20828-h.htm]
+
+Traditions of the North American Indians, Vol. 2 (of 3), by J. A. Jones  20827
+  [Full author: James Athearn Jones]
+  [Link: http://www.gutenberg.org/2/0/8/2/20827 ]
+  [Files: 20827.txt; 20827-8.txt; 20827-h.htm]
+
+Traditions of the North American Indians, Vol. 1 (of 3), by J. A. Jones  20826
+  [Full author: James Athearn Jones]
+  [Link: http://www.gutenberg.org/2/0/8/2/20826 ]
+  [Files: 20826.txt; 20826-8.txt; 20826-h.htm]
+
+Bulletin de Lille, 1916.06, by Anonymous                                 20825
+  [Subtitle: publié sous le contrôle de l'autorité allemande]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/2/20825 ]
+  [Files: 20825-8.txt; 20825-h.htm]
+
+Bulletin de Lille, 1916.05, by Anonymous                                 20824
+  [Subtitle: publié sous le contrôle de l'autorité allemande]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/2/20824 ]
+  [Files: 20824-8.txt; 20824-h.htm]
+
+Bulletin de Lille, 1916.04, by Anonymous                                 20823
+  [Subtitle: publié sous le contrôle de l'autorité allemande]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/0/8/2/20823 ]
+  [Files: 20823-8.txt; 20823-h.htm]
+
+The Camp Fire Girls on the March, by Jane L. Stewart                     20822
+   [Subtitle: Bessie King's Test of Friendship]
+   [Link: http://www.gutenberg.org/2/0/8/2/20822 ]
+   [Files: 20822.txt; 20822-h.htm]
+
+Betty Wales Senior, by Margaret Warde                                    20821
+   [Link: http://www.gutenberg.org/2/0/8/2/20821 ]
+   [Files: 20821.txt; 20821-8.txt; 20821-h.htm]
+
+Larawan, by Vincente Rama                                                20820
+  [Subtitle: Mga Sugilanon ug Dinalídalí]
+  [Language: Cebuano]
+  [Link: http://www.gutenberg.org/2/0/8/2/20820 ]
+  [Files: 20820-8.txt; 20820-h.htm]
+
+Aims and Aids for Girls and Young Women, by George Sumner Weaver         20819
+  [Subtitle: On the Various Duties of Life, Physical, Intellectual,
+              And Moral Development; Self-Culture, Improvement, Dress,
+              Beauty, Fashion, Employment, Education, The Home
+              Relations, Their Duties To Young Men, Marriage, Womanhood
+              And Happiness.]
+  [Link: http://www.gutenberg.org/2/0/8/1/20819 ]
+  [Files: 20819.txt; 20819-8.txt; 20819-h.htm; 20819-page-images.zip]
+
+On the Genesis of Species, by St. George Mivart                          20818
+  [Link: http://www.gutenberg.org/2/0/8/1/20818 ]
+  [Files: 20818.txt; 20818-8.txt; 20818-h.htm]
+
+The Death of Saul and Other Eisteddfod Poems, by J. C. Manning           20764
+  [Full title: The Death of Saul and other Eisteddfod Prize Poems and
+        Miscellaneous Verses]
+  [Link: http://www.gutenberg.org/2/0/7/6/20764 ]
+  [Files: 20764.txt; 20764-8.txt]
+
+
+---------[   5 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Mar 2007 The Islington Mystery, Arthur Machen              [070040xx.xxx] 1493A
+http://gutenberg.net.au/ebooks07/0700401.txt or .zip
+http://gutenberg.net.au/ebooks07/0700401h.html
+
+Mar 2007 Charles Sturt, J H L Cumpston                     [070039xx.xxx] 1492A
+[Title: Charles Sturt - His Life and Journeys of Exploration]
+http://gutenberg.net.au/ebooks07/0700391.txt or .zip
+http://gutenberg.net.au/ebooks07/0700391h.html
+
+Mar 2007 Out of the Earth, Arthur Machen                   [070038xx.xxx] 1491A
+http://gutenberg.net.au/ebooks07/0700381.txt or .zip
+http://gutenberg.net.au/ebooks07/0700381h.html
+
+Mar 2007 A New Christmas Carol, Arthur Machen              [070037xx.xxx] 1490A
+http://gutenberg.net.au/ebooks07/0700371.txt or .zip
+http://gutenberg.net.au/ebooks07/0700371h.html
+
+Mar 2007 A Fragment of Life, Arthur Machen                 [070036xx.xxx] 1489A
+http://gutenberg.net.au/ebooks07/0700361.txt or .zip
+http://gutenberg.net.au/ebooks07/0700361h.html
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================

@@ -1,0 +1,250 @@
+---
+params:
+  id: 1759
+title: PG Monthly Newsletter (1997-06-18)
+date: 1997-06-18T22:02:31+00:00
+author: Michael Cook
+layout: post
+url: /19970618/pg-monthly-newsletter-1997-06-18/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: Project Gutenberg Etexts for June, 1997
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: Michael Hart &lt;hart@pobox.com&gt;
+Date: Wed, 18 Jun 1997 10:58:15 -0500 (CDT)
+
+
+This is a very short Project Gutenberg Newsletter announcing June's Etexts
+
+Our prairienet.org fileservers will be down for perhaps a week, starting
+on Friday, so we had to get everything posted now, so they would get to
+our mirror sites before the downtime.  Our other sites, listed below,
+should have them all posted by Friday.
+
+The Lost Pricess of Oz may be missing a page or two, if you have that
+book in a paper edition, please let me know, and I will get more info.
+
+I also need to hear from people who can help us proofread Dante in both
+Italian and English.
+
+Thanks so much,
+
+Michael S. Hart
+
+***
+
+Mon Year    Title and Author  [# of PG books by the author][filename.ext] ###
+
+A "C" following the Etext number indicates a copyrighted work.
+
+Jun 1997 The Tin Woodman of Oz, by Baum  [LFB#16] [Oz#12]  [12wozxxx.xxx] 960
+Jun 1997 The Lost Princess of Oz, by Baum [LFB#15] [Oz#11] [11wozxxx.xxx] 959
+Jun 1997 Rinkitink In Oz, by L. Frank Baum [LFB#14] [Oz#10][10wozxxx.xxx] 958
+Jun 1997 The Scarecrow of Oz, by L. Frank Baum[FB#13][Oz#9][09wozxxx.xxx] 957
+
+Jun 1997 Tik-Tok of Oz, by L. Frank Baum [Baum #12] [Oz #8][08wozxxx.xxx] 956
+Jun 1997 The Patchwork Girl of Oz, by L. Frank Baum[Baum12][07wozxxx.xxx] 955
+Jun 1997 Tom Swift & his War Tank, by Victor Appleton      [21tomxxx.xxx] 954
+Jun 1997 Tom Swift & his Big Tunnel, by Victor Appleton    [19tomxxx.xxx] 953
+
+Jun 1997 Tom Swift & his Air Glider, by Victor Appleton    [12tomxxx.xxx] 952
+Jun 1997 Tom Swift & his Sky Racer, by Victor Appleton     [09tomxxx.xxx] 951
+Jun 1997 Tom Swift & his Electric Runabout, by V. Appleton [05tomxxx.xxx] 950
+Jun 1997 Tom Swift & his Submarine Boat, by Victor Appleton[04tomxxx.xxx] 949
+
+Jun 1997 Ethics, by Benedict de Spinoza/Elwes Part 3 [#3]  [3spnexxx.xxx] 948
+Jun 1997 The Life of Horatio Lord Nelson, by Robert Southey[hnlsnxxx.xxx] 947
+Jun 1997 Lady Susan, by Jane Austen   [Jane Austen #6]     [lsusnxxx.xxx] 946
+Jun 1997 Dust, by Mr. And Mrs. Haldeman-Julius             [dsthjxxx.xxx] 945
+
+Jun 1997 The Voyage of the Beagle, by Charles Darwin [#1]  [vbglexxx.xxx] 944
+Jun 1997 Misalliance, by George Bernard Shaw  [Shaw #1]    [msalixxx.xxx] 943
+Jun 1997 Green Mansions, by W. H. Hudson [W. H. Hudson #1] [gmansxxx.xxx] 942
+Jun 1997 Just Folks, by Edgar A. Guest [Edgar A. Guest #2] [jfolkxxx.xxx] 941
+
+Jun 1997 Last of the Mohicans, by James Fenimore Cooper #1 [mohicxxx.xxx] 940
+Jun 1997 Life of Thomas Telford, by Samuel Smiles [SS #5]  [tlfrdxxx.xxx] 939
+Jun 1997 Good Indian, by B. M. Bower [B. M. Bower #2]      [gndinxxx.xxx] 938
+Jun 1997 Poems:  Patriotic, Religious, etc, by Father Ryan [fryanxxx.xxx] 937
+
+Jun 1997 The Village Watch-Tower, by Kate Douglas Wiggin #3[vilwtxxx.xxx] 936
+Jun 1997 Self Help; Conduct & Perseverance by Samuel Smiles[selfhxxx.xxx] 935
+Jun 1997 Songs of a Savoyard by W. S. Gilbert [Gilbert #5] [svyrdxxx.xxx] 934
+Jun 1997 More Bab Ballads, by W. S. Gilbert  [Gilbert #4]  [3babbxxx.xxx] 933
+
+Jun 1997 Fall of the House of Usher by Edgar Allen Poe [#1][usherxxx.xxx] 932
+Jun 1997 The Bab Ballads, by W. S. Gilbert [Gilbert #3]    [2babbxxx.xxx] 931
+Jun 1997 The Cook's Decameron, by Mrs. W. G. Water         [ckdecxxx.xxx] 930
+Jun 1997 The Cyberpunk Fakebook, by St. Jude & R.U. Sirius [fakebxxx.xxx] 929C
+
+Jul 1997 Glinda of Oz, by L. Frank Baum  [LFB#17] [Oz#14]  [12wozxxx.xxx] 961
+
+***
+
+You can get the Project Gutenberg books via FTP and the Web:
+
+[This site is in Urbana, Illinois, and is quite fast]
+ftp uiarchive.cso.uiuc.edu or ftp 128.174.5.14
+login:  anonymous
+password:  yourname@your.machine
+cd pub
+cd etext
+cd gutenberg
+[or just cd /pub/etext/gutenberg/etext97]
+cd etext97  [96, 95,94, 93, 92, 91 or 90.  70's and 80's are in /etext90]
+get filename  (be sure to set bin, if you get the .zip files)
+get more files
+quit
+
+get GUTINDEX.96 to see all Project Gutenberg Etexts to date.
+get GUTINDEX.97 to see current releases.
+New files in etext97, of course.
+
+ftp prairienet.org
+*** [This is usually the first site they appear in, but is slow]
+[This site is in Champaign, Illinois]
+ftp ftp.prairienet.org or ftp 192.17.3.4
+username:  anonymous
+password:  yourlogin@your.machine.domain
+[this is your email address where you are]
+
+cd pub/providers/gutenberg/etext97  [etc, as above]
+
+ls or dir for a listing of files
+
+get filename.txt (ascii files)
+get filename.zip (binary zipped files)
+
+be sure to type "binary" before retrieving the .zip files!
+
+***
+
+New major site for Eastern United States!
+
+For those on the East Coast of the United States we have
+sailor.gutenberg.org or 198.76.201.198 in Baltimore, MD.
+This site should provide very fast service for both WWW
+and FTP service.
+
+***
+
+In Europe, please try our site at:
+Bucharest High School of Computer Science
+Serving Central and Eastern Europe
+ftp://ftp.lbi.ro/pub/Books/Gutenberg
+
+and a new site up at:
+
+http://www.informika.ru -- official server of the
+Ministry of Education of Russia (the Russian part
+of the server not equivalent to the English one).
+
+http://www.informika.ru/windows/books/gutenb/list.html
+
+This is only available on the Russian language side of
+their system, but is pretty easy to see.  Click on the
+WINDOWS icon at the bottom of the main menu.  Then, on
+the lower left selection [the web names will pop up in
+English] which is /books.  The first one of that list,
+The Palms Russian Public Library, is Project Gutenberg
+Etexts in .zip format as mirrored from uiarchive.
+
+
+and our newest:
+
+ftp://ftp.pinknet.cz/pub/etext/gutenberg/  in the Czech Republic.
+
+***
+
+http://www.mirrors.org.sg/pg
+in Singapore
+
+The Gutenberg archive can also be accessed from Singapore at
+http://www.sol.com.sg/pg
+
+These two addresses reflect the same database in Singapore.
+and others are starting soon in Japan and Taiwan.
+
+***
+
+Project Gutenberg Web Sites can now be reached at:
+[This site is in Nevada]
+http://promo.net/pg/   [This is the definitive site for now]
+ftp://uiarchive.cso.uiuc.edu/pub/etext/gutenberg/pg_home.html
+http://www.prairienet.org/pg
+
+and from Silicon Valley at
+ftp://cdrom.com/pub/gutenberg
+and
+ftp://archive.org/pub/gutenberg/etext/etext97
+and etext96/95/94/93/92/91 and etext90, of course.
+
+and from Dallas, Texas at
+ftp://viemeister.com/pub/gutenberg
+
+And for you Gopher types:
+
+gopher://spinaltap.micro.umn.edu:70/11/Gutenberg
+
+**
+And our newest sites:
+ftp://ftp.ihug.co.nz/pub/mirror/gutenberg
+Adam Moore &lt;sickboy@ihug.co.nz&gt; and Sydney, AU
+
+Our Newest Site Is In Taiwan
+ftp transend.com.tw/mirrors/gutenberg/etext
+or, with your browser, the URL is:
+ftp://ftp.transend.com.tw/mirrors/gutenberg/etext
+
+Please let me know if you need more information.
+
+Michael S. Hart
+Project Gutenberg
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782
+Champaign, IL 61825-2782
+[Check should be made out to "Project Gutenberg/CMU"]
+
+Thanks!
+
+Michael
+
+
+
+To subscribe or unsubscribe to or from the Project Gutenberg Newsletter
+or change your subscription address to Project Gutenberg's Newsletter:
+
+send email to:
+listproc@prairienet.org
+say:
+unsub gutnberg
+unsub gutvol-l
+Message MUST be sent from the address you subbed from, of course.
+
+To sub from a new address, send message from there:
+sub gutnberg [yourfirstname] [yourlastname]
+If you want the volunteers' list
+sub gutvol-l [yourfirstname] [yourlastname]
+[That is "gutvol-L" NOT "gutvol-1"]
+
+Thanks!!
+
+Michael S. Hart
+&lt;hart@pobox.com&gt;
+Project Gutenberg
+Executive Director
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/1989-2000/pgmonthly_1997_06_18.txt" target="_blank" rel="nofollow">pgmonthly_1997_06_18.txt</a>

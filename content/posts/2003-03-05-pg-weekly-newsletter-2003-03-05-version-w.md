@@ -1,0 +1,814 @@
+---
+params:
+  id: 1969
+title: "PG Weekly Newsletter: Version W (2003-03-05)"
+date: 2003-03-05T16:12:23+00:00
+author: Michael Cook
+layout: post
+url: /20030305/pg-weekly-newsletter-2003-03-05-version-w/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 5th March 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7276 ebooks!!!
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New books From PG Australia
+   New U.S. eBooks
+3) News
+4) Readers letters
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+An urgent message this week, if you could use a computer for anything to =
+do=20
+with PG, or you know someone who can. Then please check out the news sect=
+ion=20
+for further information. There must be somebody out there who could make =
+good=20
+use of these machines.=20
+
+Happy reading,
+
+Alice (newsletter@schiffwood.demon.co.uk)
+
+We welcome feedback, critisism (constructive and otherwise), ebook review=
+s,=20
+featured author suggestions and writings, questions and general rambling =
+(we=20
+are accepting woffle this week) at the address above.
+
+PS. We would like to take this opportunity to wish Michael Hart a very ha=
+ppy=20
+birthday and many happy returns for Saturday.
+
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+Here Are The Updated Listings For This Past Week
+
+TOTAL COUNT as of today, Wed 03/05/03:   7,276 (incl. 176 Aus.)
+
+RESERVED count:   39
+
+Last week the Total Count was 7,232, including 174 at PG of Australia.
+This week we added 44 (incl. 174 Aus.).
+=2E
+--=3D] CORRECTIONS, REVISIONS AND NEW FORMATS [=3D--
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the author's first
+name (May, not Mary):
+Dec 2001 The Midnight Queen, by May Agnes Fleming          [mdnqnxxx.xxx]=
+2950
+
+The following iarebeing reindexed to include pseudonym information:
+Sep 2004 The Cruise of the Kawa, by Walter E. Traprock     [crskwxxx.xxx]=
+6586
+[Walter E. Traprock is a pseudonym of George S. Chappell]
+Oct 2004 Verses and Rhymes by the way, by Nora Pembroke    [vrhbwxxx.xxx]=
+6601
+[Nora Pembroke is a pseudonym for Margaret Dixon McDougall]
+
+The following is being reindexed to correct filename and version
+information, Version 10b, not Edition 11:
+Oct 2004 Our Legal Heritage, 4th Ed., by S. A. Reilly      [rlglhxxb.xxx]=
+6603C
+(Files posted:  rlglh10b.txt/rlglh10b.zip)
+
+We have posted the following in new formats as indicated:
+Sep 2004 In the Court of King Arthur, by Samuel Lowe       [crtrtxxx.xxx]=
+6582
+[Illustrated HTM, zipped-file, in crtrt10h.zip]
+Jul 1999 The Lamp That Went Out, by Colbrun and Groner     [tltwoxxx.xxx]=
+1832
+[HTML in tltwo10h.htm/tltwo10h.zip]
+Apr 1999 Another Study of Woman, by Honore de Balzac[dB#62][nswmnxxx.xxx]=
+1714
+[HTML in nswmn10h.htm/nswmn10h.zip]
+Oct 1997 1st PG Collection of Edgar Allan Poe[E. A. Poe #2][1epoexxx.xxx]=
+1062
+[HTML in 1epoe10h.htm/1epoe10h.zip]
+Jun 1997 Tom Swift & his Submarine Boat, by Victor Appleton[04tomxxx.xxx]=
+ 949
+[HTM in 04tom10h.htm/04tom10.zip]
+Jun 1997 Fall of the House of Usher by Edgar Allen Poe [#1][usherxxx.xxx]=
+ 932
+[HTML in usher10h.htm/usher10h.zip]
+
+We have posted an improved 11th edition of the following:
+Dec 1995 Moll Flanders, by Daniel Defoe [Defoe #1]         [mollfxxx.xxx]=
+ 370
+
+
+--=3D] 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA [=3D--
+
+Mar 2003 Apache Devil, by by Edgar Rice Burroughs   [EB#13][030027xx.xxx]=
+0176A
+[http://gutenberg.net.au/ebooks03/0300271.txt or .ZIP]
+Mar 2003 The Red and the Black, by Stendahl         [ST#04][030026xx.xxx]=
+0175A
+[http://gutenberg.net.au/ebooks03/0300261.txt or .ZIP]
+[Author's real name: Henri Beyle]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these eboo=
+ks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+--=3D] 42 NEW U.S. POSTS [=3D--
+
+Mar 2005 The Disowned,    by E. B. Lytton, Complete [BL#67][b067wxxx.xxx]=
+7639
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7631-7638]
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 8   [BL#66][b066wxxx.xxx]=
+7638
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 7   [BL#65][b065wxxx.xxx]=
+7637
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 6   [BL#64][b064wxxx.xxx]=
+7636
+
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 5   [BL#63][b063wxxx.xxx]=
+7635
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 4   [BL#62][b062wxxx.xxx]=
+7634
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 3   [BL#61][b061wxxx.xxx]=
+7633
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 2   [BL#60][b060wxxx.xxx]=
+7632
+Mar 2005 The Disowned,    by E. B. Lytton, Vol. 1   [BL#59][b059wxxx.xxx]=
+7631
+[Above files posted in etext05: b0??w10.txt/.zip]
+
+Feb 2005 Images from Confessions of Rousseau, by D. Widger [dw39wxxh.xxx]=
+7555
+Feb 2005 Images from Pepy's Diaries, by David Widger       [dw38wxxh.xxx]=
+7554
+Feb 2005 Images from Works of Gilbert Parker, by D. Widger [dw37wxxh.xxx]=
+7553
+Feb 2005 Images from Motley's Netherlands, by David Widger [dw36wxxh.xxx]=
+7552
+Feb 2005 Images from The Essays of Montaigne, by D. Widger [dw35wxxh.xxx]=
+7551
+
+Feb 2005 Images from Works of George Meredith, by D. Widger[dw34wxxh.xxx]=
+7550
+
+
+Dec 2004 Under the Prophet in Utah, by Cannon and O'Higgins[prutaxxx.xxx]=
+7066
+[Full author Frank J. Cannon and Harvey J. O'Higgins]
+Dec 2004 Children of the Bush, by Henry Lawson             [chbshxxx.xxx]=
+7065
+Dec 2004 A Half-Century of Conflict V2, by F. Parkman[FP#5][?hcc2xxx.xxx]=
+7064
+Dec 2004 A Terrible Secret, by May Agnes Fleming           [trsctxxx.xxx]=
+7063
+Dec 2004 A Daughter of Fife, by Amelia Edith Barr          [?dgffxxx.xxx]=
+7062
+[7-bit version with non-accented characters in 7dgff10.txt and 7dgff10.zi=
+p]
+[8-bit version with accented characters in 8dgff10.txt and 8dgff10.zip]
+Dec 2004 A March on London, by G. A. Henty            [#15][?londxxx.xxx]=
+7061
+[7-bit version with non-accented characters in 7lond10.txt and 7lond10.zi=
+p]
+[8-bit version with accented characters in 8lond10.txt and 8lond10.zip]
+
+Dec 2004 At Agincourt, by G. A. Henty                 [#14][?aginxxx.xxx]=
+7060
+[7-bit version with non-accented characters in 7agin10.txt and 7agin10.zi=
+p]
+[8-bit version with accented characters in 8agin10.txt and 8agin10.zip]
+Dec 2004 Peregrine's Progress, by Jeffery Farnol       [#4][peregxxx.xxx]=
+7059
+Dec 2004 Mankind in the Making, by H. G. Wells        [#26][?mimkxxx.xxx]=
+7058
+[7-bit version with non-accented characters in 7mimk10.txt and 7mimk10.zi=
+p]
+[8-bit version with accented characters in 8mimk10.txt and 8mimk10.zip]
+Dec 2004 Poindexter's Disappearance,by Julian Hawthorne[#2][?dpdpxxx.xxx]=
+7057
+[Full title: David Poindexter's Disappearance and Other Tales]
+[7-bit version with non-accented characters in 7dpdp10.txt and 7dpdp10.zi=
+p]
+[8-bit version with accented characters in 8dpdp10.txt and 8dpdp10.zip]
+Dec 2004 Along the Shore, by Rose Hawthorne Lathrop        [atshrxxx.xxx]=
+7056
+
+Dec 2004 Gone to Earth, by Mary Webb                       [gtrthxxx.xxx]=
+7055
+Dec 2004 World's Histories, France V1, by Guizot De Witt   [?wbhfxxx.xxx]=
+7054
+[Full title: Worlds Best Histories - France Vol 7]
+[Full author: M. Guizot and Madame Guizot De Witt]
+[Plain text in 7wbhf10.txt/.zip; 8-bit version in 8wbhf10.txt/.zip]
+Dec 2004 Pages from a Journal with Other Papers,Rutherford [pgjrxxxx.xxx]=
+7053
+[Author's Full Name: Mark Rutherford]
+[Text in pgjr10.txt/.zip, XHTML in pgjr10h.htm/.zip]
+Dec 2004 Dr. Heidenhoff's Process, by Edward Bellamy   [#3][heidnxxx.xxx]=
+7052
+Dec 2004 The Good News of God, by Charles Kingsley         [gdngxxxx.xxx]=
+7051
+[Text in gdng10.txt/.zip, XHTML in gdng10h.htm/.zip]
+
+Dec 2004 The Swoop, by P. G. Wodehouse                [#22][swoopxxx.xxx]=
+7050
+Dec 2004 R=FCckblicke, by Walter Gr=FCnfeld                    [?rblkxxx.=
+xxx]7049C
+[Language: German]
+Dec 2004 Triumph of the Egg, by Sherwood Anderson      [#3][?teggxxx.xxx]=
+7048
+[Full title: Triumph of the Egg and Other Stories]
+[7-bit version with non-accented characters in 7tegg10.txt and 7tegg10.zi=
+p]
+[8-bit version with accented characters in 8tegg10.txt and 8tegg10.zip]
+Dec 2004 Back To Billabong, by Mary Grant Bruce            [bkblbxxx.xxx]=
+7047
+Dec 2004 Annals of Jamaica Plain, by Harriet M. Whitcomb   [arjplxxx.xxx]=
+7046
+[Full title: Annals and Reminiscences of Jamaica Plain]
+[Full author: Harriet Manning Whitcomb]
+
+Dec 2004 Marching Men, by Sherwood Anderson            [#2][mgmenxxx.xxx]=
+7045
+Dec 2004 Courts of Memory, by L. de Hegermann-Lindencrone  [?crtsxxx.xxx]=
+7044
+[Full title: In the Courts of Memory 1858-1875.]
+[7-bit version with non-accented characters in 7crts10.txt and 7crts10.zi=
+p]
+[8-bit version with accented characters in 8crts10.txt and 8crts10.zip]
+Dec 2004 Der Kaufmann von Venedig, William Shakespeare[#18][?gs18xxx.xxx]=
+7043
+[Language: German]
+[7-bit version with non-accented characters in 7gs1810.txt and 7gs1810.zi=
+p]
+[8-bit version with accented characters in 8gs1810.txt and 8gs1810.zip]
+(ubersetzt von August Wilhelm von Schlegel)
+Dec 2004 Discipline and Other Sermons, by Charles Kingsley [dscpxxxx.xxx]=
+7042
+[Text in dscp10.txt/.zip, XHTML in dscp10h.htm/.zip]
+Dec 2004 Wie es euch gefallt, by William Shakespeare       [?gs25xxx.xxx]=
+7041
+[Language: German]
+[7-bit version with non-accented characters in 7gs2510.txt and 7gs2510.zi=
+p]
+[8-bit version with accented characters in 8gs2510.txt and 8gs2510.zip]
+
+Dec 2004 Paula the Waldensian, by Eva Lecomte              [?paulxxx.xxx]=
+7040
+[7-bit version with non-accented characters in 7paul10.txt and 7paul10.zi=
+p]
+[8-bit version with accented characters in 8paul10.txt and 8paul10.zip]
+
+----------------------------------------------------------------------
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D [ SUBMIT A NEW EBOOK FOR COPYRIGH=
+T CLEARANCE ]=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+=09http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+=09http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+=09http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+Free Computers
+
+Project Gutenberg has received a generous donation of over 20 Pentium
+Pro 100 computers.  If you have a need for a computer to do Project
+Gutenberg work or can make good use of computers please
+let William Fishburne (william.fishburne@verizon.net) know!
+
+The computers are physically in Northern Virginia and if you are not,
+it would be necessary for you to arrange for the shipping cost.
+Please send in your thoughts and ideas on how PG can make best use
+of this dated windfall! =20
+
+These are GREAT for any wordprocessing, etc. . .it's just about exactly
+what I am using here,for all my Project Gutenberg work.  However, these
+are NOT good for the "bloatware" operating systems and programs if you
+are going to reload and reboot a lot. . .takes some real time for this.
+However, I scanned the first books I ever OCRed on something much slower.=
+ . .=20
+=2E
+
+Thanks!!!
+
+Michael
+
+Please let us know if you can make use of these items, it would be a real=
+=20
+shame to let them go to waste.
+
+                    -------------------
+
+World Book Day
+
+The sixth World Book Day takes place tomorrow (March 6th), find out more =
+at=20
+www.worldbookday.com. BBC Online are taking part with many interactive=20
+activities this year, so go on give someone an ebook for World Book Day.
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=3D64-6221=
+541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=3Ddonate%40gutenberg.net&item_name=3DDonate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Readers letters
+
+Responses to the 'What is best for reading e-texts?' question
+
+From: "Stewart C. Russell"
+
+My choice is a palm and weasel reader (aka gutenpalm:=20
+&lt;http://gutenpalm.sourceforge.net/&gt;). Fast, cheap, and light. Useful for=20
+proofreading texts in preparation, too.
+
+By curious coincidence, I've been using it to read Leacock books on the s=
+ubway=20
+ride to work!
+
+Stewart
+                    -------------------
+
+From: Naomi Walker
+
+I receive your Gutenburg newsletter each week, and have both a windows
+based desktop computer and a Palm handheld using palm os. I found two=20
+free readers for the palm os sytem that have free txt/html converters.
+Isilo and weazel reader (formerly gutenpalm)are the ones that easy to
+use free conversion tools.  The one for palm reader, Palm eBook Studio,
+http://www.palmdigitalmedia.com/ebs.cgi , sells for $29.95 USD,
+and is a little out of my reach at this time.
+
+Cordially
+Naomi Walker
+
+
+{There has been a similar debate to this on the DP forums recently, inter=
+ested=20
+readers may wish to take a look there.}
+                    -------------------
+
+Recommended ebooks
+
+From: Juliet Sutherland
+
+When I started doing the post-processing work on "The Cruise of the=20
+Kawa: Wanderings in the South Seas" by Walter E. Traprock, F.R.S.S.E.U.=20
+1921c., I thought it was yet another travel book describing the author's
+adventures in foreign lands. But certain phrases started to catch my eye=20
+and I actually read some of the text. "Suddenly, as they do in the=20
+tropics, an extraordinary thing happened. A simoon, a monsoon and a=20
+typhoon met, head on, at the exact corner of the equator and the 180th=20
+meridian. We hadn't noticed one of them..." Hmm, maybe not quite the=20
+usual travelogue. "I heard it that time ... the faint, sweet note of the=20
+male sea-robin." It took me awhile, but I eventually, with the help of=20
+visiting relatives, figured out that the entire book is a wonderful=20
+spoof. We spent the rest of the evening doing dramatic readings and=20
+laughing until our sides hurt. I'd like to make a PG version that=20
+includes the photographs, since they are an important part of the humor.=20
+The description of the captain, "Captain Ezra Triplett was a hard-bitten=20
+mariner. In fact, he was, I think, the hardest-bitten mariner I have=20
+ever seen. He had been bitten, according to his own tell, man-and-boy,=20
+for fifty-two years, by every sort of insect, rodent, and crustacean in=20
+existence. He had had smallpox and three touches of scurvy, each of=20
+these blights leaving its autograph." is amusing, but the true humor=20
+comes from the accompanying picture of a baby-faced young man. A fine=20
+book when you are in the mood for sophomoric humor.
+
+Juliet
+                    -------------------
+
+Question: Are there any plans for an e-copy of Marx's Das Kapital?
+
+You mean, we don't have it ?!? (Stunned silence)
+
+Well, we don't. However, we do know that someone out there does. So we ar=
+e=20
+asking please, for anyone who has used a site that holds Das Kapital to l=
+et=20
+us know where it is, or send a plain text file over so that we can put it=
+ on=20
+PG. We thank you.
+
+
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research=
+ may=20
+need
+to be done by our professional Chief Cataloguer so for those who wish to=20
+obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, et=
+c.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+5th Rosa Luxemberg, Pier Paolo Pasolini
+6th Cyrano de Bergerac, Elizabeth Browning,=20
+7th Georges Perec
+8th Michael Hart, Kenneth Grahame
+9th Vita Sackville-West, Keri Hulme
+10th Boris Vian
+11th Toquato Taso
+
+Also, this week
+
+Max Jacob (French author) dies whilst in Nazi concentration camp, 1944. B=
+oard=20
+game Monopoly is invented (have they finished the game yet?), the first=20
+surface photographs of planet Pluto are taken. In 1956 the first weather=20
+forecasting telephone line is set up in the UK, I bet they got it wrong!
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please ch=
+eck
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful i=
+f
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+RIGHT TO POSSESS OR RIGHT TO CREATE? WHICH CARD TRUMPS?
+At the end of a recent mock trial sponsored by the Berkeley Center for La=
+w
+and Technology to debate issues of copyright in the digital age, the judg=
+e
+urged the participants: "Go back to work and clear up this mess for us. A=
+nd
+don't take too long to do it because we're losing ground fast." It's a ca=
+se
+of "digital rights management" (technology to place locks on DVDs and oth=
+er
+copyrighted material to prevent their being misappropriated) versus an
+innovator's ability to make technological advances by taking a competitor=
+'s
+products apart to understand how they work. Rep. Zoe Lofgren (D-Calif.),
+who is introducing a bill to amend the 1998 Digital Millennium Copyright
+Act, says, "We have ceded too much power to copyright owners. People are
+afraid to proceed on innovative measures." (New York Times 2 Mar 2003)
+http://shorl.com/bapog
+
+                    -------------------
+
+TEXT MESSAGE ESSAY BEWILDERS BRITISH TEACHER
+A 13-year-old's "How I Spent My Summer Vacation" essay proved to be almos=
+t=20
+indecipherable to her poor teacher. "I could not believe what I was seein=
+g.=20
+The page was riddled with hieroglyphics, many of which I simply could not=
+=20
+translate," the teacher told the Daily Telegraph newspaper. The girl's=20
+essay began: "My summr hols wr CWOT. B4, we used 2go2 NY 2C my bro, his G=
+F=20
+& thr 3 :- kids FTF. ILNY, it's a gr8 plc." For those who had trouble=20
+reading that, here's a translation: "My summer holidays were a complete=20
+waste of time. Before, we used to go to New York to see my brother, his=20
+girlfriend and their three screaming kids face to face. I love New York.=20
+It's a great place." The text messaging craze is partially to blame for a=
+=20
+decline in grammar and written English abilities, says Judith Gillespie o=
+f=20
+the Scottish Parent Teacher Council. "Pupils think orally and write=20
+phonetically." (Reuters/CNN 3 Mar 2003)
+http://www.cnn.com/2003/EDUCATION/03/03/offbeat.text.essay.reut/index.htm=
+l
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to=
+:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+ALEXANDRIA LIBRARY PROJECT TO BUILD VAST ONLINE COLLECTION
+A project at the new Alexandria Library in Egypt hopes to make
+virtually every existing text available online. The Alexandria Library
+Scholars Collective uses software called CyberBook Plus designed to
+link archives of digital texts from around the world. In addition to
+offering a single point of entry to access most of the world's texts,
+the software includes virtual lecture halls, a hub for international
+scholars, and a gateway for ordinary readers. David Wolff of
+online-learning venture Fathom noted that doing any one of these
+successfully would be challenging. The challenges confronting the
+project include copyright, language barriers, and funding. The
+project's primary sources of funding are currently the Egyptian
+government and UNESCO.
+New York Times, 1 March 2003 (registration req'd)
+http://www.nytimes.com/2003/03/01/arts/01ALEX.html
+
+EXPERTS FIND FAULT WITH CURRENT COPYRIGHT LEGISLATION
+Experts speaking at a University of California at Berkeley conference
+were in general agreement that copyright law is currently being applied
+inappropriately. The event featured speakers from a range of companies
+and institutions, representing a variety of perspectives on the issue
+of copyright. Most speakers faulted the Digital Millennium Copyright
+Act (DMCA) and its application, saying the interests of the majority of
+persons involved are not being served. Notable DMCA opponents Larry
+Lessig and Edward Felten spoke out against the current state of
+copyright enforcement. Alex Alben of RealNetworks also attended the
+conference. He criticized a recent action by Lexmark, which has won a
+preliminary injunction under the terms of the DMCA to prevent a
+competitor from selling a chip that would allow Lexmark printers to
+function with non-Lexmark toner cartridges. "This is a travesty," Alben
+said. "This is not what we intended when we created the DMCA."
+CNET, 1 March 2003
+http://news.com.com/2100-1023-990689.html
+
+SENATOR OFFERS MARKET APPROACH TO COPYRIGHT
+Senator Ron Wyden (D-Ore.) has suggested that the answer to ongoing
+wrangling over copyright is a policy of full disclosure. If content
+producers are required to explain clearly to consumers how and under
+what conditions a copyrighted work can be used or copied, users can
+easily decide whether they will buy it. Wyden said his approach is a
+market-based one; although the government would have to specify and
+enforce disclosure provisions, market forces would compel action on the
+part of media companies to keep consumers. Wyden argued that the
+current influence of media companies on Congress will prevent any
+legislative alteration of copyright law from passing any time soon.
+San Jose Mercury News, 2 March 2003
+http://www.bayarea.com/mld/mercurynews/business/5298641.htm
+
+                    -------------------
+
+NORWEGIAN TEEN FACES SECOND COPYRIGHT TRIAL
+Jon Johansen of Norway was acquitted last month on charges of writing a
+computer program that allowed copying of DVDs. The court ruled that
+Johansen violated no laws because he used the program to make copies of
+movies that were legally purchased. An appeals court has decided to
+grant a new trial on behalf of the Motion Picture Association of
+America, which had filed the original complaint against Johansen.
+Johansen's attorney, Halvor Manshaus, said the appeal was not
+unexpected and that he and his client are "confident with regard to the
+final outcome," given that they won the case the first time it went to
+trial. Rune Floisbonn, acting chief of the Economic Crime Unit's data
+department, said, "This case is about important principles, and we are
+very pleased that it will be tried again." The Motion Picture
+Association of America estimates that the film industry loses $3
+billion each year to piracy.
+Washington Post, 28 February 2003
+http://www.washingtonpost.com/wp-dyn/articles/A16015-2003Feb28.html
+
+CHINA GETS LOOK AT MICROSOFT SOURCE CODE
+China's Information Technology Security Certification Center will
+participate in the Government Security Program (GSP), Microsoft's
+initiative to share its Windows source code with international
+governments to allay fears about the operating system's security.
+During a two-day visit, Bill Gates met with President Jiang Zemin and
+other Chinese dignitaries. Microsoft's promise to reveal any or all of
+the Windows source code successfully wooed the Chinese government and
+military, who were leaning towards open-source Linux as a more secure
+option. Microsoft is promoting GSP to dozens of nations and
+organizations and has announced agreements with Russia, NATO, and the
+United Kingdom.
+CNET, 28 February 2003
+http://news.com.com/2100-1007-990526.html
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/hel=
+p
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett for the automation processes, George for the=
+=20
+booklist, Mark for the beer (double newsletter week) and computer upgrade=
+,=20
+and Larry Wall. Greg and Michael are on holiday.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_03_05_version_w.txt" target="_blank" rel="nofollow">pgweekly_2003_03_05_version_w.txt</a>

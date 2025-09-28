@@ -1,0 +1,544 @@
+From news at pglaf.org  Thu Apr  6 08:20:03 2006
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Apr  6 08:20:05 2006
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0604060818160.32001@pglaf.org>
+
+GWeekly_April_05_part2.txt
+
+The Project Gutenberg Weekly Newsletter 05 Apr 2006
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 48 New U.S. eBooks this week
+    - 3 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 05 Apr 2006: 18630 (incl. 555 Aus.).
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Tacitus on Germany, by Tacitus                                            2995
+   [Translator: Thomas Gordon]
+   [Updated edition of: etext01/tctgr10.txt]
+   [Link: http://www.gutenberg.org/2/9/9/2995 ]
+   [Files: 2995.txt; 2995-h.htm]
+
+Sir Francis Drake's Famous Voyage Round the World, by Francis Pretty      2991
+   [Updated edition of: etext01/fdvrw10.txt]
+   [Link: http://www.gutenberg.org/2/9/9/2991 ]
+   [Files: 2991.txt; 2991-h.htm]
+
+Garrison's Finish, by W. B. M. Ferguson                                   2989
+   [Subtitle: A Romance of the Race-Course]
+   [Updated edition of: etext01/gfnsh10.txt]
+   [Link: http://www.gutenberg.org/2/9/8/2989 ]
+   [Files: 2989.txt; 2989-8.txt; 2989-h.htm]
+
+The Wizard, by H. Rider Haggard                                           2893
+   [Updated edition of: etext01/twzrd10.txt]
+   [Link: http://www.gutenberg.org/2/8/9/2893 ]
+   [Files: 2893.txt; 2893-h.htm]
+
+The Yellow God, by H. Rider Haggard                                       2857
+   [Subtitle: An Idol of Africa]
+   [Updated edition of: etext01/ylwgd10.txt]
+   [Link: http://www.gutenberg.org/2/8/5/2857 ]
+   [Files: 2857.txt; 2857-8.txt; 2857-h.htm]
+
+Moon of Israel, by H. Rider Haggard                                       2856
+   [Updated edition of: etext01/mnsrl10.txt]
+   [Link: http://www.gutenberg.org/2/8/5/2856 ]
+   [Files: 2856.txt; 2856-8.txt; 2856-h.htm]
+
+Elissa, by H. Rider Haggard                                               2855
+   [Updated edition of: etext01/1rbnh10.txt]
+   [Link: http://www.gutenberg.org/2/8/5/2855 ]
+   [Files: 2855.txt; 2855-8.txt; 2855-h.htm]
+
+Sir Francis Drake Revived, by Philip Nichols                              2854
+   [Updated edition of: etext01/fdrvv10.txt]
+   [Link: http://www.gutenberg.org/2/8/5/2854 ]
+   [Files: 2854.txt; 2854-h.htm]
+
+The Ivory Child, by H. Rider Haggard                                      2841
+   [Updated edition of: etext01/ivory10.txt]
+   [Link: http://www.gutenberg.org/2/8/4/2841 ]
+   [Files: 2841.txt; 2841-8.txt; 2841-h.htm]
+
+Jewel, by Clara Louise Burnham                                            2778
+   [Subtitle: A Chapter In Her Life]
+   [Updated edition of: etext01/jewel10.txt]
+   [Link: http://www.gutenberg.org/2/7/7/2778 ]
+   [Files: 2778.txt; 2778-8.txt; 2778-h.htm]
+
+The Mahatma and the Hare, by H. Rider Haggard                             2764
+   [Updated edition of: etext01/tmath10.txt]
+   [Link: http://www.gutenberg.org/2/7/6/2764 ]
+   [Files: 2764.txt; 2764-8.txt; 2764-h.htm]
+
+The World's Desire, by H. Rider Haggard and Andrew Lang                   2763
+   [Updated edition of: etext01/wldsr10.txt]
+   [Link: http://www.gutenberg.org/2/7/6/2763 ]
+   [Files: 2763.txt; 2763-8.txt; 2763-h.htm]
+
+Long Odds, by H. Rider Haggard                                            2730
+   [Updated edition of: etext01/lodds10a.txt]
+   [Link: http://www.gutenberg.org/2/7/3/2730 ]
+   [Files: 2730.txt; 2730-h.htm]
+
+Hunter Quatermain's Story, by H. Rider Haggard                            2728
+   [Updated edition of: etext01/qstry10.txt]
+   [Link: http://www.gutenberg.org/2/7/2/2728 ]
+   [Files: 2728.txt; 2728-8.txt; 2728-h.htm]
+
+Morning Star, by H. Rider Haggard                                         2722
+   [Updated edition of: etext01/mstar10.txt]
+   [Link: http://www.gutenberg.org/2/7/2/2722 ]
+   [Files: 2722.txt; 2722-8.txt; 2722-h.htm]
+
+Eric Brighteyes, by H. Rider Haggard                                      2721
+   [Updated edition of: etext01/ericb10.txt]
+   [Link: http://www.gutenberg.org/2/7/2/2721 ]
+   [Files: 2721.txt; 2721-8.txt; 2721-h.htm]
+
+Maiwa's Revenge, by H. Rider Haggard                                      2713
+   [Subtitle: The War of the Little Hand]
+   [Updated edition of: etext01/maiwa10.txt]
+   [Link: http://www.gutenberg.org/2/7/1/2713 ]
+   [Files: 2713.txt; 2713-8.txt; 2713-h.htm]
+
+Queen Sheba's Ring, by H. Rider Haggard                                   2602
+   [Updated edition of: etext01/sheba10.txt]
+   [Link: http://www.gutenberg.org/2/6/0/2602 ]
+   [Files: 2602.txt; 2602-8.txt; 2602-h.htm]
+
+Stories by English Authors: Scotland, by Various                          2588
+   Contents:
+     The Courting of T'nowhead's Bell, by J. M. Barrie
+     "The Heather Lintie", by S. R. Crockett
+     A Doctor of the Old School, by Ian Maclaren
+     Wandering Willie's Tale, by Sir Walter Scott
+     The Glenmutchkin Railway, by Professor Aytoun
+     Thrawn Janet, by R. L. Stevenson
+   [Updated edition of: etext01/sbeas10.txt]
+   [Link: http://www.gutenberg.org/2/5/8/2588 ]
+   [Files: 2588.txt; 2588-h.htm]
+
+Life Is A Dream, by Pedro Calderon de la Barca                            2587
+   [Translator: Edward Fitzgerald]
+   [Updated edition of: etext01/lfdrm10.txt]
+   [Link: http://www.gutenberg.org/2/5/8/2587 ]
+   [Files: 2587.txt; 2587-h.htm]
+
+Polyuecte, by Pierre Corneille                                            2543
+   [Translator: Thomas Constable]
+   [Updated edition of: etext01/plyct10.txt]
+   [Link: http://www.gutenberg.org/2/5/4/2543 ]
+   [Files: 2543.txt; 2543-h.htm]
+
+Orpheus in Mayfair and Other Stories and Sketches, by Maurice Baring      2492
+   [Updated edition of: etext01/orphe10.txt]
+   [Link: http://www.gutenberg.org/2/4/9/2492 ]
+   [Files: 2492.txt; 2492-h.htm]
+
+History Of Florence And Of The Affairs Of Italy, by Niccolo Machiavelli   2464
+   [Subtitle: From The Earliest Times To The Death Of Lorenzo The Magnificent]
+   [Intro.: Hugo Albert Rennert]
+   [Updated edition of: etext01/hflit10.txt]
+   [Link: http://www.gutenberg.org/2/4/6/2464 ]
+   [Files: 2464.txt; 2464-8.txt; 2464-h.htm]
+
+The Prophet of Berkeley Square, by Robert Hichens                         2463
+   [Updated edition of: etext01/tpobs10.txt]
+   [Link: http://www.gutenberg.org/2/4/6/2463 ]
+   [Files: 2463.txt; 2463-8.txt; 2463-h.htm]
+
+Dona Perecta, by B. Perez Galdos                                          2462
+   [Intro.: W. D. Howells]
+   [Translator: Mary J. Serrano]
+   [Updated edition of: etext01/donap10.txt]
+   [Link: http://www.gutenberg.org/2/4/6/2462 ]
+   [Files: 2462.txt; 2462-8.txt; 2462-h.htm]
+
+Stories By English Authors: Italy, by Various                             2457
+   Contents:
+     A Faithful Retainer, by James Payn
+     Bianca, by W. E. Norris
+     Goneril, by A. Mary F. Robinson
+     The Brigand's Bride, by Laurence Oliphant
+     Mrs. General Talboys, by Anthony Trollope
+   [Updated edition of: etext01/sbeai10.txt]
+   [Link: http://www.gutenberg.org/2/4/5/2457 ]
+   [Files: 2457.txt; 2457-h.htm]
+
+Caught In The Net, by Emile Gaboriau                                      2451
+   [Updated edition of: etext01/cnnet10.txt]
+   [Link: http://www.gutenberg.org/2/4/5/2451 ]
+   [Files: 2451.txt; 2451-8.txt; 2451-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  48 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+How to Teach Phonics, by Lida M. Williams                                18119
+   [Link: http://www.gutenberg.org/1/8/1/1/18119 ]
+   [Files: 18119.txt; 18119-h.htm]
+
+Little Journeys, Volume 4, by Elbert Hubbard                             18118
+   [Full title: Little Journeys to the Homes of the Great, Volume 4 (of 14)]
+   [Subtitle: Little Journeys to the Homes of Eminent Painters]
+   [Link: http://www.gutenberg.org/1/8/1/1/18118 ]
+   [Files: 18118.txt; 18118-8.txt; 18118-h.htm]
+
+Georges Guynemer, by Henry Bordeaux                                      18117
+   [Subtitle: Knight of the Air]
+   [Translator: Louise Morgan Sill]
+   [Link: http://www.gutenberg.org/1/8/1/1/18117 ]
+   [Files: 18117.txt; 18117-8.txt; 18117-h.htm]
+
+The Freebooters of the Wilderness, by Agnes C. Laut                      18116
+   [Link: http://www.gutenberg.org/1/8/1/1/18116 ]
+   [Files: 18116.txt; 18116-8.txt; ]
+
+Veljekset, by Arvid Jornefelt                                            18115
+   [Subtitle: Romaani]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/8/1/1/18115 ]
+   [Files: 18115-8.txt]
+
+Punch, or the London Charivari, Volume 159, November 10, 1920, Various   18114
+   [Editor: Owen Seaman]
+   [Link: http://www.gutenberg.org/1/8/1/1/18114 ]
+   [Files: 18114.txt; 18114-8.txt; 18114-h.htm]
+
+History of the Expedition to Russia, by Count Philip de Segur            18113
+   [Subtitle: Undertaken by the Emperor Napoleon in the Year 1812]
+   [Link: http://www.gutenberg.org/1/8/1/1/18113 ]
+   [Files: 18113.txt; 18113-8.txt; 18113-h.htm]
+
+Moll Flanders, by Daniel Defoe                                           18112
+   [Translator: Marcel Schwob]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/1/18112 ]
+   [Files: 18112-8.txt; 18112-h.htm]
+
+Scenes de mer, Tome I, by Edouard Corbiere                               18111
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/1/18111 ]
+   [Files: 18111-8.txt; 18111-h.htm]
+
+The Bridal March; One Day, by Bjornstjerne Bjornson                      18110
+   [Translator: Edmund Gosse]
+   [Link: http://www.gutenberg.org/1/8/1/1/18110 ]
+   [Files: 18110.txt; 18110-8.txt; 18110-h.htm]
+
+Graveyard of Dreams, by Henry Beam Piper                                 18109
+   [Link: http://www.gutenberg.org/1/8/1/0/18109 ]
+   [Files: 18109.txt; 18109-h.htm]
+
+Jean-nu-pieds, Vol. 2, by Albert Delpit                                  18108
+   [Subtitle: chronique de 1832]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/0/18108 ]
+   [Files: 18108-8.txt; 18108-0.txt]
+
+American Lutheranism Vindicated, by Samuel Simon Schmucker               18107
+   [Title: American Lutheranism Vindicated; or, Examination of the
+    Lutheran Symbols, on Certain Disputed Topics]
+   [Subtitle: Including a Reply to the Plea of Rev. W. J. Mann]
+   [Link: http://www.gutenberg.org/1/8/1/0/18107 ]
+   [Files: 18107.txt; 18107-8.txt]
+
+Lettres de Marie Bashkirtseff, by Marie Bashkirtseff                     18106
+   [Subtitle: Preface de Francois Coppee]
+   [Commentator: Francois Coppee]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/1/0/18106 ]
+   [Files: 18106-8.txt; 18106-0.txt; 18106-h.htm]
+
+Genesis, by H. Beam Piper                                                18105
+   [Link: http://www.gutenberg.org/1/8/1/0/18105 ]
+   [Files: 18105.txt; 18105-h.htm]
+
+Among Famous Books, by John Kelman                                       18104
+   [Link: http://www.gutenberg.org/1/8/1/0/18104 ]
+   [Files: 18104.txt; 18104-8.txt; 18104-h.htm]
+
+"Contemptible", by "Casualty"                                            18103
+   [Link: http://www.gutenberg.org/1/8/1/0/18103 ]
+   [Files: 18103.txt; 18103-8.txt; 18103-h.htm]
+
+The Philippine Islands, 1493-1898, Vol. 24, Ed. by Blair & Robertson     18102
+   [Subtitle: Volume XXIV, 1630-1634]
+   [Ed.:  Emma Helen Blair and James Alexander Robertson]
+   [Intro. and Notes: Edward Gaylord Bourne]
+   [Link: http://www.gutenberg.org/1/8/1/0/18102 ]
+   [Files: 18102.txt; 18102-8.txt; 18102-h.htm]
+
+The Life of Friedrich Schiller, by Goethe and Carlyle                    18101
+   [Subtitle: Introduction to German Translation]
+   [Author: Johann Wolfgang von Goethe and Thomas Carlyle]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/8/1/0/18101 ]
+   [Files: 18101.txt; 18101-8.txt; 18101-0.txt; 18101-h.htm]
+
+Roads from Rome, by Anne C. E. Allinson                                  18100
+   [Author AKA: Anne Crosby Emery Allinson (1871-1932)]
+   [Link: http://www.gutenberg.org/1/8/1/0/18100 ]
+   [Files: 18100.txt; 18100-h.htm; ]
+
+Donatello, by David Lindsay, Earl of Crawford                            18099
+   [Link: http://www.gutenberg.org/1/8/0/9/18099 ]
+   [Files: 18099.txt; 18099-8.txt; 18099-h.htm; ]
+
+Schetsen uit de Indische Vorstenlanden, by Louis Rousselet               18098
+   [Subtitle: De Aarde en haar volken, 1873]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/0/9/18098 ]
+   [Files: 18098-8.txt; 18098-h.htm]
+
+Public School Domestic Science, by Mrs. J. Hoodless                      18097
+   [Link: http://www.gutenberg.org/1/8/0/9/18097 ]
+   [Files: 18097.txt; 18097-8.txt; 18097-h.htm]
+
+The Social History of Smoking, by G. L. Apperson                         18096
+   [Link: http://www.gutenberg.org/1/8/0/9/18096 ]
+   [Files: 18096.txt; 18096-8.txt; 18096-0.txt; 18096-h.htm]
+
+Successful Methods of Public Speaking, by Grenville Kleiser              18095
+   [Link: http://www.gutenberg.org/1/8/0/9/18095 ]
+   [Files: 18095.txt; 18095-8.txt; 18095-h.htm]
+
+History of the Girondists, Volume I, by Alphonse de Lamartine            18094
+   [Subtitle: Personal Memoirs of the Patriots of the French Revolution]
+   [Translator: H. T. Ryde]
+   [Link: http://www.gutenberg.org/1/8/0/9/18094 ]
+   [Files: 18094.txt; 18094-8.txt; 18094-h.htm]
+
+>From the Valley of the Missing, by Grace Miller White                    18093
+   [Link: http://www.gutenberg.org/1/8/0/9/18093 ]
+   [Files: 18093.txt; 18093-8.txt; 18093-h.htm]
+
+Germaine, by Edmond About                                                18092
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/9/18092 ]
+   [Files: 18092-8.txt]
+
+Samantha at the World's Fair, by Marietta Holley                         18091
+   [Illustrator: Baron C. De Grimm]
+   [Link: http://www.gutenberg.org/1/8/0/9/18091 ]
+   [Files: 18091.txt; 18091-8.txt; 18091-h.htm]
+
+Jean qui grogne et Jean qui rit, by Comtesse de Segur                    18090
+   [Illustrator: H. Castelli]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/9/18090 ]
+   [Files: 18090-8.txt; 18090-h.htm]
+
+Infernaliana, by Ch. Nodier                                              18089
+   [Subtitle: Anecdotes, petits romans, nouvelles et contes sur les
+    revenans, les spectres, les demons et les vampires]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/8/18089 ]
+   [Files: 18089-8.txt]
+
+Libro bizzarro, by Antonio Ghislanzoni                                   18088
+   [Language: Italian]
+   [Link: http://www.gutenberg.org/1/8/0/8/18088 ]
+   [Files: 18088-8.txt]
+
+Historic Doubts Relative To Napoleon Buonaparte, by Richard Whately      18087
+   [Link: http://www.gutenberg.org/1/8/0/8/18087 ]
+   [Files: 18087.txt; 18087-8.txt; 18087-0.txt; 18087-h.htm]
+
+A Dozen Ways Of Love, by Lily Dougall                                    18086
+   [Link: http://www.gutenberg.org/1/8/0/8/18086 ]
+   [Files: 18086.txt; 18086-8.txt; 18086-h.htm; ]
+
+J.-K. Huysmans et le satanisme, by Joanny Bricaud                        18085
+   [Subtitle: d'apres des documents inedits]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/8/18085 ]
+   [Files: 18085-8.txt; 18085-h.htm]
+
+Rapport au Ministre des Finances, by Ed. Vandal                          18084
+   [Title: Rapport au Ministre des Finances sur l'Administration des Postes]
+   [Subtitle: Extrait de L'Annuaire des Postes de 1865]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/8/18084 ]
+   [Files: 18084-8.txt; 18084-h.htm]
+
+Smarra ou les demons de la nuit, by Charles Nodier                       18083
+   [Subtitle: Songes romantiques]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/8/18083 ]
+   [Files: 18083-8.txt; 18083-h.htm]
+
+Marilia de Dirceo, by Tomas Antonio Gonzaga                              18082
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/1/8/0/8/18082 ]
+   [Files: 18082-8.txt]
+
+Nouveaux souvenirs entomologiques - Livre II, by Jean-Henri Fabre        18081
+   [Subtitle: Etude sur l'instinct et les moeurs des insectes]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/8/18081 ]
+   [Files: 18081-8.txt; 18081-h.htm]
+
+Normandy Picturesque, by Henry Blackburn                                 18080
+   [Link: http://www.gutenberg.org/1/8/0/8/18080 ]
+   [Files: 18080.txt; 18080-8.txt; 18080-h.htm; ]
+
+Autumn, by Robert Nathan                                                 18079
+   [Link: http://www.gutenberg.org/1/8/0/7/18079 ]
+   [Files: 18079.txt; ]
+
+Soldier Silhouettes on our Front, by William L. Stidger                  18078
+   [Illus.: Jessie Gillespie]
+   [Link: http://www.gutenberg.org/1/8/0/7/18078 ]
+   [Files: 18078.txt; 18078-8.txt; 18078-h.htm; ]
+
+We and the World, Part I, by Juliana Horatia Ewing                       18077
+   [Subtitle: A Book for Boys]
+   [Link: http://www.gutenberg.org/1/8/0/7/18077 ]
+   [Files: 18077.txt; 18077-8.txt; 18077-h.htm]
+
+The Boy Trapper, by Harry Castlemon                                      18076
+   [Link: http://www.gutenberg.org/1/8/0/7/18076 ]
+   [Files: 18076.txt; 18076-h.htm]
+
+Mademoiselle La Quintinie, by George Sand                                18075
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/7/18075 ]
+   [Files: 18075-8.txt; 18075-h.htm]
+
+Le cycle patibulaire, by Georges Eekhoud                                 18074
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/7/18074 ]
+   [Files: 18074-8.txt; 18074-h.htm]
+
+Marchand de Poison, by Georges Ohnet                                     18073
+   [Subtitle: Les Batailles de la Vie]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/8/0/7/18073 ]
+   [Files: 18073-8.txt; 18073-h.htm]
+
+Dierenleven in de wildernis, by William J. Long                          18072
+   [Subtitle: Schetsen uit het leven der dieren hun natuurlijke aanleg
+    en wat zij leeren moeten]
+   [Illustrator: Charles Copeland]
+   [Translator: Cilia Stoffel]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/8/0/7/18072 ]
+   [Files: 18072-8.txt; 18072-h.htm]
+
+
+-=-=-=-=[ 3 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2006 So Well Remembered, by James Hilton               [060037xx.xxx] 0555A
+   [http://gutenberg.net.au/ebooks06/0600371.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0600371h.html ]
+
+Apr 2006 Early Voyages to Terra Australis by R H Major     [060036xx.xxx] 0554A
+   [http://gutenberg.net.au/ebooks06/0600361.txt or .zip]
+   [and http://gutenberg.net.au/ebooks06/0600361h.html ]
+
+Apr 2006 On the Spot, by Edgar Wallace                     [060035xx.xxx] 0553A
+   [http://gutenberg.net.au/ebooks06/0600351.txt or .zip]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+

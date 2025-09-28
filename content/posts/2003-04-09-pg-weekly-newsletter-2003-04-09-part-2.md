@@ -1,0 +1,636 @@
+---
+params:
+  id: 1978
+title: "PG Weekly Newsletter: Part 2 (2003-04-09)"
+date: 2003-04-09T20:39:49+00:00
+author: Michael Cook
+layout: post
+url: /20030409/pg-weekly-newsletter-2003-04-09-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 9th April 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7611 ebooks!!!
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New U.S. eBooks
+   New books From PG Australia
+3) News
+4) Notes and Queries
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+Hooray, Yippee! and general cheering. Well done people, you did it!!!!
+
+AGAIN!!!
+
+7600, those milestones keep on disappearing. Well done everybody,
+great show!
+
+Unfortunately, we are sooooooo busy proofing that all the
+articles have dried up. I'm sad and glad all at once. So, if you would
+like your 15 minutes (well maybe 3, we are only an email newsletter
+after all), please send in a contribution. I am hoping to do a special
+on Shakespeare in two weeks, so anything related is more than
+welcome.
+
+Happy and peaceful reading,
+
+Alice (newsletter at schiffwood.co.uk - If you hit reply, the mail you
+send does not reach me and disappears into the ether.)
+
+We welcome feedback, critisism (of any kind), ebook reviews, featured
+author suggestions (especially if there is an event coming up), writings and awkward questions at the address above. Please feel free to send our general ramblings to a friend.
+
+(And I would like to personally thank the eagle-eye on DP who
+mailed me to say I couldn't spell 'Shakespear' that way, thank you - I
+used to be a maths teacher, you only need Greek and German names for that!)
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 04/09/03:   7,611 (incl. 216 Aus.).
+
+RESERVED count:   39
+
+Last week the Total Count was 7,549, including 208 at PG of Australia.
+This week we added 62 new (incl.  Aus.).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct the filename,
+from ?mornxxx.xxx to ?fmrnxxx.xxx:
+Jan 2005 Mornings in Florence, by John Ruskin          [#4][?fmrnxxx.xxx]7227
+
+The following eBook is being re-indexed to clarify the title and add
+supplemental title and editor information:
+Nov 2004 Works, Vol XII, Miscellanies Pt II, Fielding  [#9][wfld2xxx.xxx]6828
+[Full Title:  The Works of Henry Fielding, Volume XII, Miscellanies, Part II]
+[Ed. by George Saintsbury]
+
+The following eBooks have been posted in new formats as indicated:
+Dec 2004 The Tattva-Muktavali, by Purnananda Chakravartin  [?ttvaxxx.xxx]7175
+[Unicode (UTF-8) version in 8ttva10u.txt and 8ttva10u.zip]
+Dec 2004 Markandeya Purana, by Rev. B. H. Wortham (Tr.)    [?markxxx.xxx]7169
+[Title: Markandeya Purana, Books VII and VIII] [Tr: Rev. B. Hale Wortham]
+[Unicode (UTF-8) version in 8mark10u.txt and 8mark10u.zip]
+Nov 2001 Time and Life, by Thomas Henry Huxley    [THH #18][thx08xxx.xxx]2928
+[HTML version in thx0810h.htm and thx0810h.zip]
+Oct 1999 Christ in Flanders, by Honore de Balzac           [flndrxxx.xxx]1940
+[HTML version in flndr10h.zip and flndr10h.htm]
+May 1999 Cousin Betty, by Honore de Balzac                 [cbttyxxx.xxx]1759
+[HTML version in cbtty10h.htm and cbtty10h.zip]
+Dec 1998 Adieu, by Honore de Balzac                   [#47][adieuxxx.xxx]1554
+[HTML in adieu10h.htm and adieu10h.zip]
+Nov 1996 Emile Zola, by William Dean Howells [howells #5]  [ezolaxxx.xxx] 728
+[HTML version in ezola10h.htm and ezola10h.zip]
+Jan 1994 Collected Articles of Frederick Douglass, a Slave [dugl2xxx.xxx]  99
+[HTML version in dugl210h.htm/ .zip]
+
+
+The following has been re-posted in an updated 12th edition:
+Mar 2001 Man of Property, by John Galsworthy[Forsyte#1JG#4][mnprpxxx.xxx]2559
+
+
+=-=-=-=[ 54 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Mar 2005 Harold,          by E. B. Lytton, Complete[BL#112][b112wxxx.xxx]7684
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7672-7683]
+Mar 2005 Harold,          by E. B. Lytton, Book 12 [BL#111][b111wxxx.xxx]7683
+Mar 2005 Harold,          by E. B. Lytton, Book 11 [BL#110][b110wxxx.xxx]7682
+Mar 2005 Harold,          by E. B. Lytton, Book 10 [BL#109][b109wxxx.xxx]7681
+
+Mar 2005 Harold,          by E. B. Lytton, Book 9  [BL#108][b108wxxx.xxx]7680
+Mar 2005 Harold,          by E. B. Lytton, Book 8  [BL#107][b107wxxx.xxx]7679
+Mar 2005 Harold,          by E. B. Lytton, Book 7  [BL#106][b106wxxx.xxx]7678
+Mar 2005 Harold,          by E. B. Lytton, Book 6  [BL#105][b105wxxx.xxx]7677
+Mar 2005 Harold,          by E. B. Lytton, Book 5  [BL#104][b104wxxx.xxx]7676
+
+Mar 2005 Harold,          by E. B. Lytton, Book 4  [BL#103][b103wxxx.xxx]7675
+Mar 2005 Harold,          by E. B. Lytton, Book 3  [BL#102][b102wxxx.xxx]7674
+Mar 2005 Harold,          by E. B. Lytton, Book 2  [BL#101][b101wxxx.xxx]7673
+Mar 2005 Harold,          by E. B. Lytton, Book 1  [BL#100][b100wxxx.xxx]7672
+
+
+Feb 2005 Images from Droz's M.M. and Bebe, by David Widger [dw59wxxh.zip]7575
+Feb 2005 Images from De Vigny's Cinq Mars, by David Widger [dw58wxxh.zip]7574
+Feb 2005 Images from Daudet's Fromont and Risler, by Widger[dw57wxxh.zip]7573
+Feb 2005 Images from Coppee's Romance of Youth, by Widger  [dw56wxxh.zip]7572
+Feb 2005 Images from Claretie's Zilah, by David Widger     [dw55wxxh.zip]7571
+[The above five files are Illustrated HTML files zip only in dw5?w10h.zip]
+
+
+Jan 2005 William Tell Told Again, by P. G. Wodehouse  [#24][?wtttxxx.xxx]7298
+[Also posted HTML as 8wttt10h.zip - zipped only]
+Jan 2005 The Vedanta-Sutras, by Trans. George Thibaut      [?sutrxxx.xxx]7297
+[Full title: The Vedanta-Sutras with the Commentary by Ramanuja]
+Jan 2005 John M. Synge, by John Masefield              [#3][syngexxx.xxx]7296
+[Title: John M. Synge: A Few Personal Recollections, with Biographical Notes]
+
+Jan 2005 A Woman's Life-Work, by Laura S. Haviland         [wlwrkxxx.xxx]7295
+
+Jan 2005 Battle Studies, by C. Ardant du Picq              [?btstxxx.xxx]7294
+[Author's Full Name: Colonel Charles-Jean-Jacques-Joseph Ardant du Picq]
+[Subtitle: Ancient and Modern Battle]
+[Tr.: Col. John N. and Major Robert C. Cotton Greely]
+[Plain text in 7btst10.txt/.zip, 8-bit version in 8btst10.txt/.zip]
+Jan 2005 The Opium Habit, by Horace B. Day                 [?opimxxx.xxx]7293
+
+Jan 2005 The Two Paths, by John Ruskin                     [?ttpaxxx.xxx]7291
+[Plain text in 7ttpa10.txt/.zip, [8-bit version in 8ttpa10.txt/.zip]
+
+Jan 2005 Han shi wai chuan, by Song yu, Complete       [#6][?han0xxx.xxx]7290
+[Language: Chinese][Includes: Etext#7285-7289]
+Jan 2005 Han shi wai chuan, by Song yu, Vol. 9-10      [#5][?han9xxx.xxx]7289
+Jan 2005 Han shi wai chuan, by Song yu, Vol. 7-8       [#4][?han7xxx.xxx]7288
+Jan 2005 Han shi wai chuan, by Song yu, Vol. 5-6       [#3][?han5xxx.xxx]7287
+Jan 2005 Han shi wai chuan, by Song yu, Vol. 3-4       [#2][?han3xxx.xxx]7286
+
+Jan 2005 Han shi wai chuan, by Song yu, Vol. 1-2       [#1][?han1xxx.xxx]7285
+[Language: Chinese]
+
+Jan 2005 Short Stories and Selections, Emilie Kip Baker    [shstoxxx.xxx]7283
+[Full Title: Short Stories and Selections for Use in the Secondary Schools]
+[Compiled and Annotated by Emilie Kip Baker]
+Jan 2005 The Captiva and The Mostellaria, by Plautus       [camosxxx.xxx]7282
+Jan 2005 Tom Cringle's Log, by Michael Scott               [tcrinxxx.xxx]7281
+
+Jan 2005 My Boyhood, by John Burroughs                     [?mbhdxxx.xxx]7280
+[Additional author: Julian Burroughs]
+[Plain text in 7mbhd10.txt/.zip, 8-bit version in 8mbhd10.txt/.zip]
+Jan 2005 Shopkeeper Turned Gentleman, Moli_re (Poquelin)   [?brghxxx.xxx]7279
+[Full title: The Shopkeeper Turned Gentleman (Le Bourgeois Gentilhomme)]
+Jan 2005 Horace, by Theodore Martin                        [?hrcexxx.xxx]7278
+Jan 2005 Green Fairy Book, by Andrew Lang, Ed.             [?gfryxxx.xxx]7277
+Jan 2005 Hamlet, by William Shakespeare               [#26][?gs26xxx.xxx]7276
+[Full title: Hamlet, Prinz von Dannemark] [Language: German]
+
+Jan 2005 Ezra Pound: His Metric and Poetry, by T.S. Eliot  [?epndxxx.xxx]7275
+Jan 2005 Poets of the South, by F.V.N. Painter             [?posoxxx.xxx]7274
+[Subtitle: A Series of Biographical and Critical Studies with Typical Poems,
+  Annotated]
+[Plain text in 7poso10.txt/.zip; 8-bit version in 8poso10.txt/.zip]
+Jan 2005 Sou Shen Ji, volume 18-20, 300 A.D., by Bao Gan   [ss18jxxx.xxx]7273
+[Language: Chinese][Character set encoding: BIG-5]
+Jan 2005 Sou Shen Ji, volume 15-17, 300 A.D., by Bao Gan   [ss15jxxx.xxx]7272
+[Language: Chinese][Character set encoding: BIG-5]
+Jan 2005 Sou Shen Ji, volume 11-14, 300 A.D., by Bao Gan   [ss11jxxx.xxx]7271
+[Language: Chinese][Character set encoding: BIG-5]
+
+Jan 2005 Sou Shen Ji, volume 04-10, 300 A.D., by Bao Gan   [ss04jxxx.xxx]7270
+[Language: Chinese][Character set encoding: BIG-5]
+Jan 2005 Macbeth, by William Shakespeare              [#34][?gs34xxx.xxx]7269
+[Tr.: Christoph Martin Wieland][Language: German]
+[7-bit version in 7gs3410a.txt/.zip; 8-bit version in 8gs3410a.txt/.zip]
+Jan 2005 Monsieur Bergeret a Paris, by Anatole France      [mnsrbxxx.xxx]7268
+[Subtitle: Histoire Contemporaine][Author AKA: Jacques Anatole Thibault]
+[Language: French]
+Jan 2005 Cardello, by Luigi Capuana                        [?crdlxxx.xxx]7267
+[Language: Italian]
+[Plain text in 7crdl10.txt/.zip; 8-bit version in 8crdl10.txt/.zip]
+Jan 2005 Gsou shen hou ji, by Gao qian                     [?gsouxxx.xxx]7266
+[Language: Chinese]
+
+Jan 2005 History of Pendennis, by William M. Thackeray     [pendnxxx.xxx]7265
+Jan 2005 Ein St. Johannis Nachts-Traum, W. Shakespeare[#17][?gs17xxx.xxx]7264
+[Full title: Ein St. Johannis Nachts-Traum (A Midsummer Night's Dream)]
+[Full author: William Shakespeare] [Language: German]
+Jan 2005 Le Mariage de Loti, by Pierre Loti           [#10][?mlotxxx.xxx]7263
+[Language: French]
+[7-bit version in 7mlot10.txt/.zip; 8-bit version in 8mlot10.txt/.zip]
+[HTML version in 8mlot10h.htm and 8mlot10h.zip]
+Jan 2005 The Country Housewife, by Richard Bradley         [hwifexxx.xxx]7262
+[Full title: The Country Housewife and Lady's Director In the Management
+  of a House, and the Delights and Profits of a Farm]
+Jan 2005 Siksha-Patri, by Professor Monier Williams (Tr.)  [?skptxxx.xxx]7261
+[Full title: The Siksha-Patri of the Swami-Narayana Sect]
+[7-bit version in 7skpt10.txt/.zip; 8-bit version in 8skpt10.txt/.zip]
+[Unicode version (UTF-8) in 8skpt10u.txt /.zip]
+
+
+=-=-=-=[ 8 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Apr 2003 The Dance of Life, by Havelock Ellis              [030067xx.xxx]0216A
+[http://gutenberg.net.au/ebooks03/0300671.txt or .ZIP]
+
+Apr 2003 The Devil's Guard, by Talbot Mundy                [030066xx.xxx]0215A
+[http://gutenberg.net.au/ebooks03/0300661.txt or .ZIP]
+Apr 2003 Nature in Downland, by W H Hudson                 [030065xx.xxx]0214A
+[http://gutenberg.net.au/ebooks03/0300651.txt or .ZIP]
+Apr 2003 A Hind in Richmond Park, by W H Hudson            [030064xx.xxx]0213A
+[http://gutenberg.net.au/ebooks03/0300641.txt or .ZIP]
+Apr 2003 A Search for America, by Frederick Philip Grove   [030063xx.xxx]0212A
+[http://gutenberg.net.au/ebooks03/0300631.txt or .ZIP]
+Apr 2003 John Macnab, by John Buchan                       [030062xx.xxx]0211A
+[http://gutenberg.net.au/ebooks03/0300621.txt or .ZIP]
+
+Apr 2003 Birds and Beasts of the Greek Anthology by Douglas[030061xx.xxx]0210A
+[http://gutenberg.net.au/ebooks03/0300611h.zip -- ZIPPED HTML ONLY]
+Apr 2003 "-- & Co.", by Jean-Richard Bloch                 [030060xx.xxx]0209A
+[Tr.:  C K Scott Moncrieff]
+[http://gutenberg.net.au/ebooks03/0300601.txt or .ZIP]
+
+
+--The following previously posted eBook is being re-indexed to correct the
+title, and add subtitle and translator info:
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+We will soon be starting a public relations campaign to promote PG's arrival at the 10,000 eBook mark and to get these 10,000 eBooks to a wider readership than just the 1.5% we have been targeting.
+
+If you can find contact information for the major media in your country:  snailmail, phone, email, etc., please send them for inclusion in this effort.
+
+We are thinking in terms of the worldwide equivalents of Letterman, Oprah, Leno and the BBC.
+
+
+We will be making some changes as we pass the 10,000 eBook mark and head off on our mission to get to 1,000,000.  Stay tuned to these Project Gutenberg Newsletters to find our more about these updates, and please send in your own suggestions of what we should do after we reach #10,000.
+
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Notes and Queries
+
+Well, as I said at the top. We've ran out, so please help fill this
+space by sending along questions or contributions to
+
+newsletter at schiffwood.co.uk.
+
+Please remember that just hitting reply doesn't work
+as your mail will just disappear never to be read again.
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research may need to be done by our professional Chief Cataloguer, so for those who wish to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+April
+
+9th Jacques Futrelle, Elias Lonnrot, Charles Baudelaire(1), Maria
+Jotuni, Ghassan Kanafani
+10th Joseph Pulitzer, Pertti Pasanen
+11th Attila Josef
+12th Leslie Charteris, Elechi Amadi
+13th Samuel Beckett, Seamus Heaney, Georg Lukacs
+14th Horace McCoy
+15th Henry James(2), Thomas Transtromer
+
+Deaths
+
+1984 Basil Henry Blackwell, publisher
+1987 Primo Levi
+1987 Erskine Caldwell
+
+The figures in brackets indicate the number of books held on the
+Project Gutenberg website by the author.
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+ONLINE WIRETAPPING POSES LEGAL, TECHNICAL OBSTACLES
+As the Internet telephony market expands, law enforcement officials are
+facing both legal and technical hurdles as they seek to block the emerging
+services from becoming a haven for criminals and terrorists. The FBI wants
+regulators to affirm that tapping into Voice over Internet Protocol (VoIP)
+networks is covered under the 1994 Communications Assistance for Law
+Enforcement Act, and is also pushing the industry to create technical
+standards that would make such wiretaps easier and cheaper. Because VoIP is
+so new, standards don't yet exist for setting up networks, but several
+groups, including the Telecommunications Industry Association, are working
+on them. "We're seeing major changes in the network, and we are trying to
+be ahead of the curve," says the FBI's unit chief for electronic
+surveillance. Privacy advocates, on the other hand, fear that because of
+the nature of the technology, tapping into the data stream for voice would
+also possibly retrieve more than what the court ordered, including people's
+e-mail and other digital communications. (AP 3 Apr 2003)
+http://news.excite.com/tech/index/id/technology
+
+                    -------------------
+
+MICROWAVE DOUBLES AS FRIDGE WHILE YOU'RE AT WORK
+Descriptions of futuristic remote-controlled kitchen appliances have always
+seemed a little impractical because it's unsafe to leave your dish
+unrefrigerated all day before cooking it in time for dinner. But a company
+called Tonight's Menu Intelligent Ovens has solved that dilemma with a
+refrigerated microwave that can be controlled by a cell phone or over the
+Internet. The company has unveiled a prototype to demonstrate the
+technology, using what is called a Peltier cooling device. "It has two
+plates of metal over which you pass an electrical current and it either
+heats or cools," says TMIO president David Mansbery. "It was somewhat of a
+dumb appliance until we put our chips in it and turned it into a smart
+appliance." The company uses the same embedded Web technology developed by
+NASA to control its experiments without the need for a built-in computer in
+every device. TMIO plans to build the ovens itself and sell them over the
+Web. The first appliances should be commercially available by the end of
+the year priced at about $2,000. (BBC News 6 Apr 2003)
+http://news.bbc.co.uk/2/hi/technology/2921413.stm
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+PRIVACY ACT OF 2003 INTRODUCED IN SENATE
+Senator Dianne Feinstein (D-Calif.) has introduced legislation known as
+the Privacy Act of 2003 (S.745) to safeguard privacy rights and help
+prevent the increase in identity theft and other abuses of personal
+information. The bill seeks to establish a national standard to protect
+Social Security numbers, driver's licenses, and health and financial
+information. For highly sensitive information, an opt-in system would
+require companies to obtain explicit permission before selling,
+licensing, or renting individuals' personal information to third
+parties. For less sensitive information, companies must grant
+individuals the right to opt-out of having their information collected,
+sold, or marketed. The sale or display of Social Security numbers to
+the public would by prohibited; however, businesses could share these
+numbers with other each other and with the government. Feinstein said
+that the fundamental right to privacy "only will remain vital, if we
+take strong action to protect it."
+Internet News, 3 April 2003
+http://dc.internet.com/news/article.php/2174701
+
+                    -------------------
+
+NATIONAL ARCHIVE DOCUMENTS GO ONLINE
+Fifty million historical records in the National Archives are now
+available online. Instead of visiting the Archives or requesting
+records by phone, researchers, genealogists, and others can now search
+for records ranging from the details of battles to immigration
+information remotely and free of charge. Veterans in particular are
+expected to welcome the system to search for information on military
+action, casualties, and prisoners of war. The database of searchable
+records contains only a small portion of the archive's electronic
+holdings and is compiled from 20 federal agencies. To ensure their
+integrity, the records from the different agencies have not been
+altered, so some contain typographical and historical errors.
+Associated Press, 4 April 2003 (registration req'd)
+http://www.nandotimes.com/technology/story/840830p-5910961c.html
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the booklists and number
+crunching. Mark, Greg, Michael and Larry Wall. Back to normal then.
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_04_09_part_2.txt" target="_blank" rel="nofollow">pgweekly_2003_04_09_part_2.txt</a>

@@ -1,0 +1,731 @@
+---
+params:
+  id: 1977
+title: "PG Weekly Newsletter: Part 1 (2003-04-09)"
+date: 2003-04-09T13:51:06+00:00
+author: Michael Cook
+layout: post
+url: /20030409/pg-weekly-newsletter-2003-04-09-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Thu Apr 10 22:16:45 2003
+Return-path: &lt;bounce-gweekly-1355623@listserv.unc.edu&gt;
+Date: Thu, 10 Apr 2003 12:31:27 -0400 (EDT)
+From: Michael Hart &lt;hart@beryl.ils.unc.edu&gt;
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+Sender: bounce-gweekly-1355623@listserv.unc.edu
+To: Project Gutenberg Weekly Newsletter &lt;gweekly@listserv.unc.edu&gt;
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; charset=US-ASCII
+X-Message-Id: &lt;Pine.GSO.4.51.0304101228390.12283@beryl.ils.unc.edu&gt;
+List-Owner: &lt;mailto:owner-gweekly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gweekly@listserv.unc.edu&gt;
+List-Id: Project Gutenberg Weekly Newsletter &lt;gweekly.listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+
+PGWeekly_April_9.txt
+***The Project Gutenberg Weekly Newsletter For Wednesday, April 9, 2003***
+*****eBooks Readable By Both Humans and Computers For Nearly 32 Years*****
+
+[The Newsletter is now being sent in three sections, so you can directly
+see the portions you find most interesting:  1.  Founder's Comments,
+2. Alice Wood's section, and  3.  George Davis & Brett Fishburne's list.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+Resend:  Apparent problems when I tried to send 24 hour ago.
+
+My apologies. . .Michael
+
+***
+
+                  Johnny Appleseed Strikes Again. . . !
+
+
+ A year ago tomorror, April 10th, Project Gutenberg passed 5,000 eBooks!
+
+                       Today we passed 7,600!!!
+
+               That's 2,600+ New eBooks In 12 Months!!!
+
+     That's 100 Over 1/4 of the 10,000 eBook Goal We Started On!
+
+        ***7,611 eBooks from Project Gutenberg as of today***
+
+
+Over Our 31 3/4 Year History, We Have Now Averaged About 200 Ebooks/Year--
+And Last Year Averaged About That Same 200 eBook Level. . .PER MONTH!!!!!
+
+
+            So far this year we are averaging over 265!!!
+
+                               ***
+
+    Please Note The Startup of Project Gutenberg--Canada [Below]
+and Project Gutenberg of Mexico &gt;&gt; Gabriela Valencia &lt;zane@axtel.net&gt;
+
+                               ***
+
+    In the first 3 months of this year, we produced 868 new eBooks.
+
+      It took us from 1971 to 1995 to produce our first 687 eBooks!
+
+                 That's 6 WEEKS as Compared to 24 Years!
+
+                   63   New eBooks This Week
+                   86   New eBooks Last Week
+                   63   New eBooks This Month [Apr]
+
+                  268   Average Per Month in 2003   &lt;&lt;&lt;
+                  203   Average Per Month in 2002   &lt;&lt;&lt;
+                  103   Average Per Month in 2001   &lt;&lt;&lt;
+
+                  868   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+
+                7,611   Total Project Gutenberg eBooks
+                5,033   eBooks This Week Last Year
+                2,578   New eBooks In The Last 12 Months
+
+                  216   eBooks From Project Gutenberg of Australia
+
+
+
+    ***Week 35 Of The 32nd Year Of Project Gutenberg eBooks***
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+***
+
+
+                           FLASHBACK!!!
+
+                  868 New eBooks So Far in 2003
+
+              It took us 26 years for the first 857!
+
+        That's the 14 WEEKS of 2003 as Compared to 26 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #868
+
+Apr 1997 Lazy Tour of Two Idle Apprentices by Dickens [#23][lttiaxxx.xxx] 888
+Apr 1997 Intentions, by Oscar Wilde  [Oscar Wilde #11]     [ntntnxxx.xxx] 887
+Apr 1997 Letters from the Cape, by Lady Duff Gordon        [lddfgxxx.xxx] 886
+Apr 1997 An Ideal Husband, by Oscar Wilde [Oscar Wilde #10][ihsbnxxx.xxx] 885
+
+Apr 1997 Memoirs of Popular Delusions V3, by Charles MacKay[3ppdlxxx.xxx] 884
+Apr 1997 Our Mutual Friend, by Charles Dickens [Dickens#22][mfrndxxx.xxx] 883
+Apr 1997 Sketches by Boz, pseudonym of Charles [Dickens#21][sbbozxxx.xxx] 882
+Apr 1997 Lemorne Versus Huell, by Elizabeth Drew Stoddard  [lvsshxxx.xxx] 881
+
+Apr 1997 My Garden Acquaintance, James Russell Lowell [#1] [mgacqxxx.xxx] 880
+Apr 1997 The Boy Captives, by John Greenleaf Whittier [#2] [bcptvxxx.xxx] 879
+Apr 1997 Yankee Gypsies, by John Greenleaf Whittier [#1]   [ynkgpxxx.xxx] 878
+Apr 1997 Little Britain, by Washington Irving [Irving #2]  [lbritxxx.xxx] 877
+
+Apr 1997 Life in the Iron-Mills by Rebecca Harding Davis #2[lironxxx.xxx] 876
+Apr 1997 The Duchess of Padua, by Oscar Wilde  [Wilde #9]  [dpduaxxx.xxx] 875
+Apr 1997 A History of Aeronautics, by E. Charles Vivian    [haeroxxx.xxx] 874
+Apr 1997 A House of Pomegranates, by Oscar Wilde [Wilde #8][hpomgxxx.xxx] 873
+
+Apr 1997 Reprinted Pieces, by Charles Dickens [Dickens #20][cdrprxxx.xxx] 872
+Apr 1997 The Golden Sayings of Epictetus                   [epictxxx.xxx] 871
+Apr 1997 The Love of Ulrich Nebendahl, Jerome K. Jerome[12][jjulrxxx.xxx] 870
+Apr 1997 The Soul of Nicholas Snyders, Jerome K. Jerome[11][jjsnyxxx.xxx] 869
+
+Apr 1997 The Philosopher's Joke, Jerome K. Jerome [JKJ#10] [jjphjxxx.xxx] 868
+Apr 1997 Mrs. Korner Sins Her Mercies, by JK Jerome [JKJ#9][jjkorxxx.xxx] 867
+Apr 1997 The Cost of Kindness, by Jerome K. Jerome [JKJ#8] [jjkndxxx.xxx] 866
+Apr 1997 Passing of the Third Floor Back, by JK Jerome [#7][jjp3bxxx.xxx] 865
+
+
+Mar 1997 Master of Ballantrae by Robert Louis Stevenson #38[blntrxxx.xxx] 864
+Mar 1997 The Mysterious Affair at Styles by Agatha Christie[masacxxx.xxx] 863
+Mar 1997 [Harvard] Philosophy 4, by Owen Wister            [phil4xxx.xxx] 862
+Mar 1997 The Dominion of the Air, by J. M. Bacon           [dmairxxx.xxx] 861
+
+Mar 1997 Baby Mine, by Margaret Mayo  [Margaret Mayo #2]   [bminexxx.xxx] 860
+Mar 1997 Polly of the Circus, by Margaret Mayo [Mayo #1]   [pcrcsxxx.xxx] 859
+Mar 1997 Stage-Land, by Jerome K. Jerome [J. K. Jerome #6] [jjstgxxx.xxx] 858
+Mar 1997 Evergreens, by Jerome K. Jerome [J. K. Jerome #5] [jjevgxxx.xxx] 857
+
+Mar 1997 Dreams, by Jerome K. Jerome [Jerome K. Jerome #4] [jjdrmxxx.xxx] 856
+Mar 1997 Clocks, by Jerome K. Jerome [Jerome K. Jerome #3] [jjclkxxx.xxx] 855
+Mar 1997 A Woman of No Importance, by Oscar Wilde [Wilde#7][awonixxx.xxx] 854
+Mar 1997 The Confutatio Pontificia, edited by J. M. Reu    [cfpntxxx.xxx] 853
+
+Mar 1997 Democracy and Education, by John Dewey [JDewey #1][dmeduxxx.xxx] 852
+Mar 1997 Captivity and Restoration of Mrs. Mary Rowlandson [crmmrxxx.xxx] 851
+Mar 1997 Tom Grogan, by F. Hopkinson Smith                 [grognxxx.xxx] 850
+Mar 1997 Idle Thoughts of an Idle Fellow, Jerome K. Jerome2[jjidlxxx.xxx] 849
+
+Mar 1997 The Black Arrow, by Robert Louis Stevenson [RLS37][blckaxxx.xxx] 848
+Mar 1997 Lays of Ancient Rome by Thomas Babbington Macaulay[lromexxx.xxx] 847
+Mar 1997 The Life of Gen. Francis Marion, by M. L. Weems   [wfmarxxx.xxx] 846
+Mar 1997 The Poems of Henry Timrod, by Henry Timrod        [htimrxxx.xxx] 845
+
+Mar 1997 The Importance of Being Earnest, by Oscar Wilde #6[tiobexxx.xxx] 844
+Mar 1997 The Life of Francis Marion, by W. Gilmore Simms   [1sfoxxxx.xxx] 843
+Mar 1997 Carwin the Biloquist, by Charles Brockden Brown   [moctbxxx.xxx] 842
+Mar 1997 Men, Women and Ghosts, by Amy Lowell [Lowell #2]  [almwgxxx.xxx] 841
+
+Mar 1997 Lorna Doone, A Romance of Exmoor by R.D. Blackmore[lornaxxx.xxx] 840
+Mar 1997 New Arabian Nights, by Robert Louis Stevenson[#36][narabxxx.xxx] 839
+
+Today Is Day #98 of 2003
+273 Days/39 Weeks To Go
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #52 Of Our SECOND 5,000 eBooks
+
+2,611 eBooks in 52 Weeks!
+
+Perhaps Our 10,000th eBook By The End of 2003!
+
+   62   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections in separate section
+     8 New From PG Australia
+    55 New U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Requests For Assistance:
+
+For me, we'd like to have one of these, will pay for it plus shipping:
+
+For value for money you can't beat the Franklin eBookMan, out of
+production but currently on sale in the US for $30 at Fry's. The eBM is
+quirky but lovable and has gradually accumulated a reasonable collection
+of software in addition to the standard PDA bits and pieces, including
+the MobiPocket Reader. Top-end models have a backlit screen. Ideal for
+beginners. The main drawback is the daft protection system which
+requires each individual eBM to be separately registered with Franklin
+before it can be used - so no in-store demos, and if you lose the
+operating system you've got to go online on your own PC to download it
+again. It supports MMC cards but not Sdata.
+
+***
+
+Project Gutenberg--Canada will be starting up soon,
+please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries.
+
+email:  Diane Gratton &lt;diane_xml@hotmail.com&gt;
+
+***
+
+Thesis User Study:
+
+How do you use Project Gutenberg?
+
+Be part of our research!!!
+
+Contact Debbie Dvornik
+dvorniks@pacbell.net
+San Jose State University
+
+***
+
+People interested in TeX/LaTeX documents on Project Gutenberg
+please contact:  tex@spacerad.com  &lt;&lt;&lt;We're Doing Einstein!!!
+
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+http://texts01.archive.org/dp for more information about how you can
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this
+new address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+***
+
+David R. &lt;mr_der@hotmail.com&gt; is looking for a copy of:
+M. P. Cushing's "Baron D'Holbach" (1914)
+1971 reprint is not good for this purpose.
+
+***
+
+From: Miranda van de Heijning &lt;m_vandeheijning@yahoo.com&gt;
+I don't have a scanner and cannot undertake any large
+projects myself, but I would like to volunteer as a proofreader.
+I would like get in touch with Dutch-speaking volunteers.
+
+***
+
+Planetary scanning help needed in Yorkshire, England for fragile 19th
+century books of A'bp Whately     Please contact:  david@whateley.org
+We need a non-destructive method of scanning this delicate material.]
+
+***
+
+
+I have some copyright research for McNees, but no email address.
+
+
+***
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not instant, as the cataloguing needs to be
+done by our professional Chief Cataloguer. . .who is half way around the
+world for the next week or three. . .so this is more important than usual.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Week
+
+Statistical Review
+
+In the 6 weeks of this year, we have produced 358 new eBooks.
+It took us from 1971 to 1995 to produce our FIRST 358 eBooks!!!
+
+         That's 6 WEEKS as Compared to 24 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production
+year of 2002 and began the production year of 2003.
+
+With 7,101 eBooks online as of February 12, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.41 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.59 percent of the world's population!
+
+This "cost" is down from about $2.19 when we had 4559 eBooks A Year Ago
+
+Can you imagine 7,000 books each costing $.78 less a year later???
+Or. . .would this say it better?
+Can you imagine 7,000 books each costing 1/3 less a year later???
+
+At 7101 eBooks in 31 1/2 Years We Averaged
+    225 Per Year   [About how many we do per month these days!]
+     19 Per Month
+     .6 Per Day
+
+At 358 eBooks Done In 2003 We Averaged
+      9 Per Day
+     60 Per Week
+    286 Per Month
+
+
+***Headline News***
+
+[My Comments In Brackets]
+
+
+[Now THIS is NEWS!]
+
+LOW-BUDGET MAC CLONE
+Businessman John Fraser has developed a low-budget entry-level Macintosh
+clone (currently called iBox); it will sell for about $650 without a display
+and can be paired with almost any kind of display: large or small, flat
+panel or picture-tube, new or old. Fraser, who is about as polite
+businessman as you could ever find, says: "Before I'm a businessman, I'm a
+Mac lover. I don't want to hurt Apple. If it says I would do that, I will
+back away." He's already volunteering to rename his product, to avoid
+confusion with Apple's iMac or iPod. What a guy. (San Jose Mercury News 7
+Apr 2003) http://www.siliconvalley.com/mld/siliconvalley/5579129.htm
+
+
+YAHOO REVAMPS SEARCH ENGINE
+Yahoo is touting its new, improved search engine, which it hopes will lure
+users away from rival/business partner Google. Yahoo says the rebuilt
+version will combine Google's index with Yahoo's customized services
+spanning sports, driving directions and weather reports, and is designed to
+provide easier access to more useful information than Google. "We think
+this is going to change the game a bit," says Yahoo senior VP Jeff Weiner.
+"This is the first of many steps toward reinforcing our leadership in the
+marketplace." Battle lines are being drawn between the two companies, says
+Danny Sullivan, editor of Search Engine Watch. "They are going to be duking
+it out. Clearly, Yahoo would like to keep more people from going over to
+Google to search and maybe even bring back some of the people that have
+previously left." After encouraging Google's founders and licensing its
+search technology, Yahoo has found that Google's popularity has eroded its
+own user base: Google now fields an average of 112 million searches a day
+vs. Yahoo's 42 million. To lessen its dependence on Google, Yahoo recently
+bought search engine specialist Inktomi and plans to include some of its
+features in its search engine by year's end. (AP 7 Apr 2003)
+http://apnews.excite.com/article/20030407/D7Q8MP0G1.html
+
+
+[Will it call you when dinner is ready?]
+
+MICROWAVE DOUBLES AS FRIDGE WHILE YOU'RE AT WORK
+Descriptions of futuristic remote-controlled kitchen appliances have always
+seemed a little impractical because it's unsafe to leave your dish
+unrefrigerated all day before cooking it in time for dinner. But a company
+called Tonight's Menu Intelligent Ovens has solved that dilemma with a
+refrigerated microwave that can be controlled by a cell phone or over the
+Internet. The company has unveiled a prototype to demonstrate the
+technology, using what is called a Peltier cooling device. "It has two
+plates of metal over which you pass an electrical current and it either
+heats or cools," says TMIO president David Mansbery. "It was somewhat of a
+dumb appliance until we put our chips in it and turned it into a smart
+appliance." The company uses the same embedded Web technology developed by
+NASA to control its experiments without the need for a built-in computer in
+every device. TMIO plans to build the ovens itself and sell them over the
+Web. The first appliances should be commercially available by the end of
+the year priced at about $2,000. (BBC News 6 Apr 2003)
+http://news.bbc.co.uk/2/hi/technology/2921413.stm
+
+
+[Good, but already pushing the price up from $1 per track, and by 25%]
+
+CUSTOM CDs
+Sony Music Entertainment has launched a site, www.custommixed.com, where
+music lovers will be able to purchase CDs of songs of their choosing from
+their favorite artists. A "mixed" CD of this sort will contain up to 12
+songs or 78 minutes of music and will cost about $15. Forrester research
+music industry analyst Josh Bernoff says, "What consumers have demonstrated
+by their use of file-trading services is that they're very interested in
+assembling the pieces of music they want from a wide variety of sources for
+use in whatever format they want. What they're not willing to do is back up
+and have only certain stuff from certain artists from certain labels." (New
+York Times 7 Apr 2003
+http://partners.nytimes.com/2003/04/07/technology/07SONY.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+&gt;From Edupage
+
+NEW SEARCH ENGINE FROM YAHOO TARGETS GOOGLE
+In an effort to become the most widely used Internet search resource,
+Yahoo is offering a new search engine promoted as more powerful and
+easier to use than Google's. The new version will combine Google's
+index with Yahoo's customized services for sports, weather reports,
+and the like. Industry analysts expect a struggle for dominance to
+ensue between Yahoo and Google. Currently Google handles an average of
+112 million searches a day compared to Yahoo's 42 million, which are
+generated by Google's software. Yahoo supported Google's creation and
+licensed its software three years ago for searches on Yahoo's portal.
+To wean itself from Google, Yahoo purchased Inktomi and will use its
+search-engine tools instead.
+Wired News, 7 April 2003
+http://www.wired.com/news/business/0,1367,58368,00.html
+
+NATIONAL ARCHIVE DOCUMENTS GO ONLINE
+Fifty million historical records in the National Archives are now
+available online. Instead of visiting the Archives or requesting
+records by phone, researchers, genealogists, and others can now search
+for records ranging from the details of battles to immigration
+information remotely and free of charge. Veterans in particular are
+expected to welcome the system to search for information on military
+action, casualties, and prisoners of war. The database of searchable
+records contains only a small portion of the archive's electronic
+holdings and is compiled from 20 federal agencies. To ensure their
+integrity, the records from the different agencies have not been
+altered, so some contain typographical and historical errors.
+Associated Press, 4 April 2003 (registration req'd)
+http://www.nandotimes.com/technology/story/840830p-5910961c.html
+
+ENGINEER DESIGNS MAC CLONE
+The last time anyone produced an Apple clone was in 1997, when Apple
+ended a three-year licensing program. John Fraser, an engineer in
+Minnesota, hopes to change that with an Apple clone he has designed,
+called the iBox. The iBox, which some have likened to a pizza box in
+appearance, is made of a case Fraser designed with components built by
+Apple that are sold to repair shops as spare parts. Fraser's plan is
+to offer customers many options for configuring the iBox, including
+processor speed, hard-drive size, and other pieces. Unlike the current
+iMac and eMac choices from Apple, the iBox can be substantially
+upgraded. Customers will provide the Macintosh operating system. Fraser
+hopes his approach to building clones will avoid licensing or patent
+problems, but those questions have yet to be answered. Intellectual
+property lawyer Mark Dickson noted there is a wide range of trademarks
+and patents that must be observed. He said the look of the machine or
+how the pieces are put together could be grounds for legal action if
+they fall under patents held by Apple or possibly even by another PC maker.
+Wired News, 2 April 2003
+http://www.wired.com/news/mac/0,2125,58310,00.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_04_09_part_1.txt" target="_blank" rel="nofollow">pgweekly_2003_04_09_part_1.txt</a>

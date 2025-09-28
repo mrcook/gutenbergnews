@@ -1,0 +1,383 @@
+---
+params:
+  id: 1834
+title: PG Weekly Newsletter (2001-05-16)
+date: 2001-05-16T12:25:44+00:00
+author: Michael Cook
+layout: post
+url: /20010516/pg-weekly-newsletter-2001-05-16/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>========
+Subject: *Weekly* Project Gutenberg Newsletter
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg mailing list" &lt;gutnberg@listserv.unc.edu&gt;
+Date: Wed, 16 May 2001 11:19:45 -0500 (CDT)
+
+
+be sure ALL address are bcc'd. . . .
+
+*The Project Gutenberg Weekly Newsletter for Wednesday, May 16, 2001*
+
+[Given the votes being split very evenly between weekly and monthly,
+we are going to endeavor to present this Newsletter in both formats.
+We will try to set up two listservers by our 30th Anniversary on the
+4th of July, and you will get both versions until/unless you send an
+unsubscribe message to the one you do not want to receive.  A larger
+majority voted for both than for either just weekly or monthly.]
+
+***
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+***
+
+With 3500 eTexts online it now takes an average of 100,000,000 readers
+gaining a nominal value of $2.86 from each book, for Project Gutenberg
+to have given away $1,000,000,000,000 [One Trillion Dollars] in books.
+
+This "cost" is down from $3.92 when we had 2550 Etexts last May!!!!!!!
+
+It may not always look as if we are making huge progress, but when you
+compare these yearly figures, it begins to become obvious that we are!
+
+*100,000,000 readers is one to two percent of the world's population!*
+
+
+***
+
+The Project Gutenberg Literary Archive Foundation is 501(c)(3)!!!
+We have added a couple more states to our registration list, more
+details on all state paperwork below and in a separate message...
+entitled "Project Gutenberg Needs You" which is a blatant request
+for your support, if you are not interested, please delete it and
+don't even open it. . .and accept my apologies for wasted space.
+
+***
+
+When we send out the Project Gutenberg Newsletters, we
+have already posted all the files listed in that index
+listing we include in the Newsletters [excepting those
+marked as "reserved," of course.
+
+While our human cataloguers and indexers of course can
+not had time to add them to their files yet, computers
+will already have them listed. . .and thus you will be
+able to download them, literally only one second after
+we have started to post them, even before our own post
+of them has been completely uploaded. . . !
+
+For "instant" access to our new Etexts you can surf to:
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext02
+
+Or 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91, 90.
+
+
+You will need the first five letters of the filenames listed below.
+
+
+
+***
+
+
+Table of Contents:
+
+
+Headline News  [Headlines listed above]
+
+Requests For Assistance
+
+Index Listings for Improved Files
+
+Comments About Our Improved Files
+
+Comments About Our New Files
+
+Index Listings for the New Files
+
+Notes from News Scan and Edupage
+
+
+***
+
+
+Requests For Assistance
+
+
+Our recent release of Etext #3333 in Portuguese has inspired the forming
+of a Project Gutenberg Portuguese Team which has applied for gutenberg.pt
+as a domain name.  If you are interested in being a founding member of
+this team, please let me know.
+
+***
+
+Volunteers Needed: An offline distributed proofing/editing site has finally
+reached version 1.0. We would like to have any volunteers that are not
+currently assigned/busy to visit the site and see if any of our materials
+are of interest. This site is designed specifically for people who would
+like participate on their own computer and not be connected to the internet,
+i.e. only a single modem line, pay for access (AOL or outside of the US) by
+the minute, while traveling, etc. A volunteer requests a chapter of one of
+our books via email, and the chapter is sent via return email. The chapter
+is proofed and submitted back via email. We are trying to keep the
+technology to a bare minimum, email address and text editor. The new web
+address is http://www.metalbox.net/dcushman/pgroot.htm. If anyone has
+questions, please let me know dcushman@texas.net.  Dewayne Cushman
+
+***
+
+The work on the Richard Burton Arabian Nights is nearing completion.
+That means that I am getting ready to begin work on the John Payne
+translation of Arabian Nights and the Jonathan Scott translation.
+Additionally, there are still a few stories left to do from the Burton
+translation and I am presently scanning a couple of Burton's other
+books.  I'm looking for people who might be interested in working on a
+tale from Arabian Nights (or perhaps a fairy tale from one Andrew Lang's
+colour books). Please feel free to contact me at
+jcbyers@capitalnet.com.  To see a list of Arabian Nights tales currently
+available go to http://www.capitalnet.com/~jcbyers/available-tales.htm
+
+and***
+
+GILT is a program to allow for the easy browsing of Project Gutenberg's
+index file and the perusal of available etexts. It presents a list of
+selectable titles and allows these to be downloaded with a single click.
+Both the index and etexts can be downloaded over HTTP or FTP from a number
+of Gutenberg mirror sites, through authenticating proxies if required.
+Multiple etexts can be fetched simultaneously.
+
+GILT is a Java application, using the Swing libraries to provide a
+graphical user interface. It requires the Java 2 platform to run, i.e. a
+Java development kit or runtime environment with a version number of 1.2
+or greater. Tested platforms include MacOS X, GNU / Linux, and Solaris.
+Versions of Java less than 1.2 are untested, and would require the Swing
+extensions to be installed.
+
+GILT is still in development. If you have a feature you would like to see
+added, or wish to report a bug, please contact george.russell@strath.ac.uk
+with details, and I'll see what can be done. Its also nice to receive
+success stories, so if you get GILT running correctly I'd like to hear
+about it. The homepage for GILT is http://dogma.freebsd-
+
+
+***
+
+
+We also request your support. . . .
+
+As of 05/16/01 contributions are only being solicited from people in:
+Connecticut, Louisiana, Maine, Missouri, Oklahoma, Colorado,
+Delaware, Hawaii, Idaho, Indiana, Iowa, Montana, Nebraska,
+South Dakota, Texas, Vermont, Wyoming, South Carolina. = 18 states
+
+We have completed filing in the following states, awaiting response:
+Alabama, Arkansas, California, Georgia, Illinois, Kansas, Kentucky,
+Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire,
+New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon,
+Pennsylvania, Rhode Island, Tennessee, Utah, Virginia, Washington,
+Wisconsin and the District of Columbia.
+
+We are partially filed in Maryland, they wanted more information.
+
+The last 5 states have such incredible paperwork that we haven't
+quite been able to do it all yet. . .sorry. . . .
+Alaska, Arizona, Florida, North Carolina, West Virginia.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+***
+
+We have a total of 25 new files for you to download this week.
+
+
+Here are the listings for our improved editions of 7 previous releases:
+[These updates often take as much effort as does creating our edition #10]
+
+12th edition of:
+Feb 2001 Siddhartha, by Herman Hesse [In 8-bit German]     [8sidd12x.xxx]2499
+Feb 2001 Siddhartha, by Herman Hesse [In 7-bit German]     [7sidd12x.xxx]2499
+
+We posted a new improved 11th edition of:
+Jun 2001 Under the Greenwood Tree, by Thomas Hardy[Hardy#8][ungwt11x.xxx]2662
+Sep 1999 Typee, by Herman Melville     [Herman Melville #2][typee11x.xxx]1900
+May 1998 If, by Lord Dunsany   [Edward John Plunkett]  [#1][ifdun11x.xxx]1311
+Oct 1995 Dracula, by Bram Stoker     [Halloween Request #5][dracu11x.xxx] 345
+Jun 1993 What Is Man?  Mark Twain      [Twain #1] [Clemens][wman11xx.xxx]  70
+
+We also noticed the following title was NOT included in the GUTINDEX.ALL file:
+
+Feb 2002 The Great Boer War, by Arthur Conan Doyle[Doyle26][gboerxxx.xxx]3069
+
+[And we corrected three typos in this file.]
+
+
+And here are our 18 new releases:  [18 per week would yield 936 per year]
+[Of course, the librarians say we should count our revised and corrected
+editions as new editions, the same way the paper publishers do. . . .
+Any suggestions or comments you may have on this are welcome.  Michael]
+
+Oct 2002 Buch Der Lieder, by Heinrich Heine   [H. Heine #4][xliedxxx.xxx]3498
+[Translation:  Book Of Songs, 7lied* is unaccented German 8lied* has accents]
+
+Oct 2002 Great Catherine, by George Bernard Shaw [Shaw #15][gratcxxx.xxx]3488
+Oct 2002 Augustus Does His Bit, by George Bernard Shaw[#14][acdhbxxx.xxx]3487
+Oct 2002 The Inca of Perusalem by George Bernard Shaw [#13][incapxxx.xxx]3486
+Oct 2002 Annajanska, the Bolshevik Empress, by Shaw   [#12][annajxxx.xxx]3485
+[Author's Full Name:  George Bernard Shaw]
+Oct 2002 O'Flaherty V.C., by George Bernard Shaw [Shaw #11][oflvcxxx.xxx]3484
+Oct 2002 Quotations of William Dean Howells by David Widger[dwqwhxxx.xxx]3483
+Oct 2002 The North-West Passage, by Richard Hakluyt        [nwpasxxx.xxx]3482
+Oct 2002 The Life of George Borrow, by Herbert Jenkins     [lfgbrxxx.xxx]3481
+Oct 2002 The Hunchback, by James Sheridan Knowles          [hnchbxxx.xxx]3480
+
+Dec 2002 Private Life of Napoleon, V8, by Constant  [NB#25][nc08vxxx.xxx]3575
+Dec 2002 Private Life of Napoleon, V7, by Constant  [NB#24][nc07vxxx.xxx]3574
+Dec 2002 Private Life of Napoleon, V6, by Constant  [NB#23][nc06vxxx.xxx]3573
+Dec 2002 Private Life of Napoleon, V5, by Constant  [NB#22][nc05vxxx.xxx]3572
+Dec 2002 Private Life of Napoleon, V4, by Constant  [NB#21][nc04vxxx.xxx]3571
+Dec 2002 Private Life of Napoleon, V3, by Constant  [NB#20][nc03vxxx.xxx]3570
+Dec 2002 Private Life of Napoleon, V2, by Constant  [NB#19][nc02vxxx.xxx]3569
+Dec 2002 Private Life of Napoleon, V1, by Constant  [NB#18][nc01vxxx.xxx]3568
+
+If you sent in a file you don't see here, please let me know.
+
+***
+
+U.S. NET POPULATION DECLINES FOR FIRST TIME IN 20 YEARS
+The overall number of U.S. household Internet accounts declined 0.29 percent
+during the first quarter of 2001 to 68.5 million, according to a survey by
+Telecommunications Reports International. Previous studies had pegged growth
+averaging about 20 percent per quarter. "The study indicates that this drop
+was due to subscriber accounts lost when the free ISP market saw several
+companies cease operation," says TRI. "The number of subscribers in that
+sector plummeted more than 19 percent during the first quarter." Free ISPs
+such as NetZero, AltaVista and Kmart's Bluelight.com recently were forced to
+shut down or move to fee-based services when online advertising revenues
+dried up. Meanwhile, growth for paid dial-up access was up more than 7
+percent to nearly 50 million subscribers during the first quarter of 2001,
+although a TRI managing editor warned that there were signs of maturation in
+the market: "[The free ISPs] were a factor, but not the whole story. We
+think it's a maturation in that the universe of people who are going online
+have done so already." (E-Commerce Times 9 May 2001)
+http://www.ecommercetimes.com/perl/story/9578.html
+
+ANTI-SPAM LEGISLATION IN U.S. HOUSE
+The House Judiciary Committee is blocking an anti-spam bill that previously
+passed the House Energy and Commerce Commission. The bill would impose a
+$500 penalty for each piece of unsolicited e-mail a company distributes.
+Judiciary Committee member Bob Goodlatte (R., VA) said: "Legislation should
+be narrowly targeted to provide law enforcement with the tools they need to
+combat abuses without opening the floodgates to frivolous litigation or
+interfering with legitimate uses of e-mail for marketing purposes." The
+Committee favors an alternative bill, sponsored by Goodlatte, that penalize
+senders of unsolicited commercial messages only if the they used a bogus
+return address. (AP/USA Today 10 May 2001)
+http://www.usatoday.com/life/cyber/tech/2001-05-10-anti-spam-opposition.htm
+
+OXFORD TARGETS THE INTERNET'S IMPACT ON SOCIETY
+Oxford University has announced plans to create the Oxford Internet
+Institute, a multidisciplinary center focused on the societal and ethical
+impact of the Internet. According to UK Secretary of State for Education
+David Blunkett, one of the center's top priorities will be research issues
+surrounding cryptography, intellectual property and security. Research
+programs will target the fundamental shifts in human behavior and
+interactions as a result of technology, comparative media law and policy,
+and creating new educational software. (InformationWeek 10 May 2001)
+http://www.techweb.com/wire/story/TWB20010510S0012
+
+RAMBUS FOUND GUILTY OF FRAUD
+In a back-and-forth legal battle with Infineon Technologies, memory chip
+maker Rambus has been found guilty of fraud and slapped with punitive
+damages of $3.5 million. The fine was later reduced to $350,000 because of
+limitations in the local Virginia law. The verdict was a shocking
+turnaround for Rambus, which had sued Infineon on 57 charges of patent
+infringement. The jury agreed with Infineon's claim that Rambus had
+committed fraud because it participated in a broad chip industry project to
+develop fast memory chips, but did not reveal it had patents on similar
+technology. The goal of the cooperative project was to develop chips that
+would be royalty-free. (Financial Times 10 May 2001)
+
+NEW DOMAIN NAMES COMING
+The Internet Corporation for Assigned Names and Numbers (ICANN) has entered
+into contracts with the companies that will register two of the new Internet
+domain names the organization recently approved. Ireland-based Afilias will
+register names in the ".info" domain and Virginia-based NeuLevel will
+register names in the ".biz" domain. The two companies plan to promote the
+suffixes as alternatives to the U.S.-centric ".com" domain. (AP/San Jose
+Mercury News 16 May 2001)
+http://www.siliconvalley.com/docs/news/svfront/042699.htm
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+***
+
+EVOLVING E-BOOKS LET AUTHORS ANSWER CRITICS
+Princeton University has launched a new e-book program, Princeton
+Digital Books Plus, that treats books as dynamic, rather than
+static, objects. Under the program, each e-book author will be
+able to participate in an online discussion following the release
+of his or her e-book. The author's reply to issues raised in
+that discussion will be included in future editions of the book.
+"Republic.com" by University of Chicago professor Cass Sunstein
+is the first e-book to be published under the arrangement, which
+will include forum discussions on the news site Salon.com and on
+the Princeton Digital Books Plus site. Sunstein's reply will be
+available for download from Amazon.com for free and will be
+included in the book's paperback edition. Princeton plans to
+release a second e-book, "Breaking the Deadlock: The Supreme
+Court and Election 2000" by University of Chicago professor
+Richard Posner, on Jun. 15.
+(New York Times, 10 May 2001)
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+***
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2001/pgweekly_2001_05_16.txt" target="_blank" rel="nofollow">pgweekly_2001_05_16.txt</a>

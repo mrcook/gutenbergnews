@@ -1,0 +1,612 @@
+---
+params:
+  id: 1907
+title: PG Weekly Newsletter (2002-06-19)
+date: 2002-06-19T17:39:58+00:00
+author: Michael Cook
+layout: post
+url: /20020619/pg-weekly-newsletter-2002-06-19/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>PGWeekly_June_19_2002.txt
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, June 19, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+        Summer Starts around 8:45 AM CDT on Friday, June 21
+
+I am planning to visit New York City, New Haven, CT, and Plymouth, MA,
+for the Fourth of July.  Let me know if you would like to see me there.
+
+
+
+         1,095 New eBooks IN THE FIRST 24 WEEKS OF 2002!!!
+
+          It took us nearly 27 years for the first 1,095
+
+             That's 24 WEEKS as Compared to 27 YEARS!!!
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 170th Day of 2002
+195 Days/29 Weeks Left Until 2003
+
+Ending our 24nd Week Of The Year
+
+
+The 10th Week Of Our SECOND 5,000 eBooks
+
+20-30 Months From Today, Perhaps Our 10,000th eBook!
+
+
+1,820   New eBooks In The Last Year
+3,567   eBooks This Week Last Year
+5,387   Tree-Friendly Titles Now Online
+
+    32   New This Week [23rd week of 2002]
+    48   New Last Week
+    46   Weekly Average This Year
+    19   New This Week Last Year
+   203   Monthly Average This Year
+    80   New This Month [6th month of 2002]
+  1095   New This Year!!!
+   340   New At This Time Last Year
+
+    74   eBooks From Project Gutenberg of Australia
+    39   Only 39 Numbers Left On Our Reserved Numbers list
+         [Last Year It Was Well Over 100]
+
+***
+
+Announcement:
+
+Gutenberg Music Web Site Launch
+Project Gutenberg is proud to inaugurate the Music Website
+http://ibiblio.org/gutenberg/music/ as the principle outlet for the Chamber
+Music Archive. You'll find free scores and parts of public domain music,
+digitized in a variety of printable, playable and editable formats.
+The initial postings are classical chamber music, including quartets by
+Beethoven, Mozart, Haydn and Brahms in Coda Music's Finale (.MUS) format.
+For further information regarding procedures, the files, and the site,
+please see entries in the FAQ.
+&lt;http://ibiblio.org/gutenberg/music/music_helpex.html&gt; and Volunteer
+&lt;http://ibiblio.org/gutenberg/music/music_volunteer.html&gt; pages, or contact
+Geof Pawlicki &lt;MAILTO:geof@ibiblio.net&gt; directly.
+
+
+Request for Assistance:
+
+Perhaps a statistician would be willing to help with our counting    ;-)
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+Spanish eBooks. . .we have several opportunities to expand our Spanish
+eBook collection, please let us know if you can find us any mor help!
+
+I have a couple of copies of these tales in Spanish, but I lack the time
+and courage to do the scanning. If you have a volunteer near Buenos Aires,
+in Argentina, we could arrange somehow to get it scanned.
+Gaston H. Picard &lt;ghpicard@fibertel.com.ar&gt;
+
+***
+
+Try The Newest PG Mirror Site
+
+Location:  Houston, Texas, USA
+URL: http://www.spishak.com/pg
+HTTP only, no FTP
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly eBook update:
+   Updates/corrections
+   3 New eBooks from Project Gutenberg of Australia
+   44 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+  or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+&lt;http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+or
+&lt;ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04&gt;
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+*Here Are The New Files We Have Done In The Past Week*
+
+RESERVED count:   39
+
+LAST WEEK -- TOTAL COUNT **as of Tue 06/12/02**:  5,355 (incl. 74 Aus.)
++ 32  New this week *SO FAR*!:
+
+TOTAL COUNT **as of Tue 06/18/02 9:00am PDT**:  5,387 (incl. 74 Aus.)
+
+Includes all of the postings below:
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, and
+   sometimes a new Etext number.
+
+Please note the following changes, corrections and improvements:
+
+We have posted the following etexts in new formats as indicated:
+Mar 2004 The Long Vacation, by Charlotte M. Yonge[Yonge#30][lvacaxxx.xxx]5251
+[HTML files posted:  lvaca10h.htm/.zip]
+Jan 2004 Australia Twice Traversed, by Ernest Giles        [strttxxx.xxx]4974
+[HTML with images posted in zip only:  strtt10h.zip]
+Dec 2003 Pecheur d'Islande, by Pierre Loti         [Loti#8][?pchsxxx.xxx]4785
+[HTML posted:  8pchs10h.htm/.zip]
+
+We have posted an improved 11th edition of the following:
+Feb 2003 The Judgment House, by Gilbert Parker             [jhousxxx.xxx]3746
+
+
+***] 32 NEW U.S. POSTS [***
+
+
+Apr 2004 Arachne,               by Ebers, Complete  [GE#77][ge77vxxx.xxx]5516
+[Author: Georg Ebers] [Contains eBooks #5508-5515]
+
+Apr 2004 Arachne,               by Georg Ebers, v8  [GE#76][ge76vxxx.xxx]5515
+Apr 2004 Arachne,               by Georg Ebers, v7  [GE#75][ge75vxxx.xxx]5514
+Apr 2004 Arachne,               by Georg Ebers, v6  [GE#74][ge74vxxx.xxx]5513
+Apr 2004 Arachne,               by Georg Ebers, v5  [GE#73][ge73vxxx.xxx]5512
+Apr 2004 Arachne,               by Georg Ebers, v4  [GE#72][ge72vxxx.xxx]5511
+
+Apr 2004 Arachne,               by Georg Ebers, v3  [GE#71][ge71vxxx.xxx]5510
+Apr 2004 Arachne,               by Georg Ebers, v2  [GE#70][ge70vxxx.xxx]5509
+Apr 2004 Arachne,               by Georg Ebers, v1  [GE#69][ge69vxxx.xxx]5508
+
+
+
+
+
+Mar 2004 Imitation of Anacreon &c, by De La Fontaine[LF#10][lf10wxxx.xxx]5284
+   Contains
+     The Two Friends
+     The Country Justice
+     Alice Sick
+     The Kiss Returned
+     Sister Jane
+     An Imitation of Anacreon
+     Another Imitation of Anacreon
+Mar 2004 Belphegor & Little Bell &c,  De La Fontaine[LF#09][lf09wxxx.xxx]5283
+   Contains
+     Belphegor
+     The Little Bell
+     The Glutton
+Mar 2004 The Ephesian Matron &c,   by De La Fontaine[LF#08][lf08wxxx.xxx]5282
+   Contains
+     The Eel Pie
+     The Magnificent
+     The Ephesian Matron
+Mar 2004 The Falcon & Little Dog,  by De La Fontaine[LF#07][lf07wxxx.xxx]5281
+   Contains
+     The Falcon
+     The Little Dog
+
+Mar 2004 The Magick Cup,           by De La Fontaine[LF#06][lf06wxxx.xxx]5280
+Mar 2004 Princess Bethrothed to Garba,   La Fontaine[LF#05][lf05wxxx.xxx]5279
+[Title: The Princess Bethrothed to the King of Garba
+Mar 2004 Old Man's Calendar &c,    by De La Fontaine[LF#04][lf04wxxx.xxx]5278
+   Contains
+     The Old Man's Calendar
+     The Avaricious Wife and Tricking Galant
+     The Jealous Husband
+     The Gascon Unpunished
+Mar 2004 Muleteer & Three Gossips, by De La Fontaine[LF#03][lf03wxxx.xxx]5277
+   Contains
+     The Muleteer
+     The Servant Girl Justified
+     The Three Gossips' Wager
+Mar 2004 Contented Cuckold &c,     by De La Fontaine[LF#02][lf02wxxx.xxx]5276
+   Contains
+     The Cudgelled and Contented Cuckold
+     The Husband Confessor
+     The Cobbler
+     The Peasant and His Angry Lord
+
+Mar 2004 Joconde,                  by De La Fontaine[LF#01][lf01wxxx.xxx]5275
+   Contains
+     La Fontaine's Life
+     Preface
+     Jaconde
+
+
+[Please Note:  Above Is 5275, Below is 5265, those between were *reserved*
+and should be listed shortly.]
+
+Mar 2004 The Ball and The Cross, by G.K. Chesterton [GC#15][bllcrxxx.xxx]5265
+Mar 2004 Patty's Butterfly Days, by Carolyn Wells          [ptbfdxxx.xxx]5264
+Mar 2004 The Girl Scout Pioneers, by Lillian C Garis       [gspnrxxx.xxx]5263
+Mar 2004 Curly and Floppy Twistytail,by Howard R. Garis[#2][crfltxxx.xxx]5262
+Mar 2004 Constance Dunlap, by Arthur B. Reeve    [Reeve#11][cnsdpxxx.xxx]5261
+
+Mar 2004 A Duet, by Arthur Conan Doyle            [Doyle#32][duetxxx.xxx]5260
+[Subtitle: with an occasional chorus]
+[Plain text version in duetxxxx.txt/.zip, HTML in duetxxh.htm and .zip]
+Mar 2004 Hildegarde's Neighbors, by Laura E. Richards  [#4][4hldgxxx.xxx]5259
+Mar 2004 Ainsi Parlait Zarathoustra, Frederic Nietzsche[#3][?nszrxxx.xxx]5258
+Also posted: HTML version in 8nszr10h.htm and 8nszr10h.zip
+Mar 2004 The Broad Highway, by Jeffery Farnol    [Farnol#3][brhgwxxx.xxx]5257
+Mar 2004 Jonathan Wild, by Henry Fielding      [Fielding#3][thllmxxx.xxx]5256
+[Full title: The History of the Life of the Late Mr. Jonathan Wild the Great]
+
+Mar 2004 The Book of Good Manners, by W. C. Green          [tbkgmxxx.xxx]5255
+Mar 2004 Apple Tree Island, by Mabel C. Hawley             [flbatxxx.xxx]5254
+[Full title: Four Little Blossoms on Apple Tree Island]
+Mar 2004 The Maid of the Whispering Hills, by Vingie E. Roe[tmwhlxxx.xxx]5253
+
+***
+
+      Total PG ebooks available online **AS OF 06/19/02**:  5,387
+(This number includes the 74 etexts posted at the PG Australia web site)
+
+In the first 24 weeks of the new year, we have produced 1,095 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 1,095 eBooks!!!
+
+             That's 24 WEEKS as Compared to 26 YEARS!!!
+
+Here's what we were doing around #1095:
+
+Nov 1997 King Henry VI, Part 1, William Shakespeare   [WL] [1ws01xxx.xxx]1100
+Nov 1997 The Riverman, by Stewart Edward White             [rvrmnxxx.xxx]1099
+Nov 1997 The Turmoil, A novel, by Booth Tarkington  [BT#5] [turmoxxx.xxx]1098
+Nov 1997 Mrs. Warren's Profession, by G. B. Shaw [Shaw #4] [wrproxxx.xxx]1097
+
+Nov 1997 The Faith of Men, by Jack London  [London #27-34] [fthmnxxx.xxx]1096
+Nov 1997 Light of the Western Stars, Zane Grey    [Grey #4][lwstrxxx.xxx]1095
+Nov 1997 Tamburlaine the Great PT 1, by Christopher Marlowe[tmbn1xxx.xxx]1094
+Nov 1997 The Beast in the Jungle, by Henry James[James #15][bstjgxxx.xxx]1093
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended our production year.
+
+With 5,387 eTexts online as of June 19, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.86 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.80 when we had 3567 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.94 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+Headlines From Newsscan
+
+MICROSOFT TAKES 1 JAVASTEP FORWARD, 1 JAVASTEP BACK
+The latest step in Microsoft's long-standing race with Sun Microsystem's is
+Microsoft's decision to include in the newest version of Windows XP a
+version of Sun's Java software. The hitch is that Microsoft has chosen for
+this purpose a version of Java that is five years old, and says it will
+remove Java completely when its licensing agreement with Sun expires at the
+beginning of 2003. Java allows a programmer to write a single program able
+to run on different operating systems. (San Jose Mercury-News 18 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3497105.htm
+
+'TOOTH PHONE'
+Engineers in the UK say they've developed a tooth implant that incorporates
+a tiny vibrator and a radio wave receiver, and is capable of functioning
+like a tooth-based cell phone. The implant does not yet have its own
+microchip installed, but inventors James Auger and Jimmy Loizeau say the
+technology has been tested, and that a fully functional phone is feasible.
+Sound, received as a digital radio signal, would be transferred to the
+inner ear by bone resonance, enabling information to be received anywhere
+and at any time, with no one else the wiser. The invention raises the
+possibility of financial traders receiving the latest stock market updates
+while taking in a movie, or politicians receiving a secret briefing on the
+issues while being quizzed by reporters. (Reuters 18 Jun 2002)
+http://news.com.com/2100-1033-937253.html
+
+BRITISH "BIG BROTHER" DEBATE
+Following fierce objections by civil libertarians and Conservative Party
+politicians, the British government has shelved a plan to extend to local
+governments the reach of a two-year old law allowing monitoring by police,
+tax authorities and security services for reasons of national security or
+serious crime prevention. Lord Strathclyde, Conservative leader in the House
+of Lords, said: "We support the war on terrorism [but] we oppose district
+councils being given power to survey private communications. Surely this
+distressingly authoritarian government can see the difference."
+(Reuters/San Jose Mercury-News 18 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3493594.htm
+
+THE STATE OF INTERNET RADIO
+The viability of Internet radio will be in danger if the Library of
+Congress -- which oversees the U.S. Copyright Office -- sets music
+royalties too steep. Royalty rates and detailed reporting requirements
+proposed earlier this year by a panel of arbitrators (and rejected without
+comment last month by Librarian of Congress James H. Billington) would have
+bankrupted many Webcasters. A new decision is expected this week. Broadcast
+radio stations in the United States pay about 3 percent of their revenue as
+royalties to music publishers, but are not required to pay performers; in
+contrast, Webcasters have to pay additional royalty to performers under
+terms of the Digital Millennium Copyright Act of 1998.
+(Philadelphia Inquirer/SJMN 16 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3484256.htm
+
+TELECOMMUTING STILL GAINING IN POPULARITY
+The number of U.S. workers toiling at home three or more days a week rose
+nearly 23%, from 3.4 million in 1990 to 4.2 million in 2000, according to
+U.S. Census figures. Meanwhile, the estimated number of workers who
+telecommute at least some portion of the week jumped more than 42% in two
+years, from 19.6 million in 1999 to 28 million in 2001, according to the
+International Telework Association and Council (ITAC). Most telecommuters
+live in New England and on the East and West coasts in areas with dense
+population and notorious traffic congestion, and more than two-thirds of
+telecommuters polled for an ITAC survey expressed satisfaction over their
+at-home worker status. "They're saying, 'This is three hours I don't need
+to be in the car, and I could be with my kids, pick (up) the dry cleaning,
+or whatever,'" says ITAC president Tim Kane. A formal E-Worker program
+instituted two years ago at Cigna Corp. has seen productivity increases of
+up to 15% among teleworkers while job turnover rates in some divisions of
+the company were cut in half. (AP 16 Jun 2002)
+http://apnews.excite.com/article/20020616/D7K6EEM00.html
+
+MUSIC DOWNLOADERS MAY BE RECORD LABELS' BEST CUSTOMERS
+Four out of five people who download music from the Internet report that
+their CD purchasing frequency either remained the same or increased,
+according to a new study by Ipsos Reid that concludes downloading music and
+burning CDs may actually stimulate legitimate sales. The research backs up
+an earlier study by Jupiter Media Metrix that concluded people using
+file-sharing networks were more likely to spend money on music. "While the
+goal of this " was not to draw a link between file sharing, CD burners and
+the slump in music sales, we can see that American music enthusiasts are
+becoming increasingly acquainted with the flexibility that digital music
+allows," says a senior research manager at Ipsos Reid. "As a result,
+(American consumers) may be more apt to venture beyond the traditional
+channels of music distribution as part of their audio behaviors."
+(Wired.com 14 Jun 2002)
+http://www.wired.com/news/mp3/0,1285,53157,00.html
+
+RESEARCH FIRM SAYS PC SALES ON THE UPSWING
+The technology research firm IDC is predicting that worldwide PC sales will
+rise by 3-4.7% in 2002 and 11% in 2003. By contrast, in 2001 worldwide PC
+shipments dropped 4% to 134 million units. IDC expects that the recent
+merger of Hewlett-Packard and Compaq will put the new HP in the top
+position for number of PCs sold in 2002. (AP/USA Today 13 Jun 2002)
+http://www.usatoday.com/life/cyber/invest/2002/06/13/pc-sales.htm
+[For those of you who hate the way statistics are presented, this would
+likely mean that about 1.5 billion PC's would be sold in this decade.
+This is about one per family for the entire world, but obviously there
+will still be a Digital Divide as some countries move past 50% of their
+families having a PC, as the US already did, and others barely get started.]
+
+***
+
+Headlines From Edupage:
+
+UK WEB SITE GUIDES LEGAL SNOOPERS
+The British government has set up a Web site to advise qualified UK
+government departments and organizations how to stay within legal
+bounds in carrying out covert surveillance of British citizens' use of
+their telephones, fax machines, Web browsers, and e-mail accounts.
+Passage of the Regulation of Investigatory Powers Act in 2000 made it
+easier for customs, tax, police, and intelligence services to get
+permission to spy on criminals and citizens. The RIP Act removed the
+requirement to obtain permission for surveillance from a judge and put
+approval and oversight into the hands of the Office of Surveillance
+Commissioners.   BBC, 17 June 2002
+http://news.bbc.co.uk/hi/english/sci/tech/newsid_2049000/2049593.stm
+
+CAMPUS E-MAIL EXPOSED TO PUBLIC SCRUTINY
+Many states identify administrators and professors at public colleges
+as state employees, potentially exposing their letters, documents, and
+e-mail to public scrutiny under freedom-of-information laws. Some
+institutions have begun to update policies to safeguard personal e-mail
+or warn professors to be careful what they write. Open-records laws
+don't specify clearly whether professors' research notes, lecture
+notes, or regular mail would qualify as public records, but most states
+assume that state employees' e-mail messages are public records, even
+when the law is ambiguous. Employees at private colleges can be exposed
+as well, although not through open-records laws; a person would need to
+obtain a court order or a subpoena, requiring involvement in litigation
+against the college./Chronicle of Higher Education, 17 June 2002 (sub. req'd)
+http://chronicle.com/free/v48/i41/41a03101.htm
+
+MICROSOFT MODIFIES CAMPUS LICENSING
+In response to criticism from college administrators, Microsoft plans
+to offer alternatives to three features of its Campus Agreement
+licensing program. The new options will take effect July 1. The changes
+reportedly permit more accurate financial forecasting through a
+three-year lease, include server as well as desktop licenses, add
+work-at-home licenses for most desktop software, and provide more
+options for purchasing software licenses for students.
+Chronicle of Higher Education, 17 June 2002 (sub. req'd)
+http://chronicle.com/free/2002/06/2002061702t.htm
+
+BEIJING CYBER CAFES CLOSED
+Mayor Liu Qi has ordered the closure of all Beijing cyber cafes after a
+fire killed at least 24 people and injured 13 others at the Lanjisu
+Cyber Cafe. The mayor also suspended new licences for cyber cafes
+awaiting safety inspections. Most of the victims of the fire were
+students, taking advantage of the cyber cafe's inexpensive late-night
+Internet rates.
+BBC, 16 June 2002
+http://news.bbc.co.uk/hi/english/world/asia-pacific/newsid_2048000/2048467
+stm
+
+CONGRESS SCRUTINIZES ICANN
+Members of Congress on Wednesday said they would increase oversight of
+the Internet Corporation for Assigned Names and Numbers (ICANN), though
+there are no plans to take control of the organization. Since it was
+awarded control of most of the domain-name system in 1998, ICANN has
+been the subject of ongoing controversy, and many government officials
+agree that ICANN needs to revise many of its policies and procedures.
+ICANN's current contract expires in September, and some have hinted
+that if acceptable reforms are not put in place, the contract may not
+be renewed. Assistant Secretary of Commerce Nancy Victory defended some
+of ICANN's contentious actions and said that even if another group
+were running the domain-name system, the same problems would have to be
+dealt with.     New York Times, 12 June 2002 (registration req'd)
+http://www.nytimes.com/reuters/technology/tech-tech-icann.html
+
+UK WORRIES OVER PERSONAL PRIVACY
+Privacy advocates in the United Kingdom reacted harshly this week to
+the government's announcement that the list of organizations allowed
+to obtain records of users' personal information would be
+significantly expanded. Under the former terms of the Regulation of
+Investigatory Powers Act, only law enforcement officials could legally
+access such information as Web usage and records of e-mail or telephone
+communications. The new rules allow 24 more organizations access to
+this data. Privacy groups worry that many of the non-law enforcement
+agencies are not prepared to handle private information securely and
+that there will be new and widespread opprtunity for abuse. Concerns
+were also raised over new provisions that allow access to personal
+information without consent from a judge. Now, such access can be
+granted by an agency's senior managers.   BBC, 11 June 2002
+http://news.bbc.co.uk/hi/english/sci/tech/newsid_2038000/2038036.stm
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_06_19.txt" target="_blank" rel="nofollow">pgweekly_2002_06_19.txt</a>

@@ -1,0 +1,962 @@
+---
+params:
+  id: 2522
+title: PG Weekly Newsletter (2007-11-21)
+date: 2007-11-21T12:31:53+00:00
+author: Michael Cook
+layout: post
+url: /20071121/pg-weekly-newsletter-2007-11-21/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>pgweekly_2007_11_21.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, November 21, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+Visit www.gutenbergnews.org to read these news items.
+
+ * Poll Results - How many PG e-texts have you read?
+ * IDPF Names New Executive Director: Michael Smith
+
+
+FEATURED NEWS
+-------------
+
+NEWSLETTER DISRUPTIONS
+
+At the end of November 2007 I am having to move apartments again. This means
+I will not be able to send out the newsletter for at least one week...the
+very least!
+
+I am hoping that Michael Hart will be able to fill in but this is yet to be
+confirmed. So, if there are any volunteers out there who would like to take
+over for a short time please contact me as soon as possible, using the
+following email address; editor@gutenbergnews.org
+
+Many thanks for your patience.
+
+-- Michael Cook [Ed]
+
+
+THE POLL RESULTS!
+
+So here they are, after...err, several months, the final results from the
+'How many e-texts have you read from the PG archives?' Poll. Even after all
+this time there are still only 50 votes cast.
+
+Top of the list is 200+ e-text read from the PG archives but the big surprise
+for me is that the 50-100 e-texts does not come in at a higher position.
+
+Thanks to everyone who participated and...keep on reading.
+
+RESULTS: How many e-texts have you read from the PG archives?
+ * 30% -- 200+
+ * 22% -- 1-10
+ * 20% -- 10-20
+ * 10% -- 20-50
+ * 10% -- 50-100
+ *  8% -- 100-200
+
+Total Votes: 50
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the 'Volunteers' section at https://www.gutenbergnews.org.
+
+PG EBOOK TRANSLATORS REQUIRED
+  Michael Hart, our founder, is looking for people who are willing to
+  translate Project Gutenberg eBooks in and out of; English, French, Spanish,
+  Dutch, Portuguese, Italian and any other languages you might like to include.
+
+If you have a RAM stick or can help with the translations then please contact
+Michael using his email address; hart@pglaf.org.
+
+
+GUTENBERG 'WANTED' HEADLINES:
+ * Gutenberg Article Writers Wanted
+ * Shakespearean Actors Wanted
+ * Michael Hart wants IBM Memory Key's
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad
+along with most other text reading programs.
+
+You can access them by visiting www.gutenbergnews.org and clicking on the
+'Newsletter Archives' menu item.
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #322/364 | Week: #46/52 | Month: #10.60
+
+GRAND TOTALS
+
+23,525 [+101] Project Gutenberg
+ 1,565 [+  0] PG Australia
+    67 [+  0] PG Europe 'Unique' | 480 [+ 1] Total (See NOTES)
+    39 [+  1] PG Canada 'Unique' | 307 [+ 2] Total (See NOTES)
+   386 [+  0] PG PrePrints
+-------------
+25,582 [+102] GRAND TOTAL
+
+    48 - Reserved/Pending
+
+ 4,418 to go to 30,000 eBooks.
+   ~85% of the way to 30,000
+   ~56% of the way from 20,000 to 30,000
+
+ 1,953 [+ 0] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+3,310 Project Gutenberg
+  111 PG Australian
+    5 PG Europe 'Unique' | 72 Total (See NOTES)
+   39 PG Canada 'Unique' | 97 Total (See NOTES)
+    5 PG PrePrints
+=====
+3,470 TOTAL [2007]
+
+   85 eBooks REposted to the new filing system.
+
+    *  83 new eBooks last week
+
+    * 318 new eBooks in November
+    * 413 new eBooks in October
+    * 366 new eBooks in September
+    * 321 new eBooks in August
+    * 212 new eBooks in July
+    * 332 new eBooks in June
+    * 445 new eBooks in May
+    * 303 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 75 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 327 per month in 2007
+  * 345 per month in 2006
+  * 252 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4141 new eBooks in 2006
+  * 3019 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a spreadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+DP-CA - Like the European project this has many books posted to both the PG and
+PG-CA sites, non U.S. clearable books posted to PG-CA only. Please note that
+only the non-clearable ('Unique') eBooks are counted toward the Totals and
+not the overall PG-CA total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+11,501 [+57] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed in 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   0 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+None this week.
+
+
+---------[   4 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+Spelling error in title corrected: "Castelo" to "Castello"
+Salve, Rei!, by Camilo Castello Branco                                   22616
+   [Subtitle: Poesia de Camillo Castello Branco]
+   [Editor: Frazão de Vasconcelos]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/2/6/1/22616 ]
+   [Files: 22616-8.txt]
+
+Correction of errors. Creation of 8-bit text file with accented
+characters and creation of HTML version.
+Note also the change in title. Previously the title was Stories of
+Mystery. The Library of Congress lists the title as a volume (8) of
+Little Classics, and that is now used as the title with Mystery as
+subtitle.  Also, the author is now Various to reflect the different
+authorship of the 8 stories in the book, edited by Rossiter Johnson.
+Little Classics, Volume 8 (of 18), by Various                            16405
+  [Subtitle: Mystery ]
+  [Editor: Rossiter Johnson ]
+  [Link: http://www.gutenberg.org/dirs/1/6/4/0/16405 ]
+  [Files: 16405.txt; 16405-8.txt; 16405-h.htm; ]
+  [Clearance: 20070414111710johnson ]
+
+Correction of errors, Creation of 8-bit text file with accented
+characters and creation of HTML version
+The Influence of Sea Power Upon History, 1660-1783, by A. T. Mahan       13529
+  [Link: http://www.gutenberg.org/dirs/1/3/5/2/13529 ]
+  [Files: 13529.txt; 13529-8.txt; 13529-h.htm; ]
+  [Clearance: 20050124203352mahan ]
+
+
+This file has been corrected, and a html file provided.
+De Zoon van Dik Trom, by Cornelis Johannes  Kieviet                      10971
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/1/0/9/7/10971 ]
+  [Files: 10971-8.txt; 10971-h.htm]
+
+
+---------[ 101 NEW PG EBOOK(S) ]------------------------------------------------
+
+Battle of Bayan and Other Battles, James Edgar Allen and John J. Reidy   23573
+  [Link: http://www.gutenberg.org/2/3/5/7/23573 ]
+  [Files: 23573.txt; 23573-h.htm]
+
+Blackwood's Edinburgh Magazine, Volume 61, No. 379, May, 1847, Various   23572
+  [Link: http://www.gutenberg.org/2/3/5/7/23572 ]
+  [Files: 23572.txt; 23572-8.txt; 23572-h.htm]
+
+General Max Shorter, by Kris Ottman Neville                              23571
+  [Link: http://www.gutenberg.org/2/3/5/7/23571 ]
+  [Files: 23571.txt; 23571-h.htm]
+
+Stories About Indians, by Anonymous                                      23570
+  [Link: http://www.gutenberg.org/2/3/5/7/23570 ]
+  [Files: 23570.txt; 23570-h.htm]
+
+Christmas Holidays at Merryvale, by Alice Hale Burnett                   23569
+  [Subtitle: The Merryvale Boys]
+  [Illustrator: Charles F. Lester]
+  [Link: http://www.gutenberg.org/2/3/5/6/23569 ]
+  [Files: 23569.txt; 23569-h.htm]
+
+The Mississippi Saucer, by Frank Belknap Long                            23568
+  [Link: http://www.gutenberg.org/2/3/5/6/23568 ]
+  [Files: 23568.txt; 23568-h.htm]
+
+Oeuvres complètes de Alfred de Musset - Tome 5, by Alfred De Musset      23567
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/5/6/23567 ]
+  [Files: 23567-8.txt; 23567-h.htm]
+
+Miquette baptise sa poupée, by Camo                                      23566
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/5/6/23566 ]
+  [Files: 23566-8.txt; 23566-0.txt; 23566-h.htm]
+
+Red-Tape and Pigeon-Hole Generals, by William H. Armstrong               23565
+  [Subtitle: As Seen From the Ranks During a Campaign in the
+             Army of the Potomac]
+  [Link: http://www.gutenberg.org/2/3/5/6/23565 ]
+  [Files: 23565.txt; 23565-8.txt; 23565-h.htm]
+
+Rookwood, by William Harrison Ainsworth                                  23564
+  [Link: http://www.gutenberg.org/2/3/5/6/23564 ]
+  [Files: 23564.txt; 23564-8.txt; 23564-0.txt; 23564-h.htm]
+
+Viewpoint, by Gordon Randall Garrett                                     23563
+  [Link: http://www.gutenberg.org/2/3/5/6/23563 ]
+  [Files: 23563.txt; 23563-h.htm]
+
+Studies in Central American Picture-Writing, by Edward S. Holden         23562
+  [Subtitle: First Annual Report of the Bureau of Ethnology to the
+              Secretary of the Smithsonian Institution, 1879-80,
+              Government Printing Office, Washington, 1881,
+              pages 205-245]
+  [Link: http://www.gutenberg.org/2/3/5/6/23562 ]
+  [Files: 23562.txt; 23562-8.txt; 23562-h.htm]
+
+Anchorite, by Randall Garrett                                            23561
+  [Author AKA: Johnathan Blake Mackenzie (pseudonym)]
+  [Ill.:  Schelling]
+  [Link: http://www.gutenberg.org/2/3/5/6/23561 ]
+  [Files: 23561.txt; 23561-8.txt; 23561-h.htm; ]
+  [Clearance: 20070126161206garrett]
+
+Carl and the Cotton Gin, by Sara Ware Bassett                            23560
+  [Ill.: William F. Stecher]
+  [Link: http://www.gutenberg.org/2/3/5/6/23560 ]
+  [Files: 23560.txt; 23560-8.txt; 23560-h.htm; ]
+  [Clearance: 20061217193230bassett]
+
+In Tune with the Infinite, by Ralph Waldo Trine                          23559
+  [Subtitle: or, Fullness of Peace, Power, and Plenty]
+  [Link: http://www.gutenberg.org/2/3/5/5/23559 ]
+  [Files: 23559.txt; 23559-8.txt; ]
+  [Clearance: 20071119134334trine]
+
+The Samuel Butler Collection, by Henry Festing Jones                     23558
+   [Author: A. T. Bartholomew]
+   [Subtitle: at Saint John's College Cambridge]
+   [Link: http://www.gutenberg.org/2/3/5/5/23558 ]
+   [Files: 23558.txt; 23558-h.htm]
+
+The Crucial Moment, by Charles Egbert Craddock                           23557
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23557 ]
+  [Files: 23557.txt; 23557-8.txt; 23557-h.htm]
+
+His Unquiet Ghost, by Charles Egbert Craddock                            23556
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23556 ]
+  [Files: 23556.txt; 23556-8.txt; 23556-h.htm]
+
+The Lost Guidon, by Charles Egbert Craddock                              23555
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23555 ]
+  [Files: 23555.txt; 23555-h.htm]
+
+A Chilhowee Lily, by Charles Egbert Craddock                             23554
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23554 ]
+  [Files: 23554.txt; 23554-h.htm]
+
+The Christmas Miracle, by Charles Egbert Craddock                        23553
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23553 ]
+  [Files: 23553.txt; 23553-8.txt; 23553-h.htm]
+
+The Phantom Of Bogue Holauba, by Charles Egbert Craddock                 23552
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23552 ]
+  [Files: 23552.txt; 23552-h.htm]
+
+Who Crosses Storm Mountain?, by Charles Egbert Craddock                  23551
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23551 ]
+  [Files: 23551.txt; 23551-h.htm]
+
+Una Of The Hill Country, by Charles Egbert Craddock                      23550
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/5/23550 ]
+  [Files: 23550.txt; 23550-h.htm]
+
+Wolf's Head, by Charles Egbert Craddock                                  23549
+  [Full author: Charles Egbert Craddock (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/4/23549 ]
+  [Files: 23549.txt; 23549-8.txt; 23549-h.htm]
+
+The Raid Of The Guerilla, by Charles Egbert Craddock                     23548
+  [Full author: Charles Egbert Craddock  (AKA Mary Noailles Murfree)]
+  [Subtitle: 1911]
+  [Link: http://www.gutenberg.org/2/3/5/4/23548 ]
+  [Files: 23548.txt; 23548-8.txt; 23548-h.htm]
+
+Sam Lambert and the New Way Store, by Unknown                            23547
+  [Subtitle: A Book for Clothiers and Their Clerks]
+  [Link: http://www.gutenberg.org/2/3/5/4/23547 ]
+  [Files: 23547.txt; 23547-h.htm; ]
+  [Clearance: 20071117104120unknown]
+
+Wealth of the World's Waste Places and Oceania,by Jewett Castello Gilson 23546
+  [Link: http://www.gutenberg.org/2/3/5/4/23546 ]
+  [Files: 23546.txt; 23546-8.txt; 23546-h.htm; ]
+  [Clearance: 20060424091022gilson]
+
+Songs of Childhood, by Walter de la Mare                                 23545
+  [Commentator: Anthony Hecht]
+  [Link: http://www.gutenberg.org/2/3/5/4/23545 ]
+  [Files: 23545.txt; 23545-8.txt; 23545-h.htm]
+
+Glaucoma, by Various                                                     23544
+  [Subtitle: A Symposium Presented at a Meeting of the Chicago
+              Ophthalmological Society, November 17, 1913]
+  [Editor: Willis O. Nance
+           Wesley Hamilton Peck]
+  [Link: http://www.gutenberg.org/2/3/5/4/23544 ]
+  [Files: 23544.txt; 23544-8.txt; 23544-h.htm]
+
+Kalervo, by J. A. Bergman                                                23543
+  [Subtitle: Runollinen kalenteri]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/3/5/4/23543 ]
+  [Files: 23543-8.txt]
+
+Side Show Studies, by Francis Metcalfe                                   23542
+  [Illustrator: Oliver Herford]
+  [Link: http://www.gutenberg.org/2/3/5/4/23542 ]
+  [Files: 23542.txt; 23542-8.txt; 23542-h.htm]
+
+Dick, Marjorie and Fidge, by G. E. Farrow                                23541
+  [Subtitle: A Search for the Wonderful Dodo]
+  [Ill.: Allan Wright]
+  [Link: http://www.gutenberg.org/2/3/5/4/23541 ]
+  [Files: 23541.txt; 23541-8.txt; 23541-h.htm; ]
+  [Clearance: 20070706023552farrow]
+
+The Twin Cousins, by Sophie May                                          23540
+  [Link: http://www.gutenberg.org/2/3/5/4/23540 ]
+  [Files: 23540.txt; 23540-h.htm; ]
+  [Clearance: 20060331202805may]
+
+"Where Angels Fear to Tread" and Other Stories of the Sea, by Robertson  23539
+  [Author: Morgan Robertson]
+  [Contents: "Where Angels Fear to Tread"]
+  [          The Brain of the Battle-Ship]
+  [          The Wigwag Message]
+  [          The Trade-Wind]
+  [          Salvage]
+  [          Between the Millstones]
+  [          The Battle of the Monsters]
+  [          From the Royal-Yard Down]
+  [          Needs Must When the Devil Drives]
+  [          When Greek Meets Greek]
+  [          Primordial]
+  [Link: http://www.gutenberg.org/2/3/5/3/23539 ]
+  [Files: 23539.txt; 23539-8.txt; 23539-h.htm; ]
+  [Clearance: 20041126131837morgan]
+
+Hugh Selwyn Mauberley, by Ezra Pound                                     23538
+  [Link: http://www.gutenberg.org/2/3/5/3/23538 ]
+  [Files: 23538.txt; 23538-8.txt; 23538-0.txt]
+
+The Continental Monthly, Vol. 6, No 4, August, 1864, by Various          23537
+  [Subtitle: Devoted To Literature And National Policy]
+  [Link: http://www.gutenberg.org/2/3/5/3/23537 ]
+  [Files: 23537.txt; 23537-8.txt; 23537-h.htm]
+
+Hatty and Marcus, by Aunt Friendly                                       23536
+  [Subtitle: or, First Steps in the Better Path]
+  [Link: http://www.gutenberg.org/2/3/5/3/23536 ]
+  [Files: 23536.txt; 23536-0.txt; 23536-h.htm]
+
+The Invaders, by Benjamin Ferris                                         23535
+  [Link: http://www.gutenberg.org/2/3/5/3/23535 ]
+  [Files: 23535.txt; 23535-h.htm]
+
+...Or Your Money Back, by Gordon Randall Garrett                         23534
+  [Link: http://www.gutenberg.org/2/3/5/3/23534 ]
+  [Files: 23534.txt; 23534-h.htm]
+
+War-time Journal, Germany 1914 and German Travel Notes, by H.J. Jephson  23533
+  [Full author: Harriet Julia Jephson]
+  [Link: http://www.gutenberg.org/2/3/5/3/23533 ]
+  [Files: 23533.txt; 23533-8.txt; 23533-h.htm]
+
+Betrachtung, by Franz Kafka                                              23532
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/3/5/3/23532 ]
+  [Files: 23532-8.txt; 23532-h.htm]
+
+Marjorie's Busy Days, by Carolyn Wells                                   23531
+  [Link: http://www.gutenberg.org/2/3/5/3/23531 ]
+  [Files: 23531.txt; 23531-8.txt; 23531-h.htm]
+
+Adventures in Many Lands, by Various                                     23530
+  [Illustrator: F. Gillett]
+  [Link: http://www.gutenberg.org/2/3/5/3/23530 ]
+  [Files: 23530.txt; 23530-8.txt; 23530-h.htm]
+
+Blackwood's Edinburgh Magazine - Volume 55, No. 344, June, 1844,Various  23529
+  [Link: http://www.gutenberg.org/2/3/5/2/23529 ]
+  [Files: 23529.txt; 23529-8.txt; 23529-h.htm]
+
+Carlo, by Anonymous                                                      23528
+  [Subtitle: or Kindness Rewarded]
+  [Link: http://www.gutenberg.org/2/3/5/2/23528 ]
+  [Files: 23528.txt; 23528-h.htm]
+
+The Twelve Magic Changelings, by M.A. Glen                               23527
+  [Link: http://www.gutenberg.org/2/3/5/2/23527 ]
+  [Files: 23527.txt; 23527-h.htm]
+
+A velhice do padre eterno, by Guerra Junqueiro                           23526
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/3/5/2/23526 ]
+  [Files: 23526-8.txt; 23526-h.htm]
+
+As Saudades do Bardo Orthodoxo, by Henrique Ernesto d'Almeida Coutinho   23525
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/3/5/2/23525 ]
+  [Files: 23525-8.txt; 23525-h.htm]
+
+Fables et légendes du Japon, by Claudius Ferrand                         23524
+  [Illustrator: Ferdinand Raffin]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/5/2/23524 ]
+  [Files: 23524-8.txt; 23524-0.txt; 23524-h.htm]
+
+Adventures in Toyland, by Edith King Hall                                23523
+  [Subtitle: What the Marionette Told Molly]
+  [Link: http://www.gutenberg.org/2/3/5/2/23523 ]
+  [Files: 23523.txt; 23523-8.txt; 23523-h.htm; ]
+  [Clearance: 20070706020122hall]
+
+Whiffet Squirrel, by Julia Greene                                        23522
+  [Ill.: Julia Greene]
+  [Link: http://www.gutenberg.org/2/3/5/2/23522 ]
+  [Files: 23522.txt; 23522-h.htm; ]
+  [Clearance: 20060616064223greene]
+
+The Sleeping Beauty Picture Book, by Anonymous                           23521
+  [Subtitle: Containing The Sleeping Beauty; Bluebeard; The Baby's
+             Own Alaphabet]
+  [Ill.: Walter Crane]
+  [Lovely illustrations!]
+  [Link: http://www.gutenberg.org/2/3/5/2/23521 ]
+  [Files: 23521.txt; 23521-h.htm; ]
+  [Clearance: 20070927220248crane]
+
+Mon oncle et mon curé; Le voeu de Nadia, by Alice Cherbonelle            23520
+  [Full author: Alice Cherbonelle (aka Jean de la Brète)]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/5/2/23520 ]
+  [Files: 23520-8.txt; 23520-0.txt; 23520-h.htm]
+
+The Mormon Menace, by John Doyle Lee and Alfred Henry Lewis              23519
+  [Subtitle: The Confessions of John Doyle Lee, Danite]
+  [Link: http://www.gutenberg.org/2/3/5/1/23519 ]
+  [Files: 23519.txt]
+
+Punch, or the London Charivari, Vol. 158, May 5, 1920, by Various        23518
+  [Editor: Owen Seaman]
+  [Link: http://www.gutenberg.org/2/3/5/1/23518 ]
+  [Files: 23518.txt; 23518-8.txt; 23518-h.htm; ]
+  [Clearance: 20050323112602various]
+
+The Angel of the Tenement, by George Madden Martin                       23517
+  [Link: http://www.gutenberg.org/2/3/5/1/23517 ]
+  [Files: 23517.txt; 23517-8.txt; 23517-h.htm; ]
+  [Clearance: 20050820164818martin]
+
+Bred In The Bone, by Thomas Nelson Page                                  23516
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23516 ]
+  [Files: 23516.txt; 23516-8.txt; 23516-h.htm]
+
+The Spectre In The Cart, by Thomas Nelson Page                           23515
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23515 ]
+  [Files: 23515.txt; 23515-h.htm]
+
+The Long Hillside, by Thomas Nelson Page                                 23514
+  [Subtitle: A Christmas Hare-Hunt In Old Virginia]
+  [Link: http://www.gutenberg.org/2/3/5/1/23514 ]
+  [Files: 23514.txt; 23514-h.htm]
+
+Old Jabe's Marital Experiments, by Thomas Nelson Page                    23513
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23513 ]
+  [Files: 23513.txt; 23513-8.txt; 23513-h.htm]
+
+Mam' Lyddy's Recognition, by Thomas Nelson Page                          23512
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23512 ]
+  [Files: 23512.txt; 23512-8.txt; 23512-h.htm]
+
+The Christmas Peace, by Thomas Nelson Page                               23511
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23511 ]
+  [Files: 23511.txt; 23511-8.txt; 23511-h.htm]
+
+The Sheriffs Bluff, by Thomas Nelson Page                                23510
+  [Subtitle: 1908]
+  [Link: http://www.gutenberg.org/2/3/5/1/23510 ]
+  [Files: 23510.txt; 23510-8.txt; 23510-h.htm]
+
+The Beast of Space, by F.E. Hardart                                      23509
+  [Link: http://www.gutenberg.org/2/3/5/0/23509 ]
+  [Files: 23509.txt; 23509-h.htm]
+
+Les Contemporains, 7ème Série, by Jules Lemaître                         23508
+  [Subtitle: Études et Portraits Littéraires]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/5/0/23508 ]
+  [Files: 23508-8.txt; 23508-h.htm]
+
+A Short History of Pittsburgh, by Samuel Harden Church                   23507
+  [Link: http://www.gutenberg.org/2/3/5/0/23507 ]
+  [Files: 23507.txt; 23507-8.txt; 23507-h.htm]
+
+Chance, by Joseph Conrad                                                 23506
+  [Subtitle: A Tale in Two Parts]
+  [Link: http://www.gutenberg.org/2/3/5/0/23506 ]
+  [Files: 23506.txt; 23506-h.htm]
+  [See also PG etext #1476 transcribed from an earlier edition]
+
+Freaks on the Fells, by R.M. Ballantyne                                  23505
+  [Subtitle: Three Months' Rustication]
+  [Link: http://www.gutenberg.org/2/3/5/0/23505 ]
+  [Files: 23505.txt; 23505-h.htm]
+
+The Story of Nelson, by W.H.G. Kingston                                  23504
+  [Subtitle: also "The Grateful Indian", "The Boatswain's Son"]
+  [Link: http://www.gutenberg.org/2/3/5/0/23504 ]
+  [Files: 23504.txt; 23504-h.htm]
+
+In the Wilds of Africa, by W.H.G. Kingston                               23503
+  [Illustrator: A. Pearse]
+  [Link: http://www.gutenberg.org/2/3/5/0/23503 ]
+  [Files: 23503.txt; 23503-h.htm]
+
+The New Forest Spy, by George Manville Fenn                              23502
+  [Illustrator: W.D.E. Evans]
+  [Link: http://www.gutenberg.org/2/3/5/0/23502 ]
+  [Files: 23502.txt; 23502-h.htm]
+
+A Pair of Clogs, by Amy Walton                                           23501
+  [Illustrator: H.P.]
+  [Link: http://www.gutenberg.org/2/3/5/0/23501 ]
+  [Files: 23501.txt; 23501-h.htm]
+
+The Car of Destiny, by Charles N. Williamson and Alice M. Williamson     23500
+   [Language: English]
+   [Link: http://www.gutenberg.org/2/3/5/0/23500 ]
+   [Files: 23500.txt; 23500-8.txt; 23500-0.txt; 23500-tei.tei;
+           23500-h.htm; 23500-pdf.pdf]
+   [All the file formats were generated at the time of posting
+    from a TEI master file]
+
+The Hunters' Feast, by Mayne Reid                                        23499
+  [Subtitle: Conversations Around the Camp Fire]
+  [Link: http://www.gutenberg.org/2/3/4/9/23499 ]
+  [Files: 23499.txt; 23499-h.htm]
+
+The Pirate Slaver, by Harry Collingwood                                  23498
+  [Subtitle: A Story of the West African Coast]
+  [Illustrator: W.H. Overend]
+  [Link: http://www.gutenberg.org/2/3/4/9/23498 ]
+  [Files: 23498.txt; 23498-h.htm]
+
+Through Forest and Stream, by George Manville Fenn                       23497
+  [Subtitle: The Quest of the Quetzal]
+  [Link: http://www.gutenberg.org/2/3/4/9/23497 ]
+  [Files: 23497.txt; 23497-h.htm]
+
+How Britannia Came to Rule the Waves, by W.H.G. Kingston                 23496
+  [Subtitle: Updated to 1900]
+  [Link: http://www.gutenberg.org/2/3/4/9/23496 ]
+  [Files: 23496.txt; 23496-h.htm]
+
+Notable Voyagers, by W.H.G. Kingston and Henry Frith                     23494
+  [Subtitle: From Columbus to Nordenskiold]
+  [Link: http://www.gutenberg.org/2/3/4/9/23494 ]
+  [Files: 23494.txt; 23494-h.htm]
+
+Under the Waves, by R M Ballantyne                                       23493
+  [Subtitle: Diving in Deep Waters]
+  [Illustrator: Pearson]
+  [Link: http://www.gutenberg.org/2/3/4/9/23493 ]
+  [Files: 23493.txt; 23493-h.htm]
+
+Fast in the Ice, by R.M. Ballantyne                                      23492
+  [Subtitle: Adventures in the Polar Regions]
+  [Link: http://www.gutenberg.org/2/3/4/9/23492 ]
+  [Files: 23492.txt; 23492-h.htm]
+
+The Castaways, by Harry Collingwood                                      23491
+  [Illustrator: T.C. Dugdale]
+  [Link: http://www.gutenberg.org/2/3/4/9/23491 ]
+  [Files: 23491.txt; 23491-h.htm]
+
+Pickwickian Studies, by Percy Fitzgerald                                 23490
+   [Link: http://www.gutenberg.org/2/3/4/9/23490 ]
+   [Files: 23490.txt; 23490-h.htm]
+
+Godfrey Morgan, by Jules Verne                                           23489
+  [Subtitle: A Californian Mystery]
+  [Link: http://www.gutenberg.org/2/3/4/8/23489 ]
+  [Files: 23489.txt; 23489-8.txt; 23489-h.htm]
+
+The Jacobite Rebellions (1689-1746), by James Pringle Thomson            23488
+   [Subtitle: (Bell's Scottish History Source Books)]
+   [Link: http://www.gutenberg.org/2/3/4/8/23488 ]
+   [Files: 23488.txt; 23488-8.txt; 23488-0.txt; 23488-h.htm]
+
+Tonio, Son of the Sierras, by Charles King                               23487
+   [Subtitle: A Story of the Apache War]
+   [Illustrator: Charles J. Post]
+   [Link: http://www.gutenberg.org/2/3/4/8/23487 ]
+   [Files: 23487.txt; 23487-8.txt; 23487-h.htm]
+
+Folhas cahidas, apanhadas na lama, by Camilo Castelo Branco              23486
+   [Subtitle: por um antigo juiz das almas de Campanhan]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/3/4/8/23486 ]
+   [Files: 23486-8.txt; 23486-h.htm]
+
+The Old Man's Bag, by T. W. H. Crosland                                  23485
+   [Illustrator: J. R. Monsell]
+   [Link: http://www.gutenberg.org/2/3/4/8/23485 ]
+   [Files: 23485.txt; 23485-8.txt; 23485-h.htm]
+
+La Bastille, by Auguste Coeuret                                          23484
+  [Subtitle: (1370-1789) Histoire, Description, Attaque et Prise]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/3/4/8/23484 ]
+  [Files: 23484-8.txt; 23484-0.txt; 23484-h.htm]
+
+Dame Wonder's Picture Alphabet, by Anonymous                             23483
+  [Subtitle: Amusing Alphabet, Dame Wonder's Series.]
+  [Link: http://www.gutenberg.org/2/3/4/8/23483 ]
+  [Files: 23483.txt; 23483-h.htm]
+
+Jacky Dandy's Delight, by Jacky Dandy                                    23482
+  [Link: http://www.gutenberg.org/2/3/4/8/23482 ]
+  [Files: 23482.txt; 23482-h.htm]
+
+The Perfect Gentleman, by Ralph Bergengren                               23481
+  [Link: http://www.gutenberg.org/2/3/4/8/23481 ]
+  [Files: 23481.txt; 23481-8.txt; 23481-h.htm]
+
+What became of Them? and, The Conceited Little Pig, by G. Boare          23480
+  [Illustrator: A. M. Lockyer]
+  [Link: http://www.gutenberg.org/2/3/4/8/23480 ]
+  [Files: 23480.txt; 23480-h.htm]
+
+Eight Illustrations to Shakespeares Tempest, by Walter Crane            23479
+  [Subtitle: Designed by Walter Crane]
+  [Illustrator: Walter Crane and Duncan C. Dallas]
+  [Link: http://www.gutenberg.org/2/3/4/7/23479 ]
+  [Files: 23479.txt; 23479-h.htm]
+
+Self-Denial, by American Sunday-School Union                             23478
+   [Subtitle: or, Alice Wood, and Her Missionary Society]
+   [Link: http://www.gutenberg.org/2/3/4/7/23478 ]
+   [Files: 23478.txt; 23478-h.htm]
+
+Up! Horsie!, by Clara de Chatelaine                                      23477
+   [Subtitle: An Original Fairy Tale]
+   [Link: http://www.gutenberg.org/2/3/4/7/23477 ]
+   [Files: 23477.txt; 23477-h.htm]
+
+Churchwardens' Manual, by George Henry                                   23476
+   [Subtitle: their duties, powers, rights, and privilages]
+   [Author AKA: George Henry Sumner]
+   [Link: http://www.gutenberg.org/2/3/4/7/23476 ]
+   [Files: 23476.txt; 23476-h.htm]
+
+The Works of Lord Byron, by Lord Byron                                   23475
+  [Subtitle: Poetry, Volume V.]
+  [Editor: Ernest Hartley Coleridge]
+  [Link: http://www.gutenberg.org/2/3/4/7/23475 ]
+  [Files: 23475.txt; 23475-8.txt; 23475-0.txt; 23475-h.htm]
+
+The Bishop's Secret, by Fergus Hume                                      23474
+  [Link: http://www.gutenberg.org/2/3/4/7/23474 ]
+  [Files: 23474.txt; 23474-8.txt; 23474-h.htm; ]
+  [Clearance: 20060824183239hume]
+
+Lectures on Land Warfare; A tactical Manual for the Use of Infantry Offi 23473
+  [Title: Lectures on Land Warfare; A tactical Manual for the Use of
+          Infantry Officers]
+  [Author: Anonymous]
+  [Subtitle: An Examination of the Principles Which Underlie the Art
+             of Warfare, with Illustrations of the Principles by
+             Examples Taken from Military History, from the Battle of
+             Thermopylae, B.C. 480, to the Battle of the Sambre,
+             November 1-11, 1918]
+  [Link: http://www.gutenberg.org/2/3/4/7/23473 ]
+  [Files: 23473.txt; 23473-8.txt; ]
+  [Clearance: 20071102101600anonymous]
+
+Old Mr. Wiley, by Fanny Greye La Spina                                   23379
+  [Language: Engllish ]
+  [Link: http://www.gutenberg.org/dirs/2/3/3/7/23379 ]
+  [Files: 23379.txt; 23379-h.htm; ]
+  [Clearance: 20070121175557laspina ]
+
+
+---------[   0 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+None this week.
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+---------[   1 NEW PG CANADA 'UNIQUE' EBOOK(S) ]--------------------------------
+
+The Travelling Companion by Andersen, Hans Christian (1805-1875)
+
+
+This listing is for PG-CA eBooks that are not U.S. copyright clearable and so
+are posted to the PG-CA site only.
+
+For more information about Project Gutenberg of Canada please visit:
+http://www.gutenberg.ca
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================</pre>
+
+<a href="/nl_archives/2007/pgweekly_2007_11_21.txt" target="_blank" rel="nofollow">pgweekly_2007_11_21.txt</a>

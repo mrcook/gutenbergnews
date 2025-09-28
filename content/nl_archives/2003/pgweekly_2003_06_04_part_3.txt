@@ -1,0 +1,290 @@
+The Project Gutenberg Weekly Newsletter 4th June 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 3
+
+----------------------------------------------------------------------
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 06/04/03:   8,148 (incl. 237 Aus.).
+
+Last week the Total Count was 8,075, including 233 at PG of Australia.
+This week we added 73 new.
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to indicate the full title:
+Apr 2005 Nest Builder, by Beatrice Forbes-Robertson Hale   [?nestxxx.xxx]7837
+[Full Title: The Nest Builder]
+
+The following is being re-indexed to indicate the correct entry for
+ebook #1340; that number was originally reserved for an accented
+version of Salome, by Oscar Wilde, which was not posted; that number
+was then reassigned to the following:
+Autobiography of Andrew Dickson White  Volume I            [1aadwxxx.xxx]1340
+
+The following have been re-posted in new formats as indicated:
+Jan 2005 Prepare and Serve a Meal, by Lillian B. Lansdown  [psmidxxx.xxx]7350
+[Full title: Prepare and Serve a Meal and Interior Decoration]
+[HTML - psmid10h.zip and psmid10h.htm]
+Jun 1998 Salome, by Oscar Wilde                  [Wilde#21][salmexxx.xxx]1339
+[Language: French]
+[XHTML with accented characters in salme10h.htm/.zip]
+
+The following is being re-indexed to correct the base filename (ktria,
+not metam):
+Apr 2005 The Trial, Franz Kafka, Trans. David Wyllie [FK 2][ktriaxxx.xxx]7849C
+
+The following is being re-indexed to correct the base filename (&wtri,
+not &wrti):
+Apr 2005 Wagner's Tristan und Isolde,byGeorge Ainslie Hight[&wtrixxx.xxx]7834
+[Subtitle: An Essay on the Wagnerian Drama]
+[Plain text in 7wtri10.txt/.zip; 8-bit version in 8wtri10.txt/.zip]
+[HTML with accented characters & illustrations in 8wtri10h.htm/.zip]
+
+
+We have reposted an improved 11th edition of:
+Apr 2002 The Odyssey of Homer, Tr. Alexander Pope          [dyssyxxb.xxx]3160
+
+
+=-=-=-=[ 69 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Apr 2005 Glimpses of Bengal, by Sir Rabindranath Tagore    [?gbngxxx.xxx]7951
+[Subtitle: Selected from the Letters of Sir Rabindranath Tagore]
+[Plain text in 7gbng10.txt/.zip; 8-bit version in 8gbng10.txt/.zip]
+
+Apr 2005 The Jealousies of a Country Town, Honore de Balzac[jlsctxxx.xxx]7950
+   Contents:
+     An Old Maid (See eBook #1352)
+     The Collection of Antiquities (See eBook #1405)
+Apr 2005 The Historical Nights Entertainment, Second Series[?hne2xxx.xxx]7949
+[Author's Full Name: Rafael Sabatini]
+[Plain text in 7hne210.txt/.zip; 8-bit version in 8hne210.txt/.zip]
+Apr 2005 Abbotsford and Newstead Abbey, by W. Irving   [#7][abbnwxxx.xxx]7948
+[Full author: Washington Irving]
+Apr 2005 The Diary of a U-boat Commander, by anonymous     [?dubcxxx.xxx]7947
+[Subtitle: With an Introduction and Explanatory Notes by Etienne]
+[Note: RLIN lists author as Stephen King Hall; possibly Etienne is a
+  psuedonym]
+[Plain text in 7dubc10.txt/.zip; 8-bit version in 8dubc10.txt/.zip]
+[HTML with accents in 8dubc10h.htm/.zip,
+[HTML zip file includes original illustrations by Frank H. Mason]
+
+Apr 2005 Das goldene Vliess, by Franz Grillparzer      [#4][?vlssxxx.xxx]7946
+[Language: German][Includes Der Gastfreund, Die Argonauten and Medea]
+
+Apr 2005 Medea, by Franz Grillparzer                   [#3][?medexxx.xxx]7945
+[Language: German]
+Apr 2005 Der Gastfreund, by Franz Grillparzer          [#2][?gsfrxxx.xxx]7944
+[Language: German]
+Apr 2005 Die Argonauten, by Franz Grillparzer              [?argoxxx.xxx]7943
+[Language: German]
+Apr 2005 Little Eyolf, by Henrik Ibsen                [#12][?eylfxxx.xxx]7942
+Apr 2005 Mrs. Day's Daughters, by Mary E. Mann             [?mrsdxxx.xxx]7941
+[Plain text in 7mrsd10.txt/.zip; 8-bit version in 8mrsd10.txt/.zip]
+
+Apr 2005 The Native Born, by I. A. R. Wylie                [nabrnxxx.xxx]7940
+Apr 2005 Die Huldigung der Kuenste, Friedrich Schiller[#41][?huldxxx.xxx]7939
+[Language: German]
+Apr 2005 Virgilia, by Felicia Buttz Clark                  [virgixxx.xxx]7938
+[Subtitle: Out of the Lion's Mouth]
+Apr 2005 Journal of an African Cruiser, by Horatio Bridge  [?jafcxxx.xxx]7937
+[Ed.: Nathaniel Hawthorne]
+Apr 2005 Peeps at Many Lands: Japan, by John Finnemore     [?japnxxx.xxx]7936
+[Also posted HTML - 8japn10h.zip and 8japn10h.htm]
+
+Apr 2005 Ballad Book, by Katherine Lee Bates (ed.)         [?ballxxx.xxx]7935
+Apr 2005 Koenig Heinrich dem vierten, II, Shakespeare [#21][?gs21xxx.xxx]7934
+[Full title: Der Zweyte Theil von Koenig Heinrich dem vierten]
+[Full author: William Shakespeare] [King Henry IV, Part II]
+[Language: German]
+Apr 2005 Koenig Heinrich dem vierten, I,   Shakespeare[#19][?gs19xxx.xxx]7933
+[Full title: Der Erste Theil von Koenig Heinrich dem vierten]
+[Full author: William Shakespeare] [King Henry, IV, Part I]
+[Language: German]
+Apr 2005 Brook Farm, by John Thomas Codman                 [brkfmxxx.xxx]7932
+Apr 2005 All-Wool Morrison, by Holman Day              [#2][llwlmxxx.xxx]7931
+
+Apr 2005 Advance of English Poetry, William Lyon Phelps[#2][dvptnxxx.xxx]7930
+[Full title: The Advance of English Poetry in the Twentieth Century]
+Apr 2005 Parisians in the Country,by Honore de Balzac[#106][parctxxx.xxx]7929
+[Contents: The Illustrious Gaudissart, and The Muse of the Department]
+Apr 2005 The Poet's Poet, by Elizabeth Atkins              [?ptptxxx.xxx]7928
+[Subtitle: Essays on the Character and Mission of the Poet as Interpreted in
+  English Verse of the Last One Hundred and Fifty Years]
+[Plain text in 7ptpt10.txt/.zip; 8-bit version in 8ptpt10.txt/.zip]
+Apr 2005 The Celibates, by Honore de Balzac          [#105][celibxxx.xxx]7927
+   Contents:
+     Pierrette
+     The Vicar of Tours
+     The Two Brothers]
+Apr 2005 Endymion, by Benjamin Disraeli                    [ndymnxxx.xxx]7926
+[Author AKA: The Earl of Beaconsfield]
+
+Apr 2005 Expositions of Holy Scripture, by A. Maclaren [#4][xpstnxxx.xxx]7925
+[Subtitle: Psalms] [Author's Full Name: Alexander Maclaren]
+
+Apr 2005 American Antiquities, J.J. Smith,   Part 22[AA#22][aa22wxxx.xxx]7922
+Apr 2005 American Antiquities, J.J. Smith,   Part 21[AA#21][aa21wxxx.xxx]7921
+
+Apr 2005 American Antiquities, J.J. Smith,   Part 20[AA#20][aa20wxxx.xxx]7920
+Apr 2005 American Antiquities, J.J. Smith,   Part 19[AA#19][aa19wxxx.xxx]7919
+Apr 2005 American Antiquities, J.J. Smith,   Part 18[AA#18][aa18wxxx.xxx]7918
+Apr 2005 American Antiquities, J.J. Smith,   Part 17[AA#17][aa17wxxx.xxx]7917
+Apr 2005 American Antiquities, J.J. Smith,   Part 16[AA#16][aa16wxxx.xxx]7916
+
+Apr 2005 American Antiquities, J.J. Smith,   Part 15[AA#15][aa15wxxx.xxx]7915
+Apr 2005 American Antiquities, J.J. Smith,   Part 14[AA#14][aa14wxxx.xxx]7914
+Apr 2005 American Antiquities, J.J. Smith,   Part 13[AA#13][aa13wxxx.xxx]7913
+Apr 2005 American Antiquities, J.J. Smith,   Part 12[AA#12][aa12wxxx.xxx]7912
+Apr 2005 American Antiquities, J.J. Smith,   Part 11[AA#11][aa11wxxx.xxx]7911
+[Illustrated HTML, zipped only - aa??w10h.zip]
+[Full Title: American Historical Antiquities]
+[Subtitle: Consisting of Fac-similies of Original Documents, etc, etc]
+[Full Author: John Jay Smith]
+
+
+Apr 2005 Principal Navigations, V5, by Richard Hakluyt [#8][?hk05xxx.xxx]7900
+[Full title: The Principal Navigations, Voyages, Traffiques, and
+  Discoveries of The English Nation, v5] [Language: English and Latin]
+Apr 2005 The Radio Boys' First Wireless, by Allen Chapman  [?rboyxxx.xxx]7899
+[Subtitle: Or Winning the Ferberton Prize]
+Apr 2005 Mouser Cats' Story, by Amy Prentice               [mousrxxx.xxx]7898
+[Also posted: illustrated HTML, zipped only- mousr10h.zip]
+Apr 2005 The Gray Goose's Story, by Amy Prentice           [grgosxxx.xxx]7897
+[Also posted: illustrated HTML, zipped only - grgos10h.zip]
+Apr 2005 Eight Strokes of the Clock, by Maurice Le Blanc   [?stclxxx.xxx]7896
+[Also posted HTML - 8stcl10h.zip and 8stcl10h.htm]
+
+Apr 2005 A Terrible Temptation, by Charles Reade      [#12][terrbxxx.xxx]7895
+Apr 2005 The Fallen Leaves, by Wilkie Collins         [#34][leavexxx.xxx]7894
+Apr 2005 Hide and Seek, by Wilkie Collins             [#33][chidexxx.xxx]7893
+Apr 2005 Heart and Science, by Wilkie Collins         [#32][heartxxx.xxx]7892
+Apr 2005 The Dead Alive, by Wilkie Collins            [#31][cdeadxxx.xxx]7891
+
+Apr 2005 Blind Love, by Wilkie Collins                [#30][blindxxx.xxx]7890
+[Completed by Walter Besant]
+Apr 2005 Erotica Romana, by Johann Wolfgang Goethe    [#38][?erotxxx.xxx]7889
+[Language: German] (See also #7875)
+Apr 2005 Wie Wiselis Weg gefunden, by Johanna Spyri    [#3][?wwwgxxx.xxx]7888
+[Full title: Wie Wiselis Weg gefunden wird Erzahlung] [Language: German]
+Apr 2005 Fortitude, by Hugh Walpole                        [?frttxxx.xxx]7887
+[7-bit version with non-accented characters in 7frtt10.txt and 7frtt10.zip]
+[8-bit version with accented characters in 8frtt10.txt and 8frtt10.zip]
+Apr 2005 Steam Steel and Electricity, by James W. Steele   [?ststxxx.xxx]7886
+[Also posted in HTML, zipped only - 8stst10h.zip]
+
+Apr 2005 Celtic Fairy Tales, by Joseph Jacobs (coll. & ed  [?celtxxx.xxx]7885
+Apr 2005 In the Fog, by Richard Harding Davis              [infogxxx.xxx]7884
+[Also posted in illustrated HTML, zipped only - infog10h.zip]
+Apr 2005 Expositions of Holy Scripture, Alex. Maclaren [#3][exp2kxxx.xxx]7883
+[Subtitle: Second Kings Chapters VIII to End and Chronicles, Ezra, and
+  Nehemiah. Esther, Job, Proverbs, and Ecclesiastes]
+[Full author: Alexander Maclaren]
+Apr 2005 The Life of Kit Carson, by Edward S. Ellis        [lfktcxxx.xxx]7882
+[Subtitle: Hunter, Trapper, Guide, Indian Agent and Colonel U.S.A.]
+[Plain text in lfktc10.txt/.zip; non-accented HTML in lfktc10h.htm/.zip]
+
+Apr 2005 French and Italian Notebooks, by N. Hawthorne[#22][frit3xxx.xxx]7881
+[Full title: Passages From the French and Italian Notebooks]
+[Full author: Nathaniel Hawthorne][Includes #7879 and #7880]
+Apr 2005 French/Italian Notebooks, V2, Nath. Hawthorne[#21][frit2xxx.xxx]7880
+Apr 2005 French/Italian Notebooks, V1, Nath. Hawthorne[#20][frit1xxx.xxx]7879
+
+Apr 2005 English Notebooks, Complete, Nath. Hawthorne [#19][engn3xxx.xxx]7878
+[Full title: Passages From the English Notebooks]
+[Full author: Nathaniel Hawthorne][Includes #7876 and #7877]
+Apr 2005 English Notebooks, V2, by Nathaniel Hawthorne[#18][engn2xxx.xxx]7877
+Apr 2005 English Notebooks, V1, by Nathaniel Hawthorne[#17][engn1xxx.xxx]7876
+
+Apr 2005 Roemische Elegien, Johann Wolfgang von Goethe[#37][?elegxxx.xxx]7875
+[Language: German]
+Apr 2005 Audio: Lord Jim, by Joseph Conrad                 [lrdjmxxx.xxx]7874C
+[45 MP3 files in lrdjm???.mp3, lrdjm000.mp3 thru lrdjm045.mp3]
+[A compressed version is also available as lrdjm3.zip] (See Also:  #5658)
+Apr 2005 Audio: The Insidious Dr. Fu Manchu, by Sax Rohmer [fumanxxx.xxx]7873C
+[MP3 files in lrdjm???.mp3] (See Also: #173)
+[A compressed version is also available as fuman3.zip]
+Apr 2005 Audio: The Dubliners, by James Joyce              [dblnrxxx.xxx]7872C
+[MP3 files in dblnr???.mp3] (See Also:  #2814)
+[A compressed version is also available as dblnr3.zip]
+Apr 2005 Dutch Fairy Tales for Young Folks,by W. E. Griffis[?dfryxxx.xxx]7871
+[Full author: William Elliot Griffis]
+[Also posted in illustrated HTML, zipped only - 8dfry10h.zip]
+
+
+=-=-=-=[ 4 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jun 2003 The Treasure Of The Lake, by H Rider Haggard      [030088xx.xxx]0237A
+[http://gutenberg.net.au/ebooks03/0300881.txt or ZIP]
+Jun 2003 Twelve Stories, by Steen Steensen Blicher         [030087xx.xxx]0236A
+[http://gutenberg.net.au/ebooks03/0300871.txt or ZIP]
+[Translated from the Danish by Hanna Astrup Larsen]
+Jun 2003 Fruits of the Earth, by Frederick Philip Grove    [030086xx.xxx]0235A
+[http://gutenberg.net.au/ebooks03/0300861.txt or ZIP]
+May 2003 Elmer Gantry, by Sinclair Lewis                   [030085xx.xxx]0234A
+[http://gutenberg.net.au/ebooks03/0300851.txt or ZIP]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+the booklists. Mike Eschman for the RG updates, Mark, Greg, Michael, and
+Larry Wall. Entertainment for the workers provided by Andrew
+Collins. Chocolate chip cookies courtesy Mrs Beeton and thoroughly recommended.

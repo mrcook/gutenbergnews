@@ -1,0 +1,327 @@
+========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: "Michael S. Hart" <hart@prairienet.org>
+To: "Project Gutenberg Weekly Newsletter" <gweekly@listserv.unc.edu>
+Date: Wed, 13 Jun 2001 11:33:43 -0500 (CDT)
+
+
+The Project Gutenberg *Weekly* Newsletter for Wednesday, June 13, 2001
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+If you have sent in Etexts to be posted, but are not sure they have been,
+or have sent in copyright research, please let me know [hart@pobox.com].
+
+If our catalog on gutenberg.net [promo.net/pg] misses them, please let Alev,
+our Chief Cataloguer know Alev Akman <alevwho@mediaone.net>.  She is sure
+she is up to date with all the entries she has, but some may not have been
+received in her email, or could have been lost in various crashes.
+
+
+When we send out the Project Gutenberg Newsletters, we
+have already posted all the files listed in that index
+listing we include in the Newsletters [excepting those
+marked as "reserved," of course.
+
+While our human cataloguers and indexers of course can
+not had time to add them to their files yet, computers
+will already have them listed. . .and thus you will be
+able to download them, literally only one second after
+we have started to post them, even before our own post
+of them has been completely uploaded. . . !
+
+For "instant" access to our new Etexts you can surf to:
+http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+or
+ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext03
+
+Or 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91, 90.
+
+
+You will need the first five letters of the filenames listed below.
+
+
+We have a total of 20 new files to download this week:
+[This would yield a total of 1040 new files per year.]
+
+
+
+
+
+
+
+If you sent in a file you don't see here, or sent in a revision, or xeroxes
+for our copyright research, and haven't heard from me let me know.  Most of
+these should only take a few days.
+
+***
+
+
+"Life is an open-book test,
+and there is no time limit,
+so let's supply more books."
+
+There is no end to the great things we can accomplish
+if we don't worry about who gets the credit.  - Anon.
+
+"Only wimps use backup: _real_ men just upload their important stuff
+on FTP, and let the rest of the world mirror it ;)" - Linus Torvalds
+
+"Life is no brief candle to me.  It is a sort of splendid
+torch which I have got hold of for the moment, and I want
+to make it burn as brightly as possible before handing it
+on to future generations."            George Bernard Shaw
+
+"Everything should be made as simple as possible, but not simpler."
+(Albert Einstein)
+
+***
+
+Here are the 17 new Etexts and 4 improved Dumas Musketeers Etexts
+[17 Etexts per week would yield 884 per year]
+
+Jan 2003 John Bull's Other Island by George Bernard Shaw#18[jbullxxx.xxx]3612
+Jan 2003 Second Shetland Truck System Report, Angus Johnson[truckxxx.xxx]3611
+[Truck is a term similar to barter, I would also index under barter]
+Jan 2003 The Daisy Chain, or Aspirations by Charlotte Yonge[tdcoaxxx.xxx]3610
+Jan 2003 To-morrow? by Victoria Cross [Also:  Tomorrow?]   [tmrrwxxx.xxx]3609
+Jan 2003 Ragged Trousered Philanthropists by Rob't Tressell[rggdpxxx.xxx]3608
+[Full Listing: The Ragged Trousered Philanthropists, by Robert Tressell]
+Jan 2003 Ismailia, by Samuel W. Baker[Samuel White Baker#5][ismlaxxx.xxx]3607
+Jan 2003 Antonina, by Wilkie Collins   [Wilkie Collins #24][ntnnaxxx.xxx]3606
+05
+Jan 2003 On The Firing Line, by A. C. Ray and H. B. Fuller [frnglxxx.xxx]3605
+[Authors' Full Names:  Anna Chapin Ray and Hamilton Brock Fuller]
+Jan 2003 Jailed for Freedom, by Doris Stevens              [j4frexxx.xxx]3604
+Jan 2003 Quotations From Guy de Maupassant, by David Widger[dwqgmxxx.xxx]3603
+
+
+!!!!!!!Please note the above files are in our new /etext03 directory!!!!!!!
+
+
+****Please note that the entire 2002 catalogue is now filled or reserved***
+
+Dec 2002 The Essays of Montaigne, V15, 1877, Cotton [MN#15][mn15vxxx.xxx]3595
+Dec 2002 The Essays of Montaigne, V14, 1877, Cotton [MN#14][mn14vxxx.xxx]3594
+Dec 2002 The Essays of Montaigne, V13, 1877, Cotton [MN#13][mn13vxxx.xxx]3593
+Dec 2002 The Essays of Montaigne, V12, 1877, Cotton [MN#12][mn12vxxx.xxx]3592
+Dec 2002 The Essays of Montaigne, V11, 1877, Cotton [MN#11][mn11vxxx.xxx]3591
+
+Sep 2002 1001 Nights[Arabian Nights], V4, by Richard Burton[41001xxx.xxx]3438
+[These are in 7 and 8 bit unaccented and accented versions]
+[Filenames are x1001xx7.txt and .zip and x1001xx8.txt and .zip]
+[X will be 1,2,3,4,5,6,7,8,9,a,b,c,d,e,f and g]
+[Full Title:  The Book of The Thousand Nights And A Night, Volumes 1 - 16]
+[Also listed under:
+The Arabian Nights
+A Thousand and One Nights. . .and. . .A Thousand and One Arabian Nights]
+
+Jan 2002 Project Gutenberg Dumas Commentary, by John Bursey[vbcomxxx.xxx]3010
+[The following are now available in significantly improved 11th editions as
+both xxxxx11.txt or xxxxx11.zip and xxxxx11h.htm or xxxxx11h.zip Etexts]
+Aug 2001 The Man in the Iron Mask[The Novel]Dumas, Pere #28[nmaskxxx.xxx]2759
+[This is the novel entitled The Man in the Iron Mask.   The essay is #2751]
+Jul 2001 Louise de la Valliere, by Alexandre Dumas, Pere #9[luisexxx.xxx]2710
+Jun 2001 Ten Years Later, by Alexandre Dumas[Dumas Pere #8][tenyrxxx.xxx]2681
+Apr 2001 The Vicomte de Bragelonne by Alexandre Dumas, Pere[vicomxxx.xxx]2609
+[We are releasing these as BOTH xxxxx10.txt AND xxxxx10h.htm and in zip files]
+Please see the introduction which describes the various books of this title,
+and how the various editions were published, and how they have been named,
+and what in what order to read them.
+Also see:
+Mar 1998 Ten Years Later, by Alexandre Dumas[Dumas Pere #3][2muskxxx.xxx]1258
+
+and
+
+We discovered a duplication in filenames we thought we had fixed long ago:
+Apr 1997 Life in the Iron-Mills by Rebecca Harding Davis #2[ironmxxx.xxx] 876
+These ironm10.txt and ironm10.zip files are now liron10.txt and liron10.zip]
+Apr 1997 Life in the Iron-Mills by Rebecca Harding Davis #2[lironxxx.xxx] 876
+The novel The Man In The Iron Mask by Dumas stays ironm10.txt & ironm10.zip]
+[It was easier this way because this file has four times as many versions]
+For the moment I am leaving BOTH ironm10.* files AND the liron10.* files,
+until enough time has passed for the indexes and catalogs to be updated]
+
+
+***
+
+COLOMBIA'S '.CO' SET TO CHALLENGE '.COM'
+Colombia's La Universidad de Los Andes, which has managed the country's
+".co" country code since 1991, is inviting bids from companies that would
+market the name internationally as a convenient substitute for ".com." The
+proceeds would be used for scholarships and investments. "This thing has
+the potential to be much larger than '.biz,'" says the president of
+DomainRegistry.com. "It really means that everybody that has a '.com' name
+has to lock up a '.co' name. It really is kind of holding a gun to the head
+of registrants." The ".co" name has already made its debut in cyberspace as
+part of ".co.uk," a domain name launched in the UK as an alternative to
+".com." Unlike Tuvalu and Cocos Islands, which sold the rights to their
+".tv" and ".cc" suffixes, the university is not selling the name, just
+opening it up to other users. (Reuters 11 Jun 2001)
+http://news.excite.com/news/r/010611/13/net-tech-internet-colombia-dc
+
+INTERNET BY THE NUMBERS
+Here's a snapshot of current Internet activity. According to recent studies
+by Media Metrix, Yahoo and MSN are each getting 12 million or more unique
+daily visitors, in comparison to Passport (6.2 million), Hotmail (6.1
+million), AOL (5.0 million), Netscape (3.2 million), eBay (2.8 million),
+iwon (2.7 million), Microsoft.com (2.7 million), and Excite (2.6 million).
+Sites in the portal, services, and entertainment categories get the most
+visitors, with 58.9, 50.0, and 40.0 million unique daily visitors
+respectively, followed by retail sites with 36.3 million and "corporate
+presence" sites with 34.2 million. (Business 2.0 26 Jun 2001)
+http://www.business2.com
+
+[and who warned about "Information Overload" first?
+Perhaps it was this:]
+"There comes a time when for every addition of knowledge you forget something
+that you knew before. It is of the highest importance, therefore, not to have
+useless facts elbowing out the useful ones." (Arthur Conan Doyle)
+
+
+WINDOWS XP FEATURE CAN RE-EDIT OTHERS' SITES
+Microsoft has added another controversial feature to its new
+Windows XP product. The "Smart Tags" utility in Internet Explorer
+adds hyperlinks to Web pages. The links take users to sites owned
+or endorsed by Microsoft. Although the beta XP version in which
+the utility was found may be changed before XP's release this
+fall, observers say the existence of such a utility is disturbing.
+Microsoft officials say the Smart Tags are meant to help users
+find information on "under-linked" sites, and note that the tags
+would be set to "off" in default mode. The company also says the
+new Internet Explorer would work with other Smart Tag programs
+developed by other vendors, although those of other vendors
+would not be built into the system in the same way Microsoft's
+product is.   (Wall Street Journal, 7 June 2001)
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+MICROSOFT "HIGHLY UNLIKELY" TO BECOME NETWORK CARRIER
+Microsoft's new version of Windows XP, to be released this fall, will
+include high-quality phone and directory features. The new system will
+offer such features as the ability to follow a person anywhere the person
+can be reached (desktop to home to cell phone, etc.), and will create the
+possibility of important new revenue streams for Microsoft for subscription
+services such as Caller ID and voice mail. Former Bell Labs researcher
+David Isenberg predicts that "Microsoft is going to suck the value out of
+telecommunications companies," but Microsoft senior vice president Craig
+Mundie demurs: "I think it's highly unlikely that we will become a network
+carrier. To the extent that we can add a cool capability, maybe it's
+possible that we can make it a subscription service." Investment manager
+Andrew J. Kessler sums up the situation this way: "The phone companies
+should be increasingly worried." (New York Times 12 Jun 2001)
+http://www.nytimes.com/2001/06/12/technology/12SOFT.html
+
+
+NETSCAPE CEDES BROWSER WAR, WANTS TO BE A HUB
+"The browser is the crown jewel," says Netscape president Jim Bankoff.
+"However, six months from now you won't consider Netscape to be a browser
+company." Instead, the new strategy calls for Netscape to function as a hub
+for Time Warner media properties, including Fortune and Time magazines and
+24-hour cable news network CNN. So far, about 18 Time Warner publication
+and programming sites have been embedded in the toolbar that runs along the
+top of the Netscape media site. Netscape is also broadening its reach
+beyond the PC and has also recently struck deals for its browser to be used
+in Sony's PlayStation2 and in Gateway's Touchpad. (Reuters 6 Jun 2001)
+http://news.excite.com/news/r/010606/01/net-tech-netscape-dc
+
+NETZERO, JUNO TO MERGE
+NetZero and Juno Online Services, the two biggest providers of free
+Internet access, will merge in an all-stock $71-million deal that is
+expected to create the nation's second-largest Internet connection company.
+The merged entity, called United Online, will have 7 million subscribers,
+making it second behind AOL, which has about 30 million subscribers.
+EarthLink claims 4.8 million users. Under the terms of the deal, NetZero
+will own 61.5% of the new company with Juno owning the rest.
+(Financial Times 8 Jun 2001)
+http://news.ft.com/news/industries/media
+
+NEW CORPORATE SOFTWARE SEARCHES EVERYWHERE -- EVEN PERSONAL HARD DRIVES
+New productivity software from AltaVista will allow companies to collect
+data from anywhere in the organization: including not only corporate
+networks but also individual e-mail accounts and employee PCs. The software
+is able to search through more than 200 different computer applications and
+recognize 30 different languages. Privacy advocates are worried. Attorney
+Gregg Williams says: "This could open a real Pandora's Box. There are some
+private things on office computers that you really don't want to know
+about." And Richard Smith of the Privacy Foundation says the software is
+"really dangerous" and warns that it "would hurt both companies and their
+employees by damaging morale." But Dana Gardner of the Aberdeen Group has
+little use for such concerns: "For every person that gets a little
+embarrassed because some personal information gets passed around the
+office, there are going to be more people who are able to find important
+information that helps them close a sale with an important customer or
+build a better mousetrap." (AP/Washington Post 12 Jun 2001)
+http://washingtonpost.com/wp-dyn/business/latestap/A54075-2001Jun12.html
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+
+***
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3).
+
+As of June 1, 2001 contributions are only being solicited from people in:
+Arkansas, Colorado, Connecticut, Delaware, Hawaii, Idaho, Indiana, Iowa,
+Kansas, Louisiana, Maine, Massachusetts, Missouri, Montana, Nebraska, New
+Jersey, New York, Ohio, Oklahoma, Oregon, South Carolina, South Dakota,
+Texas, Vermont, Washington West Virginia and Wyoming.
+
+As the requirements for other states are met,
+additions to this list will be made and fund
+raising will begin in the additional states.
+
+Donations from other countries are welcome,
+but we are not registered in any other countries
+and we know NOTHING about their tax deductions.
+
+These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+
+
+
+
+

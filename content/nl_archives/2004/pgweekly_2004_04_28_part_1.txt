@@ -1,0 +1,824 @@
+The Project Gutenberg Weekly Newsletter For Wednesday, April 28, 2004  PT1
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+
+This Newsletter is being completed and sent from our backup locations
+as beryl.ils.unc.edu is down.  Thus the numbers are probably a little
+lower than they should be, as the listings of the new eBooks are sent
+through a beryl listserver.  Before beryl went down, we were up to a
+weekly total of 84 new eBooks, so I am going with 85, as below, and I
+will do my best to make sure we properly reconcile next week's number
+with this.  Apologies for any confusion this causes.  The rest of the
+Newsletter should be up to date, as I retrieved Newsscan and Edupage
+articles from our backup email sites.
+
+
+*Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org*
+*Anyone who would care to get advance editions:  please email hart@pobox.com*
+
+
+
+                           eBook Milestones
+
+
+    Last Year We Had Done Exactly 1,000 eBooks By The 3rd Week In April
+
+   *This Year We Have Done 1,579, Just About Exactly Moore's Law Growth*
+                     [More On Moore's Law Below]
+
+
+             We Are ~1/4 of the Way from 10,000 to 20,000
+
+
+                     12486 eBooks As Of Today!!!
+
+
+                        7514 to go to 20,000
+
+
+
+It took 32 years from 1971 to 2003 to do our 1st 10,000
+
+It took ~3 1/4 years from 2001 to 2004 for our last 10,000
+
+[From 2,486 to 12,486 = January, 2001 to April, 2004]
+
+
+***
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET a new Newsletter editor who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+  This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 16/52 Year History, We Have Now Averaged About 386 Ebooks/Yr
+And This Year Averaged Over That Same New eBook Level. . .PER MONTH!!!!!
+
+
+        We Are Averaging About 421 eBooks Per Month This Year!!!
+
+                             99 per week!!!
+
+
+***  HOT Requests!!!
+
+We may need a volunteer who is travelling to the US from
+the UK or South Africa to bring a radio that might help
+in the development of a world wireless eBook network.
+
+
+***
+
+We're working up a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+an *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+  http://ibiblio.org/gutenberg/images
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- New Site (above)
+- Hot Requests (above)
+- Requests For Assistance
+- Progress Report
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+   Updates/corrections in separate section
+     1 New From PG Australia [Australian, Canadian Copyright Etc.]
+    84 New Public Domain eBooks Under US Copyright
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby <gbnewby AT pglaf.org> ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+*** Progress Report
+
+    In the first 3.75 months of this year, we produced 1579 new eBooks.
+
+ It took us from July 1971 to Jan 1999 to produce our first 1,579 eBooks!
+
+                That's 16 WEEKS as Compared to ~28 Years!
+
+                   85   New eBooks This Week
+                   75   New eBooks Last Week
+                  164   New eBooks This Month [April]
+
+                  421   Average Per Month in 2004
+                  355   Average Per Month in 2003
+                  203   Average Per Month in 2002
+                  103   Average Per Month in 2001
+
+                 1579   New eBooks in 2004
+                 4164   New eBooks in 2003
+                 2441   New eBooks in 2002
+                 1240   New eBooks in 2001
+                 ====
+                 9424   New eBooks Since Start Of 2001
+                             That's Only 39.75 Months!
+
+               12,486  Total Project Gutenberg eBooks
+                7,743   eBooks This Week Last Year
+                 ====
+                4,743   New eBooks In Last 12 Months
+
+                  350   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+I think the figures below are slightly high,
+since we did EXACTLY 1,000 eBooks by the 3rd
+week in April last year, and this year 1579.
+This is just about exactly 100% Moore's Law.
+
+
+Moore's Law 12 month percentage = 104%
+
+Moore's Law 18 month percentage = 101%
+
+[100% of Moore's Law = doubling every 18 months]
+
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+
+***
+
+
+                           FLASHBACK!!!
+
+                  1579 New eBooks So Far in 2004
+
+              It took us ~28 years for the first 1579 !
+
+      That's the 3.5 MONTHS of 2004 as Compared to ~27 YEARS!!!
+
+     Here Is A Sample Of What Books Were Being Done Around #1579
+
+Jan 1999 Symposium, by Plato, B. Jowett, Trans.  [Plato #9][sympoxxx.xxx] 1600
+Jan 1999 Cinderella; or, The Little Glass Slipper, et. al. [cndrlxxx.xxx] 1599
+Jan 1999 Euthydemus, by Plato, B. Jowett, Trans. [Plato #8][uthydxxx.xxx] 1598
+Jan 1999 [Hans Christian] Andersen's Fairy Tales  [HCA #1+][hcaftxxx.xxx] 1597
+
+Jan 1999 Smoke Bellew, by Jack London     [Jack London #50][smkblxxx.xxx] 1596
+Jan 1999 Whirligigs, by O Henry                [O Henry #3][whrlgxxx.xxx] 1595
+Jan 1999 Essays in Little, by Andrew Lang [Andrew Lang #11][eslttxxx.xxx] 1594
+Jan 1999 How to Tell the Birds from the Flowers, by Woods  [httbfxxx.z-p] 1593
+
+Jan 1999 Study of the King James Bible, Cleland Boyd McAfee[sokjvxxx.xxx] 1592
+Jan 1999 Protagoras, by Plato, B. Jowett, Trans. [Plato #7][prtgsxxx.xxx] 1591
+Jan 1999 The Amazing Interlude by Mary Roberts Rinehart[#5][mzgntxxx.xxx] 1590
+Jan 1999 Tamburlaine the Great PT 2, by Christopher Marlowe[tmbn2xxx.xxx] 1589
+
+Jan 1999 A Rogue's Life, by Wilkie Collins  [W. Collins #9][rgslfxxx.xxx] 1588
+Jan 1999 The Black Robe, by Wilkie Collins  [W. Collins #8][blkrbxxx.xxx] 1587
+Jan 1999 Man and Wife, by Wilkie Collins    [W. Collins #7][mandwxxx.xxx] 1586
+Jan 1999 The Wrong Box, by Stevenson & Osbourne    [RLS#40][wrngbxxx.xxx] 1585
+
+Dec 1998 Laches, by Plato, B. Jowett, Tr.        [Plato #6][lachsxxx.xxx] 1584
+Dec 1998 Options, by O Henry                   [O Henry #2][optnsxxx.xxx] 1583
+Dec 1998 Holy Bible, Douay-Rheims Version, New Testament   [3drvbxxx.xxx] 1582
+Dec 1998 Holy Bible, Douay-Rheims Version, Both Testaments [0drvbxxx.xxx] 1581
+
+Dec 1998 Charmides, by Plato, B. Jowett, Tr.            #5 [chmdsxxx.xxx] 1580
+Dec 1998 Lysis, by Plato,  Benjamin Jowett,  Tr.        #4 [lysisxxx.xxx] 1579
+Dec 1998 Aucassin and Nicolete, Tr. by Andrew Lang[Lang#10][aucncxxx.xxx] 1578
+Dec 1998 The Grey Room, by Eden Phillpotts                 [gryrmxxx.xxx] 1577
+
+Dec 1998 The Life of Phineas T. Barnum, by Joel Benton     [ptbnmxxx.xxx] 1576
+Dec 1998 The Foundations of Personality, by Abraham Myerson[prstyxxx.xxx] 1575
+Dec 1998 Historic Girls, by E. S. Brooks                   [hgrlsxxx.xxx] 1574
+Dec 1998 Frank's Campaign/Farm & Camp, Horatio Alger Jr. #9[frcmpxxx.xxx] 1573
+
+Dec 1998 Timaeus, by Plato, Benjamin Jowett, Tr.        #3 [tmeusxxx.xxx] 1572
+Dec 1998 Critias, by Plato, Benjamin Jowett, Tr.        #2 [critixxx.xxx] 1571
+Dec 1998 The Power of Concentration, By Theron Q. Dumont   [prconxxx.xxx] 1570
+Dec 1998 The Lily of the Valley by Honore de Balzac[HdB#51][tlotvxxx.xxx] 1569
+
+Dec 1998 Poems, by William Ernest Henley[William Henley #2][pmwehxxx.xxx] 1568
+Dec 1998 Poems, by T. S. [Thomas Stearns] Eliot  [Eliot #3][tsepmxxx.xxx] 1567
+Dec 1998 The Evolution of Modern Medicine, by William Osler[teommxxx.xxx] 1566
+Dec 1998 Last Days of Pompeii, Edward George Bulwer-Lytton [tldopxxx.xxx] 1565
+
+Dec 1998 Life of Johnson by [James] Boswell                [ljnsnxxx.xxx] 1564
+Dec 1998 The Crystal Stopper, by Maurice LeBlanc           [cstprxxx.xxx] 1563
+Dec 1998 Little Rivers, by Henry van Dyke     [van Dyke #4][ltrvsxxx.xxx] 1562
+Dec 1998 Pagan & Christian Creeds, by Edward Carpenter     [pchrcxxx.xxx] 1561
+
+Dec 1998 The San Francisco Calamity, Charles Morris, Ed.   [sfclmxxx.xxx] 1560
+Dec 1998 A Distinguished Provincial at Paris, by Balzac #50[adpapxxx.xxx] 1559
+Dec 1998 The Profits of Religion, by Upton Sinclair        [prfrlxxx.xxx] 1558
+Dec 1998 Men of Iron, by Ernie Howard Pyle                 [femenxxx.xxx] 1557
+
+Dec 1998 The Marriage Contract, by de Honore de Balzac[#49][mrgctxxx.xxx] 1556
+Dec 1998 A Passion in the Desert, by Honore de Balzac [#48][apitdxxx.xxx] 1555
+Dec 1998 Adieu, by Honore de Balzac  [Honore de Balzac #47][adieuxxx.xxx] 1554
+Dec 1998 The Hidden Masterpiece by Honore de Balzac[HdB#46][hmstpxxx.xxx] 1553
+
+Dec 1998 Most Interesting Stories of All Nations, Hawthorne[misanxxx.xxx] 1552
+Dec 1998 A Cathedral Courtship, by Kate Douglas Wiggin [#9][cthrcxxx.xxx] 1551
+Dec 1998 A Lady of Quality, by Frances Hodgson Burnett [#8][ladyqxxx.xxx] 1550
+Dec 1998 Commentary on Galatians, Martin Luther [Luther #5][mlgltxxx.xxx] 1549
+
+***
+
+Today Is Day #112 of 2004
+This Completes Week #16 and Month #3.75
+  251 Days/37 Weeks To Go  [We get 52 Wednesdays this year]
+ 7514 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+   99   Weekly Average in 2004
+   79   Weekly Average in 2003
+   47   Weekly Average in 2002
+   24   Weekly Average in 2001
+
+   41   Only 41 Numbers Left On Our Reserved Numbers list
+         [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada will be starting up soon.
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries, as it looks as if the
+Australian copyright law is falling victim to the
+new "Economic Warfare" being waged by the World
+Intellectual Property Organization and various
+billionaire copyright holders around the world.
+
+email: James Linden <jlinden@pglaf.org>
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned). Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+    or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email donate@gutenberg.net
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://gutenberg.net/list.html  can get you to the nearest one.
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 16 weeks of this year, we have produced 1579 new eBooks.
+It took us from 1971 to 1997 to produce our FIRST 1579 eBooks!!!
+
+         That's 16 WEEKS as Compared to ~28 YEARS!!!
+
+
+With 12,486 eBooks online as of April 28, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.80 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.29 when we had 7666 eBooks A Year Ago
+
+Can you imagine ~12,500 books each costing ~$.49 less a year later???
+Or. . .would this say it better?
+Can you imagine ~12,500 books each costing 1/3 less a year later???
+
+At 12,486 eBooks in 32 Years and 9.75 Months We Averaged
+      380 Per Year   [We do more per than that month these days!]
+       31.7 Per Month
+        1.04 Per Day
+
+At 1579 eBooks Done In The 112 Days Of 2004 We Averaged
+     14 Per Day
+     99 Per Week
+    421 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+>From Newsscan:
+
+[As With Previous eBook Hardware, It Will Cost A Fortune To Download Public
+Domain eBooks, As There Appears To Be No Provision For Free eBook Entry AND
+it also appears that users will only be RENTING the $5 eBooks, as they seem
+to be only be readable for 8 weeks or so after downloading.  More later.]
+[I'm going on second and third hand information here. . .I've read all I
+could find, and it would appear these products haven't been released yet.]
+
+SONY E-BOOK GETS RAVE REVIEWS
+Sony's Librii electronic reader is as easy on the eyes as the paper version,
+says New York Times reviewer Todd Zaun. The Librii screen is a collaborative
+effort between Philips Electronics and E Ink, and the letters appear
+"as sharp and clear as those on a printed page. The screen can be
+read from almost any angle, and it does not fade in bright light,"
+says Zaun. Sony plans to begin selling the Librii in Japan next month
+for about $380, and buyers will be able to download e-books for less than
+$5 each from a Web site set up by Sony and a group of Japanese publishers.
+Sony plans to see how its Japanese market develops before it decides whether
+to expand to the U.S. and Europe. (New York Times 22 Apr 2004)
+http://www.nytimes.com/2004/04/22/technology/circuits/22read.html
+
+LINDOWS SET FOR IPO
+Lindows Inc. has filed for a so-called Dutch-auction-style initial
+public offering in an effort to raise up to $57.5 million. In a
+Dutch-auction IPO, investors bid on shares and help set the offering price.
+Lindows, which markets a version of Linux software for personal computers,
+was founded by Michael L. Robertson, the entrepreneur who also founded
+MP3.com. Lindows has locked horns with Microsoft, which has filed lawsuits
+alleging that the Lindows name violates Microsoft trademarks on the Windows
+operating system. In response, Lindows changed the name of its software to
+Linspire last week. (Wall Street Journal 21 Apr 2004)
+http://online.wsj.com/article/0,,SB108150238193388647,00.html (sub req'd)
+
+[And in a related story]
+
+AUSTRALIAN BANKS LOOK AT LINUX SWITCH
+Linux and open-source software have a big future - at Microsoft's
+expense - in at least two of Australia's four big banks. Westpac and the
+National Australia Bank are seriously considering open source, and the ANZ
+Bank has yet to show its cards. Meanwhile, the Commonwealth Bank has
+decided to stick with Microsoft products. Westpac and NAB are evaluating
+Linux on the desktop, as well as open-source alternatives for their
+back-end IT operations. That could lead to pockets of desktops running
+open-source software, perhaps in ATM or teller environments and many
+back-end systems, including internet-banking platforms running on Linux.
+(The Australian 20 Apr 2004)
+http://
+australianit.news.com.au/articles/0,7204,9329324%5E15306%5E%5Enbv%5E,00.html
+
+INDIA IMPLEMENTS E-VOTING
+For decades, millions of illiterate Indians voted by pressing their
+thumbprints on ballot cards. This year, they'll just press a button --
+and so will everyone else. India's general elections, which began Tuesday,
+are set to make the world's largest democracy also the world's largest user
+of computerized voting machines. This year, in a staggered vote that runs
+through May 10, India's 660 million registered voters will be able to
+exercise their franchise on one of approximately 1 million computerized
+voting machines in an electronic, ballot-less election. The change in India
+is having a deep impact on politics. Supporters say it's also good for the
+environment in a country trying to save its vanishing forests. More than
+8,000 tons of paper, made from approximately 16 million trees, has been used
+to print ballots for past federal elections. (The Australian 22 Apr 2004)
+http://tinyurl.com/366ly (Rec'd from John Lamp, Deakin U)
+
+[And in a related story]
+
+MD. GROUP DEMANDS PAPER BACKUP FOR E-VOTES
+A voter advocacy group in Maryland is suing that state's Board of
+Elections to prevent the use of touch-screen voting machines until a paper
+record is installed as auditable backup for the system. At present, the
+state's Diebold voting machines are not set up to produce a paper record of
+each individual vote. Linda H. Lamone, the state elections administrator,
+says that  paper records are unnecessary because the Diebold system is
+equipped to preserve votes in its memory: "It's stored in two different
+locations. If we have battery failure, it still doesn't lose votes." She
+also said: "It's going to be next to impossible for anyone to gain access to
+manipulate the election. If anyone tries it, we're going to put them in
+jail." (Washington Post 22 Apr 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A35149-2004Apr22.html
+
+[And in yet another related story]
+
+CALIFORNIA PANEL NIXES DIEBOLD VOTING MACHINES
+California's Voting Systems and Procedures Panel has recommended
+discontinuing the use of 15,000 its Diebold touch-screen voting machines,
+saying that the systems had malfunctioned in the state's March primary
+election in March and caused many voters in San Diego County to be
+turned away. (AP/USA Today 22 Apr 2004)
+http://
+www.usatoday.com/tech/news/techpolicy/2004-04-22-panel-dings-diebold_x.htm
+
+SEX.COM SAGA CONCLUDES
+The lengthy legal battle over the rightful ownership of the "sex.com"
+domain name has come to a conclusion with VeriSign's agreement to settle
+for terms that are rumored to be around $10 million. "This shows that the
+small guy can eventually beat a huge company. Hopefully, this leads to
+better care, custody and control over people's intellectual property," says
+Gary Kremen, who originally registered the name but found in 1995 that
+Network Solutions had turned the rights over to convicted forger Stephen
+Michael Cohen, who duped the Internet registrar into believing he had
+purchased it from Kremen. A federal court in 2001 ordered Cohen to pay
+Kremen $65 million, but Cohen skipped the country and is rumored to be
+living in Monte Carlo. Kremen then set his sights on VeriSign, which had
+purchased Network Solutions in 2000 and refused to admit any mistake had
+been made. The company is embroiled in nine other lawsuits over problems
+with domain-name registrations, according to the company's most recent
+annual filing with the SEC. (Los Angeles Times 21 Apr 2004)
+http://
+www.latimes.com/technology/la-fi-sex21apr21,1,5242805.story?coll=la-headl
+ines-technology
+
+FINGERPRINT TECHNOLOGY IN OHIO SCHOOLS
+The Akron, Ohio school district has begun using a $700,000 "iMeal"
+program that identifies students in school lunch lines using their
+fingerprints. Students whose parents don't want them fingerprinted can
+instead be issued a PIN number to participate in the school lunch program.
+The coordinator of Akron's Child Nutrition Services says, "It's a parental
+and student choice what to do. We don't encourage or discourage either
+option." Whether students use fingerprints or PIN numbers, they'll be able
+to pay as they go through the lunch line or draw from a prepaid account.
+(AP/San Jose Mercury 27 Apr 2004) News
+http://www.siliconvalley.com/mld/siliconvalley/8531202.htm
+
+WANT ATTENTION? DRIVE THROUGH MANALAPAN, FLORIDA
+Manalapan, Florida, where two out of every three homes are worth more
+than $500,000, will soon be running background checks on every car and
+driver that passes through town. Cameras will take infrared photos recording
+a car's tag number, and computer software will automatically run the numbers
+through law enforcement databases; police will also have a picture of the
+driver, taken with another set of cameras. A Manalapan police official says,
+"Courts have ruled that in a public area, you have no expectation of
+privacy." In any event, the official makes a point of saying that the data
+collected this way will be destroyed every three months.
+(AP/USA Today 27 Apr 2004)
+http://www.usatoday.com/tech/news/2004-04-27-rich-people-shun-privacy_x.htm
+
+COMCAST WALKS AWAY FROM THE TABLE
+Withdrawing his company's unsolicited bid to take over the Walt Disney
+Company, Comcast president and CEO Brian L. Roberts explains: "We have always
+been disciplined in our approach to acquisitions. Being disciplined means
+knowing when it is time to walk away. That time is now. It has become clear
+that there is no interest on the part of Disney's management and Board in
+putting Comcast and Disney together. As a result, we have withdrawn our offer."
+(Washington Post 28 Apr 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A48755-2004Apr28.html
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+>From Edupage
+
+MICROSOFT EXTENDS CONCESSIONS
+In a surprise announcement, Microsoft said it will allow competing
+software companies to license its technology beyond the term required
+by Microsoft's antitrust settlement with the government. One of the
+major requirements of the settlement was that Microsoft allow
+competitors access to its technology so that those other firms could
+develop software that would work properly with the Windows operating
+system, thereby spurring competition in the software market. Only 14
+companies, however, have bought licenses to use Microsoft technology in
+developing their own applications. Responding to comments from the
+judge in the case that the settlement has not shown the results
+anticipated, Microsoft said it will continue the licensing program
+until November 2009, two years longer than the settlement requires.
+Microsoft also said it will allow access to some portions of its
+next-generation operating system, known as Longhorn.
+Washington Post, 21 April 2004 (registration req'd)
+http://www.washingtonpost.com/wp-dyn/articles/A30713-2004Apr21.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+
+COLLEGE TUITION OUTSTRIPPING INFLATION 10 TIMES OVER
+
+As per a radio news program this morning, one of our regional colleges
+is raising tuition today by 16% for incoming students, and 7.5% for
+continuing students.
+
+At 16%, this is 10 times the U.S. Inflation rate of 1.6% (2002)
+Source: 2003 CIA World Factbook
+
+
+It will only take 5 more 16% tuition hikes to double tuition.
+
+We've already had several such tuition hikes reported.
+
+
+***
+
+
+CHINESE PUSHING FOR WIRELESS COMMUNICATIONS GRID
+
+The Chinese government has decided to postpone indefinitely a plan
+that would have imposed its own standard for wireless technology.
+[This allows for the export of U.S. wireless technologies.]
+
+Evans said of the Chinese decision: "It is certainly a landmark day --
+a fruitful day in the relationship between the United States and China.
+Our exports to China are growing faster than exports to any other country
+in the world."
+
+The headlines were misleading in the original:
+
+CHINA POSTPONES WIRELESS PLAN  (New York Times  22 Apr 2004)
+http://www.nytimes.com/2004/04/22/business/worldbusiness/22trade.html
+
+***
+
+WIPO Proposes Further Intellectual Property Extensions
+
+A group of Oxford graduate students in law (including UPD volunteer
+Tina Piper) have written an excellent academic analysis of the
+Broadcast Treaty and the effect it will have on access to the public
+domain. You can find it on the UPD site at:
+http://www.public-domain.org/node/view/25
+
+
+Union for the Public Domain
+
+Oxford report analyses the Broadcast Treaty
+Submitted by updadmin on Monday, April 19, 2004 - 11:37 Broadcasting
+
+[This story is being continually updated]
+
+***
+
+[I'm still working on more information for you on this subject]
+[Yes, there is more this week]
+
+I've been researching and reporting on "Stereolithography" or 3-D
+printing for about 10 years, and still have very little in the way
+of press coverage of a pretty exciting computer application. . .
+"printing" actual 3-D objects from your computer.
+
+[Here'e The Latest On The 3-D Computer Age, And, Again, Note They
+Don't Mention How These 3-D Parts Actually Get Into The Real World]
+
+3D SEARCHING
+Researchers have developed new search engines that can mine catalogs of
+three-dimensional objects such as airplane parts or architectural features.
+For example, Purdue University professor Karthik Ramani created a system
+that can find computer-designed industrial parts, and Caterpillar Inc.
+engineer Rick Jeff says of Ramani's technology: "If you've got to design a
+new elbow for an oil line, more often than not, we have a plethora of
+elbows"; Jeff says the problem has been that each has to be examined
+separately -- a tedious task "that isn't even performed that often, because
+it isn't feasible or practical... It seems like there's ever-greater demands
+for speed in product development, and it's those kinds of breakthroughs that
+are needed to keep up. This would really just add to the efficiency."
+Professor Ramani says happily: "I think this is the beginning of the
+information age." (AP/San Jose Mercury News 16 Apr 2004)
+http://www.siliconvalley.com/mld/siliconvalley/8441476.htm
+
+[From Newsscan, details above]
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

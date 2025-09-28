@@ -1,0 +1,722 @@
+The Project Gutenberg Weekly Newsletter February 12, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 1
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News and Comment
+3) Notes and Queries, Reviews and Features
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Good day to one and all, unless you are Australian, in which case it
+might not be so good. More news this week on the Australian copyright
+change proposals, and Michael Hart visits Europe. In our A to Z we
+reach X - is there anything out there? Find out below.
+
+
+Happy reading,
+
+Alice
+
+Send feedback and suggestions to the newsletter editor at: newspglaf.org
+
+Founding editor: Michael Hart hartpobox.com
+Newsletter editor: Alice Wood newspglaf.org
+Project Gutenberg CEO: Greg Newby gbnewbypglaf.org
+
+Project Gutenberg website: http://gutenberg.net
+Project Gutenberg Newsletter website: http://gutenberg.net/newsletter
+Radio Gutenberg: http://gutenberg.net/audio
+Hosted by iBiblio, The Public's Library at http://ibiblio.org
+Distributed Proofreaders: http://www.pgdp.net
+
+Newsletter and mailing list subscriptions:http://gutenberg.net/subs.shtml
+
+
+
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+      If you have a book you would like to confirm is in the public domain in
+      the US, and therefore suitable for Project Gutenberg, please do the
+      following:
+
+      1. Check whether we have the eBook already.  Look in
+              http://gutenberg.net/GUTINDEX.ALL
+      which is updated weekly.  (The searchable catalog at
+      http://www.gutenberg.net  lags behind by several months)
+
+      2. Check the "in progress" list to see whether someone is already
+      working on the eBook.  Sometimes, books are listed as in progress for
+      years - if so, email David Price (his address is on the list) to ask
+      for contact information for the person working on the book.  The "in
+      progress" list:
+              http://www.dprice48.freeserve.co.uk/GutIP.html
+
+      3. If the book seems to be a good candidate (pre-1923 publication
+      date, or 1923-1988 published in the US without a copyright notice),
+      submit scans of the title page and verso page (even if the verso is
+      blank) to:
+              http://beryl.ils.unc.edu/copy.html
+
+      You'll hear back within a few days.
+
+
+
+2) News and Comment
+
+Copyright proposals will affect Project Gutenberg of Australia
+
+Following our report in November about the free trade talks between
+Australia and the USA an agreement between the two countries has been
+reached this week. You can find the full details here:
+
+http://www.dfat.gov.au/trade/negotiations/us.html
+
+Part 8 will affect PGOz, and this states that amongst other items
+there will be " An increased term of protection for copyright
+material", this will bring the Australian copyright terms into line
+with the USA ones and effectively wipe 90% of etexts from PGOz.
+
+The Australian press today picked up on this issue with The Age
+printing this story:
+
+http://www.theage.com.au/articles/2004/02/10/1076388365432.html
+
+Several Project Gutenberg volunteers are planning a writing campaign
+to representatives within the Australian parliament. If you would like
+to know more about their efforts you can find information on the
+newsletter website www.gutenberg.net/newsletter
+Michael Hart visits Europe
+
+Before you ask he's not here to sightsee. Michael has a fairly
+comprehensive program whilst in Europe to talk about Project Gutenberg
+and issues such as copyright and etext production.
+
+Michael's European tour started today (Wednesday). This morning
+Michael accompanied Nicholas Pettauix to a radio interview (available
+here in French: http://media.rtbf.be/radio/alademande/face/MA_face.mp3
+). Whilst Michael was not able to speak himself to the journalist
+presenting the program, it appears that Michael and Nicholas have been
+successful in persuading the editor of Editions Luc Pere
+(http://www.lucpire.be) both to contribute to and use Project
+Gutenberg. Hopefully, another 1200+ titles will be available through
+this cooperative effort. Michael will be visiting UNESCO Paris
+tomorrow and representatives of the French Parliament on Friday.
+
+
+Other news this week
+
+Statistical roundup
+
+ 11318 Total 02/11/04 Week #5 (36/323)
+    99 New This Week
+    86 New Last Week
+ 82.20 Weekly Average
+    99 New This Month
+   411 New This Year
+ 11.42 Average per day this year
+  3571 Projected Total for this year
+    50 New this week last year (02/05/03)
+   249 New this month last year (Feb)
+   287 New this year last year (2003)
+$ 0.88 Trillion dollar cost/book
+$ 1.42 Trillion dollar cost/book last year
+  7030 Etexts This Week Last Year
+     5 Production Weeks this Year 47 to go.
+    36 Production Days this Year 323 to go.
+     2 Production Months this Year
+  2282 eBooks in last 6 months (08/13/03 - 02/11/04) 26 weeks (32 - 5)
+ 12.61 Daily Average for the last 6 months (181 production days)
+  2006 eBooks in the prior 6 months (02/05/03 - 08/06/03) 26 weeks (5 - 31)
+ 11.02 Daily Average for the prior 6 months (182 production days)
+  5569 eBooks in the last 18 months (08/15/02 - 02/11/04) 78 weeks (32 - 5)
+
+---------------
+
+New mirror: Sponsored by Informed Technology, located
+in West Leederville, Western Australia (available via WAIX):
+
+ftp://ftp.it.net.au/mirrors/gutenberg/
+http://ftp.it.net.au/gutenberg/
+rsync://ftp.it.net.au/gutenberg/
+
+Thanks to Stephen Darragh
+
+---------------
+
+As mentioned in part 2 of this weeks newsletter:
+
+Phaethon, by Charles Kingsley 11025
+  [Subtitle: Loose Thoughts for Loose Thinkers]
+
+For those wishing to know: the Rev. Charles Kingsley wrote this fictional
+account of Socrates and the youth Phaethon to counter what he saw as a
+drift away from traditional church teaching that was taking place in his
+age (i.e. the English Victorian era).  Like a number of Kingsley's works
+it caused trouble when first published with critics attacking it.
+
+
+Literary and General Lectures and Essays, by Charles Kingsley            11026
+
+For those wishing to know: another volume from Macmillan and Co.'s Works
+of Charles Kingsley.  Odds and ends essays and a tribute to Rev. Frederick
+Denison Maurice.  Kingsley was probably the best known of Maurice's
+"disciples" and many of Kingsley's famous works seek to expand Maurice's
+teachings via the medium of the novel.
+
+
+O+F, by John Moncure Wetterau                                            11005C
+
+Possibly our shortest title ever
+
+
+Celebrating Prishan 
+
+Prishan has become this week the our first Distributed Proofreader to
+have proofed 100,000 pages. On behalf of Project Gutenberg and
+everyone here at the newsletter.
+
+Congratulations!
+
+Prishan has had a forum thread dedicated to this momentous occasion and from
+there we reproduce the words of Juliet Sutherland,
+
+"I'd like to take this occasion to recognize not only all the careful work
+that this milestone represents, but also your contributions to our community.
+You've kept us thinking, amused, and always learning. We've watched you
+become ever more fluent in English. We've learned about all sorts of holidays
+and traditions from India. And you've shared some very poetic and mystic
+moments with us."
+
+Well done Prishan, from all of us who dare to follow in your proofing steps.
+Distributed Proofreaders Update for February 11, 2004
+
+At this time last week the total of Gold texts at DP stood at
+3,175. This hour--since we do need to count by the hour now--the total
+has reached 3,260. That amounts to 85 projects completed and ready for
+posting to PG. The previous week matches that figure near to
+exactly. To set this into the context of where the column needs to go
+I will share with you my own perspective on how important an
+accomplishment 85 completed projects a week is. Bear with me for this
+ride? We have somewhere to get to today.
+
+This past Sunday was a rounded year since I joined up with Distributed
+Proofreaders. On that day in 2003 the total of Gold texts for the
+previous month was 119. February's total would match that number,
+evidencing a slight up-tick by doing so in 28 days. In only a year's
+time we have witnessed a month's total production being achieved in
+little over a week's time. How did DP manage this? Well, the answer to
+that is a little more elusive than we might like it to be. Simply put,
+it is true enough to say that this result rests upon a broad
+combination of factors and innovations. As there is much to be gained
+from a finer analysis of this success, we are going to looking into
+the facts of DP's production efficiency through the rest of this
+month. That the site coders and admin's have provided us with some new
+tools for deciphering this progress will make the investigation all
+the more interesting.
+
+But before we start exploring this study, it is important that we step
+back a little ways from the day to day work which brings us all
+together. Numbers are what we use to measure our progress and they are
+essential guides to steady improvement. What numbers alone cannot do
+is inform us of an eventual value of the product of our collective
+labors. Today is the 11th of February, halfway through the day DP has
+posted 125 books to PG. So for every day this month DP has transmitted
+10 unique books into a form that allows them to be freely distributed
+throughout the world. If the present rate of production were to lock
+steady from now until New Year's eve, we will enrich the digital
+public domain by over 3,650 individual volumes in 2004.
+
+I stress that to the point of obvious redundancy for a specific
+reason; to remind us all of the central plot to this tale which we
+have all become players in. As a lifelongstudent of history it has
+long stood out to me that one of Humanities most costly flaws is that
+we forget. Forgetfulness seems to be hard wired into us. Yet I
+believe, in my more optimistic moments, that this might just be a
+saving grace and not the eventual cause of our doom. What saves us,
+quite often in the most critical moments, is each other. What I may
+forget you can easily refresh in my memory. This act of common
+humanity is so very essential to survival and progress. When it comes
+to the great social issues of our time there is no doubt to the
+imperative nature of this mutual care and exchange. The contextual
+question is whether or not such significance can be equally accepted
+within the PG/DP communities. I believe that this is not merely a
+possibility, but a necessity.
+
+What you are now reading is a second version of this week's DP
+Update. More than halfway through writing the first edition--which I
+must say, was 'quite good'--I deleted it. This was not an accident but
+a very firm intention. The path I was writing along was simply a wrong
+turn and I needed to go back to the fork in the road and take a
+completely different journey. If you are still reading, I assume that
+you want to come along? Good. I'm in the mood for noble company today.
+
+The heart of my unease with the initial version was that I was
+completely omitting any reference to the recent developments in
+Australia. This is really not such a hard thing to for a DPer who does
+not hail from 'Down Under.' It could almost be forgivable, just as the
+low murmur of a response to the Free Trade Agreement in the DP
+forums. See, the thing is we do not and can not work on the texts
+which are produced for PG Australia. So, for 95%+ of the DP community
+... "Out of sight is out of mind." as far as this issue is
+concerned. For my part, recognizing that Alice would be covering the
+PGAU news front, I blissfully turned to all the upbeat, positive news
+of this week, for there is plenty of it. "After all, it is PGAU not
+DPAU, right?" . . .
+
+Wrong!  And on that 'wrong' my index finger tapped the Delete key.
+
+To put it succinctly I will lift a quote from the recent thread in the
+DP forum about PGAU: "Apathy is illiterate--it would not care if the
+public domain were to go extinct. .... So it is on those who actively
+create with the PD to start making a loud noise. .... If people are
+not outraged by the present lock down on the PD it is not always their
+fault. It may be as simple as ... they just do not know about it." -
+Henry Craig
+
+Now I have known Henry for ten years, and in that time I have listened
+to that view repeated in many ways. Perhaps this is why the words kept
+nagging at me as I started writing earlier. If so, that would make my
+decision no less valid. Henry's right. If we care enough to commit our
+time, talents and creative energy to enriching the fields of the
+Public Domain, then we should be willing to stand up and defend that
+field when it comes under challenge.
+
+Now, let me be clear with you ... I am not talking about radicalism
+here. I am not endorsing anything different than what we already do;
+apply ingenuity to collective effort for a cause we all believe in
+which benefits people throughout the world. The distinction I propose
+is that we raise our perspectives just a little higher on the
+horizon. By this, I mean that our concern and care for a book project
+extends beyond the time when it is posted to PG.
+
+At the present level of production DP masters the means to produce
+over 3,600 books a year for Project Gutenberg. That is 3,600 books for
+everyone in the world with access to the Internet. If you go digging
+around in the basement of the forums you will find within my earliest
+posts, a call to embrace the historic significance of DP. This was
+itemized on several levels. We have used a decent amount of ink in
+past columns for the uniqueness of DP among distributed projects. The
+foundation of this distinction rests upon the fact that DP is
+'distributed' through people, not electronic processors. This truly is
+historic, and it is not possible to know from today the long term
+utilization borne from the fruits of this 'proof of concept.' The
+recent decision to incorporate the DP model within the Rastko archive
+network of Europe is assuredly only the first of many innovative
+examples to come.
+
+The other historic development unfolding at DP is what needs a little
+more attention in light of recent events. The changes to trade agreed
+to this week in Australia are likely to have a profound impact on the
+network of Project Gutenberg archives. How we deal with this as a
+distributed community will depend a great deal upon our self concept
+and the estimation of our strength and influence within this age and
+for ages to come.
+
+We produce 10-12 books a day, every day for the education, enrichment
+and simple entertainment of the world public. Who else presently is
+doing that? I don't see anyone out there coming close. As impressive
+as this is, I say 'hold on a minute' and raise your eyes up. Expand
+your sense of who we are. Add to what DP produces, all the works by
+the Independent developers allied to PG. Take also into consideration
+the work of PG Australia, and the work now beginning at PG
+Europe. Combine this with the vast enrichment that is already being
+added through DPEU by the advent of character sets beyond Latin1. Look
+higher still and see the ever-increasing support of the National
+libraries and international cultural organizations along with the
+contributions by contemporary authors. Consider all of this, the next
+time you use the word "community" to describe what we are building at
+DP. Consider all of this ... because this is the DP community.
+
+The next time you are in a library and you come across a book that
+strikes you as a great addition to the PG archive ... think about what
+you are doing for a few moments. The next time you are scanning some
+pages, running some OCR, or uploading 25 megs of .png files ... think
+for a few moments. The next time you are proofing a page ... running
+GUIGuts or Verifying a finished project ... think about the countless
+individuals your work will be touching. Most importantly, the next
+time you download a completed text from PG ... think. Yes, at every
+point of contact and participation in this wonderful endeavor we
+should all pause for some moments, lift our eyes beyond the day's
+horizon and consider the enormous range of Humanity that we are
+connecting with.
+
+The work of Project Gutenberg IS unique to our time, and it is
+historic in nature.  From the spark of inspiration that landed on
+Hart's shoulder some thirty years ago ... to the retired grandmother
+of six who will log on tonight in North London to proof a few pages of
+Wordsworth on DP ... to her great great grandson, not yet born who
+will carry the entire PG library in a hand held device on a summer
+vacation to the Moon some year ... we are all connected. And should it
+come to pass, like a shadow out of Mordor, that the work of PG
+Australia is removed from the public domain ...then too shall we all
+be connected.
+
+That day has not come yet. What has been agreed to on paper, is not
+yet law. Think about it ... that's all I ask. I did, and it changed
+every word you have read today. Think about it ... because thoughts do
+change things--they change us. If we change, then the world can
+change. We learnt this week that the future is no longer what it used
+to be. What it might now be leaves a heavy feeling in many hearts of
+those who are close to us in this work. What can we do about that?
+
+Pierre Teilhard de Chardin once wrote, "The future belongs in the
+hands of those who can give tomorrow's generations valid reasons to
+live and hope." I tend to believe we fit that role. I don't feel that
+to be a boastful claim, but rather an acceptance of responsibility.
+
+Do what you will with the time that is yours then. Just be assured of
+one thing ... you won't be alone. The rest of us will be right here
+with you. Very often the best choice of action is to do exactly what
+you already are doing. If your heart leads you to participate in one
+or more of the projects which support Project Gutenberg then you are
+likely already doing what you should to help make this vision a
+sustaining reality. We all matter. Every task we take on from
+proofing a page to writing a column makes a worthy difference and
+counts for the long term. If you feel an urge to go an extra length
+sometime, consider the power in thinking about the larger context of
+the work which today places in your hands. When you come to your own
+realization of the significance of that work try reminding others
+close to you in subtle ways just how significant their share
+is. Simply then, let us not forget why we are here together. We all
+love most is what we hold cherished memories of and we tend to
+preserve what we love. Refreshing our memory from time to time then is
+very closely related to this line of work. That's my piece for now.
+
+February is the shortest month, but you will not know it from how full
+the next two newsletters are going to be. As we start our in-depth
+exploration of what makes DP purrrr so finely, we will discover
+together many wondrous details never before published anywhere. You
+can expect the secrets of the DP masters to  be revealed in these very
+pages!
+
+How does Jon Ingram scan like that--does he really have four arms?
+
+Where did Big Bill actually get the magic proofing font from and what
+manner of ciphers are hidden within its unusually shaped characters.
+
+Have Curtis and Dave truly discerned the identity of the figure on the
+'grassy knoll?'
+
+How in the world did Prishan manage to proof the equivalent of twenty
+years of the Encyclopaedia Britannica at the same time as he
+shepherded 35 books through Post? Are the rumors true? ... does he
+actually belong to a secret Guild of free & associated Post Processors?
+
+All this and more will be revealed by month's end. Don't miss a word! ...
+stay right here and I promise to make up some true stuff for you.
+
+Really, stay close by. This is an important month for all of us. We
+may need some extra hands on staff at the newsletter, and I am sure to
+keep everyone up way past their normal bedtime, but we'll see that you
+stay informed. There are many developments going on for DPEU and PGEU
+this week. It is an exciting week across the continent, I am doing my
+best to keep up with all the latest tips. It is going to take a
+special issue to cover all the news as MH wraps up his tour of
+Europe. We will be working time and half to bring you all the details
+as we get word of them. In the meantime check in at the forums of DPEU
+to keep up on the progress of events. While you're there lay down some
+support and take on a few pages. After all, that's how we make history
+around here ...
+
+one page at a time.
+
+Until next week,  all the best in the world for you!
+
+Thierry Alberto
+
+
+Radio Gutenberg Update
+
+www.gutenberg.net/audio
+
+channel 1 - Sherlock Holmes "The Sign of Four"
+channel 2 - Robert Sheckley's "Bad Medicine"
+
+Both are high quality live readings from the collection.
+
+Testing of Radio Gutenberg audio books on demand is currently taking
+place.
+
+
+
+      QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+      A. Send a check or money order to:
+
+      Project Gutenberg Literary Archive Foundation
+      809 North 1500 West
+      Salt Lake City, UT 84116
+
+
+      B. Donate by credit card online
+
+      NetworkForGood:
+      http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+      or
+
+      PayPal to "donategutenberg.net":
+      https://www.paypal.com
+      /xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+      Project Gutenberg's success is due to the hard work of thousands of
+      volunteers over more than 30 years.  Your donations make it possible
+      to support these volunteers, and pay our few employees to continue the
+      creation of free electronic texts.  We accept credit cards, checks and
+      money transfers from any country, in any currency.
+
+      Donations are made to the Project Gutenberg Literary Archive Foundation
+      (PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+      the US Internal Revenue Service, and has the Federal Employer Identification
+      Number (EIN) 64-6221541.
+
+      For more information, including several other ways to donate, go to
+      http://www.gutenberg.net  or email gbnewbyils.unc.edu
+
+
+
+3) Notes and Queries, Reviews and Features
+
+Romantic Love Literature: Short Essay and Shorter Quiz
+
+By Tonya Allen
+
+Romantic love has been a strong theme in literature from its
+beginning. Two of my favorite love stories are among the oldest--the
+story of Pyramus and Thisbe, and the story of Baucis and Philemon,
+which can both be found in PG's etext of Bulfinch's The Age of Fable.*
+
+PG's collection includes many love stories; a quick search reveals
+dozens of titles or subtitles containing the magic word "love". Some
+of the latest additions include The Love Affairs of Great Musicians,
+Vol. 1 (Vol. 2 will appear shortly), with a lovely HTML edition; The
+Garden of Bright Waters: One Hundred and Twenty Asiatic Love Poems;
+The Elegies of Tibullus: Being The Consolations Of A Roman Lover Done
+In English Verse; A Love Story, by A Bushman; and Literary
+Love-Letters, by Robert Herrick.
+
+For those who find all this hopelessly sentimental, may I recommend
+The Dog: A Nineteenth-Century Dog-Lovers' Manual, a Combination of the
+Essential and the Esoteric; The Botanic Garden. Part II. Containing
+The Loves of the Plants; or Aphra Behn's Love-Letters Between a
+Nobleman and His Sister. Let's not forget The Love Sonnets of a Car
+Conductor, and The Love Sonnets of a Hoodlum, both by Wallace
+Irwin. Or how about Malignant Self Love, or Narcissism Book of Quotes,
+both by Sam Vaknin.
+
+Sadly, another of my favorite love stories, Pushkin's Yevgeny Onegin,
+is not in PG..... yet. For now, one can read the original Russian and
+the English translation side by side at this site:
+http://www.pushkins-poems.com/Yev001.htm
+
+OK, here comes the quiz, shorter than usual but I hope you enjoy
+it. Just match the quotation with the title. It's multiple choice this
+time.
+
+1.    It seems she hangs upon the cheek of night
+      Like a rich jewel in an Ethiop's ear
+
+a) The Song of Solomon   b) Othello  c) Romeo and Juliet  d) Love for Love  e) India's Love Lyrics
+
+
+2. He got on to the bed, and wrenched open the lattice, bursting, as
+   he pulled at it, into an uncontrollable passion of tears.  'Come
+   in! come in!' he sobbed.  'Cathy, do come. Oh, do - ONCE more!  Oh!
+   my heart's darling! hear me THIS time, Catherine, at last!'  The
+   spectre showed a spectre's ordinary caprice:  it gave no sign of
+   being; but the snow and wind whirled wildly through, even reaching
+   my station, and blowing out the light.
+
+
+a) The Love-Tiff  b) Wuthering Heights  c) A Phantom Lover  d) Love Among the Chickens
+
+
+3. The moon was high and magnificent in the August night. Mrs. Morel,
+   seared with passion, shivered to find herself out there in a great
+   white light, that fell cold on her, and gave a shock to her
+   inflamed soul.
+
+
+a) The Love Affairs Of A Bibliomaniac  b) Women in Love  c) Sons and Lovers  d) Love at Second Sight
+
+
+4. Et elle restait seduite pourtant, elle songeait invinciblement au
+   chevalier Ivanhoe, si passionnement aime de deux femmes, Rebecca,
+   la belle juive, et la noble lady Rowena.
+
+a) Une page d'amour  b) Strates amoureuses  c) Amour  d) Ivanhoe
+
+
+5. Und liebt mich meine Luise noch?  Mein Herz ist das gestrige, ist's
+   auch das deine noch?
+
+
+a)  Nina Balatka  b) Die Laune des Verliebten  c) Kritik der reinen Vernunft  d) Kabale und Liebe
+
+
+*(All the titles mentioned here are, of course, in the PG collection,
+ and can be found using the wonderful new search on this page:
+ http://www.gutenberg.net/find.shtml).
+
+
+
+
+
+A to Z - 'X'
+
+Following Tonya's piece on romance (xxxxxxx), you might expect that
+Project Gutenberg probably doesn't have much that fits into this
+category. There are three authors in the catalogue Xueqin Cao and Xun
+Yue, both of whom are Chinese and Xenophon, 431-355 BC.
+
+Greek historian, essayist, and soldier, the author of Anabasis Kyrou
+(The Persian Expedition), a tale Greek mercenaries who fought their
+way back from the gates of Babylon to the Euxine (Black Sea). Among
+Xenophon's other works are Hellenica, a continuation of Thucydides'
+history of Greek affairs from 411 to 362 B.C., the Memorabilia of
+Socrates, and the Cyropedia (Education of Cyrus), a historical novel
+about Cyrus the Elder, the founder of the Persian empire.
+
+Xenophon was born in Attica and grew up during the war between Athens
+and Sparta (431-404 B.C.). At an early age Xenophon become a friend of
+Socrates, whom his father Gryllus defended. In his own writings
+Xenophon focused mostly on practical subjects or history, without
+showing much enthusiasm for philosophical speculations. In the
+Memorabilia he gives much lighter version of Socrates' teachings than
+Plato, who was also his contemporary. Xenophon portayed Socrates as a
+cheerful, down-to-earth character, who, like Aesop, solves moral
+problems with pragmatic attitude.
+
+Although Xenophon was an Athenian, he spent much of his life in
+Sparta. When democracy was reestablished in Athens in 401, Xenophon, a
+man of right-wing political opinions, turned his back on its new
+leaders and went to abroad. He joined, with ten thousand Greek
+mercenaries, the expedition (anabasis, march up country) of Cyrus the
+younger into the hinterland of Asia Minor. However, Cyrus's real aim
+was to oust his brother King Artaxerxes II of Persia. His plan failed
+- Cyrus lost his life in the battle of Cunaxa. The mercenaries were
+left leaderless on the plains between the Tigris and the Euphrates,
+over 1,600 kilometers (about 1,000 miles) from home. Xenophon was
+elected one of the generals. In this role he took the principal part
+in the struggle of the Greeks to return home through the "barbarian"
+world of Persia. Less than 6,000 mercenaries survived. The Anabasis
+become not only an account of the expedition but a tale of military
+virtues, discipline, leadership, and courage.
+
+After "the march of the 10,000" Xenophon entered the service of the
+Tracian king Seuthes and in 396-394 he served the Spartan king
+Agesilaus II, who defeated a coalition of Greek states at the Battle
+of Coronea in 394. About 365 Xenophon returned home, and settled with
+his wife Philesia and two sons at Scillus in Elis. There, during the
+following two decades, he probably composed most of his
+works. Xenophon's experiences in cavalry and love of horses prompted
+two books, Hipparchikos (Cavalry Officer) and Peri hippikes (On
+Horsemanship), the oldest surviving complete manual on this
+subject. Xenophon starts the latter work by explaining, how to avoid
+being cheated when buying a horse. In Hieron, a fictitious discussion
+between King Hiero I of Syracuse and the poet Simonides of Ceos,
+Xenophon presented ideas how an autocrat can secure his subjects'
+loyalty.
+
+Xenophon died in Corinth. His last book was probably Poroi e peri
+prosodon (Ways and Means), in which he suggested methods for
+improvement of Athenian public finance and advocated a policy of
+peace.
+
+
+
+
+
+A Hilltop on the Marne by Mildred Aldrich
+
+This was brought to my attention this week as it was posted by Joe
+Loewenstein. Joe states that 'The author had a successful career as a
+journalist in the U.S. in the late 19th century, then retired to
+France about the turn of the 20th century. After living in Paris a
+number of years, she moved to a house in the countryside just before
+the outbreak of World War I. This book is a collection of letters she
+wrote during the early months of the war. Her style and command of
+language are excellent, and it's hard to stop reading once one
+starts. The html version includes some illustrations.'
+
+Mildred Aldrich, was born in Providence, Rhode Island and was raised
+in Boston, Massachusetts. She began her career as a journalist with
+the Boston Home Journal, and later worked for the Boston Journal and
+the Boston Herald. In January 1892 she founded The Mahogany Tree,
+which she edited until December 1892, when the magazine
+folded. Published weekly, The Mahogany Tree contained editorials,
+fiction, poetry, and drama and book reviews.
+
+In 1898 she travelled to Paris, and subsequently settled there. Whilst
+living in France, she became a close friend of Gertrude Stein and Alice
+B. Toklas, and was a member of their social circle. She worked as a
+foreign correspondent, translated plays from French into English, and
+negotiated the rights to the works of French playwrights for
+production in the United States. In 1914 she retired to "Hilltop" ("La
+Creste"), her cottage in Huiry, a village on the outskirts of
+Paris. While at "La Creste" she published four collections of her
+letters: Hilltop On the Marne (1915), On the Edge of the War Zone
+(1917), Peak of the Load (1918), and When Johnny Comes Marching Home
+(1919). She also published a novel, Told In A French Garden (1916). In
+her later years she was supported largely by a fund that had been
+established for her by Stein and Toklas in 1924. She died at "La
+Creste" on February 19, 1928.
+
+The book that has been posted encompassess 'Letters Written
+June 3-September 8, 1914', and it is interesting to see an eye-witness
+of the American Civil War begin to describe the events of The Great
+War of Europe, how she finds this thrilling and yet tragic within the
+same sentence. The author goes on to describe events within her
+commune which is sited very close to the corner of Belgium, France and
+Germany, as day to day living goes on. This is a book which would have
+illuminated my History O'level in a way I only dreamt about all those
+years ago. If only text books were as compulsive reading as this.
+
+
+
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberglistserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end January 2004
+
+      gweekly - 2821
+
+      gmonthly - 3496
+
+
+Credits
+
+Thanks this week to Brett and George for the numbers and the
+booklists. Thierry, Tonya, Joe, Greg, Michael and Larry Wall, plus the
+newsletter backroom staff. Entertainment for the workers provided as
+usual by BBC 6Music and Andrew Collins.

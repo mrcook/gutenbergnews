@@ -1,0 +1,466 @@
+From hart at pglaf.org  Wed Nov 23 09:59:32 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Nov 23 09:59:39 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0511230958330.8884@pglaf.org>
+
+Weekly_November_23.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, November 23, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+>>>   !!!People who can help with PR for our 35th Anniversary!!!  <<<
+
+>>>   !!!People to help us collect ALL public domain eBooks!!!  <<<
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    6 New From PG Australia [Australian, Canadian Copyright Etc.]
+   72 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+          ***512 eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,605 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~88% of the Way to 20,000!!!
+
+               14,543 New eBooks Since The Start Of 2001
+
+              That's ~250 eBooks per Month for ~56 Months
+
+                 We Have Produced 2649 eBooks in 2005!!!
+
+                        2,395 to go to 20,000!!!
+
+                  7,702 from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+
+                  85 from Project Gutenberg of Europe
+                [We will start including these in 2006]
+
+               We Averaged ~339 eBooks Per Month In 2004
+
+             We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~58 eBooks Per Week This Year
+
+                             78 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,600
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+LIBRARIES FOLLOWING RETAILERS' LEAD
+Libraries increasingly find themselves in a quandary between growing
+expectations among patrons for personalized services and libraries'
+traditional stance as a strong advocate for personal privacy.
+Commercial enterprises such as Amazon and Netflix typically make
+suggestions to customers based on previous purchases and can notify
+users when certain products are available. The library at North
+Carolina State University is implementing a program that offers
+students similar services based on past usage. To offer such services,
+however, the library must keep more-detailed patron records than many
+libraries keep, given the authority of government officials under the
+USA PATRIOT Act to subpoena those records. Officials from the
+university report that students are comfortable trading some measure of
+privacy for the convenience of personalized services. Another program
+at the University of Notre Dame offers similar suggestions to users,
+which, according to its developer, should simplify research for many
+students. Michael Golrick, the city librarian in Bridgeport, Conn.,
+said that the large numbers of immigrants in his community would not be
+so willing to trade privacy for convenience. Many of them, he said,
+"came to this country to avoid the kinds of surveillance and
+persecution we're seeing tinges of today."
+New York Times, 20 November 2005 (registration req'd)
+http://www.nytimes.com/2005/11/20/weekinreview/20cowan.html
+
+UNIVERSITY COMBINES EXERCISE AND TECHNOLOGY
+The recreation center at Minnesota State University now includes
+computers that can be used while people are exercising. Although many
+fitness centers include individual TVs for treadmills and other pieces
+of equipment, officials at Minnesota State wanted to offer something
+more. They set up 40 adjustable stands, each of which has a computer,
+monitor, mouse, and keyboard. Students using the rec center can surf
+the Web, check e-mail, or perform other computer tasks while they
+exercise. One professor at the university said he will incorporate the
+new facilities into one of his fitness courses, where students will
+exercise while taking quizzes and doing other activities on the
+computers. Officials at other schools said they would consider adding
+similar facilities to their rec centers, noting that more and more
+students grew up multitasking and expecting to have access to a
+computer all the time. Some disagree with the approach. Stephanie Maks,
+who worked as a personal trainer for 20 years, said often the biggest
+hurdle to an effective exercise program is letting go of technology.
+"Don't bring the office with you to the gym," she said.
+Wired News, 20 November 2005
+http://www.wired.com/news/technology/0,1282,69633,00.html
+
+CITIES AND TOWNS ADDING WIRELESS NETWORKS
+Cities and towns across the United States are launching, or announcing
+plans to launch, wireless broadband networks. Wireless technologies are
+evolving to allow increasingly secure, robust networks in city-wide
+installations. Large cities, such as Philadelphia and San Francisco,
+and smaller towns, such as Lebanon, Oregon, are establishing wireless
+municipal networks for reasons ranging from economic development to
+improved services for residents. In Tucson, Arizona, a wireless network
+will allow communication between ambulances and one of the city's
+hospitals, improving patient care. That network is expected to be
+online in mid-2006, and the service could be extended to other medical
+facilities in the city. Other municipalities see wireless Internet
+access as a valuable step in narrowing the digital divide and bringing
+the benefits of technology to lower-income residents. In Mountain View,
+California, Google, which is headquartered there, will develop a
+wireless broadband network at no cost to the city.
+Federal Computer Week, 21 November 2005
+http://www.fcw.com/article91475-11-18-05-Web
+
+ONLINE EDUCATION EXPANDS IN AFRICA
+The William and Flora Hewlett Foundation has announced a grant to fund
+online education efforts in Africa. The $900,000 grant will support the
+Teacher Education in Sub-Saharan Africa consortium, which is working to
+develop an online portal that will offer a broad array of educational
+materials from institutions such as MIT, the Johns Hopkins School of
+Public Health, and Chinese Open Resources for Education. According to
+Kuzvinetsa Peter Dzvimbo, rector of the African Virtual University,
+which is part of the consortium, Africa is in great need of math and
+science teachers, and the new portal will be used in "teach the
+teacher" programs to educate new instructors in sub-Saharan Africa. The
+online resources will not be limited to teachers, however. Beginning in
+Tanzania and South Africa and spreading to other African countries, the
+portal will be openly available to anyone with Internet access. Dzvimbo
+said he hopes that eventually teachers in Africa will join the online
+efforts alongside the professors and students in the United States who
+will be initially involved.
+Inside Higher Ed, 17 November 2005
+http://www.insidehighered.com/news/2005/11/17/africa
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+News from other sources:
+
+The US "Patriot Act" has suffered several defeats of bills
+attempting to extend its powers.
+
+and
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+
+The US "Patriot Act" has suffered several defeats of bills
+attempting to extend its powers.
+
+*
+
+Iran's third proposed oil minister has been rejected due to
+"strong ties to the US and the UK."
+
+This third time around puts Iran in "uncharted constitutional
+waters" that might end up with the elimination of the minister
+of oil as a position.
+
+The first two were eliminated as lacking expertise, and the
+third was said to have strong ties to the US and the UK, as
+his daughter is citizen of the UK, and that he, himself, is
+the possessor of a US green card, both of which he denies.
+
+Source:  BBC
+
+*
+
+Michael Scanlon, former aide to Congressional power Tom Delay,
+and partner of famous lobbyist Jack Abramoff, pled guilty to a
+conspiracy to bribe public officials stemming from investigations
+into attempted fraud of his Indian tribe clients and corruption
+of a Congressman.
+
+Source:  Washington Post, 11/21/05
+
+
+*DOUBLESPEAK OF THE WEEK
+
+The Russian government now requires registration of all "non-
+governmental organizations."  [NGO's]
+
+This is expected to end all such organizations other then the
+select few kept for display purposes.
+
+This would include New York-based Human Rights Watch, who has
+maintained their Moscow office for years, as well as a number
+of other such organizations such as Amnesty International and
+Greenpeace, etc.
+
+The new law, just passed by the Duma, would ban those foreign
+NGO's altogether, and also ban foreign workers and money from
+being used in Russian NGO's.
+
+NGO leaders have protested, saying this will end civil rights
+in Russia.
+
+The law was passed 380 to 18.
+
+Source:  Reuters
+
+
+
+*PREDICTIONS OF THE WEEK
+
+Japan's landing of a spacecraft on an asteroid to take samples
+and return them to Earth laboratories for scientific analysis,
+will renew interest in the old science fiction idea of "meteor
+mining" as a potential economic force.
+
+Even a tiny gold, platinum, or iridium asteroid under 100 feet
+in diameter could destroy the world's economic system, because
+in spacefaring terms, our finanical institutions are based on,
+still to this day, "beads and trinkets" that could still buy a
+Manhattan Island for $24 worth of such beads and trickets from
+the perspective of any spacefaring race that could simply pull
+such an asteroid out of orbit and give it to us for Manhattan.
+
+Think such asteroids don't exist?
+
+Just ask any dinosaur expert what wiped out those dinosaurs.
+
+It was an iridium asteroid, and a lot bigger than 100 feet.
+
+
+
+*STRANGE QUOTES OF THE WEEK
+
+
+"Television exists to create advertizing."
+
+
+"Politics demands we have access to those oil fields."
+
+"Nobody on their death bed says,
+I wish I'd spent more time at the office."
+[Quoting Barbara Bush]
+
+[_I_ might say that, if there aren't a million freely
+downloadable eBooks by the time I am lying there.]
+
+Charlie Rose and Ted Koppel, 11/22/05
+
+
+*ODD STATISTICS OF THE WEEK
+
+German companies now occupy 0 of Europe's Top 10
+
+20 years ago there were 7 in the Top 10
+
+[Interestingly enough, in reporting this story, I could not find one
+single online report, even from the BBC, from whose radio broadcasts
+I first heard it.  MSNBC *had* done a story on it, but it vanished.]
+
+However, from another perspective, Germany's GDP is twice as much as
+the United Kingdom's, so it may be that while the largest companies,
+at least in Germany, aren't growing as fast, the economy is still an
+awfully large factor in Europe.
+
+Source:  Global E-Commerce, Nov 21, 2005
+
+In related news, since the year 2000, the list of the Top 100 Economic
+World Powers names more than half of these as companies, not countries:
+
+"Of the 100 largest economies in the world,
+51 are now global corporations; only 49 are countries."
+
+www.globalpolicy.org/socecon/tncs/top200.htm
+
+***
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+sounds
+
+my flute fills with sandalwood fragrance
+the air is adorned with jewels of smoke
+they tenderly encircle the heart of a cloud
+the skies ablaze return caressing rain
+my helpless lips have found delicious burden
+a garland of melodies is my breath
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+

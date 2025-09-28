@@ -1,0 +1,885 @@
+---
+params:
+  id: 1909
+title: PG Weekly Newsletter (2002-07-03)
+date: 2002-07-03T11:10:28+00:00
+author: Michael Cook
+layout: post
+url: /20020703/pg-weekly-newsletter-2002-07-03/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>!!!Our 31st Anniversay Issue!!!
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, July 3, 2002***
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+***Today We Have The Honor To Announce Project Gutenberg Of Portugal!***
+Last Year We Managed to Bring You Over 1,200 New Project Gutenberg eBooks
+This Year We Hope We Can Bring You Over 2,400 New Project Gutenberg eBooks
+Next Year We Hope We Can Bring You Over 3,600 New Project Gutenberg eBooks
+
+
+         1,200 New eBooks IN THE FIRST 26 WEEKS OF 2002!!!
+
+             It took us 27 years for the first 1,200!!!
+
+             That's 26 WEEKS as Compared to 27 YEARS!!!
+
+
+               From July 4th, 1971 to July 3, 2002
+
+
+At Around 1,200 eBooks We Were Doing A Pretty Nice Selection:
+
+Feb 1998 Nada the Lily, by H. Rider Haggard   [Haggard #2] [ndllyxxx.xxx]1207
+Feb 1998 The Flying U Ranch, by B. M. Bower   [Bower #5]   [flurnxxx.xxx]1206
+Feb 1998 The Colour of Life, by Alice Meynell [Meynell #2] [clrlfxxx.xxx]1205
+
+Feb 1998 Cabin Fever, by B. M. Bower    [B. M. Bower #4]   [cabfvxxx.xxx]1204
+Feb 1998 Dolly Dialogues by Anthony Hope [Anthony Hope #4] [dlydlxxx.xxx]1203
+Feb 1998 Tales of Unrest, by Joseph Conrad   [Conrad #20]  [tnrstxxx.xxx]1202
+Feb 1998 Essay on the Trial By Jury, by Lysander Spooner[1][tbjryxxx.xxx]1201
+
+Feb 1998 Gargantua and Pantagruel, by Francis Rabelais     [ggpntxxx.xxx]1200
+Feb 1998 An Anthology of Australian Verse, Bertram Stevens [ozvrsxxx.xxx]1199
+Feb 1998 Robbery Under Arms, by Rolf Boldrewood[T.A.Browne][robryxxx.xxx]1198
+Feb 1998 Taras Bulba, et. al, by Nikolai Gogol [Gogol #2-7][tarasxxx.xxx]1197
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 184th Day of 2002
+181 Days/26 Weeks Left Until 2003
+
+Ending our 26th Week Of The Year
+
+We did 1240 eBooks in 2001
+We did 1216 In The Last 6 Months
+
+
+The 12th Week Of Our SECOND 5,000 eBooks
+
+20-24 Months From Today, Perhaps Our 10,000th eBook!
+
+At 5500+ eBooks in 31 Years We Averaged
+   177 Per Year
+    15 Per Month
+    .5 Per Day
+
+At 1200+ eBooks Done In 2002 We Averaged
+    6.5 eBooks Per Day
+    46 eBooks Per Week
+   200 eBooks Per Month!!!
+
+
+1,890   New eBooks In The Last Year
+3,618   eBooks This Week Last Year
+5,508   Tree-Friendly Titles Now Online
+
+     69   New This Week [23rd week of 2002]
+     52   New Last Week
+     47   Weekly Average This Year
+     29   New This Week Last Year
+    200   Monthly Average This Year
+    185   New This Month [6th month of 2002]
+   1216   New This Year!!!
+    391   New At This Time Last Year
+
+     77   eBooks From Project Gutenberg of Australia
+     39   Only 39 Numbers Left On Our Reserved Numbers list
+          [Last Year It Was Well Over 100]
+
+
+***] Announcements [***
+
+--Update On Music Site
+
+Gutenberg Music Web Site Launch  [NEW EMAIL ADDRESS] gpawlicki@earthlink.net
+
+Project Gutenberg is proud to inaugurate the Music Website
+http://ibiblio.org/gutenberg/music/ as the principle outlet for the Chamber
+Music Archive. You'll find free scores and parts of public domain music,
+digitized in a variety of printable, playable and editable formats.
+The initial postings are classical chamber music, including quartets by
+Beethoven, Mozart, Haydn and Brahms in Coda Music's Finale (.MUS) format.
+For further information regarding procedures, the files, and the site,
+please see entries in the FAQ
+&lt;http://ibiblio.org/gutenberg/music/music_helpex.html&gt;
+and Volunteer &lt;http://ibiblio.org/gutenberg/music/music_volunteer.html&gt; pages,
+or contact Geof Pawlicki &lt;MAILTO:geof@ibiblio.net&gt; directly.
+
+--Project Gutenberg in Portugal
+
+We have received word from Joao Marques in Portugal that there will soon
+be a Project Gutenberg site in that country, that will be similar to the
+Project Gutenberg site in Australia, allowing the people of Portugal to
+access Ebooks which are in the public domain in that country.  This is
+still in early development, and we will provide more details as soon as
+they become available.
+
+And a huge PG welcome to the new associates in Portugal!
+
+***
+
+--Requests for Assistance:
+
+Programmers familiar with the Palm OS are needed to help write a
+freeware application which will allow the contents of
+GUTINDEX.ALL (all the books loaded into Project Gutenberg) to be
+synched to a Palm (or similar) handheld computer.  This would
+allow volunteers to check whether a book is already in the system
+before picking one up at a library or garage sale.  Additionally,
+the system is intended to allow volunteers to track texts they
+have acquired and are in the process of preparing for Project
+Gutenberg.  Please contact William Fishburne
+(william.fishburne@verizon.net) if you are able to help.  Access
+to a compiler which can generate code for the Palm OS and/or a
+compiler for generating conduits (PC, Mac, Lynix, Beos, whatever)
+would be necessary.  Thanks!
+
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+--Two new PG Mirror Sites!  Welcome to:
+
+Location:  Universidad Pedagogica Nacional
+Mexico City, Mexico
+URL: ftp://gutenberg.upn.mx/pub/gutenberg
+FTP only, no HTTP.
+
+Location: Grahamstown, South Africa
+Sponsor: Rhodes University
+Address: http://gutenberg.ru.ac.za/    and
+          ftp://gutenberg.ru.ac.za/pub/
+NOTE: Only available to South Africa and the surrounding regions
+
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro and Announcements (above)
+- Requests For Assistance [above]
+- Making Donations
+- Where To Get eBooks
+- Information About Mirror Sites
+- Weekly eBook update:
+    Updates/corrections
+    69 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+   or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby &lt;gbnewby@ils.unc.edu&gt;
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world, and http://promo.net/pg can
+get you to the nearest one.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+         http://ibiblio.org/gutenberg/etext04
+or      ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our Ebooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new Etext number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, and
+    as well as a new Etext number.
+
+--Please note the following changes, corrections and improvements:
+
+The following previously posted Ebook is being re-indexed to
+correct series numbering:
+Mar 2004 The Eye of Zeitoon, by Talbot Mundy      [Mundy#4][zeitoxxx.xxx]5241
+(Originally posted incorrectly as Mundy #3)
+
+
+The following has been posted at PG of Australia in a new format as
+indicated, zipped file only, with graphics:
+June 2002 The Journal of Gregory Blaxland--1813     [GB#01][020041xx.xxx]0075A
+[Editor: Frank Walker (1861-1948)]
+[HTML in http://gutenberg.net.au/0200411h.ZIP]
+
+We have posted the following Ebooks in new formats as indicated:
+Mar 2003 Balzac, Frederick Lawton                          [balzaxxx.xxx]3822
+[HTML in balza10h.htm/.zip]
+Jun 1998 Pride and Prejudice, by Jane Austen    [Austen #8][pandpxxx.xxx]1342
+[LaTeX in pandp12t.tex/.zip, PDF in pandp12p.pdf/.zip]
+[PDF Folio in pandp12p2.pdf/.zip]
+(Also minor changes to the plain text file pandp12.txt/.zip)
+Sep 1994 Sense and Sensibility, by Jane Austen [Austen #5] [sensexxx.xxx] 161
+[Tex in sense11t.txt/.zip, PDF in sense11p.pdf/.zip]
+(Also minor changes to sense11.txt)
+
+We have posted the following in an improved 11th edition, as well
+as in a new format as indicated:
+Feb 2004 South, by Sir Ernest Shackleton                   [southxxx.xxx]5199
+[Subtitle: The Story of Shackleton's Last Expedition 1914-1917]
+[Plain text in south11.txt/.zip, HTML in  south11h.htm/.zip]
+
+We have posted an updated 12th edition of the following, plain text only:
+Jul 2003 Ulysses, by James Joyce                  [Joyce#4][ulyssxxx.xxx]4300
+
+We have posted the 10th edition of the following, replacing the
+previously posted 9th edition:
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 2  [#2][?ldv2xxx.xxx]4999
+
+
+***] ABOUT PROJECT GUTENBERG OF AUSTRALIA [***
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+***] 69 NEW U.S. POSTS [***
+
+Apr 2004 Complete PG Edition of Winston Churchill   [WC#63][wc63wxxx.xxx]5400
+   Contents:
+     The Crossing
+     The Dwelling Place of Light
+     Mr. Crewe's Career
+     A Far Country
+     Coniston
+     The Inside of the Cup
+     Richard Carvel
+     A Modern Chronicle
+     The Celebrity
+     The Crisis
+     Dr. Jonathan (Play)
+     A Traveller in Wartime
+     An Essay on the American Contribution and the Democratic Idea]
+(Note:  the text file is 9.16mb, and the zip file is 3.59mb)
+Mar 2004 Essay On American Contribution, Churchill  [WC#62][wc62wxxx.xxx]5399
+[Title: Essay On The American Contribution And The Democratic Idea]
+[Author' full name: Winston Churchill]
+Mar 2004 A Traveller in War-Time,  by W. Churchill  [WC#61][wc61wxxx.xxx]5398
+[Author's full name: Winston Churchill
+Mar 2004 Dr. Jonathan, (Play) by Winston Churchill  [WC#60][wc60wxxx.xxx]5397
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 The Crisis, by Winston Churchill, Complete [WC#59][wc59wxxx.xxx]5396
+[Contains: eBooks #5388 to 5395]
+Mar 2004 The Crisis,       by Winston Churchill, V8 [WC#58][wc58wxxx.xxx]5395
+Mar 2004 The Crisis,       by Winston Churchill, V7 [WC#57][wc57wxxx.xxx]5394
+Mar 2004 The Crisis,       by Winston Churchill, V6 [WC#56][wc56wxxx.xxx]5393
+Mar 2004 The Crisis,       by Winston Churchill, V5 [WC#55][wc55wxxx.xxx]5392
+Mar 2004 The Crisis,       by Winston Churchill, V4 [WC#54][wc54wxxx.xxx]5391
+Mar 2004 The Crisis,       by Winston Churchill, V3 [WC#53][wc53wxxx.xxx]5390
+Mar 2004 The Crisis,       by Winston Churchill, V2 [WC#52][wc52wxxx.xxx]5389
+Mar 2004 The Crisis,       by Winston Churchill, V1 [WC#51][wc51wxxx.xxx]5388
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 The Celebrity,   by W. Churchill, Complete [WC#50][wc50wxxx.xxx]5387
+[Author's full name: Winston Churchill]
+[Contains: eBooks #5383 to 5386]
+Mar 2004 The Celebrity,    by Winston Churchill, V4 [WC#49][wc49wxxx.xxx]5386
+Mar 2004 The Celebrity,    by Winston Churchill, V3 [WC#48][wc48wxxx.xxx]5385
+Mar 2004 The Celebrity,    by Winston Churchill, V2 [WC#47][wc47wxxx.xxx]5384
+Mar 2004 The Celebrity,    by Winston Churchill, V1 [WC#46][wc46wxxx.xxx]5383
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+Mar 2004 A Modern Chronicle, by Churchill, Complete [WC#45][wc45wxxx.xxx]5382
+[Contains: eBooks #5374 to 5381]
+Mar 2004 A Modern Chronicle,    by W. Churchill, V8 [WC#44][wc44wxxx.xxx]5381
+Mar 2004 A Modern Chronicle,    by W. Churchill, V7 [WC#43][wc43wxxx.xxx]5380
+Mar 2004 A Modern Chronicle,    by W. Churchill, V6 [WC#42][wc42wxxx.xxx]5379
+Mar 2004 A Modern Chronicle,    by W. Churchill, V5 [WC#41][wc41wxxx.xxx]5378
+Mar 2004 A Modern Chronicle,    by W. Churchill, V4 [WC#40][wc40wxxx.xxx]5377
+Mar 2004 A Modern Chronicle,    by W. Churchill, V3 [WC#39][wc39wxxx.xxx]5376
+Mar 2004 A Modern Chronicle,    by W. Churchill, V2 [WC#38][wc38wxxx.xxx]5375
+Mar 2004 A Modern Chronicle,    by W. Churchill, V1 [WC#37][wc37wxxx.xxx]5374
+[This author is a cousin of Sir Winston Churchill the English Prime Minister]
+
+
+Mar 2004 Understood Betsy, by Dorothy Canfield             [ndrbtxxx.xxx]5347
+
+Mar 2004 Expeditions into Central Australia, by E. J. Eyre [xpcscxxx.xxx]5346
+Mar 2004 Expeditions into Central Australia V2, by E.J.Eyre[xpcscxxx.xxx]5345
+Mar 2004 Expeditions into Central Australia V1, by E.J.Eyre[xpcscxxx.xxx]5344
+[Full title: Journals Of Expeditions Of Discovery Into Central Australia]
+[And Overland From Adelaide To King George's Sound In The Years 1840-1]
+[Full author: Edward John Eyre]
+
+Mar 2004 Rainbow Valley, by Lucy Maud Montgomery   [LMM#11][rnbvlxxx.xxx]5343
+Mar 2004 The Story Girl, by Lucy Maud Montgomery   [LMM#10][strglxxx.xxx]5342
+Mar 2004 Kilmeny of the Orchard,by Lucy Maud Montgomery[#9][klmnrxxx.xxx]5341
+
+Mar 2004 Further Chronicles of Avonlea, L.M. Montgomery[#8][fcrvnxxx.xxx]5340
+Mar 2004 Peter Schlemihl etc.,Chamisso et. al.              [ptscxxx.xxx]5339
+[Plain text version in ptscxxxx.txt/.zip, HTML in ptscxxh.htm/.zip]
+   Contains:
+     Peter Schlemihl by Adelbert Chamisso
+     The Story Without An End by Carode translated by Sarah Austin
+     Hymns To Night by Novalis translated by Henry Morley
+Mar 2004 Mark Rutherford's Deliverance,by M. Rutherford [#2][mkrdxxx.xxx]5338
+[Real name: White, William Hayle]
+[Plain text version in mkrdxxxx.txt/.zip, HTML in mkrdxxh.htm and .zip]
+Mar 2004 31 Yrs on the Plains and In the Mountains, Drannan[toypixxx.xxx]5337
+[Full Title: Thirty-One Years on the Plains and In the Mountains]
+[Author's Full Name: William F. Drannan]
+[Subtitle: Or, the Last Voice From the Plains.  An Authentic Record of]
+[a Life Time of Hunting, Trapping, Scouting and Indian Fighting in the]
+[Far West.]
+Mar 2004 Stories by Foreign Authors:  Scandinavian,Various [strsbxxx.xxx]5336
+[Authors:  Bjornson, Bjornstjerne; Aho, Juhani; Goldschmidt, M; Kielland,]
+[Alexander; Bremer, Fredrika]
+   Contains:
+     The Father
+     When Father Brought Home the Lamp
+     The Flying Mail
+     The Railroad and the Churchyard
+     Two Friends
+     Hopes
+
+Mar 2004 Raspberry Jam, by Carolyn Wells       [C. Wells#3][rspbjxxx.xxx]5335
+Mar 2004 Expeditions into New South Wales, by John Oxley   [xpnswxxx.xxx]5334
+[Full title: Journals of Two Expeditions into the Interior of New South Wales]
+Mar 2004 Every Man In His Humor, by Ben Jonson  [Jonson#10][emihhxxa.xxx]5333
+(Note:  This is acompletely different VERSION from our earlier posting:
+(Jan 2003 Every Man In His Humour, Ben Jonson [Jonson #1][emihhxxx.xxx]3694)
+Mar 2004 The Love Sonnets of a Car Conductor, W. Irwin [#2][tlsccxxx.xxx]5332
+[Author's Full Name: Wallace Irwin]
+
+Mar 2004 NATURAE, by Dom                           [Dom #3][domnaxxx.xxx]5331C
+[Plain text in domna10.txt/.zip, RTF in domna10r.rtf/.zip]
+Mar 2004 Rhyme and Reason, by Dom                  [Dom #2][domrhxxx.xxx]5330C
+[Full title: Rhyme And Reason - A Compilation Of Verses, Rhymes And Senses]
+[Plain text in domrh10.txt/.zip, RFT in domrh10r.rtf/.zip]
+Mar 2004 PoPHILO, by Dom                           [Dom #1][dompoxxx.xxx]5329C
+[Plain text in dompo10.txt/.zip, RTF in dompo10r.rtf/.zip]
+[Note: Dom is a pen name for L.M. Wong]
+
+Mar 2004 Writing for Vaudeville, by Brett Page             [vaudexxx.xxx]5328
+Mar 2004 Pinocchio in Africa, Cherubini                    [pnocaxxx.xxx]5327
+[Plain text in pnoca10.txt/.zip; HTML WITH images and links in pnoca10hw.zip]
+[HTML without images/links in pnocal10h.htm/.zip]
+Mar 2004 Venetianische Epigramme, by J. Goethe  [Goethe#34][?vepixxx.xxx]5326
+[Author's Full Name: Johann Wolfgang Goethe]
+[Subtitle: Venetian Epigrams]   [Language: German]
+[7-bit version with non-accented characters in 7vepi10.txt/.zip]
+[8-bit version with accented characters in 8vepi10.txt/.zip]
+
+Mar 2004 Roemische Elegien, by J. Goethe        [Goethe#33][?rmelxxx.xxx]5325
+[Author's Full Name: Johann Wolfgang Goethe]
+[English title: Roman Elegies]   [Language: German]
+[7-bit version with non-accented characters in 7rmel10.txt/.zip]
+[8-bit version with accented characters in 8rmel10.txt/.zip]
+Mar 2004 The Book of Were-Wolves, by Sabine Baring-Gould   [bofwwxxx.xxx]5324
+[Plain text in bofww10.txt/.zip, HTML in  bofww10h.htm/.zip]
+Mar 2004 Effi Briest, by Theodor Fontane                   [?effixxx.xxx]5323
+[Language: German]
+[7-bit version with non-accented characters in 7effi10.txt/.zip]
+[8-bit version with accented characters in 8effi10.txt/.zip]
+Mar 2004 Woyzeck, by Georg B|chner (Buchner)    [Buchner#2][?woyzxxx.xxx]5322
+[Language: German]
+[7-bit version with non-accented characters in 7woyz10.txt/.zip]
+[8-bit version with accented characters in 8woyz10.txt/.zip]
+Mar 2004 Concerning the Spiritual in Art, Wassily Kandinsky[cnsprxxx.xxx]5321
+
+Mar 2004 Taken Alive, by E. P. Roe                  [Roe#5][tknlvxxx.xxx]5320
+Mar 2004 Pagan Papers, by Kenneth Grahame                  [paganxxx.xxx]5319
+[Plain text in pagan10.txt/.zip, HTML in pagan10h.htm/.zip]
+Mar 2004 Les Precieuses Ridicules, by Moliere  [Moliere #7][?precxxx.xxx]5318
+[Author AKA Jean-Baptiste Poquelin]   [Language: French]
+[7-bit version with non-accented characters in 7prec10.txt/.zip]
+[8-bit version with accented characters in 8prec10.txt/.zip]
+Mar 2004 Through the Magic Door, by Arthur Conan Doyle[#32][ttmgdxxx.xxx]5317
+Mar 2004 Krasavitse, Kotoraya Niuhala Tabak, A. Pushkin[#3][kkntaxxx.xxx]5316
+[Author's Full Name: Alexander Pushkin]
+[Language: Russian]
+[Plain text in kknta10.txt/.zip, PDF in kknta10p.zip, tex in kknta10t.zip]
+[HTML in kknta10h.htm/.zip]
+
+Mar 2004 Told in the East, by Talbot Mundy        [Mundy#5][tintexxx.xxx]5315
+Mar 2004 Household Tales by Brothers Grimm, Grimm Brothers [grimmxxa.xxx]5314
+[Subtitle: Also known as Grimm's Fairy Tales.  200 tales and 10 legends]
+[Note: See also eBook #2591]
+[Plain text in grimm10a.txt/.zip, PDF in grimm10ap.pdf, TeX in grimm10at.zip]
+Mar 2004 The Herd Boy and His Hermit, by C. M. Yonge  [#32][hrdbhxxx.xxx]5313
+[Both plain-text and HTML files posted.]
+Mar 2004 Mother Goose in Prose, by L. Frank Baum  [Baum#21][mtgspxxx.xxx]5312
+Mar 2004 Parnassus on Wheels, by Christopher Morley  [CM#4][prnswxxx.xxx]5311
+
+Mar 2004 The Point of View, by Elinor Glyn                 [tpntvxxx.xxx]5310
+Mar 2004 Miss Lou, by E. P. Roe                     [Roe#4][mssluxxx.xxx]5309
+Mar 2004 The Paradise Mystery, by J. S. Fletcher           [tprdmxxx.xxx]5308
+Mar 2004 The Letters of Wolfgang Amadeus Mozart, V.1.  [#4][lwam1xxx.xxx]5307
+[Translated by Lady Wallace]
+
+May 2002 Leviathan, by Thomas Hobbes                       [lvthnxxx.xxx]3207
+[Subtitle: Or, the Matter, Forme, & Power of a Common-Wealth Eclesiastical]
+[and Civill]
+
+***
+
+       Total PG ebooks available online **AS OF 07/03/02**:  5,508
+(This number includes the 77 etexts posted at the PG Australia web site)
+
+In the first 26 weeks of the new year, we have produced 1,216 new eBooks.
+Note: it took us from 1971 to 1998 to produce our *FIRST* 1,200 eBooks!!!
+
+              That's 26 WEEKS as Compared to 27 YEARS!!!
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,508 eTexts online as of July 3rd, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.82 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.82 when we had 3548 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.99 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+
+***
+
+--Headlines From Newsscan
+
+SPINTRONICS SHRINKS DATA STORAGE TO NANOSCALE
+Researchers at the University at Buffalo in New York have developed a
+nickel-based, magnetic sensor, measuring only a few atoms in diameter, that
+could increase data storage capacity 1,000 times through the use of
+spintronics -- a field that takes advantage of electron spin as well as
+charge. Current technology used in data-reading sensors is based on giant
+magnetoresistance (GMR), where sensor resistance changes in a magnetic
+field. The new sensor developed at UB creates an effect called ballistic
+magnetoresistance (BMR), which uses an electrical conductor only a few
+atoms in size. Researchers say the technology could ultimately make it
+possible to store 50 or more DVDs on a hard drive the size of a credit
+card, or enable military personnel to carry supercomputers the size of a
+wristwatch into the field. (NewsFactor 1 Jul 2002)
+http://www.newsfactor.com/perl/story/18446.html
+
+[The Return Of "Time Share" Computing???]
+
+IBM PUTS A METER ON SOFTWARE USE
+IBM is introducing a new service called Linux Virtual Services that enables
+customers to run a wide variety of software applications on IBM mainframes
+located in company data centers, and pay rates based largely on the amount
+of computing power they use. This metered payment system marks a major
+shift from the more conventional outsourcing and Web hosting arrangements
+typical today. IBM executive James Corgel touted the new service, saying
+"we see a huge opportunity going forward. Our best estimate is that in five
+years, 10% to 15% of the $1 trillion IT market will be in the form of
+on-demand computing," with utility computing a significant part. Industry
+analysts remain a little more cautious about the prospects for metered
+computing. "We know customers are interested in doing this, but we don't
+know how many will," says one market researcher. Another added that "the
+pricing is still very complicated. It's not like electricity or even phone
+service." (Wall Street Journal 1 Jul 2002)
+http://online.wsj.com/article/0,,SB1025472035492706880.djm,00.html (sub req'd)
+
+MUSIC INDUSTRY WAGES GUERRILLA WARFARE AGAINST P2P SERVICES
+In a practice called "spoofing," the music industry has been swamping
+online music-swapping services like Morpheus, Kazaa, and Grokster with
+thousands of phony or mangled music files rather than the sought-after
+songs. One music executive, speaking anonymously, says: "We're not using
+any of this with any kind of promotion or marketing in mind. We're doing
+this simply because we believe people are stealing our stuff and we want to
+stymie the stealing." And Cary Sherman, president of the Recording Industry
+Association of America, says: " From the outset, it's been very clear that
+one of the only ways -- as a practical matter -- to deal with the
+peer-to-peer problem is by means of technological measures. There are
+certainly mechanisms that are available -- that are completely lawful, such
+as spoofing.'' (San Jose Mercury-News 27 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3560365.htm
+
+ERGONOMICS FOR THE VERY YOUNG
+An elementary school in Washington state is one of the few to offer an
+ergonomics program for children that teaches them how to avoid repetitive
+stress injuries while working on the computer. The "Get TechFit!" program
+touts the benefits of  taking frequent breaks, using correct posture, and
+exercising fatigued muscles. Ergonomics experts say that just as women are
+injured in the workplace more often than men because they must extend their
+wrists and arms unnaturally to type and use the mouse, children are also
+undersized for most workstation setups. "If you're a small-wristed child,
+you will be in greater extension," says Peter Johnson, a professor at the
+University of Washington who's studied workplace injury. Johnson says
+computers generally are better designed for men, who have broader shoulders
+and thicker wrists. (AP 28 Jun 2002)
+http://apnews.excite.com/article/20020628/D7KE5T280.html
+
+ICANN PROPOSES RULES TO FIGHT CYBERSQUATTING
+The Internet Corporation for Assigned Names and Numbers (ICANN) says it's
+close to adopting new procedures that would make it easier for individuals
+and businesses to avoid extortion by cybersquatters, and would establish a
+waiting list for coveted domains that become newly available to the public.
+The first measure would establish a 30-day grace period for domain name
+owners to renew their contracts -- a move intended to prevent speculators
+from swooping in and registering an expiring domain name before the owner
+has time to renew. "ICANN receives a large number of complaints for
+inadvertently deleted domains. It affects churches, schools, businesses,"
+says an ICANN spokesman. "We get a lot of complaints from people who wake
+up to find their domain has expired and now has porn on it, or it's linked
+to a casino site. Then, they'll ask for a ransom to get it back." The
+waiting-list proposal would allow a bidder to pay a fee to get first dibs
+on any newly available domain names. That proposal has run into opposition
+from registrars who say the $28 that VeriSign has proposed charging them
+for the service is too high. (Reuters/Wired 27 Jun 2002)
+http://www.wired.com/news/politics/0,1283,53518,00.html
+
+LEGISLATION WOULD SANCTION STUDIO HACK ATTACKS
+Proposed legislation crafted by California congressman Howard Berman, whose
+district includes Hollywood, would provide a shield against legal liability
+for copyright owners, such as record labels and movie studios, that used
+high-tech attacks against peer-to-peer Web sites to stop them from enabling
+illegal file-sharing. "While P2P technology is free to innovate new and
+more efficient methods of distribution that further exacerbate the piracy
+problem, copyright owners are not equally free to craft technological
+responses," says Berman. "This is not fair." Included in the actions a
+copyright holder would be allowed to take are: interdiction, in which the
+copyright holder swamps a P2P file server with false requests so that
+downloads can't get through; redirection, in which would-be file swappers
+are pointed to a site that doesn't contain the files they're seeking; and
+spoofing, in which a corrupt or otherwise undesirable file masquerades as
+the song or movie file being sought by a file swapper. File-swapping
+companies criticized the bill, saying it opens the door for copyright
+holders to conduct "cyber warfare" against consumers.
+(CNet News.com 25 Jun 2002)
+http://news.com.com/2100-1023-939333.html?tag=fd_top
+
+HOME WIRELESS NETWORKS GO MAINSTREAM
+The price of wireless networks has dropped so dramatically -- they're now
+in the $200 range -- that homeowners are snapping them up as a less messy
+alternative to traditional wiring. The number of home network devices
+shipped is expected to nearly double this year, as wireless gear based on
+newer, faster technologies such as the AirPlus products introduced earlier
+this month by D-Link, hit the market. Although some consumers report
+hassles in installing the networks, the technology is well suited to the
+networking needs of the increasing number of broadband-equipped households
+with multiple computers. (Wall Street Journal 26 Jun 2002)
+http://online.wsj.com/article/0,,SB1025039743158381200.djm,00.html (sub req'd)
+
+WEB SITES USED BY AMERICANS TO GET CHEAPER DRUGS FROM CANADA
+A number of Web sites (including canadianmedsusa.com, canadadrugs.com,
+canadameds.com, and pharmacy-online.ca) are now offering a way for U.S.
+citizens to buy prescription drugs more cheaply through Canadian sources.
+U.S. law actually prohibits the practice, but the Federal Drug
+Administration has, for reasons of compassion, refrained from actively
+enforcing the law. To order from Canada, customers must have a prescription
+signed by an American physician, submit a detailed medical questionnaire,
+and have undergone a physical exam within the past year. However, the
+Canadian Medical Association is questioning the ethics of Canadian doctors
+writing Canadian prescriptions based solely on a written questionnaire and
+a U.S. prescription: "Our code of ethics says if you're going to prescribe
+medications, you have a professional responsibility to do a history, a
+physical and then discuss with the patient the risks and benefits of the
+medication. This is something Canadian physicians should not be doing."
+(AP/San Jose Mercury-News 26 Jun 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3546354.htm
+
+***
+
+--Headlines From Edupage:
+
+NEW TOOLS CAN BUILD A COMPREHENSIVE ARCHIVE
+Some institutions, including MIT, are developing tools for professors
+and other researchers to add resources including data sets, notes,
+research reports, and otherwise unpublished papers to large,
+searchable, digital archives. Testing of DSpace, MIT's archive
+project, will begin this summer, and officials at the school hope that
+eventually nearly every professor will contribute to the body of work.
+Submission to the archive is voluntary, so developers have tried to
+make the system as simple as possible. Metadata will be included to aid
+in the organization and searching of the content, though submissions
+will not be actively filtered or moderated. Other archives have been
+established at the California Institute of Technology and the
+University of California system. Critics say that institutional
+repositories will fail because effective dissemination depends on the
+publishing process and editorial filtering that journals provide.
+Chronicle of Higher Education, 1 July 2002
+http://chronicle.com/free/v48/i43/43a02901.htm
+
+MICROSOFT TO INVEST IN SOFTWARE INDUSTRY IN CHINA
+On Thursday, at the end of a two-day visit to China, Microsoft chief
+executive Steve Ballmer announced that his company would invest roughly
+$750 million over the next three years in the Chinese software
+industry. The money will support education, manufacturing, and a number
+of local Chinese software companies. The move is seen as partly a
+response to widespread software piracy in China. According to that
+argument, if there is a strong Chinese software industry that has a
+stake in protecting its intellectual property, the incidence of
+software piracy will significantly diminish. Ballmer's announcement
+also included plans to establish a software college in Shanghai.
+Wall Street Journal, 27 June 2002 (sub. req'd)
+http://online.wsj.com/article/0,,SB1025200584265700160,00.html
+
+WEB PUBLISHERS SUE OVER POP-UP ADS
+Operators of several Web sites, including Washington Post Company, Dow
+Jones & Company, and The New York Times Company, have sued Gator, a
+company that makes software that helps users enter passwords and other
+information online. The password software, however, includes features
+that deliver pop-up advertisements. Those ads, according to the group
+of publishers, violate trademark because there is an implication that
+the operator of the Web site being viewed has authorized the ad that
+pops up. Officials at Gator have called the suit ridiculous, saying
+that many other applications that display information in separate
+windows, such as instant messaging programs, would have to be
+considered illegal if the publishers' argument is valid. A survey of
+users conducted by the plaintiffs showed that 16 percent of people who
+use Gator's password software do not know that it puts pop-up ads on
+their computers.
+New York Times, 28 June 2002 (registration req'd)
+http://www.nytimes.com/2002/06/28/business/28GATO.html
+
+ICANN VOTES TO LIMIT BOARD MEMBERSHIP
+The Internet Corporation for Assigned Names and Numbers (ICANN) voted
+on Friday at its meeting in Romania not to allow its Board of Directors
+to include members elected from the pool of Internet users at large.
+Instead, Board membership will be limited to representatives of
+technical, business, government, and nonprofit organizations, according
+to the unanimous vote. Critics said the move amounts to a lack of
+representation for many of the 425 million global Internet users. ICANN
+chief executive Stuart Lynn said the new system will still allow users
+to be represented by various constituencies on the Board, including
+government and other groups. ICANN has also been criticized for having
+a U.S. bias, and Friday's vote did little to mollify those complaints.
+CNET, 28 June 2002
+http://news.com.com/2100-1023-940291.html
+
+NEW CHIP-MAKING PROCESS MAY OUTPACE MOORE'S LAW
+Stephen Chou, a researcher at Princeton University, said he has
+developed a procedure for making computer chips that could increase
+their capacity 100-fold. The process, called laser assisted direct
+input (LADI), involves pressing a quartz mold onto a piece of silicon
+and shooting it with a laser for a very short time. The silicon melts
+and quickly rehardens into the new shape. The result is imprinting
+silicon with features as small as 10 nanometers, significantly smaller
+than current methods allow. The process is also claimed to produce
+chips much more cheaply, more quickly, and without the environmentally
+unfriendly chemicals required of traditional chip-making methods. Some
+observers noted that the process is in the very early stages of
+development and is probably not "inherently useful in the near term."
+NewsFactor Network, 28 June 2002
+http://www.newsfactor.com/perl/story/18432.html
+
+MUSIC INDUSTRY TRIES SPOOFING FILE SWAPPERS
+In the latest effort to try to discourage the illegal trading of files,
+some in the music industry have begun a campaign of "spoofing," or
+sending decoy files to file-swapping networks. The decoys seem to be
+legitimate songs, for example, but might only be a small portion that
+loops or may have long stretches of silence. Industry officials hope
+that by making it more difficult to find and trade functional copies of
+their copyrighted material, some users will be persuaded to buy the CD
+they want. Industry experts pointed out that seasoned file traders and
+those with higher levels of technical expertise are not likely to be
+fooled by the spoofs, but many more novice users potentially will be.
+The practice of spoofing is not illegal, but some say it will do little
+to stem the tide of piracy.
+San Jose Mercury News, 27 June 2002
+http://www.siliconvalley.com/mld/siliconvalley/3560365.htm
+
+STUDY PUTS A NUMBER TO LOSSES FROM BUGGY SOFTWARE
+A new study from the National Institute of Standards and Technology
+(NIST) says that the U.S. economy loses almost $60 billion annually as
+a result of buggy software. According to the study, better testing
+could eliminate about one third of that loss, but much of the rest will
+remain. The study addressed the problem as it affects three major
+industries, automotive, aerospace, and financial services, and
+extrapolated those results to the nation as a whole. Authors of the
+study did not present specific actions to resolve the problem, but they
+did suggest that current methods for testing software are "fairly
+primitive" and that significant improvements could be made in that area.
+ComputerWorld, 25 June 2002
+http://www.idg.net/ic_878966_1794_9-10000.html
+
+LINDOWS CLAIMS LOW-COST ALTERNATIVE TO WINDOWS
+Lindows, maker of a Linux-based operating system that is claimed to
+allow users to run Windows applications, has announced a new program
+that could potentially save significant amounts of money for software
+on new computer systems. The program offers computer makers a
+subscription service, including technical support, testing tools,
+certification eligibility, and a software library, that allows them to
+install the operating system on an unlimited number of machines for the
+same monthly fee. The program is targeted at computer makers who sell
+unbranded PCs and lower-end systems such as those available from
+Wal-Mart. Critics noted that the Lindows operating system does not run
+many Windows programs and that the way the system works opens users up
+to potentially serious security risks.
+CNET, 25 June 2002
+http://news.com.com/2100-1001-939149.html
+[As if Windows doesn't have those same problems. . . .]
+
+AUSTRALIA LEGALIZES MUSIC PIRACY
+The Australian Mechanical Copyright Owners Society (AMCOS) has agreed
+to allow CD-copying kiosks in exchange for a royalty payment. The deal,
+the first of its kind, will allow consumers to go to one of the kiosks,
+to be located in stores or in public places, and pay $5 each to copy a
+music CD. AMCOS, which represents songwriters and music publishers,
+agreed to the deal with Little Ripper, a CD-copying company, reportedly
+for a flat royalty of about six percent. Observers said that this deal,
+which seems to indicate acceptance among copyright owners that piracy
+is here to stay, will force the Australian Record Industry Association
+(ARIA) into a similar arrangement. Officially ARIA still says that the
+kiosks are illegal.
+News Interactive, 24 June 2002
+http://www.news.com.au/common/story_page/0,4057,4567037%255E421,00.html
+
+RUSSIA TO SET LIMITS ON WEB
+In a vote last week, the Russian Duma supported new restrictions on
+anti-government and extremist uses of the Internet. The measure still
+needs final approval, which could come this week. The terms of the
+legislation forbid using computer networks for "extremism" and allow
+the government to shut down without a court order any organization it
+deems "extremist." Civil liberties groups in Russia complained that the
+law would restrict rights of citizens and would threaten the
+"constitutional order in Russia." Victor Naumov, a lecturer at St.
+Petersburg State University's law school, said the language of the
+measure is vague in many places, leaving some questions about how
+exactly it could be applied.
+CNET, 24 June 2002
+http://news.com.com/2100-1023-938810.html
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+</pre>
+
+<a href="/nl_archives/2002/pgweekly_2002_07_03.txt" target="_blank" rel="nofollow">pgweekly_2002_07_03.txt</a>

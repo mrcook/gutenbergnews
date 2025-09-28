@@ -1,0 +1,318 @@
+========
+Subject: Project Gutenberg January 2000 newsletter
+From: Greg Newby <gbnewby@ils.unc.edu>
+To: "Project Gutenberg volunteers" <gutvol-l@listserv.unc.edu>
+Date: Thu, 27 Jan 2000 11:16:11 -0500
+
+This is the Project Gutenberg newsletter for January 2000.  
+Welcome to the new year!  
+
+Because Michael Hart is taking a well-deserved vacation, this
+newsletter only contains information about new etexts we have
+published and how to subscribe/unsubscribe from the mailing
+lists.  A full regular newsletter will be out sometime in February.
+
+For more information about Project Gutenberg, please visit
+the Official Project Gutenberg Web Site:  http://promo.net/pg
+You will find a searchable index to etexts, information
+about how to volunteer, and a Web-based discussion board.
+
+A special thanks goes out this month to the may people who
+scan, type, proofread and otherwise help produce Project
+Gutenberg's etexts.  We couldn't do it without you!
+
+--------
+
+First, here is updated information about the mailing lists.
+Project Gutenberg has 3 mailing lists:
+
+- gutnberg:  For the monthly newsletter, very low traffic
+- gutvol-L:  For volunteer discussion and updates, also low traffic
+- gutvol-D:  Discussion among volunteers (also available on promo.net/pg
+
+For all three, subscribe or unsubscribe by email to "lyris@lyris.unc.edu"
+with the text, "subscribe LISTNAME Your Real Name", or
+"unsubscribe LISTNAME"
+
+So, Dudley Duck would subscribe to gutnberg by sending email to
+"lyris@lyris.unc.edu" with the text "subscribe gutnberg Dudley Duck"
+
+Note that Lyris is new software at the University of North Carolina.
+It is possible that people who unsubscribed from the old lists are
+now re-subscribed -- we apologize if this happened to you.  Everyone
+who was on the lists before they moved should still be subscribed.
+
+--------
+
+Now, here are etext listings.  There is no other information other
+than etext listings below this point in the message, in case you
+want to skip this part.
+
+
+NEW etexts for November 2000 (36 etexts):
+
+Nov 2000 Chastelard, by Algernon Charles Swinburne         [chastxxx.xxx]2379
+Nov 2000 Das Maerchen von dem Myrtenfraeulein, C. Brentano [7myrtxxx.xxx]2380
+Nov 2000 Das Maerchen von dem Myrtenfraeulein, C. Brentano [8myrtxxx.xxx]2380
+Nov 2000 Actions and Reactions, by Rudyard Kiping          [actrexxx.xxx]2381
+Nov 2000 Proposed Territory of Arizona, Sylvester Mowry    [tarizxxx.xxx]2382
+Nov 2000 Canterbury Tales and Other Poems, Geoffrey Chaucer[cbtlsxxx.xxx]2383
+Nov 2000 The Deliverance, by Ellen Glasgow                 [delivxxx.xxx]2384
+Nov 2000 Gala-Days, by Gail Hamilton (Agibail Dodge)       [galadxxx.xxx]2385
+Nov 2000 Theodore Roosevelt; An Intimate Biography, Thayer [teddyxxx.xxx]2386
+Nov 2000 The Voice, by Margaret Deland                     [voicexxx.xxx]2387
+Nov 2000 The Bhagavad-Gita, translated by Sir Edwin Arnold [bgitaxxx.xxx]2388
+Nov 2000 Bardelys the Magnificent, by Rafael Sabatini      [bardexxx.xxx]2389
+Nov 2000 The Conquest of the Old Southwest, by Henderson   [cnqswxxx.xxx]2390
+Nov 2000 Bruce, by Albert Payson Terhune                   [brucexxx.xxx]2391
+Nov 2000 Further Adventures of Lad, Albert Payson Terhune  [faladxxx.xxx]2392
+Nov 2000 His Dog, by Albert Payson Terhune                 [hsdogxxx.xxx]2393
+Nov 2000 The Grand Canyon of Arizona, George W. James      [gcoazxxx.xxx]2394
+Nov 2000 The Golden Fleece, by Padraic Colum               [fleecxxx.xxx]2395
+									  
+(no, this is not the same as #1614, The Golden Fleece by Julian Hawthorne)
+									  
+Nov 2000 History of the Catholic Church, by J. MacCaffrey  [hcathxxx.xxx]2396
+Nov 2000 Story of My Life, by Helen Keller                 [kellexxx.xxx]2397
+Nov 2000 The Path of the Law, by O.W. Holmes, Jr.          [palawxxx.xxx]2398
+Nov 2000 Up From Slavery: An Autobiography, B.T. Washington[booktxxx.xxx]2399
+Nov 2000 Vikram and the Vampire, by Sir Richard R. Burton  [vikrvxxx.xxx]2400
+Nov 2000 The Memoirs of General the Baron de Marbot        [marboxxx.xxx]2401
+									  
+For German etexts, filenames starting with 8 are 8-bit versions, 	  
+which should be usable by nearly all modern computers.  7-bit versions	  
+are plain ASCII (no accents or special characters). 			  
+									  
+A "1" or "2" for the same etext number indicates a multi-volume set,	  
+as in 7wml1xxx.xxx and 7xml2xxx.xxx.					  
+									  
+Nov 2000 Briefe aus der Schweiz, by Goethe      [Goethe 21][7schwxxx.xxx]2402
+Nov 2000 Briefe aus der Schweiz, by Goethe      [Goethe 21][8schwxxx.xxx]2402
+Nov 2000 Die Wahlverwandtschaften, by Goethe    [Goethe 22][7wahlxxx.xxx]2403
+Nov 2000 Die Wahlverwandtschaften, by Goethe    [Goethe 22][8wahlxxx.xxx]2403
+Nov 2000 Italienische Reise, by Goethe vol. 1   [Goethe 23][7itr1xxx.xxx]2404
+Nov 2000 Italienische Reise, by Goethe vol. 1   [Goethe 23][8itr1xxx.xxx]2404
+Nov 2000 Italienische Reise, by Goethe vol. 2   [Goethe 24][7itr1xxx.xxx]2405
+Nov 2000 Italienische Reise, by Goethe vol. 2   [Goethe 24][8itr1xxx.xxx]2405
+Nov 2000 Die Geschwister, by Goethe             [Goethe 25][7geswxxx.xxx]2406
+Nov 2000 Die Geschwister, by Goethe             [Goethe 25][8geswxxx.xxx]2406
+Nov 2000 Die Leiden des jungen Werther, Goethe 1[Goethe 26][7ljw1xxx.xxx]2407
+Nov 2000 Die Leiden des jungen Werther, Goethe 1[Goethe 26][8ljw1xxx.xxx]2407
+Nov 2000 Die Leiden des jungen Werther, Goethe 2[Goethe 27][7ljw2xxx.xxx]2408
+Nov 2000 Die Leiden des jungen Werther, Goethe 2[Goethe 27][8ljw2xxx.xxx]2408
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  1[Goethe 28][7wmw1xxx.xxx]2409
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  1[Goethe 28][8wmw1xxx.xxx]2409
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  2[Goethe 29][7wmw2xxx.xxx]2410
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  2[Goethe 29][8wmw2xxx.xxx]2410
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  3[Goethe 30][7wmw3xxx.xxx]2411
+Nov 2000 Wilhelm Meisters Wanderjahre, Goethe  3[Goethe 30][8wmw3xxx.xxx]2411
+
+Nov 2000 The Categories, by Aristotle                      [aristxxx.xxx]2412
+Nov 2000 Madame Bovary, by Gustave Flaubert   [Flaubert #4][mbovaxxx.xxx]2413
+Nov 2000 Cliges: A Romance, by Chretien de Troyes          [cligexxx.xxx]2414
+
+
+
+NEW etexts for December 2000 (18 etexts):
+
+Dec 2000 The Son of the Wolf by Jack London    [London #79][swolfxxx.xxx]2415
+Dec 2000 The House of Pride &c., by Jack London[London #80][hsprdxxx.xxx]2416
+Dec 2000 Okewood of the Secret Service, Valentine Williams [valenxxx.xxx]2417
+Dec 2000 Oldport Days, by Thomas Wentworth Higginson   [#2][oldptxxx.xxx]2418
+Dec 2000 La Dame aux Camelias, by Alexandre Dumas          [8damexxx.xxx]2419
+Dec 2000 Unterhaltungen deutscher Ausgewanderten Goethe[30][7untrxxx.xxx]2420
+Dec 2000 Unterhaltungen deutscher Ausgewanderten Goethe[30][8untrxxx.xxx]2420
+Dec 2000 The Beggar's Opera by John Gay             [Gay 1][bgoprxxx.xxx]2421
+Dec 2000 Introduction to The Compleat Angler, Albert Lang  [alcmaxxx.xxx]2422
+Dec 2000 Anecdotes of Johnson, by Hesther Lynch Piozzi     [andsjxxx.xxx]2423
+Dec 2000 Black Bartlemy's Treasure, by Jeffrey Farnol      [bbtrexxx.xxx]2424
+Dec 2000 A Bundle of Letters, by Henry James    [James #20][bndltxxx.xxx]2425
+Dec 2000 The Diary of a Man of Fifty by H. James[James #21][dmnftxxx.xxx]2426
+Dec 2000 The Patagonia, by Henry James          [James #22][patgnxxx.xxx]2427
+Dec 2000 Essay on Man, by Alexander Pope                   [esymnxxx.xxx]2428
+Dec 2000 Lost Face, by Jack London             [London #81][lstfcxxx.xxx]2429
+Dec 2000 Romantic Ballads, by George Borrow     [Borrow #7][rmbddxxx.xxx]2430
+Dec 2000 Is Shakespeare Dead? by Mark Twain     [Twain #16][shkddxxx.xxx]2431
+Dec 2000 Barchester Towers, by Anthony Trollope            [btowexxx.xxx]2432
+
+
+
+NEW etexts with numbers that were reserved for March 2000 (2 etexts):
+
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 15[15frdxxx.xxx]2115
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 16[16frdxxx.xxx]2116
+
+
+Newly updated etexts (newer versions, such as 8spur11.txt supersedes
+8spur10.txt):
+
+May 2000 Frau und Kindern auf der Spur, by Gerold K. Rohner[8spurxxx.xxx]2174C
+May 2000 Frau und Kindern auf der Spur, by Gerold K. Rohner[7spurxxx.xxx]2174C
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe 13][7wml1xxx.xxx]2335
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe 13][8wml1xxx.xxx]2335
+
+
+Changes to etexts: 
+
+- This file has already been posted for September 1997 as etext #1044,
+and so is withdrawn as 2232:
+
+Jun 2000 Captain Stormfield, by Mark Twain [Mark Twain #17][cptstxxx.xxx]2232
+
+- This file had also already been posted, for January 2000 as etext #2048, 
+and so is withdrawn as 2298.
+
+Aug 2000 Sketch Book of Geoffrey Crayon, Gent, by Irving #6[sbogcxxx.xxx]2298
+
+- This file was never really posted.  Etext 2199 remains Homer's Iliad
+
+Jun 2000 Human Genome Project, History and Commentary      [00hgpxxx.xxx]2199
+
+
+PREVIOUSLY POSTED etexts that may not have been announced before
+
+All 36 files for July, 2000 will be Shakespeare's First Folio, we have posted
+the entire First Folio in one file already, and are making 35 more files. . .
+Etext numbers 2235-2270
+
+These are for the publication month May 2000 (34 etexts):
+
+May 2000 The Bridge-Builders, by Mark Twain[Mark Twain #16][brdgbxxx.xxx]2163
+May 2000 The Lumley Autograph  Susan Fenimore Cooper[SFC#2][lumlyxxx.xxx]2164
+May 2000 The Lifted Veil, by George Eliot [George Eliot #4][lftvlxxx.xxx]2165
+May 2000 King Solomon's Mines, by H. Rider Haggard [HRH #9][7kslmxxx.xxx]2166
+May 2000 King Solomon's Mines, by H. Rider Haggard [HRH #9][8kslmxxx.xxx]2166
+May 2000 Misc Writings and Speeches, Lord Macaulay  V1 of 4[1mwsmxxx.xxx]2167
+May 2000 Misc Writings and Speeches, Lord Macaulay  V2 of 4[2mwsmxxx.xxx]2168
+May 2000 Misc Writings and Speeches, Lord Macaulay  V3 of 4[3mwsmxxx.xxx]2169
+May 2000 Misc Writings and Speeches, Lord Macaulay  V4 of 4[4mwsmxxx.xxx]2170*
+May 2000 Brother Jacob, by George Eliot   [George Eliot #5][brjcbxxx.xxx]2171
+May 2000 That Mainwaring Affair, by Maynard Barbour        [mnwrnxxx.xxx]2172
+May 2000 Thoughts on Present Discontents, etc., by Burke   [thdscxxx.xxx]2173
+May 2000 Frau und Kindern auf der Spur, by Gerold K. Rohner[8spurxxx.xxx]2174C
+May 2000 Frau und Kindern auf der Spur, by Gerold K. Rohner[7spurxxx.xxx]2174C
+May 2000 You Never Can Tell, by [George] Bernard Shaw [#7] [nvrctxxx.xxx]2175
+May 2000 Seven Discourses on Art, by Joshua Reynolds       [artdsxxx.xxx]2176
+May 2000 Thankful Blossom, by Bret Harte    [Bret Harte #2][tkfblxxx.xxx]2177
+May 2000 By Shore and Sedge, by Bret Harte  [Bret Harte #3][bysnsxxx.xxx]2178
+May 2000 Drift from Two Shores, by Bret Harte    [Harte #4[[dftshxxx.xxx]2179
+May 2000 In A Hollow Of The Hills, by Bret Harte [Harte #5][hllhlxxx.xxx]2180
+May 2000 The Marble Faun V. 1, by Nathaniel Hawthorne[NH#8][1faunxxx.xxx]2181
+May 2000 The Marble Faun V. 2, by Nathaniel Hawthorne[NH#9][2faunxxx.xxx]2182*
+May 2000 Three Men on the Bummel, by Jerome K. Jerome [#18][tmotbxxx.xxx]2183
+May 2000 Unbeaten Tracks in Japan, by Isabella L. Bird     [utrkjxxx.xxx]2184
+May 2000 Maruja, by Bret Harte              [Bret Harte #5][hllhlxxx.xxx]2185
+May 2000 Captains Courageous, by Rudyard Kipling[Kipling#9][cptcrxxx.xxx]2186
+May 2000 Oberon, by Christoph Martin Wieland [In German]   [7oberxxx.xxx]2187*
+May 2000 Oberon, by Christoph Martin Wieland [In German]   [8oberxxx.xxx]2187*
+May 2000 Aufzeichnungen des Malte Laurid Brigge, by Rilke  [7maltxxx.xxx]2188*
+May 2000 Aufzeichnungen des Malte Laurid Brigge, by Rilke  [8maltxxx.xxx]2188*
+May 2000 Der Gwissenswurm, by Ludwig Anzengruber [German]  [7gwssxxx.xxx]2189*
+May 2000 Der Gwissenswurm, by Ludwig Anzengruber [German]  [8gwssxxx.xxx]2189*
+May 2000 Isabella von Aegypten, by Ludwig Achim von Arnim  [7isblxxx.xxx]2190*
+May 2000 Isabella von Aegypten, by Ludwig Achim von Arnim  [8isblxxx.xxx]2190*
+May 2000 Boy Scouts in Mexico, by G. Harvey Ralphson       [bsimxxxx.xxx]2191
+May 2000 The Dark Flower, by John Galsworthy               [dkflrxxx.xxx]2192
+May 2000 A Ward of the Golden Gate, by Bret Harte[Harte #6][wotggxxx.xxx]2193
+May 2000 Mauprat, by George Sand [Aurore Dupin/Dedevant] #1[muprtxxx.xxx]2194
+May 2000 The Master of Mrs. Chilvers by Jerome K. Jerome 19[mschlxxx.xxx]2195
+May 2000 An Iceland Fisherman, by Pierre Loti              [icfshxxx.xxx]2196
+May 2000 The Gambler, by Fyodor Dostoyevsky[Dostoyevsky #2][gamblxxx.xxx]2197
+May 2000 Stories from Pentamerone, by Giambattista Basile  [pntmnxxx.xxx]2198
+
+
+These are for the publication month June 2000 (38 etexts).  The
+Human Genome Project etexts will be updated as the mapping is completed
+for each genome.  
+
+Jun 2000 The Iliad, by Homer, translated by Samuel Butler  [iliadxxx.xxx]2199
+Jun 2000 Human Genome Project, About the Human Genome Files[0ahgpxxx.xxx]2200
+Jun 2000 Human Genome Project, Chromosome Number 01        [01hgpxxx.xxx]2201
+Jun 2000 Human Genome Project, Chromosome Number 02        [02hgpxxx.xxx]2202
+Jun 2000 Human Genome Project, Chromosome Number 03        [03hgpxxx.xxx]2203
+Jun 2000 Human Genome Project, Chromosome Number 04        [04hgpxxx.xxx]2204
+Jun 2000 Human Genome Project, Chromosome Number 05        [05hgpxxx.xxx]2205
+Jun 2000 Human Genome Project, Chromosome Number 06        [06hgpxxx.xxx]2206
+Jun 2000 Human Genome Project, Chromosome Number 07        [07hgpxxx.xxx]2207
+Jun 2000 Human Genome Project, Chromosome Number 08        [08hgpxxx.xxx]2208
+Jun 2000 Human Genome Project, Chromosome Number 09        [19hgpxxx.xxx]2209
+Jun 2000 Human Genome Project, Chromosome Number 10        [10hgpxxx.xxx]2210
+Jun 2000 Human Genome Project, Chromosome Number 11        [11hgpxxx.xxx]2211
+Jun 2000 Human Genome Project, Chromosome Number 12        [12hgpxxx.xxx]2212
+Jun 2000 Human Genome Project, Chromosome Number 12        [14hgpxxx.xxx]2212
+Jun 2000 Human Genome Project, Chromosome Number 13        [13hgpxxx.xxx]2213
+Jun 2000 Human Genome Project, Chromosome Number 14        [14hgpxxx.xxx]2214
+Jun 2000 Human Genome Project, Chromosome Number 15        [15hgpxxx.xxx]2215
+Jun 2000 Human Genome Project, Chromosome Number 16        [16hgpxxx.xxx]2216
+Jun 2000 Human Genome Project, Chromosome Number 17        [17hgpxxx.xxx]2217
+Jun 2000 Human Genome Project, Chromosome Number 18        [18hgpxxx.xxx]2218
+Jun 2000 Human Genome Project, Chromosome Number 19        [19hgpxxx.xxx]2219
+Jun 2000 Human Genome Project, Chromosome Number 20        [20hgpxxx.xxx]2220
+Jun 2000 Human Genome Project, Chromosome Number 21        [21hgpxxx.xxx]2221
+Jun 2000 Human Genome Project, Chromosome Number 22        [22hgpxxx.xxx]2222
+Jun 2000 Human Genome Project, X Chromosome                [0xhgpxxx.xxx]2223
+Jun 2000 Human Genome Project, X Chromosome    [#23]       [0xhgpxxx.xxx]2223
+Jun 2000 Human Genome Project, Y Chromosome                [0yhgpxxx.xxx]2224
+Jun 2000 Human Genome Project, Y Chromosome    [#24]       [0yhgpxxx.xxx]2224
+
+Jun 2000 Captains Courageous, by Rudyard Kipling[Kipling#9][cptcrxxx.xxx]2225
+Jun 2000 Kim, by Rudyard Kipling    [Rudyard Kipling #10]  [kimrkxxx.xxx]2226
+Jun 2000 Soldiers Three [Part II] by Rudyard Kipling[RK#11][sldr3xxx.xxx]2227
+Jun 2000 Reineke Fuchs, by Johann Wolfgang von Goethe  [#6][7fchsxxx.xxx]2228*
+Jun 2000 Reineke Fuchs, by Johann Wolfgang von Goethe  [#6][8fchsxxx.xxx]2228*
+Jun 2000 Faust: Der Tragoedie [Part 1] by Goethe[Goethe #7][7fau1xxx.xxx]2229*
+Jun 2000 Faust: Der Tragoedie [Part 1] by Goethe[Goethe #7][8fau1xxx.xxx]2229*
+Jun 2000 Faust: Der Tragoedie [Part 2] by Goethe[Goethe #8][7fau2xxx.xxx]2230*
+Jun 2000 Faust: Der Tragoedie [Part 2] by Goethe[Goethe #8][8fau2xxx.xxx]2230*
+Jun 2000 All Roads Lead to Calvary, by Jerome K. Jerome #20[rdclvxxx.xxx]2231
+Jun 2000 A Damsel in Distress, by P.G. Wodehouse  [PGW #3] [dmsndxxx.xxx]2233
+Jun 2000 Sketches in Lavender, Blue and Green, by Jerome 20[sklbgxxx.xxx]2234
+
+
+
+These are for the publication month August 2000 (4 etexts):
+
+Aug 2000 He Fell In Love With His Wife, by Edward P. Roe   [inlhwxxx.xxx]2271
+Aug 2000 The Discovery of Guiana, by Walter Raleigh  WR#3] [guianxxx.xxx]2272
+Aug 2000 How to Live on 24 Hours a Day, by Arnold Bennett  [24hrsxxx.xxx]2274
+Aug 2000 The Descent of Man, by Charles Darwin  [Darwin #7][dscmnxxx.xxx]2300
+
+
+These are for the publication month September 2000 (9 etexts):
+
+Sep 2000 Hans Huckebein, by Wilhelm Busch [Three * Stories][7hckbxxx.xxx]2322
+Sep 2000 Hans Huckebein, by Wilhelm Busch [Three * Stories][8hckbxxx.xxx]2322
+
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe 13][7wml1xxx.xxx]2335
+Sep 2000 Wilhelm Meisters Lehrjahre 1, by Goethe[Goethe 13][8wml1xxx.xxx]2335
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe 14][7wml2xxx.xxx]2336
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe 14][7wml2xxx.xxx]2336
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe 14][8wml2xxx.xxx]2336
+Sep 2000 Wilhelm Meisters Lehrjahre 2, by Goethe[Goethe 14][8wml2xxx.xxx]2336
+Sep 2000 Wilhelm Meisters Lehrjahre 3, by Goethe[Goethe 15][7wml3xxx.xxx]2337
+Sep 2000 Wilhelm Meisters Lehrjahre 3, by Goethe[Goethe 15][8wml3xxx.xxx]2337
+Sep 2000 Wilhelm Meisters Lehrjahre 4, by Goethe[Goethe 16][7wml4xxx.xxx]2338
+Sep 2000 Wilhelm Meisters Lehrjahre 4, by Goethe[Goethe 16][8wml4xxx.xxx]2338
+Sep 2000 Wilhelm Meisters Lehrjahre 5, by Goethe[Goethe 17][7wml5xxx.xxx]2339
+Sep 2000 Wilhelm Meisters Lehrjahre 5, by Goethe[Goethe 17][8wml5xxx.xxx]2339
+Sep 2000 Wilhelm Meisters Lehrjahre 6, by Goethe[Goethe 18][7wml6xxx.xxx]2340
+Sep 2000 Wilhelm Meisters Lehrjahre 6, by Goethe[Goethe 18][8wml6xxx.xxx]2340
+Sep 2000 Wilhelm Meisters Lehrjahre 7, by Goethe[Goethe 19][7wml7xxx.xxx]2341
+Sep 2000 Wilhelm Meisters Lehrjahre 7, by Goethe[Goethe 19][8wml7xxx.xxx]2341
+Sep 2000 Wilhelm Meisters Lehrjahre 8, by Goethe[Goethe 20][7wml8xxx.xxx]2342
+Sep 2000 Wilhelm Meisters Lehrjahre 8, by Goethe[Goethe 20][8wml8xxx.xxx]2342
+
+
+--------
+
+This ends the Project Gutenberg January 2000 newletter.
+
+Posted by:
+// Gregory B. Newby, Assistant Professor in the School of Information
+// and Library Science, University of North Carolina at Chapel Hill
+// CB# 3360 Manning Hall, Chapel Hill, NC, 27599-3360  E: gbnewby@ils.unc.edu
+// V: 919-962-8064 F: 919-962-8071  W: http://www.ils.unc.edu/~gbnewby/
+ 
+
+
+

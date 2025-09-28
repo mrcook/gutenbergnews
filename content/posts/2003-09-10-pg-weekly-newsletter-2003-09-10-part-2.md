@@ -1,0 +1,756 @@
+---
+params:
+  id: 2042
+title: "PG Weekly Newsletter: Part 2 (2003-09-10)"
+date: 2003-09-10T11:22:25+00:00
+author: Michael Cook
+layout: post
+url: /20030910/pg-weekly-newsletter-2003-09-10-part-2/
+enclosure:
+  - |
+    |
+        http://www.bartleby.com/61/wavs/11/H0091100.wav
+        0
+        audio/wav
+
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 10th September 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News
+   Distributed Proofreaders Update
+   Radio Gutenberg Update
+3) Notes and Queries
+4) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.gutenberg.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+See below to learn how you can get INSTANT access to our eBooks via
+FTP servers even before the new eBooks listed below appear in our
+catalogue. The eBooks are posted throughout the week. You can even get
+daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+This week I have tried to concentrate on some of the smaller projects
+and suppliers of material to PG.
+
+We continue our 'donate a dollar' campaign. If you feel that you are
+able, please consider donating one dollar to Project
+Gutenberg.
+
+Happy reading,
+
+Alice
+
+(news@pglaf.org - If you hit reply, the mail you
+send does not reach me and disappears into the ether, it's an
+anti-spam measure.)
+
+We welcome feedback and awkward questions at the address above. Please
+feel free to send our general ramblings to a friend.
+
+The Project Gutenberg Newsletter Website is available at
+
+http://ibiblio.org/gutenberg/newsletter
+
+Any feedback about the website is most useful.
+
+
+Smarty-pants award to Jon Hagerson for spotting last week's mistake
+with part 1 of the newsletter, thank you Jon.
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News and Comment
+
+Notes from Posted
+
+We are starting a brand new rubric this week on 'Posted'. So, let us
+see what was new and interesting in more than 200 messages in my email
+inbox, gathered during a week's vacation! Problems with Beryl, new
+titles, PG FAQ as a possible Rosetta stone, sounds promising, then
+David Widger's notes about Rochefoucauld's maxims make the call for
+downloading, and finally here it is - the intensive correspondence
+about different ways of expanding an empire, starting with
+convincing living authors to  willingly contribute their pearls into
+PG's treasury. The main lines of suggestion were direct approaches to
+writers, working hard on lists and contacting universities. However,
+as Rose advised Alice, let's go for a moment to the opposite
+direction, for it is sometimes the fastest way to fulfill the desires
+of our hearts...  Everybody knows, that authors are always looking
+for better promotion, so what we should do is just put a plate with
+honey in an open place and all the bees will be ours. The conclusion
+is obvious, the PG name should become famous. For a start the very name
+should become familiar and a standard association with the e-text
+file downloaded from any web-site.
+
+Honestly, 99% of people that I'm meeting (and they do read books) do
+not have a clue what PG is and readily forget about it immediately
+after being told. You can download the e-texts from various sites and
+some of them using PG sources, but who knows it? The title list of the
+ASCII file says something rather dull, that definitely requires to be
+skipped. What about the PG logo? Somebody knows how it looks?
+Shouldn't it appear near each link to an e-text with a small but bold
+inscription - 'Proud Project's Gutenberg Property' (or any better wording
+of your choice)? Then after making a huge effort by reformatting the
+e-texts, why not connect to the original sites with a proposition
+of replacing their non-proofread version by one of much better quality
+from PG (of course, with the small tax of mentioning PG's name near
+the link)? Connect to the e-library and PDA sites with a proposition
+of cooperation, make PG a household name to be seen everywhere and
+then authors will make a long line near M.Hart's email box, begging to
+include their opuses in the most famous e-text collection of the world.
+
+Gali Sirkis
+                    -------------------
+
+Other news items this week
+
+US readers should watch out for Banned Books Week from September 20 -
+27th, Sponsored by the American Library Association and the American
+Booksellers Association.
+
+Many works that have been historically censored, challenged and banned
+are already on PG, a search is now on through the realms of DP to
+search out some of these gems. So if you see an event at your local
+library please take a look.
+
+----------------
+
+If you are within earshot of KQMS in Redding, CA this Saturday at 8am
+Pacific Time, keep your ears peeled for the dulcet tones of Charles
+Franks. Charles will be appearing to talk about DP and PG. If you hear
+him, send us a review (and tell me if he speaks in dulcet tones, as
+I've never heard him talk!)
+
+----------------
+
+A recent posting to PG by our own Jim Tinsley is the PG FAQ* as an
+etext.
+
+----------------
+
+Project Gutenberg is interested digitized music in all forms.  We
+have a large-format scanner suitable for sheet music, and have
+released musical scores in Finale and MusicXML formats.  We would
+welcome MIDI, Lilypond, and other formats, as well.  Visit:
+	http://ibiblio.org/gutenberg/music
+for our current sheet music offerings and files available for
+processing.  Contemporary scores (with copyright permission) and
+older musical plays would also be of interest.  As for all
+Project Gutenberg items, the first step is to get copyright
+clearance (http://beryl.ils.unc.edu/copy.html).
+
+
+
+
+
+Alice
+
+
+*Welcome to 'ackronyms are us' (now there's a quiz!)
+                    -------------------
+
+New Project Gutenberg E-Book: Nina Balatka by Anthony Trollope
+
+(Sept 2005, E-Book #8897, nnblt10.txt/zip and nnbld10h.htm/zip)
+
+Project Gutenberg has made available one of Anthony Trollope's most unusual
+books, Nina Balatka. The book is unusual in several respects. First, it is
+set in Prague rather than the British isles, and it does not deal with
+Trollope's usual characters, the nobility and landed gentry. Second,
+Trollope's usual witty editorial comments are absent. Third, while the book
+is ostensibly the story of two lovers, Nina Balatka and Anton Trendellsohn,
+they are already in love and engaged at the start of the novel. And finally,
+what makes this book most unusual is starkly stated in the remarkable opening
+sentence of the novel:
+
+Nina Balatka was a maiden of Prague, born of Christian parents, and herself a
+Christian--but she loved a Jew; and this is her story.
+
+This situation raises few eyebrows at the beginning of the 21st century, but
+it was a shocker in the highly anti-semitic culture of mid-19th century
+England. Trollope published the novel anonymously in 1866. In his
+autobiography he claims he did this to determine whether his books sold
+because of his name or because of their quality. One must suspect that the
+controversial subject matter led him to publish this book anonymously or at
+least to select it for his experiment.
+
+The book is short by Victorian standards. Its plot deals largely with the
+obstacles to the marriage of the two lovers resulting from their religious
+differences and from the schemes of Nina's relatives. It contains one of
+Trollope's most remarkable women, Rebecca Loth, a Jewish girl (in love with
+Anton) who befriends Nina and eventually saves her life. Another wonderful
+character is Nina's Aunt Sophie, who reminds one of Mrs. Proudy, the bishop's
+wife, in Trollope's Barsetshire novels. While the book is one of his
+lesser-known works, it's powerful, relentless plot and well-drawn characters
+make it excellent reading and deserving of greater acclaim.
+
+Those who read many of Trollope's novels are bound to wonder whether he was
+anti-semitic. Unquestionably they contain countless derogatory references to
+and descriptions of Jews. But do these references reflect Trollope's own
+views or the views of the realistic characters he created? In Nina Balatka it
+is his Christian characters who are greedy, scheming, and conniving; his
+Jewish characters for the most part act with honesty and compassion. Was this
+contrast drawn on purpose?
+
+This edition of Nina Balatka is itself unusual in that it includes an
+introduction written specially for Project Gutenberg by Joseph E.
+Loewenstein, who scanned and prepared the E-text. In it Dr. Loewenstein
+provides background for the reader and explores the question of whether
+Trollope was anti-semitic.
+
+Joseph Lowenstein
+                    -------------------
+
+Distributed Proofreaders Update
+
+
+The general purpose of this column is to explore the variety of
+processes which combine to form the working matrix of Distributed
+Proofreaders. This week we're going to take a slightly different view
+and turn our focus to something all DP'ers share...a motive for
+participating in the project.
+
+We all have a need for some degree of certainty in our lives. Having
+something or someone we can trust and feel familiar with is satisfying
+on several levels. That we find such certainty at DP is a benefit to
+the project which seems unlikely to have been in the original
+plans. We don't talk much in the forums about the internal, individual
+experiences we each have with the project. The daily exchanges tend to
+the development process and the ways of improving it. Once in a while
+though, the inner life of proofers will bubble to the surface.
+
+DP is server based. So there are times when the project is not
+accessible for one reason or other. It is during such 'no access'
+moments that we each realize how much DP has come to be a positive
+fixture in our lives. If you have been with the project a while, you
+already know some variation of this recognition.  If you have not
+spent time at DP, it is well worth your effort to give it a try. What
+unfolds here, beyond book making, is a true expression of those young,
+'heady' dreams of what the Internet could become.
+
+Here is a real on-line community which spans continents, languages and
+time zones, while in the process of enriching the cultural &
+historical heritage of the world. Through the day to day log-in we
+tend to lose sight of this grand vision, we just return without giving
+it much thought, pick up whatever task we left off or just proof a few
+pages. And yet, something inside us is satisfied by this act
+... something innately Human.
+
+Over the coming days our attention is going to be drawn back to the
+dark events of two years ago. Whether we have personal attachments or
+the mass media besieges us with images, our minds will reflect upon
+how much the world has changed over that time. It is natural in this
+passage to feel a deepening sense of uncertainty with many events of
+significance reshaping the world that was once familiar to us.
+
+At such times as this, the subtle strengths of the Distributed
+Proofreading project can provide a base of 'solid ground' when no
+other seems available to us. At DP we can always drink of some
+certainties; we know there is a place in the world where our time
+and energy can be positively invested; we know we will always find a
+familiar circle of like-minded people who care about similar issues
+and values to our own, and should we ever voice a need to this circle,
+they will come to our side and stand together with
+us. Ask, and you will see this. I have, and it is true.
+
+Perhaps the greatest gift that DP offers an individual is the
+certainty that they can make a difference in the world. It may seem a
+small contribution on a daily measure, but every page makes a real
+difference.  Like a single stone within a wall, unnoticed to a passer-by,
+yet essential to the support of a cathedral, so are the individual
+pages at DP to the World Library of PG's vision. There is something
+within each proofer, however unconscious, that realizes this truth. In
+these uncertain times, that's one of the payments in gold that
+inspires our motivation to keep coming back.
+
+In the next issue we'll return to the beaten path and explore the two
+stages of the Post Production process, where texts are re-assembled
+and readied for their debut in the Project Gutenberg stacks.
+
+Until then, may this week be fair, and lead you closer to your dreams!
+
+Thierry
+                    -------------------
+
+Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+This week RG is running AEsop's Fables on channel 1 and The Lion, the
+Witch and the Wardrobe by C.S. Lewis on channel 2.
+
+
+If you are interested in which etexts and authors have been turned
+into audio ebooks, a list can now be found on the Radio Gutenberg website.
+
+
+If you are interested in creating a slide-show with a soundtrack
+from your favourite book, or piece of literature please mail us here
+at news@pglaf.org and we will pass your message on.
+
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. An example of
+the changed listing is given below. If you would like either a daily
+or weekly version of this list please email news@pglaf.org, and state
+which version you require.
+
+{Note to the unwary: this is an example.}
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries, Reviews and Features
+
+The name: NATHANIEL HAWTHORNE
+
+[For the foreigners like the author of these notes, that never
+succeeded to pronounce this complicated name correctly:
+Pronunciation: http://www.bartleby.com/61/wavs/11/H0091100.wav
+# hô´thôrn´´ from http://www.bartleby.com/61/13/H0091300.html" The
+American Heritage® Dictionary of the English Language, Fourth
+Edition. Copyright© 2000 by Houghton Mifflin Company.]
+
+The brief biography:
+
+From all available internet resources Nathaniel Hathorne (who later
+became Nathaniel Hawthorn) was born exactly 28 years after signing of
+the famous declaration, on 4th July, 1804, in Salem, Massachusetts,
+famous by its bloody (by all means) witchcraft trials
+(http://www.law.umkc.edu/faculty/projects/ftrials/salem/SALEM.HTM) in
+17th century. Interesting that Hathorne family could trace its history
+as far back as 1692, when one of his predecessors John Hathorne was
+actually the judge on such a trial and naturally was many times cursed
+by poor convicteds. So N.H. later in his life tried to resolve this
+uncomfortable fact in his 'The House of the Seven Gables' where the
+marriage between successors of the cursed and cursing remitted the
+unsettled punishment.
+In the times covered by N.H. biography, Hathorns went to the more
+romantic side of life, and the Nathaniel Hathorn-senior was a sea
+captain. In the year 1808, in the warm waters of Atlantic Ocean near
+Surinam, the brave captain gave up to yellow fever and died, leaving
+Nathaniel junior and his sisters Elizabeth and Louise to their mother,
+Elizabeth Clarke Manning Hathorne.
+In the year 1820 N.H. went to Bowdoin College in Brunswick, Maine. As
+it read in one of the biographies 'The curriculum focused on the
+classics and on religion'. As far as I understood, though, the
+curriculum of N.H. was mainly focused on the having good time with his
+friends and on trying to avoid suspension due to the above. As most of
+us, he finally was not suspended and succeeded to graduate after 5
+years and came back to the his family, which at this time moved back to Salem.
+
+Intermezzo about humane race:
+During the years of study in Bowdoin College, he was befriended by
+three gentlemen, one named Henry Longfellow, another Franklin Pierce
+and the third one Horatio Bridge. Among their classmates there were
+also George B. Cheerer and John S. C. Abbott. It reminded me of
+another similar gang of college friends - Luis Bunuel, Frederico
+Garcia Lorka and Salvador Dali. This observation is as old as the
+world itself, but it still puzzles me. Seems that the humans are
+packed in special boxes, so each time another box is opened and the
+tireless flock of storks brings to the world bunches of people made
+from same ingredients with an embedded attraction force, which brings
+them together from different countries to the same colleges, hight
+schools and kindergardens. Or may be it is somehow connected to some
+global pattern of geothermal or solar activity?
+
+The future biography of Hawthorn is very well described in many links
+(see below), so here is the only brief description of it. However one
+interesting excursion in his life is probably worth mentioning here;
+in 1841, he joined the Brook Farm venture, 
+(http://www.bartleby.com/65/br/BrookFar.html) for an year and half,
+got extremely disappointed and came back to Salem in 1842, where he
+immediately married Sophia (after JOHN ERSKINE
+http://www.bartleby.com/226/index.html#2 ). So the Utopian experience
+started in his notesbooks as  'Here I am in a polar Paradise!',
+evolved through 'It is an endless surprise to me how much work there
+is to be done in the world; but, thank God, I am able to do my share
+of it,--and my ability increases daily. What a great,
+broad-shouldered, elephantine personage I shall become by and by!..'
+to the Oh, labour is the curse of the world, and nobody can meddle
+with it without becoming proportionably brutalised! Is it a
+praiseworthy matter that I have spent five golden months in providing
+food for cows and horses? It is not so'.
+
+Besides this and few years spent in Boston and Concord, he stayed
+mainly in Salem until 1950. He wrote most of his works, met the love
+of his life Sophia Peabody, married her, made several kids and
+switched different jobs. Then after loosing the last one - Surveyor of the
+Port in Salem arranged for him by his friend Horatio, and the death of
+his mother soon after, he decided to leave the Salem which he called
+"that abominable city," and never to return there. So he fullfilled
+this decision and spent rest of his days outside his hometown, partly
+in Liverpool, England, where he assumed position of Consul.He died in
+his sleep on May 18, 1864 in Pemigewasset House in Plymouth.
+
+From the internet:
+The full bibliography:
+http://www.eldritchpress.org/nh/nhwrit.html
+The http://guweb2.gonzaga.edu/faculty/campbell/enl311/hawthor.htm is a
+good page for related links. Amongst other pages (and there are as
+many as 111,000 others!) http://www.hawthorneinsalem.org/  is highly
+recommended, for it's less formal air,  absence of annoying ads and
+the most comprehensive biography accompanied with various documents
+and references.
+
+N.H. possess as much as 26 entries (27069 to 27095 ) from the Columbia
+World of Quotations.
+
+Gali Sirkis
+                    -------------------
+
+The uncollected texts of Pauline Johnson.
+
+E. Pauline Johnson was a poet, a gripping performer, a patriotic
+Canadian, a proud half-Mohawk, a canoeing enthusiast, and a bohemian
+spirit. I first became aware of her name when browsing through listings
+of Project Gutenberg. Since then, I've read a great deal about this
+fascinating woman and helped to include all her material published in
+book form in Project Gutenberg.
+
+Her books of stories were all collections of material she had already
+published in various newspapers and magazines. For a while the idea had
+been floating around in my head to put together for Project Gutenberg
+articles she had written that had not been collected anywhere else.
+
+Over the last ten years, there has been a growing scholarly interest in
+Johnson; a recently published book about her includes a comprehensive
+appendix listing around 250 poems, articles and stories published in a
+wide variety of sources mostly from the period of 1890-1913. This was
+my starting point.
+
+But I've found good challenges along the way. From learning how to use
+microfilm to looking for items that have been mis-catalogued, my
+research skills have definitely been improved. Also, as I'm mostly
+dealing with photocopies made from microfilm, the quality it not good
+enough to use OCR, so I'm typing everything out by hand.
+
+Part of what I find appealing in this little project is that I can take
+material which is not easily accessible and has never been gathered all
+together in one place before and make it freely available through PG.
+
+Anyone who wants to see the results of what I've done so far can take a
+look at http://www.victoria.tc.ca/~sly/epj/index.htm
+Most of the stories there are not proofed yet, and anyone interested
+in helping with that would be welcome.
+
+Andrew Sly
+                    -------------------
+
+Quiz
+
+The theme of this one is children's books:
+
+1. Anne of Green Gables etext92/anne11.txt
+
+2. The Wonderful Wizard of Oz etext93/wizoz10.txt
+
+3. The Secret Garden etext94/gardn11.txt
+
+4. A Little Princess etext94/lprss11.txt
+
+5. Five Children and It etext97/fivit10.txt
+
+6. The Princess and the Goblin etext96/prgob10.txt
+
+7. The Jungle Book etext95/jnglb10.txt
+
+8. Black Beauty etext95/bbeau10.txt
+
+9. The Wind in the Willows etext95/wwill10.txt
+
+--------------------------------------------
+
+a. Once on a dark winter's day, when the yellow fog hung so thick
+and heavy in the streets of London that the lamps were lighted
+and the shop windows blazed with gas as they do at night, an odd-
+looking little girl sat in a cab with her father and was driven
+rather slowly through the big thoroughfares.
+
+b. It was seven o'clock of a very warm evening in the Seeonee hills
+when Father Wolf woke up from his day's rest, scratched himself,
+yawned, and spread out his paws one after the other to get rid of
+the sleepy feeling in their tips.
+
+c. Mrs. Rachel Lynde lived just where the Avonlea main
+road dipped down into a little hollow, fringed with alders
+and ladies' eardrops and traversed by a brook that had its
+source away back in the woods of the old Cuthbert place.
+
+d. When Mary Lennox was sent to Misselthwaite Manor
+to live with her uncle everybody said she was the most
+disagreeable-looking child ever seen.
+
+e. The Mole had been working very hard all the morning, spring-
+cleaning his little home.
+
+f. Dorothy lived in the midst of the great Kansas prairies, with
+Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's
+wife.
+
+g. The house was three miles from the station, but before the dusty
+hired fly had rattled along for five minutes the children began to
+put their heads out of the carriage window and to say, 'Aren't we
+nearly there?'
+
+h. There was once a little princess whose father was king over a great
+country full of mountains and valleys.
+
+i. The first place that I can well remember was a large pleasant
+meadow with a pond of clear water in it.
+
+No prizes as ever, except free ebooks, anyone to send in a correct set
+of answers gets the Newsletter smarty-pants award.
+
+Thanks to Tonya Allen, quizmaster!
+                    -------------------
+
+Project Gutenberg Mailing Lists
+
+The following lists are currently running and open to all:
+
+gweekly - weekly newsletter
+gmonthly - monthly newsletter
+posted - instant book postings and important news(high traffic volume)
+gutvol-d - volunteer discussion unmoderated (medium traffic)
+gutvol-l - volunteer announcements (light traffic)
+gutvol-m - multi-media list, for audio and other non-text discussion
+(e.g. movies, music) (light traffic)
+gutvol-p - programming volunteers, for software development (light traffic)
+gutvol-w - new list for gutenberg website development (light traffic)
+glibrary - library help, help in tracking down books and copyright
+research (light traffic)
+gutnews - the official mailing list of the Gutenberg Gazette (light traffic)
+guttv - PG's attempt at world domination! No really, TV spots for PG
+(very little traffic)
+
+To find these lists you can go straight to listserv.unc.edu and look
+them up individually, alternatively,
+http://ibiblio.org/gutenberg/subs.htm gives you links to all the
+lists.
+
+Alice
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://www.gutenberg.net allows searching by title, author, language
+and subject. Mirrors (copies) of the complete collection are available
+around the world.
+
+
+These sites and indices are not updated instantly, as additional
+research may need to be done by our professional Chief Cataloguer, so
+for those who wish to obtain these new ebooks, please refer to the
+following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Please visit the site:
+http://www.pgdp.net for more information about how you can
+help, by proofreading just a few pages per day.
+
+ If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+ Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned)." Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+********
+
+Do you like to work on an entire book at once but don't have the time or
+technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution! Send email to
+dphelp@pgdp.net saying that you are interested in post-processing and we
+will help you find a project to work on.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Thierry, Gali, Cheryl and Michael, Tonya, Greg,
+Michael, and Larry Wall. Entertainment for the workers provided by
+Andrew Collins, Tom Robinson (yes, that one), John Madden and Al
+Michaels, Riverdance, Queen and Bruce Springsteen.
+
+Penalty is declined, first down!
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_09_10_part_2.txt" target="_blank" rel="nofollow">pgweekly_2003_09_10_part_2.txt</a>

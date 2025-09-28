@@ -1,0 +1,425 @@
+From hart at pglaf.org  Wed Sep 28 04:13:43 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Sep 28 04:14:18 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: <Pine.LNX.4.60.0509280413080.18916@pglaf.org>
+
+Weekly_September_28.txt
+The Project Gutenberg Weekly Newsletter For Wednesday, September 28, 2005 PT1
+******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+[Please note that today's Newsletters are being sent out a few hours early,
+as my local mainframe will be down during business hours for maintenance.]
+
+PT1A
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+
+We have changed our format this month to provide shorter Newsletter files.
+
+You should receive TWO versions of PT1 today:  PT1A, and PT1B.
+
+
+*
+
+HOT REQUESTS AND ANNOUNCEMENTS
+
+
+STATISTICAL CHANGES
+
+Due to various changes in our statistical reporting and coverage,
+the accuracy of the weekly count of the number of eBooks will not
+be as redundantly checked by a human count, and we will rely more
+on the automated system.
+
+***If you notice any inconsistencies, please send email to:
+
+hart AT pglaf DOT org
+
+For example, last week we reported 40 new eBooks, but in recounts
+it appears that we counted three extras.  These three have been a
+consistent source of extra counts or short counts over the month.
+
+*
+
+
+New Site!!!
+
+New General Catalog of Old Books and Authors
+
+http://www.kingkong.demon.co.uk/ngcoba/ngcoba.htm
+
+which now indexes 24,000 books available free online, including all
+PG(US) & PG(Aus)'s books, along with some basic date information
+about them and their authors where you can find more.
+
+For information please contact Philip Harper
+<webmaster AT kingkong.demon.co.uk>
+
+*
+
+
+WANTED!
+
+>>>   !!!People to help us collect ALL public domain eBooks!!!  <<<
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   40 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+          ***500 eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,210 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are 86% of the Way to 20,000!!!
+
+               14,148 New eBooks Since The Start Of 2001
+
+              That's 250+ eBooks per Month for ~56 Months
+
+                 We Have Produced 2254 eBooks in 2005!!!
+
+                        2,890 to go to 20,000!!!
+
+                  7,494 from Distributed Proofreaders
+                 Since October, 2000 [Details in PT1B]
+
+
+     We have now averaged 500+ eBooks per year since July 4th, 1971
+
+           We Averaged About 339 eBooks Per Month In 2004
+
+        We Are Averaging About 258 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org;
+        all Project Gutenberg sites have a higher grand total.]
+
+       This Site Is Averaging About 60 eBooks Per Week This Year
+
+                              40 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~1.75 years from Oct. 2003 to Aug. 2005 from 10,000 to 17,000
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note well
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+EU DATA-RETENTION PLANS DRAW CRITICISM
+Peter Hustinx, data protection supervisor for the European Union (EU),
+has voiced his criticism of two antiterrorism proposals for their
+stance on data retention. Neither the proposal by the European
+Commission nor one drafted by EU governments makes a compelling case
+for holding on to sensitive data as part of antiterrorism efforts, said
+Hustinx. The EU proposal, he noted, would allow for the retention of
+information such as times of phone calls for up to three years. Hustinx
+said that any measures put forth should comply with the European
+Convention on Human Rights. Those that do not are "not just
+unacceptable but illegal." The chair of the EU negotiations, British
+Home Secretary Charles Clarke, is urging European governments to forgo
+some measure of civil liberties in return for broader authority for law
+enforcement to investigate suspected terrorists.
+San Jose Mercury News, 26 September 2005
+http://www.siliconvalley.com/mld/siliconvalley/12746814.htm
+
+NEW TOOLS RATE SAFETY OF WEB SITES
+Two new tools from GeoTrust offer Internet users another layer of
+protection against a range of online scams. The TrustWatch Search site
+and TrustWatch Toolbar both provide indications about the probable
+reliability of sites users are visiting, in an effort to help consumers
+avoid being victimized by phishing scams or by other forms of
+fraudulent Web sites. The tools evaluate sites for security practices
+such as certain forms of authentication or use of a Secure Sockets
+Layer certificate. Sites are also screened against a black list of
+known fraud sites and checked for patterns that would indicate
+potentially malicious intent. Users are shown a green signal to
+indicate a verified site, a yellow signal for suspect sites, and a red
+signal for sites that cannot be verified. The toolbar provides users
+with a real-time screen for sites they visit; the search site returns
+search results--powered by Ask Jeeves--with one of the three indicators
+for each site returned.
+CNET, 25 September 2005
+http://news.com.com/2100-1029_3-5879068.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.]
+
+
+EVOLUTION LAWSUIT OPENS IN PENNSYLVANIA
+from The New York Times (Registration Required)
+
+HARRISBURG, Pa., Sept. 26 - Intelligent design is not science, has no
+support from any major American scientific organization and does not belong
+in a public school science classroom, a prominent biologist testified on the
+opening day of the nation's first legal battle over whether it is permissible
+to teach the fledgling "design" theory as an alternative to evolution.
+
+"To my knowledge, every single scientific society that has taken a position
+on this issue has taken a position against intelligent design and in favor
+of evolution," said the biologist, Kenneth R. Miller, a professor at Brown
+University and the co-author of the widely used high school textbook "Biology."
+
+Eleven parents in the small town of Dover, just south of here, are suing
+their school board for introducing intelligent design in the ninth-grade
+biology curriculum. The parents accuse the board of injecting religious
+creationism into science classes in the guise of intelligent design.
+Professor Miller, their main expert witness, was the only person to take
+the stand on Monday.
+http://tinyurl.com/dpds7
+
+*
+
+"You know that the arrest of Mr. Safavian, one of three known Abramoff
+alumni to migrate into the administration, is the start of something big.
+Alberto Gonzales's Justice Department announced it only after Mr. Safavian
+had appeared in court and had been released without bail. The gambit was
+clearly intended to keep the story off television, and it worked."
+
+"Safavian's arrest comes less than a year after a high-level Air Force
+procurement official, Darleen Druyun, went to prison for trading
+favorable multibillion-dollar contracts for a top job with Boeing Co."
+
+Safavian was in charge of procurement of all the hurrican relief
+until he was brought up on charges.  The specific charges are that
+he lied to a General Services Administration Ethics Officer,
+and other investigators about the Abramoff Scottish golf junket.
+In addition there were properties owned by the US government
+in DC and MD that were allegedly going to be sold to Safavian
+for his own private development plans.
+
+Safavian and Abramoff worked at Preston Gates Ellis' law firm
+starting in early 1995.  They both moved to the area of various
+gambling interests, including Indian casinos in later in the 90s.
+Safavian's wife, Jennifer is Chief Counsel for Oversight and
+Investigations on the House Government Reform Committee,
+which is chaired by Rep. Tom Davis, R-Va.  Abramoff was recently
+indicted on fraud and conspiracy charges by a federal grand jury,
+re: attempts to buy a number of Flordia gaming ships, and is still
+under Conngressional investigation for alegedly swindling millions
+from the very Indian tribes he was hired by as their lobbyist.
+
+The New York Times  9/25
+
+
+[Remember that in the news business, Friday is called "Garbage Day."
+Stories that are meant not to be reported are done or released on a
+Friday so that by Monday, when everyone is back in the news loop,
+the story is already dead.  The charges were filed Friday Sept. 16,
+and it was very quietly all over by Monday morning.]
+
+
+
+
+*STRANGE WORDS OF THE WEEK
+
+"Many of the people in the arena here, you know, were underprivileged anyway,"
+she said after touring the Astrodome, "so this is working very well for them.")
+
+Barbara Bush, as quoted in the New York Times    9/25
+
+
+
+*STRANGE QUOTES OF THE WEEK
+
+
+"To my knowledge, every single scientific society that has taken a position
+on this issue has taken a position against intelligent design and in favor
+of evolution," said the biologist, Kenneth R. Miller, a professor at Brown
+University and the co-author of the widely used high school textbook "Biology."
+
+[Previously, there has been no report that this was so unanimous.]
+
+
+
+*ODD STATISTICS OF THE WEEK
+
+
+More than 50% of the US populations lives within 50 miles of a coastline.
+
+
+". . .authorities were sufficiently concerned about hurricanes that
+last year they pre-positioned 10,000 body bags in New Orleans."
+
+New York Times  9/25
+
+*
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both north and south
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+the Heavens mourn
+the passing of the day
+with tears of rain and
+wonder of thunder
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+

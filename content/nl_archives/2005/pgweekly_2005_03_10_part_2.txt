@@ -1,0 +1,562 @@
+The Project Gutenberg Weekly Newsletter 10 Mar 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 67 New U.S. eBooks this week
+   - 1 New eBooks at Project Gutenberg of Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+ 
+The easiest way to obtain our eBooks is at our search page at
+ 
+  http://gutenberg.org/find
+ 
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+ 
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+ 
+  http://gutenberg.org/MIRRORS.ALL
+ 
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+ 
+  http://www.gutenberg.org/GUTINDEX.ALL
+ 
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+ 
+And to directly access the file directories:
+ 
+  http://gutenberg.org/dirs/
+ 
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+ 
+* * *
+ 
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+ 
+* * *
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Thu, 10 Mar 2005: 15680 (incl. 424 Aus.).
+
+Last week the Total Count was 15612, including 423 at PG of Australia.
+This week we added 68 new.
+
+RESERVED/PENDING count: 43
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+An html file has been added.
+ 
+A New Conscience And An Ancient Evil, by Jane Addams                     15221
+ [Link: http://www.gutenberg.net/1/5/2/2/15221 ]
+ [Files: 15221-h.htm]
+
+RTF file has been provided.
+ 
+Madame Bovary, by Gustave Flaubert                                       14155
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/1/5/14155/ ]
+  [Files: 14155-r.rtf]
+
+RTF file has been provided.
+ 
+Reflexions ou sentences et maximes morales,Francois de La Rochefoucauld  14913
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/9/1/14913/ ]
+  [Files: 14913-r.rtf]
+
+RTF file has been provided.
+ 
+Le myst&#65533;re de la chambre jaune, by Gaston Leroux                        13765
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/3/7/6/13765/ ]
+  [Files: 13765-r.rtf]
+  
+RTF file has been provided.
+ 
+Tarass Boulba, by Nikola&#65533; Vassilievitch Gogol                            13794
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/3/7/9/13794/ ]
+  [Files: 13794-r.rtf]
+  
+RTF file has been provided.
+ 
+Les compagnons de J&#65533;hu, by Alexandre Dumas                               13819
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/3/8/1/13819/ ]
+  [Files: 13819-r.rtf]
+  
+RTF file has been provided.
+ 
+Dictionnaire des id&#65533;es re&#65533;ues, by Gustave Flaubert                       14156
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/1/5/14156/ ]
+  [Files: 14156-r.rtf]
+  
+Bouvard et P&#65533;cuchet, by Gustave Flaubert                                 14157
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/1/5/14157/ ]
+  [Files: 14157-r.rtf]
+  
+Iliade, by Hom&#65533;re                                                        14285
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/2/8/14285/ ]
+  [Files: 14285-r.rtf]
+  
+L'Odyss&#65533;e, by Hom&#65533;re                                                     14286
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/2/8/14286/ ]
+  [Files: 14286-r.rtf]
+  
+Mademoiselle de Maupin, by Th&#65533;ophile Gautier                             14288
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/2/8/14288/ ]
+  [Files: 14288-r.rtf]
+  
+RTF file has been provided.
+ 
+Le loup blanc, by Paul H.C. F&#65533;val                                        14702
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/7/0/14702/ ]
+  [Files: 14702-r.rtf]
+  
+RTF file has been provided.
+ 
+Les troph&#65533;es, by Jos&#65533;-Maria de Heredia                                   14805
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/4/8/0/14805/ ]
+  [Files: 14805-r.rtf]
+
+-=-=-=-=[  67 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Drake, Nelson and Napoleon, by Walter Runciman                           15299 
+  [Author AKA: Sir Walter Runciman, Bart. (1847-1937)]
+  [Link: http://www.gutenberg.org/1/5/2/9/15299 ]
+  [Files: 15299.txt; 15299-8.txt; 15299-h.htm; ]
+
+Poet Lore, Volume XXIV, Number IV, 1912, by Various                      15298 
+  [Subtitle: Sword and Crozier, by Indridi Einarsson]
+  [Link: http://www.gutenberg.org/1/5/2/9/15298 ]
+  [Files: 15298.txt; 15298-8.txt; ]
+
+Le voleur, by Georges Darien                                             15297
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15297/ ]
+  [Files: 15297-8.txt; 15297-r.rtf]
+
+Le juif errant - Tome II, by Eugene Sue                                  15296
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15296/ ]
+  [Files: 15296-8.txt; 15296-r.rtf]
+
+Le juif errant - Tome I, by Eugene Sue                                   15295
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15295/ ]
+  [Files: 15295-8.txt; 15295-r.rtf]
+
+Country Doctor and Selected Stories and Sketches, by Sarah Orne Jewett   15294
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15294/ ]
+  [Files: 15294.txt; 15294-8.txt; 15294-h.htm]
+
+Influences of Geographic Environment, by Ellen Churchill Semple          15293
+  [Subtitle: On the Basis of Ratzel's System of Anthropo-Geography]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15293/ ]
+  [Files: 15293.txt; 15293-8.txt; 15293-h.htm]
+
+Katri Holm, by Mathilda Roos                                             15292
+  [Subtitle: Kertomus &#65533;ideille]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15292/ ]
+  [Files: 15292-8.txt]
+
+Gildet Pa Solhaug, by Henrik Ibsen                                       15291
+  [Language: Norwegian]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15291/ ]
+  [Files: 15291-8.txt; 15291-h.htm]
+
+Why the Chimes Rang: A Play in One Act, by Elizabeth Apthorp McFadden    15290
+  [Link: http://www.gutenberg.org/dirs/1/5/2/9/15290/ ]
+  [Files: 15290.txt; 15290-8.txt; 15290-h.htm]
+
+The Truce of God, by George Henry Miles                                  15289
+  [Subtitle: A Tale of the Eleventh Century]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/8/15289/ ]
+  [Files: 15289.txt; 15289-8.txt]
+
+Sodome et Gomorrhe--Volume 1, by Marcel Proust                           15288
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/8/15288/ ]
+  [Files: 15288-8.txt; 15288-h.htm]
+
+Teverino, by George Sand                                                 15287
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/8/15287/ ]
+  [Files: 15287-8.txt; 15287-h.htm]
+
+Reflexions sur le sort des Noirs dans nos colonies,by Daniel Lescallier  15286
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/8/15286/ ]
+  [Files: 15286-8.txt; 15286-h.htm]
+
+The Hosts of the Air, by Joseph A. Altsheler                             15285 
+  [Author AKA: Joseph Alexander Altsheler (1862-1919)]
+  [Subtitle: The Story of a Quest in the Great War]
+  [Ill.: Charles Wrenn]
+  [Link: http://www.gutenberg.org/1/5/2/8/15285 ]
+  [Files: 15285.txt; 15285-8.txt; 15285-h.htm; ]
+
+The Tale of Johnny Town-Mouse, by Beatrix Potter                         15284 
+  [Link: http://www.gutenberg.org/1/5/2/8/15284 ]
+  [Files: 15284.txt; 15284-h.htm; ]
+
+Disease and Its Causes, by William Thomas Councilman                     15283 
+  [Link: http://www.gutenberg.org/1/5/2/8/15283 ]
+  [Files: 15283.txt; 15283-8.txt; 15283-h.htm; ]
+
+Uncle Wiggily's Travels, by Howard R. Garis                              15282 
+  [Ill.: Louis Wisa]
+  [Link: http://www.gutenberg.org/1/5/2/8/15282 ]
+  [Files: 15282.txt; 15282-h.htm; ]
+
+Uncle Wiggily's Adventures, by Howard R. Garis                           15281
+  [Illustrator: Louis Wisa]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/8/15281/ ]
+  [Files: 15281.txt; 15281-h.htm]
+
+Lulu, Alice and Jimmie Wibblewobble, by Howard R. Garis                  15280 
+  [Ill.: Louis Wisa]
+  [Link: http://www.gutenberg.org/1/5/2/8/15280 ]
+  [Files: 15280.txt; 15280-h.htm; ]
+
+A Letter Addressed to the Abbe Raynal, by Thomas Paine                   15279
+  [Full title: A Letter Addressed to the Abbe Raynal, on the Affairs of]
+  [            North America, in Which the Mistakes in the Abbe's Account]
+  [            of the Revolution of America Are Corrected and Cleared Up]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/7/15279/ ]
+  [Files: 15279.txt; 15279-8.txt; 15279-h.htm]
+
+The Ramrodders, by Holman Day                                            15278
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/7/15278/ ]
+  [Files: 15278.txt; 15278-8.txt]
+
+The Open Secret of Ireland, by T. M. Kettle                              15277
+  [Link: http://www.gutenberg.org/dirs/1/5/2/7/15277/ ]
+  [Files: 15277.txt; 15277-8.txt; 15277-h.htm]
+
+Bears I Have Met--and Others, by Allen Kelly                             15276 
+  [Link: http://www.gutenberg.org/1/5/2/7/15276 ]
+  [Files: 15276.txt; 15276-h.htm; ]
+
+Bessie's Fortune, by Mary J. Holmes                                      15275
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/7/15275/ ]
+  [Files: 15275.txt; 15275-8.txt; 15275-h.htm]
+
+The Girl from Montana, by Grace Livingston Hill                          15274 
+  [Link: http://www.gutenberg.org/1/5/2/7/15274 ]
+  [Files: 15274.txt; 15274-8.txt; 15274-h.htm; ]
+
+Gedichten, by Frans Bastiaanse                                           15273
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/7/15273/ ]
+  [Files: 15273-8.txt; 15273-h.htm]
+
+Spenser's The Faerie Queene, Book I, by Edmund Spenser                   15272 
+  [Editor: George Armstrong Wauchope]
+  [Author: Introduction and annotation by George Armstrong Wauchope]
+  [Link: http://www.gutenberg.org/1/5/2/7/15272 ]
+  [Files: 15272.txt; 15272-8.txt; 15272-h.htm; ]
+
+Traditions of Lancashire, Volume 1 (of 2), by John Roby                  15271 
+  [Link: http://www.gutenberg.org/1/5/2/7/15271 ]
+  [Files: 15271.txt; 15271-8.txt; 15271-h.htm; ]
+
+The Brochure Series of Architectural Illustration, Vol. 1, No. 7, July,  15270 
+  [Title: The Brochure Series of Architectural Illustration, Vol. 1, No.]
+  [7, July, 1895]
+  [Author: Various]
+  [Subtitle: Italian Wrought Iron]
+  [Link: http://www.gutenberg.org/1/5/2/7/15270 ]
+  [Files: 15270.txt; 15270-8.txt; 15270-h.htm; ]
+
+The Empire of Russia, by John S. C. Abbott                               15269 
+  [Subtitle: From the Remotest Periods to the Present Time]
+  [Link: http://www.gutenberg.org/1/5/2/6/15269 ]
+  [Files: 15269.txt; 15269-8.txt; 15269-h.htm; ]
+
+John Stuart Mill; His Life and Works, by Authors                         15268 
+  [Author: Herbert Spencer, Henry Fawcett, Frederic Harrison and Other]
+  [Distinguished Authors]
+  [Subtitle: Twelve Sketches]
+  [Link: http://www.gutenberg.org/1/5/2/6/15268 ]
+  [Files: 15268.txt; 15268-8.txt; 15268-h.htm; ]
+
+Sechs Vortr&#65533;ge &#65533;ber ausgew&#65533;hlte Gegenst&#65533;nde, by Henri Poincar&#65533;           15267
+  [Full Title: Sechs Vortr&#65533;ge &#65533;ber ausgew&#65533;hlte Gegenst&#65533;nde aus der ]
+  [               reinen Mathematik und mathematischen Physik]
+  [Language: German and French]
+  [Link: http://www.gutenberg.org/1/5/2/6/15267 ]
+  [Files: 15267.tex; 15267-pdf.pdf]
+
+What Peace Means, by Henry van Dyke                                      15266 
+  [Link: http://www.gutenberg.org/1/5/2/6/15266 ]
+  [Files: 15266.txt; 15266-8.txt; 15266-h.htm; ]
+
+The Quest of the Silver Fleece, by W. E. B. Du Bois                      15265
+  [Subtitle: A Novel]
+  [Link: http://www.gutenberg.net/1/5/2/6/15265 ]
+  [Files: 15265.txt; 15265-8.txt; 15265-h.htm]
+
+Totta ja leikkia, by Aino Malmberg                                       15264
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/5/2/6/15264 ]
+  [Files: 15264-8.txt]
+
+The Underground Railroad, by William Still                               15263
+  [Subtitle: A Record Of Facts, Authentic Narratives, Letters, &C.,]
+  [Narrating The Hardships, Hair-Breadth Escapes And Death Struggles]
+  [Of The Slaves In Their Efforts For Freedom, As Related By Themselves]
+  [And Others, Or Witnessed By The Author]
+  [Link: http://www.gutenberg.net/1/5/2/6/15263 ]
+  [Files: 15263.txt; 15263-8.txt; 15263-h.htm]
+
+Christianity and Islam in Spain (756-1031), by Charles Reginald Haines   15262
+  [Link: http://www.gutenberg.net/1/5/2/6/15262 ]
+  [Files: 15262.txt; 15262-8.txt; 15262-h.htm]
+
+A Portraiture of Quakerism, Volume II (of 3), by Thomas Clarkson         15261 
+  [Subtitle: Taken from a View of the Education and Discipline, Social]
+  [Manners, Civil and Political Economy, Religious Principles and Character,]
+  [of the Society of Friends]
+  [Link: http://www.gutenberg.org/1/5/2/6/15261 ]
+  [Files: 15261.txt; 15261-8.txt; ]
+
+A Portraiture of Quakerism, Volume I (of 3), by Thomas Clarkson          15260 
+  [Subtitle: Taken from a View of the Education and Discipline, Social]
+  [Manners, Civil and Political Economy, Religious Principles and Character,]
+  [of the Society of Friends]
+  [Link: http://www.gutenberg.org/1/5/2/6/15260 ]
+  [Files: 15260.txt; 15260-8.txt; ]
+
+Pearl of Pearl Island, by John Oxenham                                   15259
+  [Link: http://www.gutenberg.org/dirs/1/5/2/5/15259/ ]
+  [Files: 15259.txt; 15259-8.txt; 15259-h.htm]
+
+Cecilia de Noel, by Lanoe Falconer                                       15258
+  [Link: http://www.gutenberg.org/dirs/1/5/2/5/15258/ ]
+  [Files: 15258.txt; 15258-8.txt; 15258-h.htm]
+
+The Curious Case of Lady Purbeck, by Thomas Longueville                  15257
+  [Subtitle: A Scandal of the XVIIth Century]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/5/15257/ ]
+  [Files: 15257.txt; 15257-8.txt; 15257-h.htm]
+
+The Young Seigneur, by Wilfrid Chateauclair                              15256
+  [Subtitle: Or, Nation-Making]
+  [Author AKA: William Douw Lighthall]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/5/15256/ ]
+  [Files: 15256.txt; 15256-8.txt]
+
+Hinduism and Buddhism, Vol I. (of 3), by Charles Eliot                   15255
+  [Subtitle: An Historical Sketch]
+  [Link: http://www.gutenberg.net/1/5/2/5/15255 ]
+  [Files: 15255.txt; 15255-8.txt; 15255-0.txt; 15255-h.htm]
+
+Maxims Of His Grace The Duke Of Wellington, by Wellington                15254
+  [Full title: Maxims And Opinions Of Field-Marshal His Grace]
+  [The Duke Of Wellington, Selected From His Writings And Speeches]
+  [During A Public Life Of More Than Half A Century]
+  [Full author: Arthur Wellesley, Duke of Wellington]
+  [Biographical Memoir By George Henry Francis]
+  [Link: http://www.gutenberg.net/1/5/2/5/15254 ]
+  [Files: 15254.txt; 15254-8.txt]
+
+Advance of Science in the Last Half-Century, T.H. (Thomas Henry) Huxley  15253
+  [Link: http://www.gutenberg.net/1/5/2/5/15253 ]
+  [Files: 15253.txt; 15253-8.txt; 15253-h.htm]
+
+Victorian Short Stories, Vol. 2, by Elizabeth Gaskell, et al.            15252
+  [Subtitle: Stories Of Successful Marriages]
+  [Contents:]
+  [The Manchester Marriage by Elizabeth Gaskell]
+  [A Mere Interlude by Thomas Hardy]
+  [A Faithful Heart by George Moore]
+  [The Solid Gold Reef Company, Limited by Walter Besant]
+  [The Tree Of Knowledge by Henry James]
+  [Link: http://www.gutenberg.net/1/5/2/5/15252 ]
+  [Files: 15252.txt; 15252-8.txt]
+
+The Biography of Robert Murray M'Cheyne, by Andrew A. Bonar              15251
+  [Link: http://www.gutenberg.net/1/5/2/5/15251 ]
+  [Files: 15251.txt; 15251-8.txt; 15251-h.htm]
+
+Myths and Legends of China, by E. T. C. Werner                           15250
+  [Link: http://www.gutenberg.net/1/5/2/5/15250 ]
+  [Files: 15250.txt; 15250-8.txt; 15250-h.htm]
+
+Outspoken Essays, by William Ralph Inge                                  15249
+  [Link: http://www.gutenberg.net/1/5/2/4/15249 ]
+  [Files: 15249.txt; 15249-8.txt; 15249-h.htm]
+
+Success (Second Edition), by Max Aitken Beaverbrook                      15248
+  [Link: http://www.gutenberg.net/1/5/2/4/15248 ]
+  [Files: 15248.txt; 15248-8.txt; 15248-h.htm]
+
+John Henry Smith, by Frederick Upham Adams                               15247
+  [Subtitle: A Humorous Romance of Outdoor Life]
+  [Illustrator: A. B. Frost]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/4/15247/ ]
+  [Files: 15247.txt; 15247-8.txt]
+
+The Tragedy of St. Helena, by Walter Runciman                            15246
+  [Link: http://www.gutenberg.org/dirs/1/5/2/4/15246/ ]
+  [Files: 15246.txt; 15246-8.txt; 15246-h.htm]
+
+Twenty-Seven Years in Canada West, by Samuel Strickland                  15245
+  [Subtitle: The Experience of an Early Settler (Volume I)]
+  [Link: http://www.gutenberg.net/1/5/2/4/15245 ]
+  [Files: 15245.txt]
+
+Lewie, by Cousin Cicely                                                  15244
+  [Subtitle: Or, The Bended Twig]
+  [AKA Sarah Hopkins Bradford (b. 1818)]
+  [Link: http://www.gutenberg.net/1/5/2/4/15244 ]
+  [Files: 15244.txt; 15244-8.txt]
+
+Over Paradise Ridge, by Maria Thompson Daviess                           15243
+  [Subtitle: A Romance]
+  [Link: http://www.gutenberg.net/1/5/2/4/15243 ]
+  [Files: 15243.txt; 15243-h.htm]
+
+Desert Love, by Joan Conquest                                            15242
+  [Link: http://www.gutenberg.net/1/5/2/4/15242 ]
+  [Files: 15242.txt; 15242-8.txt]
+
+All About Johnnie Jones, by Carolyn Verhoeff                             15241
+  [Link: http://www.gutenberg.net/1/5/2/4/15241 ]
+  [Files: 15241.txt; 15241-h.htm]
+
+A Journal of a Tour in the Congo Free State, by Marcus Dorman            15240 
+  [Link: http://www.gutenberg.org/1/5/2/4/15240 ]
+  [Files: 15240.txt; 15240-8.txt; 15240-h.htm; ]
+
+Spiridion, by George Sand                                                15239
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/3/15239/ ]
+  [Files: 15239-8.txt; 15239-h.htm]
+
+Mathilda, by Mary Wollstonecraft Shelley                                 15238
+  [Editor: Elizabeth Nitchie]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/3/15238/ ]
+  [Files: 15238.txt; 15238-8.txt; 15238-h.htm]
+
+The Chemistry of Food and Nutrition, by A. W. Duncan                     15237 
+  [Link: http://www.gutenberg.org/1/5/2/3/15237 ]
+  [Files: 15237.txt; 15237-8.txt; 15237-h.htm; ]
+
+Oude Egyptische Legenden, by M. A. Murray                                15236
+  [Language: Dutch]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/3/15236/ ]
+  [Files: 15236-8.txt; 15236-h.htm]
+
+Oeuvres illustrees de George Sand, by George Sand                        15235
+  [Subtitle: Les visions de la nuit dans les campagnes - La vall&#65533;e noire - ]
+  [          ne visite aux catacombes]
+  [Language: French]
+  [Link: http://www.gutenberg.org/dirs/1/5/2/3/15235/ ]
+  [Files: 15235-8.txt; 15235-h.htm]
+
+The Tale of the Pie and the Patty Pan, by Beatrix Potter                 15234
+  [Link: http://www.gutenberg.net/1/5/2/3/15234 ]
+  [Files: 15234.txt; 15234-h.htm]
+
+The Death of Lord Nelson, by William Beatty                              15233 
+  [Subtitle: With the Circumstances Preceding, Attending, and Subsequent]
+  [to, That Event; The Professional Report on His Lordship's Wound, and]
+  [Several Interesting Anecdotes]
+  [Link: http://www.gutenberg.org/1/5/2/3/15233 ]
+  [Files: 15233.txt; 15233-8.txt; 15233-h.htm; ]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Feb 2005 "C.I.D.", by Talbot Mundy                         [050028xx.xxx] 0423A
+  [http://gutenberg.net.au/ebooks05/0500281.txt or .zip ]
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                       [ This Week's Other Stuff ]
+=============================================================================
+
+Well, welcome to the new editor of Part II--Brett Fishburne.  As things
+stand now, I don't hold a candle to the former editor, George, but I'm
+hoping to improve over time, please bear with me.
+
+~ ~ ~
+
+Clothes make the man. Naked people have little or no influence on society.
+- Mark Twain
+
+=============================================================================

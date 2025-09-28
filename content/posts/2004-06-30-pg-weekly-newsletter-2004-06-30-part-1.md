@@ -1,0 +1,878 @@
+---
+params:
+  id: 2154
+title: "PG Weekly Newsletter: Part 1 (2004-06-30)"
+date: 2004-06-30T19:12:43+00:00
+author: Michael Cook
+layout: post
+url: /20040630/pg-weekly-newsletter-2004-06-30-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>*The Project Gutenberg Weekly Newsletter For Wednesday, June 30, 2004 PT1*
+*****eBooks Readable By Both Humans and Computers Since July 4, 1971******
+
+
+               WE ARE 33 YEARS OLD ON SUNDAY, JULY 4TH!!!
+
+
+                            eBook Milestones
+
+                      13,106 eBooks As Of Today!!!
+
+
+                         6,894 to go to 20,000
+
+
+              We've Added Over 2,000 New eBooks This Year
+
+
+         We Are Nearly 1/3 of the Way from 10,000 to 20,000!!!
+
+
+***
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~3 years from 2002 to 2004 for our last 10,000
+
+***
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.]
+
+Today, and until we actually GET new Newsletter editors who want to
+do another portion, there will be only 2 parts. . .this is Part 1,
+and the eBook listings in Part 2 [New Project Gutenberg Documents].
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+Over Our 32 25/52 Year History, We Have Now Averaged About 400 eBooks/Yr
+And This Year We Are Averaging that Same New eBook Level. . .PER MONTH!!!!!
+
+
+         We Are Averaging About 379 eBooks Per Month This Year
+
+                              88 per week
+
+
+***  HOT Requests!!!
+
+
+We're working up a team to read our eBooks into MP3 files
+for the visually impaired and other audio book users.
+
+Let us know if you'd like to join this group.
+
+More information at http://gutenberg.net/audio
+
+
+***
+
+Project Gutenberg Needs DVD Burners
+
+So far we have sent out 2.5 million eBooks via snailmail!
+
+We currently have access to a dozen DVD burners.  If you have
+a DVD burner or know someone with one, please email Aaron:
+
+cannona@fireantproductions.com
+
+We can set you up with images or snail you these DVDs
+for you to copy.  You can either snail them to readers
+whose addresses we can send you, or you can do a stack
+of the these and send the whole box back for reshipping
+to individual addresses.
+
+We can also send you blank discs in quantities of 50-100
+and *perhaps* also provide envelopes, sleeves, etc.
+
+We also have many volunteers who only have time to do one
+DVD per day and mail it out.  These are greatly appreciated.
+There is no need to do a lot per person if we have a lot of
+people working on this.
+
+
+***
+
+Project Gutenberg is seeking graphics we can use for our Web
+pages and publicity materials.  If you have original graphics
+depicting Project Gutenberg themes, please contribute them!
+
+To see some of what we have now, please see:
+
+   ftp://ibiblio.org/pub/docs/books/gutenberg/images
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- New Site (above)
+- Hot Requests (above)
+- Requests For Assistance
+- Progress Report, including Distributed Proofreaders
+- Flashback
+- Continuing Requests For Assistance
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Have We Given Away A Trillion Yet?
+- Weekly eBook update:
+    Updates/corrections in separate section
+     2 New From PG Australia [Australian, Canadian Copyright Etc.]
+    99 New Public Domain eBooks Under US Copyright
+- Headline News from NewsScan and Edupage
+- Information about mailing lists
+
+
+*** Requests For Assistance
+
+_I_ am still interested in a DVD that has an actual total
+of 10,000 eBooks. . .or more. . .mostly for PR purposes--
+if someone would be willing to make one.
+
+
+*** PROJECT GUTENBERG IS SEEKING LEGAL BEAGLES
+
+Project Gutenberg is seeking (volunteer) lawyers.  We have
+regular needs for intellectual property legal advice
+(both US and international) and other areas.  Please email
+Project Gutenberg's CEO, Greg Newby &lt;gbnewby AT pglaf.org&gt; ,
+if you can help.
+
+This is much more important than many of us realize!
+
+
+*** Progress Report
+
+     In the first 5.80 months of this year, we produced 2173 new eBooks.
+
+  It took us from July 1971 to Jan 2000 to produce our first 2,173 eBooks!
+
+                 That's 25 WEEKS as Compared to ~29 Years!
+
+                   101   New eBooks This Week
+                    55   New eBooks Last Week
+                   298   New eBooks This Month [June]
+
+                   379   Average Per Month in 2004
+                   355   Average Per Month in 2003
+                   203   Average Per Month in 2002
+                   103   Average Per Month in 2001
+
+                  2199   New eBooks in 2004
+                  4164   New eBooks in 2003
+                  2441   New eBooks in 2002
+                  1240   New eBooks in 2001
+                  ====
+                 10044   New eBooks Since Start Of 2001
+                              That's Only 41.80 Months!
+
+                13,106  Total Project Gutenberg eBooks
+                 8,352   eBooks This Week Last Year
+                  ====
+                 4,754   New eBooks In Last 12 Months
+
+                   363   eBooks From Project Gutenberg of Australia
+
+
+We're still keeping up with Moore's Law!
+
+Moore's Law 12 month percentage =  97%
+
+Moore's Law 18 month percentage =  94%
+
+[100% of Moore's Law = doubling every 18 months]
+
+***
+
+On 13 Mar 2001, PGDP completed its first eBook for posting to the Project
+Gutenberg collection (eBook #3320).
+
+As of today, the Online Distributed Proofreading Team has produced it's
+4,663rd eBook.
+
+Projects completed since the beginning of the year:
+  Jan 2004 -  267
+  Feb 2004 -  421
+  Mar 2004 -  365
+  Apr 2004 -  276
+  May 2004 -  235
+  Jun 2004 -  227
+
+
+Two years ago they completed their 318th eBook (#5259).
+One year ago they completed their 1,454th eBook (#8138).
+This week they are well past their 4,600th eBook!!!!!!!
+
+
+Check out our website at gutenberg.net, and see below to learn how
+you can get INSTANT access to our eBooks via FTP servers even before
+the new eBooks listed below appear in our catalog.
+
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Info on subscribing to daily, weekly, monthly Newsletters, listservs:
+http://gutenberg.net/subs.shtml
+
+
+***
+
+
+                            FLASHBACK!!!
+
+                   2199 New eBooks So Far in 2004
+
+               It took us ~29 years for the first 2198 !
+
+       That's the 5.80 MONTHS of 2004 as Compared to ~29 YEARS!!!
+
+      Here Is A Sample Of What Books Were Being Done Around #2199
+
+Jun 2000 Human Genome Project, Chromosome Number 01        [01hgpxxx.xxx] 2201
+
+Jun 2000 Human Genome Project, About the Human Genome Files[0ahgpxxx.xxx] 2200*
+   [Reserved for information about the Human Genome Project Files]
+Jun 2000 The Iliad, by Homer, translated by Samuel Butler  [iliadxxx.xxx] 2199
+
+May 2000 Stories from Pentamerone, by Giambattista Basile  [pntmnxxx.xxx] 2198
+May 2000 The Gambler, by Fyodor Dostoyevsky[Dostoyevsky #2][gamblxxx.xxx] 2197
+May 2000 An Iceland Fisherman, by Pierre Loti              [icfshxxx.xxx] 2196
+May 2000 The Master of Mrs. Chilvers by Jerome K. Jerome 19[mschlxxx.xxx] 2195
+May 2000 Mauprat, by George Sand [Aurore Dupin/Dedevant] #1[muprtxxx.xxx] 2194
+[Author AKA:  Lucile Amandine Aurore Dupin; Armentine Lucile Aurore Dupin,
+later Aurore Dudevant]  (See also #138)
+May 2000 A Ward of the Golden Gate, by Bret Harte[Harte #6][wotggxxx.xxx] 2193
+May 2000 The Dark Flower, by John Galsworthy               [dkflrxxx.xxx] 2192
+May 2000 Boy Scouts in Mexico, by G. Harvey Ralphson       [bsimxxxx.xxx] 2191
+
+May 2000 Isabella von Aegypten, by Ludwig Achim von Arnim  [?isblxxx.xxx] 2190
+   [Language: German]
+May 2000 Der Gwissenswurm, by Ludwig Anzengruber [German]  [?gwssxxx.xxx] 2189
+   [Language: German]
+May 2000 Aufzeichnungen des Malte Laurid Brigge, by Rilke  [?maltxxx.xxx] 2188
+   [Language: German]
+May 2000 Oberon, by Christoph Martin Wieland [In German]   [?oberxxx.xxx] 2187
+   [Language: German]
+May 2000 Captains Courageous, by Rudyard Kipling[Kipling#9][cptcrxxx.xxx] 2186
+
+May 2000 Maruja, by Bret Harte              [Bret Harte #5][marujxxx.xxx] 2185
+May 2000 Unbeaten Tracks in Japan, by Isabella L. Bird     [utrkjxxx.xxx] 2184
+May 2000 Three Men on the Bummel, by Jerome K. Jerome [#18][tmotbxxx.xxx] 2183
+May 2000 The Marble Faun V. 2, by Nathaniel Hawthorne[NH#9][2faunxxx.xxx] 2182
+May 2000 The Marble Faun V. 1, by Nathaniel Hawthorne[NH#8][1faunxxx.xxx] 2181
+
+May 2000 In A Hollow Of The Hills, by Bret Harte [Harte #5][hllhlxxx.xxx] 2180
+May 2000 Drift from Two Shores, by Bret Harte    [Harte #4[[dftshxxx.xxx] 2179
+May 2000 By Shore and Sedge, by Bret Harte  [Bret Harte #3][bysnsxxx.xxx] 2178
+May 2000 Thankful Blossom, by Bret Harte    [Bret Harte #2][tkfblxxx.xxx] 2177
+May 2000 Seven Discourses on Art, by Joshua Reynolds       [artdsxxx.xxx] 2176
+
+May 2000 You Never Can Tell, by [George] Bernard Shaw [#7] [nvrctxxx.xxx] 2175
+May 2000 Frau und Kindern auf der Spur, by Gerold K. Rohner[?spurxxx.xxx] 2174C
+   [Language: German]
+May 2000 Thoughts on Present Discontents, etc., by Burke   [thdscxxx.xxx] 2173
+May 2000 That Mainwaring Affair, by Maynard Barbour        [mnwrnxxx.xxx] 2172  ***
+May 2000 Brother Jacob, by George Eliot   [George Eliot #5][brjcbxxx.xxx] 2171
+
+May 2000 Misc Writings and Speeches, Lord Macaulay  V4 of 4[4mwsmxxx.xxx] 2170
+May 2000 Misc Writings and Speeches, Lord Macaulay  V3 of 4[3mwsmxxx.xxx] 2169
+May 2000 Misc Writings and Speeches, Lord Macaulay  V2 of 4[2mwsmxxx.xxx] 2168
+May 2000 Misc Writings and Speeches, Lord Macaulay  V1 of 4[1mwsmxxx.xxx] 2167
+May 2000 King Solomon's Mines, by H. Rider Haggard [HRH #9][?kslmxxx.xxx] 2166
+
+May 2000 The Lifted Veil, by George Eliot [George Eliot #4][lftvlxxx.xxx] 2165
+May 2000 The Lumley Autograph  Susan Fenimore Cooper[SFC#3][lumlyxxx.xxx] 2164
+May 2000 The Bridge-Builders, by Mark Twain         [MT#16][brdgbxxx.xxx] 2163
+Apr 2000 Anarchism and Other Essays, by Emma Goldman       [nrcsmxxx.xxx] 2162
+Apr 2000 Song Book of Quong Lee of Limehouse, Thomas Burke [qunglxxx.xxx] 2161
+
+Apr 2000 The Expedition of Humphry Clinker, Tobias Smollett[txohcxxx.xxx] 2160
+Apr 2000 A Little Tour In France, by Henry James[James #20][altifxxx.xxx] 2159
+Apr 2000 The Prime Minister, by Anthony Trollope[Trollope5][prmnsxxx.xxx] 2158
+Apr 2000 Female Suffrage, by Susan Fenimore Cooper [SFC #3][sffrgxxx.xxx] 2157
+Apr 2000 China and the Manchus, by Herbert A. Giles    [#3][?mnchxxx.xxx] 2156
+
+Apr 2000 Phyllis of Philistia, by Frank Frankfort Moore    [phophxxx.xxx] 2155
+Apr 2000 Around the World in 80 Days Jr. Ed. by Jules Verne[80dayxxa.xxx] 2154
+   (See also #103)
+
+***
+
+Today Is Day #181 of 2004
+This Completes Week #25 and Month #5.80
+   190 Days/27 Weeks To Go  [We get 52 Wednesdays this year]
+  6894 Books To Go To #20,000
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+    88   Weekly Average in 2004
+    79   Weekly Average in 2003
+    47   Weekly Average in 2002
+    24   Weekly Average in 2001
+
+    41   Only 41 Numbers Left On Our Reserved Numbers list
+          [Used to be well over 100]
+
+
+*** Continuing Requests For Assistance:
+
+Project Gutenberg--Canada is now starting up!!!
+
+Please let us know if you would like to volunteer!
+Copyright in Canada is "Life +50" as in Australia,
+and we have volunteers working on both of these.
+We will also be seeking volunteers from others of
+the "life +50" countries, as it looks as if the
+Australian copyright law is falling victim to the
+new "Economic Warfare" being waged by the World
+Intellectual Property Organization and various
+billionaire copyright holders around the world.
+
+email: James Linden &lt;jlinden@pglaf.org&gt;
+
+***
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://www.pgdp.net
+
+for more information about how you can help a lot, by
+simply proofreading just a few pages per day, or more.
+
+If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file)
+listing Project Gutenberg eBooks and is available for downloading.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned).  We have high-speed scanners currently located in
+the east, west and central portions of the US to make shipping easier.
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's "In Progress" list at:
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+Do you like to work on an entire book at once but don't have the time
+or technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution!  Just send us email
+telling us that you are interested in post-processing and we will help
+find a you project you would like to work on.
+
+***
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+USA
+
+B. Donate by credit card online:
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+     or
+
+PayPal to "donate@gutenberg.net":
+http://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 32 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://gutenberg.net/donation.html  or email donate@gutenberg.net
+
+
+--"INSTANT" ACCESS TO OUR LATEST eBOOKS
+
+http://www.gutenberg.net/find
+allows searching by title, author, language and subject.
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the file's name you want.  Try:
+
+http://gutenberg.net/dirs
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/
+
+and then navigate to the appropriate directory and look for the first
+five characters of the file's name.  Note that updated eBooks usually
+go in their original directory (e.g., etext99, etext00, etc.)
+
+
+*** HOW TO GET EBOOKS FROM OUR MIRROR SITES
+
+Mirrors (copies) of the complete collection are available around the world.
+To find the sites nearest you, go to:
+
+http://gutenberg.net/list
+
+
+*** Have We Given Away A Trillion Books/Dollars Yet???
+
+Statistical Review
+
+In the 25 weeks of this year, we have produced 2199 new eBooks.
+It took us from 1971 to 1999 to produce our FIRST 2199 eBooks!!!
+
+          That's 25 WEEKS as Compared to ~29 YEARS!!!
+
+
+With 13,106 eBooks online as of June 30, 2004 it now takes an average
+of 100,000,000 readers gaining a nominal value of $0.76 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.5% of the world's population!
+
+This "cost" is down from about $1.20 when we had 8352 eBooks A Year Ago
+
+Can you imagine ~13,106 books each costing ~$.45 less a year later???
+Or. . .would this say it better?
+Can you imagine ~13,106 books each costing 1/3 less a year later???
+
+At 13,106 eBooks in 32 Years and 11.80 Months We Averaged
+       398 Per Year   [We do nearly that much a month these days!]
+        33.0 Per Month
+         1.09 Per Day
+
+At 2199 eBooks Done In The 187 Days Of 2004 We Averaged
+      12 Per Day
+      88 Per Week
+     378 Per Month
+
+The production statistics are calculated based on full weeks'
+production; each production-week starts/ends Wednesday noon,
+starts with the first Wednesday of January.  January 7th was
+the first Wednesday of 2004, and thus ended PG's production
+year of 2003 and began the production year of 2004 at noon.
+
+This year there will be 52 Wednesdays, thus no extra week.
+
+
+***Headline News***
+
+[PG Editor's Comments In Brackets]
+
+
+&gt;From NewsScan:
+
+[You've been hearing it here first for a while now, China is coming!]
+[More coming from the current Wired, China exports are going way up,
+including telecommunications, electronics, etc.]
+
+YAHOO LAUNCHES SEARCH ENGINE FOR CHINESE
+Yahoo's China unit has launched a new search engine called 'Yisou,' or
+No. 1 Search, tailored to Chinese users. "By combining the best assets of
+our proprietary Yahoo Search Technology with our expertise and knowledge of
+the Chinese online space, we created a dedicated search destination
+customized for the Chinese user," Zhou Hongyi, general manager of Yahoo
+China, says. Yahoo's announcement comes less than a week after rival Google
+took a strategic stake in leading Chinese-language Internet search engine
+Baidu.com. Baidu, China's most popular search engine, was dropped by Yahoo
+on its Chinese-language website in March. (The Age 22 Jun 2004)
+http://theage.com.au/articles/2004/06/22/1087844904038.html
+
+[and in a related story]
+
+ASIA PACIFIC SEMICONDUCTOR INDUSTRY TO GROW 27%
+Gartner, the market and technology research company, is reporting that
+the Asia Pacific semiconductor industry will grow at a world-fastest rate of
+27.4% to reach $90.8 billion this year, fueled by demand in China. Over the
+next four years, the industry is expected to average 14.3% annual growth to
+be worth $138.8 billion, up from $71.3 billion in 2003. "Riding on the
+positive wave created in 2003, the Asia Pacific semiconductor industry
+is poised to propel the global semiconductor market to new heights,"
+says Gartner Singapore-based analyst Philip Koh. "The rising demands
+from the end-user industries are the key driving force.  China, the
+electronic manufacturing hub of the world, is expected to continue
+to lead the industry in the region." (The Age 22 Jun 2004)
+http://theage.com.au/articles/2004/06/22/1087844918325.html
+
+[I also heard in that China is buying up huge quantities of coal, oil,
+and other fuels, in addition to the steel, etc., mentioned earlier.]
+
+
+NSW MAKES OPEN SOURCE MOVE
+      The New South Wales government has made official its push into open
+source technology, launching a $AU1.5 million deployment of what may be the
+state's largest-ever rollout of open source software on the desktop. The
+deployment of the open source office productivity suite represents a real
+threat to Microsoft's dominance of the desktop through its Office package.
+The government's Roads and Traffic Authority has already indicated its
+preference for open standards by installing Apple's iMac G4 across the
+registries earlier this year. The rollout will be a limited deployment of
+the software, with a further commercial rollout to half the organization's
+7000 desktops promised over the next few years. (The Australian 24 Jun 2004)
+australianit.news.com.au/articles/0,7204,9939948%5E15306%5E%5Enbv%5E,00.html
+
+NETWORK VANDALS WANT TO BANK WITH YOU
+Computer security experts are issuing warnings that network vandals
+hope to steal the password and account information of online bank accounts
+by secretly downloading spy software to capture a PC user's keystroke
+activity. The problem is not widespread, but Internet Explorer users are being
+advised to set the security setting for their browsers to "high" (a level
+which, however, makes it more difficult to interact with some Web sites).
+(Washington Post 29 Jun 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A16023-2004Jun29.html
+
+[Some media outlets are suggesting switching to another browswer until
+these concerned have been remedied]
+
+
+MICROSOFT'S BRAZIL LAWSUIT 'REPREHENSIBLE'
+OSIA, Australia's Open Source industry body, has issued a scathing
+criticism of Microsoft's lawsuit against Sergio Amadeu, President of the
+Brazilian National Institute for Information Technology, calling it a
+"reprehensible action" that attempts to "curb freedom of speech and of
+criticism." The defamation lawsuit was filed after Amadeu defended the
+Brazilian government's decision to shift 300,000 PCs from Windows to Linux.
+He had said this decision "makes sense for a developing country where a mere
+10% of the 170 million people have computers at home and where the
+debt-laden government is the nation's biggest computer buyer." OSIA also
+referred to Microsoft's "abuse" of its monopoly position, and Bill Gates's
+address to university students in 1998, where he made a statement saying,
+"Although about 3 million computers get sold every year in China, people
+don't pay for the software. Someday they will, though. As long as they are
+going to steal it, we want them to steal ours. They'll get sort of addicted,
+and then we'll somehow figure out how to collect sometime in the next
+decade." (The Age, 24 Jun 2004)
+http://theage.com.au/articles/2004/06/24/1088046211448.html
+
+AOL EMPLOYEE BUSTED FOR STEALING E-MAIL ADDRESSES
+Jason Smathers, a 24-year-old employee of America Online, has been charged
+with stealing the e-mail addresses of 92 million AOL customers and selling
+them to spammers. Under a new federal anti-spam law, he faces the prospect
+of as many as five years in prison plus a fine of $250,000. The stolen
+information includes not only e-mail addresses but also telephone numbers,
+Z*I*P codes and the type of credit card the customers use (though not the
+actual credit card numbers, which are kept by AOL in a separate database).
+The company says: "We deeply regret what has taken place and are thoroughly
+reviewing and strengthening our internal procedures as a result
+of this investigation and arrest."(New York Times 24 Jun 2004)
+http://www.nytimes.com/2004/06/24/technology/24spam.html
+
+APPLE CHALLENGES MICROSOFT ON SEARCH TECHNOLOGY
+Apple Computer CEO Steve Jobs demoed an upcoming search feature
+called Spotlight, which is based on the search technology used by Apple's
+iTunes online music service. The feature will be incorporated into the next
+version of Mac OS, called Tiger, which is slated for release in the first
+half of 2005. Using technology designed to organize and search through song
+collections, Spotlight can quickly find data stored on a hard drive
+regardless of the type of file it is hidden in, says Jobs: "Search is a
+problem for every personal computer company. It's easier to find a document
+in a million pages on the Web using Google than it is to find a document on
+your hard drive." Apple's intention to introduce roughly 150 new features
+in Tiger indicates that Apple is "clearly going after [Microsoft's] Longhorn.
+They're putting in a lot of features that will be in Longhorn, and that's
+not coming out until 2006 or 2007," says Tim Bajarin, president of
+Creative Strategies. "We think we are years ahead of Longhorn,"
+concurs Jobs. "The other guys have been talking about it and we're doing it."
+(New York Times 28 Jun 2004)
+http://www.nytimes.com/2004/06/29/technology/29apple.html
+
+ASKJEEVES ADDS PAGE PREVIEW FEATURE
+AskJeeves is adding a new preview feature that enables users to sneak
+a peek at thumbnail images of the Web pages displayed in results. (The
+feature works only when used with Windows/Internet Explorer.) "It
+eliminates the need to go pogo-sticking around the Web to decide where you
+want to go," says Jeeves senior VP Jim Lanzone, who notes in user testing,
+the preview feature reduced the number of clicks used by searchers by 50%
+to 70%. Although the images are tiny, they still are large enough to convey
+an idea of the Web site's focus. Jeeves is also adding new shortcuts
+designed to enhance user experience. For instance, after the user types in
+a famous person's name, Jeeves displays a box at the top of the results
+page with a minibio, photo and links to Web resources. If the user types in
+a movie title, the search engine pops up a synopsis of the film and what
+proportion of professional film critics liked it.
+(Washington Post 27 Jun 2004)
+http://www.washingtonpost.com/wp-dyn/articles/A7342-2004Jun26.html
+
+
+[And for those who wonder about the "Next Generation". . . .]
+
+NEW RECORD SET FOR TEXT-MESSAGING SPEED
+Singapore student Kimberly Yeo, 23, has walked away with first place
+in a contest designed to test text messaging speed and dexterity after she
+managed to type a fiendishly complicated 26-word text message on her cell
+phone in 43.66 seconds, says competition organizer Singapore
+Telecommunications. The record beats by a significant margin the previous
+time of 67 seconds set last year by Briton James Trusler in Sydney,
+Australia. Contestants had to type, "The razor-toothed piranhas of the
+genera Serrasalmus and Pygocentrus are the most ferocious freshwater fish
+in the world. In reality they seldom attack a human." Like many of her
+fellow contestants, Yeo is an avid text-messager, sending about 50 a day,
+or 1,500 a month. Singapore Telecom says its system now handles about 9
+million text messages a day, up from 3.5-4 million in 2001-2002.
+(AP 28 Jun 2004)
+http://apnews.excite.com/article/20040628/D83G0VQ81.html
+
+
+You have been reading excerpts from NewsScan:
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+***
+
+&gt;From Edupage
+
+REVISION TO DMCA GAINS SUPPORT
+Joe Barton (R-Tex.), chairman of the House Energy and Commerce
+Committee, this week endorsed a bill that would amend the Digital
+Millennium Copyright Act (DMCA) to allow for broader fair-use access.
+The bill, known as the Digital Media Consumer's Rights Act, was
+introduced more than 18 months ago but has been stalled ever since.
+Barton's support could see the bill marked up in July and possibly
+passed before the end of the current Congressional session. An
+anonymous Senator will reportedly introduce the legislation to the
+Senate if it has sufficient backing in the House. The bill would allow
+users to circumvent digital copy-protection measures if the purpose
+falls within the scope of traditional fair use. Currently, the DMCA
+prohibits such circumvention. The bill would also allow companies to
+develop and market tools that bypass digital copy protections if those
+tools are capable of significant noninfringing use.
+Internet News, 22 June 2004
+http://www.internetnews.com/bus-news/article.php/3372091
+
+ISPS AGREE ON ANTISPAM MEASURES
+Four of the largest e-mail providers have agreed to work collectively
+on sender-authentication technologies to limit the flow of spam.
+Despite saying more than a year ago that they would cooperate on such
+an undertaking, America Online, Yahoo, EarthLink, and Microsoft have
+been working on separate approaches to the challenge of screening out
+e-mail that does not come from its purported source. In May, however,
+Microsoft announced it would combine its technology, called Caller ID,
+with that of America Online and EarthLink, called Sender Policy
+Framework (SPF), and name it Sender ID. Meanwhile, Yahoo has been
+developing a technology called Domain Keys, which is potentially more
+effective but requires more work to implement. The four companies
+announced this week they would test each other's technologies, paving
+the way for a coordinated effort to block spam.
+New York Times, 23 June 2004 (registration req'd)
+http://www.nytimes.com/2004/06/23/technology/23spam.html
+
+
+AOL BUYS ONLINE DIRECT MARKETER ADVERTISING.COM
+
+[Following in Google's Finanical Path to More Advertizing]
+
+America Online has agreed to purchase online direct marketer
+Advertising.com for $435 million in an attempt to obtain a new source
+of advertising revenue. The acquisition gives AOL a direct presence in
+the high-growth sector of online advertising called
+pay-for-performance, in which advertisers pay for an ad only if it
+yields results. The company's previous exposure to this model was
+through its revenue-sharing agreement with search-engine company
+Google. In the past, AOL has focused mainly on advertising revenue
+based on the number of people who viewed an ad. Advertising.com charges
+clients when customers click on an ad or take another type of action.
+The company purchases ad banners on thousands of Web sites for its
+clients. AOL plans to let Advertising.com operate independently,
+according to AOL Chief Executive Jonathan F. Miller.
+Wall Street Journal, 25 June 2004 (sub. req'd)
+http://online.wsj.com/article/0,,SB108807298735146375,00.html
+
+[More on AOL]
+
+AOL E-MAIL ADDRESSES SOLD TO SPAMMERS
+An American Online engineer has been charged with stealing e-mail
+addresses of AOL customers and selling them to spammers. An e-mail list
+broker for spammers was also arrested. Both are charged with violating
+the new federal antispam law, which took effect January 1. The two men
+face a maximum sentence of five years imprisonment and a fine of
+$250,000 (or twice the gross gain or loss from their actions).
+According to the charges, the enginner used the identity of another AOL
+employee to gain access to the list of addresses. The list included the
+e-mail addresses, telephone numbers, Z*I*P codes, and type of credit
+cards used by each AOL member. The credit card numbers are kept in a
+separate database.
+New York Times, 24 June 2004 (registration req'd)
+http://www.nytimes.com/2004/06/24/technology/24spam.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+http://news.com.com/2100-1040-958352.html
+or send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+More Headline News Mostly Avoided By The Major U.S. Media
+
+
+NEW U.S. MEDICARE DRUG CARD HAVING TROUBLE WITH LIFTOFF
+
+The U.S. goverment says only 3.5 million are now enrolled
+for the new Medicare/Senior Citizen Drug Card, as opposed
+to the 8 million predicted, and apparently not all of the
+3.5 million were voluntary or intentional subscribers, as
+many of them were subscribed by their health programs.
+
+This is in spite of the fact there will be some additional
+charges than the $30 for the card for those who do not add
+the card to their health coverage repertoire during a kind
+of "introductory period."
+
+The major reasons for people not buying the cards are:
+
+1.  Their current medical services will not talk about the
+Drug Cards, saying that they are goo complex, disorganized
+and difficult to deal with:  this includes doctors, nurses
+and pharmacists, as well as various medical administration
+personnel.
+
+2.  Each card can cover different drugs, so certain of the
+prescribed combinations will not be covered.
+
+3.  You can't change cards when you choose, only at a time
+to be specified from time to time by the government, while
+the companies supplying the cards can change that coverage
+without consideration as to when users can change cards.
+
+The Drug Card programs may change the drugs they support,
+but users will be stuck with the card until the next time
+an option to change cards happens without being able to
+get the prescribed drugs via the Drug Card.  You must only
+choose ONE of the various drug cards, even if none of them
+cover the drugs or combinations prescribed for you.
+
+Some medical plans will be better than using any Drug Card
+but it's not easy to find out without searching through an
+assortment of records of the various companies to see what
+drugs are carried by which companies.
+
+Even the experts agree that it takes THEM an large effort
+over an undue period of time to make such a determination
+and that all that homework could be wiped out by an early
+change in the coverage provided.  There is the widespread
+concern that allowing the companies to change coverage at
+different times than their members can change companies is
+an invitation to the "bait and switch" tactics which are
+illegal in other forms of business.
+
+
+[Notes taken while listening to our local NPR station]
+[Mary Agnes Carey, Senior Health Reporter for
+Congressional Quarterly.  Search engines will give
+an assortment of articles, interviews, etc.]
+
+***
+
+About the Project Gutenberg Weekly Newsletter:
+Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+and
+
+About the Project Gutenberg Monthly Newsletter:
+Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or to subscribe directly by yourself, go to:
+
+http://gutenberg.net/subs.shtml
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+help@pglaf.org
+
+to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help</pre>
+
+<a href="/nl_archives/2004/pgweekly_2004_06_30_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_06_30_part_1.txt</a>

@@ -1,0 +1,985 @@
+The Project Gutenberg Weekly Newsletter 15 Dec 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 57 New U.S. eBooks this week
+   -  1 New eBooks at Project Gutenberg of Australia
+   - Last, but not least: insights and other fine stuff
+       (Including additional information about some of this week's
+        postings)
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 15 Dec 2004:  14,707 (incl. 390 Aus.).
+
+Last week the Total Count was 14,649, including 389 at PG of Australia.
+This week we added 78 new (including 1 at PG of Australia).
+
+RESERVED/PENDING count:   43 (No change this week).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+The Memoirs of Count Grammont, Volume 7, by Anthony Hamilton              5415
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg7w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5415 ]
+   [Files: 5415.txt]
+
+The Memoirs of Count Grammont, Volume 6, by Anthony Hamilton              5414
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg6w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5414 ]
+   [Files: 5414.txt]
+
+The Memoirs of Count Grammont, Volume 6, by Anthony Hamilton              5414
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg6w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5414 ]
+   [Files: 5414.txt]
+
+The Memoirs of Count Grammont, Volume 5, by Anthony Hamilton              5413
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg5w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5413 ]
+   [Files: 5413.txt]
+
+The Memoirs of Count Grammont, Volume 4, by Anthony Hamilton              5412
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg4w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5412 ]
+   [Files: 5412.txt]
+
+The Memoirs of Count Grammont, Volume 3, by Anthony Hamilton              5411
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg3w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5411 ]
+   [Files: 5411.txt]
+
+The Memoirs of Count Grammont, Volume 2, by Anthony Hamilton              5410
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg2w10.txt]
+   [Link: http://www.gutenberg.net/5/4/1/5410 ]
+   [Files: 5410.txt]
+
+The Memoirs of Count Grammont, Volume 1, by Anthony Hamilton              5409
+   [Edited by Sir Walter Scott]
+   [Updated edition of: etext04/mcg1w10.txt]
+   [Link: http://www.gutenberg.net/5/4/0/5409 ]
+   [Files: 5409.txt]
+
+The Confessions of J. J. Rousseau, Book XII, by Jean Jacques Rousseau     3912
+   [Updated edition of: etext03/jj12b10.txt]
+   [Link: http://www.gutenberg.net/3/9/1/3912 ]
+   [Files: 3912.txt]
+
+The Confessions of J. J. Rousseau, Book XI, by Jean Jacques Rousseau      3911
+   [Updated edition of: etext03/jj11b10.txt]
+   [Link: http://www.gutenberg.net/3/9/1/3911 ]
+   [Files: 3911.txt]
+
+The Confessions of J. J. Rousseau, Book X, by Jean Jacques Rousseau       3910
+   [Updated edition of: etext03/jj10b10.txt]
+   [Link: http://www.gutenberg.net/3/9/1/3910 ]
+   [Files: 3910.txt]
+
+The Confessions of J. J. Rousseau, Book IX, by Jean Jacques Rousseau      3909
+   [Updated edition of: etext03/jj09b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3909 ]
+   [Files: 3909.txt]
+
+The Confessions of J. J. Rousseau, Book VIII, by Jean Jacques Rousseau    3908
+   [Updated edition of: etext03/jj08b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3908 ]
+   [Files: 3908.txt]
+
+The Confessions of J. J. Rousseau, Book VII, by Jean Jacques Rousseau     3907
+   [Updated edition of: etext03/jj07b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3907 ]
+   [Files: 3907.txt]
+
+The Confessions of J. J. Rousseau, Book VI, by Jean Jacques Rousseau      3906
+   [Updated edition of: etext03/jj06b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3906 ]
+   [Files: 3906.txt]
+
+The Confessions of J. J. Rousseau, Book V, by Jean Jacques Rousseau       3905
+   [Updated edition of: etext03/jj05b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3905 ]
+   [Files: 3905.txt]
+
+The Confessions of J. J. Rousseau, Book IV, by Jean Jacques Rousseau      3904
+   [Updated edition of: etext03/jj04b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3904 ]
+   [Files: 3904.txt]
+
+The Confessions of J. J. Rousseau, Book III, by Jean Jacques Rousseau     3903
+   [Updated edition of: etext03/jj03b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3903 ]
+   [Files: 3903.txt]
+
+The Confessions of J. J. Rousseau, Book II, by Jean Jacques Rousseau      3902
+   [Updated edition of: etext03/jj02b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3902 ]
+   [Files: 3902.txt]
+
+The Confessions of J. J. Rousseau, Book I, by Jean Jacques Rousseau       3901
+   [Updated edition of: etext03/jj01b10.txt]
+   [Link: http://www.gutenberg.net/3/9/0/3901 ]
+   [Files: 3901.txt]
+
+Memoirs of the Court of St. Cloud, Volume 7, by Stewarton                 3898
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm61b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3898 ]
+   [Files: 3898.txt]
+
+Memoirs of the Court of St. Cloud, Volume 6, by Stewarton                 3897
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm60b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3897 ]
+   [Files: 3897.txt]
+
+Memoirs of the Court of St. Cloud, Volume 5, by Stewarton                 3896
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm59b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3896 ]
+   [Files: 3896.txt]
+
+Memoirs of the Court of St. Cloud, Volume 4, by Stewarton                 3895
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm58b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3895 ]
+   [Files: 3895.txt]
+
+Memoirs of the Court of St. Cloud, Volume 3, by Stewarton                 3894
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm57b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3894 ]
+   [Files: 3894.txt]
+
+Memoirs of the Court of St. Cloud, Volume 2, by Stewarton                 3893
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm56b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3893 ]
+   [Files: 3893.txt]
+
+Memoirs of the Court of St. Cloud, Volume 1, by Stewarton                 3892
+   [Subtitle: Being Secret Letters from a Gentleman at Paris to a Nobleman
+    in London]
+   [Updated edition of: etext03/cm55b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3892 ]
+   [Files: 3892.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 7, by Madame Campan  3890
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm53b10.txt]
+   [Link: http://www.gutenberg.net/3/8/9/3890 ]
+   [Files: 3890.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 6, by Madame Campan  3889
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm52b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3889 ]
+   [Files: 3889.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 5, by Madame Campan  3888
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm51b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3888 ]
+   [Files: 3888.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 4, by Madame Campan  3887
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm50b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3887 ]
+   [Files: 3887.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 3, by Madame Campan  3886
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm49b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3886 ]
+   [Files: 3886.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 2, by Madame Campan  3885
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm48b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3885 ]
+   [Files: 3885.txt]
+
+Memoirs of Marie Antoinette, Queen Of France, Volume 1, by Madame Campan  3884
+   [Subtitle: Being the Historic Memoirs of Madam Campan, First Lady in
+    Waiting to the Queen]
+   [Updated edition of: etext03/cm47b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3884 ]
+   [Files: 3884.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 7, by Hausset et al.            3882
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm45b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3882 ]
+   [Files: 3882.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 6, by Hausset et al.            3881
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm44b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3881 ]
+   [Files: 3881.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 5, by Hausset et al.            3880
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm43b10.txt]
+   [Link: http://www.gutenberg.net/3/8/8/3880 ]
+   [Files: 3880.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 4, by Hausset et al.            3879
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm42b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3879 ]
+   [Files: 3879.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 3, by Hausset et al.            3878
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm41b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3878 ]
+   [Files: 3878.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 2, by Hausset et al.            3877
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm40b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3877 ]
+   [Files: 3877.txt]
+
+The Memoirs of Louis XV. and XVI., Volume 1, by Hausset et al.            3876
+   [Subtitle: Being Secret Memoirs of Madame du Hausset, Lady's Maid to
+    Madame de Pompadour, and of an Unknown English Girl & The Princess
+    Lamballe]
+   [Author: Madame du Hausset, and of an Unknown English Girl and the
+    Princess Lamballe]
+   [Updated edition of: etext03/cm39b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3876 ]
+   [Files: 3876.txt]
+
+The Memoirs of Louis XIV., Volume 15, by Duc de Saint-Simon               3874
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm37b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3874 ]
+   [Files: 3874.txt]
+
+The Memoirs of Louis XIV., Volume 14, by Duc de Saint-Simon               3873
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm36b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3873 ]
+   [Files: 3873.txt]
+
+The Memoirs of Louis XIV., Volume 13, by Duc de Saint-Simon               3872
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm35b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3872 ]
+   [Files: 3872.txt]
+
+The Memoirs of Louis XIV., Volume 12, by Duc de Saint-Simon               3871
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm34b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3871 ]
+   [Files: 3871.txt]
+
+The Memoirs of Louis XIV., Volume 11, by Duc de Saint-Simon               3870
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm33b10.txt]
+   [Link: http://www.gutenberg.net/3/8/7/3870 ]
+   [Files: 3870.txt]
+
+The Memoirs of Louis XIV., Volume 10, by Duc de Saint-Simon               3869
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm32b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3869 ]
+   [Files: 3869.txt]
+
+The Memoirs of Louis XIV., Volume 9, by Duc de Saint-Simon                3868
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm31b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3868 ]
+   [Files: 3868.txt]
+
+The Memoirs of Louis XIV., Volume 8, by Duc de Saint-Simon                3867
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm30b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3867 ]
+   [Files: 3867.txt]
+
+The Memoirs of Louis XIV., Volume 7, by Duc de Saint-Simon                3866
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm29b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3866 ]
+   [Files: 3866.txt]
+
+The Memoirs of Louis XIV., Volume 6, by Duc de Saint-Simon                3865
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm28b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3865 ]
+   [Files: 3865.txt]
+
+The Memoirs of Louis XIV., Volume 5, by Duc de Saint-Simon                3864
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm27b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3864 ]
+   [Files: 3864.txt]
+
+The Memoirs of Louis XIV., Volume 4, by Duc de Saint-Simon                3863
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm26b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3863 ]
+   [Files: 3863.txt]
+
+The Memoirs of Louis XIV., Volume 3, by Duc de Saint-Simon                3862
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm25b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3862 ]
+   [Files: 3862.txt]
+
+The Memoirs of Louis XIV., Volume 2, by Duc de Saint-Simon                3861
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm24b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3861 ]
+   [Files: 3861.txt]
+
+The Memoirs of Louis XIV., Volume 1, by Duc de Saint-Simon                3860
+   [Subtitle: And His Court and of The Regency]
+   [Updated edition of: etext03/cm23b10.txt]
+   [Link: http://www.gutenberg.net/3/8/6/3860 ]
+   [Files: 3860.txt]
+
+Memoirs of Louis XIV. and the Regency, Book IV., by Duchesse d'Orleans    3858
+   [Author: Elizabeth-Charlotte, Duchesse d'Orleans]
+   [Updated edition of: etext03/cm21b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3858 ]
+   [Files: 3858.txt]
+
+Memoirs of Louis XIV. and the Regency, Book III., by Duchesse d'Orleans   3857
+   [Author: Elizabeth-Charlotte, Duchesse d'Orleans]
+   [Updated edition of: etext03/cm20b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3857 ]
+   [Files: 3857.txt]
+
+Memoirs of Louis XIV. and the Regency, Book II., by Duchesse d'Orleans    3856
+   [Author: Elizabeth-Charlotte, Duchesse d'Orleans]
+   [Updated edition of: etext03/cm19b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3856 ]
+   [Files: 3856.txt]
+
+Memoirs of Louis XIV. and the Regency, Book I., by Duchesse d'Orleans     3855
+   [Author: Elizabeth-Charlotte, Duchesse d'Orleans]
+   [Updated edition of: etext03/cm18b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3855 ]
+   [Files: 3855.txt]
+
+Memoirs of Madame de Montespan, Volume VII., by Marquise De Montespan     3853
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm16b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3853 ]
+   [Files: 3853.txt]
+
+Memoirs of Madame de Montespan, Volume VI., by Marquise De Montespan      3852
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm15b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3852 ]
+   [Files: 3852.txt]
+
+The Memoirs of Madame de Montespan, Volume V., by Marquise De Montespan   3851
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm14b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3851 ]
+   [Files: 3851.txt]
+
+Memoirs of Madame de Montespan, Volume IV., by Marquise De Montespan      3850
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm13b10.txt]
+   [Link: http://www.gutenberg.net/3/8/5/3850 ]
+   [Files: 3850.txt]
+
+Memoirs of Madame de Montespan, Volume III., by Marquise De Montespan     3849
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm12b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3849 ]
+   [Files: 3849.txt]
+
+Memoirs of Madame de Montespan, Volume II., by Marquise De Montespan      3848
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm11b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3848 ]
+   [Files: 3848.txt]
+
+The Memoirs of Madame de Montespan, Volume I, by Marquise De Montespan    3847
+   [Subtitle: Being the Historic Memoirs of the Court of Louis XIV.]
+   [Author: Madame La Marquise De Montespan]
+   [Updated edition of: etext03/cm10b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3847 ]
+   [Files: 3847.txt]
+
+Memoirs of Cardinal De Retz, Volume IV., by Cardinal De Retz              3845
+   [Title: Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. IV]
+   [Subtitle: Being Historic Court Memoirs of the Great Events during the
+    Minority of Louis XIV. and the Administration of Cardinal Mazarin]
+   [Updated edition of: etext03/cm08b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3845 ]
+   [Files: 3845.txt]
+
+Memoirs of Cardinal De Retz, Volume III., by Cardinal De Retz             3844
+   [Title: Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. III]
+   [Subtitle: Being Historic Court Memoirs of the Great Events during the
+    Minority of Louis XIV. and the Administration of Cardinal Mazarin]
+   [Updated edition of: etext03/cm07b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3844 ]
+   [Files: 3844.txt]
+
+Memoirs of Cardinal De Retz, Volume II., by Cardinal De Retz              3843
+   [Title: Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. II]
+   [Subtitle: Being Historic Court Memoirs of the Great Events during the
+    Minority of Louis XIV. and the Administration of Cardinal Mazarin]
+   [Updated edition of: etext03/cm06b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3843 ]
+   [Files: 3843.txt]
+
+Memoirs of Cardinal De Retz, Volume I, by Cardinal de Retz                3842
+   [Title: Memoirs Of Jean Francois Paul De Gondi, Cardinal De Retz, Vol. I]
+   [Subtitle: Being Historic Court Memoirs of the Great Events during the
+    Minority of Louis XIV. and the Administration of Cardinal Mazarin]
+   [Updated edition of: etext03/cm05b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3842 ]
+   [Files: 3842.txt]
+
+Memoirs of Marguerite de Valois, Volume III., by Marguerite de Valois     3840
+   [Subtitle: A History of the House of Valois by Unknown Author]
+   [Author: Marguerite de Valois, Queen of Navarre]
+   [Updated edition of: etext03/cm03b10.txt]
+   [Link: http://www.gutenberg.net/3/8/4/3840 ]
+   [Files: 3840.txt]
+
+Memoirs of Marguerite de Valois, Volume II, by Marguerite de Valois       3839
+   [Author: Marguerite de Valois, Queen of Navarre]
+   [Updated edition of: etext03/cm02b10.txt]
+   [Link: http://www.gutenberg.net/3/8/3/3839 ]
+   [Files: 3839.txt]
+
+The Memoirs of Marguerite de Valois, Volume I, by Marguerite de Valois    3838
+   [Author: Marguerite de Valois, Queen of Navarre]
+   [Updated edition of: etext03/cm01b10.txt]
+   [Link: http://www.gutenberg.net/3/8/3/3838 ]
+   [Files: 3838.txt]
+
+The Lesser Bourgeoisie, by Honore de Balzac                               1641
+   [Tr.: Katharine Prescott Wormeley]
+   [Updated edition of: etext99/lsbrg10.txt]
+   [Link: http://www.gutenberg.net/1/6/4/1641 ]
+   [Files: 1641.txt]
+
+
+.:: GUTINDEX.ALL has been corrected to add a "Note:", as indicated:
+L'ile mysterieuse, by Jules Verne                                        14287
+   [Language: French]
+   (Note: considered a sequel to 20,000 Leagues Under the Sea)
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+The following has been re-indexed to correct title and author info:
+As Farpas Da Politica, Das Letras E Dos Costumes, by Ortigao et al.      14296
+   [Novembro A Dezembro 1882]
+   [Authors: Jose Maria Eca De Queiroz and Ramalho Ortigao]
+
+The following has been re-indexed to correct the author (originally
+attributed to "Nath. Brook", who was in fact the seller, not the
+author; the author is anonymous, only identified by initials):
+The Compleat Cook, by "W. M."                                            10520
+   [Subtitle: Expertly Prescribing The Most Ready Wayes, Whether Italian,
+    Spanish Or French, For Dressing Of Flesh And Fish, Ordering Of Sauces
+    Or Making Of Pastry]
+
+The following is being re-indexed to correct the author's name (Gautier,
+not Gaultier):
+La comedie de la mort, by Theophile Gautier                              10442
+
+
+The following is being re-indexed to correct the title (Areopagitica,
+not Aeropagitica):
+Jul 1996 Areopagitica, by John Milton   [Milton #4]        [areopxxx.xxx]  608
+
+
+-=-=-=-=[  57 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+MacMillan & Co.'s General Catalogue of Works, Dec 1869, by Unknown       14359
+   [Title: MacMillan & Co.'s General Catalogue of Works in the Departments
+    of History, Biography, Travels, and Belles Lettres, December, 1869]
+   [Link: http://www.gutenberg.net/1/4/3/5/14359 ]
+   [Files: 14359.txt; 14359-8.txt; 14359-h.htm]
+
+A Little Book of Filipino Riddles, by Various                            14358
+   [Edited by Frederick Starr]
+   [Link: http://www.gutenberg.net/1/4/3/5/14358 ]
+   [Files: 14358.txt; 14358-8.txt; 14358-h.htm]
+
+Rudolph Eucken, by Abel J. Jones                                         14357
+   [Subtitle: A Philosophy of Life]
+   [Link: http://www.gutenberg.org/1/4/3/5/14357 ]
+   [Files: 14357.txt; 14357-8.txt; 14357-h.htm; ]
+
+The Emperor of Portugalia, by Selma Lagerlof                             14356
+   [Tr.: Velma Swanston Howard]
+   [Link: http://www.gutenberg.org/1/4/3/5/14356 ]
+   [Files: 14356.txt; 14356-8.txt; ]
+
+54-40 or Fight, by Emerson Hough                                         14355
+   [Ill.: Arthur I. Keller]
+   [Link: http://www.gutenberg.org/1/4/3/5/14355 ]
+   [Files: 14355.txt; 14355-8.txt; 14355-h.htm; ]
+
+Gwaith Samuel Roberts, by Samuel Roberts                                 14354
+   [Editor: Owen M. Edwards]
+   [Language: Welsh]
+   [Link: http://www.gutenberg.org/1/4/3/5/14354 ]
+   [Files: 14354.txt; 14354-h.htm]
+
+The Poems of Jonathan Swift, D.D., Volume I (of 2), by Jonathan Swift    14353
+   [Editor: William Ernst Browning]
+   [Link: http://www.gutenberg.org/1/4/3/5/14353 ]
+   [Files: 14353.txt; 14353-8.txt; ]
+
+Patty and Azalea, by Carolyn Wells                                       14352
+   [Link: http://www.gutenberg.net/1/4/3/5/14352 ]
+   [Files: 14352.txt; 14352-8.txt]
+
+Maaliskuun lauluja; Tarina suuresta tammesta; Yokehraaja, Eino Leino     14351
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/3/5/14351 ]
+   [Files: 14351-8.txt]
+
+Three Voyages for the Discovery of a Northwest Passage, Vol. 2, by Parry 14350
+   [Title: Three Voyages for the Discovery of a Northwest Passage from the
+    Atlantic to the Pacific, and Narrative of an Attempt to Reach the North
+    Pole, Volume 2 (of 2)]  (See #13512 for Vol. 1)
+   [Author: Sir William Edward Parry]
+   [Link: http://www.gutenberg.org/1/4/3/5/14350 ]
+   [Files: 14350.txt; 14350-8.txt; 14350-h.htm; ]
+
+Jaakko Jaakonpoika, by Santeri Alkio                                     14349
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/3/4/14349 ]
+   [Files: 14349-8.txt]
+
+Ma Pettengill, by Harry Leon Wilson                                      14348
+   [Link: http://www.gutenberg.org/1/4/3/4/14348 ]
+   [Files: 14348.txt; 14348-8.txt; ]
+
+Plays by August Strindberg, Second series, by August Strindberg          14347
+   [Translated With Introductions By Edwin Bjorkman]
+   [Contents:
+      There Are Crimes And Crimes
+      Miss Julia
+      The Stronger
+      Creditors
+      Pariah]
+   [Link: http://www.gutenberg.net/1/4/3/4/14347 ]
+   [Files: 14347.txt; 14347-8.txt]
+
+Historical Relation Of The Island Ceylon In The East Indies, Robert Knox 14346
+   [Subtitle: Together With An Account Of The Detaining In Captivity
+    The Author And Divers Other Englishmen Now Living There,
+    And Of The Author's Miraculous Escape]
+   [Link: http://www.gutenberg.net/1/4/3/4/14346 ]
+   [Files: 14346.txt; 14346-8.txt; 14346-h.htm]
+
+The Fight For The Republic in China, by Bertram Lenox Putnam Weale       14345
+   [Link: http://www.gutenberg.org/1/4/3/4/14345 ]
+   [Files: 14345.txt; 14345-8.txt; 14345-h.htm; ]
+
+Punch, Vol. 102, February 27, 1892, Ed. by Francis Burnand               14344
+   [Link: http://www.gutenberg.net/1/4/3/4/14344 ]
+   [Files: 14344.txt; 14344-8.txt; 14344-h.htm]
+
+Poesies de Charles d'Orleans, by Charles d'Orleans                       14343
+   [Compiled by Marie Guichard]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/3/4/14343 ]
+   [Files: 14343.txt; 14343-8.txt; 14343-h.htm]
+
+Ireland In The New Century, by Horace Plunkett                           14342
+   [Link: http://www.gutenberg.net/1/4/3/4/14342 ]
+   [Files: 14342.txt; 14342-8.txt; 14342-h.htm]
+
+Punch, Or The London Charivari, Vol. 102, February 6, 1892, by Various   14341
+   [Edited by Francis Burnand]
+   [Link: http://www.gutenberg.net/1/4/3/4/14341 ]
+   [Files: 14341.txt; 14341-8.txt; 14341-h.htm]
+
+Pater Filucius, und Portrait, by Wilhelm Busch                           14340
+   [Subtitle: Allegorisches Zeitbild, Mit den Beigaben]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/4/3/4/14340 ]
+   [Files: 14340-8.txt; 14340-h.htm; ]
+
+Music Talks with Children, by Thomas Tapper                              14339
+   [Link: http://www.gutenberg.org/1/4/3/3/14339 ]
+   [Files: 14339.txt; 14339-8.txt; ]
+
+Books and Habits from the Lectures of Lafcadio Hearn, by Lafcadio Hearn  14338
+   [Selected and Edited with an Introduction by John Erskine]
+   [Link: http://www.gutenberg.net/1/4/3/3/14338 ]
+   [Files: 14338.txt; 14338-8.txt; 14338-h.htm]
+
+Jaana Ronty, by Eino Leino                                               14337
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/3/3/14337 ]
+   [Files: 14337-8.txt]
+
+Paavo Kontio, by Eino Leino                                              14336
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/3/3/14336 ]
+   [Files: 14336-8.txt]
+
+The Nursery, Volume 17, No. 101, May, 1875, by Various                   14335
+   [Subtitle: A Monthly Magazine for Youngest Readers]
+   [Link: http://www.gutenberg.org/1/4/3/3/14335 ]
+   [Files: 14335.txt; 14335-h.htm; ]
+
+The Range Dwellers, by B. M. Bower                                       14334
+   [Author AKA:  B. M. Bower and B. M. Sinclair were pseudonyms of
+    Bertha Muzzy Bower Sinclair Cowan.]
+   [Illus.: Charles M. Russell]
+   [Link: http://www.gutenberg.org/1/4/3/3/14334 ]
+   [Files: 14334.txt; 14334-8.txt; 14334-h.htm; ]
+
+Lippincott's Magazine, June 1876, Vol. 17, No. 102, by Various           14333
+   [Link: http://www.gutenberg.net/1/4/3/3/14333 ]
+   [Files: 14333.txt; 14333-8.txt; 14333-h.htm]
+
+Cleek: the Man of the Forty Faces, by Thomas W. Hanshew                  14332
+   [Link: http://www.gutenberg.net/1/4/3/3/14332 ]
+   [Files: 14332.txt; 14332-8.txt]
+
+Judith of the Godless Valley, by Honore Willsie                          14331
+   [Link: http://www.gutenberg.net/1/4/3/3/14331 ]
+   [Files: 14331.txt]
+
+Die Abtissin von Castro, by Stendhal                                     14330
+   [Language: German]
+   [Link: http://www.gutenberg.net/1/4/3/3/14330 ]
+   [Files: 14330.txt; 14330-8.txt; 14330-h.htm]
+
+Viajes de un Colombiano en Europa I, by Jose Maria Samper                14329
+   [Volume 1 of 2 Volumes]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/4/3/2/14329 ]
+   [Files: 14329.txt; 14329-8.txt]
+
+The Consolation of Philosophy, by Anicus Manlius Severinus Boethius      14328
+   [Translated by H. R. James]
+   [Link: http://www.gutenberg.net/1/4/3/2/14328 ]
+   [Files: 14328.txt; 14328-8.txt; 14328-h.htm]
+
+Lippincott's Magazine, January 1873, Vol. 11, Nol. 22, by Various        14327
+   [Ed.: John Foster Kirk]
+   [Link: http://www.gutenberg.org/1/4/3/2/14327 ]
+   [Files: 14327.txt; 14327-8.txt; 14327-h.htm; ]
+
+Ulster's Stand For Union, by Ronald McNeill                              14326
+   [Link: http://www.gutenberg.org/1/4/3/2/14326 ]
+   [Files: 14326.txt; 14326-8.txt; 14326-h.htm; ]
+
+Taboo and Genetics, by Knight, Peters, and Blanchard                     14325
+   [Subtitle: A Study of the Biological, Sociological and Psychological
+    Foundation of the Family]
+   [Author: Melvin Moses Knight, Iva Lowther Peters, and Phyllis Mary
+    Blanchard]
+   [Link: http://www.gutenberg.org/1/4/3/2/14325 ]
+   [Files: 14325.txt; 14325-8.txt; 14325-h.htm; ]
+
+Lippincott's Magazine, April 1875, Vol. XV., No. 88, by Various          14324
+   [Link: http://www.gutenberg.net/1/4/3/2/14324 ]
+   [Files: 14324.txt; 14324-8.txt; 14324-h.htm]
+
+La-bas, by J. K. Huysmans                                                14323
+   [Tr.: Keene Wallace]
+   [Link: http://www.gutenberg.net/1/4/3/2/14323 ]
+   [Files: 14323.txt; 14323-8.txt; 14323-h.htm]
+
+The Electra of Euripides, by Euripides                                   14322
+   [Translated Into English Rhyming Verse With Explanatory Notes
+    By Gilbert Murray]
+   [Link: http://www.gutenberg.net/1/4/3/2/14322 ]
+   [Files: 14322.txt; 14322-8.txt]
+
+Punch, Vol. 102, Feb. 20, 1892, Ed. by Francis Burnand                   14321
+   [Link: http://www.gutenberg.net/1/4/3/2/14321 ]
+   [Files: 14321.txt; 14321-8.txt; 14321-h.htm]
+
+Landscape and Song, by Various, Ed. by E. Nesbit                         14320
+   [Link: http://www.gutenberg.net/1/4/3/2/14320 ]
+   [Files: 14320.txt; 14320-8.txt; 14320-h.htm]
+
+McClure's Magazine, March, 1896,  Vol. VI, No. 4, by Various             14319
+   [Link: http://www.gutenberg.net/1/4/3/1/14319 ]
+   [Files: 14319.txt; 14319-8.txt; 14319-h.htm]
+
+Belarmino y Apolonio, by Ramon Perez de Ayala                            14318
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/4/3/1/14318 ]
+   [Files: 14318-8.txt]
+
+The Sorcery Club, by Elliott O'Donnell                                   14317
+   [Link: http://www.gutenberg.org/1/4/3/1/14317 ]
+   [Files: 14317.txt; 14317-8.txt; 14317-h.htm; ]
+
+The Poetry Of Robert Browning, by Stopford A. Brooke                     14316
+   [Link: http://www.gutenberg.net/1/4/3/1/14316 ]
+   [Files: 14316.txt; 14316-8.txt; 14316-h.htm]
+
+Old English Sports, by Peter Hampson Ditchfield                          14315
+   [Subtitle: Pastimes and Customs]
+   [Link: http://www.gutenberg.org/1/4/3/1/14315 ]
+   [Files: 14315.txt; 14315-8.txt; 14315-h.htm; ]
+
+Etiquette, by Emily Post                                                 14314
+   [Link: http://www.gutenberg.net/1/4/3/1/14314 ]
+   [Files: 14314.txt; 14314-8.txt; 14314-h.htm]
+
+One of the 28th, by G. A. Henty  [AKA: George Alfred Henty]              14313
+   [Subtitle: A Tale of Waterloo]
+   [Link: http://www.gutenberg.org/1/4/3/1/14313 ]
+   [Files: 14313.txt; 14313-8.txt; 14313-h.htm; ]
+
+What All The World's A-Seeking, by Ralph Waldo Trine                     14312
+   [Subtitle: The Vital Law of True Life, True Greatness Power and
+    Happiness]
+   [Link: http://www.gutenberg.org/1/4/3/1/14312 ]
+   [Files: 14312.txt; 14312-h.htm; ]
+
+Bailen, by Benito Perez Galdos                                           14311
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/4/3/1/14311 ]
+   [Files: 14311-8.txt; 14311-h.htm; ]
+
+Le Livre des Meres et des Enfants, Tome II, Marceline Desbordes-Valmore  14310
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/4/3/1/14310 ]
+   [Files: 14310.txt; 14310-8.txt; 14310-h.htm; ]
+
+Nouvelles et Contes pour la jeunesse, by Pauline Guizot                  14309
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/4/3/0/14309 ]
+   [Files: 14309-8.txt; 14309-h.htm]
+
+El prestamo de la difunta, by Vicente Blasco Ibanez                      14308
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/4/3/0/14308 ]
+   [Files: 14308-8.txt]
+
+Resena Veridica de la Revolucion Filipina, by Emilio Famy Aguinaldo      14307
+   [Language: Spanish]
+   [Link: http://www.gutenberg.net/1/4/3/0/14307 ]
+   [Files: 14307-8.txt; 14307-h.htm]
+
+Vaekinaeinen naiminen, by Moliere                                        14306
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/4/3/0/14306 ]
+   [Files: 14306.txt; 14306-8.txt]
+
+Brut, by Layamon                                                         14305
+   [Tr.: Eugene Mason]
+   [Link: http://www.gutenberg.org/1/4/3/0/14305 ]
+   [Files: 14305.txt; 14305-8.txt; ]
+
+The Tale Of Peter Rabbit, by Beatrix Potter                              14304
+   [Illus.: Virginia Albert]
+   [Link: http://www.gutenberg.net/1/4/3/0/14304 ]
+   [Files: 14304.txt; 14304-h.htm]
+
+
+Wanted--A Match Maker, by Paul Leicester Ford                            14211
+   [Illus.: Howard Chandler Christy. Decorations by Margaret Armstrong]
+   [Link: http://www.gutenberg.net/1/4/2/1/14211 ]
+   [Files: 14211.txt; 14211-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Dec 2004 Complete Pat Hobby Stories, by F Scott Fitzgerald  [040082xx.xxx] 0390A
+   [Full Title: The Complete Pat Hobby Stories]
+   [http://gutenberg.net.au/ebooks04/0400821.txt or .zip
+   [and http://gutenberg.net.au/ebooks04/0400821h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+>From David Price, about #14354, Gwaith Samuel Roberts, by Samuel Roberts:
+
+For those interested: Samuel Roberts (known as S.R.) was born in 1800 in
+the Welsh village of Llanbryn-mair.  A radical, he had great influence in
+Wales through his journal Y Cronicl.  Denouncing slavery, the Crimean
+war, he advocated votes for women, universal suffrage and the building of
+railways(!) Frustated with the political oppression he encountered from
+vested interests in Wales he emigrated to Tennessee in 1857 - with others
+from his village. Their new life gradually fell apart (they were a long
+way from other Welsh-speakers in America, were duped etc.).  Eventually
+Samuel had to return to Wales, to be met with scorn and ridicule.  He
+died in 1885.
+
+His literary output was vast and this selection from his works includes
+some of his poetry and his political tale of "Farmer Careful" (and his
+encounters with Lord Protection etc).
+
+The book is in Welsh.
+
+~ ~ ~
+
+David Widger forwards the following note about #14358, A Little Book of
+Filipino Riddles:
+
+Note from submitter: This includes material in English (main), and the
+following Philippine languages (iso 639 code): Tagalog (tl), Bikol (bik),
+Hiligaynon (hil), Ilokano, (ilo), Pangasinan (pag), Kapampangan (pam),
+and Gaddang (no ISO 639 code, gad in SIL ethnologue). Hiligaynon is
+confusingly identified as Bisayan, which can mean any of the several
+languages spoken in the Visayas, and is more commonly known as Ilonggo.
+
+~ ~ ~
+
+Joe Loewenstein sends along the following about #14305, Brut:
+
+Layamon was an early Middle English poet (pre-Chaucer). This work is part
+of his chronicle of English history written about 1200.
+
+~ ~ ~
+
+Confidence is the feeling you have before you understand the situation.
+
+=============================================================================

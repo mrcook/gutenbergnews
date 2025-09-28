@@ -1,0 +1,319 @@
+---
+params:
+  id: 1995
+title: "PG Weekly Newsletter: Part 3 (2003-05-21)"
+date: 2003-05-21T11:23:38+00:00
+author: Michael Cook
+layout: post
+url: /20030521/pg-weekly-newsletter-2003-05-21-part-3/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 21st May 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+[The Newsletter is now being sent in three sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+2. News, Notes & Queries, and  3. Weekly eBook Update Listing.]
+
+Note:  Due to circumstances beyond her control, Alice Wood, your regular
+newsletter editor, will not be sending out the newsletter today; so you
+will not be receiving Part 2 this week.  We expect to resume normal
+transmission next week.
+
+-=] Part 3 [=-
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 05/21/03:   8,021 (incl. 233 Aus.).
+
+Last week the Total Count was 7,916, including 230 at PG of Australia.
+This week we added 105 new (incl. 3 Aus.).
+
+RESERVED count:   39
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following has been re-posted in new formats as indicated:
+Aug 1999 Michael Strogoff, by Jules Verne                  [strgfxxx.xxx]1842
+[HTML in strgf10h.zip and strgf10h.htm]
+Jun 1997 Self Help; Conduct & Perseverance by Samuel Smiles[selfhxxx.xxx] 935
+[XHTML in selfh10h.htm/.zip]
+Jun 1997 The Bab Ballads, by W. S. Gilbert [Gilbert #3]    [2babbxxx.xxx] 931
+[XHTML in 2babb10h.htm/.zip]
+May 1997 Sunday Under Three Heads by Charles Dickens[CD#27][suthsxxx.xxx] 922
+[XHTML in suths10h.htm/.zip]
+May 1997 The Uncommercial Traveller by Charles Dickens[#23][unctrxxx.xxx] 914
+[XHTML in unctr10h.htm/.zip]
+
+
+The following has been posted in an improved 11th Edition, and in
+new formats as indicated:
+Oct 2004 Through Space to Mars, by Roy Rockwood            [spmrsxxx.xxx]6717
+[HTML in spmrs11h.htm and spmrs11h.zip]
+
+
+The following have been re-posted in an improved 11th Edition:
+July 2003 Ruth, by Elizabeth Gaskell                       [gruthxxx.xxx]4275
+
+
+=-=-=-=[ 102 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Apr 2005 A Foregone Conclusion, by W. D. Howells      [#65][?frcnxxx.xxx]7839
+Apr 2005 Fifty-One Tales, by E. J. M. D. Plunkett      [#2][?51taxxx.xxx]7838
+[Full author: Lord Dunsany [Edward J. M. D. Plunkett]]
+Apr 2005 Nest Builder, by Beatrice Forbes-Robertson Hale   [?nestxxx.xxx]7837
+Apr 2005 Jewish History, by S. M. Dubnow                   [?jwhsxxx.xxx]7836
+[Subtitle: An Essay in the Philosophy of History]
+[Plain text in 7jwhs10.txt/.zip; 8-bit version in 8jwhs10.txt/.zip]
+
+Apr 2005 Lothair, by Benjamin Disraeli                     [lothaxxx.xxx]7835
+[Plain text in lotha10.txt/.zip; RTF version in lotha10r.rtf/.zip]
+[RTF version has numbered paragraphs, accented characters]
+Apr 2005 Wagner's Tristan und Isolde,byGeorge Ainslie Hight[?wrtixxx.xxx]7834
+[Subtitle: An Essay on the Wagnerian Drama]
+[Plain text in 7wrti10.txt/.zip; 8-bit version in 8wrti10.txt/.zip]
+[HTML version with accented characters in 8wrti10h.htm and 8wrti10h.zip]
+[HTML zip file includes 21 graphic images]
+Apr 2005 Samantha on the Woman Question, by Marietta Holley[samwqxxx.xxx]7833
+[Also posted: illustrated HTML, zipped only - samwq10h.zip]
+Apr 2005 The Deluge, by DAVID GRAHAM PHILLIPS              [?dlugxxx.xxx]7832
+[Plain text in 7dlug10.txt.zip; 8-bit version in 8dlug10.txt/.zip]
+Apr 2005 When London Burned, by G. A. Henty                [?wlnbxxx.xxx]7831
+[Plain text in 7wlnb10.txt.zip; 8-bit version in 8wlnb10.txt/.zip]
+
+Apr 2005 Domestic pleasures, by F. B. Vaux                 [?firexxx.xxx]7830
+Apr 2005 Prisoners of the Revolution, by Danske Dandridge  [?prisxxx.xxx]7829
+[Full title: American Prisoners of the Revolution]
+Apr 2005 The Web of Life, by Robert Herrick            [#2][webolxxx.xxx]7828
+Apr 2005 Fan, by Henry Harford                             [?fanxxxx.xxx]7827
+[Subtitle: The Story of a Young Girl's Life][Author AKA: W. H. Hudson]
+[Plain text in 7fanx10.txt/.zip; 8-bit version in 8fanx10.txt/.zip]
+Apr 2005 L. P. M., by J. Stewart Barney                    [?lpmwxxx.xxx]7826
+[Subtitle: The End of The Great War]
+
+Apr 2005 Geometrical Solutions, by Archimedes              [geomcxxx.xxx]7825
+[Full title: Geometrical Solutions Derived from Mechanics]
+[Plain text in geomc10.txt][ .pdf/ .txt/ .tex files in geomc10.zip]
+Apr 2005 Melody, by Laura E. Richards                  [#2][?meloxxx.xxx]7824
+Apr 2005 The Attache, by Thomas Chandler Haliburton    [#5][ttchcxxx.xxx]7823
+Apr 2005 The Attache V2, by Thomas Chandler Haliburton [#4][ttch2xxx.xxx]7822
+Apr 2005 The Attache V1, by Thomas Chandler Haliburton [#3][ttch1xxx.xxx]7821
+[Full title: The Attache; or, Sam Slick in England]
+
+Apr 2005 Monitress Merle, by Angela Brazil                 [?mmrlxxx.xxx]7820
+[Plain text in 7mmrl10.txt/.zip; 8-bit version in 8mmrl10.txt/.zip]
+Apr 2005 An Enquiry on War, by Bernard Mandeville          [?chwrxxx.xxx]7819
+[Full title: An Enquiry into the Origin of Honour, and the Usefulness of
+  Christianity in War]
+[Also posted HTML - 8chwr10h.zip and 8chwr10h.htm]
+Apr 2005 Niels Henrik Abel, by G. Mittag-Leffler           [?abelxxx.xxx]7818
+[Language: French]
+Apr 2005 Alessandro Manzoni, by Alessandro De Gubernatis   [amanzxxx.xxx]7817
+[Subtitle: Studio Biografico - Letture fatte alla Taylorian Institution di
+  Oxford nel maggio dell'anno 1878, notevolmente ampliate]
+[Language: Italian]
+Apr 2005 The Voyage of Captain Popanilla, by Disraeli      [vcpopxxx.xxx]7816
+[Author: Benjamin Disraeli] [Ed.: K. Kay Shearin]
+(Note: sometimes published simply as Popanilla)
+[Plain text in vcpop10.txt/.zip; RTF in vcpop10r.txt/.zip]
+
+Apr 2005 Hereward, by Charles Kingsley                [#18][?herexxx.xxx]7815
+[Full title: Hereward, The Last of the English]
+Apr 2005 Daybreak: A Romance of an Old World,by James Cowan[daybrxxx.xxx]7814
+Apr 2005 Madame de Mauves, by Henry James             [###][mauvexxx.xxx]7813
+Apr 2005 Delphine, by Madame de Stael                      [delphxxx.xxx]7812
+[Author AKA: Anne Louise Germaine Necker; Madame de Stael-Holstein]
+[Language: French]
+Apr 2005 War Romance Salvation Army,E. Booth and G. L. Hill[?warmxxx.xxx]7811
+[Full Title: The War Romance of the Salvation Army]
+[Full Author: Evangeline Booth and Grace Livingston Hill]
+[Also posted: illustrated HTML, zipped only - 8warm10h.zip]
+
+Apr 2005 Schatzkaestlein des rheinischen,Johann Peter Hebel[?schrxxx.xxx]7810
+[Title: Schatzkaestlein des rheinischen Hausfreundes] [Language: German]
+Apr 2005 Les desenchantees, by Pierre Loti            [#11][?dechxxx.xxx]7809
+[Language: French]
+Apr 2005 Grand-Daddy Whiskers, M.D., by Nellie M. Leonard  [gdwmdxxx.xxx]7808
+[Also posted: illustrated HTML, zipped only - gdwmd10h.zip]
+Apr 2005 Georgina of the Rainbows,by Annie Fellows Johnston[georgxxx.xxx]7807
+[Also posted: illustrated HTML zipped only - georg10h.zip]
+Mar 2005 A Boy's Ride, by Gulielma Zollinger               [bridexxx.xxx]7806
+
+Apr 2005 First Plays, by A. A. Milne                       [?frplxxx.xxx]7805
+[Plain text in 7frpl10.txt.zip; 8-bit version in 8frpl10.txt/.zip]
+Apr 2005 Expressive Voice Culture,Jessie Eldridge Southwick[?expvxxx.xxx]7804
+Apr 2005 The Story of Sugar, by Sara Ware Bassett          [sugarxxx.xxx]7803
+Apr 2005 Seven O'Clock Stories, by Robert Gordon Anderson  [sevocxxx.xxx]7802
+Apr 2005 Five Little Friends, by Sherred Willcox Adams     [flfrnxxx.xxx]7801
+
+Mar 2005 Outlines of English Literature, by William J. Long[?elitxxx.xxx]7800
+[Full Title: Outlines of English and American Literature]
+Feb 2005 An American Robinson Crusoe, by Samuel B. Allison [arcruxxx.xxx]7799
+Mar 2005 The Village Coquette, R. Dufresny, Morlock tr.[#4][vilcoxxx.xxx]7798C
+[Author: Riviere Dufresny] [Tr.: Frank Morlock]
+Mar 2005 The Lady of the Aroostook, by W. D. Howells  [#64][?arooxxx.xxx]7797
+Mar 2005 Poems, by Madison Cawein                          [?poemxxx.xxx]7796
+[With a Foreword by William Dean Howells]
+[Plain text in 7poem10.txt/.zip; 8-bit version in 8poem10.txt/.zip]
+
+Mar 2005 Pelle the Conqueror, by Martin Anderson Nexo  [#5][?pel5xxx.xxx]7795
+[Full Title: Pelle the Conqueror, Complete]
+Mar 2005 Pelle the Conqueror, V4, Martin Anderson Nexo [#4][?pel4xxx.xxx]7794
+Mar 2005 Pelle the Conqueror, V3, Martin Anderson Nexo [#3][?pel3xxx.xxx]7793
+Mar 2005 Pelle the Conqueror, V2, Martin Anderson Nexo [#2][?pel2xxx.xxx]7792
+Mar 2005 Pelle the Conqueror, V1, Martin Anderson Nexo [#1][?pel1xxx.xxx]7791
+
+Mar 2005 Captain January, by Laura E. Richards             [cpjanxxx.xxx]7790
+Mar 2005 Memoirs of My Dead Life, by George Moore          [?mmdlxxx.xxx]7789
+[Plain text in 7mmdl10.txt/.zip; 8-bit version in 8mmdl10.txt/.zip]
+[HTML version with accented characters in 8mmdl10h.htm and 8mmdl10h.zip]
+[HTML zip incorporates two gif files]
+Mar 2005 Blindfolded, by Earle Ashley Walcott              [?blnfxxx.xxx]7788
+[Plain text in 7blnf10.txt/.zip; 8-bit version in 8blnf10.txt/.zip]
+Mar 2005 The One Great Reality, by Louisa Clayton          [?1grlxxx.xxx]7786
+[Plain text in 71grl10.txt/.zip; 8-bit version in 81grl10.txt/.zip]
+
+Mar 2005 Leonardo da Vinci, by Maurice W. Brockwell        [?ldvnxxx.xxx]7785
+[Also posted in illustrated HTML, zipped only - 8ldvn10h.zip]
+Mar 2005 From The Lips of the Sea, by Clinton Scollard     [?ftlsxxx.xxx]7784
+[Plain text in 7ftls10.txt/.zip; 8-bit version in 8ftls10.txt/.zip]
+Mar 2005 Birch Bark Legends of Niagara,Owahyah             [brchbxxx.xxx]7783
+Mar 2005 The Last Tournament, by Alfred Lord Tennyson      [tltrnxxx.xxx]7782
+Mar 2005 La vita sul pianeta Marte, by G. Schiaparelli     [martexxx.xxx]7781
+[Full Author: Giovanni Virginio Schiaparelli] [Language: Italian]
+(Note:  Images in marte10.zip only)
+
+Mar 2005 Johnson on Shakespeare, by Samuel Johnson     [#9][?joshxxx.xxx]7780
+[Full Title: Johnson's Notes to Shakespeare Vol. I Comedies]
+Mar 2005 Of Captain Mission, by Daniel Defoe          [#12][?cmisxxx.xxx]7779
+Mar 2005 History of California, by Helen Elliott Bandini   [?hcalxxx.xxx]7778
+Mar 2005 Voyages Of Captain James Cook, by A. Kippis       [?vcjcxxx.xxx]7777
+[Full Title: Narrative of the Voyages Round The World, Performed by
+  Captain James Cook]
+[Subtitle: With an Account of His Life During the Previous and Intervening
+  Periods]
+Mar 2005 Call of the Cumberlands, by Charles Neville Buck  [?cumbxxx.xxx]7776
+
+Mar 2005 Life of R. B. Sheridan, V2, by Thomas Moore   [#2][?rbs2xxx.xxx]7775
+[Title: Memoirs of the Life of Rt. Hon. Richard Brinsley Sheridan Vol 2]
+Mar 2005 Journal of Arthur Stirling, by Upton Sinclair[#20][?stirxxx.xxx]7774
+[Subtitle: The Valley of the Shadow]
+Mar 2005 Diamond Dust, by Kay Shearin                      [didstxxx.xxx]7773C
+[Plain text in didst10.txt/.zip; RTF in didst10r.txt/.zip]
+
+Mar 2005 Les Quarante-Cinq, by Alexandre Dumas, V3    [#35][?lqc3xxx.xxx]7772
+[Language: French]
+Mar 2005 Les Quarante-Cinq, by Alexandre Dumas, V2    [#34][?lqc2xxx.xxx]7771
+[Language: French]
+Mar 2005 Les Quarante-Cinq, by Alexandre Dumas, V1    [#33][?dlqcxxx.xxx]7770
+[Language: French]
+
+Mar 2005 Principal Navigations, V4, by Richard Hakluyt [#7][?hk04xxx.xxx]7769
+[Full Title: The Principal Navigations, Voyages, Traffiques, and
+  Discoveries of The English Nation, v4]
+[Subtitle: North-Eastern Europe and Adjacent Countries, Part III. The
+  Muscovy Company and the North-Eastern Passage. Section II]
+[Ed.: Edmund Goldsmid]
+[Plain text in 7hk0410.txt/.zip, 8-bit version in 8hk0410.txt/.zip]
+(See also #7476, 7466 & 7182)
+Mar 2005 The Adventures Of Ulysses, By Charles Lamb        [advulxxx.xxx]7768
+Mar 2005 The Graymouse Family, by Nellie M. Leonard        [grymsxxx.xxx]7767
+Mar 2005 A Dog of Flanders, by Louisa de la Rame           [?dgflxxx.xxx]7766
+[Author AKA: Ouida]
+[Plain text in in 7dgfl10.txt/.zip; 8-bit version in 8dgfl10.txt/.zip]
+
+Mar 2005 Night Must Fall, by Williams, Emlyn               [nmfalxxx.xxx]7765
+Mar 2005 Little Bear at Work and Play, Frances Margaret Fox[lbearxxx.xxx]7764
+[Full Title: Little Bear at Work and at Play]
+Mar 2005 Law-Breakers and Other Stories, by Robert Grant   [?lbrkxxx.xxx]7763
+Mar 2005 Wanderers, by Knut Hamsun                     [#4][?wandxxx.xxx]7762
+
+Mar 2005 The Parisians,   by E. B. Lytton, Complete[BL#176][b176wxxx.xxx]7749
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7737-7748]
+Mar 2005 The Parisians,   by E. B. Lytton, Book 12 [BL#175][b175wxxx.xxx]7748
+Mar 2005 The Parisians,   by E. B. Lytton, Book 11 [BL#174][b174wxxx.xxx]7747
+Mar 2005 The Parisians,   by E. B. Lytton, Book 10 [BL#173][b173wxxx.xxx]7746
+
+Mar 2005 The Parisians,   by E. B. Lytton, Book 9  [BL#172][b172wxxx.xxx]7745
+Mar 2005 The Parisians,   by E. B. Lytton, Book 8  [BL#171][b171wxxx.xxx]7744
+Mar 2005 The Parisians,   by E. B. Lytton, Book 7  [BL#170][b170wxxx.xxx]7743
+Mar 2005 The Parisians,   by E. B. Lytton, Book 6  [BL#169][b169wxxx.xxx]7742
+Mar 2005 The Parisians,   by E. B. Lytton, Book 5  [BL#168][b168wxxx.xxx]7741
+
+Mar 2005 The Parisians,   by E. B. Lytton, Book 4  [BL#167][b167wxxx.xxx]7740
+Mar 2005 The Parisians,   by E. B. Lytton, Book 3  [BL#166][b166wxxx.xxx]7739
+Mar 2005 The Parisians,   by E. B. Lytton, Book 2  [BL#165][b165wxxx.xxx]7738
+Mar 2005 The Parisians,   by E. B. Lytton, Book 1  [BL#164][b164wxxx.xxx]7737
+
+Mar 2005 Lysistrata, by Aristophanes                   [#5][alyssxxx.xxx]7700
+
+
+Feb 2005 Select Speeches of Daniel Webster, Daniel Webster [?swebxxx.xxx]7600
+[Also posted XML - 8sweb10h.zip and 8sweb10h.htm]
+
+Feb 2005 Shallow Soil, by Knut Hamsun                  [#3][?shslxxx.xxx]7537
+Feb 2005 The Road Leads On, by Knut Hamsun             [#2][?roadxxx.xxx]7536
+
+Feb 2005 Book of Old Ballads, ed. B. Nichols, Complete [#5][?bld5xxx.xxx]7535
+[Full Editor: Beverly Nichols]
+[7-bit version in 7bld510.txt/.zip; 8-bit version in 8bld510.txt/.zip]
+[Illustrated HTM zip only in 8bld510h.zip][5mb][Includes #7531-7534]
+
+Feb 2005 Book of Old Ballads, ed. B. Nichols, Vol. 4   [#4][8bld4xxx.xxx]7534
+Feb 2005 Book of Old Ballads, ed. B. Nichols, Vol. 3   [#3][8bld3xxx.xxx]7533
+Feb 2005 Book of Old Ballads, ed. B. Nichols, Vol. 2   [#2][8bld2xxx.xxx]7532
+Feb 2005 Book of Old Ballads, ed. B. Nichols, Vol. 1   [#1][8bld1xxx.xxx]7531
+[Full author: Selected by Beverly Nichols]
+[Illustrated HTM zip only in 8bld?10h.zip][Size varies from 1-2mb]
+
+Feb 2005 Renascence Hebrew Literature, by Nahum Slouschz   [?rhebxxx.xxx]7530
+[Full Title: The Renascence of Hebrew Literature (1743-1885)]
+Feb 2005 The Reverberator, by Henry James             [###][reverxxx.xxx]7529
+
+Feb 2005 The Little Daisy Girl and Other Poems, by Cheney  [ldsygxxx.xxx]7527C
+[Authors: Jacquelyn Hedge-Cheney and Roland Cheney]
+[Note:  ldsyg10.zip contains 9 Illustrations]
+
+
+=-=-=-=[ 3 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+May 2003 We Stand United, by Stephen Vincent Benet         [030083xx.xxx]0233A
+[Full Title: We Stand United and other Radio Scripts (1940-1942)]
+[http://gutenberg.net.au/ebooks03/0300841.txt or ZIP]
+May 2003 A Month in the Country, by Ivan Turgenev          [030082xx.xxx]0232A
+[Translated from the Russian by Constance Garnett]
+[http://gutenberg.net.au/ebooks03/0300831h.html]
+May 2003 A True Story, by Stephen Hudson                   [030082xx.xxx]0231A
+[Pseudonym of Sydney Schiff]
+[http://gutenberg.net.au/ebooks03/0300821.txt or ZIP]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_05_21_part_3.txt" target="_blank" rel="nofollow">pgweekly_2003_05_21_part_3.txt</a>

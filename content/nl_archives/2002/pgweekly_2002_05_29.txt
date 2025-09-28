@@ -1,0 +1,521 @@
+PGWeekly_May_29_2002.txt
+
+***The Project Gutenberg Weekly Newsletter For Wednesday, May 29, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+IF WE CAN DO 36 MORE eBOOKS IN THE NEXT WEEK, THAT WILL BE 1,000 IN THE
+FIRST 5 MONTHS OF 2002.  It took us nearly 27 years for the first 1,000.
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+Today Is The 149th Day of 2002
+216 Days/31 Weeks Left Until 2003
+
+Ending our 21st Week Of The Year
+
+
+The 7th Week Of Our SECOND 5,000 eBooks
+
+20-30 Months From Today, Perhaps Our 10,000th eBook!
+
+However, things have slowed down a lot since we hit 5,000,
+so please let me know if there is anything we can do to
+help you get going with some new books.  Thanks!  Michael
+
+
+1,758   New eBooks In The Last Year
+3,511   eBooks This Week Last Year
+5,269   Tree-Friendly Titles Now Online
+
+   33   New This Week [21st week]
+   47   Weekly Average This Year
+  119   New This Month [5th month]
+        This includes the "found" Shakespeare files
+  964   New This Year!!! [31st year]
+   18   New This Week Last Year
+
+   71   eBooks From Project Gutenberg of Australia
+   40   Only 40 Numbers On Our Reserved Numbers list
+
+***
+
+Request for Assistance:
+
+We Have Included Quick and Easy Ways to Donate. . .As Per Your Requests!
+
+
+We Are Looking For Volunteers To Add eBooks In More Languages,
+and in more formats, including music, artwork, movies, etc.
+
+***
+
+I have a couple of copies of these tales in Spanish, but I lack the time
+and courage to do the scanning. If you have a volunteer near Buenos Aires,
+in Argentina, we could arrange somehow to get it scanned.
+Gaston H. Picard <ghpicard@fibertel.com.ar>
+
+***
+
+Try The Newest PG Mirror Site
+
+Location:  Houston, Texas, USA
+URL: http://www.spishak.com/pg
+HTTP only, no FTP
+
+***
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Request For Assistance From [above]
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly etext update:
+  Updates/corrections
+  34 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+QUICK WAYS MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit-card online (2 methods; details are below)
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+ or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+DETAILS ON DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+Here is a new one:
+
+6. Affiliate programs.  At http://www.igive.com you can designate
+"Project Gutenberg" as your donation recipient, and send
+a portion of online shopping expenses to Project Gutenberg.
+If you know of additional affiliate programs, please email
+donate@gutenberg.net
+
+Project Gutenberg does not endorse or partner with any particular
+affiliate program.  We know that they can be awkward to use and
+often ask for extensive personal information.  But we also know
+that they are a good fit for some donors.
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new Etext number.
+
+Please note the following changes, corrections and improvements:
+
+The following etext is now available in text, HTML, .pdb, TeX,
+PostScript and PDF formats:
+Jan 1991 Alice in Wonderland, Lewis Carroll [Carroll #1]   [alicexxx.xxx]  11
+
+We have posted a corrected 11th edition of the following, also
+posted in HTML format:
+Jun 1993 Civil Disobedience, Henry David Thoreau[thoreau#1][civilxxx.xxx]  71
+[Full title: On the Duty of Civil Disobedience]
+
+The following etext is now available in text, PDF, PostScript
+and TeX formats:
+Nov 1998 Hamlet, by William Shakespeare                    [2ws26xxx.xxx]1524
+
+Oct 2003 Cinq Semaines En Ballon, By Jules Verne[Verne #20][?cinqxxx.xxx]4548
+Files added to etext03: 8cinq10h.htm 8cinq10h.zip
+
+Feb 2003 The Student's Elements of Geology, Charles Lyell  [geogyxxx.xxx]3772
+File added to etext03: geogy10h.zip (8.6MB)
+
+
+***] 33 NEW U.S. POSTS [***
+
+Feb 2004 The Land of Heart's Desire, by W.B. Yeats[Yeats#2][lanhdxxx.xxx]5180
+Feb 2004 The Countess Cathleen, by W.B. Yeats     [Yeats#1][ccathxxx.xxx]5179
+Feb 2004 Le Mariage Force, by Moliere [French] [Moliere #6][?marfxxx.xxx]5178
+[Author AKA Jean-Baptiste Poquelin]
+[8-bit characters in 8marf10.txt & .zip; in 7marf10.tkxt & .zip]
+Feb 2004 Birds and Poets, by John Burroughs   [Burroughs#3][?bpoexxx.xxx]5177
+[7-bit version with non-accented characters in 7bpoe10.txt and 7bpoe10.zip]
+[8-bit version with accented characters in 8bpoe10.txt and 8bpoe10.zip]
+Feb 2004 Corpus of a Siam Mosquito, Steven Sills           [siammxxx.xxx]5176C
+Feb 2004 Pearl-Maiden, by H. Rider Haggard     [Haggard#37][prlmaxxx.xxx]5175
+
+Feb 2004 Allan and the Holy Flower, H. Rider Haggard  [#36][allhfxxx.xxx]5174
+Feb 2004 The Religion of the Samurai, by Kaiten Nukariya   [samurxxx.xxx]5173
+[Subtitle: A Study of Zen Philosophy and Discipline in China and Japan]
+Feb 2004 Aladdin O'Brien, by Gouverneur Morris             [lddnbxxx.xxx]5172
+Feb 2004 Thomas Hariot, by Henry Stevens                   [tharixxx.xxx]5171
+[Subtitle: The Mathematician, the Philosopher and the Scholar]
+
+Feb 2004 Poems of Experience, by Ella Wheeler Wilcox   [#7][pexpxxxx.xxx]5170
+[Plain text version in pexpxxxx.txt/.zip, HTML in pexpxxh.htm and .zip]
+Feb 2004 Hardscrabble, by John Richardson    [Richardson#8][hrdscxxx.xxx]5169
+Feb 2004 The Land Of Heart's Desire, by W. B. Yeats    [#2][lnhtdxxx.xxx]5168
+Feb 2004 The Countess Cathleen, by William Butler Yeats[#1][cntscxxx.xxx]5167
+Feb 2004 The Poetaster, by Ben Jonson            [Jonson#8][ptstrxxx.xxx]5166
+
+Feb 2004 Innocent, by Marie Corelli            [Corelli#10][nncntxxx.xxx]5165
+Feb 2004 The Beetle, by Richard Marsh                      [thbtlxxx.xxx]5164
+Feb 2004 Guy Garrick, by Arthur B. Reeve         [Reeve#10][gygrrxxx.xxx]5163
+Feb 2004 Agatha Webb, by Anna Katherine Green     [Green#9][gthwbxxx.xxx]5162
+[Author AKA: Mrs. Charles Rohlfs]
+Feb 2004 The Treasure, by Selma Lagerlof                   [thtrsxxx.xxx]5161
+
+Feb 2004 The Mabinogion (trans. Lady Charlotte Guest)      [mbngxxxx.xxx]5160
+[Plain text version in mbngxxxx.txt/.zip, HTML in mbngxxh.htm and .zip]
+
+
+Apr 2004 The Emperor,     by Georg Ebers, Complete  [GE#55][ge55vxxx.xxx]5493
+[Contains eBooks #5483-5492]
+Apr 2004 The Emperor,           by Georg Ebers, v10 [GE#54][ge54vxxx.xxx]5492
+Apr 2004 The Emperor,           by Georg Ebers, v9  [GE#53][ge53vxxx.xxx]5491
+
+Apr 2004 The Emperor,           by Georg Ebers, v8  [GE#52][ge52vxxx.xxx]5490
+Apr 2004 The Emperor,           by Georg Ebers, v7  [GE#51][ge51vxxx.xxx]5489
+Apr 2004 The Emperor,           by Georg Ebers, v6  [GE#50][ge50vxxx.xxx]5488
+Apr 2004 The Emperor,           by Georg Ebers, v5  [GE#49][ge49vxxx.xxx]5487
+Apr 2004 The Emperor,           by Georg Ebers, v4  [GE#48][ge48vxxx.xxx]5486
+
+Apr 2004 The Emperor,           by Georg Ebers, v3  [GE#47][ge47vxxx.xxx]5485
+Apr 2004 The Emperor,           by Georg Ebers, v2  [GE#46][ge46vxxx.xxx]5484
+Apr 2004 The Emperor,           by Georg Ebers, v1  [GE#45][ge45vxxx.xxx]5483
+
+
+
+***
+
+     Total PG ebooks available online **AS OF 05/29/02**:  5,269
+(This number includes the 71 etexts posted at the PG Australia web site)
+
+In the first 21 weeks of the new year, we have produced 964 new eBooks.
+Note: it took us from 1971 to 1997 to produce our *FIRST* 964 eBooks!!!
+
+            That's 21 WEEKS Compared to 26 YEARS!!!
+
+
+Jul 1997 The Black Tulip, by Alexandre Dumas[Pere][Dumas#1][tbtlpxxx.xxx] 965
+Jul 1997 The Adventures of Robin Hood, by Howard Pyle[HP#1][2rbnhxxx.xxx] 964
+Jul 1997 Little Dorrit, by Charles Dickens  [Dickens #30]  [ldortxxx.xxx] 963
+Jul 1997 The Poems of Henry Kendall, by Henry Kendall      [phkndxxx.xxx] 962
+Jul 1997 Glinda of Oz, by L. Frank Baum  [LFB#17] [Oz#14]  [14wozxxx.xxx] 961
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 2nd was
+was the first Wednesday of 2002, and thus ended the production
+
+With 5,269 eTexts online as of May 29, 2002 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.90 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.85 when we had 3493 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.95 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+Headlines From Newsscan
+
+EUROPEAN COMMISSION HAS PRIVACY CONCERNS ABOUT MICROSOFT
+The European Commission says Microsoft's .NET Passport system may be in
+violation of the Commission's data protection law. Passport stores a user's
+ID information on company servers so it doesn't have to be reentered as the
+user moves from site to site on the Web. The EU is fearful both that
+personal data might be passed to unknown parties and also that failure to
+register with Passport could exclude people from visiting some sites.
+(New York Times 28 May 2002)
+http://partners.nytimes.com/2002/05/28/technology/28SOFT.html
+
+MICROSOFT TWEAKS WINDOWS XP TO COMPLY WITH SETTLEMENT
+Microsoft is making changes to its Windows XP operating software to allow
+computer makers as well as end-users install non-Microsoft software for
+functions such as Web browsing, e-mail and streaming media. The changes
+will be released as part of a free update "service pack" later this summer,
+and computer makers could start shipping PCs with the reconfigured XP
+software this fall. The updated Windows XP also includes some new security
+features and other changes, such as support for some of Microsoft's .NET
+technology. Microsoft says the new version of XP will comply with a
+proposed antitrust settlement signed last year with the Justice Department,
+which is awaiting official approval. (Wall Street Journal 24 May 2002)
+http://online.wsj.com/article/0,,SB1022192707516578560.djm,00.html (sub req'd)
+
+SECURITY-INDUSTRIAL COMPLEX
+George Washington University law professor Peter Swire calls it "a new
+security-industrial complex," alluding to the phrase "military-industrial
+complex" made famous in President Eisenhower's Farewell Address. Swire says
+that industry is looking at homeland security needs as a lifeline for
+getting out of the recession, and here are some of the many security
+technologies now being marketed: a variety of automatic face-recognition
+systems; electronic body scanners that see through clothing to detect
+weapons; biometric cards with embedded computer chips containing personal
+ID data, fingerprints, or retinal scans; databases of "trusted travelers"
+who could avoid long security lines at airports; and links between
+passenger reservation systems to other government and private databases.
+Privacy advocates continue to express their concerns that some of these         ***
+technologies intrude too much on individual privacy.
+(San Jose Mercury News 27 May 2002)                                                                    Headlines From Edupage
+http://www.siliconvalley.com/mld/siliconvalley/3349627.htm
+
+ONLINE MOUSETRAPPING
+His current whereabouts unknown, Pennsylvania man John Zuccarini has been
+ordered by the Federal Trade Commission to pay $1.9 million in compensation
+to victims of a Web scam in which set up sites using misspelled names of
+popular Web destinations to trap accidental visitors and divert them to
+porn and gambling sites. Zuccarini is said to make almost $1 million a year
+by charging advertisers who use his services. (AP/USA Today 24 May 2002)
+http://www.usatoday.com/life/cyber/2002/05/24/mousetrapping-ftc.htm
+
+CYBERSECURITY GETS $1.7 BILLION BOOST IN BUDGET
+The Bush Administration has included a $1.7 billion increase in
+cybersecurity in its proposed budget -- 68% over its current level. Last
+fall a congressional survey gave a grade of "F" to 17 of 24 major federal
+agencies for their level of security preparations. In the new budget,
+overall technology spending by the federal government will increase from
+$45 billion to $52 billion, but Department of Commerce undersecretary Ken
+Juster notes that 90% of the nation's critical infrastructure (e.g.,
+transportation and communication systems and power grids) is privately
+owned and operated, and suggests: "The insurance and legal industries
+should reward companies" that make computer security "as integral a part
+of their business as marketing and product development."
+(The Record, Hackensack NJ/San Jose Mercury News 23 May 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3324403.htm SECURITY
+
+WORLD'S STRICTEST CELL PHONE RADIATION LAW? IN CHINA!
+China, which is below international norms for most environmental standards,
+is considering strict new regulations that would cut cell phone radiation
+emissions by half of what they are overseas. The cost to cell phone makers
+would be enormous, because China represents such a huge market for cell
+phones and because manufacturers would have to redesign their entire
+operations, from R&D to production. Scientific studies have so far failed
+to find any evidence that cell phone emissions cause brain cancer, but the
+World Health Organization (WHO) has also said that further research is
+necessary before ruling out that possibility. (Reuters/USA Today 24 May 2002)
+http://www.usatoday.com/life/cyber/tech/2002/05/24/china-cell-radiation.htm
+
+[What Have I Been Saying About Pay-Per-View?]
+
+NETWORKS REALLY WISH YOU'D WATCH THE COMMERCIALS
+A survey from NextResearch reports that 20% of the people who own digital
+video recorders (DVR) from TiVo or Replay TV never watch any commercials --
+a finding that is scaring the advertising and broadcasting industry. Jamie
+Kellner of Turner Broadcasting warns that if DVR technology destroys the
+economics of paid advertising, the result will be the rapid expansion of
+pay-TV: "The free television that we've all enjoyed for so many years is
+based on us watching these commercials. There's no Santa Claus. If you
+don't watch the commercials, someone's going to have to pay for television
+and it's going to be you." And Daniel Jaffe of the Association of National
+Advertisers concurs: "You start losing marginal dollars when people who you
+thought you were buying are not viewing. This is not just a theoretical
+problem that might be happening somewhere down the line. This is happening
+now." What should advertisers do? Mollie Watson, a product manager for Best
+Buy, thinks their only hope is to do a better job and "put advertisements
+out there that people are actually going to choose to watch." Apparently
+there are such things. (New York Times 23 May 2002)
+http://partners.nytimes.com/2002/05/23/technology/23VIDE.html
+
+VIDEOGAME REVENUES ARE SURPASSING HOLLYWOOD'S
+Here's a statistic for you: videogame revenues last year were $9.3 billion,
+more than a billion dollars greater than Hollywood's box office total of
+$8.1 billion. And Sony executive Kaz Kirai predicts that the game industry
+will soon surpass the record industry's $14.3 billion and home video sales
+of $19 billion. Let the games continue. (USA Today 23 May 2002)
+http://www.usatoday.com/life/cyber/tech/review/2002/5/23/e3.htm
+
+***
+
+Headlines From Edupage:
+
+WEIGHT OF ONGOING LAWSUITS TOO MUCH FOR KAZAA
+The company that created the Kazaa file-sharing software has said it
+will not continue in the ongoing legal battles with the recording
+industry. Kazaa BV, which sold the Kazaa software to Sharman Networks
+recently, said it cannot afford the legal costs of the battle and will
+accept a default judgment from the U.S. District Court in California.
+The Kazaa application will continue to operate because of its sale to
+Sharman, a move the recording industry sees as a legal maneuver to
+shield the company's valuable assets from the litigation. Officials at
+Kazaa BV accused the recording industry of lengthy and expensive legal
+tactics designed not to address copyright law but to wear down
+defendants. Entertainment companies blamed the file-sharing companies
+for the costly delays and discounted claims that the file-sharers are
+low on money. Streamcast Networks and Grokster, two other file-sharing
+companies, are also facing copyright infringement allegations from the
+recording industry.
+Newsbytes, 23 May 2002
+http://www.newsbytes.com/news/02/176729.html
+
+RECORD LABEL SELLS MP3 SINGLE
+Maverick Records and Vivendi Universal Net USA have reportedly become
+the first major record label to sell an unencrypted MP3 file on the
+Internet. For 99 cents, consumers can buy the track, a remix of "Earth"
+by bassist Meshell Ndegeocello, and do whatever they want with it--copy
+it, trade it, send it over e-mail. Analysts said the label is seeing
+how well, if at all, the honor system will work. A spokesman for the
+Recording Industry Association of America declined to comment on the
+move by its member. Observers said other major record labels will be
+watching closely to see the reaction to Vivendi's action, which some
+analysts described as a step in the right direction.
+Newsbytes, 24 May 2002
+http://www.newsbytes.com/news/02/176747.html
+
+CHANGES TO XP ALLOW USERS TO ADD NON-MICROSOFT APPLICATIONS
+As part of its proposed settlement last year with nine states and the
+Justice Department, Microsoft is modifying the Windows XP operating
+system to allow users to install non-Microsoft applications for e-mail,
+Web browsing, and others. The settlement has not received formal
+approval, and nine other states are still pursuing their anti-trust
+case against the software maker. Nonetheless, Microsoft will release a
+"service pack" this summer with the changes outlined in the settlement.
+Computer manufacturers that build machines with XP as the operating
+system will have new options for how they configure the computers they
+ship to consumers, though Gateway Inc., Dell Computer Inc., and Toshiba
+Corp. are still undecided about exactly what changes they would make.
+Consumers who already have computers with XP will be able to download
+the service pack or order it on a CD from Microsoft.
+Wall Street Journal, 24 May 2002
+http://online.wsj.com/article/0,,SB1022192707516578560,00.html
+
+MICROSOFT SUBSCRIPTION SERVICE DRAWS MIXED OPINIONS
+Microsoft's recent announcement that it would end some pricing
+programs for purchasing software and replace them with a subscription
+model has upset many and spawned debates about the direction of the
+software industry. Many customers have shied away from the subscription
+agreements, saying they will cost more and won't provide the level of
+flexibility of their current arrangements. Analysts at Gartner have
+urged Microsoft customers to take advantage of current discounts on the
+subscription service before they expire. According to Gartner, those
+who wait risk paying significantly more once the discounts have expired
+and the entire pricing structure is migrated to the subscription model.
+InfoWorld, 21 May 2002 http://www.idg.net/ic_864909_1794_9-10000.html
+Giga Information Group has a less upbeat interpretation of the
+situation. Julie Gira, vice president and research fellow at Giga,
+said, "The ill will generated with the customer is going to take a long
+time to dissipate." Giga cited a report that indicates one-third of
+current Microsoft customers are undecided, while another third have a
+wait-and-see attitude. Gira conceded that the current licensing program
+for software does need to be overhauled, but said the way Microsoft has
+handled the change will likely alienate many customers. Her comments
+did echo those of Gartner when she said that those who wait may pay
+much more later, and that current customers should make a decision
+soon, before the deadline arrives.
+NewsFactor Network, 21 May 2002
+http://www.newsfactor.com/perl/story/17872.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+
+

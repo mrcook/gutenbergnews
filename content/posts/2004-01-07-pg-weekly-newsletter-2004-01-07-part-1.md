@@ -1,0 +1,301 @@
+---
+params:
+  id: 2089
+title: "PG Weekly Newsletter: Part 1 (2004-01-07)"
+date: 2004-01-07T20:57:34+00:00
+author: Michael Cook
+layout: post
+url: /20040107/pg-weekly-newsletter-2004-01-07-part-1/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter January 7, 2004
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 1
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News and Comment
+3) Notes and Queries, Reviews and Features
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Ah, here we are another year older and hopefully, another year
+wiser. The end of the production year rolls into view and expect more
+from Michael on that later in the week. At this time of year people
+seem to do predictions, I don't think I dare at the moment, given the
+way that targets and predictions seem to disappear at an ever
+increasing rate.
+
+Have a great week.
+
+
+
+
+Happy reading,
+
+Alice
+
+Send suggestions and feedback to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://gutenberg.net
+Project Gutenberg Newsletter website: http://gutenberg.net/newsletter
+Hosted by iBiblio, The Public's Library at http://ibiblio.org
+Radio Gutenberg: http://gutenberg.net/audio
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://gutenberg.net/subs.shtml
+
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+      If you have a book you would like to confirm is in the public domain in
+      the US, and therefore suitable for Project Gutenberg, please do the
+      following:
+
+      1. Check whether we have the eBook already.  Look in
+      	http://gutenberg.net/GUTINDEX.ALL
+      which is updated weekly.  (The searchable catalog at
+      http://www.gutenberg.net  lags behind by several months)
+
+      2. Check the "in progress" list to see whether someone is already
+      working on the eBook.  Sometimes, books are listed as in progress for
+      years - if so, email David Price (his address is on the list) to ask
+      for contact information for the person working on the book.  The "in
+      progress" list:
+	      http://www.dprice48.freeserve.co.uk/GutIP.html
+
+      3. If the book seems to be a good candidate (pre-1923 publication
+      date, or 1923-1988 published in the US without a copyright notice),
+      submit scans of the title page and verso page (even if the verso is
+      blank) to:
+      	http://beryl.ils.unc.edu/copy.html
+
+      You'll hear back within a few days.
+
+
+
+2) News and Comment
+
+
+
+
+Other news this week
+
+A request from Michael Hart for famous quotations from PG eBooks. Any
+suitable candidates to Michael please: hart@beryl.ils.unc.edu
+
+
+Another request, this time from me. Those nice people at DP are
+looking to compile a list of websites that have archive images of
+texts on them. If you are aware of any site that has anything from one
+to millions of text images on it, please let me know at the newsletter
+email address.
+
+
+
+
+
+
+
+Radio Gutenberg Update
+
+www.gutenberg.net/audio
+
+channel 1 - Sherlock Holmes "The Sign of Four"
+channel 2 - Robert Sheckley's "Bad Medicine"
+
+Both are high quality live readings from the collection.
+
+Testing of Radio Gutenberg audio books on demand is currently taking
+place.
+
+
+
+      QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+      A. Send a check or money order to:
+
+      Project Gutenberg Literary Archive Foundation
+      809 North 1500 West
+      Salt Lake City, UT 84116
+
+
+      B. Donate by credit card online
+
+      NetworkForGood:
+      http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+      or
+
+      PayPal to "donate@gutenberg.net":
+      https://www.paypal.com
+      /xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+      Project Gutenberg's success is due to the hard work of thousands of
+      volunteers over more than 30 years.  Your donations make it possible
+      to support these volunteers, and pay our few employees to continue the
+      creation of free electronic texts.  We accept credit cards, checks and
+      money transfers from any country, in any currency.
+
+      Donations are made to the Project Gutenberg Literary Archive Foundation
+      (PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+      the US Internal Revenue Service, and has the Federal Employer Identification
+      Number (EIN) 64-6221541.
+
+      For more information, including several other ways to donate, go to
+      http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+
+
+3) Notes and Queries, Reviews and Features
+
+
+
+
+
+'Simple but smashing laughter of the best tales of Mr. W. W. Jacobs'
+- Cockneys and their Jokes, G. K. Chesterton
+
+The gloria mundi not only transits but also does some unexpected
+twists. The old debauchee-captains, mates in love and resourceful
+ship's boys are now almost forgotten, smashed by old scary monkey
+paw. And who was once told to represent 'the return of great comic
+classics', now deserves one line on the hyperdictionary.com 'English
+writer of macabre short stories (1863-1943)' and his books are listed
+in the division of horrors. Actually, it fits perfectly to Mr. Jacobs
+narrative's style. Almost always twisted at the end, elaborated pieces
+of craftsmanship are they, the short stories about turmoils and
+affairs of the people dwelling around Thames.
+
+Funny, but besides the sacramental numbers 1863 - 1943 not much info
+about this writer can be found in the cobweb-threads, only plaintive
+cries for help from those who has to write a school essay about this
+once extremely popular author. OK, here is what could be found after
+painstaking scraping:
+
+Mister William Wymark Jacobs was born on September 8, 1863 in the
+humble house of wharf manager, that was located on the wharf itself in
+the docs of Wapping in London. Surely the modesty is a relative thing
+and for the most of the seafarers the manager's house was a symbol of
+wealth and prosperity. The young Jacobs has got an education in
+private schools - small business-like institutions run by an
+entrepreneurial proprietor. Opposite to the expensive 'public' schools
+for upper classes.  After finishing his education at the age of 16,
+William took a position as a clerk in Post Office Savings Bank. O, my
+ after real life of docs, boats and sea journeys during not too
+demanding school times, the work as a small clerk was chocking. He
+hated this 'captivity' passionately and dreamed about freedom. And
+naturally he started to write, creating his own world based on his
+limited but colorful experiences. Seafaring adventures without pirates
+or big proud galleons, sailing journeys to the nearest river doc,
+funny somewhat awkward love affairs of bargemen and dockworkers ? poor
+but sympathetic life of the simple people around him.  Since 1885 he
+started to publish his works in minor magazines, but his first
+collection of the short stories 'Many Cargoes' was published only in
+the year 1896 (http://gutenberg.net/etext04/mncrg10.txt). For the
+person who grew up in the world where earning bread was inexplicitly
+by the sweat of one's brow, was very hard to believe that he may draw
+his wage from something so ephemeral as writing the stories. So he
+allowed to himself to leave his hated post at the Savings Bank only in
+1898 after publishing his third collection 'Sea Urchins', that was
+also published at the same time in New York as 'More Cargoes' (an
+American publisher decided probably to show the connection with first
+success more clearly ?). At this time he was already a known and
+successful writer, who's works appeared in Jerome K. Jerome's Idle and
+To-Day and even accepted in the Strand - the most prestigious fiction
+magazine at that time. At the year 1900 he took even more unusual step
+and married socialist and suffragette Agnes Eleanor
+Williams. According to the rumors their alliance was not perfect.. The
+conservative, careful and even little bit pessimistic William was
+scarcely a real friend of energetic suffragist that wanted to change
+this old world for good. If to apply Freud theory and to analyze his
+stories, however, he was ready and accustomed for the confrontational
+manner of the male-female relationships. In most of his novel about
+married life a woman is demanding and a man tries to avoid fulfilling
+her demands as peaceful as possible ? a good example is
+http://gutenberg.net/1/0/5/6/10561/10561.txt . In any case Agnes and
+William stayed together and even raised four children ? two boys and
+two girls. Since 1916 Jacobs writes little and more adapting his old
+stories into short plays. He died popular in London nursing house at
+the age of eighty the middle of WW2.
+
+And for the summery and discussion part - David Widger is now loading
+the collection 'Ship's company' to PG - it will be nice to read
+them. Even with not much of intellectual curiosity as snobbishly
+said once about the author Arnold Bennet, Jacobs' stories are
+enjoyable and perfectly done like a home-made soup of Grandma.  So
+hopefully the curse of Monkey Paw will be cleared off, and in the
+future the writer will take his honorable place somewhere nearby
+O'Henry and old Jerome in the long internet reference lists.
+
+There is another collection already on PG:
+http://gutenberg.net/etext04/shrcs10.txt, and for those who reads in
+Russian http://abssf.narod.ru/st-cap.htm. In web you can find plenty
+of terrifying camp-story versions, so if you like to be scared to
+death you can help yourself and search for 'Monkey Paw'. That it is
+more or less,
+
+Sweet reading to all of you,
+
+Gali
+
+
+
+
+
+
+
+
+
+Mailing list information
+
+      For more information about the Project Gutenberg's mailing lists
+      please visit the following webpage:
+      http://gutenberg.net/subs.shtml
+
+      Trouble?
+
+      If you are having trouble subscribing, unsubscribing or with
+      anything else related to the mailing lists, please email
+
+      "owner-gutnberg@listserv.unc.edu" to contact the lists'
+      (human) administrator. Please note the email address spelling.
+
+      If you would just like a little more information about Lyris
+      features, you can find their help information at http://www.lyris.com/help
+
+      Please note that the newsletter staff do not have access to the
+      mailing list email address list, so they are unable to subscribe
+      / unsubscribe you themselves. They can however, give advice if
+      you have trouble following the procedures on the webpage.
+
+      Current Subscription Numbers as at end December 2003
+
+      gweekly - 2812
+
+      gmonthly - 3490
+
+
+Credits
+
+Thanks this week to Brett and George for the numbers and the
+booklists. Thierry, Gali, Branko, Steve Herber (ask and you will
+receive - just don't ask for money though!), Greg, Michael and Larry
+Wall. Entertainment for the workers provided as usual by Andrew
+Collins and BBC 6Music. 2004 - already !?!?!
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2004_01_07_part_1.txt" target="_blank" rel="nofollow">pgweekly_2004_01_07_part_1.txt</a>

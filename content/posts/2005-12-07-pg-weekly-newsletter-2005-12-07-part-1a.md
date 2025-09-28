@@ -1,0 +1,576 @@
+---
+params:
+  id: 2330
+title: "PG Weekly Newsletter: Part 1a (2005-12-07)"
+date: 2005-12-07T21:49:03+00:00
+author: Michael Cook
+layout: post
+url: /20051207/pg-weekly-newsletter-2005-12-07-part-1a/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Dec  7 09:26:48 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Dec  7 09:26:56 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0512070926180.1376@pglaf.org&gt;
+
+Weekly_December_07.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, December 07, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+***
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+WANTED!
+
+&gt;&gt;&gt;   !!!People who can help with PR for our 35th Anniversary!!!  &lt;&lt;&lt;
+
+&gt;&gt;&gt;   !!!People to help us collect ALL public domain eBooks!!!  &lt;&lt;&lt;
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+    2 New From PG Australia [Australian, Canadian Copyright Etc.]
+   58 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+            Project Gutenberg of Europe Passed 100 eBook Mark!!!
+
+
+
+                     17,713 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~89% of the Way to 20,000!!!
+
+               14,707 New eBooks Since The Start Of 2001
+
+              That's ~250 eBooks per Month for ~56 Months
+
+                 We Have Produced 2757 eBooks in 2005!!!
+
+                        2,287 to go to 20,000!!!
+
+                 7,774 from Distributed Proofreaders
+                Since October, 2000 [Details in PT1B]
+
+                 511 from Project Gutenberg of Australia
+
+                  103 from Project Gutenberg of Europe
+                 [We will start including these in 2006]
+
+               We Averaged ~339 eBooks Per Month In 2004
+
+             We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~57 eBooks Per Week This Year
+
+                             60 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Nov. 2005 from 10,000 to 17,500
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+OPEN SOURCE LICENSE UP FOR REVISION
+
+The Free Software Foundation has announced plans to revise the General
+Public License (GPL), which covers many open source applications
+including the Linux operating system. The license has not been revised
+since 1991, long before Linux and other open source applications had
+been implemented widely. Now, according to Eben Moglen, the
+foundation's general counsel, "The big boys, corporations and
+governments, have far more reason to be interested and concerned." The
+GPL and the Free Software Foundation are the creations of Richard
+Stallman, an unwavering critic of proprietary software and the author
+of much of the source code that led to the Linux operating system.
+Stallman has used the license and the foundation to foster what he says
+are the four principles of software: the ability to use, study, copy,
+and modify it. Stallman acknowledged that with the success of open
+source applications in recent years, the task of revising the GPL is
+complicated by patent issues, which must allow open source and
+proprietary software to run on the same systems. A first draft of the
+new GPL will be presented at MIT in mid-January. The revision process
+is expected to be completed by the end of 2006, with the Free Software
+Foundation making final decisions about changes.
+New York Times, 30 November 2005 (registration req'd)
+http://www.nytimes.com/2005/11/30/technology/30license.html
+
+
+THE RISING TIDE OF ONLINE COLLEGE APPLICATIONS
+
+[Is This Perpetuating "The Digital Divide?"]
+
+Motivated by a number of factors, growing numbers of college hopefuls
+are turning to the Web to submit applications, though concerns about
+the medium persist. For colleges and universities, online applications
+generally mean easier processing with fewer mistakes. Many institutions
+waive application fees--which can run as high as $75--for students who
+apply online. As a result, most institutions are seeing higher
+percentages of applications filed online, and many students are
+applying at more institutions. According to the National Association
+for College Admission Counseling, 57 percent of students applied to
+college online in 2004, compared to 35 percent one year earlier. The
+Higher Education Research Institute reported that in 2004, more than 16
+percent of students applied to seven or more schools, up from less than
+10 percent in 1994. Some schools do not waive fees for online
+applications, however, among them Yale University and Harvard
+University. And despite growing confidence in the Internet, some
+students remain skeptical that their materials have been received.
+William Fitzsimmons, dean of admissions at Harvard, said, "Students
+will send it electronically, then they will fax it to you, and then
+they will send it snail mail."
+Wall Street Journal, 30 November 2005 (sub. req'd)
+http://online.wsj.com/article/SB113331711186209812.html
+
+NEW ORLEANS ANNOUNCES WI-FI NETWORK
+City officials from New Orleans have announced plans to deploy a
+wireless network covering the entire city by the end of 2006. The
+network will provide improved communication for city services,
+including fire and police departments, and--the city hopes--will draw
+residents and businesses back to the city following this year's
+disastrous hurricane season. When complete, the network will provide
+free Internet access to anyone in the city. Unlike several other
+municipal networks under development, the New Orleans network will be
+installed and operated by the city itself. Still, city officials must
+grapple with a state law that restricts Internet access speeds on
+municipal networks. Unless the city is able to change the law or win an
+exemption, it will only be allowed to offer transfer speeds of 144
+Kbps. Representatives of cable and phone companies that offer Internet
+access have argued that cities should not be allowed to offer services
+that compete with services from private companies. City officials
+reject that notion, arguing that commercial Internet access is too
+expensive and inconvenient for many potential users.
+Silicon.com, 30 November 2005
+http://networks.silicon.com/broadband/0,39024661,39154681,00.htm
+
+INTERNATIONAL GROUP SUES OVER .COM MANAGEMENT
+The World Association of Domain Name Developers has filed a lawsuit in
+a California court against the Internet Corporation for Assigned Names
+and Numbers (ICANN) and VeriSign over a deal recently reached between
+the two organizations. After resolving a dispute over VeriSign's Site
+Finder service, which directed users who mistyped URLs to VeriSign's
+Web site, ICANN agreed to an extension of the contract that allows
+VeriSign to manage the .com and .net domains. Although the extension
+runs from 2007 to 2012, the lawsuit filed by the developers association
+contends that the contract "provides for the automatic renewal of the
+agreement and thereby precludes competitors from ever entering the .com
+and .net domain name registration market," thereby establishing a
+monopoly for the domains. The only means for another company to bid on
+the work, according to the suit, is if VeriSign goes out of business or
+fails to meet the terms of the contract. A statement from ICANN said
+the lawsuit is intended to divert attention away from an ICANN meeting
+currently being held in Vancouver.
+BBC, 29 November 2005
+http://news.bbc.co.uk/2/hi/technology/4482292.stm
+
+MICROSOFT TWEAKS IE TO SIDESTEP EOLAS PATENT
+Microsoft has made a change to its Internet Explorer browser to avoid
+infringing on a patent held by Eolas Technologies, though Microsoft
+continues to dispute the validity of that patent. Eolas was granted a
+patent in 1998 for a technology that allows certain programs, such as
+applets or ActiveX controls, to be launched automatically from Web
+pages. Eolas sued Microsoft in 1999 and in 2003 was awarded $521
+million for infringement of its intellectual property. That case has
+been working its way through appeals courts and is set for a retrial.
+In the meantime, Microsoft has opted to modify its browser so that
+users must manually accept the launching of ActiveX controls on Web
+pages. Unlike an earlier proposal, the one implemented will not require
+users to accept each such control on a Web page but simply to accept
+them all at once. Microsoft's Michael Wallent said this solution is
+less intrusive and that for most users, it will be "an almost invisible
+change." Microsoft is working with developers to rewrite Web pages in a
+way to minimize the effects of the change.
+Internet News, 2 December 2005
+http://www.internetnews.com/xSP/article.php/3568286
+
+
+[Meanwhile The Rest of the World is in High Gear]
+
+SINGAPORE TO INVEST IN ELECTRONIC SECTOR
+The government of Singapore has announced plans to invest nearly $600
+million over the next decade to foster growth in the digital sector of
+the country's economy. Singapore's Economic Development Board will
+manage the investments, which will support four areas: attracting
+businesses from outside the country; fostering a climate that
+encourages residents of the country to pursue careers in digital media;
+funding research and development; and providing financial backing for
+electronic projects involving local and overseas interests. Vivian
+Balakrishnan, second minister for trade and industry, said the country
+hopes that the investment will generate 30,000 new jobs in Singapore by
+2018. The announcement coincided with the opening of a game development
+facility by Electronic Arts. Officials in Singapore hope that the
+country's digital industry will grow to nearly $6 billion by 2018.
+CNET, 5 December 2005
+http://news.com.com/2100-1025_3-5982727.html
+
+INTEL UPS INVESTMENT IN INDIA
+
+Intel has announced plans to invest $1 billion in India, where it
+already operates the company's largest nonmanufacturing site outside
+the United States. That site, in Bangalore, hosts development efforts
+for software. The new investment, expected over the next five years,
+will be split between the existing research and development efforts and
+local firms. Craig Barrett, chairman of Intel, said, "We will grow our
+local operations, boost venture capital investments, and work closely
+with the government, industry, and educators." The company said it has
+not made any decisions about opening manufacturing facilities in India,
+though such an option remains open. The costs of doing business in
+countries including India are significantly lower than in the United
+States. Some estimates put the salary for an Indian software engineer
+at one-sixth of what a comparably skilled engineer would earn in the
+United States.
+BBC, 5 December 2005
+http://news.bbc.co.uk/2/hi/business/4499362.stm
+
+
+[More Strange Microsoft Browser News]
+
+RHAPSODY USERS CAN SKIP THE DOWNLOAD
+RealNetworks has introduced a Web-based version of its Rhapsody online
+music service, untethering existing users from their usual computers
+and opening the service to users with non-Windows-based computers.
+Until now, Rhapsody users had to download an application to their
+computers to access the service. With the new offering, users can
+access the service from any computer using their existing Rhapsody
+names and passwords. The new feature also allows Mac users and those
+with Linux-based computers to access Rhapsody. The catch is that the
+Web-based service only permits music streaming--customers who want to
+purchase tracks will still be required to use the downloaded
+application. Rhapsody also allows users to listen to 25 songs per month
+for free. Subscribers can listen to an unlimited number of songs. Rob
+Glaser, CEO of RealNetworks, said he wouldn't be bothered if most
+users of the Web-based service choose only to listen to free songs
+because "the Internet advertising market is doing pretty well."
+Wall Street Journal, 5 December 2005 (sub. req'd)
+http://online.wsj.com/article/SB113379130776613997.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.
+Remember, the subject is not the article's subject,
+the subject is the manipulation of the world news.]
+
+*
+
+Florida Jury Acquits Professor of 8 Terror Charges
+
+Professor Sami Al-Arian had been accused of being
+part of the Palestinian Islamic Jihad, along with
+three others.  Yesterday a jury acquitted him of
+8 of those charges, but left at least as many of
+the charges still on the table, and prosecutors
+will have to decide if they want to proceed.
+
+Source:  Standard-Speaker, Tampa
+Independent Florida Alligator, FL
+
+*
+
+Former Capitol Hill Press Secretary Thomas C. Springer
+was arrested yet again for bank robbery, after someone
+tailed his blue Geo Metro from the scene calling 911.
+
+[Could fiction writers do any better?]
+
+A Montgomery County Police spokesman said Mr. Springer
+was responsible for 7 or more such bank robberies, all
+in Montgomery County in approximately the last year.
+
+In addition, his bank robbery career dates back to his
+initial arrest in 1989.  He spent a year in prison and
+was released, that time for 3 Maryland banks he hit.
+
+He also served another year plus in North Carolina for
+bank robbery after being arrested in October, 1995.
+
+Source:  The Washington Post
+
+*
+
+Giant C-130 Hercules Cargo Plane Crashes In Iran Capitol
+
+Various reports indicate the original pilot walked away,
+saying the plane was unsafe to fly, but after six hours,
+and various technical difficulties and after stalling on
+the runway a handful of times, the plane finally managed
+to get off the runway only to crash into a building, and
+the death toll is already well above 100, most of them a
+group of journalists covering military units.
+
+Source:  ABC Asia Pacific TV / Radio Australia, BBC, PBS
+
+
+*DOUBLESPEAK OF THE WEEK
+
+United States Secretary of State Condoleeza Rice denies
+she told Germen Chancellor Angela Merkel that it was "a
+mistake" for the CIA to have flown a German man, Khaled
+el-Masri, to one of the secret CIA prisons in Europe.
+
+Secretary Rice did acknowledge that the CIA had created
+such prisons, but not that the prisoners had been flown
+to the for purposes of torture.
+
+Apparently all the detainees in these secret prisons in
+Europe have been flown across the Mediterranean to some
+new secret locations in northern Africa from prisons in
+Poland, Romania and other undisclosed locations.
+
+el-Masri had been detained in an Afghan secret site and
+is now suing the CIA for wrongful imprisonment.  He was
+originally taken into custody by three men, in civilian
+clothing, but well armed, as he was crossing the border
+between Serbia and Macedonia because his name is linked
+to 9/11 because it is that same as a hijacker's name.
+
+In at least one instance such a suit was foiled, by the
+simple process of not allowing the plaintiff to board a
+plane to the U.S.
+
+Yesterday the lawsuit was finally filed, by the ACLU.
+
+Source:  BBC, Metro Toronto, Malaysia Star, The Age [of
+Australia], Independent, UK.
+
+
+*PREDICTIONS OF THE WEEK
+
+Following Verizon's lead, more and more healthy companies
+will get out from under their pension funds.
+
+[See previous comments on bailing out of pension funds]
+
+*
+
+The New York Stock Exchange will be forced by competitors
+to finally stop blocking the oncoming electronic age, and
+will have to become more computer and network oriented.
+
+
+*STRANGE QUOTES OF THE WEEK
+
+"But The Pension Fund Was Just Sitting There!"
+
+Doonesbury, Collected Works, from 1978-1979
+
+[Shouldn't someone be hiring Gary Trudeau as Chief Pundit?]
+
+
+*ODD STATISTICS OF THE WEEK
+
+Remember when Dan Rather was offered $5 million to replace
+Walter Cronkite back in the 1980's?
+
+Today the price is $25 million and offered to Katie Couric
+to lure her away from NBC's Today Show to CBS Evening News.
+
+[If you check the inflation figures during Rather's tenure
+you'll find they were nowhere near 500% for the period, as
+the rich continue to get richer and the poor get poorer.]
+
+***
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+a moment with you
+
+laid back time's a blue octopus
+embracing my ankles, my feet like birds
+cut through airy waves of memory
+polyphonic castles erected in the realm of newspeak
+sounds upon sounds describe majestic towers
+sweet melody of understanding playing over and over again
+  the abyssal voice: lonesome mariners befriending oysters
+  their old secrets revealed through long voyages initiation
+  a dialogue of alikeness opening up door after or after door
+    above a seagull: caresses came to resemble its dance
+    touch of feathers spreading wide in horizons of color
+    ethereal sensations, hear mermaids singing loved songs
+      the rhythm of utter belonging
+       joyfully
+        contained in
+         a moment with you
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_12_07_part_1a.txt" target="_blank" rel="nofollow">pgweekly_2005_12_07_part_1a.txt</a>

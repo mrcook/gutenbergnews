@@ -1,0 +1,1195 @@
+pgweekly_2007_06_13.txt
+ The Project Gutenberg Weekly Newsletter for Wednesday, June 13, 2007
+ ****eBooks Readable by Both Humans and Computers since July 4, 1971****
+
+http://www.gutenberg.org
+
+NOTE: Best viewed with a fixed-width font, e.g. Courier New.
+      Windows Notepad is a good a program to use for viewing.
+
+
+NEWS HEADLINES
+--------------
+Visit www.gutenbergnews.org to read these news items.
+
+ * POLL: How Many "PG" e-Texts Have You Read?
+
+ * An essay on the state of the current eBook market
+ * Google's Library Project Just Double in Size
+ * Software for Offline Reading of PG eBooks [by George Davis]
+
+
+FEATURED NEWS
+-------------
+
+SOFTWARE FOR OFFLINE READING OF PG EBOOKS
+
+  by George Davis
+
+Project Gutenberg is a web-based electronic re-publisher of (primarily)
+public domain works.  Being web-based, most of the eBooks in the collection
+are readable in a web browser, either on-line or off-line, regardless of
+computer operating systems.  While on-line reading is possible, most users
+download the eBooks for reading off-line.
+
+It is safe to say that the largest number of readers of PG eBooks do so with
+computers based on the Windows operating system.  For reading eBooks, either
+a web browser (most often Internet Explorer) or Windows Notepad are the two
+most recommended programs.
+
+But those are not necessarily the best applications for the purpose.  Notepad
+is primarily a text editor, not a file viewer; and using a web browser for
+reading eBooks is -- at least some of the time -- something like using an
+18-wheeler to do your grocery shopping.  Fortunately, there are a few other
+options out there which cost nothing but the time to download -- they are
+freeware -- and offer a more user-friendly interface with eBooks.
+
+You can find alternatives by searching the internet for "etext readers",
+"ebook readers", "file viewers", and so on.  But to get you started, here are
+a couple of suggestions:
+
+WnBrowse is a file viewer, for viewing text files, as well as HEX and EBCDIC
+(don't bother with these last two, PG doesn't offer eBooks in these formats).
+It works really well with plain text as well as 8-bit text files (those with
+accented characters); and depending on your system configuration, it will
+probably work with Unicode files.  It's easy to adjust it's interface,
+including font, font size, text color and background color.  Take a look at
+http://www.ngthomas.co.uk/wnbrowse.html.
+
+The next two are eBook readers, that is, they were designed for reading
+eBooks, and are particularly useful for those from Project Gutenberg; they
+both enhance the eBook reading experience, especially in comparison to a text
+editor or a file viewer.
+
+Of particular note is that both of the following programs automatically
+reformat the paragraphs in PG's plain text files, removing the hard carriage
+returns at the end of each line.  That results in making these files much more
+readable.
+
+yBook Reader (http://www.spacejock.com/yBook.html):  a free ebook reader that
+visually "simulates" the look and feel of an actual paperback (see screenshot)
+and supports TXT, HTML, RTF, PDB and PRC ebook formats.  (Note that at this
+time, HTML with images cannot be viewed within the downloaded HTML zip files;
+they must be extracted in the same folder structure as contained in the zip
+file, i.e. images in the \images directory, etc.).  yBook includes a number of
+useful features such as bookmarking, search, and custom formatting capabilities.
+
+Basically, yBook provides a "paper book" simulation on the computer screen:
+you have two pages side-by-side instead of just one in the middle of your
+screen (it can be configured for viewing in single-page mode, suitable for
+tablet-type PCs in portrait mode); the pages turn when you click them.
+Also: runs on any Windows PC (Win95 or later); resize the pages, adjust the
+margins, set text and paper colour; text search for words or phrases;
+bookmarks; text sizes from tiny to HUGE; no zooming, panning or scrolling;
+automated direct download of selected PG eBooks, with index; internationalized
+menus (Spanish, German, etc.).
+
+One additional option:  yBook can be installed to a memory stick, AKA a USB
+drive; see the web site for more information.
+
+The second eBook reader which you might want to look at is Tom's eTextReader
+(aka, eTR).  You can find it at http://pws.prserv.net/Fellner/Software/eTR.htm.
+Note that some of the more advanced features are part of the current
+(as of May 2007) beta version of the software.  If you know what that means,
+and are comfortable with using beta software, then don't hesitate to look at
+this program.  For what it's worth, this writer has been using the latest beta
+version (1.9.1) for some time now without any problems.
+Your mileage may vary! <g>
+
+Like yBook, eTextReader enables you to read the plain text files in a
+book-like manner.  Again, you can change the font type and size, choose colors
+for text background, set bookmarks, adjust margins, find words or phrases and
+more. The program can open the text files directly from the Project Gutenberg
+zip file, and also import RTF and HTML files. Other features include text
+editing, table of contents creation and more.
+
+Like yBook, eTR also includes a "PG Browser":  an interface for selecting and
+downloading eBooks directly from Project Gutenberg.
+
+eTR works with MS Word DOC files (those with the file extension .doc); yBook
+reader doesn't.  (Probably not an issue, as there are very few DOC files in
+the collection.)
+
+One other program worth considering:  eTextViewer available at
+http://etextviewer.firstsolo.net/.
+Many of the same basic features as the above, but it doesn't support HTML, and
+doesn't have an interface for connecting to PG for direct downloading of
+eBooks. It's been around quite a while, is very stable, and handles Unicode
+files more than adequately.
+
+All of these programs are worth a look.  This writer has all of them installed,
+and uses them interchangeably, with no problems.
+
+(Note:  Project Gutenberg cannot provide any technical assistance or support
+for the above, we just don't have the manpower or resources.  But the program
+authors have always seemed responsive to queries, and suggestions for
+improvements as well as bug reports).
+
+The above are for the Windows platform only.  If anyone out there has
+experience with eBook readers for other platforms, consider writing an article
+for inclusion in a future issue of the newsletter.
+
+
+POLL RESULTS
+
+PG WEEKLY NEWSLETTER STATISTICS [TOTALS]. KEEP OR REMOVE?
+
+60% - KEEP ALL stats as they are
+35% - Include just the BASICS [Grand Totals]
+ 5% - REMOVE ALL
+
+Although not too many people voted there is definitely a desire to include
+some statistical details in the newsletter. I may try to streamline what is
+included a little more but otherwise, I think we will keep things as they are.
+
+Thanks for your input -- Ed.
+
+
+MICHAEL HART WANTS IBM MEMORY KEY'S
+
+Michael Hart is looking for one of the original "IBM Memory Keys" that have
+evolved into our current RAMsticks, USBsticks, etc., or even the UK version
+that existed before that. It doesn't have to be functional...he just wants it
+for comparison purposes.
+
+PG EBOOK TRANSLATORS REQUIRED
+
+Michael Hart, our founder, is looking for people who are willing to translate
+Project Gutenberg eBooks in and out of:
+
+English
+French
+Spanish
+Dutch
+Portuguese
+Italian
+
+and any other languages you might like to include.
+
+If you have a RAM stick or can help with the translations then please contact
+Michael using his email address; hart@pglaf.org.
+
+
+To submit a news item please email editor_AT_gutenbergnews.org
+
+
+HOW TO ACCESS (DOWNLOAD) PG EBOOKS
+----------------------------------
+
+http://www.gutenberg.org/find
+To search by title, author, language and subject.
+
+http://www.gutenberg.org/dirs/ || ftp://ibiblio.org/pub/docs/books/gutenberg/
+If you know the file's name then point your web browser or FTP program to one
+of the master download sites, navigate to the appropriate directory and look
+for the first five characters of the file's name. Note that updated eBooks
+usually go in their original directory (e.g., etext99, etext00, etc.)
+
+Cell-Phone Ready eBooks
+-----------------------
+
+MOBILEBOOKS - http://www.mobilebooks.org
+There are over 5,000 PG eBooks in Java (.jar) format that can be downloaded
+from the MobileBooks website. There are help pages at the website on how to
+use these eBooks on your phone.
+
+WATTPAD - http://www.wattpad.com
+This is a free service for reading and sharing stories on your mobile phone.
+Once downloaded to your phone you'll instantly get access to nearly 20,000
+works from Project Gutenberg.
+
+
+WANTED ADS
+----------
+Project Gutenberg is looking for Volunteers. To learn how you can help
+please visit the Volunteers Needed... section at: https://www.gutenbergnews.org
+
+CURRENT 'WANTED' HEADLINES:
+ * PG eBook Translators Required
+ * Michael Hart wants IBM Memory Key's
+ * Reviews/Recommendations for PG e-texts
+ * Our Distributed Proof Readers Need...
+ * Project Gutenberg Is Seeking Legal Beagles
+ * Graphics needed for PG website and publicity materials
+ * Turn eBooks into MP3
+ * Project Gutenberg Needs DVD Burners
+
+
+NEWSLETTER ARCHIVES
+-------------------
+gutenbergnews.org is a host of the PG Newsletter archives. These have been
+re-formatted from the Unix file format (LF terminators) to the Windows format
+(CR/LF terminators). This means they now view correctly in Windows Notepad
+along with most other text reading programs.
+
+You can access them by visiting;
+https://www.gutenbergnews.org/component/option,com_docman/Itemid,47/
+
+
+==============================[ PROGRESS REPORT ]===============================
+
+Year: 2007
+This Completes - Day: #161/364 | Week: #23/52 | Month: #05.25
+
+GRAND TOTALS
+
+21,782 [+137] Project Gutenberg
+ 1,532 [+  4] PG Australia
+    67 [+  0] PG Europe 'Unique' | 449 [+ 3] Total (See NOTES)
+   381 [+  0] PG PrePrints
+=============
+23,762 [+141] GRAND TOTAL
+
+    44 - Reserved/Pending
+
+ 6,238 to go to 30,000 eBooks.
+   ~79% of the way to 30,000
+   ~38% of the way from 20,000 to 30,000
+
+ 1,917 [+ 0] eBooks REposted to the new filing system since 18 May 2004.
+
+
+STATISTICS FOR 2007
+
+1,567 Project Gutenberg
+   78 PG Australian
+    5 PG Europe 'Unique' | 41 Total (See NOTES)
+    0 PG PrePrints
+=====
+1,650 TOTAL [2007]
+
+   49 eBooks REposted to the new filing system.
+
+    * 53new eBooks last week
+
+    * 141 new eBooks in June
+    * 437 new eBooks in May
+    * 303 new eBooks in April
+    * 302 new eBooks in March
+    * 199 new eBooks in February
+    * 260 new eBooks in January
+
+[Our production year begins/ends 1st Wednesday of the year]
+
+
+HISTORICAL COMPARISONS
+
+Weekly Averages:
+
+  * 72 per week in 2007
+  * 80 per week in 2006
+  * 58 per week in 2005
+  * 78 per week in 2004
+  * 79 per week in 2003
+  * 47 per week in 2002
+  * 24 per week in 2001
+
+Monthly Averages:
+
+  * 311 per month in 2007
+  * 346 per month in 2006
+  * 251 per month in 2005
+  * 338 per month in 2004
+  * 348 per month in 2003
+  * 203 per month in 2002
+  * 104 per month in 2001
+
+Yearly Totals:
+
+  * 4146 new eBooks in 2006
+  * 3017 new eBooks in 2005
+  * 4058 new eBooks in 2004
+  * 4176 new eBooks in 2003
+  * 2432 new eBooks in 2002
+  * 1244 new eBooks in 2001
+
+  * 3042 eBooks posted from 1971-2000
+
+
+NOTES:
+
+To arrive at the Newsletter statistics a manual count was done on all the
+'posted' listings found in the Newsletter Archives. For PG-EU the website
+listing was used. All these statistics were then entered into a spreadsheet.
+
+DP-EU is currently concentrating on U.S. copyright clearable eBooks and
+therefore many of these are posted to both the PG and PG-EU sites, non U.S.
+clearable books posted to PG-EU only. Please note that only the non-clearable
+('Unique') eBooks are counted toward the Totals and not the overall PG-EU total.
+
+PREPRINTS -- http://preprints.readingroo.ms
+Please note that the PrePrint files are just that, PrePrints, and thus may move
+later to other locations, including the main collection or The Project
+Gutenberg Consortia Center.
+
+
+==============================[ OTHER STATISTICS ]==============================
+
+DISTRIBUTED PROOFREADERS (DP)
+10,483 [+36] at Distributed Proofreaders.
+
+Distributed Proofreaders started production on October 22, 2000 and has
+over 52,000 volunteers.
+
+For more information about DP please visit: http://www.pgdp.net
+
+
+DISTRIBUTED PROOFREADERS OF EUROPE (DP-EU)
+DP-EU Total matches the PG-EU Grand Total. See Progress Report.
+
+Distributed Proofreaders of Europe started production in December 2003 and has
+over 1,500 volunteers.
+
+For more information about DP-EU please visit: http://dp.rastko.net
+
+
+SNAIL MAIL (DVD & CD)
+Over 15 million eBooks have been sent out via snail mail!!!
+
+
+PGCC - PROJECT GUTENBERG CONSORTIA CENTER
+82,383 eBooks [as of 18-December-2006]
+
+The PGCC is currently updating their servers, once complete their eBook
+collection will be expanded considerably. These updates are expected to be
+completed early 2007.
+
+PGCC Collections include;
+
+Alex Catalogue of Electronic Texts, Blackmask Online,
+Books@Adelaide Collection, CIA's Electronic Reading Room,
+PGCC Classic Chinese Literature, The Coradella Bookshelf Collection,
+DjVu Collection, eBooks Libres & Gratuits, Himalayan Academy,
+Internet Archive (eMovies), Literal Systems, Logos Group Collection,
+Poets' Collection, Project Gutenberg Collection,
+PSU's Electronic Classics Series, Renascence Editions Collection,
+The Rosetta Project, Swami Center, Dr Widger Library.
+
+http://www.gutenberg.cc
+
+
+THE ONLINE BOOKS PAGE
+27,000 eBooks via The Online Books Page. [as of 01-December-2006]
+
+NOTE: 6,400 of these are from PG.
+
+http://onlinebooks.library.upenn.edu
+
+
+
+=====================[ UPDATED LISTINGS FOR THE PAST WEEK ]=====================
+
+To report an error in the following listings, please write to help_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+Please note that the Project Gutenberg Production Team continues the process of
+manually re-posting those eBooks originally posted prior to Nov 2003 to the new
+filenaming and directory system (based on the eBook number). This process
+includes some file maintenance (repairing, correcting and re-formatting to
+current PG standards where practicable).
+
+
+---------[   0 REPOSTED TO NEW DIRECTORY SYSTEM ]-------------------------------
+
+The following eBooks have been corrected, updated, reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+None this week.
+
+
+---------[   0 CHANGES/CORRECTIONS/IMPROVEMENTS ]-------------------------------
+
+None this week.
+
+
+---------[ 137 NEW PG EBOOK(S) ]------------------------------------------------
+
+My Pet Recipes, Tried and True, by Various                               21826
+  [Subtitle: Contributed by the Ladies and Friends of St. Andrew's
+   Church, Quebec]
+  [Link: http://www.gutenberg.org/2/1/8/2/21826 ]
+  [Files: 21826.txt; 21826-8.txt; 21826-h.htm; ]
+  [Clearance: 20061029023003theladiesa]
+
+L'Automne d'une femme, by Marcel Prévost                                 21825
+  [Illustrator: Bocchino]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/1/8/2/21825 ]
+  [Files: 21825-8.txt; 21825-0.txt; 21825-h.htm]
+
+The Old Stone House and Other Stories, by Anna Katharine Green           21824
+  [Five short stories. The last ("Shall He Wed Her?") is well worth
+   your time (a few minutes) to read.]
+  [Contents: The Old Stone House]
+  [          A Memorable Night]
+  [          The Black Cross]
+  [          A Mysterious Case]
+  [          Shall He Wed Her?]
+  [Link: http://www.gutenberg.org/2/1/8/2/21824 ]
+  [Files: 21824.txt; 21824-8.txt; 21824-h.htm; ]
+  [Clearance: 20060821183012green]
+
+The Butterfly's Ball, by R.M. Ballantyne                                 21823
+  [Subtitle: The Grasshopper's Feast]
+  [Illustrator: R.M. Ballantyne]
+  [Link: http://www.gutenberg.org/2/1/8/2/21823 ]
+  [Files: 21823.txt; 21823-h.htm]
+
+A Lecture On Heads, by Geo. Alex. Stevens                                21822
+  [Subtitle: As Delivered By Mr. Charles Lee Lewes, To Which Is Added,
+             An Essay On Satire, With Forty-Seven Heads By Nesbit, From
+             Designs By Thurston, 1812]
+  [Commentator: Pilon]
+  [Illustrator: Thurston and Nesbit]
+  [Link: http://www.gutenberg.org/2/1/8/2/21822 ]
+  [Files: 21822.txt; 21822-8.txt; 21822-h.htm]
+
+The Mark Of Cain, by Andrew Lang                                         21821
+  [Link: http://www.gutenberg.org/2/1/8/2/21821 ]
+  [Files: 21821.txt; 21821-8.txt; 21821-h.htm]
+
+Oh! Susannah!, by Mark Ambient                                           21820
+  [Subtitle: A Farcical Comedy in Three Acts]
+  [Link: http://www.gutenberg.org/2/1/8/2/21820 ]
+  [Files: 21820.txt; 21820-8.txt; 21820-h.htm]
+
+Kalli, the Esquimaux Christian, by Thomas Boyles Murray                  21819
+  [Subtitle: A Memoir]
+  [Link: http://www.gutenberg.org/2/1/8/1/21819 ]
+  [Files: 21819.txt; 21819-8.txt; 21819-h.htm; ]
+  [Clearance: 20050112160459murray]
+
+Punch, or the London Charivari, Vol. 104, February 11, 1893, by Various  21818
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.org/2/1/8/1/21818 ]
+  [Files: 21818.txt; 21818-8.txt; 21818-h.htm; ]
+  [Clearance: 20050323112602various]
+
+Handy Andy, Volume One, by Samuel Lover                                  21817
+   [Subtitle: A Tale of Irish Life, in Two Volumes]
+   [Link: http://www.gutenberg.org/2/1/8/1/21817 ]
+   [Files: 21817.txt; 21817-8.txt; 21817-h.htm]
+
+The Confidence-Man, by Herman Melville                                   21816
+  [Link: http://www.gutenberg.org/2/1/8/1/21816 ]
+  [Files: 21816.txt; 21816-8.txt; 21816-h.htm]
+
+John Forster, by Percy Hethrington Fitzgerald                            21815
+  [Link: http://www.gutenberg.org/2/1/8/1/21815 ]
+  [Files: 21815.txt; 21815-8.txt; 21815-h.htm]
+
+The Trial and Death of Jesus Christ, by James Stalker                    21814
+   [Subtitle: A Devotional History of our Lord's Passion]
+   [Link: http://www.gutenberg.org/2/1/8/1/21814 ]
+   [Files: 21814.txt; 21814-8.txt]
+
+The Madman and the Pirate, by R.M. Ballantyne                            21813
+  [Illustrator: Arthur Twidle]
+  [Link: http://www.gutenberg.org/2/1/8/1/21813 ]
+  [Files: 21813.txt; 21813-h.htm]
+
+Paul Gerrard, by W.H.G. Kingston                                         21812
+  [Subtitle: The Cabin Boy]
+  [Link: http://www.gutenberg.org/2/1/8/1/21812 ]
+  [Files: 21812.txt; 21812-h.htm]
+
+The Works Of Lord Byron, Vol. 3 (of 7), by Lord Byron                    21811
+  [Editor: Ernest Hartley Coleridge]
+  [Link: http://www.gutenberg.org/2/1/8/1/21811 ]
+  [Files: 21811.txt; 21811-8.txt; 21811-0.txt; 21811-h.htm]
+
+The Wonder Island Boys: Treasures of the Island,by Roger Thompson Finlay 21810
+  [Link: http://www.gutenberg.org/2/1/8/1/21810 ]
+  [Files: 21810.txt; 21810-8.txt; 21810-h.htm; ]
+  [Clearance: 20060416104629finlay]
+
+Second Book of Tales, by Eugene Field                                    21809
+  [Ill.: W. H. W. Bicknell]
+  [Contents: Humin Natur' on the Han'bul 'nd St. Jo.]
+  [          The Mother in Paradise]
+  [          Mr. and Mrs. Blossom]
+  [          Death and the Soldier]
+  [          The 'Jinin' Farms]
+  [          The Angel and the Flowers]
+  [          The Child's Letter]
+  [          The Singer Mother]
+  [          The Two Wives]
+  [          The Wooing of Miss Woppit]
+  [          The Talisman]
+  [          George's Birthday]
+  [          Sweet-One-Darling and the Dream-Fairies]
+  [          Sweet-One-Darling and the Moon-Garden]
+  [          Samuel Cowles and His Horse Royal]
+  [          The Werewolf]
+  [          A Marvellous Invention]
+  [          The Story of Xanthippe]
+  [          Baked Beans and Culture]
+  [          Mlle. Prud'homme's Book]
+  [          The Demand for Condensed Music]
+  [          Learning and Literature]
+  [          "Die Walkre" und der Boomerangelungen]
+  [          The Works of Sappho]
+  [Link: http://www.gutenberg.org/2/1/8/0/21809 ]
+  [Files: 21809.txt; 21809-8.txt; 21809-h.htm; ]
+  [Clearance: 20070607155815field]
+
+The House, by Eugene Field                                               21808
+  [Subtitle: An Episode in the Lives of Reuben Baker, Astronomer, and
+             of His Wife, Alice]
+  [Ill.: E. H. Garrett]
+  [Link: http://www.gutenberg.org/2/1/8/0/21808 ]
+  [Files: 21808.txt; 21808-8.txt; 21808-h.htm; ]
+  [Clearance: 20070607160012field]
+
+The Holy Cross and Other Tales, by Eugene Field                          21807
+  [Ill.: S. W. Van Schaik]
+  [Contents: The Holy Cross]
+  [          The Rose and the Thrush]
+  [          The Pagan Seal-Wife]
+  [          Flail, Trask, and Bisland]
+  [          The Touch in the Heart]
+  [          Daniel and the Devil]
+  [          Methuselah]
+  [          Flice and Petit-Poulain]
+  [          The River]
+  [          Franz Abt]
+  [          Mistress Merciless]
+  [          The Platonic Bassoon]
+  [          Hawaiian Folk Tales]
+  [          Lute Baker and His Wife Em]
+  [          Joel's Talk with Santa Claus]
+  [          The Lonesome Little Shoe]
+  [Link: http://www.gutenberg.org/2/1/8/0/21807 ]
+  [Files: 21807.txt; 21807-8.txt; 21807-h.htm; ]
+  [Clearance: 20070607160130field]
+
+The Labour Divide, by Sam Vaknin                                         21806C
+  [Editor: Lidija Rangelovska]
+  [Link: http://www.gutenberg.org/2/1/8/0/21806 ]
+  [Files: 21806.txt; ]
+
+TrendSiters Digital Content and Web Technologies, by Sam Vaknin          21805C
+  [Editor: Lidija Rangelovska]
+  [Link: http://www.gutenberg.org/2/1/8/0/21805 ]
+  [Files: 21805.txt; ]
+
+Aventures d'un Gentilhomme Breton aux iles Philippines, by Gironiere     21804
+  [Full author: Paul De La Gironiere]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/1/8/0/21804 ]
+  [Files: 21804-8.txt; 21804-h.htm]
+
+"Soitto on suruista tehty", by Aliqvis                                   21803
+  [Subtitle: Historiallisia runoelmia: I. Pilatus. II. Piispa Tuomas.]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.org/2/1/8/0/21803 ]
+  [Files: 21803-8.txt]
+
+Yntemoca yntlacamecayo, by Cuauhtlehuanitzin                             21802
+  [Full title: Yntemoca yntlacamecayo, yn tlahtoque yn teteuhctin yn
+        ompa tlaca ypan altepetl culhuacan yhuan nican tlahtoque
+        teteuhctin yn ipan in tlaca huey altepetl mexico
+        tenochtitlan]
+  [Full author: Domingo Francisco de San Antón Muñón Chimalpahin
+                Cuauhtlehuanitzin]
+  [Subtitle: Oquitlallitiaque yn tlahtoque teteuhctin culhuacan]
+  [Language: Nahuatl]
+  [Link: http://www.gutenberg.org/2/1/8/0/21802 ]
+  [Files: 21802.txt; 21802-0.txt]
+
+Briefe an eine Freundin, by Wilhelm von Humboldt                         21801
+  [Language: German]
+  [Link: http://www.gutenberg.org/2/1/8/0/21801 ]
+  [Files: 21801-8.txt; 21801-0.txt; 21801-h.htm]
+
+De complete werken van Joost van Vondel, by Joost van  Vondel            21800
+  [Editor: H.J. Allard]
+  [Language: Dutch]
+  [Contents:
+     Voorrede. Door H.J. Allard
+     Schriftuurlijk Bruilofsreferein op het Huwelijk van Jacob
+     Haesbaert met Clara van Tongerlo.
+     Nieuwjaarslied A°. 1607.
+     De Jacht van Cupido.
+     Dedicatie aan de Jonkvrouwen van Friesland en Overijsel.
+     Oorlof-Lied.
+     Op het Twaalfjarig Bestand der Nederlanden.
+     Uitvaart en Treurdicht van Henricus de Groote, Koning van
+     Frankrijk en Navarre.]
+  [Link: http://www.gutenberg.org/2/1/8/0/21800 ]
+  [Files: 21800-8.txt; 21800-0.txt; 21800-h.htm]
+
+Dispersão, by Mário Sá-Carneiro                                          21799
+  [Subtitle: 12 poesias por Mario de Sá-Carneiro]
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/7/9/21799 ]
+  [Files: 21799-8.txt]
+
+Audio: Winnetou I by Karl May                                            21798
+    [Audio reading by Gesine, Stefan Haubold, Stephan Mobius, Kimi,
+          Stephan Gambke, Thorsten Janocha, Andreas, Hans-Peter Weih,
+          Viktor Horvath, Felix, Carsten Thiel, Thomas Rappel,
+          Marcus Exner ]
+    [Language: German ]
+    [Link: http://www.gutenberg.org/2/1/7/9/21798 ]
+    [Files: 21798-readme.txt; 21798-index.html; 21798-mp3.mp3;
+            21798-ogg.ogg; 21798-m4b.m4b; 21798-spx.spx ]
+
+A Sailor's Lass, by Emma Leslie                                          21797
+  [Link: http://www.gutenberg.org/2/1/7/9/21797 ]
+  [Files: 21797.txt; 21797-8.txt; 21797-h.htm; ]
+  [Clearance: 20051017085353leslie]
+
+The Story of Atlantis and the Lost Lemuria, by W. Scott-Elliot           21796
+  [Author AKA: William Scott-Elliot]
+  [Link: http://www.gutenberg.org/2/1/7/9/21796 ]
+  [Files: 21796.txt; 21796-8.txt; 21796-h.htm; ]
+  [Clearance: 20050304080501scottellio]
+
+Fred Fearnot's New Ranch, by Hal Standish                                21795
+  [Subtitle: and How He and Terry Managed It]
+  [Hal Standish was a pseudonym originally used by Harvey King
+   Shackelford, who ground out Fred Fearnot episodes. After
+   Shackelford's death in 1906 other authors continued the Fred
+   Fearnot series using the pseudonym of Hal Standish.]
+  [Link: http://www.gutenberg.org/2/1/7/9/21795 ]
+  [Files: 21795.txt; 21795-h.htm; ]
+  [Clearance: 20070509071216standish]
+
+The Boy from the Ranch, by Frank V. Webster                              21794
+  [Subtitle: Or Roy Bradner's City Experiences]
+  [Link: http://www.gutenberg.org/2/1/7/9/21794 ]
+  [Files: 21794.txt; 21794-h.htm; ]
+  [Clearance: 20070601111142webster]
+
+Obiter Dicta, by Augustine Birrell                                       21793
+   [Subtitle: Second Series]
+   [Link: http://www.gutenberg.org/2/1/7/9/21793 ]
+   [Files: 21793.txt; 21793-h.htm]
+
+Mémoires du duc de Rovigo: Napoléon, Tome 4, by Duc de Rovigo            21792
+  [Full title: Mémoires du duc de Rovigo, pour servir à l'histoire de
+        l'empereur Napoléon, Tome 4]
+  [Language: French]
+  [Link: http://www.gutenberg.org/2/1/7/9/21792 ]
+  [Files: 21792-8.txt]
+
+The Aeroplane Speaks, by H. Barber                                       21791
+  [Subtitle: Fifth Edition]
+  [Link: http://www.gutenberg.org/2/1/7/9/21791 ]
+  [Files: 21791.txt; 21791-8.txt; 21791-h.htm]
+
+The Dance of Death, by Hans Holbein                                      21790
+  [Commentator: Austin Dobson]
+  [Link: http://www.gutenberg.org/2/1/7/9/21790 ]
+  [Files: 21790.txt; 21790-8.txt; 21790-h.htm]
+
+A Discourse of Life and Death, by Mornay; Antonius by Garnier            21789
+  [Full author: Philippe de  Mornay and Robert Garnier]
+  [Translator: Mary Sidney Herbert]
+  [Link: http://www.gutenberg.org/2/1/7/8/21789 ]
+  [Files: 21789.txt; 21789-8.txt; 21789-0.txt; 21789-h.htm]
+
+Held Fast For England, by G. A. Henty                                    21788
+  [Subtitle: A Tale of the Siege of Gibraltar (1779-83)]
+  [Ill.: Gordon Browne]
+  [Link: http://www.gutenberg.org/2/1/7/8/21788 ]
+  [Files: 21788.txt; 21788-h.htm; ]
+  [Clearance: 20070602084237henty]
+
+Shelled by an Unseen Foe, by James Fiske                                 21787
+  [Ill.: F. Schwankovsky, Jr.]
+  [Link: http://www.gutenberg.org/2/1/7/8/21787 ]
+  [Files: 21787.txt; 21787-h.htm; ]
+  [Clearance: 20070601110610fiske]
+
+Ruy o escudeiro: Conto, by Luís da Silva Mousinho de Albuquerque         21786
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.org/2/1/7/8/21786 ]
+  [Files: 21786-8.txt; 21786-h.htm]
+
+Poems of Rural Life in the Dorset Dialect, by William Barnes             21785
+  [Link: http://www.gutenberg.org/2/1/7/8/21785 ]
+  [Files: 21785.txt; 21785-8.txt; 21785-h.htm]
+
+The Goblins' Christmas, by Elizabeth Anderson                            21784
+   [Illustrator: Alexander Sharp]
+   [Link: http://www.gutenberg.org/2/1/7/8/21784 ]
+   [Files: 21784.txt; 21784-h.htm]
+
+A Manual of Pronunciation, by Otis Ashmore                               21783
+  [Subtitle: For Practical Use in Schools and Families]
+  [Link: http://www.gutenberg.org/2/1/7/8/21783 ]
+  [Files: 21783.txt; 21783-8.txt; 21783-0.txt; 21783-h.htm]
+
+The Yillian Way, by John Keith Laumer                                    21782
+   [Link: http://www.gutenberg.org/2/1/7/8/21782 ]
+   [Files: 21782.txt; 21782-h.htm]
+
+Text Book of Biology, Part 1: Vertebrata, by H. G. Wells                 21781
+  [Link: http://www.gutenberg.org/2/1/7/8/21781 ]
+  [Files: 21781.txt; 21781-h.htm; ]
+  [Clearance: 20050526121449wells]
+
+Galatéa, by António Joaquim de Carvalho                                  21780
+   [Subtitle: egloga]
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/1/7/8/21780 ]
+   [Files: 21780-8.txt; 21780-h.htm]
+
+Luiz de Camões marinheiro, by Vicente de Almeida de Eça                  21779
+   [Language: Portuguese]
+   [Link: http://www.gutenberg.org/2/1/7/7/21779 ]
+   [Files: 21779-8.txt; 21779-h.htm]
+
+Donahoe's Magazine, Volume 15, No. 1, January 1886, by Various           21778
+   [Link: http://www.gutenberg.org/2/1/7/7/21778 ]
+   [Files: 21778.txt; 21778-8.txt; 21778-h.htm]
+
+The Years Between, by Rudyard Kipling                                    21777
+  [Link: http://www.gutenberg.org/2/1/7/7/21777 ]
+  [Files: 21777.txt; 21777-8.txt; 21777-h.htm; ]
+  [Clearance: gbn0308090816]
+
+George Borrow, by Henry Charles Beeching                                 21776
+   [Subtitle: A Sermon Preached in Norwich Cathedral on July 6, 1913]
+   [Link: http://www.gutenberg.org/2/1/7/7/21776 ]
+   [Files: 21776.txt; 21776-h.htm]
+
+The Best of the World's Classics, Restricted to Prose, Vol. IV (of X)--G 21775
+  [Title: The Best of the World's Classics, Restricted to Prose,
+          Vol. IV (of X)--Great Britain and Ireland II]
+  [Author: Various]
+  [Editor: Henry Cabot Lodge and Francis W. Halsey]
+  [Link: http://www.gutenberg.org/2/1/7/7/21775 ]
+  [Files: 21775.txt; 21775-8.txt; 21775-h.htm; ]
+  [Clearance: 20060423065525lodge]
+
+
+Practical Mysticism, by Evelyn Underhill                                 21774
+  [Subtitle: A Little Book for Normal People]
+  [Link: http://www.gutenberg.org/2/1/7/7/21774 ]
+  [Files: 21774.txt; 21774-h.htm; ]
+  [Clearance: 20070530065254underhill]
+
+Four Meetings, by Henry James                                            21773
+  [Link: http://www.gutenberg.org/2/1/7/7/21773 ]
+  [Files: 21773.txt; 21773-8.txt; 21773-h.htm]
+
+The Path Of Duty, by Henry James                                         21772
+  [Link: http://www.gutenberg.org/2/1/7/7/21772 ]
+  [Files: 21772.txt; 21772-8.txt; 21772-h.htm]
+
+Georgina's Reasons, by Henry James                                       21771
+  [Link: http://www.gutenberg.org/2/1/7/7/21771 ]
+  [Files: 21771.txt; 21771-8.txt; 21771-h.htm]
+
+The Author Of Beltraffio, by Henry James                                 21770
+  [Link: http://www.gutenberg.org/2/1/7/7/21770 ]
+  [Files: 21770.txt; 21770-8.txt; 21770-h.htm]
+
+Songs Of The Road, by Arthur Conan Doyle                                 21769
+  [Link: http://www.gutenberg.org/2/1/7/6/21769 ]
+  [Files: 21769.txt; 21769-8.txt; 21769-h.htm]
+
+A Desert Drama, by A. Conan Doyle                                        21768
+  [Subtitle: Being The Tragedy Of The "Korosko"]
+  [Illustrator: S. Paget]
+  [Link: http://www.gutenberg.org/2/1/7/6/21768 ]
+  [Files: 21768.txt; 21768-8.txt; 21768-h.htm]
+
+Agatha's Husband, by Dinah Maria Craik (AKA: Dinah Maria Mulock)         21767
+  [Subtitle: A Novel]
+  [Illustrator: Walter Crane]
+  [Link: http://www.gutenberg.org/2/1/7/6/21767 ]
+  [Files: 21767.txt; 21767-8.txt; 21767-h.htm]
+
+Ionica, by William Cory (AKA William Johnson)                            21766
+   [Link: http://www.gutenberg.org/2/1/7/6/21766 ]
+   [Files: 21766.txt; 21766-8.txt; 21766-h.htm]
+
+The Metamorphoses of Ovid, by Publius Ovidius Naso                       21765
+  [Subtitle: Vol. I,  Books I-VII]
+  [Translator: Henry Thomas Riley]
+  [Link: http://www.gutenberg.org/2/1/7/6/21765 ]
+  [Files: 21765.txt; 21765-8.txt; 21765-0.txt; 21765-h.htm]
+
+Child Stories from the Masters, by Maud Menefee                          21764
+  [Subtitle: Being a Few Modest Interpretations of Some Phases of the
+       Master Works Done in a Child Way]
+  [Link: http://www.gutenberg.org/2/1/7/6/21764 ]
+  [Files: 21764.txt; 21764-8.txt; 21764-0.txt; 21764-h.htm]
+
+The Brentons, by Anna Chapin Ray                                         21763
+   [Illustrator: Wilson C. Dexter]
+   [Link: http://www.gutenberg.org/2/1/7/6/21763 ]
+   [Files: 21763.txt; 21763-8.txt; 21763-h.htm]
+
+On the Firing Line in Education, by Adoniram Judson Ladd                 21762
+  [Link: http://www.gutenberg.org/2/1/7/6/21762 ]
+  [Files: 21762.txt; 21762-8.txt; 21762-h.htm]
+
+Synopsis of Some Genera of the Large Pyrenomycetes, by C. G. Lloyd       21761
+  [Author AKA: Curtis Gates Lloyd (1859-1926)]
+  [Subtitle: Camilla, Thamnomyces, Engleromyces]
+  [Link: http://www.gutenberg.org/2/1/7/6/21761 ]
+  [Files: 21761.txt; 21761-8.txt; 21761-h.htm; ]
+  [Clearance: 20060128060040lloyd]
+
+The Wonder Island Boys: Adventures on Strange Islands, by Finlay         21760
+  [Author: Roger Thompson Finlay]
+  [Link: http://www.gutenberg.org/2/1/7/6/21760 ]
+  [Files: 21760.txt; 21760-8.txt; 21760-h.htm; ]
+  [Clearance: 20060614063631finlay]
+
+Kate Coventry, by G. J. Whyte-Melville                                   21759
+  [Subtitle: An Autobiography]
+  [Link: http://www.gutenberg.org/2/1/7/5/21759 ]
+  [Files: 21759.txt; 21759-8.txt; ]
+  [Clearance: 20061215122555whytemelvi]
+
+Hudson Bay, by R.M. Ballantyne                                           21758
+  [Link: http://www.gutenberg.org/2/1/7/5/21758 ]
+  [Files: 21758.txt; 21758-h.htm]
+
+The Hot Swamp, by R.M. Ballantyne                                        21757
+  [Link: http://www.gutenberg.org/2/1/7/5/21757 ]
+  [Files: 21757.txt; 21757-8.txt; 21757-h.htm]
+
+Philosopher Jack, by R.M. Ballantyne                                     21756
+  [Link: http://www.gutenberg.org/2/1/7/5/21756 ]
+  [Files: 21756.txt; 21756-h.htm]
+
+Personal Reminiscences in Book Making, by R.M. Ballantyne                21755
+  [Subtitle: and Some Short Stories]
+  [Link: http://www.gutenberg.org/2/1/7/5/21755 ]
+  [Files: 21755.txt; 21755-h.htm]
+
+The Ocean and its Wonders, by R.M. Ballantyne                            21754
+  [Link: http://www.gutenberg.org/2/1/7/5/21754 ]
+  [Files: 21754.txt; 21754-h.htm]
+
+The Norsemen in the West, by R.M. Ballantyne                             21753
+  [Link: http://www.gutenberg.org/2/1/7/5/21753 ]
+  [Files: 21753.txt; 21753-h.htm]
+
+My Doggie and I, by R.M. Ballantyne                                      21752
+  [Link: http://www.gutenberg.org/2/1/7/5/21752 ]
+  [Files: 21752.txt; 21752-h.htm]
+
+The Middy and the Moors, by R.M. Ballantyne                              21751
+  [Subtitle: An Algerine Story]
+  [Illustrator: Arthur Twidle]
+  [Link: http://www.gutenberg.org/2/1/7/5/21751 ]
+  [Files: 21751.txt; 21751-h.htm]
+
+Martin Rattler, by R.M. Ballantyne                                       21750
+  [Link: http://www.gutenberg.org/2/1/7/5/21750 ]
+  [Files: 21750.txt; 21750-h.htm]
+
+Man on the Ocean, by R.M. Ballantyne                                     21749
+  [Subtitle: A Book about Boats and Ships]
+  [Illustrator: R. Richardson]
+  [Link: http://www.gutenberg.org/2/1/7/4/21749 ]
+  [Files: 21749.txt; 21749-h.htm]
+
+Black Ivory, by R.M. Ballantyne                                          21748
+  [Illustrator: Pearson]
+  [Link: http://www.gutenberg.org/2/1/7/4/21748 ]
+  [Files: 21748.txt; 21748-h.htm]
+
+The Lonely Island, by R.M. Ballantyne                                    21747
+  [Subtitle: The Refuge of the Mutineers]
+  [Link: http://www.gutenberg.org/2/1/7/4/21747 ]
+  [Files: 21747.txt; 21747-h.htm]
+
+The Lighthouse, by R.M. Ballantyne                                       21746
+  [Link: http://www.gutenberg.org/2/1/7/4/21746 ]
+  [Files: 21746.txt; 21746-h.htm]
+
+The Life of a Ship, by R.M. Ballantyne                                   21745
+  [Link: http://www.gutenberg.org/2/1/7/4/21745 ]
+  [Files: 21745.txt; 21745-h.htm]
+
+The Lifeboat, by R.M. Ballantyne                                         21744
+  [Link: http://www.gutenberg.org/2/1/7/4/21744 ]
+  [Files: 21744.txt; 21744-h.htm]
+
+Jeff Benson, or the Young Coastguardsman, by R.M. Ballantyne             21743
+  [Link: http://www.gutenberg.org/2/1/7/4/21743 ]
+  [Files: 21743.txt; 21743-h.htm]
+
+Jarwin and Cuffy, by R.M. Ballantyne                                     21742
+  [Link: http://www.gutenberg.org/2/1/7/4/21742 ]
+  [Files: 21742.txt; 21742-h.htm]
+
+The Island Queen, by R.M. Ballantyne                                     21741
+  [Link: http://www.gutenberg.org/2/1/7/4/21741 ]
+  [Files: 21741.txt; 21741-h.htm]
+
+The Iron Horse, by R.M. Ballantyne                                       21740
+  [Link: http://www.gutenberg.org/2/1/7/4/21740 ]
+  [Files: 21740.txt; 21740-h.htm]
+
+Hunting the Lions, by R.M. Ballantyne                                    21739
+  [Link: http://www.gutenberg.org/2/1/7/3/21739 ]
+  [Files: 21739.txt; 21739-h.htm]
+
+Hunted and Harried, by R.M. Ballantyne                                   21738
+  [Link: http://www.gutenberg.org/2/1/7/3/21738 ]
+  [Files: 21738.txt; 21738-8.txt; 21738-h.htm]
+
+The Garret and the Garden, by R.M. Ballantyne                            21737
+  [Link: http://www.gutenberg.org/2/1/7/3/21737 ]
+  [Files: 21737.txt; 21737-h.htm]
+
+The Gorilla Hunters, by R.M. Ballantyne                                  21736
+  [Link: http://www.gutenberg.org/2/1/7/3/21736 ]
+  [Files: 21736.txt; 21736-h.htm]
+
+The Floating Light of the Goodwin Sands, by R.M. Ballantyne              21735
+  [Link: http://www.gutenberg.org/2/1/7/3/21735 ]
+  [Files: 21735.txt; 21735-h.htm]
+
+The Golden Dream, by R.M. Ballantyne                                     21734
+  [Subtitle: Adventures in the Far West]
+  [Link: http://www.gutenberg.org/2/1/7/3/21734 ]
+  [Files: 21734.txt; 21734-h.htm]
+
+The Giant of the North, by R.M. Ballantyne                               21733
+  [Subtitle: Pokings Round the Pole]
+  [Link: http://www.gutenberg.org/2/1/7/3/21733 ]
+  [Files: 21733.txt; 21733-h.htm]
+
+Fort Desolation, by R.M. Ballantyne                                      21732
+  [Subtitle: Red Indians and Fur Traders of Rupert's Land]
+  [Link: http://www.gutenberg.org/2/1/7/3/21732 ]
+  [Files: 21732.txt; 21732-h.htm]
+
+Fighting the Whales, by R.M. Ballantyne                                  21731
+  [Link: http://www.gutenberg.org/2/1/7/3/21731 ]
+  [Files: 21731.txt; 21731-h.htm]
+
+Erling the Bold, by R.M. Ballantyne                                      21730
+  [Link: http://www.gutenberg.org/2/1/7/3/21730 ]
+  [Files: 21730.txt; 21730-h.htm]
+
+Dusty Diamonds Cut and Polished, by R.M. Ballantyne                      21729
+  [Subtitle: A Tale of City Arab Life and Adventure]
+  [Link: http://www.gutenberg.org/2/1/7/2/21729 ]
+  [Files: 21729.txt; 21729-h.htm]
+
+The Dog Crusoe and his Master, by R.M. Ballantyne                        21728
+  [Link: http://www.gutenberg.org/2/1/7/2/21728 ]
+  [Files: 21728.txt; 21728-h.htm]
+
+Digging for Gold, by R.M. Ballantyne                                     21727
+  [Subtitle: Adventures in California]
+  [Link: http://www.gutenberg.org/2/1/7/2/21727 ]
+  [Files: 21727.txt; 21727-h.htm]
+
+Deep Down, a Tale of the Cornish Mines, by R.M. Ballantyne               21726
+  [Link: http://www.gutenberg.org/2/1/7/2/21726 ]
+  [Files: 21726.txt; 21726-h.htm]
+
+The Coxswain's Bride, by R.M. Ballantyne                                 21725
+  [Subtitle: also, Jack Frost and Sons; and, A Double Rescue]
+  [Link: http://www.gutenberg.org/2/1/7/2/21725 ]
+  [Files: 21725.txt; 21725-h.htm]
+
+The Handbook of Soap Manufacture, by W. H. Simmons and H. A. Appleton    21724
+   [Link: http://www.gutenberg.org/2/1/7/2/21724 ]
+   [Files: 21724.txt; 21724-8.txt; 21724-h.htm]
+
+Songs of the Cattle Trail and Cow Camp, by Various                       21723
+   [Compiler: John A. Lomax]
+   [Contributor: William Lyon Phelps]
+   [Link: http://www.gutenberg.org/2/1/7/2/21723 ]
+   [Files: 21723.txt; 21723-8.txt; 21723-h.htm]
+
+Practical Discourse on Some Principles of Hymn-Singing, Robert Bridges   21722
+   [Link: http://www.gutenberg.org/2/1/7/2/21722 ]
+   [Files: 21722.txt; 21722-8.txt; 21722-h.htm]
+
+The Coral Island, by R.M. Ballantyne                                     21721
+  [Link: http://www.gutenberg.org/2/1/7/2/21721 ]
+  [Files: 21721.txt; 21721-h.htm]
+
+Charlie to the Rescue, by R.M. Ballantyne                                21720
+  [Link: http://www.gutenberg.org/2/1/7/2/21720 ]
+  [Files: 21720.txt; 21720-h.htm]
+
+Blue Lights, by R.M. Ballantyne                                          21719
+  [Subtitle: Hot Work in the Soudan]
+  [Link: http://www.gutenberg.org/2/1/7/1/21719 ]
+  [Files: 21719.txt; 21719-h.htm]
+
+The Big Otter, by R.M. Ballantyne                                        21718
+  [Link: http://www.gutenberg.org/2/1/7/1/21718 ]
+  [Files: 21718.txt; 21718-h.htm]
+
+Battles with the Sea, by R.M. Ballantyne                                 21717
+  [Link: http://www.gutenberg.org/2/1/7/1/21717 ]
+  [Files: 21717.txt; 21717-h.htm]
+
+The Battery and the Boiler, by R.M. Ballantyne                           21716
+  [Subtitle: Adventures in Laying of Submarine Electric Cables]
+  [Link: http://www.gutenberg.org/2/1/7/1/21716 ]
+  [Files: 21716.txt; 21716-h.htm]
+
+Away in the Wilderness, by R.M. Ballantyne                               21715
+  [Link: http://www.gutenberg.org/2/1/7/1/21715 ]
+  [Files: 21715.txt; 21715-h.htm]
+
+The Red Eric, by R.M. Ballantyne                                         21714
+  [Link: http://www.gutenberg.org/2/1/7/1/21714 ]
+  [Files: 21714.txt; 21714-h.htm]
+
+The Young Trawler, by R.M. Ballantyne                                    21713
+  [Link: http://www.gutenberg.org/2/1/7/1/21713 ]
+  [Files: 21713.txt; 21713-h.htm]
+
+The Young Fur Traders, by R.M. Ballantyne                                21712
+  [Link: http://www.gutenberg.org/2/1/7/1/21712 ]
+  [Files: 21712.txt; 21712-h.htm]
+
+The World of Ice, by R.M. Ballantyne                                     21711
+  [Link: http://www.gutenberg.org/2/1/7/1/21711 ]
+  [Files: 21711.txt; 21711-h.htm]
+
+The Crew of the Water Wagtail, by R.M. Ballantyne                        21710
+  [Link: http://www.gutenberg.org/2/1/7/1/21710 ]
+  [Files: 21710.txt; 21710-h.htm]
+
+The Walrus Hunters, by R.M. Ballantyne                                   21709
+  [Subtitle: A Romance of the Realms of Ice]
+  [Link: http://www.gutenberg.org/2/1/7/0/21709 ]
+  [Files: 21709.txt; 21709-h.htm]
+
+Up in the Clouds, by R.M. Ballantyne                                     21708
+  [Subtitle: Balloon Voyages]
+  [Link: http://www.gutenberg.org/2/1/7/0/21708 ]
+  [Files: 21708.txt; 21708-h.htm]
+
+Ungava, by R.M. Ballantyne                                               21707
+  [Link: http://www.gutenberg.org/2/1/7/0/21707 ]
+  [Files: 21707.txt; 21707-h.htm]
+
+Twice Bought, by R.M. Ballantyne                                         21706
+  [Link: http://www.gutenberg.org/2/1/7/0/21706 ]
+  [Files: 21706.txt; 21706-h.htm]
+
+In the Track of the Troops, by R.M. Ballantyne                           21705
+  [Link: http://www.gutenberg.org/2/1/7/0/21705 ]
+  [Files: 21705.txt; 21705-h.htm]
+
+Six Months at the Cape, by R.M. Ballantyne                               21704
+  [Link: http://www.gutenberg.org/2/1/7/0/21704 ]
+  [Files: 21704.txt; 21704-h.htm]
+
+Silver Lake, by R.M. Ballantyne                                          21703
+  [Link: http://www.gutenberg.org/2/1/7/0/21703 ]
+  [Files: 21703.txt; 21703-h.htm]
+
+Shifting Winds, by R.M. Ballantyne                                       21702
+  [Subtitle: A Tough Yarn]
+  [Link: http://www.gutenberg.org/2/1/7/0/21702 ]
+  [Files: 21702.txt; 21702-h.htm]
+
+The Settler and the Savage, by R.M. Ballantyne                           21701
+  [Link: http://www.gutenberg.org/2/1/7/0/21701 ]
+  [Files: 21701.txt; 21701-h.htm]
+
+Don Juan, by Lord Byron                                                  21700
+  [Link: http://www.gutenberg.org/2/1/7/0/21700 ]
+  [Files: 21700.txt; 21700-8.txt; 21700-h.htm]
+
+The Rover of the Andes, by R.M. Ballantyne                               21699
+  [Subtitle: A Tale of Adventure on South America]
+  [Link: http://www.gutenberg.org/2/1/6/9/21699 ]
+  [Files: 21699.txt; 21699-h.htm]
+
+Rivers of Ice, by R.M. Ballantyne                                        21698
+  [Link: http://www.gutenberg.org/2/1/6/9/21698 ]
+  [Files: 21698.txt; 21698-h.htm]
+
+The Red Man's Revenge, by R.M. Ballantyne                                21697
+  [Subtitle: A Tale of The Red River Flood]
+  [Link: http://www.gutenberg.org/2/1/6/9/21697 ]
+  [Files: 21697.txt; 21697-h.htm]
+
+Red Rooney, by R.M. Ballantyne                                           21696
+  [Subtitle: The Last of the Crew]
+  [Link: http://www.gutenberg.org/2/1/6/9/21696 ]
+  [Files: 21696.txt; 21696-h.htm]
+
+Life in the Red Brigade, by R.M. Ballantyne                              21695
+  [Subtitle: London Fire Brigade]
+  [Link: http://www.gutenberg.org/2/1/6/9/21695 ]
+  [Files: 21695.txt; 21695-h.htm]
+
+The Prairie Chief, by R.M. Ballantyne                                    21694
+  [Link: http://www.gutenberg.org/2/1/6/9/21694 ]
+  [Files: 21694.txt; 21694-h.htm]
+
+Post Haste, by R.M. Ballantyne                                           21693
+  [Link: http://www.gutenberg.org/2/1/6/9/21693 ]
+  [Files: 21693.txt; 21693-h.htm]
+
+The Pirate City, by R.M. Ballantyne                                      21692
+  [Subtitle: An Algerine Tale]
+  [Link: http://www.gutenberg.org/2/1/6/9/21692 ]
+  [Files: 21692.txt; 21692-h.htm]
+
+The Pioneers, by R.M. Ballantyne                                         21691
+  [Link: http://www.gutenberg.org/2/1/6/9/21691 ]
+  [Files: 21691.txt; 21691-h.htm]
+
+Flint, by Maud Wilder Goodwin                                            21690
+  [Subtitle: His Faults, His Friendships and His Fortunes]
+  [Link: http://www.gutenberg.org/2/1/6/9/21690 ]
+  [Files: 21690.txt; 21690-8.txt; 21690-h.htm]
+
+
+---------[   4 NEW PG AUSTRALIA EBOOK(S) ]--------------------------------------
+
+Jun 2007 A Diplomatic Woman (The Russian Cipher), Huan Mee [070079xx.xxx] 1532A
+http://gutenberg.net.au/ebooks07/0700791.txt or .zip
+http://gutenberg.net.au/ebooks07/0700791h.html
+
+Jun 2007 Doctor Dolittle's Return, Hugh Lofting            [070078xx.xxx] 1531A
+http://gutenberg.net.au/ebooks07/0700781.txt or .zip
+http://gutenberg.net.au/ebooks07/0700781h.html
+
+Jun 2007 Sanders, Edgar Wallace                            [070077xx.xxx] 1530A
+http://gutenberg.net.au/ebooks07/0700771.txt or .zip
+http://gutenberg.net.au/ebooks07/0700771h.html
+
+Jun 2007 Charlie Chan Carries On, Earl Derr Biggers        [070076xx.xxx] 1529A
+http://gutenberg.net.au/ebooks07/0700761.txt or .zip
+http://gutenberg.net.au/ebooks07/0700761h.html
+
+
+For more information about Project Gutenberg of Australia, including accessing
+those eBooks from outside of Australia, please visit: http://gutenberg.net.au
+
+
+---------[   0 NEW PG EUROPE 'UNIQUE' EBOOK(S) ]--------------------------------
+
+None this week.
+
+
+This listing is for PG-EU eBooks that are not U.S. copyright clearable and so
+are posted to the PG-EU site only.
+
+For more information about Project Gutenberg of Europe please visit:
+http://pge.rastko.net
+
+
+--------------------------------------------------------------------------------
+
+For more information on copyright restrictions in general please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+================================================================================

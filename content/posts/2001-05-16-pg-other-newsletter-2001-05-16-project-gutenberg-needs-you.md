@@ -1,0 +1,904 @@
+---
+params:
+  id: 1810
+title: "PG Other Newsletter: Project Gutenberg Needs You (2001-05-16)"
+date: 2001-05-16T21:17:08+00:00
+author: Michael Cook
+layout: post
+url: /20010516/pg-other-newsletter-2001-05-16-project-gutenberg-needs-you/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Wed May 16 22:32:09 2001
+Date: Wed, 16 May 2001 11:21:22 -0500 (CDT)
+From: "Michael S. Hart" &lt;hart@prairienet.org&gt;
+To: "Project Gutenberg mailing list" &lt;gutnberg@listserv.unc.edu&gt;
+Subject: "Project Gutenberg Needs You!"
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+List-Subscribe: &lt;mailto:subscribe-gutnberg@listserv.unc.edu&gt;
+List-Owner: &lt;mailto:owner-gutnberg@listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+X-Message-Id: &lt;Pine.GSO.4.10.10105161119490.16668-100000@bluestem.prairienet.org&gt;
+
+
+Please Be Encouraged To Resend And Repost This Announcement
+
+Be sure all addresses are bcc'd
+
+***
+
+***Project Gutenberg Request for Support for May 16, 2001***
+
+[This is a blatant request for support for Project Gutenberg
+Please delete it and accept our apology if not interested!!]
+
+[We only send such messages once each Spring and/or Autumn.]
+[We put this off from April 15, so we could include several
+new state registrations and further information on the rest]
+
+Lot's of important news for those who read all the way thru.
+
+       We Have Made It Much Easier To Volunteer
+
+         http://promo.net/pg/volunteer.html
+
+
+   We Have Made It Much Easier To Donate [More Below]
+
+
+
+Right now we are in a sort of "Catch-22" situation with
+fundraising right now. . .we are registered in about 1/3
+of the states right now, with paperwork in to get to 2/3,
+but we don't have enough money to register in the last 1/3,
+and the first 1/3 will start needing to be renewed by the
+time we get to the last 1/3. . .and the stack of paperwork
+for these is literally as large as the person handling them.
+
+The trustees of the Project Gutenberg Literary Archive Foundation
+have told me we need to raise $25,000 just to complete all this
+paperwork, as there are lots of fees associated with theses, and
+we have to hire a CPA to sign the last bunch. . .obviously we did
+the easiest and least expensive states first.
+
+Neither of our trustees have the time to do all this by themselves,
+so we also have to pay for a 1/4 time assistant, even though our
+trustees do serve pro bono.
+
+We can't get on shows such as Oprah, Regis, Letterman and Leno
+to do any demonstrations and fundraising until we are registered
+in all 50 states, and probably also the District of Columbia, so
+it's even more of a Catch-22 than it first appears. . . .
+
+We are expecting to have approximately 4,000 Etexts online by the
+end of the year, with nearly 2,000 volunteers whom we would like
+to provide more support for in the areas of copyright research,
+book finding, scanning, proofreading, etc.  Currently every one
+of the Project Gutenberg sites around the world is operated by
+a volunteer who provides all the disk space, bandwidth, etc.,
+and we would love to buy our own drives for at least the two
+major US sites on which we initially post our Etexts.
+
+
+***
+
+As of 05/16/01 contributions are only being solicited from people in:
+Connecticut, Louisiana, Maine, Missouri, Oklahoma, Colorado,
+Delaware, Hawaii, Idaho, Indiana, Iowa, Montana, Nebraska,
+South Dakota, Texas, Vermont, Wyoming, South Carolina. = 18 states
+
+We have completed filing in the following states, awaiting response:
+Alabama, Arkansas, California, Georgia, Illinois, Kansas, Kentucky,
+Massachusetts, Michigan, Minnesota, Mississippi, New Hampshire,
+New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon,
+Pennsylvania, Rhode Island, Tennessee, Utah, Virginia, Washington,
+Wisconsin and the District of Columbia.
+
+We are partially filed in Maryland, they wanted more information.
+
+The last 5 states have such incredible paperwork that we haven't
+quite been able to do it all yet. . .sorry. . . .
+Alaska, Arizona, Florida, North Carolina, West Virginia.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork
+to legally request donations in all 50 states.  If
+your state is not listed and you would like to know
+if we have added it since the list you have, just ask.
+
+While we cannot solicit donations from people in
+states where we are not yet registered, we know
+of no prohibition against accepting donations
+from donors in these states who approach us with
+an offer to donate.
+
+***
+
+Why Should *YOU* Support Project Gutenberg?
+
+Because The Work of Project Gutenberg is:
+
+1.  Permanent
+2.  Free
+3.  Available
+4.  Useful
+5.  Enlightening
+6.  Growing
+
+and, best of all
+
+7.  Yours!
+
+
+First a few lines of comment on each of these topics,
+then a more detailed explanation.
+
+
+1.  Permanent
+
+Unlike the usual character of the Internet and the World Wide Web,
+television and radio, or most other modern media production outlets,
+Project Gutenberg is a landmark. . .a permanent feature of the Net
+. . .since before anyone had coined the term "Internet". . .since
+before the World Wide Web. . .and we are now supported by a Trust/
+Foundation which will hopefully help continue the existence of PG
+for more decades, or even centuries into the future.
+
+
+2.  Free
+
+There are no hidden costs to use Project Gutenberg, no hardware
+or software requirements. . .nearly every computer comes with a
+variety of ways to receive, save, read and search our Etexts.
+
+
+3.  Available
+
+There are mirror sites wide varieties of regions, including
+every continent in the world, even Antarctica. . .to insure
+everyone has easy access.  Within the last month or two, new
+sites have been announced in Greece, Bulgaria, and Hungary.
+Contrary to the policies of most Etext operations, Project
+Gutenberg encourages EVERYONE to download our Etexts and to
+make them available to the public at large. . .worldwide,
+with only a few words of warning not to violate local laws
+concerning various copyrighted or trademarked materials we
+include in our collection.
+
+
+4.  Useful
+
+Students and scholars all over the world use Project Gutenberg
+Etexts to search, research, and just plain read for fun.  As a
+wider variety of screens become available, with an increasing
+number of colors, more and more people are reading full books
+on their computers, laptops, and palmtops.  In addition, Project
+Gutenberg Etexts are wonderfully flexible for visually impaired
+readers, and are easily readable by the text-to-speech software
+used by many who cannot read at all.  More and more libraries
+are now including Project Gutenberg Etexts in their collections.
+
+
+5.  Enlightening
+
+We are making a great effort to include every language we can
+in our collection, and are hoping to include the classic books
+from every culture within each language.  Project Gutenberg is
+hoping to indeed be "A Window On The World."  We are hoping to
+add a new language every month or two in 2001, please made sure
+we have something in YOUR language[s].
+
+
+6.  Growing
+
+Project Gutenberg is now producing 50 Etexts/month, 600/year. . .
+It was only 5 years ago that we managed our first 100 Etext year,
+and in a few years, with your support, we hope to do 1,000 Etexts
+in a calendar year.
+
+We used to talk about Project Gutenberg as a kind of "book of the
+month" production system. . .but now you would have to buy whole
+new bookshelves each and every month to hold them all the paper
+editions we present. . .or just add one new CDROM. . .hee hee!!!
+
+
+7.  Yours
+
+These books are yours, permanently. . . .
+
+When you get a Project Gutenberg Etext, you have not checked it out,
+licenced it, rented it, borrowed it, or any other temporary idiom.
+You can quote them in any way you like, school papers, research,
+books YOU may write. . .without limitation, other than on the 1%
+of the that are copyrighted works.
+
+These books are YOURS. . .as many copies as you want. . .any time you
+want. . .any place you want. . .and they don't take up any space. . .
+it's *literally* any *place* you want.
+
+As a volunteer, these books are even more intimately yours, as we try
+very hard to encourage our volunteers to do their own favorite books,
+in their own languages, in their own good time. . .we don't put anyone
+on a schedule. . . .
+
+
+Here are the details. . . .
+
+
+1.  The Work of Project Gutenberg is Permanent.
+
+The major difference between the products of Project Gutenberg
+and those of other non-profit organizations such as PBS, NPR, etc.,
+is that even now it it's 30th year, our original Etext of the U. S.
+Declaration of Independence is downloaded by more people every year
+than in any previous year of the history of the Internet.  When you
+support Project Gutenberg, your support is seen permanently.  It is
+not like a museum or library, you won't come for a visit and NOT see
+your effect right there for everyone to see and have. . . .
+
+You won't find PBS showing all their shows from 30 years ago. . .
+but the Project Gutenberg Etexts are there forever.  We update format
+types from time to time, and correct errors, but when your family
+reads Alice in Wonderland now, we want you to know you will be able
+to find it again generations down the road.  We already have people
+getting married and starting families of their own, who read Alice
+from Project Gutenberg when they weren't even teenagers yet. . . .
+
+This is quite different from the way most Internet sites exist as a
+day to day phenomenon, whereas we are planning on Project Gutenberg
+Etexts being available as long as there IS an Internet.
+
+When you buy CDROMs of most Etexts you get something that requires a
+certain operating system, and even a certain version of it, usually
+one that likely will be incompatible with the next version or the one
+after that. . .and then you have to go out and buy another version.
+That's where the big difference lies between Project Gutenberg Etext
+and nearly every other kind you can get. . .you can still copy books
+from Project Gutenberg onto your floppies, carry them to nearly any
+computer, and read them with minimal effort, no installation needed.
+
+
+2.  The Work of Project Gutenberg is Free.
+
+Because no installation is needed, these Etexts ARE free. . .there is
+no particular brand of hardware or software you need to buy to read a
+Project Gutenberg Etext. . .you don't even have to download a browser
+. . .whether it is free or not. . . .  Virtually every computer there
+is in the world can read these Etexts just the way it comes, and that
+is the point of our existence. . . .
+
+We want EVERYONE, EVERYWHERE, EVERYWHEN to have free access to such a
+library of classics in EVERY LANGUAGE.
+
+Thousands of Project Gutenberg Etexts are available, and no one is ever
+charged a penny by Project Gutenberg for them.  All the Etexts are done
+by volunteers.  All the sites are run by volunteers.
+
+
+3.  The Work of Project Gutenberg is Available.
+
+The Project Gutenberg Etexts are available from servers on all continents.
+We are continually expanding the number of servers, and eventually hope to
+have servers not just on every continent, but in every region, and then in
+every country.  We are now working on sites in Greece, Turkey, Bulgaria,
+and several others.  With 3 billion computers already around the world,
+and used ones available at garage sales for $5, pretty much anyone who
+really wants to read Etexts and has electricity can do it.  I should add
+that we are aware that 60% of the world's population has never made a
+phone call. . .which is one reason we promote the giving away of our
+Etexts on disks. . .we were receiving letters from around the world
+from people who had received our Etexts on disk years before the Internet
+actually circled the globe.
+
+Our Etexts are actually available for download from several satellites.
+
+
+4.  The Work of Project Gutenberg is Useful.
+
+Looking up something in any of our books takes less time that it would to
+walk over to your own bookcase and find it in your own book.  Quoting the
+material is even faster.  The Complete Works of Shakespeare could be used
+for a search that would take literally seconds.  We also have very complete
+editions of Charles Dickens and Robert Louis Stevenson, so complete that
+they have been listed in library journals as the most complete available
+to the public in the entire world.  [I don't know if there are privately
+owned collections that have more.  But the whole point is that anyone can
+add our entire collection to theirs with no effort.]
+
+We make our Etexts available in plain formats that virtually all programs
+can read, quote, edit, search, etc.  Thus our readers use a wider variety
+of computers and programs, at their own discretion, and budget, to read a
+wide variety of Etexts.  This is a very important aspect of our work. . .
+to make Etext available to everyone. . .and to let them read it in their
+own favorite programs, in their own favorite fonts, to search with their
+own favorite search engines, and to copy anywhere, any time.
+
+
+5.  The Work of Project Gutenberg is Enlightening.
+
+My hope is that the work of Project Gutenberg will finally allow access
+to the information and literature of the entire world to the entire world.
+
+"Of The People, By The People, For The People". . .says it pretty well.
+
+Hopefully you will include yourself as one of "These People."
+
+
+6.  Project Gutenberg Is Growing
+
+We are officially producing 50 Etexts per month at this time,
+and unofficially we are producing even more.  Last year we averaged
+about 75 per month for the second half of the year, and we are doing
+the same this year.  At this rate, we will soon cross the boundary
+of 1,000 Etexts produced in a single year.
+
+Not only is Project Gutenberg growing, but our audience is growing
+as well, and even more quickly.  Our Sites Coordinator just told me
+that half the people reading our books are new over the past 18 months.
+This is not uncommon among brand new enterprises, but when you realize
+this is our 30th year, such growth is truly. . .no hyperbole. . . . .
+
+PHENOMENAL!
+
+
+Here is a brief history of our growth rate:
+
+We should reach approximately 3,000 Etexts by the official end of 2001,
+but since we are about a year ahead of schedule, this will likely take
+place in the next few months.  [hee hee, when I started writing this a
+month ago, I had no idea I might be announcing #3000 in THIS message!!!]
+
+Here is how we got there:
+
+1 per year in 1971-1979 completed our first 9 Etexts
+which were mostly a "History of Western Democracy"
+
+&gt;From 1980-1990 we completed our first Bible and Shakespeare,
+but due to the new copyright extensions, the Shakespeare is
+still not able to be released.  Thus our total was 10 Etexts.
+[We counted Shakespeare and The Bible as 1 Etext each.]
+
+ 1  per month in 1991
+ 2  per month in 1992
+ 4  per month in 1993
+ 8  per month in 1994 We reached a total of 100 Etexts
+16  per month in 1995
+32  per month in 1996
+32  per month in 1997 We reached a total of 1,000 Etexts
+36  per month in 1998
+36  per month in 1999 We reached a total of 2,000 Etexts
+36  per month in 2000
+40  per month in 2001 for the first half of the year
+then
+50  per month in 2001 for the second half of the year
+                      We reached a total of 3,000 Etext
+                      with the last of the 2001 Etexts.
+50  per month in 2002
+100 per month in 2003 Should bring us back to schedule
+
+We will end the "Official Year of 2002" with 3,600 Etexts!!!
+This should happen on July 4, 2001, we are that far ahead of
+this schedule. . . .
+
+
+[Now that we can officially say we have "thousands" of these
+Etexts online, we should prepare to create an institution of
+support for Project Gutenberg that will hopefully carry this
+project into, and at least part of the way through, the next
+millennium. . .your help could be invaluable. . .more below]
+
+We Have Made It Much Easier To Volunteer, see promo.net/pg!!
+
+[There is a brand new set of web pages for our volunteers so
+please help us with any suggestions and/or corrections, your
+help in making this page serve our volunteers is appreciated
+more than you might imagine. . .this page could become a big
+foundation for our future volunteers; we are ALL volunteers]
+
+***
+
+Have We Given Away A Trillion Dollars Worth Of Etext Yet??!!
+
+Yes, if we manage to get the average one of our 3,500 Etexts
+to 1.67% of the world's population, using a nominal value of
+$2.86 as a street value of the average one of our books:  as
+our population has passed 6 billion around the official date
+of release of our Etext #2000.  In fact, we are ~all the way
+from using the $5 nominal value, thru the $4 value, that was
+the result of our posting Etext #2500. . .and then we passed
+$3 mark at Etext #3333 as it takes an ever increasing number
+to bring the cost down another dollar
+. . .this time it will take 833 more Etexts. . .last time it
+only took 500 more. . .next time it will take 1666 to get it
+from $3 to $2. . .and then 5000 more to get nominal price of
+a book down to $1 and still give away $1 trillion in Etexts.
+
+OK. . .enough math. . .!!!
+
+;-)
+
+***
+
+The major purpose of Project Gutenberg is to encourage great
+and small efforts towards the creation and distribution of a
+library of Etexts for unlimited distribution worldwide.  Our
+goal is to encourage the creation and distribution of 10,000
+Etexts by the end of 2001. . .obviously we have to revise it
+some time this year. . .as we will perhaps get to #4000.
+
+This is a goal we may have already accomplished, though many
+of the 10,000 files are still very much Limited Distribution
+items, and we are working to get them posted in more places,
+on more sites, for greater and greater public access.  These
+will hopefully all be posted on Project Gutenberg sites some
+time in the not too distant future, we are discussing this a
+lot with the other Etext makers.  Creating a liaison between
+all the Etexts makers is one of our major goals right now.
+
+There are currently over 16,000 Etexts listed in the indices
+of the Internet Public Library, and, as usually, between 20-
+25% of them are from Project Gutenberg.  We are growing just
+as fast as the total Etext production of the world, but this
+could be accelerated quite a bit if we could do copyright on
+more of the Etexts out there of "unknown origin."  We should
+raise money to hire a copyright lawyer for this!
+
+
+***
+
+If we are going to continue on past our first goal of 10,000 Etexts,
+we are going to need some Big Time public relations help, and some
+Big Time fundraising. . .here's why. . . .
+
+1.  Getting the Etexts to twice as many people is just as important
+as creating twice as many Etexts. . .but without MAJOR publicity it
+is not likely to happen. . .we constantly get messages from readers
+who tell us they have been LOOKING for Etexts for years and just at
+that present time FINALLY FOUND US. . . .  That means we cannot get
+to a major part of our audience with the kind of publicity we have,
+we need something more. . . .  For example, we were the first in an
+entirely new column:  "People To Watch" in the November 8th edition
+of TIME magazine, but we have received less than a dozen emails per
+that article. . .what we really need to do is get on Oprah Winfrey,
+and hopefully add something to her book club.  Those of you on AOL,
+perhaps you could email the show and request they invite us. . . !
+
+We should undoubtedly also try the other talk shows, and "magazine"
+shows, etc.  All the press we receive is from them contacting us, I
+have had no luck "generating" publicity. . .which seems to be easy,
+for those who have the knack. . .it's just not MY knack. . .help!!!
+
+2.  Running group of 1,500 volunteers to generate 10,000 Etexts has
+been something that IS a knack I have. . .and it hasn't cost a very
+large amount of money to do it. . .otherwise you wouldn't know that
+we exist. . .but running a group of 10,000 volunteers to create the
+1,000,000 Etext that are possible in the NEXT 10 years, is NOT easy
+. . .even for someone such as myself. . .it will require more phone
+lines and calls than I can afford. . .and more email than I can do,
+on my own, so we either need volunteers to help coordinate, or, the
+possibility looms that we should actually HIRE people. . . .
+
+When I first started Project Gutenberg in 1971, I was sure I should
+be able to find someone else to replace me, as it did not cost real
+money or take real time to run. . .but for the last 10 years it has
+taken just about all the time I have, including what I would need a
+lot more of to have a personal life. . .and I would LIKE to have an
+expectation that Project Gutenberg would survive at least 10 years,
+after I am gone, and hopefully 100, and if I really dream, 1,000!!!
+
+So. . .if you are willing and able to help us with these or in some
+related manner, PLEASE LET ME KNOW. . . .
+
+
+***
+
+
+Contents
+
+
+Overview
+
+0.
+Etexts in Various Languages
+
+1.
+Copyright
+
+2.
+Scanning and Typing
+
+3.
+Proofreading
+
+4.
+FTP and WWW Sites
+
+5.
+Donations
+
+6.
+Raiders of the Lost Archives
+
+7.
+Special Requests
+
+8.
+Programming
+
+9.
+New Etexts Needing Proofreading
+
+
+
+Followed By More Detailed Information On Most Of These Subjects
+
+
+*******
+
+0.
+Etexts in Various Languages
+
+As you may be aware, this last year we have greatly expanded our
+output of Etexts in languages other than English, including:
+
+
+1.  English
+2.  Latin
+3.  French
+4.  Italian
+5.  German
+6.  Spanish
+7.  Chinese
+8.  Japanese
+9.  Swedish
+10. Danish
+11. DNA/ATGC
+12. Welsh
+13. Portuguese
+14. Old Dutch [pre 1949]
+15. Bulgarian
+16. Dutch/Flemish
+17. Greek*  Almost ready!
+18. Hebrew*
+19. Old French*
+20. Polish*
+21  Russian*
+22. Romanian*
+[Those with an * are still in need of work]
+
+
+
+1.
+Copyright
+
+Project Gutenberg will do copyright research for you if you send us
+xeroxes of the title page [both sides, even if one side is blank.]
+
+We need people to hunt through libraries or bookstores for editions
+that we can use to legally prepare our Electronic Texts [Etexts.]
+
+Germany, Italy and Great Britain have each extended their copyright
+to "life + 70 years," as opposed to the "life +50 years" of "Berne"
+copyright conventions.  Residents of those areas will have to be an
+extra bit careful, as a million items that used to be Public Domain
+in those countries reverted to copyright status, even though a vast
+majority of them are no longer for sale.  This is now true for some
+other countries, including France and perhaps Brazil and Portugal.
+
+More on the United States Copyright Term Extension Act of 1998 in a
+"More Detailed Information" section below.
+
+
+2.
+Scanning and Typing
+
+Once we have located some proper edition[s], then our volunteers do
+the books by scanning or typing them into the computer.  Usually it
+is the same person who does the proofreading, but not necessarily.
+
+
+If you have a scanner, or have access to one, or plan to get one in
+the future, please contact our Director of Production, Dianne Bean,
+beandp@primenet.com, with a cc: to me at hart@pobox.com
+
+
+2.
+Proofreading
+
+Often the only way for many of our volunteers to work on Etexts for
+us is if they can ship their book to one of you, have it scanned in
+and then returned to them for proofreading.
+
+If you could do the scanning for them, it would help us immensely.
+
+
+4.
+FTP and WWW Sites
+
+We would very much like to provide better access to Etext for sites
+in Africa and South America, and other locales.  If you know anyone
+who might be able to help with this, please read this:
+
+We are always in search of more FTP and World Wide Web sites, so an
+increasing number of people can download our books without unusual,
+even often fatal, delays and glitches in transmission.
+
+If you, or someone you know, can spare a gigabyte on their servers,
+please have them contact us about creating more mirror sites.  This
+is a particular need for countries south of the equator, where text
+files are only available on one server that we know of.  If you can
+help us get our books into South America, Africa, and further, this
+would be a great help.  We have something restarted in New Zealand,
+with extensions into Australia, but the load this server can handle
+is probably going to be easily exhausted.
+
+
+5.
+Donations
+
+Project Gutenberg is almost completely dependent on your donations.
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to
+the "Project Gutenberg Literary Archive Foundation" and mailed to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+Anything you can do in this are would be greatly appreciated, even,
+since we are at this juncture, helping us get more Public Relations
+coverage of our 4,000th Etext.
+
+Project Gutenberg sites up updated more than once a day on average,
+since we are presenting 600 Etexts per year, and plan to move to at
+least 1,000 per year after the "official" listing of 2002.
+
+As I said, anything would be greatly appreciated.  This SHOULD BE a
+great time to get some PR. . .but it still appears, even though the
+project has been written up probably about 200 times, that they are
+going to write us up when THEY have a reason to rather than when WE
+have a reason, and we feel it is now time to try to break out of an
+entirely too limiting niche in the computer oriented media, and get
+some more general publicity out there to the millions of people who
+aren't computer oriented at all, but will would like to receive the
+Etexts for education or entertainment.  This is a majority of world
+population centers, and we should do more to reach them.
+
+If you have any "ins" in the press or with the corporate world, this
+would be a good time to use them.
+
+
+6.
+Raiders of the Lost Archives
+
+As you may be aware from several events of a month ago, and earlier,
+there is a downside to having Etext archives in limited distribution
+modalities, simply because if one site, or one person, or even whole
+countries, change their minds about what they are going to archive--
+then the whole world loses access to those files.
+
+A good example was the loss of The Oxford Book of English Verse from
+Project Bartleby.  We have taken great pains to get this book, which
+is undoubtedly important, back on the Net.  If you want to see which
+sites have lost this file, just do a Yahoo search for the book, then
+count the vast number of sites that have blank entries for the book,
+once it was deleted from a multiplicity of links; this is an example
+of how important it is for Etexts to be posted on many sites, rather
+than just one site will many links to it!!!
+
+We need volunteers who will search the world for every possible book
+and help us preserve it.
+
+Project Gutenberg will not release any of this material until we can
+do the copyright research and prove it belongs in the Public Domain.
+
+We realize that many of our volunteers sometimes get frustrated that
+we do this research, which possibly takes half our time, but it will
+become more and more apparent why this is a good policy as copyright
+laws become stiffer and stiffer, and world intellectual property can
+be limited in greater and great ways.  It is quite likely that it is
+going to be some time in the next calendar year that a United States
+law killing off another 20 years of public domain in the US will get
+passed, to join the countries listed above, in eliminating a million
+books from potentially being posted as Etexts, even though 99% are a
+dead issue, out of print for decades. . . .
+
+
+7.
+Special Requests
+
+We occasionally receive scanned material which could have benefitted from
+more cleanup before it was sent to us. What we need is proofers with
+patience to read through an etext and take out stray letters, clean up the
+punctuation, and send a list of questionable lines to the person who
+scanned it so they can send corrections to be inserted. This usually takes
+a couple of weeks, and is a good short-term project for folks who want to
+get their feet wet with Project Gutenberg.  Dianne Bean &lt;beandp@primenet.com&gt;
+
+
+8.
+Programming
+
+Due to the various formats in which we receive many of our Etexts,
+we need some assistance in writing PERL scripts, vi scripts, or an
+assortment of other scripts that will assist our proofreaders, and
+our editors, in dealing with page numbers, markups, italics and an
+assortment of other formatting issue that come up time to time.
+
+Most of these are fairly trivial and can be solved with a one line
+script for each of the particular situations and we just need some
+people to either run the scripts we already have, or to write some
+new ones from time to time when a particularly rough Etext version
+arrives at our doorstep.  These scripts, which take minutes to set
+up, and seconds to run, can save HOURS of proofreaders' time.  You
+can be a BIG help just running some of these scripts for us, or in
+writing or rewriting some of them on occasion.
+
+
+
+***
+
+
+More Detailed Information
+
+1.
+Copyright
+
+Copyright Extension Is Also Happening in the United States
+
+Since Project Gutenberg began in 1971, millions of copyrights in
+the US should have expired, but are being prevented from expiring
+by various political action groups.
+
+
+
+2.
+Scanning and Typing
+
+We don't really want to get into a public recommendation about what
+scanners and OCR [Optical Character Recognition] programs word best
+. . .it is really the case that some do better on some books, while
+other do better on others.
+
+However, we ARE willing to share our experience if you ask.
+
+
+3.
+Proofreading
+
+Our official accuracy level that we try to maintain has been 99.9%,
+for our first release, which is usually raised to 99.95% before the
+vast majority of people ever see them, and this standard has been a
+standard that has been adopted by most Etext providers, including a
+new effort toward Etext by the Library of Congress and the national
+libraries of Great Britain and other countries.
+
+What we hope you realize is that any serious effort to get an Etext
+to 100% accuracy should take MORE effort than to create an entirely
+new Etext with an accuracy level of 99.9% to 99.95%.
+
+While many, even most, of the Project Gutenberg Etexts are accurate
+to an amazing degree, even more amazing when you compare then to an
+entire world of Etexts prepared by both the scholarly or commercial
+Etext enterprises, we do not feel that the additional doubling of a
+more than massive effort, to possibly reduce the errors, by another
+.02% perhaps, would have anywhere near the value of the preparation
+of an entirely new Etext with the same amount of effort.
+
+Nevertheless, even the most famous universities of the world have a
+collection of Etexts, many of which have vastly more errors that in
+our collection.  This is also true of the commercial Etexts.  Don't
+be afraid that your efforts won't be as good as all the others, the
+process of improving Project Gutenberg Etexts is never ending.
+
+In addition, there are many volunteers who would prefer to have an
+Etext or at least an author selected for them to work on.  As some
+of you already know, _I_ have been reluctant to choose for anyone,
+not wanting to bias the formation of our collection with my choice
+of what are the great books of human history.
+
+I have promised to do several things once we reached Etext #2,000,
+one of which is to provide more guidance to those who seek it, and
+that guidance will be coming from Dianne Bean, true librarian, who
+is also working on the cataloguing project I also promised will be
+forthcoming once we reach Etext #2,000.
+
+
+More on:
+Proofreading:  We could also use people who know how to use DIFF or
+similar programs that point out differences between two files, even
+programmers that might only be able to search our files for matched
+and unmatched quotes.  [Remember that when quoting many paragraphs,
+each internal paragraph gets only an opening quote.]
+
+Our proofreading is a never-ending story. . .we run spell-checkers,
+and other varieties of programs, on our Etexts, and have real human
+proofreaders go over them in pretty incredible detail, but we would
+be remiss if we did not tell you that over 99% of the books we work
+from have their own errors, and that while we catch some of those--
+we undoubtedly introduce errors of our own, and even though we will
+gladly keep updating our editions, ad infinitum, the odds that this
+will catch ALL the errors in the near future are virtually 0%.
+
+Therefore. . .we need you to email us when you have suggestion, and
+comments, and when you find possible errors that need correction.
+
+
+4.
+FTP and WWW Sites
+
+We are willing to adjust the bandwidth on various sites by adjusting
+the publicity various sites receive, and also by asking our users to
+only use certain sites at certain times of the day or night.  So the
+drain on sites volunteering to mirror Etexts should not suffer any.
+
+
+5.
+Donations
+
+We have never received any local, regional or national grants; your
+donations, and the support of people I would hope to count as my
+friends are the backbone of our support.
+
+We could barely survive otherwise.
+
+
+6.
+Raiders of the Lost Archives  [This needs a rewrite]
+
+This is going to be particularly evident if the raggedy performances
+that are destroying 99% of the Public Domain continue by raiding the
+Public Domain, taking a million works out of the Public Domain, over
+a period of 20 years, and putting perhaps 1% of 1% of them back in a
+print version so that those who owned the copyrights for the past 75
+years and made millions from them, can make another million per year
+while 99.99% of those works disappear from public access altogether.
+
+*
+
+Hopefully it has been worth your while to read this far. . .and you will take
+a moment to consider making a tax-deductible donation to Project Gutenberg as
+we are, as once before, without any financial income, including myself. . .mh
+
+
+If you would like to volunteer, please contact one of our Directors:
+
+Greg Newby &lt;gbnewby@ils.unc.edu&gt;,  United States
+Dianne Bean &lt;beandp@primenet.com&gt;  United States
+John Bickers &lt;jbickers@ihug.co.nz&gt; New Zealand
+Sue Asscher &lt;asschers@dingoblue.net.au&gt; Australia
+David Price &lt;ccx074@coventry.ac.uk&gt; England
+
+We also have have a Director for those interested
+in German Etexts, and a current special project of
+translating the 1922 German edition of Siddhartha.
+Please contact:
+Mike Pullen &lt;globaltraveler5565@yahoo.com&gt;
+
+We are VERY interested in adding other languages,
+making more translations, etc.  Let me know if you
+are interested!!!
+
+
+Thanks!
+
+
+Michael S. Hart
+&lt;hart@pobox.com&gt;
+Project Gutenberg
+"Ask Dr. Internet"
+Executive Director
+Internet User ~#100
+</pre>
+
+<a href="/nl_archives/2001/other_2001_05_16_project_gutenberg_needs_you.txt" target="_blank" rel="nofollow">other_2001_05_16_project_gutenberg_needs_you.txt</a>

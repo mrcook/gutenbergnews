@@ -1,0 +1,480 @@
+---
+params:
+  id: 2315
+title: "PG Weekly Newsletter: Part 1a (2005-11-02)"
+date: 2005-11-02T20:52:02+00:00
+author: Michael Cook
+layout: post
+url: /20051102/pg-weekly-newsletter-2005-11-02-part-1a/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From hart at pglaf.org  Wed Nov  2 09:49:42 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Wed Nov  2 09:49:54 2005
+Subject: [gweekly] PT1a Weekly Project Gutenberg Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0511020949040.19363@pglaf.org&gt;
+
+Weekly_November_02.txt
+*The Project Gutenberg Weekly Newsletter For Wednesday, November 02, 2005 PT1*
+*******eBooks Readable By Both Humans And Computers Since July 4, 1971********
+
+PT1A
+
+Editor's comments appear in [brackets].
+
+Newsletter editors needed! Please email hart@pobox.com or gbnewby@pglaf.org
+Anyone who would care to get advance editions:  please email hart@pobox.com
+
+*
+
+HOT REQUESTS AND ANNOUNCEMENTS
+
+We Have Added Another Language
+
+Kamilaroi, the 47th language at http://www.gutenberg.org
+[Kamilaroi is a language of New South Wales, Australia.]
+
+For those interested in more languages, there are 104 at
+http://www.gutenberg.cc
+
+
+STATISTICAL CHANGES
+
+Due to various changes in our statistical reporting and coverage,
+the accuracy of the weekly count of the number of eBooks will not
+be as redundantly checked by a human count, and we will rely more
+on the automated system.
+
+***If you notice any inconsistencies, please send email to:
+
+hart AT pglaf DOT org
+
+*
+
+
+
+WANTED!
+
+&gt;&gt;&gt;   !!!People to help us collect ALL public domain eBooks!!!  &lt;&lt;&lt;
+
+*
+
+Wanted:  People who are involved in conversations on Slashdot, Salon, etc.
+
+
+*
+
+TABLE OF CONTENTS
+[Search for "*eBook" or "*Intro". . .to jump to that section, etc.]
+
+*eBook Milestones
+*Introduction
+*Hot Requests, New Sites and Announcements
+*Continuing Requests and Announcements
+*Progress Report
+*Distributed Proofreaders Collection Report
+*Project Gutenberg Consortia Center Report
+*Permanent Requests For Assistance:
+*Donation Information
+*Access To The Project Gutenberg Collections
+  *Mirror Site Information
+  *Instant Access To Our Latest eBooks
+*Have We Given Away A Trillion Yet?
+*Flashback
+*Weekly eBook update:
+   This is now in PT2 of the Weekly Newsletter
+   Also collected in the Monthly Newsletter
+   Corrections in separate section
+   33 New Public Domain eBooks Under US Copyright
+*Headline News from Edupage, etc.
+*Information About the Project Gutenberg Mailing Lists
+
+***
+
+
+                          *eBook Milestones*
+
+
+          ***500+ eBooks Averaged Per Year Since July 4, 1971***
+
+
+                     17,438 eBooks As Of Today!!!
+                     [Includes Australian eBooks]
+
+                  We Are ~87% of the Way to 20,000!!!
+
+               14,376 New eBooks Since The Start Of 2001
+
+              That's 250+ eBooks per Month for ~56 Months
+
+                 We Have Produced 2482 eBooks in 2005!!!
+
+                        2,542 to go to 20,000!!!
+
+                   7,613 from Distributed Proofreaders
+                  Since October, 2000 [Details in PT1B]
+
+
+               We Averaged ~339 eBooks Per Month In 2004
+
+             We Are Averaging ~250 books Per Month This Year
+
+        [This change is due to the opening of Project Gutenberg
+        sites other than the original one at www.gutenberg.org]
+
+         This Site Is Averaging ~58 eBooks Per Week This Year
+
+                              33 This Week
+
+
+It took ~32 years, from 1971 to 2003 to do our 1st 10,000 eBooks
+
+It took ~32 months, from 2002 to 2005 for our last 10,000 eBooks
+
+It took ~10 years from 1993 to 2003 to grow from 100 eBooks to 10,100
+
+It took ~2.00 years from Oct. 2003 to Oct. 2005 from 10,000 to 17,400
+
+*
+
+
+***Introduction
+
+[The Newsletter is now being sent in two sections, so you can directly
+go to the portions you find most interesting:  1.  Founder's Comments,
+News, Notes & Queries, and  2. Weekly eBook Update Listing.  Note bene
+that PT1 is now being sent as PT1A and PT1B.
+
+[Since we are between Newsletter editors, these 2 parts may undergo a
+few changes while we are finding a new Newsletter editor.   Email us:
+hart@pobox.com and gbnewby@pglaf.org if you would like to volunteer.]
+
+
+   This is Michael Hart's "Founder's Comments" section of the Newsletter
+
+
+*Headline News from Edupage
+
+[PG Editor's Comments In Brackets]
+
+
+CRIB NOTES FIND THEIR WAY TO IPODS
+The latest offering for the vastly popular iPod are crib notes for
+books commonly included in college and university curricula. A company
+called SparkNotes, which competes with market leader CliffsNotes,
+provides the content, which is sold by a firm called iPREPpress.
+Students who pay $4.95 each for a set of notes have access to the usual
+set of study aids--plot summaries, major themes and motifs, study
+questions, biographical sketches of the characters. The iPod notes,
+however, also include several minutes of audio content for each title.
+Kurt Goszyk, the founder of iPREPpress, said that students can listen
+to music stored on their iPods while reading the SparkNotes for an
+assigned text. "You can listen to your favorite rap song in the
+background," he said, "as you're reading about 'The Great Gatsby.'"
+The notes will work with most versions of the iPod, including the very
+small iPod Nano, raising concerns about the possibility students will
+see a new opportunity to cheat.
+Chronicle of Higher Education, 27 October 2005
+http://chronicle.com/free/2005/10/2005102702t.htm
+
+ANTI-SPYWARE COALITION RELEASES GUIDELINES
+The Anti-Spyware Coalition has released a definition of what
+constitutes spyware, as well as guidelines for dealing with spyware.
+The group's definition says that spyware is an application installed
+without sufficient consent of the user and that interferes with the
+user's ability to exert control over such things as security, privacy
+and personal information, and system resources. Critics had cautioned
+that a definition of spyware would allow developers of unwanted
+software to simply sidestep the characteristics included in the
+definition, thereby legitimizing their applications. The Anti-Spyware
+Coalition said it understands that concern and drafted a definition
+with enough latitude to avoid that problem. The group also identified
+good practices for how organizations should identify and prevent
+spyware. Included in the resources is guidance on how to rate the
+severity of particular spyware applications. The group will accept
+public comments on the newly released documents until November 27 and
+will release final versions in early 2006.
+CNET, 27 October 2005
+http://news.com.com/2100-7348_3-5918113.html
+
+ICANN AND VERISIGN SETTLE SITE FINDER DISPUTE
+VeriSign and the Internet Corporation for Assigned Names and Numbers
+(ICANN) have reached a tentative settlement in their dispute over
+VeriSign's Site Finder service. The service, which VeriSign introduced
+two years ago, directs users who mistype URLs to suggested target pages
+rather than providing error messages. ICANN objected, saying that the
+service interfered with some functionality of the Internet and--because
+VeriSign was paid by some of the sites it directed users to--was an
+abuse of VeriSign's power. The service was suspended, and each
+organization filed suit against the other. Under the proposed
+settlement, which must still be approved by the boards of both
+companies and by the Commerce Department, VeriSign would receive an
+extension until 2012 in its oversight of the .com domain. In return,
+any introduction of services such as Site Finder would have to be
+cleared in advance by ICANN.
+Wired News, 25 October 2005
+http://www.wired.com/news/technology/0,1282,69346,00.html
+
+MICROSOFT JOINS YAHOO BOOK PROJECT
+Microsoft has said it will participate in a recently announced
+book-scanning project led by Yahoo and the Internet Archive. Unlike
+Google's much-maligned project, the Yahoo initiative, called the Open
+Content Alliance, will only scan books that are in the public domain or
+for which explicit permission has been granted by the copyright holder.
+In contrast, Google will scan copyrighted books unless copyright
+holders specifically request that their books be excluded, though only
+small portions of copyrighted books will be available online. For its
+part, Microsoft will finance the scanning of about 150,000 books, while
+Yahoo will pay for about 18,000 books to be digitized. The Open Content
+Alliance also differs from Google's project in that all of the content
+from the alliance will be available from a database to any search
+engine; Google will be the only means to access the content of its
+project. Microsoft will create an MSN Book Search service next year,
+though the business model for particular services and fees has not been
+set, according to Danielle Tiedt, general manager of search content
+acquisition at MSN.
+ZDNet, 25 October 2005
+http://news.zdnet.com/2100-9588_22-5913711.html
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+or
+To subscribe, unsubscribe, change your settings,
+or access the Edupage archive, visit
+http://www.educause.edu/Edupage/639
+
+***
+
+News from other sources:
+
+
+Some people have been pointing out how the news media
+showed us Terry Schaivo for days and weeks on end,
+but won't show a single casualty of the Iraq war.
+
+&gt;From a local paper:
+
+"Dog gets more ink than dead soldiers"
+
+"Two thousand of our soldiers have died with no foreseeable end to
+this war in sight. All I ask is, where is the outrage over that?"
+
+South Bend Tribune, IN - Oct 30, 2005
+[Note:  this page vanished shortly after publication]
+[I tried linking to it from multiple locations.]
+
+
+
+*HEADLINE NEWS AVOIDED BY MOST OF THE MAJOR U.S. MEDIA
+
+[As requested adding sources, etc., when possible.
+Remember, the subject is not the article's subject,
+the subject is the manipulation of the world news.]
+
+
+QWEST DODGES MULTIBILLION DOLLAR BULLET FOR $.5B
+
+A tentative settlement for $400 million by Qwest,
+in addition to other smaller settlements, may get
+Qwest out of the business of defending lawsuits &
+back into the communications business.
+
+An "accounting scandal" of billions of dollars is
+still being settled, and stockholders who bought
+under false or misleading statements by Qwest
+from May 24, 1999 to July 28, 2002 are now
+being reimbursed.
+
+The Seattle Times: Business & Technology:
+Shareholder settlement, 11/02/05
+
+
+
+*DOUBLESPEAK OF THE WEEK
+
+The current "official" Pakistani report of the Kashmiri earthquake
+is 73,000 as of today, though local officials say it is 79,000.
+The offical government toll has been much lower than the local
+offical tolls for some time, but is finally being corrected.
+In addition, the number of severely injured is about 70,000.
+These figures are for Pakistan only.  If you add the Indian
+death toll, the official figures are over 80,000, but no one
+in the media seems to like reporting the entire total figure,
+just as they refused to report the total tolls from Katrina,
+but rather sub-divided the death toll by state, and rarely,
+if ever, gave all the figures at once.
+
+Scotsman.com News
+Scottish news direct from Scotland Wednesday, 2nd November 2005
+
+*
+
+President Ronald Reagan:  "We did not, repeat, did not,
+trade weapons or anything else for hostages nor will we."
+
+re:  Iran-Contra Affair
+
+Meet the Press, Oct. 30, 2005
+
+*
+
+[I deleted Ambassador Wilson's comments on the yellowcake
+uranium, Valerie Plame [his wife] and Judith Miller. 6/9]
+
+
+*PREDICTIONS OF THE WEEK
+
+As I predicted before, Pluto will NOT be eliminated from the list
+of our planets.  My previous prediction was based on the fact the
+planet had a moon, Charon, but with two more now discovered, this
+should be becoming more and more obvious.
+
+National Geographic News, 11/01/05
+
+
+*STRANGE QUOTES OF THE WEEK
+
+"About 10 minutes ago or so, the United States Senate
+has been hijacked by the Democratic leadership!"
+
+[Epithets deleted]
+
+"They have no conviction.  They have no principles.
+They have no ideas. This is a pure stunt."
+
+Most are telling you that operating under Standing Rule XXI
+is never done, but the truth is that it does get used every
+once in a while, the last time in the Reagan election year.
+
+
+Concord Monitor Online - Concord, NH
+
+
+
+*ODD STATISTICS OF THE WEEK
+
+
+The first "Tropical Storm Beta" of recorded history occured this week.
+The 23rd tropical storm of the season, and the 13th hurricane, also a
+new record, plowed into Nicaragua on Halloween, dropping 15" of rain,
+but didn't get much major media coverage.
+
+
+*
+
+Still hoping for more statistical updates and additional entries.
+
+"If we could shrink the earth's population to a village of precisely
+100 people, with all the existing human ratios remaining the same,
+it would look something like the following. There would be:
+
+57 Asians
+21 Europeans
+14 from the Western Hemisphere, both North and South America
+  8 Africans
+  52 would be female
+  48 would be male
+  70 would be non-white
+  30 would be white
+  70 would be non-Christian
+  30 would be Christian
+   6 people  would  possess  59%  of the entire world's wealth
+   and all 6 would be from the United States
+80 would live in substandard housing
+70 would be unable to read
+50 would suffer from malnutrition
+  1 would be near death; 1 would be near birth
+  1 (yes, only 1) would have a college education
+  1 would own a computer [I think this is now much greater]
+  1 would be 79 years old or more.
+
+Of those born today, the life expectancy is only 63 years,
+but no country any longer issues copyrights that are sure
+to expire within that 63 year period.
+
+I would like to bring some of these figures more up to date,
+as obviously if only 1% of 6 billion people owned a computer
+then there would be only 60 million people in the world who
+owned a computer, yet we hear that 3/4 + of the United States
+households have computers, out of over 100 million households.
+Thus obviously that is over 1% of the world population, just in
+the United States.
+
+I just called our local reference librarian and got the number
+of US households from the 2004-5 U.S. Statistical Abstract at:
+111,278,000 as per data from 2003 U.S Census Bureau reports.
+
+If we presume the saturation level of U.S. computer households
+is now around 6/7, or 86%, that is a total of 95.4 million,
+and that's counting just one computer per household, and not
+counting households with more than one, schools, businesses, etc.
+
+I also found some figures that might challenge the literacy rate
+given above, and would like some help researching these and other
+such figures, if anyone is interested.
+
+BTW, while I was doing this research, I came across a statistic
+that said only 10% of the world's population is 60+ years old.
+
+This means that basically 90% of the world's population would
+never benefit from Social Security, even if the wealthy nations
+offered it to them free of charge.  Then I realized that the US
+population has the same kind of age disparity, in which the rich
+live so much longer than the poor, the whites live so much longer
+than the non-whites.  Thus Social Security is paid by all, but is
+distributed more to the upper class whites, not just because they
+can receive more per year, but because they will live more years
+to receive Social Security.  The average poor non-white may never
+receive a dime of Social Security, no matter how much they pay in.
+
+*
+
+POEM OF THE WEEK
+
+
+Negativity
+
+Negativity grows on one's soul
+like ivy on the barren wall
+Making the windows of the eyes
+shadowy and cold
+
+
+Copyright 2005 by Simona Sumanaru and Michael S. Hart
+Please send comments to:  simona_s75 AT yahoo.com & hart AT pobox.com
+
+***
+
+*Information About the Project Gutenberg Mailing Lists
+
+For more information about the Project Gutenberg's mailing lists,
+including the Project Gutenberg Weekly and Monthly Newsletters:
+and the other Project Gutenberg Mailing Lists:
+
+The weekly is sent on Wednesdays, and the monthly is sent on the
+first Wednesday of the month.
+
+To subscribe to any (or to unsubscribe or adjust your subscription
+preferences), visit the Project Gutenberg mailing list server:
+
+http://lists.pglaf.org
+
+If you are having trouble with your subscription, please
+email the list's human administrators at: help@pglaf.org
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_11_02_part_1a.txt" target="_blank" rel="nofollow">pgweekly_2005_11_02_part_1a.txt</a>

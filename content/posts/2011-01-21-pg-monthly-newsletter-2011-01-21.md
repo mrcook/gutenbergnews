@@ -1,0 +1,1811 @@
+---
+params:
+  id: 2591
+title: PG Monthly Newsletter (2011-01-21)
+date: 2011-01-21T17:37:11+00:00
+author: Michael Cook
+layout: post
+url: /20110121/pg-monthly-newsletter-2011-01-21/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Monthly Newsletter--Jan. 21, 2011
+eBooks Readable By Both Humans And Computers Since 1971
+
+If you find errors please send them to errors at pglaf.org
+
+The 40th Year of PG eBooks Started on July 4, 2010!!!!!
+
+
+Downloaded Books as of 2010-12-20
+yesterday         124,464
+last 7 days       852,824
+last 30 days    3,657,360
+
+Downloaded Books as of 2011gi-01-20
+2011-01-20	139316
+last 7 days	991641
+last 30 days	4440451
+
+
+Please note the serious increase!!!
+
+I can only presume this is due to an extraordinary big
+holiday gift giving, and something to expect yearly in
+the near future.
+
+Wow!!!
+
+This Really Is "The Year of the eBook!!!"
+
+
+irro
+PROJECT GUTENERG MILESTONES
+
+We passed 39,500 eBooks today!!!
+
+We just posted our:
+550th eBook in Finnish and 1700th in French
+
+We are just about to post 759th eBook in German,
+and 300th in Spanish, please send in titles you
+would like to see for these!
+
+A month ago we passed our 100th Greek eBook
+and we are already at 122
+
+
+
+
+PROJECT GUTENBERG MAKES THE NEWS WITH OPRAH'S BOOK CLUB
+
+After all these years, Oprah finally made a selection--
+actually a pair of selections--from the public domain:
+
+"A Tale Of Two Cities" and "Great Expectations" both by
+Charles Dickens and available for years from PG and all
+the other eBook distributors who use our materials.
+
+In fact Tale Of Two Cities was one of our first 100 and
+is frequently on our Top 100 Downloads List.
+
+The Associated Press and their subscribers seem to give
+Project Gutenberg some credit for the fact that a sales
+figure for this combined edition by Penguin is not up a
+lot higher than it's current 43rd position.
+
+I don't expect Oprah to make do any more public domain,
+as I think her selections have been more about the cash
+than the materials.  I am evenly split on these two, as
+I hated Great Expectations, loved Tale of Two Cities.
+
+
+
+23 Months to The End of the World Via Mayan Calendaring
+on December 21, 2012 [some now saying October 11, 2011]
+
+Leaving 1 years 11 months, 7 2/3 seasons, or 23 months.
+[OR Leaving 0 years, 9 months, 3 seasons. . ..]
+[All bracketed figures minus 10 days, of course.]
+
+Not to worry, I will still make long range predictions,
+such as that there will be affordable petabytes [2021],
+and enough eBooks to fill an entire petabyte around the
+same time.  Current long range prediction for drives:
+1 petabyte drives in 2025, possibly even in 2022, along
+with 1 terabyte solid state drives [SSDs].  1 petabyte=
+enough storage for every word ever published, 1 billion
+books of 1 million characters each.
+
+&gt;From Jan. 21, 2011 to December 21, 2012 is 23 Months.
+
+Jan 21, 2011 to October 11, 2011 is 10 Months -10 days.
+
+
+
+
+
+PUBLIC DOMAIN DAY IS COMING ON JANUARY 1, 2011
+
+
+Every new year since the first copyrights expired, back
+around 1724, the world has looked forward to expiration
+of copyrights and the public domain availability of the
+works that have been kept under publishing monopolies.
+
+This coming January 1 Europeans will see a nice list of
+great works entering the public domain as the copyright
+terms expire, some listed below, but the United States,
+where their landmark Supreme Court Case decided that an
+extended copyright term could last literally forever, a
+person can no longer look forward to such happenings.
+
+In Europe this year some exampes of copyright expiring:
+
+Freud
+Havelock Ellis
+Zane Grey
+William Butler Yeats
+etc.
+
+These works will now be available for new life breathed
+into them via any number of unauthorized new editions a
+host of publishers and private citizens can now create,
+including new articles, books, TV shows, videos, movies
+and all other forms of media.
+
+Next year many people will ask why the sudden resurgent
+interest in Freud, Ellis, Grey, Yeats, etc. and answers
+will rarely include the fact that these authors weren't
+available for such endeavors before due to copyright.
+
+The media rarely refers to copyright expirations as the
+media feels they are dependent are extended copyrights,
+though it is hard to really expect that even the modern
+Oprah shows of this, her last season, will be of a huge
+interest when or if the copyright expires in 2105.
+
+If you are interested in more information search engine
+efforts should net you any number of sites via a simple
+"public domain day" search.
+
+You will find lists of items entering the public domain
+under various copyright terms in other countries, and a
+different set of lists of WOULD HAVE BEEN in the U.S.:
+
+Waton and Crick's original Nature article on DNA
+Walt Disney's original movie of Peter Pan
+The first James Bond adventure:  Casino Royale
+The first issue of Playboy magazine
+Major works by:
+Ray Bradbury [Fahrenheit 451]
+J.D. Salinger [Nine Stories]
+Agatha Christie [A Pocket Full of Rye]
+C.S. Lewis [The Silver Chair, #4 in the Narnia series]
+James Baldwin [Go Tell It On The Mountain]
+Leon Uris [Battle Cry]
+not to mention great science fiction works by:
+Robert Anson Heinlein
+Isaac Asimov
+Arthur C. Clarke
+
+In addition all of the first HUGO AWARD winners must be
+considered, even though most or all of them were out in
+the year or two before the awards were given in 1953.
+
+WARNING:  Any number of institutions appear to have the
+idea they can take credit for Public Domain Day," and I
+would be somewhat suspect of those claims, as copyright
+expirations have been taking place on January 1 a long,
+long, long time before anyone started celebrating it.
+
+
+However, one point most of the are making that is worth
+the time to pursue is that the public has less and less
+in the way of public domain rights, and not just in the
+way of extensions that make them last longer than a new
+modern day lifetime, but also in those rarely mentioned
+new forms of copyright of items that did not used to be
+in any manner copyrightable, such as sports box scores.
+Now, in my estimation, there isn't any new intellectual
+input required to write box scores, any more than to do
+the making of a telephone book, which has been ruled as
+not copyrightable, so obviously things are changing now
+even more than they already have, to the point where it
+appears nearly everything will be copyrightable.
+
+
+
+
+
+VOLUNTEERS NEEDED OVER NEXT SIX MONTHS!!!
+
+
+We need more volunteers for these projects with about 6
+months to go before our 40th birthday. . . .
+
+My own particular project is proofreading Alice to some
+level of perfection and I'd love it if 100 people would
+read Alice along with me in the next six months!
+
+So far we have a couple proofreading Alice, and we need
+some for Sherlock Holmes and for Pride and Prejudice.
+
+So far we have one volunteer working on each of these.
+
+We need some vol who can use COMP/DIFF related programs
+such as WDIFF, etc., to note differences between eBooks.
+
+
+
+Several Major New Projects Are In The Works. . . .
+
+
+Right now looking for volunteers to fine tooth comb PG
+eBooks of Alice In Wonderland, Through Looking-Glass &
+Hunting Of The Snark for errors!!!  See #7 below.
+
+Also during this last two weeks before the US election
+is the last time for two years you can ask politicians
+about their stance on copyright and possibly get a lot
+more than either silence or "I don't know."
+
+
+
+40th Year Special Projects!!!
+
+
+We have several special projects we will be starting on
+or around July 4, and if you have a project you like to
+work on, why not send us a note and see if we can get a
+team of volunteers to help.
+
+
+Our newest project is to solicit suggestions where this
+project should be in it's 50th year.  Suggestions are:
+
+1.  Make it more obvious that PG wants error messages--
+    how to write them, where to send them, etc.
+
+2.  Make it more obvious that PG will send DVD's so the
+    people who have to pay by the megabyte can use PG.
+
+3.  An extensive library of human read audiobooks.
+
+4.  Please make it more obvious how to do PG eBooks for
+    Kindle, Sony, nook, and other eReaders.
+
+5.  More current books under Creative Commons licenses.
+    More apps for cellphones.  A model to encourage new
+    writers to share their work in the same spirit.
+    Showcase how people who used to be on the bad sides
+    of various digital divides enjoyed and benefitted.
+
+6.  Please add more bookshelves, particularly one to do
+    eBooks from each country and make sure each one has
+    at least one eBook to show how it can be done.
+
+7.  Proofread the Top 100 or so downloaded books to the
+    point where we they approach perfection.
+
+
+So right now I'd like as many volunteers as possible to
+let me know they would like like to proofread Top Tens.
+
+
+
+New Ways To Keep Up With Project Gutenberg
+
+
+Want to keep up with the latest posts to Project Gutenberg?
+There are two ways to do so:
+
+Subscribe to our RSS feed at:
+
+http://www.gutenberg.org/feeds/today.rss
+
+Follow our Twitter feed at:
+
+http://www.twitter.com/gutenbooks
+
+
+
+To receive our latest dual-layered DVD containing nearly
+30,000 eBooks, about the same number of books as average
+U.S. public libraries contain please surf to:
+
+
+http://gutenberg.org/cdproject
+
+
+Only email  cd2010 at pglaf.org  if you have a problem with
+the web-based request form.
+
+
+
+
+More New Projects We Listed Before
+
+
+Pro-Active Information About New Copyright Extensions
+
+
+As many of you know, just 5 years ago or so Australia's
+Parliament voted a resolution to resist those copyright
+extensions that had recently taken place in the US, EU,
+and other locations, but only a few years later tumbled
+into line after a few rounds of economic warfare levied
+upon them by The Mouse or other long copyright holders.
+
+What many of you may not remember is how the copyrights
+were extended in the U.S. in 1998 and 1976 without even
+anything like the publicity in Australia or recently in
+Canada where it appears they might be the first country
+to actually resist such economic warfare efforts.
+
+If you don't think this deserves the term "warfare" and
+that it is really not such, perhaps you should consider
+that the 1998 U.S. Copyright Act was passed at the same
+time as President Clinton's impeachment bill was passed
+and done behind closed doors in a "voice vote" where it
+was not recorded who voted which way.
+
+Many people have asked why President Clinton could have
+been impeached when it would so obviously fail with far
+more votes missing that would have made it interesting.
+
+What they do NOT do is answer that question by listing,
+even with just a short list, the other bills that their
+special interests got passed, hidden behind smokescreen
+politics created by the impeachment.
+
+This is very powerful political maneuvering, and should
+be brought to light, even if it cannot be stopped.
+
+Perhaps there is time enough to shed light on these new
+bills coming up to continue the ad infinitum extensions
+of copyright that have changed the U.S. from having the
+shortest copyright terms to having the longest in those
+89 years from 1909 to 1998 when U.S. copyright extended
+from 42 years maximum with rewnewals to 95 years and no
+renewal required. . .even though 92% of all books would
+never be renewed via the simple paperwork and the small
+nominal fee that was required.
+
+If nothing is done to dissuade Congress from doing this
+The Supreme Court has already given them the power from
+their point of view to extend as long as they want, and
+that makes permanent copyright of Mickey Mouse a given,
+and everything else of that era along with it including
+Winnie The Pooh [1928 and 1926, respectively.]  The new
+current U.S. copyrights already date back to 1923 so it
+is obvious that Disney has the powerful vested interest
+required to keep the lobbying pressure on Congress.
+
+It should be noted that in The Supreme Court case lists
+of Eldred v Ashcroft [originally set as Hart v Reno] it
+was the Disney representative who got the best seats as
+Eric Eldred was confined to the back row as Rosa Parks,
+who won her case, and didn't have to sit in the back of
+the bus, but had to sit in the back of the courtroom.
+
+Hopefully there is time enough and interst enough to do
+something to bring attention to this matter before vote
+time for the next such copyright extension.
+
+If they pass another such extension, the odds are we'll
+have no more public domain books for Project Gutenberg.
+
+[Apologies for any rough spots here, or not enough good
+new materials, Greg and I have been on the road a week,
+and are just getting back into the swing of things.]
+
+
+
+More About The New Volunteer Support Listed Below
+
+
+In our 40th year of Project Gutenberg, we would like to
+provide more alternatives for eBook production and also
+for eBook distribution.
+
+For added eBook production alternatives, we should also
+need some decent supervisors to provide assistance to a
+new type of volunteer group[s], as well as to insure an
+eBook is quite readable upon release.
+
+Obviously our distribution via our web sites or DVDs is
+going to continue, and perhaps our volunteers will have
+an interest in handing out DVDs, as well as pointing to
+our various download sites.
+
+
+
+Improved Support For Our Project Gutenberg Volunteers
+
+
+As a tribute to our volunteers we would like to make an
+extraordinary effort to thank them for all their effort
+over these four decades with a program to make the work
+less onerous and more easy to do.
+
+If you, or anyone you know, has any suggestions, of how
+we can make the work go more smoothly, more easily, and
+improve things for our volunteers in any manner, please
+answer this Newsletter and let us know.
+
+As one particular part of this program I would like for
+us to create a new kind of "Blue-washers" group for the
+specific purpose of helping our volunteers with problem
+areas specific to them.  i.e. some volunteers just have
+one or two specific production areas at which they balk
+at certain procedures that are insisted upon and that's
+all the prevents them from being *perfect volunteers.*
+
+If any of you are willing to help me help them overcome
+such problem areas, I would be extremely grateful!!!
+
+Sometimes these are a simple as helping someone who has
+their margins counted in millimeters instead of inches,
+or who simply can't get their mind quite wrapped around
+certain details our post production people insist upon;
+other times it might just be a language gap where these
+volunteers don't quite have the same command of English
+as those who are trying to teach them.
+
+If you feel you have the ability to make up for some of
+these or other small difficulties that are all the keep
+some of our volunteers from really taking off, you will
+be more than welcome.
+
+
+Thank you so much!!!
+
+
+Michael S. Hart
+Founder
+Project Gutenberg,
+Inventor of eBooks
+
+
+PS  The term "Blue-washers" is a combination of terms:
+
+"Blue Pencil" is the publisher/editor term for comments
+to writers about how to improve various article, essay,
+or even book length submissions.
+
+"Whitewasher" is a term I invented long ago to name the
+people who supported me in my Project Gutenberg efforts
+after I realized I could not continue being the last of
+the editors to see each and every book and to put these
+all online myself after about #4,000.
+
+NB  Two people, including our CEO tried to help me with
+this this for about a month at a time, but each said it
+not something they ever wanted to do again.  So, kudos,
+and plenty of them, to those who are willing to be last
+in the lineup to take the ultimate responsibility of an
+eBook's final content, format and appearance!!!
+
+However we should add that Greg Newby and I have always
+championed the fact that some of our volunteers should/
+would/could be able to have their eBooks published with
+no interference from anyone else, rules or not, with an
+exception for obvious spelling and formatting errors.
+
+We have always had a few such volunteers that we took a
+personal hand in helping through the process, for those
+various reasons listed above, or many others.
+
+We have some who submit perhaps one book per month, and
+others that take a year or longer between books.
+
+Please let me know if you are willing to help.
+
+
+
+Timeline Events
+
+
+As you can see in our Grand Total figures below we have
+just passed 39,500 titles this past month and will have
+40,000 eBooks during our 40th year celebration, 1,000 a
+month over 40 years doesn't sound like much, but we are
+on track right now to do around 4,000 this year.
+
+We are currently giving away about 140,000 books a day,
+just through the one single site:  http://gutenberg.org
+~4.5 million eBooks per month or 40+ million per year!
+
+In 2000 USB flash drives were just getting started with
+8M "IBM Memory Sticks" available for about $60 and also
+16M and 32M size were available.
+
+Today 1,000 times as much memory, 8G, is available from
+over the counter stores for $15.
+
+
+I bought terabye pocket drives over the holidays $99 at .
+
+I just bought a somewhat larger "terabyte pocket drive"
+for $50 over the counter.  Larger is a relative term in
+this case, it's still pocket-sized, but just requires a
+doubly larger pocket and the weight is noticeable and a
+"wall wart" power supply is required, so _I_ should NOT
+think the term "pocket-sized would be appropriate but I
+bought it anyway, sight unseen, due to misunderstanding
+or being misled by the advertizing.
+
+Still, it's no larger and not much heavier than a book,
+and it will hold 2.5 million such books in .zip format.
+
+Think for just a moment about how much a terabyte would
+cost you back in the year 2000, how much power it took,
+and how hard it would be to fill it up.
+
+Google wouldn't even announce its "invention" of eBooks
+for about 5 more years, Project Gutenberg wouldn't have
+10,000 titles for another 2 3/4 years, so just think of
+the changes we have in store by 2020, the next decade.
+
+We should all be considering getting petabytes if we do
+have them already by then, and all of the findable book
+titles that are public domain should have been put into
+at least some eReadable formats, if not most or all.
+
+It should be simple to hold each word ever published, a
+billion books of a million pages each, uncompressed and
+2.5 billion such titles, using compressed formats which
+should be the default by then.
+
+However, the rules will likely have been changed again,
+and perhaps yet again, to stop the public domain and to
+insure that copyright is more and permanent not so much
+for the additional few percent in sales, but mostly for
+the purpose of preserving and protecting:
+
+"The Digital Divide."
+
+
+
+New Project Gutenberg Web Pages
+
+
+Please note TWO new Project Gutenberg web pages below--
+new features, new search engines, etc.  Please test and
+make comments, suggestions, etc.
+
+We have yet another Project Gutenberg Web Page coming!
+
+If you want free new places to put your eBooks just let
+me know!!!
+
+
+
+
+Request:
+
+1894 Dr. Johnson Edition of:
+The Complete Works of Shakespeare collection.
+Missing volumes 2 & 6.  Got all the other volumes for a
+couple dollars at a garage sale, but will pay 20 dollars
+each for for volumes 2 & 6.
+
+
+
+
+
+GENERATION CHANGE
+
+I got a book this week called "Generation Change," that
+lists "150 Ways We Can Change Ourselves, Our Country,
+and Our World."  Most of these 150 items come with some
+suggestion of sites to visit on the Internet.  #1 is:
+
+PROJECT GUTENBERG!!!!!!!
+
+"Generation Change" is available from:
+
+http://www.skyhorsepublishing.com
+
+
+
+
+
+Help create the  "http://m.gutenberg.org"  web pages!!!
+
+We are working on making all our eBooks optimized to do
+their best on iPads, iPhones, iPods, cellphones and PDA
+devices, and to do our web pages to the same degree.
+
+Let us know if you have any of these and can test them,
+or would like to optimize for any other devices.
+
+There are 4.5 billion such devices in the world, versus
+only 1.15 billion computers, and more and more readers,
+in spite of what the pundits say, are surfing, reading,
+and everything else on such mobile devices.
+
+More and more such devices will ONLY surf to "m" sites
+such as "m.gutenberg.org"
+
+
+
+In Our Own News Bin
+
+
+New Project Gutenberg Web Pages
+
+
+We have two new Project Gutenberg web sites up for testing.
+
+I think you will find some interesting additional searching
+and expanded lists of other eBook sites worth trying out:
+
+http://gutenberg.trulymail.comi
+
+
+and another new effort at:
+
+
+http://domainunltd.weebly.com/
+
+Details:
+
+The goal I'm aiming at with this initiative is twofold.
+
+I'd like to provide as much useful information as possible
+about e-books (freely) available on the web, where to find them.
+
+And secondly, to offer people the opportunity to help out,
+producing e-text for PG, in first instance by doing a first
+round of proofreading on texts I deliver.
+
+People who want to do more are welcome to and can count on help
+in going through the process from start to finish.
+
+Experienced proofers who enjoy working on a complete book
+are also very welcome.
+
+Marc D'Hooge
+marcdH at belgium-mail.com
+
+
+
+
+
+
+APPROACHING NEWS. . . .
+
+
+ONGOING U.S. COPYRIGHT EXTENSIONS
+
+U.S. COPYRIGHTS TO BE EXTENDED TO 115 YEARS,
+DECADE BY DECADE FROM THE ORIGINAL 14 YEARS!
+
+THE SUPREME COURT SAYS IT NEVER HAS TO STOP!!!
+
+Suggestions are more than welcome how to publicize this
+upcoming event before it even starts to happen!!!
+
+
+Apparently everyone is keeping silent about the various
+copyright extensions coming up in Canada and the U.S.
+
+In just a few years yet another bill will be introduced
+in the U.S. Congress to extend copyright that has quite
+literally been extended from 14 years to 115 years.
+
+
+
+
+Here's Why We Need To Start Before The Issue Arises!!!
+
+
+
+When the last Australian Copyright Act was discussed in
+Parliament, they passed a resolution stating they would
+NOT extend copyrights.
+
+Really.
+
+However, just three years later, under economic warfare
+from, shall we just say, outside sources, they crumbled
+to the pressure and gave in.
+
+
+The Canadian Parliament is currently in that position--
+and while some tell me they have enough signatures from
+those against any extensions, I will bet you lunch that
+they, too, crumble before it is over.
+
+I would gladly lose every one of those wagers!!!
+
+
+
+Further Information
+
+
+As you may already know, any time the copyrights in the
+characters Winnie the Pooh [1926], or The Mouse [1928],
+start coming close to expiration The U.S. Congress will
+be sure to start a very quiet frenzy of copyright bills
+that are designed to go into effect before anything can
+happen to those two copyrights.
+
+As I understand it, Disney(R) made a huge lobby effort,
+successful, to create the 1976 U.S. Copyright Act; paid
+as a result an additional $200 million for the right to
+another 20 years of Winnie the Pooh, and still made the
+fabled laughing trip to the bank as a result, since the
+effective date of 1978.
+
+As a result I have to imagine their sales of The Mouse,
+Winnie the Pooh, Piglet, etc., must have been predicted
+to be so terribly large as to devour Avatar's gross.
+
+Given that next bill passed right in the middle of what
+must have been the busiest day in Congress for the last
+few decades, the impeachment of President Clinton, this
+means we should expect something of equal secrecy quite
+soon, as the current copyright extension runs out 2018.
+
+Usually they would make an effort to pass the new one a
+session or two early, such as in 2016, but given that a
+snag or two has hit before, we should probably look out
+starting in 2015, though it will be hard to see.
+
+Why?
+
+Even during the election just before the last extension
+I went to ask televised press conference questions on a
+new U.S. Copyright Act I had heard about, but candidate
+responses were uniform. . ."I know nothing."
+
+I would have to expect that even if the big anchors ask
+the same question in 2015 they will get that answer.
+
+Or non-answer.
+
+&gt;From what I have heard there is an ever larger movement
+to keep everything copyrighted permanently, and to make
+all media as pay-per-view as possible, to the points of
+making all broadcast television pay-per-view on a first
+viewing premise [except public stations].
+
+We are very likely to see a dissolving out boundaries--
+cable products showing up on network television and the
+opposite direction as well.
+
+What else CAN we expect when Comcast cable has been the
+allowed buyer of NBC?
+
+If you think programming won't leak over:
+
+Consider what happened when Disney took over ABC.
+
+Not only did Disney flood ABC with their own programmed
+output, but they killed off the best of all cartoons.
+
+Anyone remember Reboot?
+
+
+I can put you in touch with many copyright experts, and
+I fear that all of them underestimate the power working
+to make copyright permanent, in spite of the fact words
+"limited time" are the U.s. Constitution's description.
+
+However, the U.s. Supreme Court decided that limited is
+really unlimited in "Eldred v Ashcroft."
+
+
+
+Welcome To Our Newest PG Mirror. . .In Africa!!!
+
+Continent: Africa
+Nation: Namibia
+Location: Windhoek
+Provider: Polytechnic of Namibia
+Url: http://gutenberg.polytechnic.edu.na
+Url: http://ftp.polytechnic.edu.na/pub/gutenberg
+
+The mirror is updated thrice daily.
+
+
+
+
+PROJECT GUTENBERG TAG CLOUD
+
+We invite interested persons to visit a tag cloud visualization and
+search system at www.bookdownloadlibrary.com
+
+This is updated weekly, from the Project Gutenberg catalog.
+
+
+iPHONE SOUGHT
+
+Project Gutenberg is seeking donation of an iPhone, and perhaps
+other modern cell phones and eBook readers.  We are working on some
+new versions of content at www.gutenberg.org
+
+These need to work, including in Europe , but without having a paid
+cell phone plan.  In other words, they need to be unlocked or
+unlockable.  We are particularly interested in devices that have
+built-in WiFi, so they can access content at www.gutenberg.org
+without using the cellular network at all.
+
+Project Gutenberg is a charitable 501(c)(3) organization in the US.
+
+
+
+Our All Time Hottest Requests!!!!!!!
+
+
+FLASH RAM
+
+
+I am looking for the earliest flash RAM possible.
+
+The ideal piece around which to center this collection is
+one of the 8 megabyte USBs.
+
+The very earliest were PCMCIA cards, such as used for the
+Poqet computer, etc.
+
+The earliest USB flash drives were DisgoDizgo, M-Systems
+and these were OEMed by IBM, HP, etc. They are particular
+in a recognizable fashion because their snapon connectors
+resemble the connectors of jigsaw puzzles.
+
+We received two examples of RAM actually labeled "Flash,"
+for the H-P 95 pocket DOS machine from 1991, and a sample
+of Fairchild bubble memory, as well, from down under.
+
+Thank you, Mate!
+
+
+
+POWERPOINT
+
+
+We need someone who can do PowerPoint illustrations.
+
+One in particular, building a 3-D box of 1,000 dominoes.
+
+
+
+
+
+Additional Newsletter Services
+
+
+In addition, we will provide the PG Canada Newsletter and
+totals from PG of Australia, Europe, PrePrints, etc.
+
+These totals do NOT include 75,000+ at
+
+http://www.gutenberg.cc
+
+Where there are eBooks representing over 100 languages.
+
+
+
+The Project Gutenberg Statistical Report
+[As of about noon Central Daylight Time]
+
+
+
+Various totals from the ~33,000+ at
+
+http://www.gutenberg.org
+
+and our other Project Gutenberg Sites
+
+
+
+Week up to January 21
+
+      day       | cnt
+----------------+-----
+ Fri 2011-01-14 |   7
+ Sat 2011-01-15 |  20
+ Sun 2011-01-16 |   7
+ Mon 2011-01-17 |  11
+ Tue 2011-01-18 |   4
+ Wed 2011-01-19 |   8
+ Thu 2011-01-20 |  11
+
+Weekly total    =  68
+
+
+
+Week up to December 21
+
+
+      day       | cnt
+----------------+-----
+ Tue 2010-12-14 |   7
+ Wed 2010-12-15 |  13
+ Thu 2010-12-16 |  11
+ Fri 2010-12-17 |   1
+ Sat 2010-12-18 |   8
+ Sun 2010-12-19 |  12
+ Mon 2010-12-20 |   8
+
+Weekly total    =  60
+
+
+
+Week up to November 21
+
+
+      day       | cnt
+----------------+-----
+ Sun 2010-11-14 |  14
+ Mon 2010-11-15 |  11
+ Tue 2010-11-16 |  10
+ Wed 2010-11-17 |   9
+ Thu 2010-11-18 |  12
+ Fri 2010-11-19 |   4
+ Sat 2010-11-20 |  11
+
+Weekly total    =  71
+
+
+
+Week up to October 21
+
+
+      day       | cnt
+----------------+-----
+ Thu 2010-10-14 |  10
+ Fri 2010-10-15 |  18
+ Sat 2010-10-16 |  10
+ Sun 2010-10-17 |   9
+ Mon 2010-10-18 |  15
+ Tue 2010-10-19 |  10
+ Wed 2010-10-20 |  10
+
+
+Weekly total    =  77
+
+[Note:  last two months
+were often much lower]
+
+
+Week up to September 21
+
+
+      day       | cnt
+----------------+-----
+ Tue 2010-09-14 |  10
+ Wed 2010-09-15 |   4
+ Thu 2010-09-16 |   7
+ Fri 2010-09-17 |  12
+ Sat 2010-09-18 |   5
+ Sun 2010-09-19 |   7
+ Mon 2010-09-20 |  19
+
+
+Weekly total    =  64
+
+
+
+Week up to August 21
+
+
+      day       | cnt
+----------------+-----
+ Sat 2010-08-14 |   8
+ Sun 2010-08-15 |   9
+ Mon 2010-08-16 |   7
+ Tue 2010-08-17 |   7
+ Wed 2010-08-18 |   7
+ Thu 2010-08-19 |   5
+ Fri 2010-08-20 |   5
+
+
+Weekly total    =  48
+
+[Lots of people on vacation]
+
+
+
+Week up to July 21
+
+
+      day       | cnt
+----------------+-----
+ Wed 2010-07-14 |   9
+ Thu 2010-07-15 |  21
+ Fri 2010-07-16 |   6
+ Sat 2010-07-17 |   6
+ Sun 2010-07-18 |   6
+ Mon 2010-07-19 |   5
+ Tue 2010-07-20 |   9
+
+Weekly total    =  62
+
+
+Week up to June 21
+
+      day       | cnt
+----------------+-----
+ Mon 2010-06-14 |  15
+ Tue 2010-06-15 |  10
+ Wed 2010-06-16 |  17
+ Thu 2010-06-17 |  20
+ Fri 2010-06-18 |  20
+ Sat 2010-06-19 |  17
+ Sun 2010-06-20 |  35
+
+Weekly total    = 134
+
+
+Week up to May  21
+
+      day       | cnt
+----------------+-----
+ Fri 2010-05-14 |   8
+ Sat 2010-05-15 |  20
+ Sun 2010-05-16 |   7
+ Mon 2010-05-17 |   7
+ Tue 2010-05-18 |  12
+ Wed 2010-05-19 |  25
+ Thu 2010-05-20 |  19
+
+Weekly total    =  88
+
+
+week up to Apr. 21
+
+      day       | cnt
+----------------+-----
+ Wed 2010-04-14 |  14
+ Thu 2010-04-15 |  11
+ Fri 2010-04-16 |  12
+ Sat 2010-04-17 |  19
+ Sun 2010-04-18 |  12
+ Mon 2010-04-19 |  19
+ Tue 2010-04-20 |   7
+
+Weekly total    =  94
+
+
+week up to Mar. 21
+
+      day       | cnt
+----------------+-----
+ Sun 2010-03-14 |   9
+ Mon 2010-03-15 |  16
+ Tue 2010-03-16 |  11
+ Wed 2010-03-17 |  12
+ Thu 2010-03-18 |  16
+ Fri 2010-03-19 |   6
+ Sat 2010-03-20 |  11
+
+Weekly total    =  81
+
+
+Week up to Feb. 21
+
+      day       | cnt
+----------------+-----
+ Sun 2010-02-14 |   5
+ Mon 2010-02-15 |  12
+ Tue 2010-02-16 |  10
+ Wed 2010-02-17 |  16
+ Thu 2010-02-18 |  11
+ Fri 2010-02-19 |   4
+ Sat 2010-02-20 |   4
+
+Weekly total    =  62
+
+
+Week up to Jan. 21st:
+
+      day       | cnt
+----------------+-----
+ Thu 2010-01-14 |   8
+ Fri 2010-01-15 |  13
+ Sat 2010-01-16 |  16
+ Sun 2010-01-17 |   8
+ Mon 2010-01-18 |  12
+ Tue 2010-01-19 |   5
+ Wed 2010-01-20 |  11
+
+Weekly total    =  73
+
+
+Previous Month  12/09
+
+
+      day       | cnt
+----------------+-----
+ Mon 2009-12-14 |  11
+ Tue 2009-12-15 |   4
+ Wed 2009-12-16 |   4
+ Thu 2009-12-17 |  10
+ Fri 2009-12-18 |   7
+ Sat 2009-12-19 |   7
+ Sun 2009-12-20 |   9
+
+
+Previous month: 11/09
+
+
+      day       | cnt
+----------------+-----
+ Sat 2009-11-14 |   6
+ Sun 2009-11-15 |   4
+ Mon 2009-11-16 |   6
+ Tue 2009-11-17 |   9
+ Wed 2009-11-18 |   3
+ Thu 2009-11-19 |   6
+ Fri 2009-11-20 |   5
+
+Weekly total    =  39
+
+
+Thanks to Marcello Perathoner for these figures!
+
+
+///
+
+
+Here are the current language totals
+for languages with 100 or more eBooks.
+
+
+Grand total for today: 34931
+
+     1  29295   English en
+     2  1723    French  fr
+     3  730     German  de
+     4  563     Finnish fi
+     5  513     Dutch   nl
+     6  505     Portuguese      pt
+     7  405     Chinese zh
+     8  299     Spanish es
+     9  266     Italian it
+    10  122     Greek   el
+
+
+
+December 21st
+
+
+Grand total for today: 34616
+
+     1  29054   English en
+     2  1709    French  fr
+     3  724     German  de
+     4  551     Finnish fi
+     5  508     Dutch   nl
+     6  494     Portuguese      pt
+     7  405     Chinese zh
+     8  298     Spanish es
+     9  262     Italian it
+    10  110     Greek   el
+
+
+Grand total for today: 34291
+
+
+November 21st
+
+     1  28791   English en
+     2  1685    French  fr
+     3  718     German  de
+     4  544     Finnish fi
+     5  501     Dutch   nl
+     6  488     Portuguese      pt
+     7  405     Chinese zh
+     8  297     Spanish es
+     9  255     Italian it
+    10  108     Greek   el
+
+
+Grand total for today: 33980
+
+
+October 21st
+
+     1  28548   English en
+     2  1664    French  fr
+     3  713     German  de
+     4  540     Finnish fi
+     5  497     Dutch   nl
+     6  473     Portuguese      pt
+     7  405     Chinese zh
+     8  296     Spanish es
+     9  253     Italian it
+    10  102     Greek   el
+
+Grand total for today: 33676
+
+
+September 21st
+
+     1  28304   English en
+     2  1652    French  fr
+     3  706     German  de
+     4  534     Finnish fi
+     5  493     Dutch   nl
+     6  467     Portuguese      pt
+     7  405     Chinese zh
+     8  294     Spanish es
+     9  244     Italian it
+    10  100     Greek   el
+
+
+
+August 21st
+
+     1  28047   English en
+     2  1633    French  fr
+     3  701     German  de
+     4  532     Finnish fi
+     5  487     Dutch   nl
+     6  460     Portuguese      pt
+     7  405     Chinese zh
+     8  292     Spanish es
+     9  244     Italian it
+
+Please note:
+
+    10  97      Greek   el
+
+
+
+July 21st
+
+Grand total for today: 33108
+
+     1  27832   English en
+     2  1617    French  fr
+     3  692     German  de
+     4  531     Finnish fi
+     5  482     Dutch   nl
+     6  456     Portuguese      pt
+     7  405     Chinese zh
+     8  287     Spanish es
+     9  244     Italian it
+
+
+June 21st
+
+Grand total for today: 32841
+
+1  27597   English en
+2  1605    French  fr
+3  685     German  de
+4  529     Finnish fi
+5  481     Dutch   nl
+6  450     Portuguese      pt
+7  405     Chinese zh
+8  287     Spanish es
+9  244     Italian it
+
+
+May 21st
+
+Grand total for today: 32366
+
+1  27176   English en
+2   1598   French  fr
+3    680   German  de
+4    527   Finnish fi
+5    479   Dutch   nl
+6    433   Portuguese      pt
+7    405   Chinese zh
+8    287   Spanish es
+9    242   Italian it
+
+
+
+Apr 21st
+
+Grand total for today: 31975
+
+26832   English en
+1590    French  fr
+674     German  de
+526     Finnish fi
+476     Dutch   nl
+424     Portuguese      pt
+405     Chinese zh
+284     Spanish es
+236     Italian it
+
+N.B.  Portuguese added as many as any other language,
+up to the top two, of course, tied for third.
+
+What do we need to do to get Spanish up and running?
+
+
+
+Mar 21st
+
+
+Grand total for today: 31616
+
+26540   English en
+1568    French  fr
+662     German  de
+524     Finnish fi
+472     Dutch   nl
+410     Portuguese      pt
+405     Chinese zh
+283     Spanish es
+235     Italian it
+
+
+Feb. 21st
+
+
+Grand total for today: 31234
+
+26241   English en
+1557    French  fr
+647     German  de
+521     Finnish fi
+470     Dutch   nl
+405     Chinese zh
+395     Portuguese      pt
+275     Spanish es
+234     Italian it
+
+
+Jan. 21st
+
+Grand total for today: 30935
+
+25995   English en
+1547    French  fr
+628     German  de
+518     Finnish fi
+459     Dutch   nl
+405     Chinese zh
+391     Portuguese      pt
+274     Spanish es
+230     Italian it
+
+
+Compared to the last month:
+
+
+Grand total
+
+25757   English en
+1520    French  fr
+618     German  de
+515     Finnish fi
+453     Dutch   nl
+405     Chinese zh
+376     Portuguese      pt
+270     Spanish es
+220     Italian it
+
+
+
+Compared to previous month's:
+
+
+Grand total for today: 30399
+
+25587   English en
+1498    French  fr
+614     German  de
+515     Finnish fi
+451     Dutch   nl
+404     Chinese zh
+371     Portuguese      pt
+268     Spanish es
+218     Italian it
+
+
+
+Previous increases:
+
++214
++205
++254
++281
++294
++287
+
+
+All Reported Languges
+
+
+Not counting PrePrints, Canada, Australia, PG Europe
+
+
+Thanks to Greg Newby!
+
+
+///
+
+
+&gt;From Project Gutenberg Sites Worldwide
+
+[Don't forget ~75,000 at http://www.gutenberg.cc in .pdf]
+
+
+
+January 21st
+
+Grand total for today:
+
+34,931  up from 34,616   up   315  PG General Automated Count
+ 1,915  -- from  1,915   --     0  PG of Australia
+   756@ up from    749@  up     7@ PG of Europe [REVISED!!!]
+ 2,009  up from  2,009   up     0  PG PrePrints, Reserved
+   701  up from    678   up    18  PG of Canada
+=====
+
+39,556  UP from 39,218   UP   333/334  Grand Total  [Off by 1]
+
+
+
+December 21st
+
+Grand total for today:
+
+34,616  up from 34,291   up   325  PG General Automated Count
+ 1,915  up from  1,890   up    25  PG of Australia
+   749@ up from    742@  up     7@ PG of Europe [REVISED!!!]
+ 2,009  up from  2,009   up     0  PG PrePrints, Reserved
+   678  up from    660   up    18  PG of Canada
+=====
+
+39,218  UP from 38,850   UP   368/368  Grand Total  [Off by 0]
+
+
+
+November 21st
+
+Grand total for today:
+
+34,291  up from 33,980   up   311  PG General Automated Count
+ 1,890  up from  1,890   up     0  PG of Australia
+   749@ up from    736@  up    13@ PG of Europe [REVISED!!!]
+ 2,009  up from  2,009   up     0  PG PrePrints, Reserved
+   660  up from    639   up    21  PG of Canada
+=====
+38,850  UP from 38,518   UP   332  Grand Total  [Off by 0]
+
+
+October 21st
+
+Grand total for today:
+
+33,980  up from 33,676   up   304  PG General Automated Count
+ 1,890  up from  1,871   up    19  PG of Australia
+   736@ up from    728@  up    12@ PG of Europe [REVISED!!!]
+ 2,009  up from  2,009   up     0  PG PrePrints, Reserved
+   639  up from    619   up    20  PG of Canada
+======
+38,518  UP from 38,175   UP   343  Grand Total  [Off by 0]
+
+
+
+September 21st
+
+Grand total for today:
+
+33,676  up from 33,372   up   304  PG General Automated Count
+ 1,871  up from  1,870   up     1  PG of Australia
+   728@ up from    723@  up     5@ PG of Europe [REVISED!!!]
+ 2,009  up from  2,008   up     1  PG PrePrints, Reserved
+   619  up from    598   up    21  PG of Canada
+======
+38,175  UP from 37,848   UP   327  Grand Total
+
+
+@
+Please note we have have been asked to presume all PG Europe
+entries are being included in the top line.  However, I hope
+we will eventually hear this is not the case and grand total
+figures are somewhere in between:
+
+
+
+August 21st
+
+Grand total for today:
+
+33,372  up from 33,108   up   264  PG General Automated Count
+ 1,870  up from  1,866   up     4  PG of Australia
+   723@ up from    719@  up     3@ PG of Europe [REVISED!!!]
+ 2,008    --     2,008   --     0  PG PrePrints, Reserved
+   598  up from    576   up    22  PG of Canada
+======
+37,848  up from 37,588   UP   260  Grand Total
+
+
+Please note we have have been asked to presume all PG Europe
+entries are being included in the top line.  However, I hope
+we will eventually hear this is not the case and grand total
+figures are somewhere in between:
+
+
+This WOULD have appeared as follows under the old system:
+
+38,571  up from 38,277   up   294  Grand Total  [off by 2]
+
+[41 entries are still listed as reserved, and the automated
+count still seems to have missed about 100 completed eBooks
+but I'm leaving both of those out for the moment.]
+
+
+July 21st
+
+Grand total for today:
+
+33,108  up from 32,841   up   257  PG General Automated Count
+ 1,866  up from  1,854   up    12  PG of Australia
+   719@ up from    716   up     3@ PG of Europe [REVISED!!!]
+ 2,008    --     2,008   --     0  PG PrePrints, Reserved [42?]
+   576  up from    558   up    18  PG of Canada
+======
+37,588  DN from 37,977   DN   489  Grand Total
+
+This WOULD have appeared as follows under the old system:
+
+38,277  up from 37,977   up   292  Grand Total  [off by 2]
+
+
+As above:
+
+Please note that the Project Gutenberg of Europe entries have
+apparently all been fed to general Project Gutenberg counting
+systems, though I was originally told they were not due to an
+apparently different copyright system.  However I am told now
+that they all were selected to work under US copyright.
+
+I will continue to research this and make updates.
+
+I think I made an error here, beyone the "off by 2" so if you
+figure this out better, please let me know.
+
+Right now I'm just taking people's word for all this and will
+have to make future updates and announcements, but give these
+weeks included the start of our 40th year, I wanted to made a
+change at this time for recording purposes of this year.
+
+
+
+
+June 21st
+
+Grand total for today:
+
+32,841 up from 32,366   up   475  PG General Automated Count
+ 1,854 up from  1,851   up     3  PG of Australia [Vacation]
+   716 up from    712   up     4  PG of Europe
+ 2,008   --     2,008   --     0  PG PrePrints, Reserved [42?]
+   558 up from    536   up    22  PG of Canada
+======
+37,977 up from 37,473   up   504  Grand Total
+
+
+
+May 21st
+
+Grand totals for today:
+
+
+32,366 up from 31,975   up   391  PG General Automated Count
+ 1,851 up from  1,845   --     5  PG of Australia [Vacation]
+   712 up from    704   up     8  PG of Europe
+ 2,008   --     2,008   --     0  PG PrePrints, Reserved [42?]
+   536 up from    521   up    17  PG of Canada
+======
+37,473 up from 37,053   up   421  Grand Total  [found lost one!]
+
+
+
+
+Apr 21st
+
+Grand totals for today:
+
+31,975 up from 31,616   up   359  PG General Automated Count
+ 1,851 up from  1,845   --     5  PG of Australia [???]
+   704 up from    699   up     5  PG of Europe
+ 2,008   --     2,008   --     0  PG PrePrints, Reserved [42?]
+   521 up from    504   up    17  PG of Canada
+======
+37,054 up from 36,672   up   386  Grand Total  [off by 1, ooops!]
+
+
+700th PGEu eBook Posted!!!
+Serving over 2,000 users in 24 hours.
+
+
+
+Mar 21st
+
+Grand totals for today:
+
+31,616 up from 31,234   up   382  PG General Automated Count
+ 1,845 up from  1,842   up     3  PG of Australia
+   699 up from    684   up    15  PG of Europe
+ 2,008   --     2,008   --     0  PG PrePrints, Reserved [42?]
+   504 up from    486   up    18  PG of Canada
+======
+36,672 up from 36,254   up   418  Grand Total
+
+
+
+Feb 21st
+
+Grand totals for today:
+
+31,234 up from 30,935   up   299  PG General Automated Count
+ 1,842 up from  1,834   up     8  PG of Australia
+   684 up from    680   up     4  PG of Europe
+ 2,008   --     2,008   up     0  PG PrePrints, Reserved [42?]
+   486 up from    462   up    24  PG of Canada
+                                  Posted #400 on October 10
+                                  July: 14 (Title 349 to 362)
+                                  August: 16 (Titles 363 to 378)
+                                  September: 17 (Titles 379 to 395)
+                                  October: 13 (Titles 396 to 408)
+                                  November: 9 [up to November 21]
+                                  December: 19[up to December 21]
+======
+36,254 up from 35,919   up   335
+
+
+Jan 21st
+
+Grand totals for today:
+
+30,935 up from 30,613   up   322  PG General Automated Count
+ 1,834 up from  1,830   up     4  PG of Australia
+   680 up from    664   up    16  PG of Europe
+ 2,008   --     2,008   up     0  PG PrePrints, Reserved [42?]
+   462 up from    436   up    26  PG of Canada
+                                  Posted #400 on October 10
+======
+35,919 up from 35,551   up   368
+
+
+
+Previous month:
+
+35,551   up   240  [Not including Canada's illustrations]
+
+
+35,311   up   235  [Including correcting above estimate by 2]
+
+
+
+Note  There are perhaps 100 eBooks not listed here
+that are already in circulation from Project Gutenberg.
+
+Note  PG Canada includes English, French, and Italian.
+
+
+///
+
+Here is how we ended 2009
+
+
+
+      day       | cnt
+----------------+-----
+ Wed 2009-12-30 |   9
+ Thu 2009-12-31 |  12
+ Fri 2010-01-01 |   6
+ Sat 2010-01-02 |  10
+ Sun 2010-01-03 |   2
+ Mon 2010-01-04 |  21
+ Tue 2010-01-05 |   5
+
+Weekly Total       65
+
+
+
+December 21, 2009
+
+Grand total for today: 30761  from automated in house counter
+
+25866   English en
+1531    French  fr
+625     German  de
+517     Finnish fi
+455     Dutch   nl
+405     Chinese zh
+384     Portuguese      pt
+270     Spanish es
+225     Italian it
+etc.
+
+
+
+30,761  Up 3,145  From  27,616  PG General Automated Count
+ 1,830  Up   104  From   1,726  Project Gutenberg of Australia
+   675  Up   121  From     554  Project Gutenberg of Europe
+   468  Up   243  From     225  Project Gutenberg of Canada [Estimated]
+ 2,008  DN   423  From   2,431   PrePrints [Subtracted 307 Chinese eBooks]
+======   ======
+35,742  Up 3,190  From  32,552   Grand Total [Counting subtractions]
+
+
+  9.825 eBooks Per Day
+ 68.773 eBooks Per Week
+297.850 eBooks Per Month
+
+
+
+
+///
+
+
+Here is how we ended 2008
+
+
+
+27,616   PG General Automated Count
+ 1,726   Project Gutenberg of Australia
+   554   Project Gutenberg of Europe
+   225   Project Gutenberg of Canada [Estimated]
+         [202 up to December, no current report]
+ 2,431   PrePrints [Counting the 307 Chinese eBooks +111]
+======   ======
+32,552   Grand Total [Counting those PrePrints]
+
+
+
+
+Here is how we ended 2007
+
+The combined PG projects had produced a total of 26,161 titles.
+
+
+The most number of books posted...
+ ...in one day was 65 on the 26th December
+ ...in one week was 151 in Week 18 (week ending 9th May)
+ ...in one month was 477 in November
+
+We averaged
+338 per month [Over 4,000 for the year]
+ 78 per week
+ 11.13 per day
+
+99 titles were newly REposted to the new filing system, bringing us almost
+
+to the 2,000 mark.
+
+
+Here is a small selection of project milestones;
+
+100 eBooks in Greek as of September, 2010
+
+TOTAL Original Project Gutenberg eBooks equals about
+the number of books in the average U.S. public library
+  32,500 on 20082121 [Counting the 307 Chinese Preprints]
+                     [And presuming 3 after official count]
+  32,000 on Calculating
+  31,500 on 20081021 [not an error, 1,777 PrePrints]
+  30,000 on 20081021
+  29,500 on 20080919
+  29,000 ~~ Calculating
+  28,500 ~~ Calculating
+  28,000 ~~ 20080516
+  27,500 on 20080405
+  27,000 ~~ 20080229
+  26,500 on 20080126
+  26,000 on 20071224
+  25,000 on 20071012
+  24,000 on 20070710
+  23,000 on 20070415
+
+PG-AU
+  1,700 on 20081010
+  1,600 on 20080208
+  1,500 on 20070407
+
+PG Canada
+  175 on 20080930
+  100 on 20080325
+  110 on 20080417
+
+///
+
+
+Many thanks to all who have helped us reach our 40th year!
+
+
+Michael S. Hart
+Founder
+Project Gutenberg
+</pre>
+
+<a href="/nl_archives/2011/pgmonthly_2011-01-21.txt" target="_blank" rel="nofollow">pgmonthly_2011-01-21.txt</a>

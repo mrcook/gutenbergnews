@@ -1,0 +1,18 @@
+From hart at pglaf.org  Thu Sep 22 08:27:14 2005
+From: hart at pglaf.org (Michael Hart)
+Date: Thu Sep 22 08:27:22 2005
+Subject: [gweekly] Next Newsletter
+Message-ID: <Pine.LNX.4.60.0509220825120.17972@pglaf.org>
+
+
+Disks and controllers on four Prairienet servers are being upgraded.
+These servers will be unavailable at various times next Wednesday,
+September 28th from 8am until work is completed.
+
+Thus I am currently planning to post the Newsletter a day early
+or a day late, either on Tuesday or Thursday, but I may try to
+get it out Wednesday, in between outages.
+
+
+Michael
+

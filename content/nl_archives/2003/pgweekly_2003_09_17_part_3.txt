@@ -1,0 +1,300 @@
+The Project Gutenberg Weekly Newsletter 17th September 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+----------------------------------------------------------------------
+
+NOTE, if you are considering adding a new eBook to the Project
+Gutenberg collection:
+
+Please make sure that any books you want to work on are _not_ already
+in the collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL  (a text file), since the
+online database doesn't reflect recent additions.  Also, please be sure
+to check David Price's "In Progress" list at:
+http://www.dprice48.freeserve.co.uk/GutIP.html
+to ensure no one is currently working on your selection.  It would also
+be helpful if you obtain copyright clearance before mailing the books.
+More information on this can be found in Parts 1 and/or 2 of the
+newsletter.
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 17 Sep 2003:   9,505 (incl. 273 Aus.).
+
+Last week the Total Count was 9,428, including 272 at PG of Australia.
+This week we added 77 new (incl. 1 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+
+The following are being re-indexed to correct the title (adding the
+apostrophe to "Goldsmiths"):
+Sep 2005 Audio: Mark Twain, Goldsmith's Friend Abroad      [mtgfaxxx.mp3] 9022C
+Apr 2002 Goldsmith's Friend Abroad Again, by Twain  [MT#43][mtgfaxxx.xxx] 3191
+
+
+The following is being re-indexed to correct the filename (replacing the
+"8" with a "?" to indicate availability in both 7- & 8-bit formats):
+Sep 2004 Venerable Mother Mary of the Incarnation, by Anon [?vnmmxxx.xxx] 6486
+
+The following is being re-posted correct the filename (?sds2, not ?sds1):
+Oct 2004 Sidonia The Sorceress V2, by William Mienhold     [?sds2xxx.xxx] 6701
+
+
+The following has been re-posted in an updated 12th Edition:
+Jul 2004 Copyright Renewals 1957, US Copyright Office  [#5][r1957xxx.xxx] 6161
+May 1997 The White Company, by Arthur Conan Doyle[Doyle#12][whtcoxxx.xxx]  903
+
+
+The following have been re-posted in improved 11th Editions:
+Apr 2000 Around the World in 80 Days Jr. Ed. by Jules Verne[80dayxxa.xxx] 2154
+Apr 1999 The Vanished Messenger by E. Phillips Oppenheim #4[vmsgrxxx.xxx] 1699
+Apr 1999 Dangerous Days, by Mary Roberts Rinehart [MRR #8] [ddaysxxx.xxx] 1693
+Sep 1998 The Valley of the Moon, by Jack London[London #49][vlymnxxx.xxx] 1449
+Jul 1998 Autobiography of Andrew Dickson White  Volume II  [2aadwxxx.xxx] 1370
+Jan 1998 Penrod and Sam by Booth Tarkington [Tarkington #6][pnrdsxxx.xxx] 1158
+Sep 1997 The New Machiavelli, by H. G. Wells  [Wells #11]  [nmchvxxx.xxx] 1047
+Aug 1997 Bleak House, by Charles Dickens  [Dickens #33]    [blkhsxxx.xxx] 1023
+Jun 1997 The Voyage of the Beagle, by Charles Darwin [#1]  [vbglexxx.xxx]  944
+
+
+
+=-=-=-=[ 76 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Nov 2005 A Night Out, by Edward Peple                      [ntoutxxx.xxx] 9295
+[Also posted: HTML in ntout10h.htm/.zip; one image in ntout10h.zip]
+Nov 2005 Exploring Expedition to the Rockies, by Fremont   [?exprxxx.xxx] 9294
+[Full title: The Exploring Expedition to the Rocky Mountains, Oregon and
+ California]
+[Subtitle: To Which Is Added a Description of the Physical Geography of
+ California, with Recent Notices of the Gold Region from the Latest and Most
+ Authentic Sources]
+[Full author: Brevet Col. J.C. Fremont]
+[Also posted: HTML in 8expr10h.htm/.zip]
+
+
+[The following (#9268-#9293) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Nov 2005 Audio: Early Short Fiction of Edith Wharton       [whrt1xxx.mp3] 9293C
+[Author:  Edith Wharton]
+Nov 2005 Audio: The Valley Of Decision, Edith Wharton      [vldcnxxx.mp3] 9292C
+Nov 2005 Audio: The Reef, Edith Wharton                    [treefxxx.mp3] 9291C
+
+Nov 2005 Audio: Touchstone, Edith Wharton                  [touchxxx.mp3] 9290C
+Nov 2005 Audio: Tales Of Men And Ghosts, Edith Wharton     [tlmghxxx.mp3] 9289C
+Nov 2005 Audio: Ethan Frome, Edith Wharton                 [thnfrxxx.mp3] 9288C
+Nov 2005 Audio: The Glimpses of the Moon, Edith Wharton    [tgotmxxx.mp3] 9287C
+Nov 2005 Audio: The Descent of Man & Other Stories, Wharton[tdmosxxx.mp3] 9286C
+[Author: Edith Wharton]
+
+Nov 2005 Audio: Summer, Edith Wharton                      [summrxxx.mp3] 9285C
+Nov 2005 Audio: Sanctuary, Edith Wharton                   [snctrxxx.mp3] 9284C
+Nov 2005 Audio: Artemis to Actaeon and Other Verses,Wharton[rtmstxxx.mp3] 9283C
+Nov 2005 Audio: Madame de Treymes, Edith Wharton           [mdmdtxxx.mp3] 9282C
+Nov 2005 Audio: The Hermit And The Wild Woman, E. Wharton  [hrmwwxxx.mp3] 9281C
+
+Nov 2005 Audio: House of Mirth, Edith Wharton              [hmirtxxx.mp3] 9280C
+Nov 2005 Audio: Fighting France, Edith Wharton             [fghtnxxx.mp3] 9279C
+Nov 2005 Audio: Bunner Sisters, Edith Wharton              [bunnrxxx.mp3] 9278C
+Nov 2005 Audio: Crucial Instances, Edith Wharton           [7crcixxx.mp3] 9277C
+
+Nov 2005 Audio: Three Sermons, Three Prayers Jonathan Swift[trsm1xxx.mp3] 9276C
+
+Nov 2005 Audio: A Tale of a Tub, Jonathan Swift            [tltb1xxx.mp3] 9275C
+Nov 2005 Audio: The Journal to Stella, Jonathan Swift      [stllaxxx.mp3] 9274C
+Nov 2005 Audio: A Modest Proposal, Jonathan Swift          [mdprpxxx.mp3] 9273C
+Nov 2005 Audio: Gulliver's Travels, Jonathan Swift         [gltrvxxx.mp3] 9272C
+Nov 2005 Audio: The Bickerstaff-Partridge Papers, J. Swift [bstafxxx.mp3] 9271C
+
+Nov 2005 Audio: The Battle of the Books, Jonathan Swift    [batbkxxx.mp3] 9270C
+Nov 2005 Audio: Typee, Herman Melville                     [typeexxx.mp3] 9269C
+Nov 2005 Audio: Omoo, Herman Melville                      [omoosxxx.mp3] 9268C
+
+
+Nov 2005 Chip, of the Flying U, by B. M. Bower        [#13][chpfuxxx.xxx] 9267
+Nov 2005 Scientific American Supplement, No. 447,by Various[?0447xxx.xxx] 9266
+[Title: Scientific American Supplement, Vol. XVIII, No. 447, July 26, 1884]
+[Also posted: illustrated HTML in 8044710h.zip only; HTML in 8044710h.htm]
+
+Nov 2005 Atlantic Monthly, Vol. IV, No. 22, Aug., 1859[#22][?04a2xxx.xxx] 9265
+[Full Title: The Atlantic Monthly, Vol. IV, No. 22, Aug., 1859]
+[Subtitle: A Magazine of Literature, Art, and Politics] [Author: Various]
+Nov 2005 Vand- og stenhoejsplanter, by G.N. Brandt (red.)  [?vastxxx.xxx] 9264
+[Full title: Vand- og stenhoejsplanter en vejledning for havevenner]
+[Language: Danish]
+Nov 2005 In the Midst of Alarms, by Robert Barr            [?mdlrxxx.xxx] 9263
+Nov 2005 Le corricolo, by Alexandre Dumas                  [?lcrrxxx.xxx] 9262
+[Language: French]
+Nov 2005 Les grandes dames, by Arsene Houssaye             [?grdmxxx.xxx] 9261
+[Language: French]
+
+Nov 2005 Prometheus, by Johann Wolfgang Goethe             [?prmtxxx.xxx] 9260
+[Subtitle: Dramatisches Fragment] [Language: German]
+Nov 2005 Charlotte's Inheritance, by M. E. Braddon     [#4][?inhrxxx.xxx] 9259
+
+
+Oct 2005 Klein Zaches, genannt Zinnober,by E.T.A. Hoffmann [?klnzxxx.xxx] 9200
+[Subtitle: Ein Maerchen] [Language: German]
+Oct 2005 Monism, by Ernst Haeckel                      [#4][?monoxxx.xxx] 9199
+[Full title: Monism as Connecting Religion and Science] [Subtitle: A Man of
+Science] [Tranlator: J. Gilchrist]
+Oct 2005 The Complete Angler 1653, by Isaak Walton     [#2][?tcngxxx.xxx] 9198
+(See also #683, a more modern version)
+Oct 2005 English Villages, by P. H. Ditchfield             [?vilgxxx.xxx] 9197
+[Also posted illustrated HTML - 8vilg10h.zip; and 8vilg10h.htm]
+Oct 2005 The Clockmaker, by Thomas Chandler Haliburton [#6][clckmxxa.xxx] 9196
+
+Oct 2005 The Slave Of The Lamp, by Henry Seton Merriman    [?sllpxxx.xxx] 9195
+Oct 2005 The Second Deluge, by Garrett P. Serviss          [?2dlgxxx.xxx] 9194
+Oct 2005 The Angel of Lonesome Hill, by Frederick Landis   [anglhxxx.xxx] 9193
+[Subtitle: A Story Of A President]
+Oct 2005 The Channings:  A Story, by Mrs. Henry Wood       [?chgsxxx.xxx] 9192
+[Author AKA: Ellen Wood]
+
+Oct 2005 Stephen Archer and Other Tales,by George MacDonald[?stchxxx.xxx] 9191
+
+Oct 2005 The Greater Inclination, Edith Wharton            [?grclxxx.xxx] 9190
+Oct 2005 Henry Dunbar, by M. E. Braddon                    [?dunbxxx.xxx] 9189
+[Subtitle: A Novel]
+[Also posted HTML - 8dunb10h.zip and 8dunb10h.htm]
+Oct 2005 Aboriginal American Authors, by Daniel G. Brinton [?abamxxx.xxx] 9188
+[Also posted HTML - 8abam10h.zip and 8abam10h.htm]
+Oct 2005 Minna von Barnhelm, by Gotthold Ephraim Lessing   [?mnbhxxx.xxx] 9187
+[Language: German]
+Oct 2005 Nathan der Weise, by Gotthold Epraim Lessing      [?nthnxxx.xxx] 9186
+[Language: German]
+
+Oct 2005 Mystery of Murray Davenport, by Robert N. Stephens[?murrxxx.xxx] 9185
+[Full author: Robert Neilson Stephens]
+Oct 2005 Spirit of St. Francis de Sales, Jean Pierre Camus [?franxxx.xxx] 9184
+Oct 2005 Wilfrid Cumbermede, by George MacDonald           [?wilfxxx.xxx] 9183
+Oct 2005 Villette, by Charlotte Bronte                 [#4][?villxxx.xxx] 9182
+Oct 2005 Die Ahnfrau, by Franz Grillparzer            [#15][?frauxxx.xxx] 9181
+[Language: German]
+
+Oct 2005 Life Of Johnson, Vol. 3,Boswell, ed. Birkbeck Hill[?jhn3xxx.xxx] 9180
+[Full title: The Life Of Johnson, Volume 3 of 6]
+[Including Boswell's Journal Of A Tour To The Hebrides  And Johnson's
+ Diary Of A Journey Into North Wales]
+Oct 2005 The Bride of the Mistletoe, by James Lane Allen   [?bridxxx.xxx] 9179
+Oct 2005 Japanischer Fruehling, by Hans Bethge             [?jpfrxxx.xxx] 9178
+[Subtitle: Nachdichtungen Japanischer Lyrik] [Language: German]
+Oct 2005 The Royal Game of the Ombre, by Anonymous         [ombrexxx.xxx] 9177
+[Subtitle: Written At the Request of divers Honourable Persons--1665]
+Oct 2005 Queen Mary and Harold, by Alfred Lord Tennyson[#7][mrhldxxx.xxx] 9176
+  Contents:
+    Queen Mary: A Drama
+    Harold: A Drama
+
+Oct 2005 Art Of Poetry An Epistle To The Pisos, by Horace  [?artpxxx.xxx] 9175
+[Subtitle: Q. Horatii Flacci Epistola Ad Pisones, De Arte Poetica]
+[Translated From Horace, with Notes By George Colman--1783]
+[Language: Latin, French and English]
+Oct 2005 Bay State Monthly, Volume 1, Issue 1, by Various  [b0101xxx.xxx] 9174
+[Subtitle: A Massachusetts Magazine of Literature, History, Biography,
+ And State Progress]
+[Also posted illustrated HTML - b010110h.zip;  and b010110h.htm]
+Oct 2005 Youth: Its Education, by G. Stanley Hall          [?yuthxxx.xxx] 9173
+[Full title: Youth: Its Education, Regimen, and Hygiene]
+Oct 2005 Study of Association in Insanity, Grace Helen Kent[?insnxxx.xxx] 9172
+[Additional Author: A.J. Rosanoff]
+Oct 2005 Slavery Ordained of God,by Rev. Fred. A. Ross, D.D[?slavxxx.xxx] 9171
+[Also posted HTML - 8slav10h.zip and 8slav10h.htm]
+
+Oct 2005 Three Cities Trilogy, Complete, by Emile Zola[#36][ztrilxxx.xxx] 9170
+[Includes: Lourdes, #8516; Rome, #8726, and Paris, #9169][3.8 mb]
+Oct 2005 Three Cities Trilogy: Paris, Complete,  Zola [#35][pari6xxx.xxx] 9169
+Oct 2005 Three Cities: Paris, Vol. 5, by Emile Zola   [#34][pari5xxx.xxx] 9168
+Oct 2005 Three Cities: Paris, Vol. 4, by Emile Zola   [#33][pari4xxx.xxx] 9167
+Oct 2005 Three Cities: Paris, Vol. 3, by Emile Zola   [#32][pari3xxx.xxx] 9166
+Oct 2005 Three Cities: Paris, Vol. 2, by Emile Zola   [#31][pari2xxx.xxx] 9165
+Oct 2005 Three Cities: Paris, Vol. 1, by Emile Zola   [#30][pari1xxx.xxx] 9164
+[Full title: The Three Cities Trilogy: Paris]
+
+
+[The following (#9147-#9146) are Computer-generated audio eBooks; each are
+ comprised of multiple .mp3 files, and have corresponding *index.html and
+ *readme.txt files.]
+
+Oct 2005 Audio: Moby Dick, by Herman Melville              [mobyxxxx.mp3] 9147C
+Oct 2005 Audio: I and my Chimney, Herman Melville          [chmnyxxx.mp3] 9146C
+
+
+=-=-=-=[ 1 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Sep 2003 The Autocracy of Mr. Parham, by H G Wells         [030124xx.xxx] 0273A
+[http://gutenberg.net.au/ebooks03/0301241.txt or ZIP]
+[and http://gutenberg.net.au/ebooks03/0301241h.html]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Thierry, Gali, Steve Herber, Michael and Tonya, Greg,
+Michael, and Larry Wall. Entertainment for the workers provided by
+absolutely no-one as my internet connection wasn't working so I
+couldn't get 6music (Dear Santa, for Xmas please can I have a digital
+radio?).
+
+Also,
+
+Outside of a dog, a book is a man's best friend. Inside a dog, it's
+too dark to read. - Groucho Marx

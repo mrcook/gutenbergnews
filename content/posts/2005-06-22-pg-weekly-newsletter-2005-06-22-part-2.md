@@ -1,0 +1,356 @@
+---
+params:
+  id: 2268
+title: "PG Weekly Newsletter: Part 2 (2005-06-22)"
+date: 2005-06-22T11:12:47+00:00
+author: Michael Cook
+layout: post
+url: /20050622/pg-weekly-newsletter-2005-06-22-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 22 Jun 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 35 New U.S. eBooks this week
+    - 10 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 22 Jun 2005: 16518 (incl. 468 Aus.).
+
+Last week the Total Count was 16473, including 458 at PG of Australia.
+This week we added 45 new.
+
+RESERVED/PENDING count: 45
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Fulco de minstreel, by C. Joh Kieviet                                     6748
+   [Subtitle: Een historisch verhaal uit den tijd van Graaf Jan I voor
+    jongelieden]
+   [Language: Dutch]
+   [Updated edition of: etext04/8flcd10.txt]
+   [Link: http://www.gutenberg.org/6/7/4/6748 ]
+   [Files: 6748-8.txt; 6748-h.htm]
+
+Tess of the d'Urbervilles, by Thomas Hardy                                110
+   [Updated edition of: etext94/tess10.txt ]
+   [Link: http://www.gutenberg.org/dirs/1/1/110 ]
+   [Files: 110.txt; 110-8.txt; 110-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+
+-=-=-=-=[  35 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Coleccin de viages y expedicines, by Various                           16105
+   [Full title: Coleccin de viages y expedicines  los campos de Buenos]
+   [Aires y a las costas de Patagonia]
+   [Editor: Pedro de Angelis]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/6/1/0/16105 ]
+   [Files: 16105-8.txt]
+
+American Missionary, Volume 43, No. 4, April, 1889, by Various           16104
+   [Link: http://www.gutenberg.org/1/6/1/0/16104 ]
+   [Files: 16104.txt; 16104-h.htm]
+
+American Missionary, Volume 43, No. 3, March, 1889, by Various           16103
+   [Link: http://www.gutenberg.org/1/6/1/0/16103 ]
+   [Files: 16103.txt; 16103-h.htm]
+
+Reis in Nepal, by Gustave Le  Bon                                        16102
+   [Subtitle: De Aarde en haar volken, 1887]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/6/1/0/16102 ]
+   [Files: 16102-8.txt; 16102-h.htm]
+
+Diane of the Green Van, by Leona Dalrymple                               16101
+   [Link: http://www.gutenberg.org/1/6/1/0/16101 ]
+   [Files: 16101.txt; 16101-8.txt; 16101-h.htm; ]
+
+Marietta, by F. Marion Crawford                                          16100
+   [Subtitle: A Maid of Venice]
+   [Link: http://www.gutenberg.org/1/6/1/0/16100 ]
+   [Files: 16100.txt; 16100-8.txt; 16100-h.htm; ]
+
+Austin and His Friends, by Frederic H. Balfour                           16099
+   [Link: http://www.gutenberg.org/1/6/0/9/16099 ]
+   [Files: 16099.txt; 16099-8.txt; 16099-h.htm; ]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 10, Issue 281 16098
+   [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 10,]
+   [Issue 281, November 3, 1827]
+   [Author: Various]
+   [Link: http://www.gutenberg.org/1/6/0/9/16098 ]
+   [Files: 16098.txt; 16098-8.txt; 16098-h.htm; ]
+
+A Man's Woman, by Frank Norris                                           16096
+   [Link: http://www.gutenberg.org/1/6/0/9/16096 ]
+   [Files: 16096.txt; 16096-8.txt; 16096-h.htm; ]
+
+The Northern Light, by E. Werner                                         16095
+   [Tr.: Mrs. D. M. Lowrey]
+   [E. Werner (1838-1918) is listed in the Library of Congress catalogue as]
+   [a pseudonym (real name not given). Werner was prolific--the LOC catalogue]
+   [has 54 entries.]
+   [Link: http://www.gutenberg.org/1/6/0/9/16095 ]
+   [Files: 16095.txt; 16095-8.txt; 16095-h.htm; ]
+
+For Woman's Love, by Mrs. E. D. E. N. Southworth                         16094
+   [Author AKA: Emma Dorothy Eliza Nevitte Southworth (1819-1899)]
+   [Link: http://www.gutenberg.org/1/6/0/9/16094 ]
+   [Files: 16094.txt; 16094-8.txt; 16094-h.htm; ]
+
+The Eternal Maiden, by T. Everett Harr?                                  16093
+   [Link: http://www.gutenberg.org/1/6/0/9/16093 ]
+   [Files: 16093.txt; 16093-8.txt; ]
+
+The Wharf by the Docks, by Florence Warden                               16092
+   [Subtitle: A Novel]
+   [Link: http://www.gutenberg.org/1/6/0/9/16092 ]
+   [Files: 16092.txt; 16092-8.txt; 16092-h.htm; ]
+
+Dorothy Dale's Camping Days, by Margaret Penrose                         16091
+   [Author AKA: Lilian C. McNamara Garis]
+   [Link: http://www.gutenberg.org/1/6/0/9/16091 ]
+   [Files: 16091.txt; 16091-h.htm; ]
+
+The Exiles and Other Stories, by Richard Harding Davis                   16090
+   [Introduction: Charles Dana Gibson]
+   Contents:
+     The Exiles
+     The Boy Orator of Zepata City
+     The Other Woman
+     On the Fever Ship
+     The Lion and the Unicorn
+     The Last Ride Together
+     Miss Delamar's Understudy
+     The Reporter Who Made Himself King
+   [Link: http://www.gutenberg.org/1/6/0/9/16090 ]
+   [Files: 16090.txt; 16090-8.txt; 16090-h.htm; ]
+
+The War on All Fronts: England's Effort, by Mrs. Humphry Ward            16089
+   [Subtitle: Letters to an American Friend]
+   [Preface: Joseph H. Choate]
+   [Link: http://www.gutenberg.org/1/6/0/8/16089 ]
+   [Files: 16089.txt; 16089-8.txt; 16089-h.htm]
+
+Record of a Quaker Conscience, Cyrus Pringle's Diary, by Cyrus Pringle   16088
+   [Intro.: Rufus M. Jones]
+   [Link: http://www.gutenberg.org/1/6/0/8/16088 ]
+   [Files: 16088.txt; 16088-8.txt; 16088-h.htm]
+
+Atlantic Monthly, Volume 14, No. 84, October, 1864, by Various           16087
+   [Subtitle: A Magazine Of Literature, Art, And Politics]
+   [Link: http://www.gutenberg.org/1/6/0/8/16087 ]
+   [Files: 16087.txt; 16087-8.txt; 16087-h.htm]
+
+The Philippine Islands, 1493-1898, Vol. 19, Ed. by Blair & Robertson     16086
+   [Subtitle: Volume XIX, 1620-1621]
+   [Ed.:  Emma Helen Blair and James Alexander Robertson]
+   [Intro. and Notes: Edward Gaylord Bourne]
+   [Link: http://www.gutenberg.org/1/6/0/8/16086 ]
+   [Files: 16086.txt; 16086-8.txt; 16086-h.htm]
+
+A Voyage in a Balloon, by Jules Verne                                    16085
+   [Intro.: Norman M. Wolcott]
+   [Tr.: Anne T. Wilbur]
+   [Link: http://www.gutenberg.org/1/6/0/8/16085 ]
+   [Files: 16085.txt; 16085-8.txt; 16085-h.htm; ]
+
+American Missionary, Volume 43, No. 2, February, 1889, by Various        16084
+   [Link: http://www.gutenberg.org/1/6/0/8/16084 ]
+   [Files: 16084.txt; 16084-8.txt; 16084-h.htm]
+
+American Missionary, Volume 43, No. 1, January, 1889, by Various         16083
+   [Link: http://www.gutenberg.org/1/6/0/8/16083 ]
+   [Files: 16083.txt; 16083-h.htm]
+
+Angelina, by Rafael Delgado                                              16082
+   [Subtitle: (novela mexicana)]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/6/0/8/16082 ]
+   [Files: 16082-8.txt; 16082-h.htm]
+
+The Anti-Slavery Alphabet, by Anonymous                                  16081
+   [Engraved by Merrihew and Thompson]
+   [Link: http://www.gutenberg.org/1/6/0/8/16081 ]
+   [Files: 16081.txt; 16081-h.htm]
+
+Uncle Max, by Rosa Nouchette Carey                                       16080
+   [Link: http://www.gutenberg.org/1/6/0/8/16080 ]
+   [Files: 16080.txt; 16080-8.txt; 16080-h.htm; ]
+
+Some Old Time Beauties, by Thomson Willing                               16079
+   [Subtitle: After Portraits by the English Masters, with Embellishment
+    and Comment]
+   [Link: http://www.gutenberg.org/1/6/0/7/16079 ]
+   [Files: 16079.txt; 16079-8.txt; 16079-h.htm; ]
+
+The Amateur Army, by Patrick MacGill                                     16078
+   [Link: http://www.gutenberg.org/1/6/0/7/16078 ]
+   [Files: 16078.txt; 16078-8.txt; 16078-h.htm]
+
+Children of the Wild, by Charles G. D. Roberts                           16077
+   [Link: http://www.gutenberg.org/1/6/0/7/16077 ]
+   [Files: 16077.txt; ]
+
+Preaching and Paganism, by Albert Parker Fitch                           16076
+   [Link: http://www.gutenberg.org/1/6/0/7/16076 ]
+   [Files: 16076.txt; 16076-8.txt; 16076-h.htm]
+
+Ratsumies Peter Halket Mashonamaasta, by Olive Schreiner                 16075
+   [Trans.: Aino Malmberg]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/0/7/16075 ]
+   [Files: 16075-8.txt; 16075-h.htm]
+
+The Definite Object, by Jeffery Farnol                                   16074
+   [Subtitle: A Romance of New York]
+   [Link: http://www.gutenberg.org/1/6/0/7/16074 ]
+   [Files: 16074.txt; 16074-8.txt; 16074-h.htm; ]
+
+Wreaths of Friendship, by T. S. Arthur and F. C. Woodworth               16073
+   [Subtitle: A Gift for the Young]
+   [Link: http://www.gutenberg.org/1/6/0/7/16073 ]
+   [Files: 16073.txt; 16073-8.txt; 16073-h.htm; ]
+
+Kuuluisia naisia 1, by Ellen Fries                                       16072
+   [Subtitle: Maria Teresia - Johanna d'Arc]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/0/7/16072 ]
+   [Files: 16072-8.txt]
+
+Fredrika Runeberg, by Aleksandra Gripenberg                              16071
+   [Trans.: Hilda Kkikoski]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/0/7/16071 ]
+   [Files: 16071-8.txt]
+
+The Empire of Austria; Its Rise and Present Power, by John S. C. Abbott  16070
+   [Link: http://www.gutenberg.org/1/6/0/7/16070 ]
+   [Files: 16070.txt; 16070-8.txt; 16070-h.htm; ]
+
+
+-=-=-=-=[ 10 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Jun 2005 The Wanderer, by Kahlil Gibran                    [050063xx.xxx] 0458A
+Jun 2005 Spirits Rebellious, by Kahlil Gibran              [050062xx.xxx] 0457A
+Jun 2005 Sand and Foam, by Kahlil Gibran                   [050061xx.xxx] 0456A
+
+Jun 2005 The Madman, by Kahlil Gibran                      [050060xx.xxx] 0455A
+Jun 2005 Lazarus and his Beloved, by Kahlil Gibran         [050059xx.xxx] 0454A
+Jun 2005 The Garden Of The Prophet, by Kahlil Gibran       [050058xx.xxx] 0453A
+Jun 2005 The Forerunner, by Kahlil Gibran                  [050057xx.xxx] 0452A
+Jun 2005 The Earth Gods, by Kahlil Gibran                  [050056xx.xxx] 0451A
+
+Jun 2005 The Broken Wings, by Kahlil Gibran                [050055xx.xxx] 0450A
+Jun 2005 A Tear and a Smile, by Kahlil Gibran              [050054xx.xxx] 0449A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                        [ This Week's Other Stuff ]
+=============================================================================
+
+
+~ ~ ~
+
+I didn't attend the funeral, but I sent a nice letter saying that I
+approved of it. - Mark Twain
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_06_22_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_06_22_part_2.txt</a>

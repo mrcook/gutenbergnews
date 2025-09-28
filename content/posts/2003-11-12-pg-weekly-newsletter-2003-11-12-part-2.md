@@ -1,0 +1,505 @@
+---
+params:
+  id: 2069
+title: "PG Weekly Newsletter: Part 2 (2003-11-12)"
+date: 2003-11-12T22:05:30+00:00
+author: Michael Cook
+layout: post
+url: /20031112/pg-weekly-newsletter-2003-11-12-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 12th November 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+In this week's Project Gutenberg Weekly Newsletter:
+
+1) Editorial
+2) News
+   Distributed Proofreaders Update
+3) Notes and Queries, Reviews and Features
+4) Mailing list information
+
+
+Editorial
+
+Hello,
+
+Maths. Not a subject you might expect from a newsletter concerned with
+literature I suppose, well, Gali takes a look at both maths and poetry
+this week. I am planning an article on some of the mathematical texts
+we have here at Project Gutenberg in the near future. A useful website
+also comes out of the shadows this week at authorama.
+
+Talking of websites, moves are afoot with the main Project Gutenberg
+website. Expect to find yourself quoting the super snappy
+www.gutenberg.net at people very soon. What! I hear you cry, but that
+was the old address where you couldn't get any up to date
+information. Well, ladies and gentlemen while you have been distracted
+by the perfectly fomed vision of the newsletter these last few weeks,
+many of our hard working troops have been out the back, dragging in
+the scenery and some of the more useful props to improve your website
+reading pleasure. I can't name them all as I don't know them all, and
+some of them wouldn't want to be mentioned anyway - but if you would
+please, a round of applause for the new website.
+
+Happy reading,
+
+Alice
+
+send email to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://ibiblio.org/gutenberg/
+Project Gutenberg Newsletter website: http://ibiblio.org/gutenberg/newsletter
+Radio Gutenberg: http://www.radio-gutenberg.com
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://ibiblio.org/gutenberg/subs.html
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News and Comment
+
+UPI Article
+
+United Press International is this week running a two part story on
+the future of etexts and online reference looking at most of the major
+players in the field including Project Gutenberg.
+
+You can find out more at http://www.upi.com/view.cfm?StoryID=20031110-121313-6810r
+
+Part 2 of the article is at
+http://www.upi.com/view.cfm?StoryID=20031111-112843-9065r
+
+Look out for an article on Project Gutenberg shortly too.
+
+You can find out much more about digital content at http://samvak.tripod.com/busiweb.html
+
+
+Many thanks to Sam Vaknin.
+
+                    -------------------
+
+Authorama Public Domain Books
+
+I would like to let you know about my site, Authorama Public Domain
+Books: http://www.authorama.com
+
+The idea of this site is to bring the "Plain Vanilla ASCII" etexts
+from Project Gutenberg into easily readable and searchable (X)HTML. So
+I spend quite an amount of my spare-time to do the conversions, and
+I've written server-side software to split up the larger HTMLs into
+sub-chapters.
+
+One of my main aims is to make the site accessible to the visitor, as
+well as tools like search-engines. In fact I get 1,000s of visitors
+per day coming from Google! They look for different words, and find my
+site. I didn't know that would happen but that alone is a reward! When
+a Google-user arrives on my Authorama-site, I also try to highlight
+the keywords dynamically. Also, I then provide another book-restricted
+search-facility, by utilizing the Google Web API (a SOAP/ Web Service
+kinda thingie). I then also try to merge it with the Amazon Services
+to display related books.
+
+Finally, I still keep a plain-HTML-one-page version of every book on
+my page, so that when people want to download or print it, they have
+something to go along with.
+
+As a technical detail I deliver the documents as HTML, not XML,
+because that causes some browser-problems. I then add CSS to do the
+styling, and otherwise separate layout from content. That should do
+best on a variety of exotic devices I believe.
+
+
+Philipp Lenssen
+
+                    -------------------
+
+Other news items this week
+
+Newsletter website
+
+Every single newsletter we could find is now available should you wish
+to catch up on any history.
+
+----------------------------
+
+PG/DP Shop
+
+That's all I'm saying, watch this space for more details and start
+saving those monetary units.
+
+                    -------------------
+
+Distributed Proofreaders Update
+
+Traditionally with creative projects development tends to slow down as
+the year draws to a close. This year at PG/DP just the opposite seems
+to be true. As we enter the final fifty days of 2003 we can look
+around us and see vibrant activity in just about every sector of
+production. This is not simply busy work, but solid, quantifiable
+output and significant innovation.
+
+
+At DP attendance remains steady, while the pages proofed continue to
+follow their upward trend of previous weeks and months. One of the
+recent innovations to the proofing process is the implementation of
+theme based releases. This is an initiative which began with the
+commemoration of authors' birthdays. The idea proved so popular that
+with broad support an organized system is coming together that will
+help DP plan and prepare well in advance for significant international
+events and holidays.
+
+The first significant test of this new release method was
+yesterday. In honor of Armistice, Remembrance and Veterans' Day, DP
+ceased the normal release of projects and turned primary proofing
+attention to works associated with the First World War. While the
+services and ceremonies of November 11th have expanded over the
+decades to recognize participants in other conflicts, the origin of
+this memorial day are bound to the ceasing of hostilities in 1918 of
+the initial World War.
+
+Some forty books were provided for proofing yesterday and released in
+a manner that would allow for a world spanning participation across
+all time zones. This extended time of recognition will be continued
+for future days of significance. The support for yesterday's day of
+observance was far beyond anyone's expectations. With no special
+advance notice beyond a one day headline in the DP site news, and no
+stated rally in the forums, yesterday finished proofing as the third
+most productive day in DP's history. That follows only the original
+Slashdot wave of 2002, and the 'Big Climb' of October 31st. At days
+end, over 13,000 pages had been completed.
+
+If you were not able to participate yesterday, but would still like to
+offer your own gesture, there are several titles remaining to be
+proofed. You will find these indicated with red backgrounds to
+symbolize the poppy which has long been associated with Armistice
+Day. These projects will remain distinctive in the rounds until they
+complete proofing.
+
+There are several other events and holidays which will be recognized
+between now and the end of the year. These include the a wide range of
+faith based days, beginning this week and stretching all the way into
+the new year. Also this month are extended recognitions of Native
+American history and culture and Childrens' literature. The latter
+begins with National Children's Book Week, which is November 17-23 in
+the US and November 20, which is Universal Children's Day. We may
+also look forward to several more author birthdays this month.
+
+If you have ideas for theme based days, would like to provide content
+or find some way to participate, go to the Content Providers forum at
+DP. You will see several threads established for collaboration.
+
+In past weeks we have talked about picking up the ongoing exploration
+through the various production phases of DP. The pace and import of
+recent newsworthy events have kept us off the path of our course,
+although we have never strayed too far. While this week's news is also
+abundant we will try to take a closer look at the next stage in our
+journey, that will, time-willing, resume fully next week. A while back
+we took an peek into the Post-production process, and will work our
+way back in the DP family tree to the Pre-production process.
+
+For those readers just tuning into the column, or new to DP, there is
+a decent amount of work involved in getting projects fully prepared
+for the proofreading rounds. When a text appears in the first round of
+proofing it has already been advanced through several steps in the
+development process of being available on Project Gutenberg. To reach
+the stage of proofing readiness a text must first be located in a
+condition that would still be readable off-line. The body of the book
+could be in horrible shape, the cover could be long gone, but the
+pages need to be intact and all present. Most importantly, before any
+other step, it must be ascertained that the book is in fact within the
+public domain. This requires that the title page, preferably with an
+edition number, is scannable accompanied by the verso page, which
+should, but does not always, contain the publishing date and/or
+copyright statement(s).
+
+Once a content provider has viewable images of these two pages, the
+book must be given 'OK' approval for contribution to Project
+Gutenberg. This process does not concern itself with the merit of a
+book's value, only with verifying that the text is legally within the
+public domain by United States laws. There is a form submission tool
+provided by PG which makes the clearance process easy enough for first
+time users. It is located at the following address:
+http://beryl.ils.unc.edu/copy.html  There is further information about
+providing content at the top of this week's newsletter.
+
+Depending upon the number of submissions a clearance should take no
+more than a fewdays to be processed. Before submitting, it is a sound
+practice to check that a book is not already within PG or presently
+under development. The best place to do this is the wondrous golden
+book of PG known affectionately as 'David's List.' This is a regularly
+updated labor of dedication maintained by David Price and is the first
+place to check before submitting a book for clearance. It lives at
+this address on the 'Net: http://www.dprice48.freeserve.co.uk/GutIP.html
+
+If a submission proves to be legal to reproduce, there should be no
+trouble with receiving an 'OK' to proceed. Once a provider has a
+clearance for a book, the real fun begins. In order to generate the
+text required for proofing, a book must first be scanned and the scans
+must be processed with OCR software which produces the raw, first
+draft text of an e-book.
+
+Once this has been completed, the text and images must be processed
+and readied for the DP development system. This stage of production
+has come a long way since DP's first book was produced. Akin to all
+growth and innovations throughout DP, the advances in pre-production
+have made content providing easier to approach, swifter to complete
+and more efficient overall. As with post-production, the contribution
+which has made a profound difference in the quality and speed of
+preparation is the set of text checking and modifying tools which have
+been constructed by members of the DP community.
+
+A full history of the evolution of the tools which are involved in the
+DP process is simply not possible in the space we have. To recognize
+this contribution to Project Gutenberg and to promote the use of these
+tools for independent content developers, the newsletter will be
+adding an evolving feature to the archive. Every week or so there will
+be a profile of one of the tools and a background with useful
+suggestions provided by the developers. A full history of the tools of
+PG/DP will supplement the profiles. It will also be possible to
+download each tool directly from the newsletter archive.
+
+So that's an introduction to the pre-production process which is about
+what we have time and space for this week. More and more, what you
+will be seeing is an expansion of topics and features from the DP
+column covered in-depth on the newsletter's archive site. At present,
+all previous issues of the PG Newsletter are now available for
+viewing, going all the way back to 1989. You can also find a distinct
+section set aside for all editions of the DP column to date. It's
+beginning to look like a new on-line destination to me.
+
+As always, if you have an idea that seems like it may enrich the
+newsletter archive or be of interest to the PG community at large,
+please feel free to suggest it to Alice via the archive site. The same
+holds for any topics that you would like to see explored in future
+issues, feel welcome to suggest them.
+
+To everyone who participated in yesterday's recognition of Armistice day
+and particularly to the content providers who worked overtime to
+prepare texts, a very sincere and earned Thank You!
+
+Until next week...
+
+Thierry Alberto
+
+
+                    -------------------
+
+Radio Gutenberg Update
+
+http://www.radio-gutenberg.org
+
+Two channels of broadcasting are available, but what for the subtle
+change in the web address, that's org not com.
+
+channel 1 - Sherlock Holmes "The Sign of Four"
+channel 2 - Robert Sheckley's "Bad Medicine"
+
+Both are high quality live readings from the collection.
+
+Jon and I are working on a new service for Project Gutenberg
+to create an audio book on demand from any of the 10,000+
+books in the collection.  This service will be available at
+http://www.radio-gutenberg.org shortly.
+
+Anyone needing an audio book of a gutenberg book will be able to
+create it for themselves on the web, right when they have the need
+for it.
+
+We may ask for testers sometime in November.
+
+Mike E
+
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. If you would
+like a weekly version of this list please email news@pglaf.org, and
+state which version you require.
+
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries, Reviews and Features
+
+Math and Poetry ? What a theme of plenty it is!
+
+A wasteland for aimless wanderings and a huge space for speculation -
+Science of emotions and harmony of numbers, mathematicians that wrote
+poetry and poets that proved theorems. Besides a few interesting math
+books were joining their poetic brothers on PG during the past few
+weeks, and the thesis that math and poetry are at their best when
+people are young and the their minds are still clean from the dust of
+unnecessary information? So in order not to play the ambivalent donkey
+of Buridan, I'll close my eyes and pick up a ticket from an old hat ?
+Let me see what is written there:
+
+  The Moving Finger writes, and, having writ,
+  Moves on: nor all thy Piety nor Wit
+  Shall lure it back to cancel half a Line,
+  Nor all thy Tears wash out a Word of it.
+
+Ah, Homer K.M as large as life, though. This brilliant combination of
+inspired mathematician and poetic genius is certainly a good start
+that serves well the cause. The blur of romance and mystery wraps
+round his life in the Near East on the border between 11th and 12th
+centuries A.D and our knowledge about it is based on the legends and
+indirect evidence quite similar to the one of the Bard. His date of
+birth is known precisely from his horoscope, that was deciphered by
+his Indian admirer Swami Govinda Tirtha in 20th century A.D. The
+profession of his father supposed to be a tent maker because the
+literate translation of his name means such.
+
+His closest school friends were the two other famous Persians, the
+politician and reformist Nizam-Al-Mulk and Hassan Sabah the founder of
+the ill-famous Assassin sect, the grandfather of nowadays
+terrorists. He is well known now mostly by his amazing four line
+poems, is an author of fundamental mathematical works most of them we
+written before he turned even 25, including Problems of Arithmetic and
+Treatise on Demonstration of Problems of Algebra, the book of math and
+philosophy, ornamented in words with an oriental splendor - 'By the
+help of God and with His precious assistance, I say that Algebra is a
+scientific art'. May we see the times when its red and gold volume
+will get dusty on the long shelves of PG library!
+
+Let me skip the theory that there were two people with the same name
+living at the same time - one poet and one philosopher and
+mathematicians, since a) it is highly improbable and b) it is not
+suitable for the theme of this piece. It is better to open a new
+browser window and put in the address line
+http://www.ibiblio.org/gutenberg/etext95/rubai10.txt, to enjoy the
+deep philosophical and extremely beautiful verses, born in the mind
+that could structure the chaos in order to create the harmony. Liben
+Damen und Herren, welcome great Ghiyath al-Din Abu'l-Fath Umar ibn Ibrahim Al-Nisaburi al-Khayyami -
+
+And strange to tell, among that Earthen Lot
+ Some could articulate, while others not:
+   And suddenly one more impatient cried--
+ "Who is the Potter, pray, and who the Pot?"
+
+
+P.S. There is another PG item with the Rubayat -
+http://www.ibiblio.org/gutenberg/etext04/rubwi10.txt , which claimed
+to be written by Omar Khayyam's son - O.Kh. Junior. You should learn
+probably the Persian and original Bornese in order to feel the
+difference in the language, that the translator Wallace Irwin is
+talking about.
+
+Few internet pages for biography and work details
+http://www-gap.dcs.st-and.ac.uk/~history/Mathematicians/Khayyam.html
+or
+http://www.okonlife.com/
+
+Gali Sirkis
+                    -------------------
+
+No quiz this week, so time to do a little revising.
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Thierry, Gali, Greg, Michael, Mark and Larry
+Wall. Entertainment for the workers provided by BBC 6Music.
+
+Special hello to Steve Thomas, I hope you managed to read this far and
+glad to know you're there.
+
+---
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_11_12_part_2.txt" target="_blank" rel="nofollow">pgweekly_2003_11_12_part_2.txt</a>

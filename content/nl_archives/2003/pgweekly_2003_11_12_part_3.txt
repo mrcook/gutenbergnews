@@ -1,0 +1,541 @@
+The Project Gutenberg Weekly Newsletter 12th November 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+----------------------------------------------------------------------
+
+-=] ANNOUNCING A MAJOR CHANGE [=-
+
+With the posting of eBook #10001 in November of 2003, a major change in
+eBook filenaming was instituted.  Prior to that, Project Gutenberg eBooks
+were assigned unique base filenames, usually 5 characters; each of those
+files also has a version number, and are arranged by the year they were
+released.
+
+Beginning with #10001, the eBook number is also being used as the base
+filename.  For example, the plain text version of #10010 will have the
+filename 10010.txt; the HTML version would have the filename 10010-h.htm.
+
+Also, with new-style postings, each eBook is posted in a subdirectory based
+on the same number as the eBook number; all of the available formats of each
+eBook will be accessible in that subdirectory.  eBook #10010 will be in
+/1/0/0/1/10010/.  More on this below.
+
+At the present time, the full URL for the test version of #10010 at our main
+PG download site is:
+
+  http://ibiblio.org/gutenberg/1/0/0/1/10010/10010.txt
+
+For the zip of that text:
+
+  http://ibiblio.org/gutenberg/1/0/0/1/10010/10010.zip
+
+To download that zip file via ftp from the main PG download site:
+
+  ftp://ibilio.org/pub/docs/books/gutenberg/1/0/0/1/10010.zip
+
+Usually, however, the easiest way to obtain Project Gutenberg-tm eBooks is
+to start at the main PG search facility:
+
+  http://ibiblio.org/gutenberg/find.shtml
+
+There, you can find eBooks by Title or Author; there is also an advanced
+search facility, where you may be able to find eBooks based on subject, or
+for a particular language.  The main PG database sometimes does not include
+more recent additions, so direct access to the files for downloading is also
+available.
+
+As these processes and procedures are refined over the coming weeks, we will
+keep you updated.
+
+
+--INSTANT ACCESS TO EBOOKS NUMBERED GREATER THAN 10000
+
+eBooks posted since November 2003, with eBooks numbered greater than #10000,
+are filed in a different way.  (Note:  The year of release date is no longer
+part of the directory path.)  Both the filename and directory path are based on
+the eBook number.  For example, the text format of eBook #10010 would be named
+10010.txt.
+
+The path is also based on the etext number, and is made up of single digits
+corresponding to all but the last digit in the filename.  So, if you know
+the number, you know exactly where to find the eBook!
+
+The path for our example, 10010.txt, would be /1/0/0/1/10010/.  Of course,
+the address of the download site would have to be prepended to the path;
+if the main PG site was being used, the full URL, including the filename,
+would be:
+
+  http://ibiblio.org/gutenberg/1/0/0/1/10010/10010.txt
+
+The zip file of the above would be:
+
+  http://ibiblio.org/gutenberg/1/0/0/1/10010/10010.zip
+
+Using the ftp site at iBiblio to obtain the zip:
+
+  ftp://ibiblio.org/pub/docs/books/gutenberg/1/0/0/1/10010/10010.zip
+
+And you can see all the available files for #10010 at
+
+  http://ibiblio.org/gutenberg/1/0/0/1/10010
+
+
+Corrected EDITIONS of these eBooks replace the old file and are then given the
+original filename and etext number. The replaced older file is renamed and
+archived.
+
+New VERSIONS are based on different sources, and are treated as new eBooks,
+to which are assigned new filenames and etext numbers.
+
+File formats other than plain text will have a format-designator appended to
+the filename, as well as an appropriate file extension.  The following list
+indicates the most common formats likely to be found at Project Gutenberg:
+
+  Plain text       12345.txt          12345.zip
+  8-bit text       12345-8.txt        12345-8.zip
+    (Includes: ISO-8859-1, CP-1252, MacRoman)
+  Big-5            12345-5.txt        12345-5.zip
+  Unicode          12345-0.txt        12345-0.zip
+
+  HTML             12345-h.htm        12345-h.zip
+  TeX              12345-t.tex        12345-t.zip
+  XML              12345-x.xml        12345-x.zip
+  MP3              12345-m-###.mp3    12345-m.zip
+  RTF              12345-r.rtf        12345-r.zip
+
+  PDF              12345-pdf.pdf      12345-pdf.zip
+  LIT              12345-lit.lit      12345-lit.zip
+  MS Word Doc      12345-doc.doc      12345-doc.zip
+  PDB              12345-pdb.pdb      12345-pdb.zip
+
+To get to a directory listing you can use either:
+
+  http://ibiblio.org/gutenberg/1/
+    - or -
+  ftp://ibiblio.org/pub/docs/books/gutenberg/1/
+
+. . .navigate down through the subdirectories until you get to the appropriate
+level, and then select the file you wish to download, using your normal
+download procedures.
+
+
+FOR EBOOKS NUMBERED 1 THROUGH 10000:
+
+Use your Web browser or FTP program to visit our master download site (or
+a mirror) if you know the filename and year you want.  For example:
+
+  http://ibiblio.org/gutenberg/etext06
+    - or -
+  ftp://ibiblio.org/pub/docs/books/gutenberg/etext06
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+                              = = = = = = = = = =
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 12 Nov 2003:  10,310 (incl. 291 Aus.).
+
+Last week the Total Count was 10,266, including 290 at PG of Australia.
+This week we added 84 new.(incl. 1 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following has been posted in an updated 11th edition, also in HTML
+format as indicated:
+Aug 2005 American Institutions, by de Tocqueville          [?aminxxx.xxx] 8690
+  [Title: American Institutions and Their Influence]
+  [Author: Alexis de Tocqueville]
+  [Plain text in 7amin11.txt/.zip; 8-bit files in 8amin11.txt/.zip]
+  [HTML in 8amin11h.htm/.zip]
+
+
+The following has been reposted in HTML format as indicated:
+Feb 2006 Letters and Journals, Vol. 2, by Lord Byron       [?blj2xxx.xxx] 9921
+  [Full title: The Works of Lord Byron: Letters and Journals, Volume 2.]
+  [Ed.: Rowland E. Prothero]
+  [HTML version in 8blj210h.htm and 8blj210h.zip]
+
+
+We have posted a 12th edition of the following, also an HTML format:
+Aug 1997 Bleak House, by Charles Dickens                   [blkhsxxx.xxx] 1023
+  [Plain text in blkhs12.txt/.zip; HTML in blkhs12h.htm/.zip]
+
+
+-=-=-=-=[ 83 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+. . .The following three eBooks will be found in the /1/0/0/6/ directory:
+
+The Iron Game, by Henry Francis Keenan                                   10062
+  [Subtitle: A Tale of the War]
+  [Files: 10062.txt; 10062-8.txt]
+
+Les Heures Claires, by Emile Verhaeren                                   10061
+  [Language: French]
+  [Files: 10061.txt; 10061-8.txt]
+
+
+Discourses, by Thomas H. Huxley                                          10060
+  [Subtitle: Biological and Geological Essays]
+  [Files: 10060.txt; 10060-8.txt]
+
+
+. . .The following five eBooks will be found in the /1/0/0/5/ directory:
+
+Aunt Jane's Nieces on Vacation, by Edith Van Dyne                        10059
+  [Files: 10059.txt]
+
+
+La vampire, by Paul H.C. Feval                                           10053
+  [Language: French]
+
+The Open Door, and the Portrait., by Margaret O. (Wilson) Oliphant       10052
+  [Subtitle: Stories of the Seen and the Unseen]
+  [Files: 10052.txt; 10052-8.txt]
+
+Little Pilgrim: Further Experiences., by Margaret O. (Wilson) Oliphant   10051
+  [Subtitle: Stories of the Seen and the Unseen]
+  [Files: 10051.txt]
+
+
+A Little Pilgrim, by Margaret O. (Wilson) Oliphant                       10050
+  [Subtitle: Stories of the Seen and the Unseen]
+  [Files: 10050.txt]
+
+
+. . .The following ten eBooks will be found in the /1/0/0/4/ directory:
+
+Old Lady Mary, by Margaret O. (Wilson) Oliphant                          10049
+  [Subtitle: A Story of the Seen and the Unseen]
+  [Files: 10049.txt]
+
+Billie Bradley and Her Inheritance, by Janet D. Wheeler                  10048
+  [Subtitle: The Queer Homestead at Cherry Corners]
+  [Files: 10048.txt]
+
+Punchinello, Vol. 1, No. 29, October 15, 1870, by Various                10047
+  [Files: 10047.txt; 10047-8.txt; 10047-h.htm with images]
+
+Salute to Adventurers, by John Buchan                                    10046
+  [Files: 10046.txt]
+
+Dave Darrin's Second Year at Annapolis, by H. Irving Hancock             10045
+  [Subtitle: Two Midshipmen as Naval Academy "Youngsters"]
+  [Files: 10045.txt]
+
+The Father of British Canada: A Chronicle of Carleton, by William Wood   10044
+  [Chronicles of Canada, Volume 12 of 32]
+  [Ed.: George M. Wrong and H. H. Langton]
+
+Klondyke Nuggets, by Joseph Ladue                                        10043
+  [Subtitle:A Brief Description of the Great Gold Regions in the Northwest]
+  [Files: 10043.txt; 10043-8.txt]
+
+The Child Under Eight, by E.R. Murray and Henrietta Brown Smith          10042
+  [Files: 10042.txt; 10042-8.txt]
+
+The Rivet in Grandfather's Neck, by James Branch Cabell                  10041
+  [Files: 10041.txt; 10041-8.txt]
+
+
+Alaska Indian Dictionary, by Charles A. Lee                              10040
+  [Subtitle:Aleutian Indian and English Dictionary: Common Words In The
+   Dialects Of The Aleutian Indian Language: As Spoken By The Oogashik,
+   Egashik, Egegik, Anangashuk And Misremie Tribes Around Sulima River
+   And Neighboring Parts Of The Alaska Peninsula]
+  [Files: 10040.txt]
+
+
+. . .The following ten eBooks will be found in the /1/0/0/3/ directory:
+
+The Works of Aphra Behn, Vol. III, by Aphra Behn                         10039
+  [Files: 10039.txt; 10039-8.txt; 10039-h.htm]
+
+The Magnetic North, by Elizabeth Robins (C. E. Raimond)                  10038
+  [Files: 10038.txt; 10038-8.txt; 10038-h.htm with images]
+
+A Beautiful Possibility, by Edith Ferguson Black                         10037
+  [Files: 10037.txt; 10037-8.txt]
+
+Punchinello Vol. 1, No. 28, October 8, 1870, by Various                  10036
+  [[Files: 10036.txt; 10036-8.txt; 10036-h.htm with images]
+
+Punchinello, Vol. 1, No. 27, October 1, 1870, by Various                 10035
+  [Files: 10035.txt; 10035-8.txt; 10035-h.htm with images]
+
+Punchinello, Vol. 1, No. 26, September 24, 1870, by Various              10034
+  [Files: 10034.txt; 10034-8.txt; 10034-h.htm with images]
+
+Punchinello, Vol. 1, No. 25, September 17, 1870, by Various              10033
+  [Files: 10033.txt; 10033-8.txt; 10033-h.htm with images]
+
+Punchinello, Vol. 1, No. 24, September 10, 1870, by Various              10032
+  [Files: 10032.txt; 10032-8.txt; 10032-h.htm with images]
+
+Edgar Allan Poe's Complete Poetical Works, by Edgar Allan Poe            10031
+  [Edited by John H. Ingram]
+  [Files: 10031.txt; 10031-8.txt; 10031-h.htm with images]
+
+The Life of Hon. William F. Cody, by William F. Cody                     10030
+  [Subtitle: Known as Buffalo Bill The Famous Hunter, Scout and Guide]
+  [Files: 10030.txt; 10030-8.txt]
+
+
+. . .The following eight eBooks will be found in the /1/0/0/2/ directory:
+
+The Hunt Ball Mystery, by William Magnay                                 10029
+  [Files: 10029.txt; 10029-8.txt]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 10, Issue 268 10026
+  [Files: 10026.txt; 10026.zip; 10026-8.txt; 10026-8.zip; 10026-h.htm;
+   10026-h.zip]
+
+Gaslight Sonatas, by Fannie  Hurst                                       10025
+  [Files: 10025.txt; 10025-8.txt]
+
+Beneath the Banner, by F. J. Cross                                       10024
+  [Files: 10006.txt; 10006-8.txt]
+
+There's Pippins And Cheese To Come, by Charles S. Brooks                 10023
+  [Files: 10006.txt]
+
+White Queen of the Cannibals: The Story of Mary Slessor,A. J. Bueltmann  10022
+  [Files: 10006.txt; 10006-8.txt]
+
+Tenterhooks, by Ada Leverson                                             10021
+  [Contents:  10021.txt; 10021.zip; 10021-8.txt; 10021-8.zip]
+
+Strand Magazine: Vol. VII, No. 37, by Edited by George Newnes            10020
+  [Title: The Strand Magazine: Volume VII, Issue 37. January, 1894.]
+  [Files: 10020.txt; 10020-8.txt; 10020-h.htm with images]
+
+. . .The following ten ebooks will be found in the /1/0/0/1/ directory:
+
+Punchinello, Vol. 1, No. 22, August 27, 1870, by Various                 10019
+  [Files: 10019.txt; 10019-8.txt; 10019-h.htm with images]
+
+Punchinello, Vol. 1, No. 5,  April 30, 1870, by Various                  10018
+
+Punchinello, Vol. 1, No. 23,  September 3, 1870, by Various              10017
+  [Files: 10017.txt; 10017-8.txt; 10017-h.htm/ with images]
+
+Punchinello Vol. 1, No. 21, August 20, 1870, by Various                  10016
+  [Files: 10016.txt; 10016-8.txt; 10016-h.htm/ with images]
+
+Punchinello, Vol. 1, No. 19, August 6, 1870, by Various                  10015
+  [Files: 10015.txt; 10015-8.txt; 10015-h.htm/ with images]
+
+Punchinello, Vol. 1, No. 18, July 30, 1870, by Various                   10014
+  [Files: 10014.txt; 10014-8.txt; 10014-h.htm/ with images]
+
+Punchinello, Vol. 1, No. 9, May 28, 1870, by Various                     10013
+  [Files: 10013.txt; 10013-8.txt; 10013-h.htm/ with images]
+
+The Mountains of California, by John Muir                                10012
+  [Files: 10012.txt; 10012-8.txt; 10012-h.htm]
+
+365 Foreign Dishes, by Unknown Author                                    10011
+  [Subtitle: A Foreign Dish for every day in the year]
+  [Files: 10011.txt; 10011-8.txt; 10011-h.htm]
+
+
+The Eulogies of Howard, by William Hayley                                10010
+  [Files: 10010.txt; 10010-8.txt; 10010-h.htm]
+
+. . .The following nine eBooks will be found in the /1/0/0/0/ directory:
+
+Wild Northern Scenes, by S. H. Hammond                                   10009
+
+The Mystery, by Stewart Edward White and Samuel Hopkins Adams            10008
+  [Files: 10008.txt; 10008-8.txt; 10008-h.htm with images]
+
+Carmilla, by J. Sheridan LeFanu                                          10007
+  [Files: 10007.txt; 10007-8.txt; 10007-h.htm]
+
+La Fiammetta, by Giovanni Boccaccio                                      10006
+  [Files: 10006.txt; 10006-8.txt; 10006-h.htm]
+
+A Voyage to the Moon, by George Tucker (AKA Joseph Atterley)             10005
+  [Files: 10005.txt; 10005-8.txt]
+
+The Warriors, by Lindsay, Anna Robertson Brown                           10004
+
+My First Years As A Frenchwoman, 1876-1879, by Mary King Waddington      10003
+  [Files: 10003.txt]
+
+The House on the Borderland, by William Hope Hodgson                     10002
+  [Files: 10002.txt; 10002-8.txt; 10002-h.htm]
+
+Apolocyntosis, by Lucius Seneca                                          10001
+  [English Translation By W.H.D. Rouse]
+  [Files: 10001.txt]
+
+
+The files below will be found in /etext06/
+
+Feb 2006 Harriet, The Moses of Her People, by S.H. Bradford[?htubxxx.xxx] 9999
+  [The Story of Harriet Tubman] [Author: Sarah H. Bradford]
+  [Also posted HTML - 8htub10h.zip and 8htub10h.htm]
+
+Feb 2006 Poems, by Matilda Betham                          [?bethxxx.xxx] 9998
+  [Also posted HTML - 8beth10h.zip and 8beth10h.htm]
+
+Feb 2006 France and England in North America, by F. Parkman[?fen3xxx.xxx] 9997
+  [Title: France and England in North America, a Series of Historical
+   Narratives, Part Third]
+  [Subtitle: The Discovery of the Great West]
+  [Author: Francis Parkman]
+
+Feb 2006 'Tis Sixty Years Since, by Charles Francis Adams  [?sxysxxx.xxx] 9996
+  [Also posted HTML - 8sxys10h.zip and 8sxys10h.htm]
+
+Feb 2006 Little Journey to Puerto Rico, by Marian M. George[?prroxxx.xxx] 9995
+  [Subtitle: For Intermediate and Upper Grades]
+
+Feb 2006 Indian Lily and Other Stories,by Hermann Sudermann[?lilyxxx.xxx] 9994
+  [Contents:
+    The Indian Lily
+    The Purpose
+    The Song Of Death
+    The Victim
+    Autumn
+    Merry Folk
+    Thea
+
+Feb 2006 Captivating Mary Carstairs, Henry Sydnor Harrison [?cmcrxxx.xxx] 9993
+
+Feb 2006 Blackwood's Edinburgh Magazine, No. 327,by Various[?b327xxx.xxx] 9992
+  [Also posted HTML - 8b32710h.zip and 8b32710h.htm]
+
+Feb 2006 Ancient Man, by Hendrik Willem Van Loon           [anmanxxx.xxx] 9991
+  [Subtitle: The Beginning of Civilizations]
+  [Also posted Illustrated HTML - anman10h.zip; and anman10h.htm]
+
+
+Feb 2006 Brave and Bold, by Horatio Alger, Jr.             [?boldxxx.xxx] 9990
+  [Subtitle: The Fortunes Of Robert Rushton]
+
+Feb 2006 Bees in Amber, by John Oxenham                    [?beesxxx.xxx] 9989
+  [Subtitle: A Little Book Of Thoughtful Verse]
+
+Feb 2006 Amarilly of Clothes-line Alley, Belle K. Maniates [?amarxxx.xxx] 9988
+
+Feb 2006 Stories by Foreign Authors: Spanish, by Various   [sfaspxxx.xxx] 9987
+  [Contents:
+    The Tall Woman, By Pedro Antonio De Alarcon
+    The White Butterfly, By Jose Selgas
+    The Organist, By Gustavo Adolfo Becquer
+    Moors And Christians, By Pedro Antonio De Alarcon
+    Bread Cast Upon The Waters, By Fernan Caballero
+
+Feb 2006 Wild Kitty, by L. T. Meade                        [?wldkxxx.xxx] 9986
+
+Feb 2006 Pocahontas, by Virginia Carter Castleman          [pocntxxx.xxx] 9985
+  [Poetry]
+
+Feb 2006 Poetical Works of G. MacDonald, V2, by MacDonald  [?pgm2xxx.xxx] 9984
+  [Title: Poetical Works of George MacDonald, Vol. 2]
+
+Feb 2006 Wylder's Hand, by J. Sheridan Le Fanu             [?wyldxxx.xxx] 9983
+
+Feb 2006 Philothea, by Lydia Maria Child                   [?phthxxx.xxx] 9982
+  [Subtitle: A Grecian Romance]
+  [Also posted HTML - 8phth10h.zip and 8phth10h.htm]
+
+
+Feb 2006 Platero Y Yo, by Juan Ramon Jimenez               [?pltrxxx.xxx] 9980
+  [Also posted HTML - 8pltr10h.zip and 8pltr10h.htm]
+  [Language: Spanish]
+
+Feb 2006 De Libris: Prose and Verse, by Austin Dobson      [?dlbrxxx.xxx] 9979
+  [Also posted HTML - 8dlbr10h.zip and 8dlbr10h.htm]
+
+Mar 2006 The Happy Foreigner, by Enid Bagnold              [?hpfrxxx.xxx] 9978
+
+Feb 2006 Berlin--Panorama einer Weltstadt, by Karl Gutzkow [?berlxxx.xxx] 9977
+  [Language: German]
+
+Feb 2006 Hernani, by Victor Hugo                           [?hrnnxxx.xxx] 9976
+  [Language: French]
+
+Feb 2006 Paris War Days, by Charles Inman Barnard          [?prwrxxx.xxx] 9975
+
+Feb 2006 The Yellow Streak, by Williams, Valentine         [?ylstxxx.xxx] 9974
+
+Feb 2006 Yorkshire, by Gordon Home                         [?ykshxxx.xxx] 9973
+
+Feb 2006 Dramatic Works of Gerhart Hauptmann, v2, Hauptmann[?hwk2xxx.xxx] 9972
+  [Author: Gerhart Hauptmann]
+
+Feb 2006 Dramatic Works of Gerhart Hauptmann, V1, Hauptmann[?hwk1xxx.xxx] 9971
+  [Author: Gerhart Hauptmann]
+
+
+=-=-=-=[ ? NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Nov 2003 The Free Fishers, by John Buchan                  [030142xx.xxx] 0291A
+   [http://gutenberg.net.au/ebooks03/0301421.txt or .ZIP and]
+   [http://gutenberg.net.au/ebooks03/0301421h.html]
+
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+In nature, nothing is ever right. Therefore, if everything is going right... 
+SOMETHING IS WRONG. <g>
+
+=============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+---

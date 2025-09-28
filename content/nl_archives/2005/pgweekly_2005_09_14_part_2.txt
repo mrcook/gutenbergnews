@@ -1,0 +1,264 @@
+From news at pglaf.org  Thu Sep 15 21:08:03 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Sep 15 21:08:08 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: <Pine.LNX.4.60.0509152106210.30204@pglaf.org>
+
+GWeekly_September_14_part2.txt
+
+The Project Gutenberg Weekly Newsletter 14 Sep 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 23 New U.S. eBooks this week
+    - 1 New eBooks at Project Gutenberg of Australia
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 14 Sep 2005: 17130 (incl. 481 Aus.).
+
+Last week the Total Count was 17106, including 480 at PG of Australia.
+This week we added 24 new.
+
+RESERVED/PENDING count: 45
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Seraphita, by Honore de Balzac                                            1432
+  [Translator: Katharine Prescott Wormeley]
+  [Updated edition of: etext98/sraph10.txt]
+  [Link: http://www.gutenberg.org/1/4/3/1432 ]
+  [Files: 1432.txt]
+
+Jude the Obscure, by Thomas Hardy                                          153
+   [Updated edition of: etext94/jude11.txt ]
+   [Link: http://www.gutenberg.org/dirs/1/5/153 ]
+   [Files: 153.txt; 153-8.txt; 153-h.htm]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Illustrated HTML added:
+The Skipper and the Skipped, by Holman Day                               16631
+  [Subtitle: Being the Shore Log of Cap'n Aaron Sproul]
+  [Link: http://www.gutenberg.org/1/6/6/3/16631 ]
+  [Files: ; 16631-h.htm]
+
+HTML added:
+Collection of Voyages and Travels, Volume 15, by Robert Kerr             14611
+   [Title: A General History and Collection of Voyages and Travels, Vol. 15]
+   [Link: http://www.gutenberg.org/1/4/6/1/14611 ]
+   [File: 14611-h.htm]
+Collection of Voyages and Travels, Volume 14, by Robert Kerr             13381
+   [Title: A General History and Collection of Voyages and Travels, Vol. 14]
+   [Link: http://www.gutenberg.net/1/3/3/8/13381 ]
+   [File: 13381-h.htm]
+
+
+-=-=-=-=[  23 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Stories to Tell Children, by Sara Cone Bryant                            16693
+   [Subtitle: Fifty-Four Stories With Some Suggestions For Telling]
+   [Link: http://www.gutenberg.org/1/6/6/9/16693 ]
+   [Files: 16693.txt; 16693-8.txt; 16693-h.htm]
+
+Beyond The Rocks, by Elinor Glyn                                         16692
+   [Subtitle: A Love Story]
+   [Link: http://www.gutenberg.org/1/6/6/9/16692 ]
+   [Files: 16692.txt; 16692-8.txt; 16692-h.htm]
+
+Five Months on a German Raider, by Frederic George Trayes                16691
+   [Subtitle: Being the Adventures of an Englishman Captured by the 'Wolf']
+   [Link: http://www.gutenberg.org/1/6/6/9/16691 ]
+   [Files: 16691.txt; 16691-8.txt; 16691-h.htm; ]
+
+Sattumuksia Jnislahdella, by Heikki Merilinen                          16689
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/6/8/16689 ]
+   [Files: 16689-8.txt]
+
+Hymns, Songs, and Fables, for Young People, by Eliza Lee Follen          16688
+   [Link: http://www.gutenberg.org/1/6/6/8/16688 ]
+   [Files: 16688.txt; 16688-h.htm]
+
+Latvasaaren kuninkaan hovilinna, by Alfred Emil Ingman                   16687
+   [Subtitle: Seikkailuja Venjn rajalta]
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/6/8/16687 ]
+   [Files: 16687-8.txt]
+
+Verses for Children, by Juliana Horatia Ewing                            16686
+   [Subtitle: and Songs for Music]
+   [Link: http://www.gutenberg.org/1/6/6/8/16686 ]
+   [Files: 16686.txt; 16686-8.txt; 16686-h.htm]
+
+Private Peat, by Harold R. Peat                                          16685
+   [Link: http://www.gutenberg.org/1/6/6/8/16685 ]
+   [Files: 16685.txt; 16685-8.txt; 16685-h.htm; ]
+
+Punch, or the London Charivari, Vol. 159, July 7th, 1920, by Various     16684
+   [Link: http://www.gutenberg.org/1/6/6/8/16684 ]
+   [Files: 16684.txt; 16684-8.txt; 16684-h.htm]
+
+Secret Bread, by F. Tennyson Jesse                                       16683
+   [Link: http://www.gutenberg.org/1/6/6/8/16683 ]
+   [Files: 16683.txt; 16683-8.txt]
+
+Adrien Leroy, by Charles Garvice                                         16682
+   [Link: http://www.gutenberg.org/1/6/6/8/16682 ]
+   [Files: 16682.txt; 16682-8.txt; 16682-h.htm]
+
+Baby Chatterbox, by Anonymous                                            16681
+   [Link: http://www.gutenberg.org/1/6/6/8/16681 ]
+   [Files: 16681.txt; 16681-h.htm]
+
+The Onlooker, Volume 1, Part 2, by Various                               16680
+   [Editor: Alfred Henry Lewis]
+   [Link: http://www.gutenberg.org/1/6/6/8/16680 ]
+   [Files: 16680.txt; 16680-h.htm]
+
+The History of England, by T.F. Tout                                     16679
+   [Subtitle: From the Accession of Henry III. to the Death of
+    Edward III. (1216-1377)]
+   [Editor: William Hunt and Reginald L. Poole]
+   [Link: http://www.gutenberg.org/1/6/6/7/16679 ]
+   [Files: 16679.txt; 16679-8.txt; 16679-h.htm]
+
+Tieni varrella tapaamia 1, by Maikki Friberg                             16678
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/6/6/7/16678 ]
+   [Files: 16678-8.txt; 16678-h.htm]
+
+The Chink in the Armour, by Marie Belloc Lowndes                         16677
+   [Link: http://www.gutenberg.org/1/6/6/7/16677 ]
+   [Files: 16677.txt; 16677-8.txt; 16677-h.htm]
+
+Eveline Mandeville, by Alvin Addison                                     16676
+   [Subtitle: The Horse Thief Rival]
+   [Link: http://www.gutenberg.org/1/6/6/7/16676 ]
+   [Files: 16676.txt; 16676-h.htm; ]
+
+Tommy Atkins at War, by James Alexander Kilpatrick                       16675
+   [Subtitle: As Told in His Own Letters]
+   [Link: http://www.gutenberg.org/1/6/6/7/16675 ]
+   [Files: 16675.txt; 16675-8.txt; 16675-h.htm; ]
+
+The Pride of Palomar, by Peter B. Kyne                                   16674
+   [Ill.: H. R. Ballinger and Dean Cornwell]
+   [Link: http://www.gutenberg.org/1/6/6/7/16674 ]
+   [Files: 16674.txt; 16674-8.txt; 16674-h.htm; ]
+
+Punch, or the London Charivari, Vol. 159, September 29th, 1920, Various  16673
+   [Link: http://www.gutenberg.org/1/6/6/7/16673 ]
+   [Files: 16673.txt; 16673-8.txt; 16673-h.htm]
+
+The Last Journals of David Livingstone, Vol. I, by David Livingstone     16672
+   [Title: The Last Journals of David Livingstone, in Central Africa, from]
+    1865 to His Death, Volume I (of 2)]
+   [Editor: Horace Waller]
+   [Link: http://www.gutenberg.org/1/6/6/7/16672 ]
+   [Files: 16672.txt; 16672-8.txt; 16672-h.htm; ]
+
+Scientific American Supplement, No. 643,  April 28, 1888, by Various     16671
+   [Link: http://www.gutenberg.org/1/6/6/7/16671 ]
+   [Files: 16671.txt; 16671-8.txt; 16671-h.htm]
+
+La Catedral, by Vicente Blasco Ibanez                                    16670
+     [Language: Spanish]
+     [Link: http://www.gutenberg.org/1/6/6/7/16670 ]
+     [Files: 16670-8.txt; 16670-h.htm]
+
+
+-=-=-=-=[ 1 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Sep 2005 A White Bird Flying, by Bess Streeter Aldrich     [050086xx.xxx] 0481A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+

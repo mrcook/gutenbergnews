@@ -1,0 +1,109 @@
+PG NEWSLETTER DECEMBER 1996
+
+BOOK #750 RELEASED! 
+
+Please send your feedback directly to
+Michael S. Hart hart@pobox.com
+
+This is not the newsletter as it was sent out to subscribers, but it is the contents. If you have a copy of the actual newsletter, we would be grateful to receive a copy for the archive.
+
+
+Books Index update from #737 to #750.
+
+As has been the case for several years now, I try to publish something of
+particular interest on the anniversary of the death of my father.
+
+I have received permission to dedicate Project Gutenberg Etext #750 to Professor
+H. H. Hart, today, December 10, 1996 on the 7th anniversary of his death.
+He was instrumental in bringing Project Gutenberg to an even wider audience
+than I could have.
+
+Thanks Dad! The High History of the Holy Graal is for you. . .
+
+Michael
+
+
+You can get the Project Gutenberg books via FTP and the Web:
+
+[This site is in Urbana, Illinois, and is quite fast]
+ftp
+uiarchive.cso.uiuc.edu
+or ftp
+128.174.5.14
+login: anonymous
+password: yourname@your.machine
+cd pub
+cd etext
+cd gutenberg
+cd etext96 [or 95, 94, 93, 92, 91 or 90. 70's and 80's are in /etext90]
+get filename (be sure to set bin, if you get the .zip files)
+get more files
+quit 
+get INDEX?00.GUT ? = 1,2,4,8 New files in etext96, of course.
+
+[This is usually the first site they appear in, but is slow]
+[This site is in Champaign, Illinois]
+ftp
+ftp.prairienet.org
+or ftp
+192.17.3.4
+username: anonymous
+password: yourlogin@your.machine.domain
+[this is your email address where you are]
+cd pub/providers/gutenberg/etext96 [etc, as above]
+ls or dir for a listing of files
+get filename.txt (ascii files)
+get filename.zip (binary zipped files)
+
+be sure to type "binary" before retrieving the .zip files!
+
+In Europe, please try our newest site at:
+Bucharest High School of Computer Science
+Serving Central and Eastern Europe
+ftp://ftp.lbi.ro/pub/Books/Gutenberg
+
+Also try:
+
+http://gutenberg.etext.org
+
+Please let me know if you need more information.
+
+Michael Stern Hart
+Executive Director
+Project Gutenberg
+
+We need your donations desperately.
+Please send what you can to:
+Project Gutenberg
+P.O. Box 2782<BR>
+Champaign, IL 61825-2782 USA
+
+[Check should be made out to "Project Gutenberg/BU"]
+
+Thanks!
+
+Michael S. Hart
+				
+	
+ Mon Year Title and Author [# of PG books by the author]    [filename.ext] ###
+
+ A "C" following the Etext number indicates a copyrighted work.
+
+ Dec 1996 The High History of the Holy Graal, Author Unknown[hhohgxxx.xxx] 750
+ Dec 1996 Barlaam and Ioasaph, by St. John of Damascus      [bioasxxx.xxx] 749
+
+ Dec 1996 The Brother of Daphne, by Dornford Yates          [bdaphxxx.xxx] 748
+ Dec 1996 Anomalies and Curiosities of Medicine, Gould/Pyle [aacomxxx.xxx] 747
+ Dec 1996 Burning Daylight, by Jack London [Jack London #5] [bdlitxxx.xxx] 746
+ Dec 1996 One Divided by Pi, To A Million Digits [math #17] [onepixxx.xxx] 745
+
+ Dec 1996 The Golden Mean, To A Million Digits  [math #16]  [gmeanxxx.xxx] 744
+ Dec 1996 Thoughts on Man, His Nature, etc, by Wm Godwin    [tmnwgxxx.xxx] 743
+ Dec 1996 Editorials from the Hearst Newspapers by Brisbane [ehnabxxx.xxx] 742
+ Dec 1996 Thomas Hart Benton's Remarks to the Senate THB#1] [thbrsxxx.xxx] 741
+
+ Dec 1996 John C. Calhoun's Remarks in the Senate[Calhoun1#][jccrsxxx.xxx] 740
+ Dec 1996 Henry Clay's Remarks in House and Senate [Clay #1][hcrhsxxx.xxx] 739
+ Dec 1996 The Puzzle of Dickens's Last Plot by Andrew Lang#5[pldlpxxx.xxx] 738
+ Dec 1996 The Bobbsey Twins at School, by Laura Lee Hope #2?[tbtasxxx.xxx] 737
+

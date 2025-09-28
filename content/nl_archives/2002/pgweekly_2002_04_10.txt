@@ -1,0 +1,672 @@
+PGWeekly_April_10_2002.txt
+
+
+  **The Project Gutenberg Weekly Newsletter For Wednesday, April 10, 2002**
+  *eBooks Readable By Both Humans and Computers, Since Before The Internet*
+
+
+  ***Announcing Project Gutenberg's 5,000th eBook, by Leonardo da Vinci***
+
+     This Also Marks The 20,000th Entry In The Internet Public Library!
+
+   See The IPL's Online Texts Collection (http://www.ipl.org/reading/books/)
+          [It may take them a few days to to add these new listings]
+
+Jan 2004 The Notebooks of Leonardo Da Vinci, Complete  [#3][?ldvcxxx.xxx]5000
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 2  [#2][?ldv2xxx.xxx]4999
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 1  [#1][?ldv1xxx.xxx]4998
+[These are available both with and without high-bit accented chararcter, and
+will be also be available shortly in illustrated versions, more below.]
+
+
+          It Took 30 *YEARS* To Do Our First 5,000 eBooks
+
+   I'm Betting It Won't Take 30 *MONTHS* To Do The NEXT 5,000!!!
+
+
+
+1,660   New eBooks In The Last Year!!!
+3,371   eBooks This Week Last Year
+5,031   Tree-Friendly Titles Now Online!!!   <<<
+
+  130   New This Week!!!
+   53   Weekly Average This Year!!!
+  130   New This Month!!!
+  739   New This Year!!!
+   12   New This Week Last Year
+
+   60   eBooks From Project Gutenberg of Australia
+   53   *Reserved* Numbers!!! [Cut in half from last year!]
+   28   Newly Reserved, Coming Out Shortly
+
+
+Today Is The 100th Day of 2002:  We Have Published 739 Ebooks This Year!
+
+         It Took From 1971 to 1996 To Do The First 739. . . .
+
+
+Never, On The Field Of The Humanities, Have So Many Owed So Much To So Few
+
+And I owe more to the Project Gutenberg Volunteers than does anyone!
+
+My *HUGE* THANKS. . .to each and every one of our volunteers!!!!!!!
+
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance From Our Volunteers
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly etext update:
+  2 New eBooks from PG of Australia
+  Updates/corrections
+  128 Other New eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+
+- Information About Mirror Sites
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new Etext number.
+
+Please note the following various changes, corrections and improvements:
+
+The following etext was inadvertently left out of last week's udpate:
+Jan 2004 Entire 1555-84 The Dutch Republic,  by Motley[#36][jm36vxxx.xxx]4836
+[Full Title: The Rise of the Dutch Republic] [Author: John Lothrop Motley]
+[Includes Complete Set of Motley Etexts #4801-4835]
+
+The filename for etext #3803 has been corrected, from:
+Mar 2003 File No. 113, by Emile Gaboriau[Emile Gaboriau#10][vltrsxxx.xxx]3803
+to:
+Mar 2003 File No. 113, by Emile Gaboriau[Emile Gaboriau#10][no1130xx.xxx]3803
+
+The following listing has been corrected to reflect series info:
+Jan 2004 Love, The Fiddler, by Lloyd Osbourne  [Osbourne#4][lvtfdxxx.xxx]4948
+
+
+The following listing has been changed from:
+Jan 2004 Hudibras, by Samuel Butler             [Butler#11][hdbrsxxx.xxx]4937
+to correctly reflect the actual author:
+Jan 2004 Hudibras, by Samuel Butler                        [hdbrsxxx.xxx]4937
+[Author is Samuel Butler, 1612-1680; different than Samuel Butler 1835-1902]
+
+Dec 2003 The Fiend's Delight, Dod Grile [Ambrose Bierce #9][thfndxxx.xxx]4793
+[Note:  Dod Grile is a pen name for Ambrose Bierce]
+
+
+The following previously posted listings have re-indexed filenames:
+[Sorry, we accidently let some duplicate filenames slip by. . . .]
+
+Jan 2004 Entire 1584-86 United Netherlands,  by Motley[#47][jm47vxxx.xxx]4847
+(Includes Etexts #4837-#4846)
+Jan 2004 History United Netherlands, 1586b   by Motley[#46][jm46vxxx.xxx]4846
+
+Jan 2004 History United Netherlands, 1586a   by Motley[#45][jm45vxxx.xxx]4845
+Jan 2004 History United Netherlands, 1585-86 by Motley[#44][jm44vxxx.xxx]4844
+Jan 2004 History United Netherlands, 1585e   by Motley[#43][jm43vxxx.xxx]4843
+Jan 2004 History United Netherlands, 1585d   by Motley[#42][jm42vxxx.xxx]4842
+Jan 2004 History United Netherlands, 1585c   by Motley[#41][jm41vxxx.xxx]4841
+
+Jan 2004 History United Netherlands, 1585b   by Motley[#40][jm40vxxx.xxx]4840
+Jan 2004 History United Netherlands, 1585a   by Motley[#39][jm39vxxx.xxx]4839
+Jan 2004 History United Netherlands, 1584-85 by Motley[#38][jm38vxxx.xxx]4838
+Jan 2004 History United Netherlands, 1584    by Motley[#37][jm37vxxx.xxx]4837
+Jan 2004 Entire 1555-84 The Dutch Republic,  by Motley[#36][jm36vxxx.xxx]4836
+(Includes Etexts #4801-4835)
+
+Jan 2004 Entire 1574-84 The Dutch Republic,  by Motley[#35][jm35vxxx.xxx]4835
+(Includes Etext #4824-#4834.)
+Jan 2004 Rise of the Dutch Republic, 1582-84 by Motley[#34][jm34vxxx.xxx]4834
+Jan 2004 Rise of the Dutch Republic, 1580-82 by Motley[#33][jm33vxxx.xxx]4833
+Jan 2004 Rise of the Dutch Republic, 1579-80 by Motley[#32][jm32vxxx.xxx]4832
+Jan 2004 Rise of the Dutch Republic, 1578b   by Motley[#31][jm31vxxx.xxx]4831
+
+Jan 2004 Rise of the Dutch Republic, 1578a   by Motley[#30][jm30vxxx.xxx]4830
+Jan 2004 Rise of the Dutch Republic, 1577-78 by Motley[#29][jm29vxxx.xxx]4829
+Jan 2004 Rise of the Dutch Republic, 1577b   by Motley[#28][jm28vxxx.xxx]4828
+Jan 2004 Rise of the Dutch Republic, 1577a   by Motley[#27][jm27vxxx.xxx]4827
+Jan 2004 Rise of the Dutch Republic, 1576-77 by Motley[#26][jm26vxxx.xxx]4826
+
+Jan 2004 Rise of the Dutch Republic, 1576    by Motley[#25][jm25vxxx.xxx]4825
+Jan 2004 Rise of the Dutch Republic, 1574-76 by Motley[#24][jm24vxxx.xxx]4824
+Jan 2004 Entire 1566-74 The Dutch Republic,  by Motley[#23][jm23vxxx.xxx]4823
+(Includes Etexts #4812-4822)
+Jan 2004 Rise of the Dutch Republic, 1573-74 by Motley[#22][jm22vxxx.xxx]4822
+Jan 2004 Rise of the Dutch Republic, 1573    by Motley[#21][jm21vxxx.xxx]4821
+
+Jan 2004 Rise of the Dutch Republic, 1572-73 by Motley[#20][jm20vxxx.xxx]4820
+Jan 2004 Rise of the Dutch Republic, 1572    by Motley[#19][jm19vxxx.xxx]4819
+Jan 2004 Rise of the Dutch Republic, 1570-72 by Motley[#18][jm18vxxx.xxx]4818
+Jan 2004 Rise of the Dutch Republic, 1569-70 by Motley[#17][jm17vxxx.xxx]4817
+Jan 2004 Rise of the Dutch Republic, 1568b   by Motley[#16][jm16vxxx.xxx]4816
+
+Jan 2004 Rise of the Dutch Republic, 1568a   by Motley[#15][jm15vxxx.xxx]4815
+Jan 2004 Rise of the Dutch Republic, 1567b   by Motley[#14][jm14vxxx.xxx]4814
+Jan 2004 Rise of the Dutch Republic, 1567a   by Motley[#13][jm13vxxx.xxx]4813
+Jan 2004 Rise of the Dutch Republic, 1566b   by Motley[#12][jm12vxxx.xxx]4812
+Jan 2004 Entire 1555-66 The Dutch Republic,  by Motley[#11][jm11vxxx.xxx]4811
+(Includes Etext #4801-4810)
+
+Jan 2004 Rise of the Dutch Republic, 1566a   by Motley[#10][jm10vxxx.xxx]4810
+Jan 2004 Rise of the Dutch Republic, 1564-65 by Motley [#9][jm09vxxx.xxx]4809
+Jan 2004 Rise of the Dutch Republic, 1563-64 by Motley [#8][jm08vxxx.xxx]4808
+Jan 2004 Rise of the Dutch Republic, 1561-62 by Motley [#7][jm07vxxx.xxx]4807
+Jan 2004 Rise of the Dutch Republic, 1560-61 by Motley [#6][jm06vxxx.xxx]4806
+
+Jan 2004 Rise of the Dutch Republic, 1559-60 by Motley [#5][jm05vxxx.xxx]4805
+Jan 2004 Rise of the Dutch Republic, 1555-59 by Motley [#4][jm04vxxx.xxx]4804
+Jan 2004 Rise of the Dutch Republic, 1555    by Motley [#3][jm03vxxx.xxx]4803
+Jan 2004 Dutch Republic, Introduction II.    by Motley [#2][jm02vxxx.xxx]4802
+Jan 2004 Dutch Republic, Introduction  I.    by Motley [#1][jm01vxxx.xxx]4801
+
+
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+***] 2 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Apr 2002 The Middle Parts of Fortune, by F Manning  [FM#01][020026xx.xxx]0060A
+[http://gutenberg.net.au/0200261.txt or .ZIP]
+[Author's full name: Frederic Manning]
+Apr 2002 Nutrition and Physical Degeneration, Price [WP#01][0200251h.zip]0059A
+[http://gutenberg.net.au/0200251h.zip ZIP only]
+[Author's full name: Weston A Price]
+
+Etexts are held in TXT and/or ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+
+
+***] 128 NEW U.S. POSTS [***
+
+Feb 2004 The Morals of Marcus Ordeyne, by W. Locke[Locke#4][mmarcxxx.xxx]5051
+[Author's Full Name: William J. Locke]
+
+Feb 2004 Complete State of the Union Addresses             [suallxxx.xxx]5050
+[Subtitle: From 1790 to the Present]
+Feb 2004 State of the Union, George W. Bush                [sughbxxx.xxx]5049
+Feb 2004 State of the Union, William J. Clinton            [suclixxx.xxx]5048
+Feb 2004 State of the Union, George H.W. Bush              [sughwxxx.xxx]5047
+Feb 2004 State of the Union, Ronald Reagan                 [sureaxxx.xxx]5046
+
+Feb 2004 State of the Union, Jimmy Carter                  [sucarxxx.xxx]5045
+Feb 2004 State of the Union, Gerald R. Ford                [suforxxx.xxx]5044
+Feb 2004 State of the Union, Richard Nixon                 [sunixxxx.xxx]5043
+Feb 2004 State of the Union, Lyndon B. Johnson             [sulbjxxx.xxx]5042
+Feb 2004 State of the Union, John F. Kennedy               [sukenxxx.xxx]5041
+
+Feb 2004 State of the Union, Dwight D. Eisenhower          [sueisxxx.xxx]5040
+Feb 2004 State of the Union, Harry S. Truman               [sutruxxx.xxx]5039
+Feb 2004 State of the Union, Franklin D. Roosevelt         [sufdrxxx.xxx]5038
+Feb 2004 State of the Union, Herbert Hoover                [suhooxxx.xxx]5037
+Feb 2004 State of the Union, Calvin Coolidge               [sucooxxx.xxx]5036
+
+Feb 2004 State of the Union, Warren Harding                [suwghxxx.xxx]5035
+Feb 2004 State of the Union, Woodrow Wilson                [suwilxxx.xxx]5034
+Feb 2004 State of the Union, William H. Taft               [sutafxxx.xxx]5033
+Feb 2004 State of the Union, Theodore Roosevelt            [surooxxx.xxx]5032
+Feb 2004 State of the Union, William McKinley              [sumckxxx.xxx]5031
+
+Feb 2004 State of the Union, Benjamin Harrison             [suharxxx.xxx]5030
+Feb 2004 State of the Union, Grover Cleveland              [suclexxx.xxx]5029
+Feb 2004 State of the Union, Chester A. Arthur             [suartxxx.xxx]5028
+Feb 2004 State of the Union, Rutherford B. Hayes           [suhayxxx.xxx]5027
+Feb 2004 State of the Union, Ulysses S. Grant              [sugraxxx.xxx]5026
+
+Feb 2004 State of the Union, Andrew Johnson                [sujohxxx.xxx]5025
+Feb 2004 State of the Union, Abraham Lincoln               [sulinxxx.xxx]5024
+Feb 2004 State of the Union, James Buchanan                [subucxxx.xxx]5023
+Feb 2004 State of the Union, Franklin Pierce               [supiexxx.xxx]5022
+Feb 2004 State of the Union, Millard Fillmore              [sufilxxx.xxx]5021
+
+Feb 2004 State of the Union, Zachary Taylor                [sutayxxx.xxx]5020
+Feb 2004 State of the Union, James Polk                    [supolxxx.xxx]5019
+Feb 2004 State of the Union, John Tyler                    [sutylxxx.xxx]5018
+Feb 2004 State of the Union, Martin van Buren              [suvanxxx.xxx]5017
+Feb 2004 State of the Union, Andrew Jackson                [sujacxxx.xxx]5016
+
+Feb 2004 State of the Union, John Quincy Adams             [sujqaxxx.xxx]5015
+Feb 2004 State of the Union, James Monroe                  [sumonxxx.xxx]5014
+Feb 2004 State of the Union, James Madison                 [sumadxxx.xxx]5013
+Feb 2004 State of the Union, Thomas Jefferson              [sujefxxx.xxx]5012
+Feb 2004 State of the Union, John Adams                    [sujadxxx.xxx]5011
+
+Feb 2004 State of the Union, George Washington             [suwasxxx.xxx]5010
+Feb 2004 The Unspeakable Perk, by Samuel Hopkins Adams     [blprkxxx.xxx]5009
+Feb 2004 Katherine's Sheaves, by Mrs. George Sheldon       [kthrnxxx.xxx]5008
+[Author AKA: Mrs. George Sheldon Downs]
+Feb 2004 The Poisoned Pen, by Arthur B. Reeve     [Reeve#3][tppenxxa.xxx]5007
+(Note that this is version 10a. See also:
+(Oct 1999 The Poisoned Pen by, Arthur B. Reeve              [tppenxxx.xxx]1923)
+Feb 2004 Harriet and the Piper, by Kathleen Norris  [KN#10][hrrppxxx.xxx]5006
+
+Feb 2004 Overland Expedition in Australia,Ludwig Leichhardt[xpvldxxx.xxx]5005
+[Full title: Journal of an Overland Expedition in Australia]
+Feb 2004 The Motor Boys on the Pacific, by Clarence Young  [mbpacxxx.xxx]5004
+[Subtitle: The Young Derelict Hunters]
+Feb 2004 The Rover Boys in New York, by A. Winfield  [ES#3][trbnyxxx.xxx]5003
+[Author's Full Name: Arthur M. Winfield] [Pseudonym of: Edward Stratemeyer]
+[Subtitle: Saving their Father's Honor]
+Feb 2004 The Rover Boys in Business, by A. Winfield  [ES#2][trbbsxxx.xxx]5002
+[Author's Full Name: Arthur M. Winfield] [Author AKA: Edward Stratemeyer]
+[Subtitle: The Search for the Missing Bonds]
+Feb 2004 Relativity, by Albert Einstein       [Einstein #1][relatxxx.xxx]5001
+[Full title: Relativity: The Special and General Theory]
+(Note:  Both .zips contain all the images, so are considerably larger.)
+
+
+[Note, #4999 and #5000 are in the last stages of proofing at press time,
+so we are posting version 09 at press time, and will replace with 10, by
+the time you read this, most likely].
+
+Jan 2004 The Notebooks of Leonardo Da Vinci, Complete  [#3][?ldvcxxx.xxx]5000
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 2  [#2][?ldv2xxx.xxx]4999
+Jan 2004 The Notebooks of Leonardo Da Vinci, Volume 1  [#1][?ldv1xxx.xxx]4998
+[Author's Full Name: Leonardo Da Vinci/Note: Translated by Jean Paul Richter]
+[7-bit version with non-accented characters is 7ldv110.txt and 7ldv110.zip]
+[8-bit version with accented characters is 8ldv110.txt and 8ldv110.zip]
+Jan 2004 Two Boys and a Fortune, by Matthew White, Jr.     [tbaafxxx.xxx]4997
+[Subtitle: Or, The Tyler Will]
+Jan 2004 Number Seventeen, by Lewis Tracy                  [num17xxx.xxx]4996
+
+Jan 2004 True to Himself, by Edward Stratemeyer            [trhimxxx.xxx]4995
+[Subtitle: Robert Strong's Struggle for Place]
+[Files in etext04: trhim10.txt trhim10.zip trhim10h.htm trhim10h.zip]
+Jan 2004 Five Thousand Miles Underground, by Roy Rockwood  [ftmunxxx.xxx]4994
+[Subtitle: The Mystery of the Centre of the Earth]
+Jan 2004 A Texas Ranger, by William MacLeod Raine [Raine#5][txsrnxxx.xxx]4993
+Jan 2004 Diddie, Dumps, and Tot, by Louise-Clarke Pyrnelle [ddtotxxx.xxx]4992
+[Subtitle: Plantation Child-Life]
+Jan 2004 The Pony Rider Boys in New Mexico, by F. Patchin  [prbnmxxx.xxx]4991
+[Author's Full Name: Frank Gee Patchin]
+[Subtitle: The End of the Silver Trail]
+
+Jan 2004 The Adventures of a Boy Reporter, by H. Morrison  [aboyrxxx.xxx]4990
+[Author's Full Name: Harry Steele Morrison]
+Jan 2004 A Sweet Girl Graduate, by Mrs. L.T. Meade         [swgrlxxx.xxx]4989
+[Author AKA: Mrs. Toulmin Smith]
+Jan 2004 The Outdoor Girls at Wild Rose Lodge,by L. Hope[4][wrlodxxx.xxx]4988
+[Author's Full Name: Laura Lee Hope]
+[Subtitle: The Hermit of Moonlight Falls]
+Jan 2004 The Outdoor Girls at Rainbow Lake, by L. Hope [#3][rainlxxx.xxx]4987
+[Author's Full Name: Laura Lee Hope]
+Jan 2004 The Four Epochs of Woman's Life, Anna M. Galbraith[feowlxxx.xxx]4986
+[Subtitle: A Study in Hygeine]
+
+Jan 2004 Ruth Fielding of the Red Mill, by Alice B. Emerson[ruthfxxx.xxx]4985
+[Subtitle: or, Jasper Parloe's Secret]
+Jan 2004 The Hidden Children, by Robert W. Chambers        [hichixxx.xxx]4984
+Jan 2004 Slips of Speech, by John H. Bechtel               [slpspxxx.xxx]4983
+Jan 2004 A Rock in the Baltic, by Robert Barr              [rbaltxxx.xxx]4982
+Jan 2004 Minnesota and Dacotah, C. C. Andrews              [mindaxxx.xxx]4981
+
+Jan 2004 Old Granny Fox, by Thornton W. Burgess [Burgess#9][ogfoxxxx.xxx]4980
+Jan 2004 Blacky the Crow, by Thornton W. Burgess[Burgess#8][blckyxxx.xxx]4979
+Jan 2004 The March of Portola, by Zoeth S. Eldredge        [?marcxxx.xxx]4978
+[Second author: E.J. Molera]
+[Full title: The March of Portola and the Discovery of the Bay of San
+  Francisco]
+Jan 2004 The McNaughtens, J-F Regnard,  Morlock trans. [#1][unforxxx.xxx]4977C
+[Author: Jean-Francois Regnard, translated by Frank J. Morlock]
+Jan 2004 Expedition into Central Australia,Charles Sturt[#4[xpcstxxx.xxx]4976
+
+Jan 2004 Spinifex and Sand, by David W Carnegie            [spnfxxxx.xxx]4975
+Jan 2004 Australia Twice Traversed, by Ernest Giles        [strttxxx.xxx]4974
+Jan 2004 Frederic Chopin (Complete),by Frederick Niecks[#3][fkchcxxx.xxx]4973
+[Full title: Frederic Chopin as a Man and Musician]
+Jan 2004 Frederic Chopin Volume 2, by Frederick Niecks [#2][fkch2xxx.xxx]4972
+[Full title: Frederic Chopin as a Man and Musician, Volume 2]
+Jan 2004 The Great Intendant, by Thomas Chapais            [cca06xxx.xxx]4971
+[This is #6 in our series Chronicles of Canada, edited by George M. Wrong
+[and H. H. Langton]
+[Subtitle: A Chronicle of Jean Talon in Canada 1665-1672]
+
+Jan 2004 There are Crimes and Crimes, by August Strindberg [crmcrxxx.xxx]4970
+Jan 2004 The Belton Estate, Anthony Trollope  [Trollope#32][belesxxx.xxx]4969
+Jan 2004 Les Cinq Cents Millions de la Begum, J. Verne[#23][?ccmbxxx.xxx]4968
+[Author's Full Name: Jules Verne; "Begum" is actually B_gum]
+[7-bit version with non-accented characters in 7ccmb10.txt and 7ccmb10.zip]
+[8-bit version with accented characters in 8ccmb10.txt and 8ccmb10.zip]
+Jan 2004 Luck or Cunning?, Samuel Butler        [Butler #11][lckcxxx.xxx]4967
+Jan 2004 Waverley, by Sir Walter Scott           [Scott#18][wvrlyxxa.xxx]4966
+
+Jan 2004 Waverley Volume II, by Sir Walter Scott [Scott#17][wvrl2xxa.xxx]4965
+Jan 2004 Waverley Volume I, by Sir Walter Scott  [Scott#16][wvrl1xxa.xxx]4964
+(See also
+(Jan 2000 Waverley, by Walter Scott       [Walter Scott #10][wvrlyxxx.xxx]2034)
+Jan 2004 Moral, by Ludwig Thoma                            [mrlthxxx.xxx]4963
+Jan 2004 The Story Of Germ Life, by H. W. Conn             [stgrmxxx.xxx]4962
+Jan 2004 Our Mr. Wrenn, by Sinclair Lewis         [Lewis#3][mrwrnxxx.xxx]4961
+
+Jan 2004 On Picket Duty and Other Tales, L. M. Alcott [#12][pcktdxxx.xxx]4960
+[Full author: Louisa May Alcott]
+   Contains:
+     On Picket Duty.
+     The King Of Clubs And The Queen Of Hearts.
+     The Cross On The Old Church Tower.
+     The Death Of John.
+Jan 2004 Maj. Roger Sherman Potter, by Pheleg Van Trusedale[shrptxxx.xxx]4959
+[Full title: The Life and Adventures of Maj. Roger Sherman Potter]
+Jan 2004 Justice in the By-Ways, by F. Colburn Adams[FCA#2][jstcbxxx.xxx]4958
+Jan 2004 The Heart's Secret, by Maturin Murray   [Murray#4][thrtsxxx.xxx]4957
+Jan 2004 The Duke's Prize, by Maturin Murray     [Murray#3][dkprzxxx.xxx]4956
+
+Jan 2004 Leah Mordecai, by Mrs. Belle Kendrick Abbott      [lhmdcxxx.xxx]4955
+Jan 2004 Laicus, by Lyman Abbott                           [lcscpxxx.xxx]4954
+Jan 2004 Revolution and Other Essays, Jack London     [#110][rvltxxx.xxx]4953
+
+Jan 2004 Entire 1590-99 United Netherlands,  by Motley[#72][jm72vxxx.xxx]4872
+(Includes: eBook#4861-4871)
+Jan 2004 History United Netherlands, 1598-99 by Motley[#71][jm71vxxx.xxx]4871
+
+Jan 2004 History United Netherlands, 1598    by Motley[#70][jm70vxxx.xxx]4870
+Jan 2004 History United Netherlands, 1597-98 by Motley[#69][jm69vxxx.xxx]4869
+Jan 2004 History United Netherlands, 1595-96 by Motley[#68][jm68vxxx.xxx]4868
+Jan 2004 History United Netherlands, 1595    by Motley[#67][jm67vxxx.xxx]4867
+Jan 2004 History United Netherlands, 1594    by Motley[#66][jm66vxxx.xxx]4866
+
+Jan 2004 History United Netherlands, 1592-94 by Motley[#65][jm65vxxx.xxx]4865
+Jan 2004 History United Netherlands, 1592    by Motley[#64][jm64vxxx.xxx]4864
+Jan 2004 History United Netherlands, 1590-92 by Motley[#63][jm63vxxx.xxx]4863
+Jan 2004 History United Netherlands, 1590b   by Motley[#62][jm62vxxx.xxx]4862
+Jan 2004 History United Netherlands, 1590a   by Motley[#61][jm61vxxx.xxx]4861
+
+Jan 2004 Entire 1586-89 United Netherlands,  by Motley[#60][jm60vxxx.xxx]4860
+(Includes: ebook#4848-4859)
+Jan 2004 History United Netherlands, 1588-89 by Motley[#59][jm59vxxx.xxx]4859
+Jan 2004 History United Netherlands, 1588d   by Motley[#58][jm58vxxx.xxx]4858
+Jan 2004 History United Netherlands, 1588c   by Motley[#57][jm57vxxx.xxx]4857
+Jan 2004 History United Netherlands, 1588b   by Motley[#56][jm56vxxx.xxx]4856
+
+Jan 2004 History United Netherlands, 1588a   by Motley[#55][jm55vxxx.xxx]4855
+Jan 2004 History United Netherlands, 1587d   by Motley[#54][jm54vxxx.xxx]4854
+Jan 2004 History United Netherlands, 1587c   by Motley[#53][jm53vxxx.xxx]4853
+Jan 2004 History United Netherlands, 1587b   by Motley[#52][jm52vxxx.xxx]4852
+Jan 2004 History United Netherlands, 1587a   by Motley[#51][jm51vxxx.xxx]4851
+
+Jan 2004 History United Netherlands, 1586c   by Motley[#50][jm50vxxx.xxx]4850
+Jan 2004 History United Netherlands, 1586b   by Motley[#49][jm49vxxx.xxx]4849
+Jan 2004 History United Netherlands, 1586a   by Motley[#48][jm48vxxx.xxx]4848
+[Full Title: History of the United Netherlands, From the Death of
+  William the Silent to the Twelve Year's Truce]
+[Author: John Lothrop Motley]
+
+Previously "Reserved":
+Sep 2002 1001 Nights[Arabian Nights], V16 by Richard Burton[g1001xxx.xxx]3450
+Sep 2002 1001 Nights[Arabian Nights], V15 by Richard Burton[f1001xxx.xxx]3449
+Sep 2002 1001 Nights[Arabian Nights], V14 by Richard Burton[e1001xxx.xxx]3448
+Sep 2002 1001 Nights[Arabian Nights], V13 by Richard Burton[d1001xxx.xxx]3447
+
+***
+
+     Total PG ebooks available online **AS OF 04/10/02**:  5,031
+(This number includes the 60 etexts posted at the PG Australia web site)
+
+In the first 14 weeks of the new year, we have produced 739 new eBooks.
+Note: it took us from 1971 to 1996 to produce our *FIRST* 739 eBooks!!!
+
+The production statistics are calculated based on full weeks of
+production, each production-week ending on a Wednesday, starting
+with the first Wednesday in Jan.  In 2002, Jan 2nd was the first
+Wednesday, and Jan 9th was the end of the first week of production.
+
+With 5,031 eTexts online as of April 10, it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.99 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.97 when we had 3371 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.98 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 33% less a year later???
+
+***
+
+Headline News
+
+The Senate Committee on the Judiciary Site has a site on protecting
+works in the digital age. There is some introductory material, plus
+related links to laws, hearings, and comments by various CEOs.
+
+The URL is:
+http://judiciary.senate.gov/special/feature.cfm
+
+There is also a page full of comments from all perspective. You can
+post your own comments. I don't know if it will make any difference,
+but it might make you feel better. ;->
+
+***
+
+Headlines From Newsscan
+
+[First, some strange things on the Intellectual Property Front]
+
+AUTHORS UNHAPPY ABOUT AMAZON USED-BOOK SALES
+The Authors Guild, a trade group for writers, is asking its 82,000 members
+to protest Amazon.com's "notorious used-book service," which provides
+Amazon with about 15% of total revenue but pays nothing to writers or
+publishers. An Amazon executive says of the used-book program (where Amazon
+members sell the books directly to each other), "We think this is something
+that is great for the customers, and it is good for the authors, too,
+because it encourages customers to try authors and genres they may not have
+tried." Authors feel that their new books are competing against themselves,
+when lower-priced used copies are listed on the same Web page that features
+new copies of the same book. (New York Times 10 Apr 2002)
+http://partners.nytimes.com/2002/04/10/technology/10BOOK.html
+
+WIN-WIN DIGITAL MEDIA STRATEGY: LOWER THE PRICE
+Marc Andreessen, the programmer who co-founded Netscape, told an audience
+of broadcasting and recording industry executives that it was futile for
+them to hope that copy protection technology would prevent illegal copying
+of music, movies or TV shows. "If a computer can see it, display it, and
+play it -- you can copy it." Do what did he advise them to do? Produce more
+copies and lower the price, which is the strategy that worked for the PC
+software industry. Adoption of the same strategy for digital media will
+yield the same results: a sales bonanza. Andreessen told the executives:
+"My prediction is that is exactly what's going to happen in the
+entertainment industry. Digital media is the biggest opportunity the
+entertainment industry has ever seen." (San Jose Mercury News 9 Apr 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3031836.htm
+
+CAN FALWELL'S NAME BE TRADEMARKED TO PROTECT HIM AGAINST PARODY?
+The Reverend Jerry Falwell has lodged a complaint with the World
+Intellectual Property Organization (WIPO) charging that a Web site that
+parodies him is violating his "common-law" trademark of his name. The
+operator of the parody Web site says Falwell's name is not entitled to
+trademark protection because he hasn't used it for the purpose of
+identifying goods and services. WIPO is headquartered in Geneva,
+Switzerland. (AP/San Jose Mercury News 4 Apr 2002)
+http://www.siliconvalley.com/mld/siliconvalley/3000509.htm
+
+DISTRIBUTED BRAINPOWER TARGETS WORLD WIDE LEXICON
+In a new twist on distributed computing, software designer Brian McConnell
+is releasing a new software program that would harness the unused
+brainpower of the world's computer users to build a multilingual
+translation database. Unlike many other distributed computing projects,
+which use the extra processing capacity of PCs, this one would require
+participants to provide short translations when able. "It's a clever twist
+on distributed computing," says McConnell. "In this case the computers are
+people's brains." The World Wide Lexicon (WWL) project will need
+multilingual volunteers to download the software, which can detect when
+they're not particularly busy and ask them to translate a word or a phrase.
+Some language experts have expressed reservations about the whole idea:
+"One of the main problems is quality assurance," says a linguistics expert
+at the University of Wolverhampton in the U.K. "Translation is a highly
+developed skill." McConnell says he hopes to incorporate a peer review
+component to ensure the translations are accurate. (New Scientist 2 Apr 2002)
+http://www.newscientist.com/news/news.jsp?id=ns99992115
+[Of course ye olde professionals alway pooh-pooh such advances, even after
+they have been swept away by the tides of progress. . .Michael S. Hart]
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by IEEE Computer Society
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+
+Headlines From Edupage
+
+MICROSOFT REFOCUSES ON SECURITY
+In February Microsoft began an initiative to make security its
+toppriority, above adding new features. After a spate of concerns
+raised about security holes in its operating systems and other
+software, the company sent 9,000 of its top developers to training
+on writing secure software. Programmers were also instructed to
+search through existing code for flaws that could compromise
+security. Microsoft admitted that its goal of making software easy
+to use is often at odds with making it safe from attack, including
+two especially destructive viruses last year, Code Red and Nimbda.
+The company said it has shifted its attention from features to
+security, though many skeptics have adopted a wait-and-see
+attitude.
+New York Times, 8 April 2002
+http://www.nytimes.com/2002/04/08/technology/ebusiness/08SOFT.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+

@@ -1,0 +1,688 @@
+The Project Gutenberg Weekly Newsletter 30 Jun 2004
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 99 New U.S. eBooks this week
+   -  2 New eBooks at PG Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.net/find.shtml
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.net/list.shtml
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.net/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.net/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.net to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed 30 Jun 2004:  13,106 (incl. 363 Aus.).
+
+Last week the Total Count was 13,005, including 361 at PG of Australia.
+This week we added 101 new (including 2 new posting at PG of Australia).
+
+RESERVED/PENDING count:   41 (No change this week).
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following eBooks were manually reposted with the
+indicated filenames and transferred into the corresponding new directories:
+
+The Moccasin Maker, by E. Pauline Johnson                                 6600
+   [Updated edition of: etext04/mcssm10.txt]
+   [Link: http://www.gutenberg.net/6/6/0/6600 ]
+   [Files: 6600.txt]
+
+The Gilded Age, Part 7, by Twain and Warner                               5824
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt7ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/2/5824 ]
+   [Files: 5824.txt; 5824-h.htm]
+The Gilded Age, Part 6, by Twain and Warner                               5823
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt6ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/2/5823 ]
+   [Files: 5823.txt; 5823-h.htm]
+The Gilded Age, Part 5, by Twain and Warner                               5822
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt5ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/2/5822 ]
+   [Files: 5822.txt; 5822-h.htm]
+The Gilded Age, Part 4, by Twain and Warner                               5821
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt4ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/2/5821 ]
+   [Files: 5821.txt; 5821-h.htm]
+The Gilded Age, Part 3, by Twain and Warner                               5820
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt3ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/2/5820 ]
+   [Files: 5820.txt; 5820-h.htm]
+The Gilded Age, Volume 2, by Twain and Warner                             5819
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt2ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/1/5819 ]
+   [Files: 5819.txt; 5819-h.htm]
+The Gilded Age, Volume 1, by Twain and Warner                             5818
+   [Author: Mark Twain (Samuel Clemens) and Charles Dudley Warner]
+   [Updated edition of: etext04/mt1ga10h.htm]
+   [Link: http://www.gutenberg.net/5/8/1/5818 ]
+   [Files: 5818.txt; 5818-h.htm]
+
+A Tramp Abroad, Part 7, by Mark Twain (Samuel Clemens)                    5788
+   [Updated edition of: etext04/mt7tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5788 ]
+   [Files: 5788.txt; 5788-h.htm]
+A Tramp Abroad, Part 6, by Mark Twain (Samuel Clemens)                    5787
+   [Updated edition of: etext04/mt6tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5787 ]
+   [Files: 5787.txt; 5787-h.htm]
+A Tramp Abroad, Part 5, by Mark Twain (Samuel Clemens)                    5786
+   [Updated edition of: etext04/mt5tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5786 ]
+   [Files: 5786.txt; 5786-h.htm]
+A Tramp Abroad, Part 4, by Mark Twain (Samuel Clemens)                    5785
+   [Updated edition of: etext04/mt4tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5785 ]
+   [Files: 5785.txt; 5785-h.htm]
+A Tramp Abroad, Part 3, by Mark Twain (Samuel Clemens)                    5784
+   [Updated edition of: etext04/mt3tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5784 ]
+   [Files: 5784.txt; 5784-h.htm]
+A Tramp Abroad, Part 2, by Mark Twain (Samuel Clemens)                    5783
+   [Updated edition of: etext04/mt2tr10h.html]
+   [Link: http://www.gutenberg.net/5/7/8/5783 ]
+   [Files: 5783.txt; 5783-h.htm]
+
+The Shagganappi, by E. Pauline Johnson                                    5769
+   [Updated Edition of: etext04/shagg10.txt]
+   [Link: http://www.gutenberg.net/5/7/6/5769 ]
+   [Files: 5769.txt]
+
+Flint and Feather, by E. Pauline Johnson                                  5625
+   [Updated edition of: etext04/fltfr10.txt]
+   [Link: http://www.gutenberg.net/5/6/2/5625 ]
+   [Files: 5625.txt]
+
+The Kellys and the O'Kellys, by Anthony Trollope                          4917
+   [Updated edition of: etext04/kelly10.txt]
+   [Link: http://www.gutenberg.net/4/9/1/4917 ]
+   [Files: 4917.txt; 4917-8.txt; 4917-h.htm]
+   (Note that this file has been corrected, and that 8-bit and HTML formats
+    have been added; also, footnotes have been added by the PG editor.)
+
+Legends of Vancouver, by E. Pauline Johnson                               3478
+   [Updated edition of: etext02/legva12.txt]
+   [Link: http://www.gutenberg.net/3/4/7/3478 ]
+   [Files: 3478.txt]
+
+The Gilded Age, Complete, by Mark Twain and Charles Dudley Warner         3178
+   [Updated edition of: etext02/mtgld11.txt or mtgld11h.html]
+   [Link: http://www.gutenberg.net/3/1/7/3178 ]
+   [Files: 3178.txt; 3178-h.htm]
+
+The Chouans, by Honore de Balzac [Tr.: Katharine Prescott Wormeley]       1921
+   [Updated edition of: etext99/choun10.txt]
+   [Link: http://www.gutenberg.net/1/9/2/1921 ]
+   [Files: 1921.txt]
+
+Catherine de' Medici, by Honore de Balzac                                 1854
+   [Udated edition of: etext99/ctdmd10.txt]
+   [Link: http://www.gutenberg.net/1/8/5/1854 ]
+   [Files: 1854.txt]
+
+Bureaucracy, by Honore de Balzac  [Tr.: Katharine Prescott Wormeley]      1343
+   [Updated edition of: etext98/brcrc10.txt and brcrc10h.htm]
+   [Link: http://www.gutenberg.net/1/3/4/1343 ]
+   [Files: 1343.txt; 1343-h.htm]
+
+A Tramp Abroad, by Mark Twain (Samuel Clemens)                             119
+   [Updated edition of: etext94/tramp12.txt or tramp12h.html]
+   [Link: http://www.gutenberg.net/1/1/119 ]
+   [Files: 119.txt; 119-h.htm]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+The following is being re-indexed to include the author's full name:
+Derniers Contes, by Edgar Allan Poe                                      12562
+
+The following is being re-indexed to correct the author's name, from
+"Cutcliffe Hyne" to "C. J. Cutcliffe Hyne":
+A Master of Fortune, by C. J. Cutcliffe Hyne                             12556
+   [Subtitle: Being Further Adventures of Captain Kettle]
+   [Author AKA: Charles John Cutcliffe Wright Hyne]
+   [Illustrator: Stanley L. Wood]
+
+The following has been re-posted to including missing material from the
+text format files:
+Apr 2000 Strictly Business, by O. Henry                    [?stbuxxx.xxx] 2141
+
+-=-=-=-=[  99 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Wells Brothers, The Young Cattle Kings, by Andy Adams                    12791
+   [Link: http://www.gutenberg.net/1/2/7/9/12791 ]
+   [Files: 12791.txt; 12791-8.txt; 12791-h.htm; ]
+
+The True Woman, by Justin D. Fulton                                      12790
+   [Subtitle: A Series of Discourses to Which Is Added Woman vs. Ballot]
+   [Link: http://www.gutenberg.net/1/2/7/9/12790 ]
+   [Files: 12790.txt; ]
+
+Ladies Must Live, by Alice Duer Miller                                   12789
+   [Link: http://www.gutenberg.net/1/2/7/8/12789 ]
+   [Files: 12789.txt; 12789-8.txt; ]
+
+The World's Best Literature, Ancient And Modern, Vol. 2, by Warner       12788
+   [Title: Library Of The World's Best Literature, Ancient And
+    Modern, Vol. 2] (Note: includes 29 Authors, more than 200 Titles)
+   [Author: Charles Dudley Warner]
+   [Link: http://www.gutenberg.net/1/2/7/8/12788 ]
+   [Files: 12788.txt; 12788-8.txt; 12788-h.htm]
+
+Introductory Course of Quantitative Chemical Analysis, Henry P. Talbot   12787
+   [Link: http://www.gutenberg.net/1/2/7/8/12787 ]
+   [Files: 12787.txt; 12787-8.txt]
+
+The Khasis, by P. R. T. Gurdon                                           12786
+   [Link: http://www.gutenberg.net/1/2/7/8/12786 ]
+   [Files: 12786.txt; 12786-8.txt]
+
+Atlantic Monthly, Vol. XI., February, 1863, No. LXIV., by Various        12785
+   [Link: http://www.gutenberg.net/1/2/7/8/12785 ]
+   [Files: 12785.txt; 12785-8.txt]
+
+Prose Works of Jonathan Swift, Vol. VI; The Drapier's Letters, by Swift  12784
+   [Author: Jonathan Swift] [Edited by Temple Scott]
+   [Link: http://www.gutenberg.net/1/2/7/8/12784 ]
+   [Files: 12784.txt; 12784-8.txt]
+
+Les Memoires d'un ane, by Comtesse de Segur                              12783
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/8/12783 ]
+   [Files: 12783.txt; 12783-8.txt; 12783-h.htm]
+
+Oeuvres de Napoleon Bonaparte, Tome II, by Napoleon Bonaparte            12782
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/8/12782 ]
+   [Files: 12782.txt; 12782-8.txt; 12782-h.htm]
+
+Mirror of Literature, Amusement, and Instruction, Vol. 17, No. 485       12781
+   [April 16, 1831]
+   [Link: http://www.gutenberg.net/1/2/7/8/12781 ]
+   [Files: 12781.txt; 12781-8.txt; 12781-h.htm]
+
+Laulu tulipunaisesta kukasta, by Johannes Linnankoski                    12780
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/2/7/8/12780 ]
+   [Files: 12780-8.txt]
+
+Helen with the High Hand (2nd ed.), by Arnold Bennett                    12779
+   [Link: http://www.gutenberg.net/1/2/7/7/12779 ]
+   [Files: 12779.txt; 12779-8.txt; 12779-h.htm]
+
+The Young Engineers in Mexico, by H. Irving Hancock                      12778
+   [Subtitle: Fighting the Mine Swindlers]
+   [Book 4 of 5, Young Engineers series.]
+   [Link: http://www.gutenberg.net/1/2/7/7/12778 ]
+   [Files: 12778.txt; ]
+
+The Young Engineers in Nevada, by H. Irving Hancock                      12777
+   [Subtitle: Seeking Fortune on the Turn of a Pick]
+   [Book 3 of 5, Young Engineers series.]
+   [Link: http://www.gutenberg.net/1/2/7/7/12777 ]
+   [Files: 12777.txt; ]
+
+Dave Darrin at Vera Cruz, by H. Irving Hancock                           12776
+   [Subtitle: Fighting with the U.S. Navy in Mexico]
+   [Book 1 of 6 in the "Dave Darrin" series, which is sequel to the
+    "Annapolis" series.]
+   [Link: http://www.gutenberg.net/1/2/7/7/12776 ]
+   [Files: 12776.txt; ]
+
+Dave Darrin's Fourth Year at Annapolis, by H. Irving Hancock             12775
+   [Subtitle: Headed for Graduation and the Big Cruise]
+   [Book 4 of 4 in the "Annapolis" series.]
+   [Link: http://www.gutenberg.net/1/2/7/7/12775 ]
+   [Files: 12775.txt; ]
+
+Dave Darrin's First Year at Annapolis, by H. Irving Hancock              12774
+   [Subtitle: Two Plebe Midshipmen at the United States Naval Academy]
+   [This is book 1 of 4 in the "Annapolis" series.]
+   [Link: http://www.gutenberg.net/1/2/7/7/12774 ]
+
+Mr. Prohack, by E. Arnold Bennett                                        12773
+   [Link: http://www.gutenberg.net/1/2/7/7/12773 ]
+   [Files: 12773.txt; 12773-8.txt; 12773-h.htm; ]
+
+Cowper, by Goldwin Smith                                                 12772
+   [Link: http://www.gutenberg.net/1/2/7/7/12772 ]
+   [Files: 12772.txt; ]
+
+Famous Americans of Recent Times, by James Parton                        12771
+   [Chapters are titled Henry Clay, Daniel Webster, John C. Calhoun, John
+    Randolph, Stephen Girard and His College, James Gordon Bennett and
+    the New York Herald, Charles Goodyear, Henry Ward Beecher and His
+    Church, Commodore Vanderbilt, Theodosia Burr and John Jacob Astor]
+   [Link: http://www.gutenberg.net/1/2/7/7/12771 ]
+   [Files: 12771.txt; 12771-8.txt; ]
+
+Study Of The Topography And Municipal History Of Praeneste, by Magoffin  12770
+   [Full author: Ralph Van Deman Magoffin]
+   [Link: http://www.gutenberg.net/1/2/7/7/12770 ]
+   [Files: 12770.txt; 12770-8.txt; 12770-h.htm]
+
+
+
+Penny Plain, by Anna Buchan (writing as O. Douglas)                      12768
+   [Link: http://www.gutenberg.net/1/2/7/6/12768 ]
+   [Files: 12768.txt; 12768-8.txt]
+
+The Beginnings of New England, by John Fiske                             12767
+   [Subtitle: Or the Puritan Theocracy in its Relations to Civil and
+    Religious Liberty]
+   [Link: http://www.gutenberg.net/1/2/7/6/12767 ]
+   [Files: 12767.txt; 12767-8.txt]
+
+Mirror of Literature, Amusement, & Instruction, Vol. XVII, No. 484       12766
+   [April 9, 1831]
+   [Link: http://www.gutenberg.net/1/2/7/6/12766 ]
+   [Files: 12766.txt; 12766-8.txt; 12766-h.htm]
+
+Geordie's Tryst, by Mrs. Milne Rae                                       12765
+   [Subtitle: A Tale of Scottish Life]
+   [Link: http://www.gutenberg.net/1/2/7/6/12765 ]
+   [Files: 12765.txt; 12765-8.txt; 12765-h.htm]
+
+The Forty-Niners, by Stewart Edward White                                12764
+   [Subtitle: A Chronicle of the California Trail and El Dorado]
+   [Link: http://www.gutenberg.net/1/2/7/6/12764 ]
+   [Files: 12764.txt; 12764-8.txt]
+
+Every Soul Hath Its Song, by Fannie Hurst                                12763
+   [Link: http://www.gutenberg.net/1/2/7/6/12763 ]
+   [Files: 12763.txt; 12763-8.txt]
+
+The Story of a Piece of Coal, by Edward A. Martin                        12762
+   [Subtitle: What It Is, Whence It Comes, and Whither It Goes]
+   [Link: http://www.gutenberg.net/1/2/7/6/12762 ]
+   [Files: 12762.txt; 12762-8.txt]
+
+Blackwood's Edinburgh Magazine, No. CCCXXIX., by Various                 12761
+   [Subtitle: March, 1843, Vol. LIII.]
+   [Link: http://www.gutenberg.net/1/2/7/6/12761 ]
+   [Files: 12761.txt; 12761-8.txt; 12761-h.htm]
+
+The Atlantic Monthly, Vol. IX., March, 1862., No. LIII, by Various       12760
+   [Subtitle: A Magazine Of Literature, Art, And Politics,]
+   [Link: http://www.gutenberg.net/1/2/7/6/12760 ]
+   [Files: 12760.txt; 12760-8.txt; 12760-h.htm]
+
+The World's Best Poetry Volume IV., by Bliss Carman                      12759
+   [Associate Editors: John Vance Cheney, Charles G.D. Roberts,
+    Charles F. Richardson, Francis H. Stoddard.
+   [Managing Editor: John R. Howard]
+   [Link: http://www.gutenberg.net/1/2/7/5/12759 ]
+   [Files: 12759.txt; 12759-8.txt]
+
+Library of the World's Best Mystery and Detective Stories, by Hawthorne  12758
+   [Ed.: Julian Hawthorne]
+   [Link: http://www.gutenberg.net/1/2/7/5/12758 ]
+   [Files: 12758.txt; 12758-8.txt; 12758-h.htm]
+
+Vanrikki Stoolin tarinat, by J. L. Runeberg  [Tr.: O. Manninen]          12757
+   [Language: Finnish]
+   [Link: http://www.gutenberg.net/1/2/7/5/12757 ]
+   [Files: 12757-8.txt]
+
+Vier Voordrachten over Theosofie, by Annie Besant                        12756
+   [Language: Dutch]
+   [Link: http://www.gutenberg.net/1/2/7/5/12756 ]
+   [Files: 12756.txt; 12756-8.txt; 12756-h.htm]
+
+Compilation of the Messages and Papers of the Presidents, by Richardson  12755
+   [Subtitle: Section 2 (of 2) of Volume 6: Andrew Johnson]
+   [Author: James D. Richardson]
+   [Link: http://www.gutenberg.net/1/2/7/5/12755 ]
+   [Files: 12755.txt; 12755-8.txt; 12755-h.htm]
+
+Compilation of the Messages and Papers of the Presidents, by Richardson  12754
+   [Subtitle: Section 2 (of 2) of Volume 8: Chester A. Arthur]
+   [Author: James D. Richardson]
+   [Link: http://www.gutenberg.net/1/2/7/5/12754 ]
+   [Files: 12754.txt; 12754-8.txt; 12754-h.htm]
+
+The Legends Of King Arthur And His Knights, by James Knowles             12753
+   [Link: http://www.gutenberg.net/1/2/7/5/12753 ]
+   [Files: 12753.txt; 12753-8.txt; 12753-h.htm]
+
+Les hommes de la guerre d'Orient 11: Le prince du Montenegro, by Texier  12752
+   [Author: Edmond Auguste Texier]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/5/12752 ]
+   [Files: 12752.txt; 12752-0.txt; 12752-h.htm]
+
+Garibaldi en Sicilie et Italie, by Henri Durand-Brager                   12751
+   [Title: Quatre mois de l'expedition de Garibaldi en Sicilie et Italie]
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/5/12751 ]
+   [Files: 12751.txt; 12751-8.txt; 12751-h.htm]
+
+Stolen Bacillus and Other Incidents, by H. G. (Herbert George) Wells     12750
+   [Link: http://www.gutenberg.net/1/2/7/5/12750 ]
+   [Files: 12750.txt; 12750-8.txt]
+
+Etudes Litteraires - XVIIIe siecle, by Emile Faguet                      12749
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/4/12749 ]
+   [Files: 12749.txt; 12749-8.txt; 12749-h.htm]
+
+Recollections of My Youth, by Ernest Renan                               12748
+   [Link: http://www.gutenberg.net/1/2/7/4/12748 ]
+   [Files: 12748.txt; 12748-8.txt; ]
+
+The Story of Grettir The Strong, by Magnusson and Morris                 12747
+   [Translated by Eirikr Magnusson and William Morris]
+   [Link: http://www.gutenberg.net/1/2/7/4/12747 ]
+   [Files: 12747.txt; 12747-8.txt; 12747-h.htm]
+
+Swift's Writings on Religion and the Church, Vol. II, by Jonathan Swift  12746
+   [Title: The Prose Works of Jonathan Swift, D. D., Vol. IV: Swift's
+    Writings on Religion and the Church, Vol. II] [Ed.: Temple Scott]
+   [Link: http://www.gutenberg.net/1/2/7/4/12746 ]
+   [Files: 12746.txt; 12746-8.txt]
+
+The World's Greatest Books, Vol XI, Ed. by Arthur Mee & J.A. Hammerton   12745
+   [Ancient History and Medieval History]
+   [Link: http://www.gutenberg.net/1/2/7/4/12745 ]
+   [Files: 12745.txt; 12745-8.txt; 12745-h.htm]
+
+In His Image, by William Jennings Bryan                                  12744
+   [Link: http://www.gutenberg.net/1/2/7/4/12744 ]
+   [Files: 12744.txt; 12744-8.txt]
+
+The Author's Craft, by Arnold Bennett                                    12743
+   [Link: http://www.gutenberg.net/1/2/7/4/12743 ]
+   [Files: 12743.txt; 12743-8.txt; 12743-h.htm]
+
+Minstrelsy of the Scottish border (3rd Edn) (1 of 3), by Walter Scott    12742
+   [Link: http://www.gutenberg.net/1/2/7/4/12742 ]
+   [Files: 12742.txt; 12742-8.txt; 12742-h.htm]
+
+Risen from the Ranks, by Horatio Alger, Jr                               12741
+   [Subtitle: Harry Walton's Success]
+   [Link: http://www.gutenberg.net/1/2/7/4/12741 ]
+   [Files: 12741.txt]
+
+An Autobiography of Buffalo Bill (Colonel W. F. Cody), by W. F. Cody     12740
+   [Full author: Buffalo Bill (William Frederick Cody)]
+   [Link: http://www.gutenberg.net/1/2/7/4/12740 ]
+   [Files: 12740.txt; 12740-8.txt; 12740-h.htm]
+
+Punch, Or The London Charivari, Vol. 99., December 6, 1890, by Various   12739
+   [Link: http://www.gutenberg.net/1/2/7/3/12739 ]
+   [Files: 12739.txt; 12739-8.txt; 12739-h.htm]
+
+Punch, Or The London Charivari, Vol. 99., November 29, 1890, by Various  12738
+   [Link: http://www.gutenberg.net/1/2/7/3/12738 ]
+   [Files: 12738.txt; 12738-8.txt; 12738-h.htm]
+
+Punch, Or The London Charivari, Vol. 99., Nov. 22, 1890, by Various      12737
+   [Link: http://www.gutenberg.net/1/2/7/3/12737 ]
+   [Files: 12737.txt; 12737-8.txt; 12737-h.htm]
+
+Masters of the English Novel, by Richard Burton                          12736
+   [Subtitle: A Study Of Principles And Personalities]
+   [Link: http://www.gutenberg.net/1/2/7/3/12736 ]
+   [Files: 12736.txt]
+
+The Grammar School Boys in Summer Athletics, by H. Irving Hancock        12735
+   [Subtitle: Dick & Co. Make Their Fame Secure]
+   [Grammar School Boys Series, Book 4 of 4]
+   [Link: http://www.gutenberg.net/1/2/7/3/12735 ]
+   [Files: 12735.txt; ]
+
+The Young Engineers in Colorado, by H. Irving Hancock                    12734
+   [Subtitle: At Railroad Building in Earnest]
+   [Young Engineers Series, Book 1 of 5]
+   [Link: http://www.gutenberg.net/1/2/7/3/12734 ]
+   [Files: 12734.txt; ]
+
+Tokyo to Tijuana: Gabriele Departing America, by Steven Sills            12733C
+   [Link: http://www.gutenberg.net/1/2/7/3/12733 ]
+   [Files: 12733-8.txt; 12733-r.zxp ]
+
+Short-Stories, by Various, Ed. by L. A. Pittenger                        12732
+   Contents:
+     The Father, by Bjornstjerne Bjornson
+     The Griffin and the Minor Canon, by Frank R. Stockton
+     The Piece of String, by Guy de Maupassant
+     The Man Who Was, by Rudyard Kipling
+     The Fall of the House Of Usher, by Edgar Allan Poe
+     The Gold-Bug, by Edgar Allan Poe
+     The Birthmark, by Nathaniel Hawthorne
+     Ethan Brand, by Nathaniel Hawthorne
+     The Sire de Malatroit's Door, by Robert Louis Stevenson
+     Markheim, by Robert Louis Stevenson
+   [Link: http://www.gutenberg.net/1/2/7/3/12732 ]
+   [Files: 12732.txt; 12732-8.txt]
+
+The High School Boys' Training Hike, by H. Irving Hancock                12731
+   [Subtitle: Making Themselves "Hard as Nails"]
+   [High School Boys Vacation Series Vol. 4]
+   [Link: http://www.gutenberg.net/1/2/7/3/12731 ]
+   [Files: 12731.txt; ]
+
+The High School Boys' Fishing Trip, by H. Irving Hancock                 12730
+   [Subtitle: Dick & Co. in the Wilderness]
+   [High School Boys Vacation Series Vol. 3]
+   [Link: http://www.gutenberg.net/1/2/7/3/12730 ]
+   [Files: 12730.txt; ]
+
+The High School Boys in Summer Camp, by H. Irving Hancock                12729
+   [Subtitle: The Dick Prescott Six Training for the Gridley Eleven]
+   [High School Boys Vacation Series Vol. 2]
+   [Link: http://www.gutenberg.net/1/2/7/2/12729 ]
+   [Files: 12729.txt; ]
+
+The High School Boys' Canoe Club, by H. Irving Hancock                   12728
+   [Subtitle: Dick & Co.'s Rivals on Lake Pleasant]
+   [High School Boys Vacation Series Vol. 1]
+   [Link: http://www.gutenberg.net/1/2/7/2/12728 ]
+   [Files: 12728.txt; ]
+
+Le nabab, tome II, by Alphonse Daudet                                    12727
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/2/12727 ]
+   [Files: 12727.txt; 12727-8.txt]
+
+Le nabab, tome I, by Alphonse Daudet                                     12726
+   [Language: French]
+   [Link: http://www.gutenberg.net/1/2/7/2/12726 ]
+   [Files: 12726.txt; 12726-8.txt]
+
+The Vale of Cedars , by Grace Aguilar                                    12725
+   [Subtitle: The Martyr]
+   [Link: http://www.gutenberg.net/1/2/7/2/12725 ]
+   [Files: 12725.txt; 12725-8.txt; ]
+
+[Note: The following 23 eBooks (#12702 - #12724) are human-read audio
+  performances, in cooperation with LiteralSystems]
+Audio: Sonnet #116, by William Shakespeare                               12724C
+Audio: Sonnet #106, by William Shakespeare                               12723C
+Audio: Sonnet #100, by William Shakespeare                               12722C
+Audio: Sonnet #55, by William Shakespeare                                12721C
+Audio: Sonnet #40, by William Shakespeare                                12720C
+Audio: Sonnet #29, by William Shakespeare                                12719C
+Audio: Song of Myself Selections, by Walt Whitman                        12718C
+Audio: When Lilacs Last in the Dooryard Bloom'd, by Walt Whitman         12717C
+Audio: Dedication, by Rudyard Kipling                                    12716C
+Audio: Danny Deever, by Rudyard Kipling                                  12715C
+Audio: Alone, by Edgar Allan Poe                                         12714C
+Audio: The Rhyme of the Ancient Mariner, by Samuel Taylor Coleridge      12713C
+Audio: Dialogue Between Franklin and the Gout, by Benjamin Franklin      12712C
+Audio: On the Decay of the Art of Lying, by Mark Twain                   12711C
+Audio: Rapunzel, by The Brothers Grimm                                   12710C
+Audio: Clever Gretel, by The Brothers Grimm                              12709C
+Audio: Rumpelstiltskin, by The Brothers Grimm                            12708C
+Audio: The Travelling Musicians, by The Brothers Grimm                   12707C
+Audio: The Mouse, by The Bird and The Sausage, by The Brothers Grimm     12706C
+Audio: King Grisly-Beard, by The Brothers Grimm                          12705C
+Audio: Briar Rose, by The Brothers Grimm                                 12704C
+Audio: The Little Match Girl, by Hans Christian Anderson                 12703C
+Audio: The Tale of Peter Rabbit, by Beatrix Potter                       12702C
+   (Note:  most of the above are not entire books, but are stories, poems
+    or extracts.)
+
+The Suffering of Being Kafka, by Sam Vaknin                              12701C
+   [Link http://gutenberg.net/1/2/7/0/12701 ]
+   [Files 12701-r.z-p 12701-8.txt]
+
+Ralph Waldo Emerson, by Oliver Wendell Holmes                            12700
+   [Link: http://www.gutenberg.net/1/2/7/0/12700 ]
+   [Files: 12700.txt; 12700-8.txt]
+
+The Works of Aristotle, the Famous Philosopher, by Anonymous             12699
+   [Subtitle: Containing his Complete Masterpiece and Family Physician;
+    His Experienced Midwife, His Book of Problems and His Remarks on
+    Physiognomy]
+   [Link: http://www.gutenberg.net/1/2/6/9/12699 ]
+   [Files: 12699.txt; 12699-h.htm]
+
+Stuk, by Herman Bang                                                     12698
+   [Language: Danish]
+   [Link: http://www.gutenberg.net/1/2/6/9/12698 ]
+   [Files: 12698.txt; 12698-8.txt]
+
+The Splendid Idle Forties, by Gertrude Atherton                          12697
+   [Subtitle: Stories of Old California]
+   [Link: http://www.gutenberg.net/1/2/6/9/12697 ]
+   [Files: 12697.txt; 12697-8.txt]
+
+John Smith, U.S.A., by Eugene Field                                      12696
+   [Link: http://www.gutenberg.net/1/2/6/9/12696 ]
+   [Files: 12696.txt]
+
+String Quartet Opus 18 Number 4, by Ludwig von Beethoven                 12695
+   [Musical score in various formats]
+   [Link: http://www.gutenberg.net/1/2/6/9/12695 ]
+   [Files: 12695.txt ]
+
+History of the American Clock Business, by Chauncey Jerome               12694
+   [Title: History of the American Clock Business for the Past Sixty Years,
+    and Life of Chauncey Jerome]
+   [Subtitle: Barnum's Connection with the Yankee Clock Business]
+   [Link: http://www.gutenberg.net/1/2/6/9/12694 ]
+   [Files: 12694.txt; 12694-h.htm; ]
+
+Principal Navigations, Voyages, Traffiques, Vol. 11, by Richard Hakluyt  12693
+   [Title: The Principal Navigations, Voyages, Traffiques, and Discoveries of
+    The English Nation, Volume 10] [Subtitle: Africa]
+   [Edited by Edmund Goldsmid]
+   [Language: English, Latin, Spanish, and Italian]
+   [Link: http://www.gutenberg.net/1/2/6/9/12693 ]
+   [Files: 12693.txt; 12693-8.txt; ]
+
+
+The Vertical City, by Fannie Hurst                                       12659
+   [Link: http://www.gutenberg.net/1/2/6/5/12659 ]
+   [Files: 12659.txt; 12659-8.txt]
+
+=-=-=-=[ 2 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Jun 2004 The Inquisitor, by Hugh Walpole                   [040055xx.xxx] 0363A
+   [http://gutenberg.net.au/ebooks04/0400551.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400551h.html ]
+Jun 2004 The Inquisitor, by Hugh Walpole                   [040054xx.xxx] 0362A
+   [http://gutenberg.net.au/ebooks04/0400541.txt or .z-p ]
+   [and http://gutenberg.net.au/ebooks04/0400541h.html ]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+Greg Newby highly recommends the new audio ebooks announced this week.  As
+indicated, these are human-read, and he suggests giving ". . these a listen.
+They're quite nice, and include some real favorites."  Your editor also
+recommends these, and if you, too, like them, would encourage you to send a
+thank you to warren_at_literalsystems.com.
+
+. . .
+
+Joe Loewenstein comments on the following about #2141, "Strictly Business",
+by O. Henry, just re-posted:  ". . .it contains one of O. Henry's very best
+stories: "A Municipal Report."  If any of you have not read this story, I
+highly recommend it."
+
+=============================================================================

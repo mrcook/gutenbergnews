@@ -1,0 +1,772 @@
+---
+params:
+  id: 2554
+title: PG Monthly Newsletter (2009-03-21)
+date: 2009-03-21T15:35:06+00:00
+author: Michael Cook
+layout: post
+url: /20090321/pg-monthly-newsletter-2009-03-21/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>Project Gutenberg Monthly Newsletter
+
+
+The Project Gutenberg Monthly Newsletter, Mar. 21, 2009
+eBooks Readable By Both Humans And Computers Since 1971
+
+45 Months to The End of the World Via Mayan Calendaring
+on December 21, 2012 [some now saying October 11, 2011]
+
+Leaving 3 years 9 months, 15 seasons or 44 months.
+
+Not to worry, I will still make long range predictions.
+
+Erratum:  Last month I reversed the labels on the month
+before and the month before that in the statistics part
+and I have two possible totals for the past month which
+are indicated in the current statistical review.
+
+It would be nice to have some do spreadsheets of these,
+hint, hint. . . .
+
+My apologies, it was a tough month.
+
+
+
+
+Headlines
+
+
+PG Listed in 100 Best Websites for Free Adult Education
+http://www.onlinedegreeworld.com/blog/2009/
+100-best-websites-for-free-adult-education/
+
+
+In line with our major projects for the year listed below, here
+is a cute little awk [mawk] script that you can use to convert
+eBooks to formats for smaller screens.  The default is 15 lines
+but you can work your own preferences into the script.
+
+Next month we should be announcing that pglaf.org will have the
+tools online for you to convert eBooks to be read on cellphones.
+
+If you can contribute any ideas, scripts, programs, etc., to the
+effort to make eBooks available on more devices just let me know
+and will write your contribution up a future Newsletter.
+
+
+Script begins:
+
+#!/usr/bin/mawk -f
+# Written by Jon-Egil Korsvold on friday the 13th of March 2009.
+Mare is short for Mawk Reformatter. The program can
+# reformat text files to increase readability on small devices
+with dumb ebook readers. My mp3 player has a 14 characters
+# wide display, and the ebook reader breaks the words in
+inappropriate places. This program doesn't split long words,
+# but the line is broken after each long word, so they won't
+mess up the display for more than a few lines.
+#
+# This program can be freely distributed. You may give away
+copies of it, but you may not sell it or remove my name from it.
+# Use at your own risk!! Run the program without arguments to get
+the manual _before_ you attempt anything else! You may
+# need too edit the path to mawk above and md some of the
+commands below. No warranty, have fun! This program has not been
+# extensively tested. It should be considered beta software.
+#
+#
+# Jon-Egil Korsvold 15th of March 2009
+#
+#
+
+[Warning from Michael Hart:  I am not sure my cut and paste did
+everything exactly, so if you have trouble running this, email
+me at hart at pglaf.org and I will forward you my original copy.]
+
+
+BEGIN {
+tempfile="/tmp/mare.txt"
+fc1="find -L "
+fc2=" -noleaf|egrep txt$|htm$|html$ &gt;&gt; "tempfile
+rm="rm "tempfile
+md="mkdir -p "          #for directories
+rm="rm "tempfile
+md="mkdir -p "          #for directories
+sep="/"
+x=0                     #Holds the current line position in
+characters
+y=0                     #Holds the length of the current word
+val=0                   #Holds the return value, if greater than 0,
+the help text is
+
+printed
+os="err"                #Dos or *nix
+#Exit if less than four arguments were used (width of display in
+characters, -d/-u,
+
+output dir and source
+dir)
+if (ARGC &gt; 3)
+         {
+         # Get and set width in characters, exit with error message
+unless the value
+
+is a number
+         count=ARGV[1]
+         ARGV[1]=""
+         if (count !~ /[0-9]+/)
+                 {
+                 val=1
+                 exit
+                 }
+
+         #The os value is initially "err". Set it to dos or nix if
+the appropriate
+
+switch was used. Define
+line endings
+         #accordingly. Exit with error message if os=err (No switch
+was used)
+         if (ARGV[2] ~ /^-d$/)
+                 {
+                 os="dos"
+                 nl="
+"
+                 os="dos"
+                 nl="
+"
+                 }
+         else
+                 {
+                 if (ARGV[2] ~ /^-u$/)
+                         {
+                         os="nix"
+                         nl="
+"
+                         }
+                 }
+         if (os ~ /^err$/)
+                 {
+                 print ("You have to use -d or -u as the second
+argument!")
+                 val=1
+                 exit
+                 }
+         ARGV[2]=""
+
+         #Get and set output directory. Add a trailing slash if
+necessary.
+         odir=ARGV[3]
+         ARGV[3]=""
+         if (odir ~ /./)
+                 {
+                 print ("The third argument has to be a directory. A
+file won't do!")
+                 val=1
+                 exit
+                 }
+         if (odir !~ sep"$")
+                 {
+                 odir=odir""sep
+                 }
+
+         #Loop through the rest of the command line arguments. Call
+find and grep to
+
+get the files in
+directories,
+         #but write files to tempfile directly. Skip unsopported file
+types with a
+
+warning.
+         fctr=4
+         while (fctr &lt; ARGC)
+                 {
+                 idir=ARGV[fctr]
+                 ARGV[fctr]=""
+                 if (idir ~ /./)
+                         {
+                         if (idir ~
+/.txt|.htm|.phtml|.shtml|.htm/)
+                                 {
+                                 system ("echo " idir " &gt;&gt; "
+tempfile)
+                                 }
+                         else
+                                 {
+                                 print ("The file type of " idir "
+isn't supported!")
+                                 }
+                         }
+                                 }
+                         }
+                 else
+                         {
+                         system(fc1 idir fc2)
+                         }
+                 fctr++
+                 }
+         FS=sep
+         fctr=0
+         #Exit with error message if tempfile is empty or doesn't
+exist.
+         if (getline &lt; tempfile &lt; 1)
+                 {
+                 print ("No files found!")
+                 val=1
+                 exit
+                 }
+         close (tempfile)
+
+         #Traverse tempfile line by line and use slash as field
+separator. The whole
+
+line is stored in pa
+(path array)
+         #which holds the input files. The last field holds the file
+name without the
+
+path, and it is stored i
+fa
+         #(file array). The field before the last field holds
+directory information.
+
+It is stored in da
+(directory array).
+         #Directories are created as needed below.
+         while (getline &lt; tempfile &gt; 0)
+                 {
+                 x=NF
+                 fa[fctr]=$x                     #file array
+                 if (x &gt; 1)
+                         {
+                         x--
+                         da[fctr]=$x                     #directory
+array
+
+(odir/da[actr]/)
+                         if (da[fctr] !~ sep"$")
+                                 {
+                                 da[fctr]=da[fctr]""sep
+                                 }
+                         }
+                 else
+                         {
+                         da[fctr]=""
+                         }
+                 system (md odir""da[fctr])
+                 pa[fctr]=$0                     #path array (for
+input files)
+                 fctr++
+                 }
+
+         #Reduce by one to get the last element of the arrays. Reset
+field separator
+
+to get words. Remove
+tempfile.
+         fctr--
+         FS=" "
+         system (rm)
+
+         #Loop through the arrays from the last to the first element
+(0). Try to open
+
+the elements in pa as
+files
+         #and print a warning on errors.
+         while (fctr &gt;= 0)
+                 {
+                 if (getline &lt; pa[fctr] &lt; 1)
+                         {
+                         print ("Error processing "pa[fctr])
+                         }
+                 close(pa[fctr])
+                 #Loop through the words in each line.
+                 while (getline &lt; pa[fctr] &gt; 0)
+                         {
+                         gsub ("
+", "") #Remove dos endings
+                         ctr=1           #Used to reference fields in
+the current
+
+record
+                         #Set output file, i.e. edit the path, add
+format information
+
+and change the
+                         #file type to txt.
+                         ofile=fa[fctr]
+                         gsub(/..*/,"",ofile)
+
+ofile=odir""da[fctr]"fmt-"count"-"ofile".txt"
+
+
+                         #Keep track of the length of current word
+(y) and the
+
+position on the line (x), break
+lines
+                         #accordingly with the content of nl (dos or
+nix endings)
+                         #Skip lines starting and ending with css or
+html commands
+                         while (ctr &lt;= NF && $0 !~ /^&lt;.*&gt;$/ && $0
+!~ /^{.*}$/)
+                                 {
+                                 y=length($ctr)
+                                 x=x+y
+                                 if (x &lt; count)  #Increment x to
+account for trailing
+
+space
+                                         {
+                                         x++
+                                         }
+                                 else
+                                         {
+                                         printf("%s",nl) &gt; ofile
+                                         x=y+1
+                                         }
+                                 #Remove some embedded html and css
+commands and
+
+superfluous spaces
+                                 gsub (/&lt;.*&gt;/, "")
+                                 gsub (/{.*}/, "")
+                                 gsub (/[ ][ ]+/, " ")
+                                 printf("%s ",$ctr) &gt; ofile
+                                 ctr++
+#Increment to
+
+reference next field (word) and
+loop
+                                 }
+                         if (NF == 0 && $0 !~ /^&lt;.*&gt;$/ && $0 !~
+/^{.*}$/)
+                                 #Print a double newline to make a
+paragraph if the
+
+record was empty
+                                 {
+                                 printf("%s%s", nl, nl) &gt; ofile
+
+                                 x=0
+                                 }
+                         }
+                 printf("%s%s", nl, nl) &gt; ofile
+                 print("Writing to "ofile)
+                 close(ofile)
+                 fctr--
+#Next file in array
+                 }
+         exit
+         }
+else
+         {
+         #exit with error message if less than four arguments were
+used
+         val=1
+         exit
+         }
+}
+
+#Exit with the help text in case of errors
+END{
+if (val == 1)
+         {
+         print ("
+
+Mare (mawk reformatter) reformats ebooks for
+viewing on small
+
+displays.
+")
+         print ("Width in characters, option, output directory, input
+directories or
+
+files")
+         print ("Example: mare 20 -d ebooks /mnt/sda2/gutenberg
+/mnt/sda2/freeread")
+         print ("Reformat all text and html files in the last two
+directories.")
+         print ("Use 20 characters per line and dos style line
+endings.")
+         print ("Reformat all text and html files in the last two
+directories.")
+         print ("Use 20 characters per line and dos style line
+endings.")
+         print ("The resulting files are written to the last level of
+the original")
+         print ("directory tree in the directory ebooks in the
+current directory.")
+         print ("Run the program without arguments to get this
+help!
+")
+         print ("Valid options:")
+         print ("-d	Use dos style line endings")
+         print ("-u	Use *nix style line endings
+
+")
+         print ("Requirements:")
+         print ("-	mawk")
+         print ("-	a *nix version of find")
+         print ("-	a *nix version of mkdir")
+         print ("-	echo")
+         print ("-	egrep")
+         print ("-	rm
+")
+         print ("The target os can be dos/win or *nix.")
+         print ("The host os probably has to be *nix.
+")
+         print ("Written in March 2009 by Jon-Egil Korsvold.")
+         print ("Use at your own risk, no warranty!")
+         print ("The program can be freely distributed with author
+information,")
+         print ("but not sold. Happy reading!")
+         }
+}
+
+
+
+
+
+A Few Major Projects To Start Out the New Year. . . .
+
+
+1.  Web Pages Designed By And For Our Project Gutenberg Readers.
+
+Including kids.  If you know of any kids or schools interested
+in making eBooks, eBook pages, etc., please let me know.
+
+In fact, I would LOVE to see kids write up their own versions of
+our classics such as Alice In Wonderland, Looking Glass or Peter
+Pan, Robin Hood, AEsop's Fables, etc., in their own words!!!
+
+THAT would be a VERY interesting collection to read!!!
+
+
+2.  Textbooks Are Becoming A More And More Highly Requested Item.
+
+3.  Request To Help Complete Our Collection Of Andrew Lang Books.
+
+4.  eBooks On Cellphones:  We Have Several Formats You Can Try.
+And a new one coming next month!
+
+
+
+
+1.  Web Pages Designed By And For Our Project Gutenberg Readers.
+
+
+This would include other languages, web pages designed by and for
+people of various ages from the youngest to the oldest, and, even
+web pages designed around favorite subjects, favorite authors, or
+even favorite books or characters.
+
+Personally, I would LOVE to see web pages designed for readers at
+various grade levels and then translated into many languages.
+
+
+
+2.  Textbooks Are Becoming A More And More Highly Requested Item.
+
+
+As more and more people spend more and more years homeschooling a
+greater portion of modern kids, they are asking us for more books
+to help teach any of the various subjects, from reading, writing,
+and arithmetic, to geography and astronomy, to the dinosaurs, and
+an enormous number of other subjects.
+
+If you ever wanted to pass on your knowledge, now is the time and
+the place, for books here last forever and cover the world.
+
+
+
+3.  Request To Help Complete Our Collection Of Andrew Lang Books.
+
+
+Many of you are familiar with the various "Color" Fairy Books, as
+"The Red Fairy Book," by Andrew Lang, and a host of other colors,
+but few of us have ever even seen a list of them all, including a
+surprising number of books relating true events, etc.
+
+If you find any Andrew Lang books, Fairy, Animal, True, etc., that
+we
+don't have in our collection, please let me know, and we will help
+in
+the process of completing this collection.
+
+
+
+4.  eBooks On Cellphones:  We Have Several Formats You Can Try.
+
+
+Let me know if you would like to help us set up our Cellphone pages
+to bring more eBooks to more people in more of the world.
+
+
+
+
+
+
+
+
+
+Our All Time Hottest Requests!!!!!!!
+
+
+
+FLASH RAM
+
+
+I am looking for the earliest flash RAM possible.
+
+The very earliest were PCMCIA cards, such as used for the
+Poqet computer, HP 95, etc.
+
+The earliest USB flash drives were Disgo/Dizgo, M-Systems
+and these were OEMed by IBM, HP, etc. They are particular
+in a recognizable fashion because their snapon connectors
+resemble the connectors of jigsaw puzzles.
+
+We received two examples of RAM actually labeled "Flash,"
+for the H-P 95 pocket DOS machine from 1991, and a sample
+of Fairchild bubble memory, as well, from down under.
+
+The PCMCIA cards were labeled series TWO, need series ONE.
+
+Thank you, Mate!
+
+
+
+POWERPOINT
+
+
+We need someone who can do PowerPoint illustrations.
+
+One in particular, building a 3-D box of 1,000 dominoes.
+
+
+
+
+
+Additional Newsletter Services
+
+
+In addition, we will provide the PG Canada Newsletter and
+totals from PG of Australia, Europe, PrePrints, etc.
+
+You should notice that we had a very good month, with 100
+books done nearly every single week.
+
+
+These totals do NOT include 75,000+ at
+
+httpwww.gutenberg.cc
+
+Where there are eBooks representing over 100 languages.
+
+
+
+
+The Project Gutenberg Statistical Report
+[As of about noon Central Daylight Time]
+
+
+These are the various totals from the ~30,000 at
+
+httpwww.gutenberg.org
+
+and our other Project Gutenberg Sites
+
+
+       day       | cnt
+----------------+-----
+  Sat 2009-03-14 |   2
+  Sun 2009-03-15 |  11
+  Mon 2009-03-16 |   8
+  Tue 2009-03-17 |   4
+  Wed 2009-03-18 |   6
+  Thu 2009-03-19 |   7
+  Fri 2009-03-20 |  13
+
+  Total             51
+
+
+Thanks to Marcello Perathoner!
+
+
+
+Here are the current language totals
+for languages with over 100 eBooks.
+
+28272
+
+23852   English en
+1392    French  fr
+572     German  de
+493     Finnish fi
+408     Dutch   nl
+399     Chinese zh
+312     Portuguese      pt
+227     Spanish es
+188     Italian it
+
+
+Grand total for today: 28,272  [+ 243]
+
+
+
+Compared to last month's 28,029
+
+23669   English en
+1374    French  fr
+567     German  de
+490     Finnish fi
+402     Dutch   nl
+399     Chinese zh
+302     Portuguese      pt
+225     Spanish es
+178     Italian it
+
+
+
+
+Thanks to Greg Newby!
+
+//////
+
+
+And From Project Gutenberg Sites Worldwide
+
+28,272   up   243  PG General Automated Count
+  1,749   up    21  PG of Australia
+    602   up    37  PG of Europe
+  2,020   up     2  PG PrePrints, Reserved [42],etc.
+    242   up    20  PG of Canada, Estimated.
+======
+32,814   up   367  or 323  Sorry, I reversed last months totals
+                    as below, my apologies, and can't find all
+                    of the details to check between these two.
+
+
+This was reported as last month but was really the month before.
+
+27,755   up   280  PG General Automated Count
+  1,728   up     5  PG of Australia
+    565   up    12  PG of Europe
+  2,013  DOWN  481  PG PrePrints, Reserved [42],etc.
+    222   up    20  PG of Canada, Estimated.
+======
+32,283  DOWN  164  due to PrePrints and Reserved fixes
+
+
+Reversed from what was reported as the month before below
+Switch the months and it will make much more sense, sorry.
+
+
+27,475  up   287    PG General Automated Count
+  1,723  up     6    PG Australia
+    553  up    13    PG Europe
+  2,494  up    33    PG PrePrints
+    202  up    12    PG Canada  [Estimated]
+======
+32,447  up   349    by various automated counts and newsletters
+
+
+Note  Without counting PrePrints, we are still about 30K,
+and some of the new .lit collection will not make it under
+our current rules of addition from PrePrints, and would be
+deleted from PrePrints without moving to other listings.
+
+The 307 Chinese eBooks in PrePrints will probably go, as a
+team of our best Chinese workers says they are not worth a
+lot more time to work on, etc.
+
+Note  There are perhaps 100 eBooks not listed here
+that are already in circulation from Project Gutenberg.
+
+Note  PG Canada includes English, French, and Italian.
+
+
+
+Here is how we ended 2008
+
+
+
+27,616   PG General Automated Count
+  1,726   Project Gutenberg of Australia
+    554   Project Gutenberg of Europe
+    225   Project Gutenberg of Canada [Estimated]
+          [202 up to December, no current report]
+  2,431   PrePrints [Counting the 307 Chinese eBooks +111]
+======   ======
+32,552   Grand Total [Counting those PrePrints]
+
+
+
+
+Here is how we ended 2007
+
+The combined PG projects had produced a total of 26,161 titles.
+
+
+The most number of books posted...
+  ...in one day was 65 on the 26th December
+  ...in one week was 151 in Week 18 (week ending 9th May)
+  ...in one month was 477 in November
+
+We averaged
+338 per month [Over 4,000 for the year]
+  78 per week
+  11.13 per day
+
+99 titles were newly REposted to the new filing system, bringing us
+almost to the
+
+2,000 mark.
+
+
+Here is a small selection of project milestones;
+
+TOTAL Original Project Gutenberg eBooks equals about
+the number of books in the average U.S. public library
+   32,500 on 20082121 [Counting the 307 Chinese Preprints]
+                      [And presuming 3 after official count]
+   32,000 on Calcuating
+   31,500 on 20081021 [not an error, 1,777 PrePrints]
+   30,000 on 20081021
+   29,500 on 20080919
+   29,000 ~~ Calculating
+   28,500 ~~ Calculating
+   28,000 ~~ 20080516
+   27,500 on 20080405
+   27,000 ~~ 20080229
+   26,500 on 20080126
+   26,000 on 20071224
+   25,000 on 20071012
+   24,000 on 20070710
+   23,000 on 20070415
+
+PG-AU
+   1,700 on 20081010
+   1,600 on 20080208
+   1,500 on 20070407
+
+PG Canada
+   175 on 20080930
+   100 on 20080325
+   110 on 20080417
+
+
+
+
+
+</pre>
+
+<a href="/nl_archives/2009/pgmonthly_2009_03_21.txt" target="_blank" rel="nofollow">pgmonthly_2009_03_21.txt</a>

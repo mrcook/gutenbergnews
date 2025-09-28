@@ -1,0 +1,449 @@
+The Project Gutenberg Weekly Newsletter 28th May 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+Part 2
+
+We have now completed 8075 ebooks!!!
+
+
+In this part of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) News
+3) Notes and Queries
+4) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+Lots happening here this week. If you are new to Project Gutenberg
+through the appearances Michael Hart has made in the media this past
+week, then I extend a warm welcome to you. 
+
+Happy reading,
+
+Alice
+
+(newsletter at schiffwood dot co dot uk - If you hit reply, the mail you
+send does not reach me and disappears into the ether.)
+
+We welcome feedback and awkward questions at the address above. Please feel free to send our general ramblings to a friend.
+
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+2) News
+
+Radio Gutenberg
+
+http://www.etc-edu.com
+
+May 24, 2003
+
+Third Week in May "Memorial Weekend" broadcast.
+
+On the technical front, we are pleased to announce the first Gutenberg
+Audio Book to feature "Dialog Management", a scripting feature that
+automatically recognizes dialog passages in a book, and shifts to a
+different audio context, just as live readers do when action takes
+place. This is the first step in automatically generating unique
+character voices for a work, a feat we expect to accomplish this very summer.
+
+Edgar Rice Burroughs' "Tarzan" is the vehicle for our first offering
+that uses this exciting new form of TTS automation.
+
+Now that we have introduced a synth voice reader that can beat the
+average volunteer reader 9 times out of 10 for consistency, clarity
+and plain ole excitement (yep, that was a challenge to anyone one
+there that thinks he can do better ...), we wanted to put a live
+benchmark out there that highlights the virtues of a good live reading.
+
+For that task, Bugsy makes a new reading of Ring Lardner's "The Real
+Dope", a comedy classic of World War I, and a big favorite of American
+Doug-boys in France.  Now Bugsy is a real actor, so we don't want to
+pit synth against him! His reading illuminates the good will and hope
+in the hearts of all the men who went to save France in her hour of need.
+His letters to Al are as fresh as the morning dew, bringing his
+character to life -- I can smell his cigarette!
+
+So here it is, Tarzan - an adventure classic - done better than you
+(or your screen reader) can manage for yourself, courtesy of
+"Dr. Kula", and "The Real Dope" the way you wish you could do it.
+
+Enjoy!
+
+mike eschman, etc ...
+
+
+
+                    -------------------
+
+"American Antiquities" series:
+
+Memorial Day in the US seemed a good time to start posting this series
+of illustrated html files.
+
+The exhaustive title page goes on:  "With a Variety of Reliques,
+Antiquities and Modern Autographs(1861)".
+
+There will be fourteen more eBooks of these "American Antiquities"
+to follow in the next weeks.   Many of the large images require use
+of the "Full Size" button under each image to appreciate detail.
+Anyone with a bit of time to explore old American history might
+download the following volume  (Plate 46 in this Vol. 7 will
+tear your heart out):
+
+http://ftp.ibiblio.org/pub/docs/books/gutenberg/etext05/aa07w10h.zip
+
+For this project we took advantage of Internet Archive's kind offer
+of their orbital scanner as many of the images are well beyond the
+size of an ordinary flatbed. The 14"x19" books were surface mailed
+from New York to California to Geof Pawlicki who scanned the double
+page images.
+
+
+Apr 2005 American Antiquities, J.J. Smith,   Part 10[AA#10][aa10wxxx.xxx]7910
+[Full Title: American Historical and Literary Curiosities]
+[Subtitle: Consisting of Fac-similies of Original Documents, etc, etc]
+[Authors: John Jay Smith and John F. Watson]
+[Illustrated HTML, zipped only - aa??w10h.zip]
+
+Apr 2005 American Antiquities, J.J. Smith,   Part  9 [AA#9][aa09wxxx.xxx]7909
+Apr 2005 American Antiquities, J.J. Smith,   Part  8 [AA#8][aa08wxxx.xxx]7908
+Apr 2005 American Antiquities, J.J. Smith,   Part  7 [AA#7][aa07wxxx.xxx]7907
+Apr 2005 American Antiquities, J.J. Smith,   Part  6 [AA#6][aa06wxxx.xxx]7906
+
+Apr 2005 American Antiquities, J.J. Smith,   Part  5 [AA#5][aa05wxxx.xxx]7905
+Apr 2005 American Antiquities, J.J. Smith,   Part  4 [AA#4][aa04wxxx.xxx]7904
+Apr 2005 American Antiquities, J.J. Smith,   Part  3 [AA#3][aa03wxxx.xxx]7903
+Apr 2005 American Antiquities, J.J. Smith,   Part  2 [AA#2][aa02wxxx.xxx]7902
+Apr 2005 American Antiquities, J.J. Smith,   Part  1 [AA#1][aa01wxxx.xxx]7901
+
+                    -------------------
+
+New and Improved service
+
+In a bid to make the newsletter more helpful to readers who may be
+blind or visually impaired and using screen reading software, we are
+now able to offer the booklisting in a different format to make your
+life a little easier. An example of the new style listing is given
+below. If you would like either a daily or weekly version of this list
+please email me at newsletter at schiffwood dot co dot uk, and state
+which version you require. 
+
+       0 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+The Happy End, by Joseph Hergesheimer              Apr 2005[?hpndxxx.xxx]7843
+[7-bit version with non-accented characters in 7hpnd10.txt and 7hpnd10.zip]
+[8-bit version with accented characters in 8hpnd10.txt and 8hpnd10.zip]
+
+Three Dramas, by Bjornstjerne M. Bjornson        [ Apr 2005?3dramxxx.xxx]7844
+[Subtitle: The Editor; The Bankrupt; The King]
+[7-bit version with non-accented characters in 73dram10.txt and 73dram10.zip]
+[8-bit version with accented characters in 83dram10.txt and 83dram10.zip]
+
+Toward the Gulf, by Edgar Lee Masters         [#2] Apr 2005[?gulfxxx.xxx]7845
+
+Departmental Ditties & Barrack Room Ballads        Apr 2005[dptdtxxx.xxx]7846
+[Author's Full Name: Rudyard Kipling]
+[This work combines two books by Rudyard Kipling: "Departmental Ditties,"]
+[originally published in 1886, and "Ballads and Barrack Room Ballads,"]
+[originally published in 1892.  Both works are already in the PG ]
+[collection with separate eBook numbers.]
+
+Jack North's Treasure Hunt, by Roy Rockwood        Apr 2005[?jnthxxx.xxx]7847
+[Also posted HTML - 8jnth10h.zip and 8jnth10h.htm]
+
+Last Poems, by A. E. Housman                  [#3] Apr 2005[?lspmxxx.xxx]7848
+
+The Trial, Franz Kafka, Trans. David Wyllie [FK 2] Apr 2005[metamxxx.xxx]7849C
+
+Memoirs of Aaron Burr, Volume 1., Matthew L. Davis Apr 2005[?bur1xxx.xxx]7850
+
+Memoirs of Aaron Burr, Volume 2., Matthew L. Davis Apr 2005[?bur2xxx.xxx]7851
+
+Memoirs of Aaron Burr, Complete,  Matthew L. Davis Apr 2005[?bur3xxx.xxx]7852
+
+Quentin Durward, by Sir Walter Scott               Apr 2005[qntdrxxx.xxx]7853
+[7-bit version with non-accented characters in qntdr10.txt and qntdr10.zip]
+[HTML version in qntdr10h.htm and qntdr10h.zip]
+
+Les Noces Chimiques, by Christian Rosencreutz      Apr 2005[ncschxxx.xxx]7854
+[Author AKA: Johann Valentin Andreae]
+[Language: French]
+[Translated from German]
+[The zip file contains 6 images]
+
+The Vision of Desire, by Margaret Pedler           Apr 2005[?vsdsxxx.xxx]7855
+[7-bit version with non-accented characters in 7vsds10.txt and 7vsds10.zip]
+[8-bit version with accented characters in 8vsds10.txt and 8vsds10.zip]
+
+The Cheerful Cricket and Others,byJeannette Marks  Apr 2005[chrcrxxx.xxx]7856
+
+The Way of an Indian, by Frederic Remington        Apr 2005[wyindxxx.xxx]7857
+[Full author: Written and Illustrated by Frederic Remington]
+[Also posted in illustrated HTML, zipped only - wyind10h.zip]
+
+L'Arrabbiata, by Paul Heyse                   [#2] Apr 2005[?heysxxx.xxx]7858
+[Language: German]
+
+Der Diamant des Geisterkoenigs, by F. Raimund [#6] Apr 2005[?diamxxx.xxx]7859
+[Full author: Ferdinand Raimund]
+[Language: German]
+
+Die unheilbringende Krone,by Ferdinand Raimund[#7] Apr 2005[?kronxxx.xxx]7860
+[Language: German]
+
+Moisasurs Zauberfluch, by Ferdinand Raimund   [#9] Apr 2005[?zaubxxx.xxx]7861
+[Language: German]
+
+The Sword of Antietam, by Joseph A. Altsheler      Apr 2005[tsantxxx.xxx]7862
+
+American Antiquities, J.J. Smith,   Part  1 [AA#1] Apr 2005[aa01wxxx.xxx]7901
+
+American Antiquities, J.J. Smith,   Part  2 [AA#2] Apr 2005[aa02wxxx.xxx]7902
+
+American Antiquities, J.J. Smith,   Part  3 [AA#3] Apr 2005[aa03wxxx.xxx]7903
+
+American Antiquities, J.J. Smith,   Part  4 [AA#4] Apr 2005[aa04wxxx.xxx]7904
+
+American Antiquities, J.J. Smith,   Part  5 [AA#5] Apr 2005[aa05wxxx.xxx]7905
+
+American Antiquities, J.J. Smith,   Part  6 [AA#6] Apr 2005[aa06wxxx.xxx]7906
+
+American Antiquities, J.J. Smith,   Part  7 [AA#7] Apr 2005[aa07wxxx.xxx]7907
+
+American Antiquities, J.J. Smith,   Part  8 [AA#8] Apr 2005[aa08wxxx.xxx]7908
+
+American Antiquities, J.J. Smith,   Part  9 [AA#9] Apr 2005[aa09wxxx.xxx]7909
+
+American Antiquities, J.J. Smith,   Part 10[AA#10] Apr 2005[aa10wxxx.xxx]7910
+[Full Title: American Historical and Literary Curiosities]
+[Subtitle: Consisting of Fac-similies of Original Documents, etc, etc]
+[Authors: John Jay Smith and John F. Watson]
+[Illustrated HTML, zipped only - aa??w10h.zip]
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+3) Notes and Queries
+
+Gutenberg Gazette
+
+If you would like to be involved with the second edition of the
+Gutenberg Gazette, send an email to
+
+gutnews@listserv.unc.edu with 
+
+subscribe gutnews firstname surname
+
+in the body of the message.
+
+If you would like to try out a copy of the first edition, email me
+here at the address above, and I will be happy to send a copy out to
+you. If you would like a copy in a language other than English, please
+let me know.
+                    -------------------
+
+Wanted: Newsletter Volunteer
+
+Requirements: Sense of humour and sense of humor(that is not a
+misprint).
+
+Also helpful: Ability to string together words derived from the
+English language into a coherent sentence. Understanding of British
+sense of irony. Must have heard of Spike Milligan.
+
+Please apply to newsletter at schiffwood dot co dot uk, email must
+make me laugh.
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research may need to be done by our professional Chief Cataloguer, so for those who wish to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS: A PAGE A DAY OR MORE IS ALL IT TAKES
+
+If you haven't already, please visit the Project
+Gutenberg Distributed Proofreading (DP) project:
+
+	http://texts01.archive.org/dp
+
+By spending a few minutes per page, you can help
+Project Gutenberg to reach our goal of 10,000 eBooks
+by the end of 2003.  Proofreading is easy and fun,
+and there are easy books for newcomers to select from.
+
+Distributed Proofreading is seeking post-processing
+people, too.  After you have completed a number of
+pages, you can start doing final assembly on eBooks.
+There are hundreds of eBooks ready for post-processing,
+and you could help to get them added to the Project
+Gutenberg collection!
+
+Got books suitable for destructive scanning (where the
+binding is chopped off so the pages may be fed to an
+automatic scanner)?  Check whether they're already in
+the collection, and if not send them to our scanner
+site:
+
+	Charles Franks
+	9030 W. Sahara Ave. #195
+	Las Vegas, NV 89117
+
+To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  The
+In Progress list includes eBooks that are not yet completed:
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+For more information about Distributed Proofreading,
+email Charles Franks <charlz@lvcablemodem.com>
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://gutenberg.net/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+the booklists. Greg, Michael, Mark (who has finally made some beer,
+and looked after me last week when I was ill, what a nice man) and
+Larry Wall. Entertainment for the workers provided by Andrew Collins.

@@ -1,0 +1,594 @@
+========
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+From: Michael Hart <hart@beryl.ils.unc.edu>
+To: "Project Gutenberg Weekly Newsletter" <gweekly@listserv.unc.edu>
+Date: Wed, 3 Apr 2002 15:06:32 -0500 (EST)
+
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, April 3, 2002**
+*eBooks Readable By Both Humans and Computers Since Before The Internet*
+
+
+Daylight Savings Time Starts This Weekend, Set FORWARD One Hour Sat Nite
+
+
+It's National Library Week, Celebrate By Giving Away Some eBooks On Disk
+
+
+
+ *****Please Note The Addition Of New Music Scores In A New Format*****
+
+
+
+1,542   New eBooks In The Last Year!!!
+3,359   eBooks This Week Last Year
+4,901   Tree-Friendly Titles Now Online
+
+   37   New This Week
+   47   Weekly Average This Year
+  190   New This Month
+  609   New This Year!!!
+   33   New This Week Last Year
+
+   58   eBooks From Project Gutenberg of Australia
+   58   *Reserved* Numbers
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Requests For Assistance From Our Volunteers (comment above)
+- Making Donations
+- Access To The Collection
+- Information About Mirror Sites
+- Weekly etext update:
+  A new eBook from PG of Australia
+  Updates/corrections
+  46 new U.S. eBooks
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+
+DONATIONS TO PROJECT GUTENBERG
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive
+Foundation (PGLAF), a corporation registered in the US State of
+Mississippi.  PGLAF is approved as a charitable 501(c)(3) organization
+by the US Internal Revenue Service, and has the Federal Employee
+Information Number (EIN) 64-6221541.
+
+More information about PGLAF is available, including several different
+methods of donating.  Please visit http://promo.net/pg/fundraising, or
+email the PGLAF's chief executive officer (and volunteer), Dr. Gregory
+B. Newby <gbnewby@ils.unc.edu>
+
+
+- Information About Mirror Sites
+
+
+New Site  :Sponsoring Organization is
+Spiritdancers Family (Private Website)
+City: Seattle, USA, North America
+ftp://spiritdancers.org/pub/mirrors/pg
+http://www.spiritdancers.org/pg/index.html
+
+
+Engima Technologies Corp. @ http://www.engima.com) is undertaking
+the audio enablement of the Gutenberg Collection using open source
+technology. You can go to our website to listen to H.G. Wells "The Time
+Machine" and get an idea of audio quality.  This example incorporates
+sound effects, which you can create using the same software we use, but,
+the music in the overtures / epilogues of the chapters is copyrighted /
+licensed. Incorporating free music (donations) by artists themselves is
+encouraged. Music is 100 % non-essential, just nice to enhance the
+experience of listening to some of the books.
+
+Interested in participating?  Contact mike eschman <meschman@engima.com>
+
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Choose a mirror of the Project
+Gutenberg collection near you.
+
+For "instant" access to our new Etexts you can surf to:
+
+<http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+or
+<ftp://ibiblio.unc.edu/pub/docs/books/gutenberg/etext04>
+
+You will need the first five letters of the filenames listed below.
+
+Note that updated etexts usually go in the original directory of
+their assigned year of publication  (e.g., etext99, etext00, etc.)
+
+***
+
+Total PG ebooks available online **AS OF 03/27/02**:  4,863
+(This number includes the 56 etexts posted at the PG Australia web site)
+
+In the first 11 weeks of the new year, we have produced 571 new eBooks.
+Note: it took us from 1971 to 1996 to produce our *FIRST* 571 eBooks!!!
+
+The production statistics are calculated based on full weeks of
+production, each production-week ending on a Wednesday, starting
+with the first Wednesday in Jan.  In 2002, Jan 2nd was the first
+Wednesday, and Jan 9th was the end of the first week of production.
+
+With 4,816 eTexts online as of March 20, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.06 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $3.01 when we had 3326 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.95 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 32% less a year later???
+
+***
+
+
+*Here Are The New Files We Have Done In The Past Week*
+
+
+--==] 1 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [==--
+
+Mar 2002 The Bishop Murder Case, by S S Van Dine    [SV#01][020024xx.xxx]0058A
+[http://gutenberg.net.au/0200241.txt or .ZIP]
+
+Etexts are held in TXT and ZIP formats.  To access these etexts, go to
+http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+
+--==] CORRECTIONS, REVISIONS AND NEW FORMATS [==--
+
+Corrected EDITIONS of our etexts get a new NUMBER, xxxxx11.txt.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt.
+
+Please note the following various changes, corrections and improvements:
+
+The following entries from last week are changed to reflect the
+correct spelling of "Bulfinch" and "Charlemagne"
+Jan 2004 Bulfinch's Mythology, by Thomas Bulfinch      [#4][bllfnxxx.xxx]4928
+[Contains:  The Age of Fable, The Age of Chivalry, & Legends of Charlemange]
+Jan 2004 Legends of Charlemagne, by Thomas Bulfinch    [#3][lgndsxxx.xxx]4927
+Jan 2004 The Age of Chivalry, Thomas Bulfinch [Bullfinch#2][thgfcxxx.xxx]4926
+Jan 2004 The Age of Fable, by Thomas Bulfinch [Bullfinch#1][thgffxxx.xxx]4925
+
+
+This etext has been REMOVED from the collection:
+Jan 2004 Art of Money Getting, by P.T. Barnum              [amgetxxx.xxx]4922
+(#4922 has been reassigned to a completely different Etext.)
+
+
+We have released an improved 12th edition of:
+Oct 1994 The Phantom of the Opera, by Gaston Leroux        [phantxxx.xxx] 175
+
+
+We have released an improved 11 edition of the following:
+Oct 2002 Legends of Vancouver, by E. Pauline Johnson       [legvaxxx.xxx]3478
+May 2001 V1 Life and Letters of Lord Macaulay, by Trevelyan[1lllmxxx.xxx]2647
+May 2001 History of England, James II>  V. 5, Macaulay[#12][5hoejxxx.xxx]2614
+May 2001 History of England, James II>  V. 4, Macaulay[#11][4hoejxxx.xxx]2613
+Apr 2001 Psmith, Journalist, by P. G. Wodehouse[Wodehouse4][psmthxxx.xxx]2607
+Jun 2000 A Damsel in Distress, by P.G. Wodehouse  [PGW #3] [dmsndxxx.xxx]2233
+Dec 1999 Piccadilly Jim, by Pelham Grenville Wodehouse [#1][pccjmxxx.xxx]2005
+Nov 1996 Decline and Fall of the Roman Empire by Gibbon V5 [5dfrexxx.xxx] 735
+[Full Title: The History of the Decline and Fall of the Roman Empire]
+[Author: Edward Gibbon]
+(Note:  This eBook includes twenty pages previously missing from Chapter LI.
+  of volume 5.)
+Nov 1996 Decline and Fall of the Roman Empire by Gibbon V2 [2dfrexxx.xxx] 732
+Feb 1994 Far From the Madding Crowd, Thomas Hardy [Hardy#1][crowdxxa.xxx] 107
+
+
+
+
+
+--==] 36 NEW U.S. POSTS [==--
+
+Jan 2004 Life of John Coleridge Patteson, by C. Yonge [#26][ljcptxxx.xxx]4952
+[Author's Full Name: Charlotte M. Yonge]
+
+Jan 2004 String Quarted No. 17, Wolfgang Amadeus Mozart[#3][wm458xxx.xxx]4951
+[Full title: String Quartet No. 17 in B flat Major (The Hunt), K.458]
+[This is a musical score in Finale .MUS format] [ etext04: wm45810.zip]
+
+Jan 2004 String Quartet No. 2, Ludwig van Beethoven[LVB #4][lv182xxx.xxx]4950
+[Full title: String Quartet No. 2 in G Major, op. 18, no. 2]
+[This is a musical score in Finale .MUS format] [ etext04: lv18210.zip]
+
+Jan 2004 Brandenburg Concerto No. 2, J.S. Bach     [JSB #1][jbbb2xxx.xxx]4949
+[Full title: Brandenburg Concerto No. 2 in F Major, BWV 1047]
+[This is a musical score in Finale .MUS format] [ etext04: jbbb210.zip]
+
+Jan 2004 Love, The Fiddler, by Lloyd Osbourne [Osbourne #4][lvtfdxxx.xxx]4948
+[Co-Authored three other Project Gutenberg eBooks with Robert Louis Stevenson]
+
+Jan 2004 Sisters, by Kathleen Norris             [Norris#9][sstrnxxx.xxx]4947
+Jan 2004 Madame Midas, by Fergus Hume              [Hume#4][mdmmdxxx.xxx]4946
+
+Jan 2004 Jane Allen: Junior, by Edith Bancroft             [jnljrxxx.xxx]4945
+Jan 2004 Scenes and Characters, Charlotte M. Yonge[Yonge#25][scchxxx.xxx]4944
+Jan 2004 The River War, by Winston S. Churchill    [PMWS#1][?rivrxxx.xxx]4943
+[Subtitle: An Account of the Reconquest of the Sudan]
+[7-bit version with non-accented characters in 7rivr10.txt and 7rivr10.zip]
+[8-bit version with accented characters in 8rivr10.txt and 8rivr10.zip]
+Jan 2004 Evolution of Expression V1, Charles Wesley Emerson[vlxprxxx.xxx]4942
+Jan 2004 The House Boat Boys, by St. George Rathborne      [hsbtbxxx.xxx]4941
+
+Jan 2004 Grace Harlowe's Senior Year, Jessie Graham Flower [grhsyxxx.xxx]4940
+[Full title: Grace Harlowe's Senior Year at High School]
+Jan 2004 Chopin: The Man and His Music, by James Huneker   [chmmmxxx.xxx]4939
+Jan 2004 US Presidential Inagural Addresses, by Various    [inaguxxx.xxx]4938
+[Subtitle: From 1789 to the Present]
+(inagu10.txt and inagu10.zip have all addresses combined in one long file,
+  inagu10m.zip has each address in a separate file.  Contents are listed
+  in each.)
+Jan 2004 Hudibras, by Samuel Butler             [Butler#11][hdbrsxxx.xxx]4937
+Jan 2004 Li Romanz de l'estoire dou Graal, Robert de Boron [?graaxxx.xxx]4936
+[7-bit version with non-accented characters in 7graa10.txt and 7graa10.zip]
+[8-bit version with accented characters in 8graa10.txt and 8graa10.zip]
+[Language: French]
+
+Jan 2004 Pathologie Verbale, ou L_sions de certains mots da[?pverxxx.xxx]4935
+[Full Title: Pathologie Verbale, ou L_sions de certains mots dans le cours
+  de l'usage]
+[Author's Full Name: Emile Littre]
+[Author AKA: +mile Littr_]
+[7-bit version with non-accented characters in 7pver10.txt and 7pver10.zip]
+[8-bit version with accented characters in 8pver10.txt and 8pver10.zip]
+[Language: French]
+Jan 2004 The Natural History of Wiltshire, John Aubrey [#2][nhwilxxx.xxx]4934
+Jan 2004 L'Escalier d'Or, by Edmond Jaloux                 [?ledoxxx.xxx]4933
+[7-bit version with non-accented characters in 7ledo10.txt and 7ledo10.zip]
+[8-bit version with accented characters in 8ledo10.txt and 8ledo10.zip]
+Jan 2004 A Knight of the White Cross, G.A. Henty  [Henty#7][kniwcxxx.xxx]4932
+[Subtitle: A Tale of the Siege of Rhodes]
+Jan 2004 Won by the Sword, by G.A. Henty          [Henty#6][wbtsdxxx.xxx]4931
+[Subtitle: A Story of the Thirty Years' War]
+
+Jan 2004 Paste Jewels, by John Kendrick Bangs      [Bangs#7][psjwxxx.xxx]4930
+
+Jan 2004 Bar-20 Days, by Clarence E. Mulford    [Mulford#2][br20dxxx.xxx]4922
+(This is re-use of #4922; the prior ebook #4922 was removed)
+
+Jan 2004 The Lucky Man, by M. Baron, Frank J. Morlock trans[luckyxxx.xxx]4906C
+[Author's name: Michel Baron; Frank J. Morlock translator]
+
+Jan 2004 Entire 1584-86 United Netherlands,  by Motley[#47][jm47vxxx.xxx]4847
+Jan 2004 History United Netherlands, 1586    by Motley[#46][jm46vxxx.xxx]4846
+
+Jan 2004 History United Netherlands, 1586    by Motley[#45][jm45vxxx.xxx]4845
+Jan 2004 History United Netherlands, 1585-86 by Motley[#44][jm44vxxx.xxx]4844
+Jan 2004 History United Netherlands, 1585    by Motley[#43][jm43vxxx.xxx]4843
+Jan 2004 History United Netherlands, 1585    by Motley[#42][jm42vxxx.xxx]4842
+Jan 2004 History United Netherlands, 1585    by Motley[#41][jm41vxxx.xxx]4841
+
+Jan 2004 History United Netherlands, 1585    by Motley[#40][jm40vxxx.xxx]4840
+Jan 2004 History United Netherlands, 1585    by Motley[#39][jm39vxxx.xxx]4839
+Jan 2004 History United Netherlands, 1584-85 by Motley[#38][jm38vxxx.xxx]4838
+Jan 2004 History United Netherlands, 1584    by Motley[#37][jm37vxxx.xxx]4837
+[Full Title: History of the United Netherlands From the Death of William
+  the Silent to the Twelve Year's Truce]
+[Author: John Lothrop Motley]
+
+***
+
+     Total PG ebooks available online **AS OF 04/03/02**:  4,901
+(This number includes the 58 etexts posted at the PG Australia web site)
+
+In the first 11 weeks of the new year, we have produced 609 new eBooks.
+Note: it took us from 1971 to 1996 to produce our *FIRST* 609 eBooks!!!
+
+The production statistics are calculated based on full weeks of
+production, each production-week ending on a Wednesday, starting
+with the first Wednesday in Jan.  In 2002, Jan 2nd was the first
+Wednesday, and Jan 9th was the end of the first week of production.
+
+With 4,901 eTexts online as of April 3, it now takes an average
+of 100,000,000 readers gaining a nominal value of $2.04 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.98 when we had 3359 Etexts A Year Ago
+
+Can you imagine 5,000 books each costing $.94 less a year later???
+Or. . .would this say it better?
+Can you imagine 5,000 books each costing 32% less a year later???
+
+***
+
+Headlines From Newsscan
+
+NEW SEARCH ENGINE HOPES TO OUTGOOGLE GOOGLE
+A new search engine called Teoma is angling to unseat Google from its lofty
+position as the widely acknowledged leader in finding things on the Web.
+"We are the next generation in search," says developer Apostolos
+Gerasoulis, who has had Google in his sights since he founded Teoma in
+1999. "Google has reached its maturity." Teoma, which is a Gaelic term for
+"expert," was bought up by Ask Jeeves for $4.4 million last year and is
+relying on Jeeves' deep pockets to finance its challenge. While both Google
+and Teoma depend on complicated algorithms to analyze search requests,
+Teoma says its formula is more effective because it breaks the Web into
+clusters of online communities that serve to categorize results better and
+offer more helpful choices. Teoma also offers links to subcategories that
+might not have been included in the original request as well as a section
+devoted to "expert" sources. Ask Jeeves, which installed Teoma on its site
+in December, reports a 25% increase in clicks on search results and a 15%
+decline in users leaving the site in frustration. It's hoping to license
+Teoma's search engine to other sites this summer. (AP 31 Mar 2002)
+
+INTERNET USE TRENDS IN 2001
+A new report by the Nielsen/NetRatings firm says that the overall expansion
+of the Internet slowed down in 2001 from the double-digit growth rates seen
+in the 1990s to a more modest 6% growth in the number of "active users"
+(people who go online at least once a month). However, those who do log on
+are likely to stay on longer: users spent 17 hours a month online in
+December 2001, up from 15 the previous year. The most active users of all
+tended to be those with DSL, cable modem or other high-speed connections.
+There were 21 million people with such connections at the end of 2001,
+compared to only 11.7 million at the end of 2000. (USA Today 28 Mar 2002)
+http://www.usatoday.com/life/cyber/tech/2002/03/28/net-statistics.htm
+
+WHO THOUGHT UP THE AOL TIME WARNER MERGER?
+Once hyped as the greatest idea since the invention of sliced bread, the
+merger two years ago of "new economy" company online company AOL and "old
+economy" publishing empire Time Warner now seems as stale as yesterday's
+croissants. In January 2000 the two companies together were worth more than
+$300 billion, but now they are down to one-third that amount ($105 billion,
+and a further descent is expected). What was the idea? To get marketing
+"synergy" that would make the new company more valuable than the sum of its
+two parts. But the synergies failed to materialize, and now the company
+sometimes seems to be contemplating its own navel (AOL Time Warner is AOL
+Time Warner's biggest advertiser). Industry analyst Rick Berry in Atlanta
+thinks that the company's stock is still a "sell," calling the merger "an
+absolute mistake," and says: "The only reason it went through is that this
+was during the silly times in the market. Otherwise, there was not a chance
+in hell." (Washington Post 1 Apr 2002)
+http://www.washingtonpost.com/wp-dyn/articles/A43992-2002Mar31.html
+
+KAZAA JUDGMENT OVERTURNED BY DUTCH COURT
+A Dutch appeals court has ruled that KaZaA, which makes software that
+enables users to download music, videos and other copyrighted material, is
+not liable for copyright infringement. The decision overturns a judgment
+rendered last November, which found KaZaA guilty of violating copyright
+law. The appellate court ruling maintains that it's the users of KaZaA's
+Media Desktop software who are the infringers, and adds that Media Desktop
+was not exclusively designed to pirate copyrighted works. (Reuters/Los
+Angeles Times 29 Mar 2002)
+http://www.latimes.com/technology/la-000022513mar29.story?coll=la%2Dheadlines%2D
+technology
+
+'SMART CARD' FOR FREQUENT FLIERS
+EDS, Maximus, and other high-tech companies are racing to capture the
+emerging market for "smart cards" that will allow frequent fliers to speed
+through air security checkpoints after they submit to retina or hand scans.
+Promoters of the systems believe that "trusted traveler" programs like
+these not only add to customer convenience but also enhance security, by
+providing (in the words of an EDS executive) "better knowledge of the
+people getting on the airplane." Civil libertarians are skeptical, and
+Barry Steinhardt of the American Civil Liberties Union worries that the use
+of such systems would "encourage security personnel to put their guard
+down" and that terrorists would just obtain phony documents. But Rachel
+Rowland of Maximus says, "It's far easier for someone to get a fake
+driver's license. With these cards, nobody else is going to have the same
+digital map of your fingerprint." (AP/San Jose Mercury News 28 Mar 2002)
+http://www.siliconvalley.com/mld/siliconvalley/2955860.htm
+
+WEB SITES COLLECTING LESS PERSONAL DATA
+Many commercial Web sites are cutting back on the amount of personal data
+they regularly collect on visitors, with 84% of the 85 sites polled
+reporting that they're gathering less data than they did two years ago.
+That said, most of the sites -- 96% -- still collect at least some data
+from users, according to a survey conducted for the Progress and Freedom
+Foundation. The survey included such popular Web sites as Amazon, Google
+and Travelocity. Foundation President Jeffrey Eisenach said that the
+responses indicated a trend toward giving consumers more control over how
+their private information is used: 93% of the Web sites surveyed gave users
+the option of restricting the sale or transfer of their information to
+other businesses, up from 77% in 2000, and some 72% of sites promised
+consumer data would be secure, up from 48% the year before. (Wall Street
+Journal 28 Mar 2002)
+http://online.wsj.com/article/0,,SB1017247161553469240.djm,00.html (sub req'd)
+
+
+You have been reading excerpts from NewsScan Daily
+Underwritten by Arthur Andersen & IEEE Computer Society
+[Last quotes underwritten by Arthur Andersen. . . .]
+If you have questions or comments about NewsScan
+send e-mail to     Editors@newsscan.com
+To subscribe or unsubscribe to NewsScan Daily,
+send an e-mail message to     NewsScan@NewsScan.com
+with 'subscribe' or  'unsubscribe' in the subject line.
+
+
+Headlines From Edupage
+
+THE ROCKY ROAD OF COPYRIGHT PROTECTION
+A bill recently introduced by Sen. Hollings has drawn criticism from
+various experts, though copyright owners support efforts to curb the
+illegal reproduction of copyrighted works. David J. Farber, a
+professor of telecommunications systems at the University of
+Pennsylvania in Philadelphia and a former chief technologist at the
+FCC, said the bill is a "very, very badly conceived idea." Rob
+Enderle, an analyst at Giga Information Group Inc. speculated that
+the restrictions the bill would impose could flatten the market for
+PCs because copying songs is "one of the reasons people buy new
+machines." The Recording Industry Association of America defended
+copyright protection measures, saying that piracy cost the industry
+$3 billion in 2001.   Computerworld, 1 April 2002
+http://www.computerworld.com/storyba/0,4125,NAV47_STO69702,00.html
+
+MICROSOFT, PATCHES AND PROBLEMS
+Despite releasing a patch last week for two security flaws in
+Internet Explorer, Microsoft is under pressure from security groups
+to address a recently revealed problem in Windows NT and Windows 2000.
+The IE patch fixed two holes: one would allow hackers to put damaging
+code on a Web surfer's computer through a cookie, while the other
+could permit the execution of files that already exist on a computer
+when the user visits a Web page. The Windows flaw can allow hackers
+to gain otherwise restricted privileges on servers running either of
+the operating systems. As with other software flaws recently, this
+one was revealed by a security services company that decided
+information about the flaw was spreading faster than a patch was
+being developed, raising the risk of the flaw being exploited.
+CNet, 29 March 2002  http://news.com.com/2100-1001-871771.html
+
+NEW SEARCH ENGINE TAKES ON GOOGLE
+A Rutger's University mathematics professor is confident that the
+new version of his search-engine technology will outshine Google,
+which many regard as the best available search engine. Apostolos
+Gerasoulis, the man behind Teoma, has been working on his search
+engine since 1999 and received the financial support to take on
+Google when he sold Teoma to Ask Jeeves for $4.4 million last year.
+Since then, new tools have been added to Teoma that Gerasoulis
+believes make his product more effective at finding Web resources
+than Google. The algorithms that Teoma uses divide the Web into
+clusters of online communities. Rob Lancaster of the Yankee Group
+said that one of the benefits of Google is its simplicity and that
+Teoma will have to educate users about how to get the most from
+its site.      Associated Press, 1 April 2002
+http://www.nandotimes.com/technology/story/337110p-2800855c.html.com
+
+SURVEY SHOWS MOST WEB SITES COLLECTING LESS INFORMATION
+A new survey indicates that most Web sites, including some of
+most commonly used sites, are collecting less personal data from
+users than they were two years ago. The survey was conducted by
+the Progress and Freedom Foundation, a Washington, D.C., group
+opposed to new privacy legislation. Timothy Muris, chairman of
+the Federal Trade Commission, applauded the change, pointing to
+market forces as at least partly responsible. The study also
+indicated that more sites reveal exactly how personal data
+collected will be used.
+(Associated Press, 27 March 2002)
+
+YAHOO! REVISES PRIVACY POLICY
+Internet portal Yahoo! has announced a new privacy policy that
+makes it easier for the company to release personal information
+to third parties. Yahoo! stated that the new policy replaces
+three previous policies in an effort both to be as clear as
+possible and to comply with legislation including the Gramm-
+Leach-Bliley Act of 1999. According to the new policy, users'
+personal data can be released to investigators looking into
+allegations of illegal activity including fraud and threats.
+The policy also states that if Yahoo! is acquired by another
+firm, that firm's policy regarding personal data would apply
+to Yahoo! data. Evan Hendricks, editor of the newsletter
+"Privacy Times," said that especially in the aftermath of
+September 11, the pendulum of privacy has swung "toward making
+it easier to disclose information."
+(CNet, 28 March 2002)
+
+FBI MUST TURN OVER CARNIVORE INFO
+A federal judge has ordered the FBI to dig deeper in trying to
+locate information collected by its Carnivore e-mail surveillance
+tool. The FBI contends that all data collected using Carnivore
+was gathered under the authority of court orders. The FBI had
+turned data over as part of a legal battle with the Electronic
+Privacy Information Center (EPIC), but the judge agreed with
+EPIC that the FBI may not have produced all of the documents
+related to Carnivore searches. EPIC took the FBI to court in
+July of 2000 to try to gain access to the data under the Freedom
+of Information Act. The outcome of the case will likely affect
+how the federal government uses electronic surveillance in its
+investigations.   (ZDNet, 27 March 2002)
+
+
+
+
+
+
+
+
+
+
+
+You have been reading excerpts from Edupage:
+If you have questions or comments about Edupage,
+send e-mail to: edupage@educause.edu
+To SUBSCRIBE to Edupage, send a message to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+
+and in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+
+
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://lyris.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://lyris.unc.edu/help
+
+***
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Project Gutenberg Monthly Newlsetter
+[gmonthly] Rosetta Stone as eBook
+
+
+We are exploring doing something on the order of public domain translations of 
+the various Ancient Greek, Coptic, Hieroglyphs et al from The Rosetta Stone.
+
+Please advise if you would be interested in helping.
+
+
+We put this in Preprints:
+
+  http://preprints.readingroo.ms/rosetta/
+
+Including a README.TXT
+
+Original source:
+
+  http://books.google.com/books?id=Q5Ow9Ub_BIgC&oe=UTF-8
+
+it's also at archive.org, with raw OCR
+
+
+Many thanks!!!
+
+
+
+  -- Greg and Michael
+_______________________________________________
+gmonthly mailing list
+gmonthly@lists.pglaf.org
+http://lists.pglaf.org/mailman/listinfo/gmonthly

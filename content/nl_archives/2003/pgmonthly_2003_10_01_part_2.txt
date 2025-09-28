@@ -1,0 +1,882 @@
+From - Wed Oct 01 19:43:18 2003
+Date: Wed, 01 Oct 2003 18:32:04 -0400 (EDT)
+From: Alice Wood <alice at beryl dot ils dot unc dot edu>
+To: Project Gutenberg Monthly Newsletter <gmonthly@listserv.unc.edu>
+Subject: [gmonthly] Pt2 Project Gutenberg Monthly Newsletter Oct 2003
+X-Message-Id: <200310012232.h91MW4F8016693@beryl.ils.unc.edu>
+List-Owner: <mailto:owner-gmonthly@listserv.unc.edu>
+List-Subscribe: <mailto:subscribe-gmonthly@listserv.unc.edu>
+List-Id: Project Gutenberg Monthly Newsletter <gmonthly.listserv.unc.edu>
+X-List-Host: The UNC List Server
+
+The Project Gutenberg Monthly Newsletter 1st October 2003 Part 2
+eBooks Readable By Both Humans and Computers For Since 1971
+
+In this issue of the Project Gutenberg Monthly newsletter:
+
+1) Editorial
+2) News
+3) Radio Gutenberg update
+4) Mailing list information
+
+
+Hello,
+A roundup of this month's best and most informative articles is given
+below. There are so many articles being published in the weekly
+newsletter now that if I repeated them all in the monthly, you would
+get a four part newsletter, so expect radical updates to the
+newsletter website within the next week to allow you to read all the
+things you might have missed.
+
+Happy reading,
+
+Alice
+
+send email to the newsletter editor at: news@pglaf.org
+
+Founding editor: Michael Hart hart@beryl.ils.edu
+Newsletter editor: Alice Wood news@pglaf.org
+Project Gutenberg CEO: Greg Newby gbnewby@pglaf.org
+
+Project Gutenberg website: http://ibiblio.org/gutenberg/
+Project Gutenberg Newsletter website: http://ibiblio.org/gutenberg/newsletter
+Radio Gutenberg: http://www.radio-gutenberg.com
+Distributed Proofreaders: http://www.pgdp.net
+Newsletter and mailing list subscriptions: http://ibiblio.org/gutenberg/subs.html
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+809 North 1500 West
+Salt Lake City, UT 84116
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://www.gutenberg.net  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+2) News
+
+New Project Gutenberg E-Book: Nina Balatka by Anthony Trollope
+
+(Sept 2005, E-Book #8897, nnblt10.txt/zip and nnbld10h.htm/zip)
+
+Project Gutenberg has made available one of Anthony Trollope's most unusual 
+books, Nina Balatka. The book is unusual in several respects. First, it is 
+set in Prague rather than the British isles, and it does not deal with 
+Trollope's usual characters, the nobility and landed gentry. Second, 
+Trollope's usual witty editorial comments are absent. Third, while the book 
+is ostensibly the story of two lovers, Nina Balatka and Anton Trendellsohn, 
+they are already in love and engaged at the start of the novel. And finally, 
+what makes this book most unusual is starkly stated in the remarkable opening 
+sentence of the novel:
+
+Nina Balatka was a maiden of Prague, born of Christian parents, and herself a 
+Christian--but she loved a Jew; and this is her story.
+
+This situation raises few eyebrows at the beginning of the 21st century, but 
+it was a shocker in the highly anti-semitic culture of mid-19th century 
+England. Trollope published the novel anonymously in 1866. In his 
+autobiography he claims he did this to determine whether his books sold 
+because of his name or because of their quality. One must suspect that the 
+controversial subject matter led him to publish this book anonymously or at 
+least to select it for his experiment.
+
+The book is short by Victorian standards. Its plot deals largely with the 
+obstacles to the marriage of the two lovers resulting from their religious 
+differences and from the schemes of Nina's relatives. It contains one of 
+Trollope's most remarkable women, Rebecca Loth, a Jewish girl (in love with 
+Anton) who befriends Nina and eventually saves her life. Another wonderful 
+character is Nina's Aunt Sophie, who reminds one of Mrs. Proudy, the bishop's 
+wife, in Trollope's Barsetshire novels. While the book is one of his 
+lesser-known works, it's powerful, relentless plot and well-drawn characters 
+make it excellent reading and deserving of greater acclaim.
+
+Those who read many of Trollope's novels are bound to wonder whether he was 
+anti-semitic. Unquestionably they contain countless derogatory references to 
+and descriptions of Jews. But do these references reflect Trollope's own 
+views or the views of the realistic characters he created? In Nina Balatka it 
+is his Christian characters who are greedy, scheming, and conniving; his 
+Jewish characters for the most part act with honesty and compassion. Was this 
+contrast drawn on purpose?
+
+This edition of Nina Balatka is itself unusual in that it includes an 
+introduction written specially for Project Gutenberg by Joseph E. 
+Loewenstein, who scanned and prepared the E-text. In it Dr. Loewenstein 
+provides background for the reader and explores the question of whether 
+Trollope was anti-semitic.
+
+Joseph Lowenstein
+  
+                    -------------------
+
+
+Donations update from Greg Newby
+
+Project Gutenberg runs on volunteer power.  To support our
+many thousands of active volunteers, we rely on donations from
+individuals and organizations.
+
+The Project Gutenberg Literary Archive Foundation was formed
+in 2001, in order to be the organizational home to the Project
+Gutenberg effort.  Dr. Greg Newby is the CEO, with Dr. Doug Bowman
+and Dr. Harry Hilton as Directors.  All are volunteers.  Paid
+employees of PGLAF are Michael Hart, founder of Project Gutenberg,
+Ben Stone (Michael's administrative assistant), and T. and Anne
+Wingate (CTO and office managers).  Only Michael is full-time, the others
+are part-time.
+
+In addition to salaries and associated taxes and expenses,
+other expenses to PGLAF include some recent scanner purchases
+(we own two Fujitsu page scanners, and a large-format flatbed),
+supplies for our CD/DVD giveaway, and some travel.  For example,
+PGLAF paid for Greg Newby and DP founder Charles Franks to present
+their paper, "Distributed Proofreading," at the Joint Conference
+on Digital Libraries in Houston in May.
+
+One of the biggest single ongoing expenses is registering as
+a charity in all 50 states.  This keeps Anne Wingate busy,
+and costs about $5000/year in registration fees.  We also pay
+our CPA several thousand per year to prepare our audit and maintain
+compliance with federal and state laws.
+
+PGLAF has 501(c)(3) status from the US IRS, which designates it
+a charitable not-for-profit.  This means that donations are tax
+deductible to the extent permitted by law, and we are able to
+apply for funding restricted to not-for-profits.   For continued
+501(c)(3) status, PGLAF undergoes a yearly audit (the 2002-03
+audit is being prepared now), and needs to maintain a proper
+balance of small donations to large.
+
+Donations to PGLAF arrive via PayPal, check, credit card, and
+occasional larger gifts or grants.  PayPal donations are typically
+$10-$100.  We get 10-20 per month.  Donations by check range from quite
+small (just a few dollars) to several hundred dollars, again
+with about 10-20 per month arriving.  In some cases, people have
+used their workplace to make donations, including regular donations,
+via the United Way or other institutions.  We also get a direct
+bank deposit from NetworkForGood, reflecting $100-200/month in
+credit card donations (until this month, we did not get date about
+how many donations this reflected -- it's 5-10, so far).  Added together,
+a typical month brings in anywhere from $800-$3000 in donations
+of under $500, from 20-50 individuals.  This includes royalty
+payments for use of the Project Gutenberg trademark (per our
+"small print" in each eBook).
+
+Complete details on donation methods are in our Donation HOWTO.
+	Visit http://ibiblio.org/gutenberg
+
+PGLAF also receives larger donations.  So far in 2003, we
+received two donations of $10,000 (one from an individual, the
+other from a company), and a grant of $25,000 from a foundation.
+Most donations come with no strings attached (there are limitations
+from the IRS on how the money may be spent, or bargained for),
+but the foundation grant included a stipulation that about $2500
+would be spent on an evaluation study.
+
+PGLAF is always interested in working with potential donors, or
+in approaching sources such as charitable foundations or government
+agencies for funding.  Email Greg Newby <gbnewby@pglaf.org or
+one of our mailing lists to talk about possibilities.  In addition,
+we are open to suggestions on good things to spend our money on.
+Generally, we want to get the most possible value from our budget,
+and are primarily interested in investing in our volunteers to
+enhance eBook production.
+
+Greg Newby
+
+                    -------------------
+
+About Radio Gutenberg.
+
+My first contact with the Gutenberg project came in or about 1984. I was 
+stunned as the value and worth of the collection were indisputable, yet it 
+existed in a world without price tags.
+
+In the early 1990s, my father-in-law began to lose his vision to
+macular degeneration. By 2000 he was no longer able to watch television 
+or read the newspaper. Radio is now his only link to the world, outside 
+of family.  
+
+IBM came into the linux world at that point in my life, and made a 
+copy of ViaVoice running the Eloquence engine available for download. 
+It was Emacspeak compatible. Jon Grimm and I made a bootable CD-ROM 
+and packaged it with about a hundred of the most famous and popular 
+texts in the collection.
+
+At about the same time, Jon and I began to experiment with live broadcasting 
+over the internet using Icecast. We also engaged in several excursions 
+introducing the Gutenberg Collection and these technologies into local 
+public school systems. A while later, the financial underpinnings of the 
+Gutenberg Project showed us their fraying edges, and the idea of Radio 
+Gutenberg made itself apparent to me:
+
+An interlinked network of local vendors creating the necessary materials 
+for disabled access to web-based federal resources, using our "discovered" 
+technology, could generate funding on a more stable footing than the existing 
+Gutenberg mechanisms, and also make the collection accessable to that same 
+visually impaired, illiterate and English as a second language audience.
+
+Why this, and not something else? Self determination. Rather than choosing 
+to follow a formula that would take us where we were told we should go, we 
+found our own in a model that begins with who and where we are.
+
+The first and most critical problem that had to be solved in creating audio 
+books that would be useful was to create a means of production that would 
+create sufficient volumes of materials to make an impact, and still preserve 
+the meaning of the works to be presented in audio.   
+
+A book is in many ways analogous to a musical score in that the words 
+represent pitch sequences, and the punctuation represents phrasing - 
+especially rests ( the silences).  The reading of a book, like the playing of 
+music, depends first and foremost on meter.  So that is how we built the book 
+editing software, to make the meter acceptable first, and then to address 
+other problems in the performance.  Once an acceptable meter had been 
+achieved, the audio books suffered from problems similar to those 
+experienced by a human reader suffering from stroke damage.  So we had a 
+speech pathologist submit our editor software to a battery of standardized 
+tests.
+
+Today our efforts are focused on accent reduction, correct pronunciation of 
+French, Spanish and Native American place names, resolution of accents in 
+homographs and speed.  Our ultimate goal is to create a machine that can 
+audio enable the Library of Congress in one year, unattended. We have dubbed 
+that machine "Deep Thought".
+
+This quarter we are working on a new process that will allow users to create a 
+desired book on demand, and follow the progress through a web-based 
+"dashboard". This process will allow us to keep the hundred or so most 
+popular requested audio books available for immediate download as a zip file, 
+a set of .mp3 files or a CD image, with any other work in the collection 
+available through "on-demand" creation. 
+
+Over the long term, we have five major goals :
+
+1 - More human reading style for all Gutenberg audio books.
+
+Current activities include place name databases, homograph dictionaries 
+and phrase level automatic diagramming for inflection. With these
+features in place, the speech synthesizer and our automatic 
+editor may achieve parity with locally available volunteer readers,
+and superiority in many cases.
+
+2 - Establishment of a broadcast network on the internet.
+
+If we had 50 icecast broadcast servers in operation today, each hosting four 
+monophonic broadcast channels, for a total of 200 channels, that would provide 
+a reach similar in kind to a PBS, and provide a venue for fund raising.  
+
+3 - Creation of new works for the collection.
+
+When the funding mechanisms have achieved a state of equilibrium, we hope to 
+fund festivals, camps and workshops that bring together young unknown talent 
+for the purpose of creating new teleplays, musical compositions and
+stories for distribution by Gutenberg. Bringing musicians and writers
+together on a campus with facilities to produce video will allow
+budding composers to try their hand at writing sound tracks, something 
+unavailable anywhere today.
+
+4 - Procurement of copyrighted works for the collection.
+
+Our most basic activity in this vein is in securing copyright permissions for 
+pre-existing works.  Our efforts are focused on the C.S. Lewis Chronicles of 
+Narnia, the SciFi channel's collection of classic science fiction (one author at a 
+time), Fordham University's Internet History collections and ESA/NASA materials. 
+
+Long term we hope to garner a number of works from PhD candidates at
+accessable universities, especially in chemistry, medicine and
+physics. Our primary sources for these materials today include the
+Michoud Shuttle External Tank Assembly Facility, NASA's Stennis Space
+Flight Center, University of Maryland and University of New Orleans.
+
+Still very preliminary and speculative, we are also attempting to
+procure musical performances by the Louisiana Symphony Orchestra and a
+group of graduate students at the University of Akron.
+
+5 - Creation of Video works for the collection.
+
+The Solar System series Jon and I have been working on for the past year or so 
+began as a text only draft of the "Encyclopedia of the Solar System" 
+ISBN 0-12-226805-9 major planetary chapters at opensourceschools.org.  
+Since then, we have begun to separate the materials into volumes that 
+address the role of the gravitational influence and state changes in the 
+character of the Solar System, and feature new, original 3D videos that 
+demonstrate the main features of the Solar System as we understand them today.
+
+The first volume of this series is due to be released on December 10th as a 
+DVD in the Gutenberg collection.
+
+We are also engaged in preliminary assessments of DVD based text books on 
+algebra and geometry.  These textbooks will be unique in that they use 
+visualizations to demonstrate how a field project's data are typically 
+collected, indexed and inferentially expanded into a summation using the 
+tools of algebra and geometry.  We hope that this approach will result in the 
+reader acquiring the "right" sort of curiosity in the world, when procedural 
+skills are acquired because insight and intuition demand them.  In this way 
+the "ethos" of a theorem or algebraic translation procedure is revealed in 
+the context of a real world problem.  As a basis, we are selecting materials 
+from water diversion projects here in Louisiana that intend to reclaim lost 
+marshlands, and also environmental impact statements by both the EPA and 
+Louisiana Wildlife and Fisheries / Louisiana Department of Natural Resources.
+
+Long term, we hope these works establish the necessary preconditions for 
+Gutenberg to become the publisher of choice for new studies of the ecology of 
+North America's gulf coast.
+
+This probably sounds like a lot for two people to pull off.  It really isn't 
+in terms of the man-hours required.  And other non-profits could provide what's 
+needed without spending a dime (the physical facilities are paid for and 
+under-utilized). Putting it all down on paper has been a tad
+disheartening, but that too is an illusion. All it takes to make this
+reality is for the right people to say "OK". I hope that starts with you.
+
+Thank you, patient reader for making it this far.  Your comments are
+most welcome, especially if you decide to embark on your own new
+projects in a similar vein.
+
+Mike Eschman, Founder of Radio Gutenberg.
+
+                    -------------------
+
+This Issue's Quiz: Science Fiction Classics!
+
+Match the titles with the first lines (you can always
+cheat by visiting the URL).
+
+[We have two newsletter smarty-pants awards waiting for your correct answers-Ed]
+
+===Titles===
+
+1. Looking Backward / Edward Bellamy
+http://www.ibiblio.org/gutenberg/etext96/lkbak10.txt
+
+2. The Poison Belt / Arthur Conan Coyle
+http://www.ibiblio.org/gutenberg/etext94/poisn10.txt
+
+3. The War of the Worlds / H.G. Wells
+http://www.ibiblio.org/gutenberg/etext92/warw11.txt
+
+4. The Land That Time Forgot / Edgar Rice Burroughs
+http://www.ibiblio.org/gutenberg/etext96/tlttf11.txt
+
+5. From the Earth to the Moon / Jules Verne
+http://www.ibiblio.org/gutenberg/etext93/moon10.txt
+
+6. A Princess of Mars / Edgar Rice Burroughs
+http://www.ibiblio.org/gutenberg/etext93/pmars10.txt
+
+7. The Time Machine / H.G. Wells
+http://www.ibiblio.org/gutenberg/etext92/timem11.txt
+
+8. Lost Continent / C. J. Cutcliffe Hyne
+http://www.ibiblio.org/gutenberg/etext95/lostc10.txt
+
+9. The Lost World / Arthur Conan Doyle
+http://www.ibiblio.org/gutenberg/etext94/lostw10.txt
+
+10. 20000 Leagues Under the Seas / Jules Verne
+http://www.ibiblio.org/gutenberg/etext01/2000010a.txt
+
+===First Lines===
+
+a. It is imperative that now at once, while these stupendous events
+are still clear in my mind, I should set them down with that
+exactness of detail which time may blur.
+
+b. It must have been a little after three o'clock in the afternoon
+that it happened--the afternoon of June 3rd, 1916.
+
+c. I am a very old man; how old I do not know.  Possibly I am
+a hundred, possibly more; but I cannot tell because I have
+never aged as other men, nor do I remember any childhood.
+
+d. Mr. Hungerton, her father, really was the most tactless person
+upon earth,--a fluffy, feathery, untidy cockatoo of a man,
+perfectly good-natured, but absolutely centered upon his own
+silly self.
+
+e. The Time Traveller (for so it will be convenient to speak of
+him) was expounding a recondite matter to us.
+
+f. The year 1866 was marked by a bizarre development, an unexplained
+and downright inexplicable phenomenon that surely no one has forgotten.
+
+g. I first saw the light in the city of Boston in the year 1857.
+
+h. No one would have believed in the last years of the
+nineteenth century that this world was being watched keenly
+and closely by intelligences greater than man's and yet as
+mortal as his own; that as men busied themselves about their
+various concerns they were scrutinised and studied, perhaps
+almost as narrowly as a man with a microscope might scru-
+tinise the transient creatures that swarm and multiply in a
+drop of water.
+
+i. During the War of the Rebellion, a new and influential club was
+established in the city of Baltimore in the State of Maryland.
+
+j. We were both of us not a little stiff as the result of
+sleeping out in the open all that night, for even in Grand Canary
+the dew-fall and the comparative chill of darkness are not to be
+trifled with.
+
+                    -------------------
+
+Other news items this week
+
+Project Gutenberg Website Update
+
+Thanks to Marcello Perathoner, we now have a new browse by author
+and title online. The listing is regenerated at 6:50 am (US Eastern time)
+to regenerate the listing daily. Our browsing tools are used quite a bit so a
+more functional and prettier one is great to have. Any suggestions or
+feedback about the new search facility are most welcome.
+
+------------------------------
+
+Lessons in ebooks
+
+Occasionally, I get mails asking how to go about downloading texts
+from Project Gutenberg. Thanks to a new set of lessons from Candida
+Martinelli, all mystery is now lifted. 
+
+Candida has put together six lessons to explain just about everything
+you might need to know to get started with finding a text,
+downloading, use and management, well worth a look. You can find the
+lessons at:
+
+http://home.wanadoo.nl/cecilia.mccabe/instructions.htm
+
+------------------------------
+
+Call to arms - The Gutenberg Bible
+
+Guess what? My wife thinks PG has the Gutenberg Bible
+online. We don't.
+
+This _LARGE_ project will require an army of
+volunteers (including me) who are willing to surf to
+http://prodigi.bl.uk/gutenbg/default.asp and save the
+images onto their hard-drives manually, then another
+army to convert the color files to B&W so that another
+army (of one) can train Abbyy Finereader to recognize
+it so that we don't have to type it in (although we
+_WILL_ if we have to). Then it will hit DP and go
+through proofing.
+
+An immense project but one well worth doing. They said
+we couldn't/shouldn't/wouldn't, but we will.  
+
+Won't we?
+
+Contact garvint@yahoo.com to enlist. There are no 4Fs
+in _this_ army.
+
+Ted Garvin
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://www.gutenberg.net allows searching by title, author, language
+and subject. Mirrors (copies) of the complete collection are available
+around the world.
+
+
+These sites and indices are not updated instantly, as additional
+research may need to be done by our professional Chief Cataloguer, so
+for those who wish to obtain these new ebooks, please refer to the
+following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that
+updated eBooks usually go in their original directory (e.g., etext99,
+etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+3) Radio Gutenberg Update
+
+http://www.radio-gutenberg.com
+
+Radio Gutenberg is currently off the air.
+
+
+If you are interested in creating a slide-show with a soundtrack
+from your favourite book, or piece of literature please mail us here
+at news@pglaf.org and we will pass your message on.
+
+
+                    -------------------
+
+Distributed Proofreaders Update
+
+This week's newsletter goes to press right at the start of a new
+month. As October already promises to be an active and exciting month
+at DP, we are going to focus on some of what's in store for the weeks
+ahead of us.
+
+First, a look back the month behind us. September started off in a
+quiet manner, which was set in sharp contrast following the page
+proofing marathon run to meet the monthly page objective within the
+final hours of August. After that party we all needed a little Siesta,
+maybe the server too. September did not finish anywhere near as quiet
+as it began. Pulling together, the widely dispersed community of
+proofreaders worked in a steady, dedicated fashion over the following
+weeks. September saw a level of consistent high production which gave
+the impression of a home-grown SlashDot event. The goal of proofed
+pages for the month was met, and met well, and some impressive records
+were set for DP history.
+
+We come away from the successes of August and September with a
+deepened sense of who we are and what we are capable of as a
+distributed, but united community. What we each came to DP to work
+upon we find empowered and increased upon itself by the strength and
+support of this committed alliance. As we explore this distributed
+Human network together, we are learning new things about the process
+everyday, and more, we are learning about ourselves.
+
+The name Distributed Proofreaders points up a significant aspect of
+the project. DP is a network of allied individual people. The greater
+share of on-line distributed projects utilize the combined power of
+computer processors to take on large scale tasks. The results at DP,
+while dependent upon the technology, are produced by the time, talent
+and dedication of flesh and blood individuals. It is a rare
+distinction among distributed projects, and worth making note of when
+recognizing the accomplishments of the project.
+
+There is no disputing the fact that the quality and output levels of
+DP are on the rise. This is not a recent phenomenon, but the
+cumulative result of craft and innovation that has been invested into
+the endeavor from the very beginning. If I hold in mind a primary
+objective for this weekly column it is to reveal and explore the
+diverse craft-cultures which work to make up the finished product at
+DP. Nothing happens independently within this process, the final texts
+are the direct result of several stages of development. Some of these
+stages have nothing directly to do with the text itself, such as the
+creation of the code which runs DP and the building of the tools which
+enhance and expedite the labor intensive text work. Every stage is
+essential, all are interdependent. DP functions at it's best when
+these diverse craft-cultures hold a unified vision and set their
+intentions shoulder to shoulder. Glimpses of this dynamic force have
+been shining through over the past few months with increasing regularity.
+
+I will go on the line here and say that I believe October is going to
+reveal just how unique and productive this unified creative force has become.
+
+
+Within the next few days a major upgrade to the DP site will be
+released. As always, this has developed and extensively tested in a
+manner consistent with all work at DP. Broad participation in 'kicking
+the tires,' so to speak, is not only encouraged but has long been an
+essential component in the code development process. As expected,
+there's still a little nervousness that we have set everything in the
+correct place and squashed all the bugs we can possibly find. But
+overall, we're ready for the rollout. However, there are still 48
+hours or so within which you could prove to be the genius who finds
+something the rest of us have missed. Checking is still underway, and
+if you have not tried the testsite as yet, please do, and offer the
+coding crew the benefit of 'fresh eyes.' Look for the New Release
+thread at the top of the General forum.
+
+Among the many new features, I will begin with one that is sure to be
+a hit within the Project Gutenberg community:
+
+MARC Record Search & Enhanced Project Creation Interface. Project Managers
+will now be able to search the Library of Congress catalogs for MARC record 
+data on their projects. From within the Project Panel, managers can create both a 
+MARC record and a Dublin Core XML file for their project.
+
+I think I can hear the PG librarians sighing already!
+
+For the legions of proofers, Joseph Gruber has cooked up something Very Tasty:
+
+Detailed Statistics. - DP member stat's with a history of pages
+proofed, best days, neighborhood views with some info on friends and
+neighbors and your own personal stat chart. The Team statistics have
+been upgraded as well. There are now displays of who is on the team,
+history of page count totals, best days, and more. An added search
+feature has also been added to both Member and Team statistics.
+
+Other enhancements, in no certain order, include:
+
+Project Queue Upgrades. - The project queues have been enhanced so as
+to keep more of a variety of projects available at any given
+time. Site Administrators will also have more flexibility in tweaking
+project status for special needs or timely events.
+
+Inclusion of XML Icons. - There is now an enhanced visibility of our
+XML/RSS feeds with icons guiding managers to their locations. (The
+start of something really big here!)
+
+Zip File Uploading of Projects.- No longer do you have to FTP over a whole 
+directory of images and a whole directory of text files. Just zip the
+project elements into one file, and upload directly from a hard drive.
+
+LOCALISATION!! - (That's right, all caps.) Potentially, this is our most 
+important New feature. Members will now be able to get the site in
+their native language. From the initial upgrade, languages available
+are German, French, Finnish & Portuguese. There is also a translation
+center available for those languages not as yet represented. Please
+Note... If you are willing to translate portions of DP, you will find
+enthusiastic support. Just post a note in the Future Features forum
+with your intention and someone will promptly reply.
+
+Time and space does not allow to list all the many features, but I
+think you get the sense of how much work the coding team has put into
+this major upgrade. On the whole, many small aspects to the site have
+fixed which were noted over the summer. There should be noticeably
+fewer bugs and errors throughout all the stages of development. Did I
+hear someone mention 'site speed?' Oh yeah! They didn't forget ya'!
+
+Did I say October was going to be exciting?
+
+Two other events to watch for beginning today are Post Production
+objectives and Authors' Birthday celebrations. Bill Keir, DP's Site
+Admin', has studied the present status of projects which are within
+the final stages of post processing and verification. Bill has set for
+October a Goal for completing a certain number of projects by the end
+of the month. I have seen the blueprints, and I would agree that
+with a well structured and cooperative effort this figure of 300 texts
+posted to PG, while higher than any previous month, is a realistic
+objective. To reach it though, we are going to need to draw strongly
+upon that 'unified creative force' we have been tapping into recently.
+
+Finally, on the fun side of the month, we are beginning a completely
+new feature at DP. A few weeks back, Tim Bonham, the author and
+maintainer of DP's Proofing Guidelines came up with an idea for
+increasing interest in, and thus PG content of, authors who are either
+marginally represented in Project Gutenberg or not at all. Well he
+clearly hit on to something big here, because the idea has gained
+strong support, and will become a regular monthly feature from October forward.
+
+In brief, as they are now waving at me from behind the curtain (who? me?
+- Ed), Authors who have a birthday within a present month will receive
+'special attention' from all levels of DP. This endeavor is growing
+and expanding with each day, so I will keep a small space for current
+updates within each column. The limits on obscure authors seems to
+have already been lifted, although underdogs will always get highest
+priority. If you want to learn more, suggest ideas or become actively
+involved, look for the Author Birthday threads in both General and
+Content Providing forums.
+
+One little follow up note to the Banned Books week initiative. We have
+located and prepared one of the banned books not yet in PG; Gustave
+Flaubert's 'The Temptation of Saint Antony.' Hint: If I were you, I'd
+get to the First Round soon, it's due in at any moment now! (Okay,
+I'll see what I can do to hold it back a few hours!)
+
+
+That's all for now! (Well, not really, but they're already sweeping
+the stage.[It's amazing what you can get horses to do these days -
+Ed]) Next week we'll return to our regularly scheduled broadcast and
+pick up where we left off in our explorations of the DP process:  Pre
+Production and the Tools that buzz text preparation along.
+For now...
+
+All the best to everyone, and enjoy October!
+
+Thierry Alberto
+----------------------------------------------------------------------
+
+Mailing Lists Update
+
+Project Gutenberg Mailing Lists
+
+The following lists are currently running and open to all:
+
+gweekly - weekly newsletter
+gmonthly - monthly newsletter
+posted - instant book postings and important news(high traffic volume)
+gutvol-d - volunteer discussion unmoderated (medium traffic)
+gutvol-l - volunteer announcements (light traffic)
+gutvol-m - multi-media list, for audio and other non-text discussion
+(e.g. movies, music) (light traffic)
+gutvol-p - programming volunteers, for software development (light traffic)
+gutvol-w - new list for gutenberg website development (light traffic)
+glibrary - library help, help in tracking down books and copyright
+research (light traffic)
+gutnews - the official mailing list of the Gutenberg Gazette (light traffic)
+guttv - PG's attempt at world domination! No really, TV spots for PG
+(very little traffic)
+
+To find these lists you can go straight to listserv.unc.edu and look
+them up individually, alternatively,
+http://ibiblio.org/gutenberg/subs.htm gives you links to all the
+lists.
+
+Alice
+----------------------------------------------------------------------
+
+Improved Service
+
+In a bid to make the newsletter more helpful to readers who may be
+using screen reading software. We are able to offer the booklisting in
+a different format to make your life a little easier. An example of
+the changed listing is given below. If you would like either a daily
+or weekly version of this list please email news@pglaf.org, and state
+which version you require. 
+
+{Note to the unwary: this is an example.}
+
+      34 NEW ETEXTS FROM PROJECT GUTENBERG US
+A Complete Grammar of Esperanto, by Ivy Kellerman  Mar 2005[esperxxx.xxx]7787
+
+The Female Gamester, by Gorges Edmond Howard       Apr 2005[fmgstxxx.xxx]7840
+[Subtitle: A Tragedy]
+
+A Primary Reader, by E. Louise Smythe              Apr 2005[preadxxx.xxx]7841
+[Also posted: illustrated HTML, zipped only - pread10h.zip]
+
+The Rise of Iskander, by Benjamin Disraeli         Apr 2005[?riskxxx.xxx]7842
+[7-bit version with non-accented characters in 7risk10.txt and 7risk10.zip]
+[8-bit version with accented characters in 8risk10.txt and 8risk10.zip]
+[rtf version with accented characters in 8risk10r.rtf and 8risk10r.zip]
+[rtf version has numbered paragraphs; txt version has no paragraph numbers]
+
+
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT, PROOFERS AND SCANNER TYPES
+
+Please contact us at:
+
+dphelp@pgdp.net
+
+if you would like to know more about the Distributed Proofreaders.
+
+Please visit the site:
+http://www.pgdp.net for more information about how you can
+help, by proofreading just a few pages per day.
+
+ If you have a book that has been scanned, but not yet run
+through OCR (optical character recognition) or proofed,
+and you would like the Distributed Proofreaders to work on it,
+please email dphelp@pgdp.net and we will get things started.
+
+ Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online,
+visit http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file),
+since the online database doesn't reflect recent additions.
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team! Please email dphelp@pgdp.net with your geographic
+location. You will be given the address of the nearest high-speed scanner
+(note that the high-speed scanner requires destruction of the book(s) which
+will not be returned)." Alternatively, you can send your books directly to:
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+Please make sure that any books you send are _not_ already in the archive
+and please check them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you obtain copyright clearance before mailing the books, and send the 'OK'
+lines to
+
+dphelp@pgdp.net
+
+********
+
+Do you like to work on an entire book at once but don't have the time or
+technology to do the scanning, OCR, and initial proofing yourself?
+Distributed Proofreaders has the perfect solution! Send email to
+dphelp@pgdp.net saying that you are interested in post-processing and we
+will help you find a project to work on.
+
+----------------------------------------------------------------------
+
+4) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the numbers and
+booklists. Tonya, Thierry, Gali, Col, Greg for the news updates,
+Michael, and Larry Wall. Entertainment for the workers provided by the
+Chicago Bears and the Green Bay Packers.

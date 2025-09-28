@@ -1,0 +1,797 @@
+The Project Gutenberg Weekly Newsletter 2nd April 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+We have now completed 7549 ebooks!!!
+
+Congratulations to Project Gutenberg of Australia for reaching 200
+ebooks.
+
+In this issue of the Project Gutenberg Weekly newsletter:
+
+1) Editorial
+2) Weekly eBook update:
+   Updates/corrections
+   New U.S. eBooks
+   New books From PG Australia
+3) News
+4) Notes and Queries
+5) This week in history
+6) Headline News from around the world
+7) Mailing list information
+
+----------------------------------------------------------------------
+
+Project Gutenberg is available at http://www.promo.net
+Webmaster is Pietro di Miceli of Rome, Italy
+
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+----------------------------------------------------------------------
+
+1) Editorial
+
+Hello,
+
+Hooray, Yippee! and general cheering. Well done people, you did it!!!!
+
+PG hit 7500 earlier this week and special congratulations to PGOz who
+also hit the big 200 this week. Col Choat has kindly written a piece
+on the 200th ebook which is featured further down. 
+
+Happy and peaceful reading,
+
+Alice (newsletter at schiffwood.co.uk - If you hit reply, the mail you
+send does not reach me and disappears into the ether.)
+
+We welcome feedback, critisism (of any kind), ebook reviews, featured
+author suggestions (especially if there is an event coming up), writings and awkward questions at the address above. Please feel free to send our general ramblings to a friend.
+
+----------------------------------------------------------------------
+
+2) Weekly eBook update
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+RESERVED count:   39
+
+TOTAL COUNT as of today, Wed 03/26/03:  7,549  (incl. 208 Aus.).
+
+Last week the Total Count was 7,407, including 186 at PG of Australia.
+This week we added 87 new (incl. 17 Aus.).
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+    prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+    well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to add corrected contents info, also
+translator's name:
+Dec 2004 Early Plays, by Henrik Ibsen (Tr.: Orbeck)   [#11][?projxxx.xxx]7172
+[Contents: Catiline, The Warrior's Barrow, Olaf Liljekrans]
+[Tr.:  Anders Orbeck, A.M.]
+
+The following is being re-indexed to correct the Title and Translator
+info (8-bit chars didn't convert correctly <g>):
+Dec 2004 Markandeya Purana, by Rev. B. H. Wortham (Tr.)    [?markxxx.xxx]7169
+[Title: Markandeya Purana, Books VII and VIII] [Tr: Rev. B. Hale Wortham]
+
+
+The following have been re-posted in new editions as indicated:
+Aug 2002 Spanish Prisoners of War, by W. Howells    [WH#30][whspwxxx.xxx]3383
+[HTM version in whspw10h.htm and whspw10h.zip]
+Oct 1999 Songs of Innocence and Experience, by Wm. Blake[2][sinexxxx.xxx]1934
+[HTML in sinex10h.htm/.zip]
+Feb 1999 After Dark, by Wilkie Collins        [Collins #15][ftrdkxxx.xxx]1626
+[HTML in ftrdk10h.htm/.zip]
+Apr 1998 Three Ghost Stories by Charles Dickens [CD #33-35][3ghstxxx.xxx]1289
+[HTML version in 3ghst10h.htm/ .zip]
+   Contents:
+     The Trial for Murder  [Dickens #35]
+     The Haunted House     [Dickens #34]
+     The Signal Man        [Dickens #33]
+May 1997 Abraham Lincoln, by James Russell Lowell[Lowell#2][1lncnxxx.xxx] 906
+[HTML in 1lncn10h.htm/.zip]
+
+
+The following has been updated to a greatly improved 13th edition, also in
+an illustrated html version as indicated (please note file size is 25MB):
+Oct 1993 A Connecticut Yankee, by Mark Twain        [MT#04][yankexxx.xxx]  86
+[Full Title: A Connecticut Yankee in King Arthur's Court]
+[Full Author: Mark Twain (Samuel Clemens)]
+[Illustrated HTML only in yanke13h.zip]
+
+The following have been posted in an updated 11th Edition, plus new
+formats as indicated:
+
+
+We have posted a greatly improved 11th edition of the following:
+Nov 1995 Beyond the City, by Arthur Conan Doyle [Doyle #7] [bcityxxx.xxx] 356
+[Plain text in bcity11.txt/.zip]
+
+
+And, there is now a greatly improved 19th edition of:
+Feb 1991 Through the Looking Glass, Lewis Carroll[Carroll2][lglassxx.xxx]  12
+[Full author: Lewis Carroll [Charles Dodgson]
+[Plain text in lglass19.txt/.zip]
+
+
+=-=-=-=[ 70 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Mar 2005 What Will He Do With It,  Lytton, Complete [BL#99][b099wxxx.xxx]7671
+[Author: Edward Bulwer-Lytton][Contains: EBooks #7659-7670]
+
+Mar 2005 What Will He Do With It,  Lytton, Book 12  [BL#98][b098wxxx.xxx]7670
+Mar 2005 What Will He Do With It,  Lytton, Book 11  [BL#97][b097wxxx.xxx]7669
+Mar 2005 What Will He Do With It,  Lytton, Book 10  [BL#96][b096wxxx.xxx]7668
+Mar 2005 What Will He Do With It,  Lytton, Book 9   [BL#95][b095wxxx.xxx]7667
+Mar 2005 What Will He Do With It,  Lytton, Book 8   [BL#94][b094wxxx.xxx]7666
+
+Mar 2005 What Will He Do With It,  Lytton, Book 7   [BL#93][b093wxxx.xxx]7665
+Mar 2005 What Will He Do With It,  Lytton, Book 6   [BL#92][b092wxxx.xxx]7664
+Mar 2005 What Will He Do With It,  Lytton, Book 5   [BL#91][b091wxxx.xxx]7663
+Mar 2005 What Will He Do With It,  Lytton, Book 4   [BL#90][b090wxxx.xxx]7662
+Mar 2005 What Will He Do With It,  Lytton, Book 3   [BL#89][b089wxxx.xxx]7661
+
+Mar 2005 What Will He Do With It,  Lytton, Book 2   [BL#88][b088wxxx.xxx]7660
+Mar 2005 What Will He Do With It,  Lytton, Book 1   [BL#87][b087wxxx.xxx]7659
+
+
+Jan 2005 Sou Shen Ji, volume 1-3, by Bao Gan--300 A.D      [soushxxx.xxx]7260
+[Language: Chinese]
+Jan 2005 Shock and Awe, Harlan K. Ullman and James P. Wade [skawexxx.xxx]7259
+[Full title: Shock and Awe, Achieving Rapid Dominance]
+[Plain text in skawe10.txt/.zip; HTM version in skawe10h.htm/.zip]
+Jan 2005 Dreams, Waking Thoughts, and Incidents, Beckford  [drwtxxxx.xxx]7258
+[Author's Full Name: William Beckford]
+[Text in drwt10.txt/.zip, XHTML in drwt10h.htm/.zip]
+Jan 2005 Reflections and Comments, by Edwin Lawrence Godkin[?rflcxxx.xxx]7257
+[Full title: Reflections and Comments 1865-1895]
+Jan 2005 The Gift of the Magi-O Henry  [Christmas story]   [magixxxx.xxx]7256
+[HTM only version in magi10h.htm/.zip]
+
+Jan 2005 Cambridge Sketches, by Frank Preston Stearns      [?cambxxx.xxx]7255
+Jan 2005 Equinoctial Regions of America V3,von Humboldt[#3][qnct3xxx.xxx]7254
+[Full author: Alexander von Humboldt]
+Jan 2005 Letters of Lady Spencer-Stanhope, v1, by Stirling [?llssxxx.xxx]7253
+[Full title: The Letter-Bag of Lady Elizabeth Spencer-Stanhope v. I.]
+[Full author: A. M. W. Stirling (compiler)]
+Jan 2005 The Women Who Came in the Mayflower, by A. Marble [?wcmfxxx.xxx]7252
+[Author's Full Name: Annie Russell Marble]
+[Plain text in 7wcmf10.txt/.zip, 8-bit version in 8wcmf10.txt/.zip]
+Jan 2005 Sweet Cicely, by Marietta Holley                  [swcicxxx.xxx]7251
+[Full title: Sweet Cicely Or Josiah Allen as a Politician]
+[Full author: Josiah Allen's Wife (Marietta Holley)]
+
+Jan 2005 Connecticut Yankee, v9, by Twain            [#121][ynk9wxxx.zip]7250
+[Full Title: A Connecticut Yankee in King Arthur's Court]
+[Full Author: Mark Twain (Samuel Clemens)]
+[Chapters 41 - End]
+Jan 2005 Connecticut Yankee, v8, by Twain            [#120][ynk8wxxx.zip]7249
+[Chapters 36 - 40]
+Jan 2005 Connecticut Yankee, v7, by Twain            [#119][ynk7wxxx.zip]7248
+[Chapters 32 - 35]
+Jan 2005 Connecticut Yankee, v6, by Twain            [#118][ynk6wxxx.zip]7247
+[Chapters 27 - 31]
+Jan 2005 Connecticut Yankee, v5, by Twain            [#117][ynk5wxxx.zip]7246
+[Chapters 23 - 26]
+
+Jan 2005 Connecticut Yankee, v4, by Twain            [#116][ynk4wxxx.zip]7245
+[Chapters 17 - 22]
+Jan 2005 Connecticut Yankee, v3, by Twain            [#115][ynk3wxxx.zip]7244
+[Chapters 12 - 16]
+Jan 2005 Connecticut Yankee, v2, by Twain            [#114][ynk2wxxx.zip]7243
+[Chapters 7 - 11]
+Jan 2005 Connecticut Yankee, v1, by Twain            [#113][ynk1wxxx.zip]7242
+[Chapters 1 - 6]
+[The above nine files are Illustrated HTML files zip only in ynk_w10h.zip]
+[NOTE:  The files average 2.5mb each]
+
+Jan 2005 Fables of La Fontaine, by Jean de La Fontaine[#27][?ffabxxx.xxx]7241
+[Full title: The Fables of La Fontaine A New Edition, With Notes]
+[7-bit version in 7ffab10.txt/.zip; 8-bit version in 8ffab10.txt/.zip]
+[HTM version in 8ffab10h.htm/.zip]
+
+Jan 2005 Koenigs Lear, by William Shakespeare         [#33][?gs33xxx.xxx]7240
+[Full title: Das Leben und der Tod des Koenigs Lear]
+[Language: German]
+Jan 2005 Men, Women, and Boats, by Stephen Crane       [#5][?mnwmxxx.xxx]7239
+Jan 2005 My Four Years in Germany, by James W. Gerard      [?mfygxxx.xxx]7238
+Jan 2005 Roving East and Roving West, by E.V. Lucas    [#2][?rovgxxx.xxx]7237
+Jan 2005 Der Sturm The Tempest, by William Shakespeare[#41][?gs41xxx.xxx]7236
+[Language: German]  (See also English editions #2235, 1801, 1540, 1135)
+
+Jan 2005 The Bride of Fort Edward, by Delia Bacon          [brdftxxx.xxx]7235
+[Subtitle: Founded on an Incident of the Revolution]
+[Author's Full Name: Delia Salter Bacon]
+[Plain text in brdft10.txt/.zip; HTM version in brdft10h.htm/.zip]
+Jan 2005 Species and Varieties, by Hugo DeVries            [spvrtxxx.xxx]7234
+[Full title: Species and Varieties, Their Origin by Mutation]
+Jan 2005 Maass fuer Maass, by William Shakespeare     [#31][?gs31xxx.xxx]7233
+[Full title: Maass fuer Maass (Measure for Measure) Wie einer misst, so
+  wird ihm wieder gemessen]     [Language: German]
+Jan 2005 Romeo und Juliette, by William Shakespeare   [#16][?gs16xxa.xxx]7232
+[Christoph Martin Wieland (translator)] [Language: German] (See also #6996)
+[7-bit version in 7gs1610a.txt/.zip; 8-bit version in 8gs1610a.txt/.zip]
+Jan 2005 Light O' The Morning, by L. T. Meade          [#4][?mornxxx.xxx]7231
+[Subtitle: The Story of an Irish Girl]
+
+Jan 2005 Not George Washington, by P. G. Wodehouse    [#23][?ntgwxxx.xxx]7230
+[Full title: Not George Washington An Autobiographical Novel]
+Jan 2005 Rujub, the Juggler, by G. A. Henty           [#12][rujubxxx.xxx]7229
+[HTML version in rujub10h.htm/.zip; Plain text in rujub10.txt/.zip]
+Jan 2005 Laura Secord, by Sarah Anne Curzon                [secrdxxx.xxx]7228
+[Full title: Laura Secord, the heroine of 1812. A Drama. And Other Poems.]
+[Plain text in secrd10.txt/.zip; HTML version in secrd10h.htm/.zip]
+Jan 2005 Mornings in Florence, by John Ruskin          [#4][?mornxxx.xxx]7227
+Jan 2005 Timon von Athen, by William Shakespeare      [#37][?gs37xxx.xxx]7226
+[Language: German]
+
+Jan 2005 Die Irrungen, by William Shakespeare          [#6][?gs06xxx.xxx]7225
+[Full title: Die Irrungen (The Comedy of Errors) Die Doppelten Zwillinge]
+[Language: German]
+Jan 2005 Within You is the Power, by Henry Thomas Hamblin  [powerxxx.xxx]7224
+Jan 2005 The Belgian Cookbook, by Various                  [?blgnxxx.xxx]7223
+[Editor: Mrs. Brian Luck]
+[Plain text in 7blgn10.txt/.zip, 8-bit version 8blgn10.txt/.zip]
+Jan 2005 Fra Bartolommeo, by Leader Scott                  [?frabxxx.xxx]7222
+[Full author: Leader Scott (Re-Edited By Horace Shipp And Flora Kendrick)]
+Jan 2005 Wenyuange Sikuquanshu, Several Chinese Authors    [zzijixxx.xxx]7221
+[Contains Etext #7209 and #7215-7220]  [Language: Chinese]
+
+Jan 2005 Zhu Zhai Ji, by Wang Mian                         [zzijixxx.xxx]7220
+[Title: Zhu Zhai Ji (The Collections Of Bamboo-House)] [Language: Chinese]
+Jan 2005 Wei Liao Zi, by Wei Liao                          [wlizixxx.xxx]7219
+[Title: Wei Liao Zi (Military Science Of Wei Liao Zi)] [Language: Chinese]
+Jan 2005 San Lve, by Huang Shi Gong                        [sanlvxxx.xxx]7218
+[Full title: San Lve (three tactics Of Huang Shi Gong)]
+[Language: Chinese]
+Jan 2005 Ren Wu Zhi (People Recodes), by Liu Shao          [rwzhixxx.xxx]7217
+[Language: Chinese]
+Jan 2005 Gong Sun Long Zi, by Gong Sun Long                [gslzixxx.xxx]7216
+[Full title: Gong Sun Long Zi (Thought Of Gong Sun Long Zi)]
+[Language: Chinese]
+
+Jan 2005 Deng Xi Zi (Thought Of Deng Xi Zi), by Deng Xi    [dxizixxx.xxx]7215
+[Language: Chinese]
+Jan 2005 Pan, by Knut Hamsun                               [?pan1xxx.xxx]7214
+Jan 2005 My Life and Work, by Henry Ford                   [hnfrdxxx.xxx]7213
+Jan 2005 Memories of Canada and Scotland, J. D. S. Campbell[?mcscxxx.xxx]7212
+[Full title: Memories of Canada and Scotland Speeches and Verses]
+[Full author: John Douglas Sutherland Campbell]
+Jan 2005 The American Union Speaker, by John D. Philbrick  [?tausxxx.xxx]7211
+
+Jan 2005 The Motor Girls on Waters, by Margaret Penrose[#4][tmgwtxxx.xxx]7210
+[Title: The Motor Girls on Waters Blue, Or The Strange Cruise of The Tartar]
+Jan 2005 Wenyuange Sikuquanshu Gui Gu Zi, by Wang Xu       [wesikxxx.xxx]7209
+[Language: Chinese]
+Jan 2005 Kathleen, by Christopher Morley               [#5][kathnxxx.xxx]7208
+Jan 2005 Menschliches, Allzumenschliches, by F. Nietzsche  [?mschxxx.xxx]7207
+[Subtitle: Ein Buch Fuer Freie Geister] [Language: German]
+[Author's Full Name: Friedrich Wilhelm Nietzsche]
+[Plain text in 7msch10.txt/.zip, 8-bit version in 8msch10.txt/.zip]
+Jan 2005 Die Geburt der Tragoedie, by F. Nietzsche         [?gbrtxxx.xxx]7206
+[Subtitle: Versuch einer Selbstkritik]  [Language: German]
+[Author's Full Name: Friedrich Wilhelm Nietzsche]
+[Plain text in 7gbrt10.txt/.zip, 8-bit version in 8gbrt10.txt/.zip]
+
+Jan 2005 Also Sprach Zarathustra, by F. Nietzsche          [?zaraxxx.xxx]7205
+[Subtitle: Ein buch fuer Alle und Keinen] [Language: German]
+[Author: Friedrich Wilhelm Nietzsche][See Also: The English translation #1998]
+[Plain text in 7zara10.txt/.zip, 8-bit version in 8zara10.txt/.zip]
+Jan 2005 Jenseits von Gut und Boese, by F. Nietzsche       [?jnstxxx.xxx]7204
+[Author's Full Name: Friedrick Wilhelm Nietzsche]  [Language: German]
+(See Also: #4363 for an English version)
+[Plain text in 7jnst10.txt/.zip, 8-bit version in 8jnst10.txt/.zip]
+
+
+=-=-=-=[ 17 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Apr 2003 Too True to be Good, by George Bernard Shaw       [030059xx.xxx]0208A
+[http://gutenberg.net.au/ebooks03/0300591.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300591h.html]
+Apr 2003 Confessional, by Frank Harris                     [030058xx.xxx]0207A
+[http://gutenberg.net.au/ebooks03/0300581.txt or .ZIP]
+Mar 2003 Siren Land, by Norman Douglas                     [030057xx.xxx]0206A
+[http://gutenberg.net.au/ebooks03/0300571.txt or .ZIP]
+
+Mar 2003 On the Rocks, by George Bernard Shaw              [030056xx.xxx]0205A
+[http://gutenberg.net.au/ebooks03/0300561.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300561h.zip ZIPPED HTML]
+Mar 2003 Geneva, by George Bernard Shaw                    [030055xx.xxx]0204A
+[http://gutenberg.net.au/ebooks03/0300551.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300551h.html]
+Mar 2003 The Sweet Cheat Gone, by Marcel Proust            [030054xx.xxx]0203A
+[http://gutenberg.net.au/ebooks03/0300541.txt or .ZIP]
+Mar 2003 The Six of Calais, by George Bernard Shaw         [030053xx.xxx]0202A
+[http://gutenberg.net.au/ebooks03/0300531.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300531h.html]
+Mar 2003 Village Wooing, by George Bernard B Shaw          [030052xx.xxx]0201A
+[http://gutenberg.net.au/ebooks03/0300521.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300521h.html]
+
+Mar 2003 Swann's Way, by Marcel Proust                     [030051xx.xxx]0200A
+[http://gutenberg.net.au/ebooks03/0300511.txt or .ZIP]
+Mar 2003 The Captive, by Marcel Proust                     [030050xx.xxx]0199A
+[http://gutenberg.net.au/ebooks03/0300501.txt or .ZIP]
+Mar 2003 Cities of the Plain, by Marcel Proust             [030049xx.xxx]0198A
+[http://gutenberg.net.au/ebooks03/0300491.txt or .ZIP]
+Mar 2003 The Simpleton of the Unexpected Isles, by G B Shaw[030048xx.xxx]0197A
+[http://gutenberg.net.au/ebooks03/0300481.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300481h.html]
+[Author's full name: George Bernard Shaw]
+Mar 2003 The Glimpse of Reality, by George Bernard Shaw    [030047xx.xxx]0196A
+[http://gutenberg.net.au/ebooks03/0300471.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300471h.html]
+
+Mar 2003 The Fascinating Foundling, by George Bernard Shaw [030046xx.xxx]0195A
+[http://gutenberg.net.au/ebooks03/0300461.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300461h.html]
+Mar 2003 Last Leaves from Dunk Island, by E J Banfield     [030045xx.xxx]0194A
+[http://gutenberg.net.au/ebooks03/0300451.txt or .ZIP]
+Mar 2003 "In Good King Charles's Golden Days", by G B Shaw [030044xx.xxx]0193A
+[http://gutenberg.net.au/ebooks03/0300441.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300441h.html]
+[Author's full name: George Bernard Shaw]
+Mar 2003 The Apple Cart, by George Bernard Shaw            [030043xx.xxx]0192A
+[http://gutenberg.net.au/ebooks03/0300431.txt or .ZIP]
+[and http://gutenberg.net.au/ebooks03/0300431h.html]
+
+--The following previously posted eBook is being re-indexed to correct the
+title, and add subtitle and translator info:
+Mar 2003 Shoot! (Si Gira), by Luigi Pirandello             [030039xx.xxx]0188A
+[Subtitle: The Notebooks of Serafino Gubbio, Cinematograph Operator]
+[Tr.: C.K. Scott Moncrieff]
+[http://gutenberg.net.au/ebooks03/0300391.txt or .ZIP]
+
+
+eBooks are held in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+
+----------------------------------------------------------------------
+
+============= [ SUBMIT A NEW EBOOK FOR COPYRIGHT CLEARANCE ]==============
+
+If you have a book you would like to confirm is in the public domain in
+the US, and therefore suitable for Project Gutenberg, please do the
+following:
+
+1. Check whether we have the eBook already.  Look in
+	http://ibiblio.org/gutenberg/GUTINDEX.ALL
+which is updated weekly.  (The searchable catalog at
+http://www.gutenberg.net  lags behind by several months)
+
+2. Check the "in progress" list to see whether someone is already
+working on the eBook.  Sometimes, books are listed as in progress for
+years - if so, email David Price (his address is on the list) to ask
+for contact information for the person working on the book.  The "in
+progress" list:
+	http://www.dprice48.freeserve.co.uk/GutIP.html
+
+3. If the book seems to be a good candidate (pre-1923 publication
+date, or 1923-1988 published in the US without a copyright notice),
+submit scans of the title page and verso page (even if the verso is
+blank) to:
+	http://beryl.ils.unc.edu/copy.html
+
+You'll hear back within a few days.
+
+----------------------------------------------------------------------
+
+3) News
+
+200 Ebooks for Project Gutenberg of Australia
+
+Earlier this week the 200th ebook was posted at Project Gutenberg of
+Austrlia--'Swann's Way', the English translation by C K Scott-Moncrieff of
+Marcel Proust's 'Du cote de chez Swann'. This work was recently posted at
+Project Gutenberg in the US, however it is appropriate that we have it here
+in Australia as well, since the translations by C K Scott-moncrieff of the
+other novels which form part of Proust's epic work 'Remembrance of Things
+Past' ('A la Recherche du temps perdu'), now often titled 'In Search of Lost
+Time', are also in the public domain in Australia. In fact, this week we
+also posted parts 4 and 5.
+
+Bob Carr, Premier of New South Wales, is an intellectual and writer as well
+as a politician. In his recent book, 'Thoughtlines' (published by Penguin
+Books), he described 'Swann's Way' as "...relatively easy, an elegy of
+middle-class rural life. A grandmother lovingly quotes her favourite French
+classics. There are overflowing garden beds of hawthorn, the local river
+filled with lilies. A loyal retainer from old peasant Frances serves the
+family omelette, endives and beefsteak. An eccentric invalid aunt confines
+herself to her bed.
+
+"Only a rereading reveals Proust's deftly planted pre-echoes. Here are the
+motifs and characters that will weave their way through all [the] fat
+volumes. Swann's Way is the opening movement of a sprawling 'roman fleuve'
+charting the progress of a group of Parisians over several decades, roughly
+1880 to 1920"
+
+According to Carr, 'Remembrance of Things Past' (Scott-Moncrieff gave it
+this title as his translation of the French 'A la Recherche du temps perdu')
+is "the most referred to but least read book in world literature. Yes, more
+referred to and less read than 'War and Peace' or 'Moby Dick'. Perhaps only
+'Ulysses' has more mentions and attracted fewer readers". Of course these
+works are at Project Gutenberg, for those just itching to read them.
+
+Should you desire more information about Proust and 'Remembrance of Things
+Past', vist the Proust page at PGofOz at
+http://gutenberg.net.au/pages/proust.html (follow the links if you want even
+more).
+
+The remaining parts of the work will be posted at PGofOz as they are
+completed. It might be noted here that the Scott-Moncrieff, who died in
+1930, translated all but the final part, 'Time Regained' ('Le Temps
+retrouve'). This was translated by Sydney Schiff (a.k.a. Stephen Hudson) who
+died in 1944 and whose translation is therefore also in the public domain in
+Australia.
+
+The first sentence of 'Swann's Way', and of 'Remembrance of Things Past' for
+that matter, reads "For a long time I used to go to bed early". You might
+need to, if you are going to attack this difficult yet rewarding work.
+Still, if you don't start it you won't finish.
+
+Bonsoir!
+
+Col Choat.
+
+Project Gutenberg of Australia
+A treasure-trove of literature
+treasure-trove n. treasure found hidden with no evidence of ownership
+http://gutenberg.net.au
+
+{I would like to apologise for the incorrect spellings of some of the
+French titles in Col's piece, this is not down to Col, but the editor's
+emacs program which insisted in translating the appropriate accents
+into pure gibberish. - Alice}
+----------------------------------------------------------------------
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+or
+
+PayPal to "donate@gutenberg.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employer Identification
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby@ils.unc.edu
+
+----------------------------------------------------------------------
+
+4) Notes and Queries
+
+Book Review
+
+From: Juliet Sutherland
+
+Sometimes a book really brings home to me the realities of life over a =
+hundred years ago. "Jim Cummings, or the Great Adams Express Robbery" by =
+Frank Pinkerton,  1887c is an example. The most fascinating parts of =
+this book did not, unfortunately, make it into the PG edition. I quote =
+from the publisher's blurb in the advertisment for the Frank Pinkerton =
+Detective Series, "Every book is a complete exposition of some real =
+crime, which has been traced to the guilty person or conspirators by =
+some eminent operative in the secret service. These stories, having =
+facts for a foundation, are written in a fascinating manner, free from =
+all improbabilities or mythical romances, but tell the methods, finesse =
+of detective work, the hair-breadth escapes, the perilous situations, =
+failures and triumphs, in readable and intensely interesting style." On =
+reading this, I realized that I had found the 1887 equivalent of Crime =
+Scene Investigators. A few pages further along in the front material is =
+a listing of POPULAR NOVELS FOR SALE BY THE NEWS AGENT ON THIS TRAIN. I =
+had another ahah! moment. I was holding in my hands the 1887 equivalent =
+of the in-flight movie. I can't say that I've actually _read_ this book, =
+so I can't recommend it. On the one hand, it passed through DP very =
+quickly at a time when we didn't have many proofreaders, and on the =
+other, as I finished up the processing, what little I read struck me as =
+having very little literary value. I leave you to judge its literary =
+value for yourself, but it certainly represents a wonderful piece =
+popular culture history.
+
+
+----------------------------------------------------------------------
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+These sites and indices are not updated instantly, as additional research may need to be done by our professional Chief Cataloguer, so for those who wish to obtain these new ebooks, please refer to the following section.
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+
+----------------------------------------------------------------------
+
+5) This week in history
+
+Literary Dates of Interest this week
+
+Birthdays this week:
+
+April
+
+2nd Heinrich Hoffman, Konrad Gyorgy, Hans Christian Andersen (18), Emile
+Zola(4), Casanova(33!)
+3rd Washington Irving(1)
+4th Edith Sodergran, Marguerite Duras, Andrei Tarkovsky, Remy de
+Gourmont
+5th Robert Bloch, Hugo Claus
+6th Dan Andersson
+7th William Wordsworth, Gabriela Mistral
+8th Alfred Jarry
+
+Deaths
+
+1872 Samuel B Morse - developer of the electronic telegraph
+1991 Grahame Greene
+1992 Isaac Asimov
+
+The figures in brackets indicate the number of books held on the
+Project Gutenberg website by the author.
+----------------------------------------------------------------------
+
+DISTRIBUTED PROOFREADERS NEEDS CONTENT
+
+Thanks to very good recent publicity, the Distributed Proofreading
+project has greatly accelerated its pace.   Please visit the site:
+
+http://texts01.archive.org/dp for more information about how you can
+
+help, by scanning just a few pages per day.
+
+If you have a book that has been scanned but have not yet run through
+OCR (optical character recognition) please email pg@aldarondo.net
+with information -- they'd be happy work on it.
+
+Also, DP is seeking public domain books not already in the
+Project Gutenberg collection.  To see what is already online, visit
+http://ibiblio.org/gutenberg/GUTINDEX.ALL (a text file), since the
+online database doesn't reflect recent additions.  Please email
+charlz@lvcablemodem.com if you have books to send, or simply send them
+(note that DP generally chops books to scan them, and usually does not
+return scanned books).
+
+More. . . .
+
+Do you have Public Domain books your would like to see in the archive?
+Can they be destructively scanned? If so send them to the Distributed
+Proofreading Team!
+
+
+Charles Franks
+9030 W. Sahara Ave. #195
+Las Vegas, NV 89117
+
+
+We will also have this address in Chicago!
+
+
+Charles Aldarondo
+701 Riverside Drive
+Park Ridge, IL 60068
+
+
+Please make sure that they are _not_ already in the archive and please check
+them against David's In Progress list at
+
+http://www.dprice48.freeserve.co.uk/GutIP.html
+
+to ensure no one is currently working on them. It would also be helpful if
+you clear them before mailing the books, send the 'OK' lines to
+
+charlz@lvcablemodem.com
+
+----------------------------------------------------------------------
+
+6) Headline News from around the world
+
+E-MAIL TRAFFIC PATTERNS SIGNAL WHO'S IN CHARGE
+A new technique developed at Hewlett-Packard's research labs in Palo Alto 
+can quickly identify online communities and the key people in them. "If the 
+CIA or another intelligence agency has a lot of intercepted e-mail from 
+people suspected of being part of a criminal network, they could use the 
+technique to figure out who the leaders of the network might be," says 
+researcher Joshua Tyler. Tyler and his colleagues analyzed communications 
+patterns using the lab's log of nearly 200,000 internal e-mails sent by 485 
+employees over a couple of months. They plotted lines between people who 
+had exchanged at least 30 e-mails with each other, and found the grid 
+included 1,110 links between 367 people. The researchers then used a 
+computer algorithm that looks for critical links that form bridges between 
+separate groups, which revealed 66 communities within the lab. To identify 
+the leader in each community, they plotted the same network of e-mails 
+using a standard algorithm that tries to arrange the connections in the 
+least tangled way. This step identified the managers, who tended to cluster 
+in the middle. "This approach puts in the middle the people who have the 
+most diverse range of contacts in the organization -- and these tend to be 
+the leaders," says Tyler, who adds that the technique could be used to 
+identify the ringleaders in criminal or terrorist gangs. (New Scientist 27 
+Mar 2003)
+http://www.newscientist.com/news/news.jsp?id=ns99993550
+
+
+                    -------------------
+
+INTERNET VS. RECORDING INDUSTRY
+Media analyst Eric Garland of Big Champagne has told California lawmakers 
+that the growth of music file-sharing on the Internet is "fundamentally 
+unstoppable," because 61 million Americans and millions more worldwide are 
+already downloading music and only 9% of them think they're doing something 
+wrong. "We see only one trend. More people are downloading more copyrighted 
+material." Garland's advice for the recording industry is to embrace 
+digital distribution rather than institute lawsuits or education campaigns, 
+but such advice is not well-received by industry executives, who are 
+routinely urged by Internet enthusiasts to accommodate to technological 
+realities. Phil Corwin, a lobbyist for Internet music service Kazaa, told 
+the same group of state legislators: "The record business, in the digital 
+revolution, has been a day late and a dollar short." [A dollar may not be 
+the final figure.] The fight goes on. (AP/San Jose Mercury News 28 Mar 2003)
+http://www.siliconvalley.com/mld/siliconvalley/5502291.htm
+
+                    -------------------
+
+NEWSSCAN INFORMATION
+
+You have been reading excerpts from NewsScan
+NewsScan Daily is underwritten by RLG, a world-class
+organization making significant and sustained contributions to the
+effective management and appropriate use of information technology.
+
+To subscribe or unsubscribe to the text, html, or handheld versions
+of NewsScan Daily, send the appropriate subscribe or unsubscribe messages
+(i.e., with the word 'subscribe' or 'unsubscribe' in the subject line) to:
+Text version: Send message to NewsScan@NewsScan.com
+Html version: Send mail to NewsScan-html@NewsScan.com
+NewsScan-To-Go: http://www.newsscan.com/handheld/current.html
+
+                    -------------------
+
+GROUPS OPPOSE STATE COPYRIGHT RESTRICTIONS
+Critics of current copyright laws argue that some states are passing
+legislation even more restrictive that the Digital Millennium Copyright
+Act (DMCA) and are urging those states to soften their position. The
+Association of Research Libraries, the American Association of Law
+Libraries, and the American Library Association sent a letter last week
+to lawmakers in Arkansas and Colorado rejecting proposed laws that
+could "undermine the ability of libraries to provide important
+information services." The Motion Picture Association of America (MPAA)
+is one of the supporters of the DMCA and state copyright laws.
+According to the MPAA, states that have already passed copyright
+legislation include Maryland, Virginia, Delaware, Illinois, and
+Michigan. The MPAA defends laws in those states as legitimate attempts
+to curtail the piracy of copyrighted material.
+ZDNet, 31 March 2003
+http://zdnet.com.com/2100-1104-994667.html
+
+                    -------------------
+
+BRITISH UNIVERSITIES FACE COPYRIGHT LAWSUITS
+The British Phonographic Industry and its sister organization, the
+International Federation of the Phonographic Industry, have sent a
+letter to every university in Britain highlighting the problem of music
+piracy on campuses and raising the specter of legal action against
+universities that are complicit in such piracy. A spokesman for the two
+groups said that turning a blind eye to such illegal activity on the
+school's network sends students a message that conflicts with
+universities' calling for honesty and understanding about plagiarism
+in their academic work. Organizations representing universities and
+faculty offered several responses. One group said the music industry
+should help pay for filtering efforts on campuses. Another group said
+that while universities do not condone piracy, they have better things
+to do than snoop on network users.
+Times Online, 28 March 2003
+http://www.timesonline.co.uk/article/0,,2-625793,00.html
+
+                    -------------------
+
+EDUPAGE INFORMATION
+
+To subscribe, unsubscribe, or change your settings, visit
+http://www.educause.edu/pub/edupage/edupage.html
+
+Or, you can subscribe or unsubscribe by sending e-mail to
+LISTSERV@LISTSERV.EDUCAUSE.EDU
+To SUBSCRIBE, in the body of the message type:
+SUBSCRIBE Edupage YourFirstName YourLastName
+To UNSUBSCRIBE, in the body of the message type:
+SIGNOFF Edupage
+
+If you have subscription problems, send e-mail to
+EDUPAGE-request@LISTSERV.EDUCAUSE.EDU
+
+----------------------------------------------------------------------
+
+7) Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help
+
+----------------------------------------------------------------------
+
+Credits
+
+Thanks this time go to Brett and George for the booklists, number
+crunching and holding the fort last week. Mark for the beer and
+chocolate (double newsletter week), Greg and Larry Wall. Michael is
+still on holiday. Special thanks also to Robert Elms.

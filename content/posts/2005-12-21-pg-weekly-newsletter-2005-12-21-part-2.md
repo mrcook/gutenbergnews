@@ -1,0 +1,488 @@
+---
+params:
+  id: 2338
+title: "PG Weekly Newsletter: Part 2 (2005-12-21)"
+date: 2005-12-21T12:36:03+00:00
+author: Michael Cook
+layout: post
+url: /20051221/pg-weekly-newsletter-2005-12-21-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From news at pglaf.org  Thu Dec 22 09:54:33 2005
+From: news at pglaf.org (Project Gutenberg Newsletter)
+Date: Thu Dec 22 09:54:41 2005
+Subject: [gweekly] Pt2 Project Gutenberg Weekly Newsletter
+Message-ID: &lt;Pine.LNX.4.60.0512220950070.8900@pglaf.org&gt;
+
+GWeekly_December_21_part2.txt
+
+The Project Gutenberg Weekly Newsletter 21 Dec 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+    - Obtaining Project Gutenberg eBooks
+    - Updates/corrections to previously posted eBooks
+    - 57 New U.S. eBooks this week
+    - 2 New eBooks at Project Gutenberg of Australia
+    - Last, but not least:  insights and other fine stuff
+    - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+   http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+   http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+   http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+   http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                      ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+      Note:  this listing best viewed with a fixed-width font, such as
+             Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+           [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 21 Dec 2005: 17834 (incl. 516 Aus.).
+
+Last week the Total Count was 17775, including 514 at PG of Australia.
+This week we added 59 new.
+
+RESERVED/PENDING count: 44
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Balzac, by Frederick Lawton                                               3822
+  [Link: http://www.gutenberg.org/3/8/2/3822 ]
+  [Updated edition of: etext03/balza10.txt]
+  [Files: 3822.txt; 3822-h.htm]
+
+The Gentle Grafter, by O. Henry                                           1805
+   [Illus.: H. C. Greening and May Wilson Preston]
+   [Updated edition of: etext99/grftr10.txt ]
+   [Link: http://www.gutenberg.org/dirs/1/8/0/1805 ]
+   [Files: 1805.txt; 1805-8.txt; 1805-h.htm ]
+
+
+:: Please note the following additional changes, corrections, improvements:
+
+Correct title (London, not England):
+History of the Plague in London, by Daniel Defoe                         17221
+
+Correct author name (two "l"s, not one):
+Nov 2003 California 1849-1913, L.H. Woolley                [rsketxxx.xxx] 4638
+
+
+-=-=-=-=[  57 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Der Goldene Topf, by E. T. A. Hoffmann [Ernst Theodor Amadeus Hoffmann]  17362
+   [Illus.: Edmund Schaefer]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/7/3/6/17362 ]
+   [Files: 17362-8.txt; 17362-h.htm; ]
+
+The German Element in Brazil, by Benjamin Franklin Schappelle            17361
+   [Subtitle: Colonies and Dialect]
+   [Link: http://www.gutenberg.org/1/7/3/6/17361 ]
+   [Files: 17361.txt; 17361-8.txt; 17361-h.htm; ]
+
+Emile Zola, by Edmond Lepelletier                                        17360
+   [Subtitle: Sa Vie--Son Oeuvre]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/6/17360 ]
+   [Files: 17360-8.txt; 17360-0.txt]
+
+Arms and the Woman, by Harold MacGrath                                   17359
+   [Link: http://www.gutenberg.org/1/7/3/5/17359 ]
+   [Files: 17359.txt; 17359-8.txt; ]
+
+The Romantic Settlement of Lord Selkirk's Colonists, by George Bryce     17358
+   [Subtitle: The Pioneers of Manitoba]
+   [Link: http://www.gutenberg.org/1/7/3/5/17358 ]
+   [Files: 17358.txt; 17358-8.txt; 17358-h.htm; ]
+
+The Quickening, by Francis Lynde                                         17357
+   [Illustrator: E. M. Ashe]
+   [Link: http://www.gutenberg.org/1/7/3/5/17357 ]
+   [Files: 17357.txt; 17357-8.txt; 17357-h.htm]
+
+Nobody's Man, by E. Phillips Oppenheim                                   17356
+   [Link: http://www.gutenberg.org/1/7/3/5/17356 ]
+   [Files: 17356.txt; 17356-8.txt; ]
+
+The Runaway Skyscraper, by Murray Leinster                               17355
+   [Link: http://www.gutenberg.org/1/7/3/5/17355 ]
+   [Files: 17355.txt; 17355-h.htm]
+
+Cave Regions of the Ozarks and Black Hills, by Luella Agnes Owen         17354
+   [Link: http://www.gutenberg.org/1/7/3/5/17354 ]
+   [Files: 17354.txt; 17354-8.txt; 17354-h.htm; ]
+
+La mer et les marins, by douard Corbire                                  17353
+   [Subtitle: Scnes maritimes]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/5/17353 ]
+   [Files: 17353-8.txt; 17353-h.htm]
+
+The Awakening, by Leo Nikoleyevich Tolstoy                               17352
+   [Subtitle: The Resurrection]
+   [Tr.: William E. Smith]
+   [See also #1938, a different translation]
+   [Link: http://www.gutenberg.org/1/7/3/5/17352 ]
+   [Files: 17352.txt; 17352-8.txt; 17352-h.htm; ]
+
+The Rivals of Acadia, by Harriet Vaughan Cheney                          17351
+   [Subtitle: An Old Story of the New World]
+   [Link: http://www.gutenberg.org/1/7/3/5/17351 ]
+   [Files: 17351.txt; 17351-8.txt; 17351-h.htm]
+
+The Practice and Theory of Bolshevism, by Bertrand Russell               17350
+   [Link: http://www.gutenberg.org/1/7/3/5/17350 ]
+   [Files: 17350.txt; 17350-8.txt; 17350-h.htm]
+
+Frank Among The Rancheros, by Harry Castlemon                            17349
+   [Link: http://www.gutenberg.org/1/7/3/4/17349 ]
+   [Files: 17349.txt; 17349-8.txt; 17349-h.htm]
+
+Chambers's Edinburgh Journal, Vol. 17 New Series, No. 432, Apr 10, 1852  17348
+   [Editor: Robert Chambers and William Chambers]
+   [Link: http://www.gutenberg.org/1/7/3/4/17348 ]
+   [Files: 17348.txt; 17348-8.txt; 17348-h.htm]
+
+Sonnets, and Sonnets on English Dramatic Poets (1590-1650), by Swinburne 17347
+   [Subtitle: Taken from The Collected Poetical Works of Algernon Charles
+    Swinburne, Vol V.
+   [Author: Algernon Charles Swinburne]
+   [Link: http://www.gutenberg.org/1/7/3/4/17347 ]
+   [Files: 17347.txt; 17347-8.txt; 17347-h.htm]
+
+The Report on Unidentified Flying Objects, by Edward Ruppelt             17346
+   [Link: http://www.gutenberg.org/1/7/3/4/17346 ]
+   [Files: 17346.txt]
+
+Histoire comique, by Anatole France                                      17345
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/4/17345 ]
+   [Files: 17345-8.txt; 17345-0.txt; 17345-h.htm]
+
+Rose d'Amour, by Alfred Assollant                                        17344
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/4/17344 ]
+   [Files: 17344-8.txt; 17344-h.htm]
+
+Brendan's Fabulous Voyage, by John Patrick Crichton Stuart Bute          17343
+   [Link: http://www.gutenberg.org/1/7/3/4/17343 ]
+   [Files: 17343.txt; 17343-8.txt; 17343-h.htm]
+
+The Motor Maid, by Alice Muriel Williamson and Charles Norris Williamson 17342
+   [Illus.: F. M. Du Mond and F. Lowenheim]
+   [Link: http://www.gutenberg.org/1/7/3/4/17342 ]
+   [Files: 17342.txt; 17342-8.txt; 17342-h.htm; ]
+
+Su nico hijo, by Leopoldo Alas [AKA: Clarin]                             17341
+   [INDEXERS PLEASE NOTE the following request from the preparer of this]
+   [file: This author had a pen-name of Clarn. It would be helpful if that]
+   [could appear next to his name in the index, with possibly a]
+   [cross-reference from Clarin to Alas.  This is the second book of his I]
+   [have done and am preparing several others.]
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/7/3/4/17341 ]
+   [Files: 17341-8.txt; 17341-h.htm; ]
+
+Marianela, by Benito Prez Galds                                          17340
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/7/3/4/17340 ]
+   [Files: 17340-8.txt; 17340-h.htm; ]
+
+Schetsen uit den Kaukasus, by Carla Serena                               17339
+   [Subtitle: De Aarde en Haar Volken 1887]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/7/3/3/17339 ]
+   [Files: 17339-8.txt; 17339-h.htm]
+
+Doa Luz, by Juan Valera                                                  17338
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/7/3/3/17338 ]
+   [Files: 17338-8.txt; 17338-h.htm]
+
+Onder Moeders Vleugels, by Louise M. Alcott                              17337
+   [Editor: G. W. Elberts]
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/7/3/3/17337 ]
+   [Files: 17337-8.txt; 17337-h.htm]
+
+Plus-Que-Parfait, by Cyriel Buysse                                       17336
+   [Language: Dutch]
+   [Link: http://www.gutenberg.org/1/7/3/3/17336 ]
+   [Files: 17336-8.txt]
+
+Aventures du capitaine Corcoran, II, by Alfred Assollant                 17335
+   [Title: Aventures merveilleuses mais authentiques du capitaine Corcoran]
+   [Subtitle: Deuxime partie]
+   [Illustrator: A. De Neuville]
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/3/17335 ]
+   [Files: 17335-8.txt; 17335-h.htm]
+
+Initiative Psychic Energy, by Warren Hilton                              17334
+   [Subtitle: Being the Sixth of a Series of Twelve Volumes on the
+    Applications of Psychology to the Problems of Personal and Business
+    Efficiency]
+   [Link: http://www.gutenberg.org/1/7/3/3/17334 ]
+   [Files: 17334.txt; 17334-8.txt; 17334-h.htm]
+
+Wilt Thou Torchy, by Sewell Ford                                         17333
+   [Link: http://www.gutenberg.org/1/7/3/3/17333 ]
+   [Files: 17333.txt; 17333-8.txt; 17333-h.htm]
+
+History Of Egypt From 330 B.C., Volume 12 (of 12), by S. Rappoport       17332
+   [Title: History Of Egypt From 330 B.C. To The Present Time,
+    Vol. 12 (of 12)]
+   [Link: http://www.gutenberg.org/1/7/3/3/17332 ]
+   [Files: 17332.txt; 17332-8.txt; 17332-h.htm]
+
+History Of Egypt From 330 B.C., Volume 11 (of 12), by S. Rappoport       17331
+   [Title: History Of Egypt From 330 B.C. To The Present Time,
+    Volume 11 (of 12)]
+   [Link: http://www.gutenberg.org/1/7/3/3/17331 ]
+   [Files: 17331.txt; 17331-8.txt; 17331-h.htm]
+
+History Of Egypt From 330 B.C.,Volume 10 (of 12), by S. Rappoport        17330
+   [Title: History Of Egypt From 330 B.C. To The Present Time,
+    Volume 10 (of 12)]
+   [Link: http://www.gutenberg.org/1/7/3/3/17330 ]
+   [Files: 17330.txt; 17330-8.txt; 17330-h.htm]
+
+History Of Egypt, Volume 9 (of 12), by G. Maspero                        17329
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 9 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17329 ]
+   [Files: 17329.txt; 17329-8.txt; 17329-h.htm]
+
+History Of Egypt, Volume 8 (of 12), by G. Maspero                        17328
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 8 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17328 ]
+   [Files: 17328.txt; 17328-8.txt; 17328-h.htm]
+
+History Of Egypt, Volume 7 (of 12), by G. Maspero                        17327
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 7 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17327 ]
+   [Files: 17327.txt; 17327-8.txt; 17327-h.htm]
+
+History Of Egypt, Volume 6 (of 12), by G. Maspero                        17326
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 6 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17326 ]
+   [Files: 17326.txt; 17326-8.txt; 17326-h.htm]
+
+History Of Egypt, Volume 5 (of 12), by G. Maspero                        17325
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 5 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17325 ]
+   [Files: 17325.txt; 17325-8.txt; 17325-h.htm]
+
+History Of Egypt, Volume 4 (of 12), by G. Maspero                        17324
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 4 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17324 ]
+   [Files: 17324.txt; 17324-8.txt; 17324-h.htm]
+
+History Of Egypt, Volume 3 (of 12), by G. Maspero                        17323
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 3 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17323 ]
+   [Files: 17323.txt; 17323-8.txt; 17323-h.htm]
+
+History Of Egypt, Volume 2 (of 12), by G. Maspero                        17322
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, and Assyria,
+    Volume 2 (of 12)]
+   [Editor: A.H. Sayce]
+   [Translator: M.L. McClure]
+   [Link: http://www.gutenberg.org/1/7/3/2/17322 ]
+   [Files: 17322.txt; 17322-8.txt; 17322-h.htm]
+
+History of Egypt, Volume 1 (of 12), by L.W. King and H.R. Hall           17321
+   [Title: History Of Egypt, Chalda, Syria, Babylonia, And Assyria In The
+    Light Of Recent Discovery, Vol. 1 (of 12)]
+   [Link: http://www.gutenberg.org/1/7/3/2/17321 ]
+   [Files: 17321.txt; 17321-8.txt; 17321-h.htm]
+
+Political and Literary Essays, 1908-1913, by Evelyn Baring               17320
+   [Link: http://www.gutenberg.org/1/7/3/2/17320 ]
+   [Files: 17320.txt; 17320-8.txt; 17320-0.txt; 17320-h.htm]
+
+Chateaubriand, by Jules Lematre                                          17319
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/1/17319 ]
+   [Files: 17319-8.txt; 17319-0.txt; 17319-h.htm]
+
+Public Speaking, by Clarence Stratton                                    17318
+   [Link: http://www.gutenberg.org/1/7/3/1/17318 ]
+   [Files: 17318.txt; 17318-8.txt; 17318-h.htm]
+
+Genio y figura, by Juan Valera                                           17317
+   [Language: Spanish]
+   [Link: http://www.gutenberg.org/1/7/3/1/17317 ]
+   [Files: 17317-8.txt; 17317-h.htm]
+
+Letters of a Soldier, by Anonymous                                       17316
+   [Subtitle: 1914-1915]
+   [Commentator: A. Clutton-Brock]
+   [Andr Chevrillon]
+   [Translator: V.M.]
+   [Link: http://www.gutenberg.org/1/7/3/1/17316 ]
+   [Files: 17316.txt; 17316-8.txt; 17316-h.htm]
+
+Abe Lincoln Gets His Chance, by Frances Cavanah                          17315
+   [Illustrator: Paula Hutchison]
+   [Link: http://www.gutenberg.org/1/7/3/1/17315 ]
+   [Files: 17315.txt; 17315-8.txt; 17315-h.htm]
+
+Five Children and It, by E. Nesbit                                       17314
+   [Illustrator: H.R. Millar]
+   [Link: http://www.gutenberg.org/1/7/3/1/17314 ]
+   [Files: 17314.txt; 17314-8.txt; 17314-h.htm]
+
+Pikku kettuja, by Harriet Beecher Stowe                                  17313
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/7/3/1/17313 ]
+   [Files: 17313-8.txt]
+
+Martin Paz, by Jules Verne                                               17312
+   [Language: Finnish]
+   [Link: http://www.gutenberg.org/1/7/3/1/17312 ]
+   [Files: 17312-8.txt]
+
+Le jardinier de la Pompadour, by Eugne Demolder                         17311
+   [Language: French]
+   [Link: http://www.gutenberg.org/1/7/3/1/17311 ]
+   [Files: 17311-8.txt; 17311-0.txt]
+
+Tablets of Baha'u'llah Revealed after the Kitab-i-Aqdas, by Baha'u'llah 17310C
+   [Link: http://www.gutenberg.org/1/7/3/1/17310 ]
+   [Files: 17310.txt; 17310-8.txt; 17310-0.txt; 17310-h.htm; 17310-pdf.pdf;
+    17310-tei.tei]
+
+The Summons of the Lord of Hosts, by Baha'u'llah                         17309
+   [Link: http://www.gutenberg.org/1/7/3/0/17309 ]
+   [Files: 17309.txt; 17309-8.txt; 17309-0.txt; 17309-h.html;]
+   [17309-pdf.pdf; 17309-tei.tei]
+
+Sunrise, by William Black                                                17308
+   [Link: http://www.gutenberg.org/1/7/3/0/17308 ]
+   [Files: 17308.txt; 17308-8.txt; 17308-h.htm]
+
+Frederic Mistral, by Charles Alfred Downer                               17293
+   [Subtitle: Poet and Leader in Provence]
+   [Link: http://www.gutenberg.org/1/7/2/9/17293 ]
+   [Files: 17293.txt; 17293-8.txt; 17293-0.txt; 17293-h.htm]
+
+Der niegeuskte Mund, by Jakob Wassermann                                 17143
+   [Subtitle: Drei Erzhlungen]
+   [Language: German]
+   [Link: http://www.gutenberg.org/1/7/1/4/17143 ]
+   [Files: 17143-8.txt; 17143-0.txt; 17143-h.htm]
+
+
+-=-=-=-=[ 2 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Dec 2005 Terror Keep, by Edgar Wallace                     [050121xx.xxx] 0516A
+   [http://gutenberg.net.au/ebooks05/0501211.txt or .zip]
+
+Dec 2005 Room 13, by Edgar Wallace                         [050120xx.xxx] 0515A
+   [http://gutenberg.net.au/ebooks05/0501201.txt or .zip]
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+
+</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_12_21_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_12_21_part_2.txt</a>

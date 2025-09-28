@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main class="post">
+  <article>
+    <h1>{{ .Title }}</h1>
+    <time>{{ time.Format ":date_long" .Date }}</time>
+
+  {{- if ne .Type "page" }}
+    {{ if gt .Params.categories 0 -}}
+    <div class="categories">
+      <ul>
+      {{- range .Params.categories }}
+        <li><a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+      {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+  {{- end }}
+
+    <section>
+      {{ .Content }}
+    </section>
+
+  {{- if ne .Type "page" }}
+    {{ if gt .Params.tags 0 -}}
+    <div class="tags">
+      <ul>
+      {{- range .Params.tags }}
+        <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+      {{- end }}
+      </ul>
+    </div>
+    {{- end }}
+  {{- end }}
+  </article>
+</main>
+{{ end }}

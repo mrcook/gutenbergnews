@@ -1,0 +1,411 @@
+The Project Gutenberg Weekly Newsletter 29th October 2003
+eBooks Readable By Both Humans and Computers For Since 1971
+
+New Project Gutenberg Documents
+----------------------------------------------------------------------
+
+This week we begin experimenting with a new format for the new postings.
+We're hoping that this will make the listings more "readable".
+
+Note:  this listing best viewed with a fixed-width font, such as Courier New
+       or similar.
+
+=============================================================================
+=           [ Here Are The Updated Listings For This Past Week ]            =
+=============================================================================
+
+TOTAL COUNT as of today, Wed 29 Oct 2003:  10,155 (incl. 288 Aus.).
+
+Last week the Total Count was 10,069, including 282 at PG of Australia.
+This week we added 80 new.(incl. 6 at PG of Australia).
+
+RESERVED count:   39
+
+A "?" at the beginning of the filename indicates that the eBook is
+available in both 7-bit (plain text) & 8-bit (accented) versions.
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Corrected EDITIONS of our eBooks get a new NUMBER, xxxxx11.txt, and
+   prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+   well as a new eBook number.
+
+.:Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to add translator info:
+Feb 2006 Observations Geologiques, by Charles Darwin       [?geolxxx.xxx] 9824
+[Full title: Observations Geologiques sur les Iles Volcaniques]
+[Language: French] [Tr.: A.-F. Renard]
+Jan 2006 Superfluous Man and Others, by Ivan Turgenev      [?spmnxxx.xxx] 9615
+[Full title: The Diary of a Superfluous Man and Other Stories]
+[Tr.:  Constance Garnett]
+
+The following is being re-indexed to include the full title:
+Jul 2002 Variation of Animals and Plants, by Charles Darwin[vartnxxx.xxx] 3332
+[Full Title:  The Variation of Animals and Plants under Domestication]
+
+The following is being re-indexed to correct the title (adding the year):
+Jan 2006 Miscellany of Poetry, 1919, by Various            [?msptxxx.xxx] 9652
+[Ed.: W. Kean Seymour] [Decorations: Doris Palmer, Cecil Palmer and Hayward]
+
+The following is being re-indexed to include translation info:
+Jan 2006 Ramuntcho, by Pierre Loti                    [#12][ramunxxx.xxx] 9616
+[English Translation by Henri Pene du Bois]
+
+
+The following has had minor corrections made to the text, and a new
+format posted as indicated:
+Oct 1997 Life of Tristram Shandy, by Laurence Sterne       [shndyxxx.xxx] 1079
+[Illustrated HTML in shndy10h.zip only]
+
+
+We have posted an improved 11th edition of the following:
+Oct 2004 Favorite Dishes, by Carrie V. Shuman              [fvdshxxx.xxx] 6703
+Feb 2003 The Trial, by Charlotte M. Yonge [C. M. Yonge #13][trialxxx.xxx] 3744
+Jan 2003 The Daisy Chain, or Aspirations by Charlotte Yonge[tdcoaxxx.xxx] 3610
+Sep 2002 Rebecca Mary, by Annie Hamilton Donnell           [rbmryxxx.xxx] 3419
+May 1999 Laws, by Plato                               [#29][plawsxxx.xxx] 1750
+Dec 1996 The Moon Pool, by A. Merritt                      [mpoolxxx.xxx]  765
+
+
+Missing paragraphs have been restored to the following (no change in
+the edition number):
+Feb 2004 The Treasure, by Selma Lagerlof                   [thtrsxxx.xxx] 5161
+
+
+-=-=-=-=[ 80 NEW U.S. POSTS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Feb 2006 Way of the Lawless, by Max Brand                  [wylawxxx.xxx] 9903
+  [Also posted HTML - wylaw10h.zip and wylaw10h.htm]
+
+Feb 2006 The Middle of Things, by J. S Fletcher            [?mdthxxx.xxx] 9902
+
+Feb 2006 Grace Harlowe's Return, by Jessie Graham Flower   [ghrocxxx.xxx] 9901
+  [Full title: Grace Harlowe's Return to Overton Campus]
+
+Feb 2006 Bob Cook and the German Spy,Tomlinson, Paul Greene[bcgspxxx.xxx] 9899
+
+Feb 2006 Punchinello, Vol.1, No. 4, April 23, 1870, Various[?p104xxx.xxx] 9898
+  [Also posted Illustrated HTML - 8p10410h.zip; and 8p10410h.htm]
+
+Feb 2006 Introductory American History,by Bourne and Benton[?iahsxxx.xxx] 9897
+  [Full author: Henry Eldridge Bourne and Elbert Jay Benton]
+  [Also posted:  HTML in 8iahs10h.htm, Illustrated HTML in 8iahs10h.zip]
+
+Feb 2006 My Days of Adventure, by Ernest Alfred Vizetelly  [?mdadxxx.xxx] 9896
+  [Subtitle: The Fall of France, 1870-71]
+
+Feb 2006 Novelas de Voltaire Tomo Primero, by Voltaire     [?vnovxxx.xxx] 9895
+  [Language: Spanish]
+  Contents:
+    Como Anda el Mundo, Vision de Babuco
+    Memnon, o La Cordura Humana
+    Micromegas,
+    Historia Filosofica
+    Historia de un Buen Brama,
+    Los Dos Consolados
+
+Feb 2006 Revolution Francaise, Vol. II, by Adolphe Thiers  [?lrf2xxx.xxx] 9894
+  [Full title: Histoire de la Revolution Francaise, Vol. II]
+  [Language: French]
+
+Feb 2006 Le Comte Ory, by Eugene Scribe et Delestre-Poirson[?coryxxx.xxx] 9893
+  [Subtitle: Opera en deux actes] [Language: French]
+  [Full author: Eugene Scribe et Delestre-Poirson (Charles-Gaspard)]
+
+Feb 2006 La Muette de Portici,Eugene Scribe et G. Delavigne[?muetxxx.xxx] 9892
+  [Subtitle: Opera en cinq actes] [Language: French]
+
+Feb 2006 Conversations d'une petite fille,Mme de Renneville[?cptfxxx.xxx] 9891
+  [Full title: Conversations d'une petite fille avec sa poupee]
+  [Subtitle: Suivies de l'histoire de la poupee] [Language: French]
+
+Feb 2006 Biografia del libertador Simon Bolivar, by L.C.   [?blsbxxx.xxx] 9890
+  [Full title: Biografia del libertador Simon Bolivar, o La independencia
+   de la America del sud]
+  [Subtitle: Resena historico-biografica] [Language: Spanish]
+
+Feb 2006 Songs and Other Verse, by Eugene Field            [?sgvrxxx.xxx] 9889
+
+Feb 2006 Spread Eagle and Other Stories, Gouverneur Morris [?gmegxxx.xxx] 9888
+  Contents:
+    The Spread Eagle
+    Targets
+    The Boot
+    The Despoiler
+    One More Martyr
+    "Ma'am?"
+    Mr. Holiday
+    White Muscats of Alexandria
+    Without a Lawyer
+    The "Monitor" and the "Merrimac"
+    The McTavish
+    The Parrot
+    On the Spot; or, The Idler's House-Party
+
+Feb 2006 Essays in War-Time, by Havelock Ellis         [#2][?eswrxxx.xxx] 9887
+  [Subtitle: Further Studies In The Task Of Social Hygiene]
+
+Feb 2006 The Book of Delight, by Israel Abrahams       [#2][?dlitxxx.xxx] 9886
+  [Full title: The Book of Delight and Other Papers]
+
+Feb 2006 Punchinello, Vol. 1, No. 17, July 23, 1870,Various[?p117xxx.xxx] 9885
+  [Also posted: HTML in 8p11710h.htm, illustrated HTML in 8p11710h.zip]
+
+Feb 2006 Mirror of Literature, Amusement, and Instruction, [?m264xxx.xxx] 9884
+  [Full Title: The Mirror of Literature, Amusement, and Instruction, Vol. 10,
+   Issue 264, July 14, 1827] [Author:  Various]
+  [Also posted: HTML in 8m26410h.htm; illustrated HTML in 8m26410h.zip]
+
+Feb 2006 Mirror of Literature, Amusement, and Instruction, [?m263xxx.xxx] 9883
+  [Full Title: The Mirror of Literature, Amusement, and Instruction, Vol. 10,
+   Supplementary Number, Issue 263, 1827] [Author: Various]
+  [Also posted: HTML in 8m26310h.htm/.zip]
+
+Feb 2006 Mirror of Literature, Amusement, and Instruction, [?m262xxx.xxx] 9882
+  [Full Title: The Mirror of Literature, Amusement, and Instruction, Vol. 10,
+   Issue 262, July 7, 1827] [Author: Various]
+  [Also posted: HTML in 8m26210h.htm, illustrated HTML in 8m26210h.zip]
+
+Feb 2006 Clarissa, Volume 3 (of 9),by Samuel Richardson[#5][clar3xxx.xxx] 9881
+
+Feb 2006 The Woman's Bible, by Elizabeth Cady Stanton      [wbiblxxx.xxx] 9880
+  [Part I. Comments on Genesis, Exodus, Leviticus, Numbers and Deuteronomy]
+  [Part II. Comments on the Old and New Testaments from Joshua to Revelation]
+
+Feb 2006 The Amateur Gentleman, by Jeffery Farnol          [?amgnxxx.xxx] 9879
+  [Illustrations by Herman Pfeifer]
+
+Feb 2006 The Survey of Cornwall, by Richard Carew          [srvcrxxx.xxx] 9878
+  [Subtitle: And an epistle concerning the excellencies of the English tongue]
+  [With a life of the author by H**** C***** Esq.]
+  [It is thought that H**** C***** is probably Hobye Carew]
+
+Feb 2006 Punchinello, Vol. 1, No. 16, July 16, 1870,Various[?p116xxx.xxx] 9877
+  [Also posted:  HTML in 8p11610h, Illustrated HTML in 8p11610h.zip]
+
+Feb 2006 Atlantic Monthly, Vol. 10, No. 58, August, 1862   [?10a2xxx.xxx] 9876
+  [Full Title: The Atlantic Monthly, Vol. 10, No. 58, August, 1862]
+  [Subtitle: A Magazine of Literature, Art, and Politics] [Author: Various]
+  [This is the 2nd issue of Vol 10.]
+  [Also posted: HTML in 810a210h.htm and 810a210h.zip]
+
+Feb 2006 Julius Caesar, by William Shakespeare             [?gs24xxx.xxx] 9875
+  [Tr.: August Wilhelm von Schlegel] [Language: German]
+
+Feb 2006 A Visit to Three Fronts, by Arthur Conan Doyle    [?v3frxxx.xxx] 9874
+  [Subtitle: June 1916]
+
+Feb 2006 Till the Clock Stops, by John Joy Bell            [?ttcsxxx.xxx] 9873
+
+Feb 2006 The Great Secret , by E. Phillips Oppenheim       [?grtsxxx.xxx] 9872
+
+Feb 2006 The Avenger , by E. Phillips Oppenheim            [?vngrxxx.xxx] 9871
+
+Feb 2006 War is Kind, by Stephen Crane                     [scwarxxx.xxx] 9870
+  [Also posted Illustrated HTML - scwar10h.zip; and scwar10h.htm]
+
+Feb 2006 Child of The Century, by Alfred de Musset         [im29bxxa.xxx] 9869
+  [Full title: The Confession of a Child of The Century] [Tr.: Kendall Warren]
+  (See also:  #3939-3942)
+
+Feb 2006 U.S. Since The Civil War, Charles Ramsdell Lingley[?uscwxxx.xxx] 9868
+  [Full title: The United States Since The Civil War]
+
+Feb 2006 Riders of the Silences, by Max Brand              [ridslxxx.xxx] 9867
+
+Feb 2006 Freeland, by Theodor Hertzka                      [?freexxx.xxx] 9866
+  [Translated by Arthur Ransom]
+  [Also posted: HTML in 8free10h.zip and 8free10h.htm]
+
+Feb 2006 Java Head, by Joseph Hergesheimer             [#5][?javaxxx.xxx] 9865
+
+Feb 2006 Humoresque, by Fannie Hurst                       [?humrxxx.xxx] 9864
+  Contents:
+    Humoresque
+    Oats For The Woman
+    A Petal On The Current
+    White Goods
+    "Heads"
+    A Boob Spelled Backward
+    Even As You And I
+    The Wrong Pew
+
+Feb 2006 The Letters of Robert Burns, by Robert Burns      [?burnxxx.xxx] 9863
+  [Selected And Arranged, With An Introduction, By J. Logie Robertson]
+  [Also posted: HTML in 8burn10h.zip and 8burn10h.htm]
+
+Feb 2006 City of Endless Night, by Milo Hastings           [?cndnxxx.xxx] 9862
+  [Also posted: HTML in 8cndn10h.htm /.zip]
+
+Feb 2006 Was die Grossmutter gelehrt hat, by Johanna Spyri [?wgsmxxx.xxx] 9861
+  [Subtitle: Erzaehlung] [Language: German]
+
+Feb 2006 Moni der Geissbub:  Erzaehlung, by Johanna Spyri  [?mongxxx.xxx] 9860
+  [Language: German]
+
+Feb 2006 Vom This, der doch etwas wird, by Johanna Spyri   [?vomtxxx.xxx] 9859
+  [Subtitle: Erzaehlung] [Language: German]
+
+Feb 2006 Star-Dust, by Fannie Hurst                        [?starxxx.xxx] 9858
+
+Feb 2006 The Long Labrador Trail, by Dillon Wallace        [llbtrxxh.xxx] 9857
+  [Note:  HTML only format, in llbtr10h.htm, and illustrated HTML in
+   llbtr10h.zip which includes numerous well-done illustrations and maps.]
+
+Feb 2006 The Inn at the Red Oak, by Latta Griswold         [?roakxxx.xxx] 9856
+  [Also posted HTML - 8roak10h.zip and 8roak10h.htm]
+
+Feb 2006 Classic Myths, by Retold by Mary Catherine Judd   [mythsxxx.xxx] 9855
+  [Illustrated By Angus Mac Donall]
+  [Also posted: HTML in myths10h.zip and myths10h.htm]
+
+Feb 2006 Frank Roscoe's Secret , by Allen Chapman          [fkrssxxx.xxx] 9854
+  [Subtitle: Or, The Darewell Chums in the Woods]
+
+Feb 2006 The Mystery of the Four Fingers, by Fred M. White [my4fnxxx.xxx] 9853
+
+Feb 2006 The Man From the Clouds , by J. Storer Clouston   [?mfclxxx.xxx] 9852
+
+Feb 2006 Love at Second Sight, by Ada Leverson             [?lv2dxxx.xxx] 9851
+  [This is Book Three of the author's trilogy, The Little Ottleys]
+
+Feb 2006 The Lyric, by John Drinkwater                     [?tlyrxxx.xxx] 9850
+  [Also posted HTML - 8tlyr10h.zip and 8tlyr10h.htm]
+
+Feb 2006 The Brown Mask, by Percy J. Brebner           [#2][?bmskxxx.xxx] 9849
+
+Feb 2006 Old English Plays, Vol. VI, by Robert Dodsley     [?oep6xxx.xxx] 9848
+  [Full title: A Select Collection of Old English Plays, Vol. VI]
+  Contents:
+    The Conflict Of Conscience
+    The Rare Triumphs Of Love And Fortune
+    The Three Ladies Of London
+    The Three Ladies And Three Lords Of London
+    A Knack To Know A Knave
+
+Feb 2006 Bacon is Shake-Speare, Sir Edwin Durning-Lawrence [?bshkxxx.xxx] 9847
+  [Together with a Reprint of Bacon's Promus of Formularies and Elegancies.]
+  [Collated, with the Original MS. by the late F.B. Bickley, and revised
+   by F.A. Herbert, of the British Museum.]
+
+Feb 2006 Excursions, by Henry D. Thoreau               [#6][?excrxxx.xxx] 9846
+  [With a Biographical Sketch By R.W. Emerson]
+
+Feb 2006 The Spy, by James Fenimore Cooper            [#19][?tspyxxx.xxx] 9845
+
+Feb 2006 W. A. G.'s Tale, by Margaret Turnbull             [wagtlxxx.xxx] 9844
+  [Also posted Illustrated HTML - wagtl10h.zip; and wagtl10h.htm]
+
+Feb 2006 Fra det moderne Frankrig, by Richard Kaufmann     [?fdmfxxx.xxx] 9843
+  [Language: Danish]
+
+Feb 2006 Y Gododin, Aneurin                                [gddnxxxx.xxx] 9842
+  [Subtitle: A Poem of The Battle of Cattraeth] [Tr.: John Williams]
+  [Author Alt. Spelling: Aneirin, Neirin) [Language: Welsh and English]
+  [Also posted:  XHTML in gddn10h.htm/.zip]
+
+Feb 2006 Selections from the Table Talk of Martin Luther   [tlhrxxxx.xxx] 9841
+  [Author's Full Name: Martin Luther] [Tr.: Captain Henry Bell]
+  [Also posted:  XHTML in tlhr10h.htm/.zip]
+
+Feb 2006 Vivian Grey, by The Earl of Beaconsfield          [?vvgrxxx.xxx] 9840
+  [Author: AKA Benjamin Disraeli]
+
+Feb 2006 The Cavalier, by George Washington Cable          [?cavlxxx.xxx] 9839
+  [Also posted HTML - 8cavl10h.zip and 8cavl10h.htm]
+
+Feb 2006 Strong Hearts, by George W. Cable                 [sthrtxxx.xxx] 9838
+  Contents:
+    The Solitary
+    The Taxidermist
+    The Entomologist]
+
+Feb 2006 Albert Durer, by T. Sturge Moore                  [?durrxxx.xxx] 9837
+  [Also posted HTML - 8durr10h.zip and 8durr10h.htm]
+
+Feb 2006 The Pawns Count, by E. Phillips Oppenheim         [?pawnxxx.xxx] 9836
+
+Feb 2006 Martin Conisby's Vengeance, by Jeffery Farnol [#6][?mvngxxx.xxx] 9835
+
+Feb 2006 The Talleyrand Maxim, by J. S. Fletcher       [#3][?tlrnxxx.xxx] 9834
+
+Feb 2006 Pee-Wee Harris, by Percy Keese Fitzhugh       [#2][peweexxx.xxx] 9833
+
+
+Note: The below posting finishes the posting of the Complete Works of Whittier:
+
+Jan 2006 The Complete Works of John Greenleaf Whittier[#45][wit41xxx.xxx] 9600
+  [Includes Etexts #9560 to 9599][Note: wit4110.txt is 3.3 mb]
+Dec 2005 Whittier's Conflict, Reform, Vol. 7, Complete[#44][wit40xxx.xxx] 9599
+Dec 2005 Criticism, by Whittier,           V7,  Part 4[#43][wit39xxx.xxx] 9598
+Dec 2005 The Inner Life, by Whittier,      V7,  Part 3[#42][wit38xxx.xxx] 9597
+Dec 2005 Reform and Politics,   Whittier,  V7,  Part 2[#41][wit37xxx.xxx] 9596
+Dec 2005 Conflict With Slavery, Whittier,  V7,  Part 1[#40][wit36xxx.xxx] 9595
+
+Dec 2005 Whittier's Personal Sketches Vol. 6, Complete[#39][wit35xxx.xxx] 9594
+  [Includes eBooks #9591-9593]
+Dec 2005 Historical Papers, by Whittier,   V6,  Part 3[#38][wit34xxx.xxx] 9593
+Dec 2005 Personal Sketches, by Whittier,   V6,  Part 2[#37][wit33xxx.xxx] 9592
+Dec 2005 Old Portraits, by Whittier,       V6,  Part 1[#36][wit32xxx.xxx] 9591
+
+=-=-=-=[ 6 NEW EBOOKS FROM PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=
+
+Oct 2003 The Shape of Things to Come, by H G Wells         [030139xx.xxx] 0288A
+  [http://gutenberg.net.au/ebooks03/0301391.txt or .ZIP]
+  [http://gutenberg.net.au/ebooks03/0301391h.html]
+Oct 2003 The Runagates Club, by John Buchan                [030138xx.xxx] 0287A
+  [http://gutenberg.net.au/ebooks03/0301381.txt or .ZIP]
+  [http://gutenberg.net.au/ebooks03/0301381h.html]
+Oct 2003 The Gospel of Philip the Deacon, Frederick B Bond [030137xx.xxx] 0286A
+  [http://gutenberg.net.au/ebooks03/0301371.txt or .ZIP]
+
+Oct 2003 Winnowed Wisdom, by Stephen Leacock               [030136xx.xxx] 0285A
+  [http://gutenberg.net.au/ebooks03/0301361.txt or .ZIP]
+  [http://gutenberg.net.au/ebooks03/0301361h.html]
+Oct 2003 Death of a Celebrity, by Hulbert Footner          [030135xx.xxx] 0284A
+  [http://gutenberg.net.au/ebooks03/0301351.txt or .ZIP]
+Oct 2003 Castle Gay, by John Buchan                        [030134xx.xxx] 0283A
+  [http://gutenberg.net.au/ebooks03/0301341.txt or .ZIP and]
+  [http://gutenberg.net.au/ebooks03/0301341h.html ]
+
+eBooks are posted in uncompressed and/or ZIP formats.  To access these ebooks,
+go to http://gutenberg.net.au/plusfifty
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+=============================================================================
+
+Accept that some days you're the pigeon, and some days you're the statue.
+
+===============================================================================
+
+----------------------------------------------------------------------
+
+Mailing list information
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://ibiblio.org/gutenberg/subs.html
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutnberg@listserv.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://www.lyris.com/help

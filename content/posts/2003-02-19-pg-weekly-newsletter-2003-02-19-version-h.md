@@ -1,0 +1,584 @@
+---
+params:
+  id: 1965
+title: "PG Weekly Newsletter: Version H (2003-02-19)"
+date: 2003-02-19T20:36:14+00:00
+author: Michael Cook
+layout: post
+url: /20030219/pg-weekly-newsletter-2003-02-19-version-h/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>From - Wed Feb 19 19:47:19 2003
+Return-path: &lt;bounce-gweekly-1355623@listserv.unc.edu&gt;
+Date: Wed, 19 Feb 2003 10:56:43 -0800
+From: George Davis &lt;gbdavis at harborside dot com&gt;
+Subject: [gweekly] Project Gutenberg Weekly Newsletter
+Sender: bounce-gweekly-1355623@listserv.unc.edu
+To: Project Gutenberg Weekly Newsletter &lt;gweekly@listserv.unc.edu&gt;
+MIME-version: 1.0
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+Content-type: text/plain; charset="us-ascii"; format=flowed
+X-Message-Id: &lt;5.1.0.14.2.20030219104956.00a15d90@mail.harborside.com&gt;
+List-Owner: &lt;mailto:owner-gweekly@listserv.unc.edu&gt;
+List-Subscribe: &lt;mailto:subscribe-gweekly@listserv.unc.edu&gt;
+X-List-Host: The UNC List Server
+
+(Note:  this version of this week's newsletter is being sent on behalf of
+William Fishburne &lt;vze22fdi@verizon.net&gt;)
+
+PGWeekly_February_19.txt
+
+**The Project Gutenberg Weekly Newsletter For Wednesday, February 19, 2003**
+******eBooks Readable By Both Humans and Computers For Over 31 years******
+
+We Have Now Done 7163 eBooks!!!  Up from 4620 this time last year!!!
+
+ibiblio.org has created a Greenstone collection for Project Gutenberg
+which will let you to do full-text searches on all Etexts or browse by
+title and author.  Developed by the New Zealand Digital Library Project,
+Greenstone is a software suite for building and distributing digital
+library collections.
+
+http://public.ibiblio.org/gsdl/cgi-bin/library.cgi
+
+*Main URL is promo.net  Webmaster is Pietro di Miceli of Rome, Italy*
+Check out our Websites at promo.net/pg & gutenberg.net, and see below
+to learn how you can get INSTANT access to our eBooks via FTP servers
+even before the new eBooks listed below appear in our catalogue.  The
+eBooks are posted throughout the week.  You can even get daily lists.
+
+Apr 2002 1601, by Mark Twain                        [MT#42][mtsxnxxx.xxx]3190
+Apr 2002 Sketches New and Old, by Mark Twain        [MT#41][mtsnoxxx.xxx]3189
+Apr 2002 Mark Twain's Speeches, by Mark Twain       [MT#40][mtmtsxxx.xxx]3188
+Apr 2002 Christian Science, by Mark Twain           [MT#39][mtcscxxx.xxx]3187
+Apr 2002 The Mysterious Stranger, by Mark Twain     [MT#38][mtmstxxx.xxx]3186
+Apr 2002 Those Extraordinary Twins, by Mark Twain   [MT#37][mtextxxx.xxx]3185
+Apr 2002 Alonzo Fitz and Others, by Mark Twain      [MT#36][mtlafxxx.xxx]3184
+Apr 2002 Carnival of Crime in CT., by Mark Twain    [MT#35][mtcccxxx.xxx]3183
+Apr 2002 Rambling Idle Excursion, by Mark Twain     [MT#34][mtridxxx.xxx]3182
+Apr 2002 The Stolen White Elephant, by Mark Twain   [MT#33][mtswexxx.xxx]3181
+Apr 2002 Double Barrelled Detective, by Mark Twain  [MT#32][mtdbdxxx.xxx]3180
+Apr 2002 The American Claimant, by Mark Twain       [MT#31][mtaclxxx.xxx]3179
+Apr 2002 The Gilded Age, by Twain and Warner[MT#30][CDW#37][mtgldxxx.xxx]3178
+Apr 2002 Roughing It, by Mark Twain                 [MT#29][mtritxxx.xxx]3177
+Apr 2002 The Innocents Abroad, by Mark Twain        [MT#28][mtinnxxx.xxx]3176
+Apr 2002 A Burlesque Autobiography, by Mark Twain   [MT#27][mtbbgxxx.xxx]3175
+Apr 2002 A Dog's Tale, by Mark Twain                [MT#26][mtdtlxxx.xxx]3174
+Apr 2002 Essays on Paul Bourget, by Mark Twain      [MT#25][mtpbgxxx.xxx]3173
+Apr 2002 Fennimore Cooper Offences, by Mark Twain   [MT#24][mtfcoxxx.xxx]3172
+Apr 2002 Defence of Harriet Shelley, by Mark Twain  [MT#23][mtdhsxxx.xxx]3171
+
+
+Today Is Day #49 of 2003
+321 Days/46 Weeks Left Until First Report of 2004
+[Our production year begins/ends
+1st Wednesday of the month/year]
+
+Week #43 Of Our SECOND 5,000 eBooks
+
+Next December, Perhaps Our 10,000th eBook!
+
+   2545   New eBooks In The Last 12 Months
+   4620   eBooks This Week Last Year
+   7163   Tree-Friendly Titles Now Online
+
+    211   Monthly Average This Year
+    135   New This Month [1st month of 2003]
+    422   New This Year
+   4620   New At This Time Last Year
+
+
+
+In this issue of the Project Gutenberg Weekly newsletter:
+- Intro (above)
+- Making Donations
+- Access to the Collection
+- Information About Mirror Sites
+- Weekly ebook update
+- Headline News from Newsscan and Edupage
+- Information about mailing lists
+
+***
+
+Requests for Assistance:
+
+Project Gutenberg has received a generous donation of over 20 Pentium
+Pro 100 computers.  If you have a need for a computer to do Project
+Gutenberg work or can make good use of computers (setting up a
+"Project Gutenberg" section at a local library or school) please
+let William Fishburne (william.fishburne@verizon.net) know!
+The computers are physically in Northern Virginia and if you are not,
+it would be necessary for you to arrange for the shipping cost.
+Please send in your thoughts and ideas on how PG can make best use
+of this dated windfall!  There are no boxes for most of these, so it
+would be MUCH easier to organize a sort of "bucket-brigade" of people
+who COULD get to the DC area [20 miles down towards Manassas] and get
+some of these a day or two closer to others who may be able to make a
+trip part way to get them, etc., etc., etc.  These are GREAT for any
+wordprocessing, etc. . .it's just about exactly what I am using here,
+for all my Project Gutenberg work.  However, these are NOT good for
+the "bloatware" operating systems and programs if you are going to
+reload and reboot a lot. . .takes some real time for this.  However,
+I scanned the first books I ever OCRed on something much slower. . . .
+
+
+***
+
+Project Gutenberg has a new way to prepare digital editions of books
+which can not be read on a conventional flat bed scanner.
+
+Brewster Kahle has generously donated time on The Internet Archive's
+(http://www.archive.org)  Minolta 7100 orbital scanner
+
+http://bpg.minoltausa.com 02
+
+While its physical location in San Francisco at the Presidio effectively
+limits access to people local to the area, we can offer a limited
+scanning service. Ideal candidate projects would be large format (up to
+17" by 23"),  fragile or rare books which cannot be unbound.
+
+Specifically, when scanned, the book is opened to lay flat on its spine,
+and is well supported on 2 variable height platens, producing a level
+surface upon which the overhead scanhead focuses. Pages can be scanned
+singly or in tandem, with resolution ranging from 300-600 dpi, depending
+upon the size of the scan area. (400 is the max resolution at max size).
+The correction software for eliminating center lines and curved pages is
+outstanding. While not as fast as a sheet feeder, it is physically less
+demanding to use than a flat bed scanner, and of course is much kinder to
+delicate pages and bindings.
+
+Contact me if this sounds like something you can use!
+
+***
+
+QUICK WAYS TO MAKE A DONATION TO PROJECT GUTENBERG
+
+A. Send a check or money order to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+B. Donate by credit card online
+
+NetworkForGood:
+http://www.guidestar.org/partners/networkforgood/donate.jsp?ein=64-6221541
+
+PayPal to "donate.net":
+https://www.paypal.com
+/xclick/business=donate%40gutenberg.net&item_name=Donate+to+Gutenberg
+
+Project Gutenberg's success is due to the hard work of thousands of
+volunteers over more than 30 years.  Your donations make it possible
+to support these volunteers, and pay our few employees to continue the
+creation of free electronic texts.  We accept credit cards, checks and
+money transfers from any country, in any currency.
+
+Donations are made to the Project Gutenberg Literary Archive Foundation
+(PGLAF).  PGLAF is approved as a charitable 501(c)(3) organization by
+the US Internal Revenue Service, and has the Federal Employee Information
+Number (EIN) 64-6221541.
+
+For more information, including several other ways to donate, go to
+http://promo.net/pg/donation.html  or email gbnewby.unc.edu
+
+***
+
+--WHERE TO GET EBOOKS
+
+http://promo.net/pg (aka http://www.gutenberg.net) allows searching by
+title, author, language and subject.  Mirrors (copies) of the complete
+collection are available around the world.
+
+http://www.promo.net/pg/list.html can get you to the nearest one.
+
+
+--"INSTANT" ACCESS TO EBOOKS
+
+Use your Web browser or FTP program to visit our master download
+site (or a mirror) if you know the filename you want.  Try:
+
+http://ibiblio.org/gutenberg/etext04
+or
+ftp://ibiblio.org/pub/docs/books/gutenberg/etext04
+
+and look for the first five letters of the filesname.  Note that updated
+eBooks usually go in their original directory (e.g., etext99, etext00, etc.)
+
+***
+
+Here Are The Updated Listings For This Past Week
+
+
+
++64 New this week:
+
+
+
+***] CORRECTIONS, REVISIONS AND NEW FORMATS [***
+
+Corrected EDITIONS of our Ebooks get a new NUMBER, xxxxx11.txt, and
+      prior to 1998, occasionally a new eBook number.
+VERSIONS based on separate sources get new LETTER, xxxxx10a.txt, as
+      well as a new eBook number.
+
+--Please note the following changes, corrections and improvements:
+
+The following is being re-indexed to correct spelling ("Queene",
+not "Queen"):
+Nov 2004 The Faerie Queene Volume 1, by Edmund Spenser     [faerixxx.xxx]6930C
+[Subtitle: Books 1-3]
+[Note, this eBook contains copyrighted sections and public domain sections]
+
+We have posted the following in an updated 11th edition, and new
+formats as indicated:
+Dec 2003 Pecheur d'Islande, by Pierre Loti         [Loti#8][?pchsxxx.xxx]4785
+[HTML version with accented characters in 8pchs11h.htm and 8pchs11h.zip]
+[Language: French]
+Oct 2003 Poil De Carotte, By Jules Renard                  [?plcrxxx.xxx]4559
+[HTML version with accented characters in 8plcr11h.htm and 8plcr11h.zip]
+[Language: French]
+
+The following have been re-posted in new formats as indicated:
+Oct 2000 The Son of the Wolf, by Jack London   [London #87][snwlfxxx.xxx]2377
+[HTML added to etext00: snwlf10h.htm snwlf10h.zip]
+Oct 1999 Droll Stories [V. 1], by Honore de Balzac[HdB #82][1drllxxx.xxx]1925
+[HTML added to etext99: 1drll10h.htm 1drl10h.zip]
+Aug 1999 The Ninth Vibration, et. al., by L. Adams Beck #8 [9thvbxxx.xxx]1853
+[HTML added to etext99: 9thvb10h.htm and .zip]
+Aug 1999 Zuleika Dobson, by Max Beerbohm  [Max Beerbohm #5][zdbsnxxx.xxx]1845
+[HTML added to etext99: zdbsn11h.htm and .zip]
+Aug 1999 Z. Marcas, by Honore de Balzac     [de Balzac #72][zmrcsxxx.xxx]1841
+[HTML added to etext99: zmrcs10h.htm and .zip]
+Jul 1999 The Make-Believe Man, by Richard Harding Davis #27[mbmanxxx.xxx]1823
+[HTML added to etext99: mbman10h.htm and .zip]
+May 1999 Uncle Vanya, by Anton Chekhov         [Checkov #5][vanyaxxx.xxx]1756
+[HTML added to etext99: vanya10h.htm vanya10h.zip]
+May 1999 Ivanoff, by Anton Chekhov             [Checkov #4][vanofxxx.xxx]1755
+[HTML added to etext99: vanof10h.htm vanof10h.zip]
+Apr 1998 Tom Swift Among the Diamond Makers, V. Appleton[7][07tomxxx.xxx]1282
+[HTML in 07tom10h.htm and 07tom10h.zip]
+
+
+***] 10 NEW ETEXTS FROM PROJECT GUTENBERG OF AUSTRALIA [***
+
+Feb 2003 Over the River, by John Galsworthy         [JG#07][030024xx.xxx]0173A
+[http://gutenberg.net.au/ebooks03/0300241.txt or .ZIP
+Feb 2003 Flowering Wilderness, by John Galsworthy   [JG#06][030023xx.xxx]0172A
+[http://gutenberg.net.au/ebooks03/0300231.txt or .ZIP
+Feb 2003 Maid in Waiting, by John Galsworthy        [JG#05][030022xx.xxx]0171A
+[http://gutenberg.net.au/ebooks03/0300221.txt or .ZIP
+[1st Book in the Trilogy "End of the Chapter",3rd part the Forsyte
+Feb 2003 Pirates of Venus, by Edgar Rice Burroughs  [EB#12][030021xx.xxx]0170A
+[http://gutenberg.net.au/ebooks03/0300211h.html ]
+Feb 2003 Lost on Venus, by Edgar Rice Burroughs     [EB#11][030020xx.xxx]0169A
+[http://gutenberg.net.au/ebooks03/0300201h.html ]
+Feb 2003 Escape on Venus, by Edgar Rice Burroughs   [EB#10][030019xx.xxx]0168A
+[http://gutenberg.net.au/ebooks03/0300191h.html ]
+Feb 2003 Carson of Venus, by Edgar Rice Burroughs   [EB#09][030018xx.xxx]0167A
+[http://gutenberg.net.au/ebooks03/0300181h.html ]
+Feb 2003 The Master of the Mill,by Frederick P Grove[FG#04][030017xx.xxx]0166A
+[http://gutenberg.net.au/ebooks03/0300171.txt or .ZIP
+Feb 2003 Emily's Quest, by L M Montgomery           [LM#10][030016xx.xxx]0165A
+[http://gutenberg.net.au/ebooks03/0300161.txt or .ZIP
+Feb 2003 Emily Climbs, by L M Montgomery            [LM#09][030015xx.xxx]0164A
+[http://gutenberg.net.au/ebooks03/0300151.txt or .ZIP
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://promo.net/pg/pgau.html
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+For more information about about copyright restrictions in other
+countries, please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+***] 54 NEW U.S. POSTS [***
+
+Feb 2005 Images from Short Stories of Maupassant, by Widger[dw33wxxh.xxx]7549
+Feb 2005 Images from Harry Lorrequer, by David Widger      [dw32wxxh.xxx]7548
+Feb 2005 Images from Writings of Abraham Lincoln, by Widger[dw31wxxh.xxx]7547
+Feb 2005 Images from Writings of W. D. Howells, by Widger  [dw30wxxh.xxx]7546
+Nov 2004 Made-Over Dishes, by S. T. Rorer                  [?rmodxxx.xxx]6978
+[7-bit version with non-accented characters in 7rmod10.txt and 7rmod10.zip]
+[8-bit version with accented characters in 8rmod10.txt and 8rmod10.zip]
+Nov 2004 Flying for France, by James R. McConnell          [?fffrxxx.xxx]6977
+[Subtitle: With the American Escadrille at Verdun]
+[7-bit version with non-accented characters in 7fffr10.txt and 7fffr10.zip]
+[8-bit version with accented characters in 8fffr10.txt and 8fffr10.zip]
+[HTML version with accented characters in 8fffr10h.htm and 8fffr10h.zip]
+[Photographs by Paul Rockwell]
+[Images are in the HTML zip file only!]
+Nov 2004 Metlakahtla and North Pacific Mission, E. Stock   [metlaxxx.xxx]6976
+[Full title: Metlakahtla and the North Pacific Mission]
+[Author: Eugene Stock]
+Nov 2004 Macbeth, by William Shakespeare            [ST#34][?gs34xxx.xxx]6975
+[Translator: Dorothea Tieck]
+[7-bit version with non-accented characters in 7gs3410.txt and 7gs3410.zip]
+[8-bit version with accented characters in 8gs3410.txt and 8gs3410.zip]
+[Language: German]
+Nov 2004 Tomaso's Fortune and Other Stories, by H. Merriman [tmfrxxx.xxx]6974
+[Author's Full Name: Henry Seton Merriman]
+[Text in tmfr10.txt/.zip, XHTML in tmfr10h.htm/.zip]
+Nov 2004 Boy Aviators' Polar Dash,Captain Wilbur Lawton[#2][tbapdxxx.xxx]6973
+Nov 2004 Lays from the West, by M. A. Nicholl              [?laysxxx.xxx]6972
+[7-bit version with non-accented characters in 7lays10.txt and 7lays10.zip]
+[8-bit version with accented characters in 8lays10.txt and 8lays10.zip]
+Nov 2004 Judaism, by Israel Abrahams                       [judsmxxx.xxx]6971
+Nov 2004 The History of a Mouthful of Bread, by Jean Mace  [?brd1xxx.xxx]6970
+[7-bit version with non-accented characters in 7brd110.txt and 7brd110.zip]
+[8-bit version with accented characters in 8brd110.txt and 8brd110.zip]
+Nov 2004 History of the Reign of Ferdinand and Isabella V3 [?rfi3xxx.xxx]6968
+[Author's Full Name: William H. Prescott]
+[7-bit version with non-accented characters in 7rfi310.txt and 7rfi310.zip]
+[8-bit version with accented characters in 8rfi310.txt and 8rfi310.zip]
+Nov 2004 History of the Reign of Ferdinand and Isabella V2 [?rfi2xxx.xxx]6967
+[Author's Full Name: William H. Prescott]
+[7-bit version with non-accented characters in 7rfi210.txt and 7rfi210.zip]
+[8-bit version with accented characters in 8rfi210.txt and 8rfi210.zip]
+Nov 2004 Traite' General de la Cuisine Maigre,Auguste Helie[?tgcmxxx.xxx]6966
+[Subtitle: Potages, Entrees et Releves, Entremets de Legumes, Sauces,
+[7-bit version with non-accented characters in 7tgcm10.txt and 7tgcm10.zip]
+[8-bit version with accented characters in 8tgcm10.txt and 8tgcm10.zip]
+[8-bit version with accented characters and images in 8tgcm10i.zip]
+[Language: French]
+Nov 2004 Alice Sit-By-The-Fire, by J. M. Barrie  [Barrie#9][asbtfxxx.xxx]6965
+Nov 2004 Telling Fortunes By Tea Leaves, by Cicely Kent    [tfbtlxxx.xxx]6964
+[Subtitle: How to Read Your Fate in a Teacup]
+[HTML version in tfbtl10h.htm and tfbtl10h.zip]
+[Images are in the HTML zip file only!]
+Nov 2004 Elson Grammar School Literature v4, by W. Elson   [?egs4xxx.xxx]6963
+[Author's Full Name: William H. Elson]
+[Subtitle: Book Four]
+[7-bit version with non-accented characters in 7egs410.txt and 7egs410.zip]
+[8-bit version with accented characters in 8egs410.txt and 8egs410.zip]
+[HTML version with accented characters in 8egs410h.htm and 8egs410h.zip]
+[Second  Author: Christine Keck]
+Nov 2004 Military Reminiscences of the Civil War V2, J. Cox[?mcw2xxx.xxx]6962
+[Author's Full Name: Jacob Dolson Cox]
+[Subtitle: November 1863-June 1865]
+[7-bit version with non-accented characters in 7mcw210.txt and 7mcw210.zip]
+[8-bit version with accented characters in 8mcw210.txt and 8mcw210.zip]
+[HTML version with accented characters in 8mcw210h.htm and 8mcw210h.zip]
+[Images are only in the HTML zip file!]
+Nov 2004 Military Reminiscences of the Civil War V1, J. Cox[?mcw1xxx.xxx]6961
+[Author's Full Name: Jacob Dolson Cox]
+[Subtitle: April 1861-November 1863]
+[7-bit version with non-accented characters in 7mcw110.txt and 7mcw110.zip]
+[8-bit version with accented characters in 8mcw110.txt and 8mcw110.zip]
+[HTML version with accented characters in 8mcw110h.htm and 8mcw110h.zip]
+[Images are in the zip version of the HTML only!]
+Nov 2004 Life of Mrs. Mary Jemison, by James E. Seaver     [jemsnxxx.xxx]6960
+[Full title: A Narrative of the Life of Mrs. Mary Jemison]
+Nov 2004 Myne eerste vlerken, by Eugeen Edward Stroobant   [?mynrxxx.xxx]6959
+[7-bit version with non-accented characters in 7mynr10.txt and 7mynr10.zip]
+[8-bit version with accented characters in 8mynr10.txt and 8mynr10.zip]
+[Language: Dutch]
+Nov 2004 Frank on the Lower Mississippi, by Harry Castlemon[franwxxx.xxx]6958
+Nov 2004 Canada and Other Poems, by T.F. Young             [canpwxxx.xxx]6957
+Nov 2004 In Divers Tones, by Charles G. D. Roberts         [divrwxxx.xxx]6956
+Nov 2004 The Prince and Betty, by P. G. Wodehouse     [#18][tprbtxxx.xxx]6955
+Nov 2004 Aikenside, by Mary J. Holmes                      [aikenxxx.xxx]6954
+Nov 2004 By England's Aid or The Freeing of the Netherl[12][enaidxxx.xxx]6953
+[Full Title: By England's Aid or The Freeing of the Netherlands (1585-1604)]
+[Author's Full Name: G.A. Henty]
+[HTML version in enaid10h.htm and enaid10h.zip]
+Nov 2004 By Pike and Dyke:  A Tale of the Rise of the D[11][bpikexxx.xxx]6952
+[Full Title: By Pike and Dyke:  A Tale of the Rise of the Dutch Republic]
+[Author's Full Name: G.A. Henty]
+[HTML version in bpike10h.htm and bpike10h.zip]
+Nov 2004 Audio: The Voyage of the Beagle, Charles Darwin   [vbglexx3.xxx]6951C
+[Computer-generated speech audio performance]
+Nov 2004 The Bobbsey Twins at the Seashore, by L. Hope [#9][tbtssxxx.xxx]6950
+[Author's Full Name: Laura Lee Hope]
+Nov 2004 Fiat Money Inflation in France, by A. White       [fiatmxxx.xxx]6949
+[Author's Full Name: Andrew Dickson White]
+[Subtitle: How it Came, What it Brought, and How it Ended]
+Nov 2004 The Secrets of the German War Office,  A.K. Graves[sgewoxxx.xxx]6948
+[Author's Full Name: Dr. Armgaard Karl Graves]
+[Note: With the collaboration of Edward Lyell Fox]
+Nov 2004 The Rangers, By D. P. Thompson                    [rangrxxx.xxx]6947
+[Subtitle: The Tory's Daughter][Two volumes combined into one]
+Nov 2004 The Complete Works of Artemus Ward (HTML edition) [wardcxxh.zip]6946
+[Artemus Ward was a pseudonym of Charles Farrar Browne]
+Nov 2004 Marguerite Verne, by Agatha Armour                [vernexxx.xxx]6945
+[Subtitle: Scenes from Canadian Life]
+Nov 2004 The Heart of Mid-Lothian, by W. Scott, Complete   [mid3wxxx.xxx]6944
+[Author: Sir Walter Scott]
+Nov 2004 The Heart of Mid-Lothian, by Walter Scott, Vol. 2 [mid2wxxx.xxx]6943
+Nov 2004 The Heart of Mid-Lothian, by Walter Scott, Vol. 1 [mid1wxxx.xxx]6942
+Nov 2004 Old Mortality, by Sir Walter Scott, Complete      [mrt3wxxx.xxx]6941
+Nov 2004 Old Mortality, by Sir Walter Scott, Volume 2      [mrt2wxxx.xxx]6940
+Nov 2004 Old Mortality, by Sir Walter Scott, Volume 1      [mrt1wxxx.xxx]6939
+Nov 2004 History of the Conflict Between Religion and Scien[hcbrsxxx.xxx]6938
+[Full Title: History of the Conflict Between Religion and Science]
+[Author's Full Name: John William Draper]
+Nov 2004 A Biography of Edmund Spenser, by John W. Hales   [esbioxxx.xxx]6937
+Nov 2004 Robinson Crusoe/One Syllable, by Mary Godolphin   [rbcosxxx.xxx]6936
+[Full Title: Robinson Crusoe in Words of One Syllable]
+Nov 2004 The Radio Amateur's Hand Book,A. Frederick Collins[thrdmxxx.xxx]6935
+[Subtitle: A Complete, Authentic and Informative Work on Wireless Telegraphy
+[HTML version in thrdm10ah.htm and thrdm10ah.zip]
+[For a version without images, see thrdm10]
+[The txt file is a zip file only!]
+[The HTML file is a zip file only!]
+Nov 2004 The Radio Amateur's Hand Book,A. Frederick Collins[thrdmxxx.xxx]6934
+[Subtitle: A Complete, Authentic and Informative Work on Wireless Telegraphy
+[For a version with images, see thrdm10a]
+[This book is very difficult to read without the images!]
+Nov 2004 Jesuits in North America, by Francis Parkman[FP#4][?tjnaxxx.xxx]6933
+[Full title: The Jesuits in North America in the Seventeenth Century]
+Nov 2004 Pictures Every Child Should Know, by Dolores Bacon[?picsxxx.xxx]6932
+[Subtitle: A Selection of the World's Art Masterpieces for Young People]
+[7-bit version with non-accented characters in 7pics10.txt and 7pics10.zip]
+[8-bit version with accented characters in 8pics10.txt and 8pics10.zip]
+[HTML version with accented characters in 8pics10h.htm and 8pics10h.zip]
+[The HTML version is zip only and contains images]
+Nov 2004 In Camp on the Big Sunflower,by Lawrence J. Leslie[cbgsfxxx.xxx]6915
+Nov 2004 Boy Aviators in Africa, Captain Wilbur Lawton [#2][tbvfrxxx.xxx]6905
+
+***
+
+Statistical Review
+
+(This number includes the etexts posted at the PG Australia web site)
+
+
+In the first 7 weeks of the new year, we have produced 422 new eBooks.
+
+
+
+The production statistics are calculated based on full weeks of
+production, each production-week starting/ending Wednesday noon,
+starting with the first Wednesday in January.  January 1st was
+was the first Wednesday of 2003, and thus ended the production.
+
+With 7165 eTexts online as of February 19, 2003 it now takes an average
+of 100,000,000 readers gaining a nominal value of $1.40 from each book,
+for Project Gutenberg to have currently given away $1,000,000,000,000
+[One Trillion Dollars] in books.
+
+100,000,000 readers is only about 1.6 percent of the world's population!
+
+This "cost" is down from $2.16 when we had 4620 eBooks A Year Ago
+
+Can you imagine 7165 books each costing $0.77 less a year later???
+Or. . .would this say it better?
+Can you imagine 7165 books each costing 35% less a year later???
+
+
+At 7165 eBooks in 31 Years We Averaged 19.26 eBooks per month
+
+At 422 eBooks Done in 2003 We Averaged 135.00 eBooks per month
+
+
+***
+
+***Headline News***
+[My Comments In Brackets]
+
+
+Headlines From Newsscan:
+
+FILM, MUSIC GROUPS TARGET WORKPLACE PIRATES
+The Recording Industry Association of America and the Motion Picture
+Association of America have published a guide for employers, asking major
+corporations to curb illicit file-swapping by workers on company time. The
+guide, titled "A Corporate Policy Guide to Copyright Use and Security on
+the Internet," requests that businesses advise employees against copyright
+abuse using corporate computer systems and warns that such abuse is
+illegal, damages corporate reputations, increases corporate network
+security risks, and can put organizations at risk of legal liability. The
+guide cites a case in which an Arizona company paid a $1 million settlement
+in April 2002 to the RIAA after workers were found to be accessing and
+distributing thousands of music files via the company server. (Reuters 13
+Feb 2003)
+http://shorl.com/hostyjimivyka
+
+
+***
+
+Headlines From Edupage:
+
+EUROPEAN COMMISSION PLANS CYBERSECURITY AGENCY
+The European Commission proposed creating the European Network and
+Information Security Agency to provide advice for the 15 EU members on
+cybersecurity issues. The agency is scheduled to begin operating in
+January 2004, at a site to be chosen by the governments of the 15
+member states. The commission has set aside $26 million to fund the
+agency over the next five years, with additional funds planned to
+support the 10 new member states expected to join in 2004. The agency
+will assist EU members' own cybercrime authorities, specifically
+computer emergency response teams. The increased coordination among
+member states is expected to benefit the EU as a whole in achieving a
+high level of security for Internet use.
+ITWorld, 10 February 2003
+http://www.itworld.com/Sec/2199/030210eucybersecurity/
+
+ADVISORY GROUPS TO OVERSEE TIA PROGRAM
+The Pentagon formed an internal and an external committee to address
+privacy concerns arising from the Total Information Awareness (TIA)
+program in a move to prevent Congress from monitoring the program too
+closely. Headed by John Poindexter, TIA aims to identify terrorists by
+monitoring Internet usage and commercial and financial databases in the
+U.S. and abroad. A Senate amendment last month banned deployment of the
+program and curbed research for it. The Pentagon formed the advisory
+panels to minimize the scope of the provision, now before a
+House-Senate conference committee, by convincing Congress that the
+committees will adequately address balancing security and privacy
+concerns. Senator Ron Wyden, who sponsored the provision, noted that
+the panels .did not get an election certificate. and that .Congress on
+a bipartisan basis is going to continue to demand accountability,
+oversight, and legally established safeguards..
+New York Times, 8 February 2003 (registration req'd)
+http://www.nytimes.com/2003/02/08/national/08PRIV.html
+
+
+***
+
+About the Project Gutenberg Monthly Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+and now
+
+About the Project Gutenberg Weekly Newsletter:
+[Goes out approximately at noon each Wednesday, but various
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+Project Gutenberg Mailing Lists:
+
+For more information about the Project Gutenberg's mailing lists
+please visit the following webpage:
+http://promo.net/pg/subs.html
+
+Archives and personal settings:
+
+The Lyris Web interface has an easy way to browse past mailing list
+contents, and change some personal settings.  Visit
+http://listserv.unc.edu and select one of the Project Gutenberg lists.
+
+Trouble?
+
+If you are having trouble subscribing, unsubscribing or with
+anything else related to the mailing lists, please email
+
+"owner-gutenberg.unc.edu" to contact the lists'
+(human) administrator.
+
+If you would just like a little more information about Lyris
+features, you can find their help information at http://listserv.unc.edu/help
+
+</pre>
+
+<a href="/nl_archives/2003/pgweekly_2003_02_19_version_h.txt" target="_blank" rel="nofollow">pgweekly_2003_02_19_version_h.txt</a>

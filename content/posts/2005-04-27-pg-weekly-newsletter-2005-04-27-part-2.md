@@ -1,0 +1,605 @@
+---
+params:
+  id: 2252
+title: "PG Weekly Newsletter: Part 2 (2005-04-27)"
+date: 2005-04-27T12:18:28+00:00
+author: Michael Cook
+layout: post
+url: /20050427/pg-weekly-newsletter-2005-04-27-part-2/
+categories:
+  - Newsletters
+tags:
+  - Newsletters
+---
+<pre>The Project Gutenberg Weekly Newsletter 27 Apr 2005
+eBooks Readable By Both Humans and Computers Since 1971
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Part 2 of the Project Gutenberg Weekly Newsletter:
+   - Obtaining Project Gutenberg eBooks
+   - Updates/corrections to previously posted eBooks
+   - 51 New U.S. eBooks this week
+   - 5 New eBooks at Project Gutenberg of Australia
+   - Last, but not least:  insights and other fine stuff
+   - Mailing list information
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+.:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.
+
+The easiest way to obtain our eBooks is at our search page at
+
+  http://gutenberg.org/find
+
+which allows searching by title, author or eBook number; there is also
+an Advanced Search page which allows for additional search criteria
+(note that our newer postings may not yet be indexed for all additional
+criteria).  And please note:  you can now obtain a listing by language
+at the above link.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.  To see a listing of mirror sites, and locate
+the one nearest to you, visit:
+
+  http://gutenberg.org/MIRRORS.ALL
+
+If you prefer to download eBooks via other methods than from the search
+page, and need additional information, please refer to the file
+GUTINDEX.ALL, available for viewing or downloading at:
+
+  http://www.gutenberg.org/GUTINDEX.ALL
+
+That file contains descriptions and explanations about the filenaming
+process, directory structure, file formats, and more.
+
+And to directly access the file directories:
+
+  http://gutenberg.org/dirs/
+
+Please note that the Project Gutenberg Production Team continues the
+process of manually re-posting those eBooks originally posted prior to
+Nov 2003 to the new filenaming and directory system (based on the eBook
+number).  This process includes some file maintenance (repairing,
+correcting and re-formatting to current PG standards where practicable).
+These re-postings are noted in the "corrections" listings below.  More
+information can be found in the file GUTINDEX.ALL mentioned above.
+
+* * *
+
+Please see Part 1 of this week's newsletter for more information about
+Project Gutenberg.  And if you haven't done so lately, please visit the
+website at http://www.gutenberg.org to see what's new.
+
+* * *
+
+                     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+     Note:  this listing best viewed with a fixed-width font, such as
+            Courier New or similar.
+
+To report an error in the listings below, please write to news_at_pglaf.org
+and include the word CORRECTION in the subject line.
+
+=========================================================================
+          [ Here Are The Updated Listings For This Past Week ]
+=========================================================================
+
+TOTAL COUNT as of today, Wed, 27 Apr 2005: 16107 (incl. 439 Aus.).
+
+Last week the Total Count was 16051, including 434 at PG of Australia.
+This week we added 56 new.
+
+RESERVED/PENDING count: 46
+
+
+=-=-=-=[ CORRECTIONS, REVISIONS AND NEW FORMATS ]=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+.:: During the past week the following ebooks were manually updated and
+reposted with the indicated filenames and transferred into the corresponding
+new directories:
+
+Sermons on the Card and Other Discourses, by Hugh Latimer                 2458
+  [Editor: Henry Morley]
+  [Link: http://www.gutenberg.org/2/4/5/2458 ]
+  [Updated edition of: etext01/srmcd10.txt]
+  [Files: 2458.txt; 2458-h.htm]
+
+Letters on England, by Voltaire                                           2445
+  [Editor: Henry Morley]
+  [Author AKA: Francois Marie Arouet]
+  [Link: http://www.gutenberg.org/2/4/4/2445 ]
+  [Updated edition of: etext00/lteng10.txt]
+  [Files: 2445.txt; 2445-h.htm]
+
+Andrew Lang's Introduction to The Compleat Angler, by Andrew Lang         2422
+  [Link: http://www.gutenberg.org/2/4/2/2422 ]
+  [Updated edition of: etext00/alcma10.txt]
+  [Files: 2422.txt; 2422-h.htm]
+
+Brother Jacob, by George Eliot                                            2171
+  [Author AKA: Mary Anne Evans]
+  [Updated edition of: etext00/brjcb10.txt]
+  [Link: http://www.gutenberg.org/2/1/7/2171 ]
+  [Files: 2171.txt; 2171-h.htm]
+
+The Lifted Veil, by George Eliot                                          2165
+  [Author AKA: Mary Anne Evans]
+  [Updated edition of: etext00/lftvl10.txt]
+  [Link: http://www.gutenberg.org/2/1/6/2165 ]
+  [Files: 2165.txt; 2165-h.htm]
+
+Utopia, by Thomas More                                                    2130
+  [Editor: Henry Morley]
+  [Link: http://www.gutenberg.org/2/1/3/2130 ]
+  [Updated edition of: etext00/utopi10.txt]
+  [Files: 2130.txt; 2130-h.htm]
+
+Murad the Unlucky and Other Tales, by Maria Edgeworth                     2129
+  [Editor: Henry Morley]
+  [Link: http://www.gutenberg.org/2/1/2/2129 ]
+  [Updated edition of: etext00/murad10.txt]
+  [Files: 2129.txt; 2129-h.htm]
+
+The Way of All Flesh, by Samuel Butler                                    2084
+  [Link: http://www.gutenberg.org/2/0/8/2084 ]
+  [Updated edition of: etext00/wflsh10.txt]
+  [Files: 2084.txt; 2084-h.htm]
+
+A Journey to the Western Isles of Scotland, by Samuel Johnson             2064
+  [Link: http://www.gutenberg.org/2/0/6/2064 ]
+  [Updated edition of: etext00/jwsct10.txt]
+  [Files: 2064.txt; 2064-h.htm]
+
+The History of the Caliph Vathek, by William Beckford                     2060
+  [Link: http://www.gutenberg.org/2/0/6/2060 ]
+  [Updated edition of: etext00/cvthk10.txt]
+  [Files: 2060.txt; 2060-h.htm]
+
+Everybody's Business is Nobody's Business, by Daniel Defoe                2052
+  [Link: http://www.gutenberg.org/2/0/5/2052 ]
+  [Updated edition of: etext00/ebdyb10.txt]
+  [Files: 2052.txt; 2052-h.htm]
+
+Dickory Cronke, by Daniel Defoe                                           2051
+  [Subtitle: The Dumb Philosopher, or, Great Britain's Wonder]
+  [Updated edition of: etext00/dckcr10.txt]
+  [Link: http://www.gutenberg.org/2/0/5/2051 ]
+  [Files: 2051.txt; 2051-h.htm]
+
+Confessions of an English Opium-Eater, by Thomas De Quincey               2040
+  [Link: http://www.gutenberg.org/2/0/4/2040 ]
+  [Updated edition of: etext00/opium10.txt]
+  [Files: 2040.txt; 2040-h.htm]
+
+The Life of John Bunyan, by Edmund Venables                               1037
+  [Link: http://www.gutenberg.org/1/0/3/1037 ]
+  [Updated edition of: etext97/lfbyn10.txt]
+  [Files: 1037.txt; 1037-h.htm]
+
+
+.:: Please note the following additional changes, corrections, improvements:
+
+.:: GUTINDEX.ALL is being corrected as follows:
+
+Add full title, and author:
+Sep 1997 Missionary Travels in South Africa, by Livingstone[mtravxxx.xxx] 1039
+  [Title: Missionary Travels and Researches in South Africa]
+  [Author: Dr. David Livingstone]
+
+Add full title, and editor:
+Sep 1997 Cavalier Songs & Ballads of England, Ed. by MacKay[csboexxx.xxx] 1030
+  [Title: The Cavalier Songs and Ballads of England from 1642 to 1684]
+  [Ed.; Charles Mackay]
+
+Add full author names:
+Aug 1997 The Wrecker, by Stevenson and Osbourne [RLS #39]  [wrckrxxx.xxx] 1024
+  [Authors: Robert Louis Stevenson and Lloyd Osbourne]
+
+Add full title:
+Apr 1997 Memoirs of Popular Delusions V3, by Charles MacKay[3ppdlxxx.xxx]  884
+  [Title: Memoirs of Extraordinary Popular Delusions, Vol. 3]
+
+Add full title, author:
+Oct 1996 Glaucus; or The Wonders of the Shore, by Kingsley [glcusxxx.xxx]  695
+  [Author: Charles Kingsley]
+
+Add contributor:
+Oct 1996 Creatures That Once Were Men, by Maxim Gorky [#1] [crmenxxx.xxx]  681
+  [Intro.: G. K. Chesterton]
+
+Add translator, and clarify title:
+Sep 1996 The Fall of Troy, by Quintus Smyrnaeus [400 A.D.] [ftroyxxx.xxx]  658
+  [Tr.: A.S. Way]
+  (Title Note: Originally written in Greek, sometime about the middle of
+   the 4th Century A.D.)
+
+Add full title:
+Jul 1996 Heimskringla [Norwegian Kings], by Snorri Sturlson[hmskrxxx.xxx]  598
+  [Title: Heimskringla, or The Chronicle of the Kings of Norway]
+  [Tr.: Unknown]
+
+Add full title:
+Jul 1996 The Sisters' Tragedy, by Thomas Bailey Aldrich[#1][sistrxxx.xxx]  595
+  [Title: The Sisters' Tragedy With Other Poems, Lyrical And Dramatic]
+
+Add contributors:
+Jul 1996 Selected Writings of Guy De Maupassant V. 1 [GEM1][swgemxxx.xxx]  593
+  [Preface: Paul Bourget] [Introduction By Robert Arnot]
+
+Add full title:
+Jul 1996 Chinese Nightingale, et al, by Vachel Lindsay [#4][ngalexxx.xxx]  592
+  [Title: The Chinese Nightingale and Other Poems]
+
+Add full title:
+Jul 1996 Robert Louis Stevenson, A Memorial, by A. H. Japp [rlsjpxxx.xxx]  590
+  [Title: Robert Louis Stevenson, A Record, An Estimate, A Memorial]
+
+Correct title, add title note:
+Jul 1996 Catriona, by Robert Louis Stevenson       [RLS#25][ctrnaxxx.xxx]  589
+  [Title note: sequel to "Kidnapped"]
+
+Add full title and contributor:
+Jul 1996 Religio Medici, Hydriotaphia, et al, Thomas Browne[rmedixxx.xxx]  586
+  [Title: Religio Medici, Hydriotaphia, And The Letter To A Friend]
+  [Intro. and Notes: J. W. Willis Bund]
+
+Add subtitle, clarify authors:
+Jul 1996 Running a Thousand Miles for Freedom, by Craft    [runngxxx.xxx]  585
+  [Subtitle: or, The Escape Of William And Ellen Craft From Slavery]
+  [Authors: William and Ellen Craft]
+
+Add subtitle:
+Jul 1996 Our Nig, by Harriet E. Wilson                     [ourngxxx.xxx]  584
+  [Subtitle: or, Sketches from the Life of a Free Black, In A Two-Story
+   White House, Showing That Slavery's Shadows Fall Even There]
+
+Clarify title and contents:
+Jun 1996 Songs..., and The book of Thel, by William Blake  [pblakxxx.xxx]  574
+  [Title: Songs Of Innocence And Of Experience; and The Book Of Thel]
+
+Add translator:
+Jun 1996 The History of the Thirty Years' War, by Schiller [1jcfsxxx.xxx]  566
+  [Tr.: A. J. W. Morrison]
+
+Add full title:
+Jun 1996 Zincali, Gypsies of Spain by George Borrow [GB#4] [znclixxx.xxx]  565
+  [Title:  The Zincali, An Account of the Gypsies of Spain]
+
+Add full title:
+Apr 1996 Warfare of Science/Theology, Andrew Dickson White [hwswtxxx.xxx]  505
+  [Title: History Of The Warfare Of Science With Theology In Christendom]
+
+-=-=-=-=[  51 NEW U.S. EBOOKS ]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Baron Olson och andra historier, by Sigge Stromberg                      15719
+  [Language: Swedish]
+  [Link: http://www.gutenberg.net/1/5/7/1/15719 ]
+  [Files: 15719-8.txt]
+
+How To Write Special Feature Articles, by Willard Grosvenor Bleyer       15718
+  [Subtitle: A Handbook for Reporters, Correspondents and Free-Lance Writers Who Desire]
+  [to Contribute to Popular Magazines and Magazine Sections of Newspapers]
+  [Link: http://www.gutenberg.net/1/5/7/1/15718 ]
+  [Files: 15718.txt; 15718-8.txt; 15718-h.htm]
+
+Books and Persons, by Arnold Bennett                                     15717
+  [Subtitle: Being Comments on a Past Epoch 1908-1911]
+  [Link: http://www.gutenberg.net/1/5/7/1/15717 ]
+  [Files: 15717.txt; 15717-8.txt; 15717-h.htm]
+
+The Great Round World, Vol. 1, No. 25, by Various                        15716
+  [Full title: The Great Round World and What Is Going On In It, Vol. 1, No. 25, April]
+  [29, 1897]
+  [Subtitle: A Weekly Magazine for Boys and Girls]
+  [Editor: Julia Truitt Bishop]
+  [Link: http://www.gutenberg.net/1/5/7/1/15716 ]
+  [Files: 15716.txt; 15716-8.txt; 15716-h.htm]
+
+My Adventures as a Spy, by Robert Baden-Powell                           15715
+  [Link: http://www.gutenberg.net/1/5/7/1/15715 ]
+  [Files: 15715.txt; 15715-8.txt; 15715-h.htm]
+
+The Poor Little Rich Girl, by Eleanor Gates                              15714
+  [Link: http://www.gutenberg.net/1/5/7/1/15714 ]
+  [Files: 15714.txt; 15714-h.htm]
+
+Frau Bovary, by Gustave Flaubert                                         15711
+  [Translator: Arthur Schurig]
+  [Language: German]
+  [Link: http://www.gutenberg.org/1/5/7/1/15711 ]
+  [Files: 15711-8.txt; 15711-h.htm; 15711-t.tex; 15711-pdf.pdf]
+
+Nicky-Nan, Reservist, by Arthur Thomas Quiller-Couch (Q)                 15710
+  [Link: http://www.gutenberg.org/1/5/7/1/15710 ]
+  [Files: 15710.txt]
+
+The Christmas Angel, by Abbie Farwell Brown                              15709
+  [Illustrator: Reginald Birch]
+  [Link: http://www.gutenberg.net/1/5/7/0/15709 ]
+  [Files: 15709.txt; 15709-8.txt; 15709-h.htm]
+
+Scientific American Supplement, No. 794, March 21, 1891, by Various      15708
+  [Link: http://www.gutenberg.net/1/5/7/0/15708 ]
+  [Files: 15708.txt; 15708-8.txt; 15708-h.htm]
+
+Zoonomia, Vol. I, by Erasmus Darwin                                      15707
+  [Subtitle: Or, the Laws of Organic Life]
+  [Link: http://www.gutenberg.net/1/5/7/0/15707 ]
+  [Files: 15707.txt; 15707-8.txt; 15707-h.htm]
+
+Winchester, by Sidney Heath                                              15706
+  [Illustrator: E. W. Haslehust]
+  [Link: http://www.gutenberg.net/1/5/7/0/15706 ]
+  [Files: 15706.txt; 15706-8.txt; 15706-h.htm]
+
+The Silly Syclopedia, by Noah Lott                                       15705
+  [Note: Author name is pseudonym; real author name unknown.]
+  [Link: http://www.gutenberg.net/1/5/7/0/15705 ]
+  [Files: 15705.txt; 15705-h.htm]
+
+Far to Seek, by Maud Diver                                               15704
+  [Subtitle: A Romance of England and India]
+  [Link: http://www.gutenberg.net/1/5/7/0/15704 ]
+  [Files: 15704.txt; 15704-8.txt; 15704-h.htm]
+
+Modern, by Ernst Ahlgren and Axel Lundegard                              15703
+  [Subtitle: En Ber&#65533;ttelse]
+  [Note: Ernst Ahlgren och Axel Lundgard is a pseudonym for Victoria Benedictsson]
+  [Language: Swedish]
+  [Link: http://www.gutenberg.net/1/5/7/0/15703 ]
+  [Files: 15703-8.txt]
+
+Works of the Right Honourable Edmund Burke, Vol. VI. (of 12), by Burke   15702
+  [Full author: Edmund Burke]
+  [Link: http://www.gutenberg.org/1/5/7/0/15702 ]
+  [Files: 15702.txt; 15702-8.txt; 15702-h.htm]
+
+Works of the Right Honourable Edmund Burke, Vol. V. (of 12), by Burke    15701
+  [Full author: Edmund Burke]
+  [Link: http://www.gutenberg.org/1/5/7/0/15701 ]
+  [Files: 15701.txt; 15701-8.txt; 15701-0.txt; 15701-h.htm]
+
+Works of the Right Honourable Edmund Burke, Vol. IV. (of 12), by Burke   15700
+  [Full author: Edmund Burke]
+  [Link: http://www.gutenberg.org/1/5/7/0/15700 ]
+  [Files: 15700.txt; 15700-8.txt; 15700-0.txt; 15700-h.htm]
+
+A Handbook of the Boer War, by Gale and Polden, Limited                  15699
+  [Link: http://www.gutenberg.org/1/5/6/9/15699 ]
+  [Files: 15699.txt; 15699-h.htm]
+
+A Review of Uncle Tom's Cabin, by A. Woodward                            15698
+  [Subtitle: or, An Essay on Slavery]
+  [Link: http://www.gutenberg.org/1/5/6/9/15698 ]
+  [Files: 15698.txt; 15698-8.txt; 15698-h.htm]
+
+True Stories of History and Biography, by Nathaniel Hawthorne            15697
+  [Link: http://www.gutenberg.org/1/5/6/9/15697 ]
+  [Files: 15697.txt; 15697-8.txt; 15697-h.htm]
+
+Superstition Unveiled, by Charles Southwell                              15696
+  [Link: http://www.gutenberg.org/1/5/6/9/15696 ]
+  [Files: 15696.txt ]
+
+'Doc.' Gordon, by Mary E. Wilkins-Freeman                                15695
+  [Illustrator: Frank T. Merrill]
+  [Link: http://www.gutenberg.org/1/5/6/9/15695 ]
+  [Files: 15695.txt; 15695-8.txt; 15695-h.htm]
+
+A Friend of Caesar, by William Stearns Davis                             15694
+  [Subtitle: A Tale of the Fall of the Roman Republic. Time, 50-47 B.C.]
+  [Link: http://www.gutenberg.org/1/5/6/9/15694 ]
+  [Files: 15694.txt; 15694-8.txt; 15694-h.htm]
+
+T. De Witt Talmage, by T. De Witt Talmage and Mrs. T. De Witt Talmage    15693
+  [Subtitle: As I Knew Him]
+  [Link: http://www.gutenberg.net/1/5/6/9/15693 ]
+  [Files: 15693.txt; 15693-8.txt; 15693-h.htm]
+
+Aarimmaisessa talossa, by Matti Kurikka                                  15692
+  [Subtitle: N&#65533;ytelm&#65533; viidess&#65533; n&#65533;yt&#65533;ksess&#65533;]
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/5/6/9/15692 ]
+  [Files: 15692-8.txt]
+
+Woman in Modern Society, by Earl Barnes                                  15691
+  [Link: http://www.gutenberg.net/1/5/6/9/15691 ]
+  [Files: 15691.txt; 15691-8.txt; 15691-h.htm]
+
+Het Nut Der Mechanistische Methode In De Geneeskunde, Herman Boerhaave   15690
+  [Language: Dutch]
+  [Link: http://www.gutenberg.net/1/5/6/9/15690 ]
+  [Files: 15690-8.txt; 15690-h.htm]
+
+Gascoyne, The Sandal Wood Trader, by R. M. Ballantyne                    15689
+  [Subtitle: A Tale of the Pacific]
+  [Link: http://www.gutenberg.net/1/5/6/8/15689 ]
+  [Files: 15689.txt; 15689-8.txt; 15689-h.htm]
+
+Punch, or the London Charivari, Vol. 152, June 13, 1917, by Various      15688
+  [Link: http://www.gutenberg.net/1/5/6/8/15688 ]
+  [Files: 15688.txt; 15688-8.txt; 15688-h.htm]
+
+Little Essays of Love and Virtue, by Havelock Ellis                      15687
+  [Link: http://www.gutenberg.net/1/5/6/8/15687 ]
+  [Files: 15687.txt; 15687-8.txt; 15687-h.htm]
+
+La belle Gabrielle, vol. 3, by Auguste Maquet                            15686
+  [Language: French]
+  [Link: http://www.gutenberg.org/1/5/6/8/15686 ]
+  [Files: 15686-8.txt; ]
+
+A Continuation of a Voyage to New Holland, by William Dampier            15685
+  [Link: http://www.gutenberg.net/1/5/6/8/15685 ]
+  [Files: 15685.txt; 15685-h.htm]
+
+The Summer Holidays, by Amerel                                           15684
+  [Subtitle: A Story for Children]
+  [Link: http://www.gutenberg.net/1/5/6/8/15684 ]
+  [Files: 15684.txt; 15684-h.htm]
+
+The High School Failures, by Francis P. Obrien                           15683
+  [Subtitle: A Study of the School Records of Pupils Failing in Academic]
+  [          or Commercial High School Subjects]
+  [Link: http://www.gutenberg.net/1/5/6/8/15683 ]
+  [Files: 15683.txt; 15683-8.txt; 15683-h.htm]
+
+De Leeuw Van Vlaanderen, by Hendrik  Conscience                          15682
+  [Subtitle: Of De Slag Der Gulden Sporen]
+  [Language: Dutch]
+  [Link: http://www.gutenberg.net/1/5/6/8/15682 ]
+  [Files: 15682-8.txt; 15682-h.htm]
+
+Constructive Imperialism, by Viscount Milner                             15681
+  [Link: http://www.gutenberg.net/1/5/6/8/15681 ]
+  [Files: 15681.txt; 15681-8.txt; 15681-h.htm]
+
+De Usu Ratiocinii Mechanici in Medicina, by Hermanni Boerhaave           15680
+  [Language: Latin]
+  [Link: http://www.gutenberg.net/1/5/6/8/15680 ]
+  [Files: 15680-8.txt; 15680-h.htm]
+
+Works of the Right Honourable Edmund Burke, Vol. III. (of 12), by Burke  15679
+  [Full author: Edmund Burke]
+  [Link: http://www.gutenberg.org/1/5/6/7/15679 ]
+  [Files: 15679.txt; 15679-8.txt; 15679-0.txt; 15679-h.htm]
+
+Punch, or the London Charivari, Vol. 103, November 5, 1892, by Various   15677
+  [Editor: Francis Burnand]
+  [Link: http://www.gutenberg.net/1/5/6/7/15677 ]
+  [Files: 15677.txt; 15677-8.txt; 15677-h.htm]
+
+Tien ohesta tempomia, by Aino Malmberg                                   15676
+  [Language: Finnish]
+  [Link: http://www.gutenberg.net/1/5/6/7/15676 ]
+  [Files: 15676-8.txt]
+
+A Voyage to New Holland, by William Dampier                              15675
+  [Link: http://www.gutenberg.net/1/5/6/7/15675 ]
+  [Files: 15675.txt; 15675-h.htm]
+
+Chronica d'El-Rei D. Affonso III, by Ruy de Pina                         15674
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.net/1/5/6/7/15674 ]
+  [Files: 15674-8.txt]
+
+The Day of the Beast, by Zane Grey                                       15673
+  [Link: http://www.gutenberg.net/1/5/6/7/15673 ]
+  [Files: 15673.txt; 15673-h.htm]
+
+Dictionary of the Chinook Jargon, by George Gibbs                        15672
+  [Full title: Dictionary of the Chinook Jargon, or, Trade Language of]
+  [            Oregon]
+  [Link: http://www.gutenberg.net/1/5/6/7/15672 ]
+  [Files: 15672.txt; 15672-8.txt]
+
+A Splendid Hazard, by Harold MacGrath                                    15671
+  [Link: http://www.gutenberg.net/1/5/6/7/15671 ]
+  [Files: 15671.txt; 15671-8.txt]
+
+The Secret Chamber at Chad, by Evelyn Everett-Green                      15670
+  [Link: http://www.gutenberg.net/1/5/6/7/15670 ]
+  [Files: 15670.txt; 15670-h.htm]
+
+Fru inger til Ostrat, by Henrik Ibsen                                    15669
+  [Language: Norwegian]
+  [Link: http://www.gutenberg.net/1/5/6/6/15669 ]
+  [Files: 15669-8.txt; 15669-h.htm]
+
+Breves instruccoes, by Unknown                                           15668
+  [Full title: Breves instruccoes aos correspondentes da Academia das]
+  [            Sciencias de Lisboa sobre as remessas dos productos, e]
+  [            noticias pertencentes a' Historia da Natureza, para formar]
+  [            hum Museo Nacional]
+  [Language: Portuguese]
+  [Link: http://www.gutenberg.net/1/5/6/6/15668 ]
+  [Files: 15668-8.txt]
+
+Best Short Stories, by Various                                           15667
+  [Collected by Thomas L. Masson]
+  [Link: http://www.gutenberg.net/1/5/6/6/15667 ]
+  [Files: 15667.txt; 15667-8.txt]
+
+The American Missionary--Vol. 48, No. 10, October, 1894, by Various      15666
+  [Link: http://www.gutenberg.net/1/5/6/6/15666 ]
+  [Files: 15666.txt; 15666-8.txt; 15666-h.htm]
+
+
+-=-=-=-=[ 5 NEW EBOOKS AT PROJECT GUTENBERG OF AUSTRALIA ]=-=-=-=-=-=-=-=-=-=-=
+
+Apr 2005 Dr Thorndyke Short Story Omnibus, by R A Freeman  [050039xx.xxx] 0434A
+  [Author: R Austin Freeman]
+
+Apr 2005 Pontixex Son and Thorndyke, by R Austin Freeman   [050038xx.xxx] 0433A
+
+Apr 2005 Mr Polton Explains, by R Austin Freeman           [050037xx.xxx] 0432A
+
+Apr 2005 Felo de Se, by R Austin Freeman                   [050036xx.xxx] 0431A
+
+Apr 2005 A Certain Dr Thorndyke, by R Austin Freeman       [050035xx.xxx] 0430A
+
+
+eBooks are posted in uncompressed and/or compressed formats.  To access these
+ebooks, go to http://gutenberg.net.au/plusfifty.html
+
+For more information about Project Gutenberg of Australia, including
+accessing those etexts from outside of Australia, please visit:
+http://gutenberg.net.au/
+
+--Project Gutenberg of Australia--
+--A treasure trove of Literature--
+*treasure-trove n. treasure found hidden with no evidence of ownership
+
+For more information about copyright restrictions in other countries,
+please visit:
+http://onlinebooks.library.upenn.edu/okbooks.html
+
+
+=============================================================================
+                       [ This Week's Other Stuff ]
+=============================================================================
+
+Today, I would like to recommend to you a book I have only recently noticed.
+Book #2274, "How to Live on 24 Hours a Day" by Arnold Bennett.  The title
+alone intruiged me when I saw this book (the real thing) on a stack of
+donations that had arrived to me from the local library.  I simply could not
+resist starting to read it as I am simply horrible at living in the time
+allotted (as evidence I cite the fact that I started reading a book instead of
+processing the donations to Distributed Proofreaders as I had intended!).
+This book is exceedingly well written.  Those of you who are inclined to read
+it should also jot down the writings of the following:
+
+Marcus Aurelius:  Meditations(#2680) and Thoughts(#6920)
+Epictetus: Golden Sayings(#871) and Discourses(#10661)
+Emerson: Essays(#2944-5) and Representative Men(#6312)
+Meredith: Complete Works(#4500)
+Bogehot: Lombard Street(#4359)
+Tolstoy: Anna Karenina(#1399)
+Milton: Paradise Lost(#26)
+Gibbon: Decline and Fall of the Roman Empire(#731-736)
+
+As the author encourages you to read some of at least one at one point.  Here
+are two samples from the work:
+
+"Strange that the newspapers, so enterprising and up-to-date as they are, are
+not full of 'How to live on a given income of time,' instead of 'How to live
+on a given income of money'!  Money is far commoner than time.  When one
+reflects, one perceives that money is jut about the commonest thing there is.
+It encumbers the earth in gross heaps."
+
+"If you imagine that you will be able to achieve your ideal by ingeniously
+planning out a time-table with a pen on a piece of paper, you had better give
+up hope at once.  If you are not prepared for discouragements and
+disillusions; if you will not be content with a small result for a big effort,
+then do not begin.  Lie down again and resume the uneasy doze which you call
+your existence."
+
+~ ~ ~
+
+Fiction is obliged to stick to possibilities. Truth isn't. - Mark Twain
+
+=============================================================================</pre>
+
+<a href="/nl_archives/2005/pgweekly_2005_04_27_part_2.txt" target="_blank" rel="nofollow">pgweekly_2005_04_27_part_2.txt</a>

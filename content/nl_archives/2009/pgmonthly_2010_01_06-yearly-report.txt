@@ -1,0 +1,237 @@
+Project Gutenberg Ends One Year And Starts Another
+
+Noon, January 6, 2010, is the end of our calendar production year
+number 39 and the beginning of our 40th year, though our 40 years
+of calendar time won't be complete until July 5, 2011.  This date
+is due to our previous calendar being a weekly one running from a
+Wednesday noon to the next Wednesday noon.  Once someone else has
+taken over the Newsletters, they are welcome to change this to an
+alternate date such as midnight January 1, but I was always awake
+and working at noon, and able to send out weekly newsletters so I
+just did what worked on that schedule.
+
+
+
+
+Hot Requests
+
+
+We need lawyers in the following fields:
+
+
+Probate
+
+Contract
+
+Copyright
+
+
+We also need people who can help make our web pages better for an
+ever increasing number of people surfing in on cellphones, and in
+different languages.  We will give you all you need to design and
+implement your own Project Gutenberg web pages.  Who knows, it is
+possible you could start a whole famous web page design career.
+
+Public Domain Day
+
+The first day of the years is Public Domain Day, when we list the
+works that would have gone into the public domain that day if not
+for the most recent two copyright extensions [but don't forget we
+have had more extensions from the original 14 years].
+
+Notable items that would be public domain now:
+
+Fahrenheit 451
+Walt Disney's Peter Pan
+The First James Bond Book
+Early books by Saul Bellow, Arthur Miller, Leon Uris, Jas Baldwin
+Watson and Crick's Original "Nature" Article on DNA
+Salinger's Nine Stories
+From Here To Eternity
+Asimov's Second Foundation
+Early works of Heinlein, Arthur C. Clarke, E.E. Smith, van Vogt
+War of the Worlds
+Julius Caesar [James Mason, Marlon Brando, etc.]
+
+Before these last two major copyright extensions renewals were of
+legal necessity to double the length of copyright terms, and most
+works were never renewed:  15% of all copyrights, 8% of books had
+never been renewed, meaning the vast majority of everything under
+copyright before 1982 would now be public domain.
+
+
+Read more about this at:
+
+http://www.law.duke.edu/cspd/publicdomainday/pre1976
+
+and related web pages.
+
+
+These are great articles by a great copyright lawyer.
+
+
+
+
+Milestones Of The Year
+
+
+In 2009 we saw our 35,000th internally produced eBook go out, and
+our 25,000 in English, our 1,500th in French, 600th in German and
+500th in Finnish.  We also saw Dutch and Chinese pass 400 eBooks.
+
+We still need to find ways to do more in Spanish and Portuguese.
+
+
+These 35,000+ eBooks representing over 50 languages are at:
+
+http://www.gutenberg.org
+
+
+
+75,000+ Donated eBooks representing over 100 languages are at:
+
+http://www.gutenberg.cc
+
+
+
+
+100,000 Total Titles
+
+
+In toto, counting the eBooks donated to us from other eLibraries,
+individuals and schools at http://www.gutenberg.cc we now have in
+well excess of 100,000 titles, though it is probably closer to an
+even 100,000, given various duplications, etc.
+
+
+
+Production Year Statistics
+
+
+The numbers presented below will approximate what are recorded as
+of noon on January 6, and the production year will be recorded as
+running last year from Wednesday, January 7, 2009 through January
+6, 2010, and the coming year will end on January 5, 2011.
+
+Thus we had 52 Wednesdays this past year for 364 days; every once
+in a while we get 53 production weeks on this calendar, which has
+to be one reason for eventually changing it.
+
+
+
+Here is how we ended 2009
+
+
+      day       | cnt
+----------------+-----
+ Wed 2009-12-30 |   9
+ Thu 2009-12-31 |  12
+ Fri 2010-01-01 |   6
+ Sat 2010-01-02 |  10
+ Sun 2010-01-03 |   2
+ Mon 2010-01-04 |  21
+ Tue 2010-01-05 |   5
+
+Weekly Total       65
+
+
+
+Grand total for today: 30761  from automated in house counter
+
+25866   English en
+1531    French  fr
+625     German  de
+517     Finnish fi
+455     Dutch   nl
+405     Chinese zh
+384     Portuguese      pt
+270     Spanish es
+225     Italian it
+etc.
+
+
+
+30,761  Up 3,145  From  27,616  PG General Automated Count
+ 1,830  Up   104  From   1,726  Project Gutenberg of Australia
+   675  Up   121  From     554  Project Gutenberg of Europe
+   468  Up   243  From     225  Project Gutenberg of Canada [Estimated]
+ 2,008  DN   423  From   2,431   PrePrints [Subtracted 307 Chinese eBooks]
+======   ======
+35,742  Up 3,190  From  32,552   Grand Total [Counting subtractions]
+
+
+  9.825 eBooks Per Day
+ 68.773 eBooks Per Week
+297.850 eBooks Per Month
+
+
+///
+
+
+
+Here is how we ended 2008
+
+
+
+27,616   PG General Automated Count
+ 1,726   Project Gutenberg of Australia
+   554   Project Gutenberg of Europe
+   225   Project Gutenberg of Canada [Estimated]
+         [202 up to December, no current report]
+ 2,431   PrePrints [Counting the 307 Chinese eBooks +111]
+======   ======
+32,552   Grand Total [Counting those PrePrints]
+
+
+
+
+Here is how we ended 2007
+
+The combined PG projects had produced a total of 26,161 titles.
+
+
+The most number of books posted...
+ ...in one day was 65 on the 26th December
+ ...in one week was 151 in Week 18 (week ending 9th May)
+ ...in one month was 477 in November
+
+We averaged
+338 per month [Over 4,000 for the year]
+ 78 per week
+ 11.13 per day
+
+99 titles were newly REposted to the new filing system, bringing us almost
+
+to the 2,000 mark.
+
+
+Here is a small selection of project milestones;
+
+TOTAL Original Project Gutenberg eBooks equals about
+the number of books in the average U.S. public library
+  32,500 on 20082121 [Counting the 307 Chinese Preprints]
+                     [And presuming 3 after official count]
+  32,000 ~~ Rechecking Date
+  31,500 on 20081021 [not an error, 1,777 PrePrints]
+  30,000 on 20081021
+  29,500 on 20080919
+  29,000 ~~ Rechecking Date
+  28,500 ~~ Rechecking Date
+  28,000 ~~ 20080516
+  27,500 on 20080405
+  27,000 ~~ 20080229
+  26,500 on 20080126
+  26,000 on 20071224
+  25,000 on 20071012
+  24,000 on 20070710
+  23,000 on 20070415
+
+PG-AU
+  1,700 on 20081010
+  1,600 on 20080208
+  1,500 on 20070407
+
+PG Canada
+  175 on 20080930
+  100 on 20080325
+  110 on 20080417
