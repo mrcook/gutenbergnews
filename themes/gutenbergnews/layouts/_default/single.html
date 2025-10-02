@@ -2,14 +2,16 @@
 <main class="post">
   <article>
     <h1>{{ .Title }}</h1>
-    <time>{{ time.Format ":date_long" .Date }}</time>
+{{- if eq .Type "posts" }}
+    <p><time>{{ time.Format ":date_long" .Date }}</time></p>
+{{- end }}
 
   {{- if ne .Type "page" }}
     {{ if gt .Params.categories 0 -}}
     <div class="categories">
       <ul>
       {{- range .Params.categories }}
-        <li><a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+        <li><em><a href="{{ "/category/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></em></li>
       {{- end }}
       </ul>
     </div>
@@ -25,7 +27,7 @@
     <div class="tags">
       <ul>
       {{- range .Params.tags }}
-        <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+        <li><em><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></em></li>
       {{- end }}
       </ul>
     </div>
