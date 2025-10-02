@@ -8,6 +8,9 @@
 {{- end }}
 <meta name="description" content="{{with .Description}}{{ . }}{{else}}{{if .IsPage}}{{.Title}} | {{.Site.Title}}{{else}}{{with .Site.Params.description}}{{ . }}{{end}}{{end}}{{end}}" />
 <meta name="keywords" content="{{if .Keywords}}{{delimit .Keywords ", "}}{{else}}{{.Site.Params.keywords}}{{end}}">
+{{ if .Params.author -}}
+<meta name="author" content="{{.Params.author}}">
+{{ end -}}
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 {{ if isset .Site.Params "favicon" -}}
 <link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
