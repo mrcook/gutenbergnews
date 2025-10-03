@@ -33,9 +33,9 @@ Earlier this year Greg was diagnosed with aggressive pancreatic cancer and has r
 
 Greg started working with Michael Hart in the fall of 1991. At the time, PG was hosted by Illinois Benedictine College. Greg contributed eBook #51. As Michael continued to advocate for eBooks and public access in the public discussions, Greg took up the ‘back office’ efforts, including technical maintenance, coordinating volunteer efforts and more. When Michael passed in 2011, Greg was the stalwart foundation that kept the Project moving forward and continuing to grow.
 
-In 2006 Digital Proofreaders (DP) was established by a core group of PG volunteers with Greg as a champion for the project’s development. DP is now the primary source of new eBooks for PG.
+In 2000 Digital Proofreaders (DP) was established by a core group of PG volunteers with Greg as a champion for the project’s development. DP is now the primary source of new eBooks for PG.
 
-All of us at PGLAF and DP wish him and his family resilience and strength, and send them our heartfelt prayers and love.
+All of us at PGLAF and DP wish him and his family resilience and strength, and send them our heartfelt love.
 
 
 ## Eric Hellman appointed interim director of PGLAF
