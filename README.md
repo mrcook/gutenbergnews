@@ -33,8 +33,7 @@ Then open your web browser to http://localhost:1313
 
 ## License
 
-NOTE: all content is released into the public domain except the
-"History of Project Gutenberg" article (and its translations), which are
-copyright Marie Lebert.
-
 This is free and unencumbered software released into the public domain. Read more in the [LICENSE](LICENSE) file.
+
+NOTE: all content is released into the public domain except those articles written
+by Marie Lebert, e.g. "History of Project Gutenberg" and its translations.
