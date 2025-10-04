@@ -3,7 +3,7 @@ title: "Project Gutenberg Newsletter August-September 2025"
 description: "The Project Gutenberg Newsletter for August-September 2025"
 keywords: ["newsletters", "pglaf", "ceo", "newby", "AI", "Dyslexia", "LLM"]
 date: "2025-09-03T15:19:00Z"
-url: /20250903/pg-monthly-newsletter-august-september-2025/
+url: /2025/pg-monthly-newsletter-august-september-2025/
 categories: ["Newsletters"]
 tags: ["newsletters", "statistics"]
 author: "Greg Newby"

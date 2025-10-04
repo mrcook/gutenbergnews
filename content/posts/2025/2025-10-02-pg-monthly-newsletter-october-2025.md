@@ -3,7 +3,7 @@ title: "Project Gutenberg Newsletter October 2025"
 description: "The Project Gutenberg Newsletter for October 2025"
 keywords: ["newsletters", "pglaf", "ceo", "newby"]
 date: "2025-10-02T02:54:00Z"
-url: /20251002/pg-monthly-newsletter-october-2025/
+url: /2025/pg-monthly-newsletter-october-2025/
 categories: ["Newsletters"]
 tags: ["newsletters", "statistics"]
 author: "John Guagliardo"
