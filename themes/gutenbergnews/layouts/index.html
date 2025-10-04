@@ -19,6 +19,9 @@
     <h1 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
     <p><time>{{ time.Format ":date_long" .Date }}</time></p>
     {{ .Summary }}
+    {{- if .Truncated -}}
+      <p class="read-more"><a href='{{ .RelPermalink }}'>Read more&hellip;</a></p>
+    {{- end -}}
   </section>
   {{- end }}
 {{ template "partials/paginator.html" . }}

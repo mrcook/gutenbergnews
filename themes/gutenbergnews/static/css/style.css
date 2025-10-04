@@ -91,6 +91,10 @@ main.post article h1 {
   margin-bottom: 0.25rem;
 }
 
+.read-more {
+  text-align: right;
+}
+
 footer {
   border-top: 1px solid #ddd;
   margin-top: 2rem;

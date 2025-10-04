@@ -15,7 +15,7 @@ copyright = 'Michael R. Cook'
   unsafe = true
 
 [pagination]
-  pagerSize = 4
+  pagerSize = 10
 
 [taxonomies]
   category = 'categories'
