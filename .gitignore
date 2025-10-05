@@ -1,3 +1,4 @@
 resources
 public
 deploy.sh
+.DS_Store
