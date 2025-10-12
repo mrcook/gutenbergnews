@@ -1,3 +1,25 @@
 <footer>
+  <div class="grid md:grid-cols-2 gap-4">
+    <div>
+    {{ if .NextPage }}
+    <a class="" href="{{ .NextPage.Permalink }}">
+      {{ partial "icons/chevron-double-left" "h-4 w-4" }}
+      {{ .NextPage.Title | truncate 30 "..."}}
+    </a>
+    {{ end }}
+    </div>
+
+    <div>
+    {{ if .PrevPage }}
+    <a class="">
+      href="{{ .PrevPage.Permalink }}">{{
+      .PrevPage.Title |
+      truncate 30 "..."}}
+      {{ partial "icons/chevron-double-right" "h-4 w-4" }}
+    </a>
+    {{ end }}
+    </div>
+  </div>
+
   {{ time.Format "2006" now }} {{ with .Site.Copyright }}{{ . }}{{ end }}
 </footer>
