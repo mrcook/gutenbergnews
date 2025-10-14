@@ -4,8 +4,6 @@ title = 'Project Gutenberg News'
 theme = 'gutenbergnews'
 copyright = 'Michael R. Cook'
 
-disableKinds = ['rss']
-
 [params]
   description = 'News on the latest ebook releases from Project Gutenberg and other information about digital publishing.'
   keywords = 'gutenberg, news, blog, newsletters'
