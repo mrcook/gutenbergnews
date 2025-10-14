@@ -1,6 +1,6 @@
 baseURL = 'https://www.gutenbergnews.org'
 languageCode = 'en-us'
-title = 'Gutenberg News'
+title = 'Project Gutenberg News'
 theme = 'gutenbergnews'
 copyright = 'Michael R. Cook'
 
