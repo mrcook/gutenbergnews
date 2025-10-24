@@ -32,6 +32,9 @@ copyright = 'Michael R. Cook'
 [outputFormats.rss]
   baseName = 'feed'
 
+[services.rss]
+  limit = 20
+
 [[menu.main]]
 name = 'About'
 url = '/about'
