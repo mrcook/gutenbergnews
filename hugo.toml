@@ -4,8 +4,6 @@ title = 'Project Gutenberg News'
 theme = 'gutenbergnews'
 copyright = 'Michael R. Cook'
 
-disableKinds = ['rss']
-
 [params]
   description = 'News on the latest ebook releases from Project Gutenberg and other information about digital publishing.'
   keywords = 'gutenberg, news, blog, newsletters'
@@ -25,6 +23,14 @@ disableKinds = ['rss']
 
 [permalinks]
   categories = "/category/:slug/"
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
+[outputFormats.rss]
+  baseName = 'feed'
 
 [[menu.main]]
 name = 'About'
