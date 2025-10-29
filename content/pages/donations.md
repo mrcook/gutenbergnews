@@ -7,7 +7,7 @@ author: Michael Cook
 layout: page
 url: /donations
 ---
-Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 50 years. Your donations make it possible to support these volunteers, and pay our few employees to continue the creation of free electronic texts.
+Project Gutenberg's success is due to the hard work of thousands of volunteers over more than 50 years. Your donations make it possible to support these volunteers, and pay the few employees to continue the creation of free electronic texts.
 
 For more information, including several other ways to donate, please visit the official Gutenberg website;
 
