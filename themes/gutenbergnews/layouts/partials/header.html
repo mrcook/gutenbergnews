@@ -1,10 +1,10 @@
 <header>
-  <div class="main">
-    <a href="{{ "/" | absURL }}">{{ .Site.Title }}</a>
-  </div>
+  <h2><a href="{{ "/" | absURL }}">{{ .Site.Title }}</a></h2>
   <nav>
-  {{- range .Site.Menus.main }}
-    <a href="{{ .URL | absURL }}">{{ .Name }}</a>
-  {{- end }}
+    <ul>
+    {{- range .Site.Menus.main }}
+      <li><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+    {{- end }}
+    </ul>
   </nav>
 </header>
