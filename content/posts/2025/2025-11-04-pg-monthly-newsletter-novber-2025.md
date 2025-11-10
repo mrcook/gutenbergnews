@@ -31,7 +31,7 @@ In 2000, Greg took on the role of founding CEO for the Project Gutenberg Literar
 
 Over decades, admiration grew for his expertise, intellect, and passion. Greg was widely regarded for the kindness he showed everyone involved in his projects. Project Gutenberg wouldn't be what it is today, without his energy and foresight, his giving and guidance.
 
-We ask that you remember Grey Newby as we do: a man of great optimism for humanity; with abundant patience for all; a scholar of the highest caliber; and an ultramarathoner, always ready for the next chance to race and grow - always ready to bring us along.
+We ask that you remember Greg Newby as we do: a man of great optimism for humanity; with abundant patience for all; a scholar of the highest caliber; and an ultramarathoner, always ready for the next chance to race and grow - always ready to bring us along.
 
 > More about Greg: <https://gutenberg.org/about/newby.html>
 
