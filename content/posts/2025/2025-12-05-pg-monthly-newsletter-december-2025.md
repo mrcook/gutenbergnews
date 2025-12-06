@@ -116,186 +116,187 @@ These eBooks are now available at:
 
 A selection of this month’s notable titles:
 
-<pre>
-Flaxius: Leaves from the Life of an Immortal,
-Leland, Charles Godfrey (English)
-334 pages; Monday, December 1, 2025
-PG #77376
-https://www.gutenberg.org/ebooks/77376
+<dl class="newsletter-releases">
+<dt>Flaxius: Leaves from the Life of an Immortal,</dt>
+<dd>Leland, Charles Godfrey (English)</dd>
+<dd>334 pages; Monday, December 1, 2025</dd>
+<dd>PG #77376</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77376" target="_blank">https://www.gutenberg.org/ebooks/77376</a></dd>
 
-The brave little maid of Goldau (1892),
-Mary Elizabeth Jennings (English)
-47 pages; Monday, December 1, 2025
-PG #77374
-https://www.gutenberg.org/ebooks/77374
+<dt>The brave little maid of Goldau (1892),</dt>
+<dd>Mary Elizabeth Jennings (English)</dd>
+<dd>47 pages; Monday, December 1, 2025</dd>
+<dd>PG #77374</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77374" target="_blank">https://www.gutenberg.org/ebooks/77374</a></dd>
 
-Brake Up; or, The Young Peacemakers,
-Optic, Oliver (English)
-318 pages; Monday, December 1, 2025
-PG #77372
-https://www.gutenberg.org/ebooks/77372
+<dt>Brake Up; or, The Young Peacemakers,</dt>
+<dd>Optic, Oliver (English)</dd>
+<dd>318 pages; Monday, December 1, 2025</dd>
+<dd>PG #77372</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77372" target="_blank">https://www.gutenberg.org/ebooks/77372</a></dd>
 
-Hold 'Em, Wyndham!, Barbour,
-Ralph Henry (English)
-285 pages; Monday, December 1, 2025
-PG #77370
-https://www.gutenberg.org/ebooks/77370
+<dt>Hold 'Em, Wyndham!, Barbour,</dt>
+<dd>Ralph Henry (English)</dd>
+<dd>285 pages; Monday, December 1, 2025</dd>
+<dd>PG #77370</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77370" target="_blank">https://www.gutenberg.org/ebooks/77370</a></dd>
 
-Skum [1922],
-Øberg, Edith (Norwegian)
-137 pages; Monday, December 1, 2025
-PG #77368
-https://www.gutenberg.org/ebooks/77368
+<dt>Skum [1922],</dt>
+<dd>Øberg, Edith (Norwegian)</dd>
+<dd>137 pages; Monday, December 1, 2025</dd>
+<dd>PG #77368</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77368" target="_blank">https://www.gutenberg.org/ebooks/77368</a></dd>
 
-Among the Isles of Shoals, Thaxter, Celia (English)
-193 pages; Saturday, November 29, 2025
-PG #77366
-https://www.gutenberg.org/ebooks/77366
+<dt>Among the Isles of Shoals, Thaxter, Celia (English)</dt>
+<dd>193 pages; Saturday, November 29, 2025</dd>
+<dd>PG #77366</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77366" target="_blank">https://www.gutenberg.org/ebooks/77366</a></dd>
 
-Bound to get there; or, A boy who could not be downed,
-Franklin, Roy (English)
-324 pages; Saturday, November 29, 2025
-PG #77365
-https://www.gutenberg.org/ebooks/77365
+<dt>Bound to get there; or, A boy who could not be downed,</dt>
+<dd>Franklin, Roy (English)</dd>
+<dd>324 pages; Saturday, November 29, 2025</dd>
+<dd>PG #77365</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77365" target="_blank">https://www.gutenberg.org/ebooks/77365</a></dd>
 
-Les conversations d'Émilie,
-Épinay, Louise d' (French)
-208 pages; Saturday, November 29, 2025
-PG #77364
-https://www.gutenberg.org/ebooks/77364
+<dt>Les conversations d'Émilie,</dt>
+<dd>Épinay, Louise d' (French)</dd>
+<dd>208 pages; Saturday, November 29, 2025</dd>
+<dd>PG #77364</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77364" target="_blank">https://www.gutenberg.org/ebooks/77364</a></dd>
 
-Genesis (1910), A Critical and Exegetical Commentary on,
-Skinner, John, 1851-1925. (English)
-671 pages; Saturday, November 29, 2025
-PG #77363
-https://www.gutenberg.org/ebooks/77363
+<dt>Genesis (1910), A Critical and Exegetical Commentary on,</dt>
+<dd>Skinner, John, 1851-1925. (English)</dd>
+<dd>671 pages; Saturday, November 29, 2025</dd>
+<dd>PG #77363</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77363" target="_blank">https://www.gutenberg.org/ebooks/77363</a></dd>
 
-Adrift on the Amazon,
-Miller, Leo (English)
-286 pages; Friday, November 28, 2025
-PG #77361
-https://www.gutenberg.org/ebooks/77361
+<dt>Adrift on the Amazon,</dt>
+<dd>Miller, Leo (English)</dd>
+<dd>286 pages; Friday, November 28, 2025</dd>
+<dd>PG #77361</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77361" target="_blank">https://www.gutenberg.org/ebooks/77361</a></dd>
 
-American medicinal barks,
-Henkel, Alice (English)
-61 pages; Friday, November 28, 2025
-PG #77360
-https://www.gutenberg.org/ebooks/77360
+<dt>American medicinal barks,</dt>
+<dd>Henkel, Alice (English)</dd>
+<dd>61 pages; Friday, November 28, 2025</dd>
+<dd>PG #77360</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77360" target="_blank">https://www.gutenberg.org/ebooks/77360</a></dd>
 
-Letters of John Huss, written during his exile and imprisonment,
-Bonnechose, Émile de (English)
-248 pages; Friday, November 28, 2025
-PG #77359
-https://www.gutenberg.org/ebooks/77359
+<dt>Letters of John Huss, written during his exile and imprisonment,</dt>
+<dd>Bonnechose, Émile de (English)</dd>
+<dd>248 pages; Friday, November 28, 2025</dd>
+<dd>PG #77359</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77359" target="_blank">https://www.gutenberg.org/ebooks/77359</a></dd>
 
-A lady's cruise in a French man-of-war [1882],
-Gordon-Cumming, Constance Frederica (English)
-397 pages; Friday, November 28, 2025
-PG #77356
-https://www.gutenberg.org/ebooks/77356
+<dt>A lady's cruise in a French man-of-war [1882],</dt>
+<dd>Gordon-Cumming, Constance Frederica (English)</dd>
+<dd>397 pages; Friday, November 28, 2025</dd>
+<dd>PG #77356</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77356" target="_blank">https://www.gutenberg.org/ebooks/77356</a></dd>
 
-Household words, no. 330, July 19, 1856: A weekly journal,
-Dickens, Charles (editor) (English)
-48 pages; Friday, November 28, 2025
-PG #77354
-https://www.gutenberg.org/ebooks/77354
+<dt>Household words, no. 330, July 19, 1856: A weekly journal,</dt>
+<dd>Dickens, Charles (editor) (English)</dd>
+<dd>48 pages; Friday, November 28, 2025</dd>
+<dd>PG #77354</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77354" target="_blank">https://www.gutenberg.org/ebooks/77354</a></dd>
 
-Historia de la instrucción pública en Puerto Rico hasta el año de 1898,
-Coll y Toste, Cayetano (Spanish)
-212 pages; Friday, November 28, 2025
-PG #77353
-https://www.gutenberg.org/ebooks/77353
+<dt>Historia de la instrucción pública en Puerto Rico hasta el año de 1898,</dt>
+<dd>Coll y Toste, Cayetano (Spanish)</dd>
+<dd>212 pages; Friday, November 28, 2025</dd>
+<dd>PG #77353</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77353" target="_blank">https://www.gutenberg.org/ebooks/77353</a></dd>
 
-Ten years in a Portsmouth slum,
-Dolling, Robert R. (English)
-318 pages; Friday, November 28, 2025
-PG #77351
-https://www.gutenberg.org/ebooks/77351
+<dt>Ten years in a Portsmouth slum,</dt>
+<dd>Dolling, Robert R. (English)</dd>
+<dd>318 pages; Friday, November 28, 2025</dd>
+<dd>PG #77351</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77351" target="_blank">https://www.gutenberg.org/ebooks/77351</a></dd>
 
-Bacchus; or, Wine To-day and To-morrow,
-Shand, P. Morton (English with French)
-96 pages; Thursday, November 27, 2025
-PG #77340
-https://www.gutenberg.org/ebooks/77340
+<dt>Bacchus; or, Wine To-day and To-morrow,</dt>
+<dd>Shand, P. Morton (English with French)</dd>
+<dd>96 pages; Thursday, November 27, 2025</dd>
+<dd>PG #77340</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77340" target="_blank">https://www.gutenberg.org/ebooks/77340</a></dd>
 
-The English works of Thomas Hobbes of Malmesbury, vol 6 of 11,
-Hobbes, Thomas (English)
-540 pages; Wednesday, November 26, 2025
-PG #77338
-https://www.gutenberg.org/ebooks/77338
+<dt>The English works of Thomas Hobbes of Malmesbury, vol 6 of 11,</dt>
+<dd>Hobbes, Thomas (English)</dd>
+<dd>540 pages; Wednesday, November 26, 2025</dd>
+<dd>PG #77338</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77338" target="_blank">https://www.gutenberg.org/ebooks/77338</a></dd>
 
-Leben und Taten des scharfsinnigen Edlen
-Don Quijote von la Mancha 1 {Fraktur}, Miguel de Cervantes Saavedra (Übers.: Tieck) (German)
-379 pages; Wednesday, November 26, 2025
-PG #77337
-https://www.gutenberg.org/ebooks/77337
+<dt>Leben und Taten des scharfsinnigen Edlen</dt>
+<dd>Don Quijote von la Mancha 1 {Fraktur},</dd>
+<dd>Miguel de Cervantes Saavedra (Übers.: Tieck) (German)</dd>
+<dd>379 pages; Wednesday, November 26, 2025</dd>
+<dd>PG #77337</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77337" target="_blank">https://www.gutenberg.org/ebooks/77337</a></dd>
 
-Hecuba and Other Plays, Euripides;
-Michael Wodhull [tr.] (English)
-288 pages; Wednesday, November 26, 2025
-PG #77336
-https://www.gutenberg.org/ebooks/77336
+<dt>Hecuba and Other Plays, Euripides;</dt>
+<dd>Michael Wodhull [tr.] (English)</dd>
+<dd>288 pages; Wednesday, November 26, 2025</dd>
+<dd>PG #77336</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77336" target="_blank">https://www.gutenberg.org/ebooks/77336</a></dd>
 
-Poems: Scots and English,
-Buchan, John (English with Scots)
-107 pages; Tuesday, November 25, 2025
-PG #77335
-https://www.gutenberg.org/ebooks/77335
+<dt>Poems: Scots and English,</dt>
+<dd>Buchan, John (English with Scots)</dd>
+<dd>107 pages; Tuesday, November 25, 2025</dd>
+<dd>PG #77335</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77335" target="_blank">https://www.gutenberg.org/ebooks/77335</a></dd>
 
-El proceso,
-Franz Kafka (Spanish)
-385 pages; Tuesday, November 25, 2025
-PG #77334
-https://www.gutenberg.org/ebooks/77334
+<dt>El proceso,</dt>
+<dd>Franz Kafka (Spanish)</dd>
+<dd>385 pages; Tuesday, November 25, 2025</dd>
+<dd>PG #77334</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77334" target="_blank">https://www.gutenberg.org/ebooks/77334</a></dd>
 
-Green Thursday: Stories,
-Peterkin, Julia M. (English)
-189 pages; Tuesday, November 25, 2025
-PG #77332
-https://www.gutenberg.org/ebooks/77332
+<dt>Green Thursday: Stories,</dt>
+<dd>Peterkin, Julia M. (English)</dd>
+<dd>189 pages; Tuesday, November 25, 2025</dd>
+<dd>PG #77332</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77332" target="_blank">https://www.gutenberg.org/ebooks/77332</a></dd>
 
-The way of all earth, Delano,
-Edith Barnard (English)
-283 pages; Tuesday, November 25, 2025
-PG #77331
-https://www.gutenberg.org/ebooks/77331
+<dt>The way of all earth, Delano,</dt>
+<dd>Edith Barnard (English)</dd>
+<dd>283 pages; Tuesday, November 25, 2025</dd>
+<dd>PG #77331</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77331" target="_blank">https://www.gutenberg.org/ebooks/77331</a></dd>
 
-La rive d'Asie,
-Anet, Claude (French)
-240 pages; Monday, November 24, 2025
-PG #77330
-https://www.gutenberg.org/ebooks/77330
+<dt>La rive d'Asie,</dt>
+<dd>Anet, Claude (French)</dd>
+<dd>240 pages; Monday, November 24, 2025</dd>
+<dd>PG #77330</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77330" target="_blank">https://www.gutenberg.org/ebooks/77330</a></dd>
 
-The Best Short Stories of 1925, and the Yearbook of the American Short Story,
-O'Brien, Edward J. [ed.] (English)
-520 pages; Monday, November 24, 2025
-PG #77328
-https://www.gutenberg.org/ebooks/77328
+<dt>The Best Short Stories of 1925, and the Yearbook of the American Short Story,</dt>
+<dd>O'Brien, Edward J. [ed.] (English)</dd>
+<dd>520 pages; Monday, November 24, 2025</dd>
+<dd>PG #77328</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77328" target="_blank">https://www.gutenberg.org/ebooks/77328</a></dd>
 
-The work of the War refugees committee,
-Shaw, Flora L. (English)
-43 pages; Monday, November 24, 2025
-PG #77327
-https://www.gutenberg.org/ebooks/77327
+<dt>The work of the War refugees committee,</dt>
+<dd>Shaw, Flora L. (English)</dd>
+<dd>43 pages; Monday, November 24, 2025</dd>
+<dd>PG #77327</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77327" target="_blank">https://www.gutenberg.org/ebooks/77327</a></dd>
 
-Insomnia: Its causes and cure,
-Sawyer, James (English)
-66 pages; Monday, November 24, 2025
-PG #77326
-https://www.gutenberg.org/ebooks/77326
+<dt>Insomnia: Its causes and cure,</dt>
+<dd>Sawyer, James (English)</dd>
+<dd>66 pages; Monday, November 24, 2025</dd>
+<dd>PG #77326</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77326" target="_blank">https://www.gutenberg.org/ebooks/77326</a></dd>
 
-Bernini, and other studies in the history of art,
-Norton, Richard (English)
-367 pages; Monday, November 24, 2025
-PG #77325
-https://www.gutenberg.org/ebooks/77325
+<dt>Bernini, and other studies in the history of art,</dt>
+<dd>Norton, Richard (English)</dd>
+<dd>367 pages; Monday, November 24, 2025</dd>
+<dd>PG #77325</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77325" target="_blank">https://www.gutenberg.org/ebooks/77325</a></dd>
 
-The Dark Year of Dundee (1867),
-Alcock, Deborah (English)
-350 pages; Monday, November 24, 2025
-PG #77324
-https://www.gutenberg.org/ebooks/77324
-</pre>
+<dt>The Dark Year of Dundee (1867),</dt>
+<dd>Alcock, Deborah (English)</dd>
+<dd>350 pages; Monday, November 24, 2025</dd>
+<dd>PG #77324</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/77324" target="_blank">https://www.gutenberg.org/ebooks/77324</a></dd>
+</dl>
 
 The list of registered, operational mirrors is here: <http://gutenberg.org/MIRRORS.ALL>
 
