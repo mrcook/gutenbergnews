@@ -88,6 +88,15 @@ header nav ul li {
   text-align: right;
 }
 
+.newsletter-releases dt {
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.newsletter-releases dd {
+  margin-left: 1rem;
+}
+
 footer {
   border-top: 1px solid #eee;
   padding-top: 1rem;
