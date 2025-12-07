@@ -30,8 +30,9 @@ file.strip!
 
 releases = []
 file.split(/\n\n+/).each_with_index do |entry, eid|
- # make link a link and place it on its own line
-  entry.sub!(/ +<(http.+?)>/, "\n"+'<a href="\1" target="_blank">\1</a>')
+  # make link linkable and place it on its own line
+  entry.sub!(/ +<(http.+?)>/, "\n"+'\1')
+  entry.sub!(/(http[^\s]+)/, '<a href="\1" target="_blank">\1</a>')
 
   release = []
   entry.split("\n").each_with_index do |line, lid|
