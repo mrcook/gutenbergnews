@@ -52,19 +52,39 @@ AI and Copyright Tensions: Mid-November saw heated debates on X about AI trainin
 November's X conversations about PG had some trending, with users recommending Gutenberg for classics like Dracula and Meditations. A viral thread noted how public domain status means "no fees, no licenses," sparking eBook recommendation lists.
 
 
-## Anticipation Builds for Public Domain Day 2026
+## Reflecting on Public Domain Day 2025
 
-In November 2025, the primary focus in public domain eBooks news centered on the impending Public Domain Day on January 1, 2026, when thousands of works from 1929 (plus 1924 sound recordings) entered into the U.S. public domain. This event has generated significant buzz among digital libraries, authors, and readers, with platforms like Project Gutenberg and Standard eBooks preparing free eBook releases. Discussions emphasized how these additions will enrich free digital collections, allowing unrestricted sharing, adaptation, and remixing of classics. Here's a breakdown of the Major Works Entering the Public Domain:
+Last year, in November 2024, the primary focus in public domain eBooks news was centered on the impending Public Domain Day on January 1, 2025, when thousands of works from 1929 (plus 1924 sound recordings) entered into the U.S. public domain. This event has always generated significant buzz among digital libraries, authors, and readers, with platforms like Project Gutenberg and Standard eBooks preparing free eBook releases. Discussions emphasized how these additions will enrich free digital collections, allowing unrestricted sharing, adaptation, and remixing of classics. Here's a breakdown of the Major Works Entering the Public Domain 11 months ago:
 
-These titles, now free for eBooks distribution and adaptation, include literary heavyweights from the late 1920s. Highlights featured in November:
+These titles, now free for eBooks distribution and adaptation, include literary heavyweights from the late 1920s. Highlights featured last November:
 
-* Ernest Hemingway’s, A Farewell to Arms, Iconic war novel; expected to see new eBooks editions and adaptations.
-* Virginia Woolf’s, A Room of One's Own. Feminist essay; poised for fresh digital annotations and audiobooks.
-* William Faulkner’s, The Sound and the Fury. Modernist masterpiece; highlights the "Roaring '20s" cultural wave entering free access.
-* Agatha Christie’s The Seven Dials Mystery. Early detective story; boosts mystery genre.
-* Dashiell Hammett’s, The Maltese Falcon. Hardboiled noir classic; anticipated for graphic novel and eBook remixes.
+<dl class="newsletter-releases">
+<dt>Ernest Hemingway’s, A Farewell to Arms</dt>
+<dd>Iconic war novel; expected to see new eBooks editions and adaptations.</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/75201" target="_blank">https://www.gutenberg.org/ebooks/75201</a></dd>
 
-Other notables include All Quiet on the Western Front by Erich Maria Remarque and early Tintin comics by Hergé. Sound recordings like George Gershwin's Rhapsody in Blue
+<dt>Virginia Woolf’s, A Room of One's Own</dt>
+<dd>Feminist essay; poised for fresh digital annotations and audiobooks.</dd>
+<dd><a href="https://gutenberg.net.au/ebooks02/0200791h.html" target="_blank">https://gutenberg.net.au/ebooks02/0200791h.html</a></dd>
+<dd>— From Project Gutenberg Australia!</dd>
+
+<dt>William Faulkner’s, The Sound and the Fury</dt>
+<dd>Modernist masterpiece; highlights the "Roaring '20s" cultural wave entering free access.</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/75170" target="_blank">https://www.gutenberg.org/ebooks/75170</a></dd>
+
+<dt>Agatha Christie’s The Seven Dials Mystery</dt>
+<dd>Early detective story; boosts mystery genre.</dd>
+<dd><a href="https://www.gutenberg.org/ebooks/75288" target="_blank">https://www.gutenberg.org/ebooks/75288</a></dd>
+
+<dt>Dashiell Hammett’s, The Maltese Falcon (serialized version)</dt>
+<dd>Hardboiled noir classic; anticipated for graphic novel and eBook remixes.</dd>
+<dd><a href="https://gutenberg.ca/ebooks/hammettd-maltesefalcon/hammettd-maltesefalcon-00-h.html" target="_blank">https://gutenberg.ca/ebooks/hammettd-maltesefalcon/hammettd-maltesefalcon-00-h.html</a></dd>
+<dd>— From Project Gutenberg Canada!</dd>
+</dl>
+
+Other notables include All Quiet on the Western Front by Erich Maria Remarque and early Tintin comics by Hergé. Also sound recordings like George Gershwin's Rhapsody in Blue.
+
+Next month, we will have a list of works newly available in 2026.
 
 
 ## Top 10 eBooks downloaded for the month of November
