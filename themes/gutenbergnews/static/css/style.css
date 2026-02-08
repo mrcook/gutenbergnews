@@ -52,6 +52,12 @@ header nav ul li {
   display: inline;
   margin: 0 0.25rem;
 }
+blockquote {
+  margin-left: 1.5rem;
+}
+blockquote p {
+  margin: 0 auto;
+}
 
 .content section.post {
   padding-bottom: 1rem;
