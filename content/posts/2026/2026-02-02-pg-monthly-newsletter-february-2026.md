@@ -22,13 +22,9 @@ author: "Project Gutenberg"
 
 ## Mourning -> Celebrating
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#mourning---celebrating)
-
 Greg Newby left us in October; we've had a _mourning box_ on our homepage since. Greg's birthday was February 9th, so it seemed like an appropriate moment to turn from mourning his passing to _celebrating his accomplishments_, while working to continue them. So, Happy Birthday Greg, we miss you! There are birthday cakes on our homepage now.
 
 ## Tributes and Notes from our Community
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#tributes-and-notes-from-our-community)
 
 _[Biography on our website](https://gutenberg.org/about/newby.html)_
 
@@ -50,8 +46,6 @@ _From John Guagliardo, Project Gutenberg Board Member_
 
 ### Notes sent with donations
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#notes-sent-with-donations)
-
 * This donation is in loving memory of Greg Newby. I'm so grateful to have worked with Greg. Greg is truly inspirational, a wonderful role model, and a kind person. Sending my heartfelt condolences to Ilana and all of Greg's family and friends.
 * In memory of Greg Newby, a wonderful colleague.
 * In memory of Dr. Greg Newby. Thanks for the fries with mustard & introducing me to the world of public domain books.
@@ -70,8 +64,6 @@ _(about 30 other messages were variants of "In memory of Greg.")_
 
 ### Newsletter Responses
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#newsletter-responses)
-
 * That is pretty rough. I wish him the best, although I have no idea what "prayers" are or would do.
 * Much thanks to Greg and what he has done for PG.
 * This is a project that has quietly influenced my career and life as well as the lives and technology and careers of many others.
@@ -81,14 +73,10 @@ _(about 30 other messages were variants of "In memory of Greg.")_
 
 ### From readers of the Globe and Mail obituary
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#from-readers-of-the-globe-and-mail-obituary)
-
 * Thank you for this obituary of Mr. Newby. I've used the Project Gutenberg website many times. It's the important result of a noble ambition. - Faustus
 * What a legacy of accomplishment Greg Newby leaves us. Project Gutenberg is an amazing contribution to humanity. - T. Stewart2
 
 ### Comments via Hacker News
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#comments-via-hacker-news)
 
 * I'm shocked and saddened to hear this. Greg was a deep source of knowledge and support as I started and shepherded Standard Ebooks. He was generous with his time and experience, and unbelievably patient with me, some guy he had never heard of or met before who was just another cold-email in what must have been an endless stream in his inbox. We should all aspire to his high spirit of camaraderie, charity, and kindness. The world has lost a champion of both literature and the free web. - acabal
 * RIP. Project Gutenberg and IMSLP are two of my favourite websites. Every January, when new works enter the public domain, I go and download a bunch of books and sheet music. HN readers, let's not forget to donate to these websites that keep the Internet worth surfing. - Mastazi
@@ -108,8 +96,6 @@ _(about 30 other messages were variants of "In memory of Greg.")_
 * RIP. Thanks for making this world a tiny bit better - gyc
 
 ### Via various social media platforms
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#via-various-social-media-platforms)
 
 * Greg was always incredibly kind and supportive of everyone and made HOPE so welcoming. Absolutely a real one. What a loss. - alreadyburnt
 * Greg was always kind at HOPE and, when not running around like mad (because being staff at a con is like that) was always both pleasant and fun to talk to. I always made sure to thank him at the end of every HOPE I went to. - virtualadept
@@ -136,13 +122,9 @@ _(about 30 other messages were variants of "In memory of Greg.")_
 
 ### From Eric (PG's Executive Director)
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#from-eric-pgs-executive-director)
-
 > I thought about Greg this morning. I ran a 5K race called the "Penguin Pace". I came in 7th (of 12) in my age group. It was 8°F at the start. In my running club there are people who have run umpteen marathons (I've run one) and folks who do triathlons and ultramarathons. One friend recently did a 100-miler. I used to brag to them that I knew a guy who ran ARCTIC ULTRAS!!! That was Greg. Arctic ultramarathons are multi-day races where you have to pull your gear on a sled behind you so that you can stop and rest without freezing to death. After Greg had to quit halfway one time due to frostbite, he tried the next year and finished! Compared to that, my race was a balmy walk in the park. Thank you Greg, for pulling Project Gutenberg for so long and doing it so well.
 
 ## A new feature: `ARK` linking
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#a-new-feature-ark-linking)
 
 [Archival Resource Keys](https://arks.org/) (ARKs) serve as persistent identifiers, or stable, trusted references for information objects. Among other things, they aim to be web addresses (URLs) that don’t return 404 Page Not Found errors.
 
@@ -155,8 +137,6 @@ Greg Newby decided that Project Gutenberg should support ARKs, because of the po
 Project Gutenberg has a long history of innovation and support for free and open systems that help to preserve its content, and ARK implementation is a continuation of that tradition.
 
 ## Our Finances and New Address
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#our-finances-and-new-address)
 
 This past week, we sent emails or letters to about 200 donors of $100 or more, which can be used for tax purposes. If you don't receive yours within a week and need a letter, please email [donate@gutenberg.org](mailto:donate@gutenberg.org).
 
@@ -173,8 +153,6 @@ If you want to send us paper mail, the address is:
 > Montclair NJ 07042
 
 ## New Releases at Gutenberg.org — January 2026
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#new-releases-at-gutenbergorg--january-2026)
 
 In the last month PGLAF added another  [233 new public domain eBooks](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/202601.html) to the PG catalog. Of the new books, 146 were added by PGDP. Thank you to all the volunteers who have helped to make these new titles freely available to the world.
 
@@ -503,15 +481,11 @@ January 31
 
 ## Links
 
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#links)
-
 * Support Project Gutenberg: [https://www.gutenberg.org/donate/](https://www.gutenberg.org/donate/)
 * Distributed Proofreaders: [https://pgdp.net](https://pgdp.net/)
 * Project Gutenberg Self Publishing Portal: [https://self.gutenberg.org](https://self.gutenberg.org/)
 
 ### Social Media Feeds
-
-[](https://github.com/gutenbergtools/gutenbergsite/blob/dev/site/newsletter/index.md#social-media-feeds)
 
 * Facebook: [https://facebook.com/project.gutenberg](https://facebook.com/project.gutenberg)
   - New eBooks: [https://facebook.com/gutenberg.new](https://facebook.com/gutenberg.new)
